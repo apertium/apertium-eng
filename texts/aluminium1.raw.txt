@@ -1,0 +1,21 @@
+Aluminium alloys with a wide range of properties are used in engineering structures . 
+One important structural limitation of aluminium alloys is their fatigue strength . 
+Unlike steels , aluminium alloys have no well-defined fatigue limit , meaning that fatigue failure will eventually occur under even very small cyclic loadings . 
+This implies that engineers must assess these loads and design for a fixed life rather than an infinite life . 
+Workshop procedures involving heating are complicated by the fact that aluminium , unlike steel , will melt without first glowing red . 
+Forming operations where a blow torch is used therefore requires some expertise , since no visual signs reveal how close the material is to melting . 
+Aluminium alloys , like all structural alloys , also are subject to internal stresses following heating operations such as welding and casting . 
+The problem with aluminium alloys in this regard is their low melting point , which make them more susceptible to distortions from thermally induced stress relief . 
+Controlled stress relief can be done during manufacturing by heat-treating the parts in an oven , followed by gradual cooling — in effect annealing the stresses . 
+Compared to copper , aluminium has about 65% of the electrical conductivity by volume , although 200% by weight . 
+Traditionally copper is used as household wiring material . 
+In the 1960s aluminium was considerably cheaper than copper , and so was introduced for household electrical wiring in the United States , even though many fixtures had not been designed to accept aluminium wire . 
+In some cases the greater coefficient of thermal expansion of aluminium causes the wire to expand and contract relative to the dissimilar metal screw connection , eventually loosening the connection . 
+Also , pure aluminium has a tendency to creep under steady sustained pressure ( to a greater degree as the temperature rises ) , again loosening the connection . 
+Finally , Galvanic corrosion from the dissimilar metals increased the electrical resistance of the connection . 
+All of this resulted in overheated and loose connections , and this in turn resulted in fires . 
+Builders then became wary of using the wire , and many jurisdictions outlawed its use in very small sizes in new construction .
+Eventually , newer fixtures were introduced with connections designed to avoid loosening and overheating . 
+The first generation fixtures were marked " Al/Cu " and were ultimately found suitable only for copper-clad aluminium wire , but the second generation fixtures , which bear a " CO/LR " coding , are rated for unclad aluminium wire . 
+To adapt older assemblies , workers forestall the heating problem using a properly-done crimp of the aluminium wire to a short " pigtail " of copper wire . 
+Today , new alloys , designs , and methods are used for aluminium wiring in combination with aluminium termination . 
