@@ -1,0 +1,5 @@
+* text=auto !eol
+texts/algeria1.raw.txt -text
+texts/algeria1.tagged.txt -text
+texts/anarchism1.raw.txt -text
+texts/anarchism1.tagged.txt -text
