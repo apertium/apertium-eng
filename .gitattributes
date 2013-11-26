@@ -1,4 +1,5 @@
 * text=auto !eol
+texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.raw.txt -text
 texts/afghanistan1.tagged.txt -text
 texts/alfred1.raw.txt -text
