@@ -8,11 +8,11 @@
 ^eldest/*eldest$
 ^brothers/brother<n><pl>$
 ^,/,<cm>$
-^Æthelbald/*Æthelbald$
+^Ã†thelbald/*Ã†thelbald$
 ^of/of<pr>$
 ^Wessex/*Wessex$
 ^and/and<cnjcoo>$
-^Æthelbert/*Æthelbert$
+^Ã†thelbert/*Ã†thelbert$
 ^of/of<pr>$
 ^Wessex/*Wessex$
 ^,/,<cm>$
@@ -36,7 +36,7 @@
 ^third/third<det><ord><sp>$
 ^brother/brother<n><sg>$
 ^,/,<cm>$
-^Æthelred/*Æthelred$
+^Ã†thelred/*Ã†thelred$
 ^of/of<pr>$
 ^Wessex/*Wessex$
 ^,/,<cm>$
@@ -115,7 +115,7 @@
 ^disputed/disputed<adj>$
 ^succession/succession<n><sg>$
 ^should/should<vaux><inf>$
-^Æthelred/*Æthelred$
+^Ã†thelred/*Ã†thelred$
 ^fall/fall<vblex><inf>$
 ^in/in<pr>$
 ^battle/battle<n><sg>$
