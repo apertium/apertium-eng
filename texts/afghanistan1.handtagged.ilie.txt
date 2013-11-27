@@ -177,7 +177,7 @@
 ^for/for<pr>$
 ^a/a<det><ind><sg>$
 ^new/new<adj><sint>$
-^parliament/parliament<n><sg>
+^parliament/parliament<n><sg>$
 ^building/building<n><sg>$
 ^began/begin<vblex><past>$
 ^on/on<pr>$
