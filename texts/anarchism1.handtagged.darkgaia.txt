@@ -4,7 +4,7 @@
 ^the/the<det><def><sp>$
 ^Bolsheviks/*Bolsheviks$
 ^in/in<pr>$
-^both/both<det><ind><pl>$
+^both/both<cnjcoo>$
 ^February/February<n><sg>$
 ^and/and<cnjcoo>$
 ^October/October<n><sg>$
@@ -51,16 +51,16 @@
 ^imprisoned/imprison<vblex><pp>$
 ^,/,<cm>$
 ^driven/drive<vblex><pp>$
-^underground/underground<n><sg>$
+^underground/underground<adv>$
 ^or/or<cnjcoo>$
-^joined/join<vblex><past>$
+^joined/join<vblex><pp>$
 ^the/the<det><def><sp>$
 ^victorious/victorious<adj>$
 ^Bolsheviks/*Bolsheviks$
 ^./.<sent>$
 ^In/In<pr>$
 ^the/the<det><def><sp>$
-^Ukraine/Ukraine<np><loc><sg>$
+^Ukraine/Ukraine<np><top><sg>$
 ^,/,<cm>$
 ^anarchists/anarchist<n><pl>$
 ^fought/fight<vblex><past>$
@@ -71,7 +71,7 @@
 ^against/against<pr>$
 ^Whites/White<n><pl>$
 ^and/and<cnjcoo>$
-^then/then<adv>$
+^then/then<cnjadv>$
 ^the/the<det><def><sp>$
 ^Bolsheviks/*Bolsheviks$
 ^as/as<pr>$
@@ -115,10 +115,10 @@
 ^Revolution/Revolution<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^resulting/resulting<adj>$
-^Russian/russian<adj>$
+^resulting/result<vblex><pprs>$
+^Russian/Russian<adj>$
 ^Civil/Civil<adj>$
-^War/War<adj>/War<n><sg>$
+^War/War<n><sg>$
 ^did/do<vblex><past>$
 ^serious/serious<adj>$
 ^damage/damage<n><sg>$
@@ -135,7 +135,7 @@
 ^Bolshevik/*Bolshevik$
 ^success/success<n><sg>$
 ^as/as<cnjadv>$
-^setting/set<vblex><pprs>$
+^setting/set<vblex><ger>$
 ^an/a<det><ind><sg>$
 ^example/example<n><sg>$
 ^;/;<sent>$
@@ -151,12 +151,12 @@
 ^./.<sent>$
 
 ^In/In<pr>$
-^France/France<np><loc><sg>$
+^France/France<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^US/US<np><loc><sg>$
 ^,/,<cm>$
-^for example/for example<adv>$
+^for example/for example<adv>$ 
 ^,/,<cm>$
 ^certain/certain<adj>$
 ^members/member<n><pl>$
@@ -180,7 +180,7 @@
 ^International/International<adj>$
 ^./.<sent>$
 ^In/In<pr>$
-^Spain/Spain<np><loc><sg>$
+^Spain/Spain<np><top><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^CNT/*CNT$
@@ -213,13 +213,13 @@
 ^the/the<det><def><sp>$
 ^CNT/*CNT$
 ^changed/change<vblex><past>$
-^its/its<det><pos><sp>$
+^its/its<prn><pos><mf><sp>$
 ^policy/policy<n><sg>$
 ^and/and<cnjcoo>$
 ^anarchist/anarchist<adj>$
 ^votes/vote<n><pl>$
 ^helped/help<vblex><past>$
-^bring/bring<vblex><inf>$
+^bring/bring<vblex><pres>$
 ^the/the<det><def><sp>$
 ^popular front/popular front<n><sg>$
 ^back/back<adv>$
@@ -231,7 +231,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^former/former<adj>$
-^ruling/rule<vblex><pprs>$
+^ruling/ruling<adj>$
 ^class/class<n><sg>$
 ^responded/respond<vblex><past>$
 ^with/with<pr>$
@@ -245,7 +245,7 @@
 ^War/War<n><sg>$
 ^(/(<lpar>$
 ^1936/1936<num>$
-^–/–<guio>$
+^â€“/â€“<guio>$
 ^1939/1939<num>$
 ^)/)<rpar>$
 ^./.<sent>$
@@ -257,9 +257,9 @@
 ^rebellion/rebellion<n><sg>$
 ^,/,<cm>$
 ^an/a<det><ind><sg>$
-^anarchist/anarchist<adj>$
+^anarchist/anarchist<n><sg>$
 ^-/-<guio>$
-^inspired/inspired<vblex><pp>$
+^inspired/inspire<vblex><pp>$
 ^movement/movement<n><sg>$
 ^of/of<pr>$
 ^peasants/peasant<n><pl>$
@@ -281,7 +281,7 @@
 ^areas/area<n><pl>$
 ^of/of<pr>$
 ^rural/rural<adj>$
-^Spain/Spain<np><loc><sg>$
+^Spain/Spain<np><top><sg>$
 ^where/where<rel><adv>$
 ^they/prpers<prn><subj><p3><mf><pl>$
 ^collectivised/*collectivised$
@@ -342,7 +342,7 @@
 ^collectives/*collectives$
 ^and/and<cnjcoo>$
 ^persecuted/persecute<vblex><past>$
-^both/both<det><ind><pl>$
+^both/both<cnjcoo>$
 ^dissident/dissident<adj>$
 ^Marxists/Marxist<n><pl>$
 ^and/and<cnjcoo>$
@@ -350,7 +350,7 @@
 ^./.<sent>$
 ^Phenomena/*Phenomena$
 ^such/such<det><ind><sp>$
-^as/as<pr>$
+^as/as<cnjsub>$
 ^civilisation/civilisation<n><sg>$
 ^,/,<cm>$
 ^technology/technology<n><sg>$
