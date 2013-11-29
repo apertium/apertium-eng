@@ -2,6 +2,7 @@
 texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.raw.txt -text
 texts/afghanistan1.tagged.txt -text
+texts/albedo1.raw.txt -text
 texts/alfred1.handtagged.darkgaia.txt -text
 texts/alfred1.handtagged.yongloong.txt -text
 texts/alfred1.raw.txt -text
@@ -20,6 +21,10 @@ texts/anarchism1.handtagged.ilie.txt -text
 texts/anarchism1.raw.txt -text
 texts/anarchism1.tagged.txt -text
 texts/anarchism1.tagged.txt.1 -text
+texts/animism1.raw.txt -text
+texts/atoms1.raw.txt -text
+texts/belize1.raw.txt -text
+texts/belize2.raw.txt -text
 texts/colombia1.handtagged.quicksilver.txt -text
 texts/colombia1.raw.txt -text
 texts/colombia1.tagged.txt -text
@@ -31,6 +36,7 @@ texts/partisans1.handtagged.quicksilver.txt -text
 texts/partisans1.raw.txt -text
 texts/partisans1.tagged.txt -text
 texts/pirates.handtagged.porsi98.txt -text
+texts/pirates.raw.txt -text
 texts/sahara1.raw.txt -text
 texts/sahara1.tagged.txt -text
 texts/sunday1.raw.txt -text

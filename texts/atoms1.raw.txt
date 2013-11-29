@@ -1,0 +1,14 @@
+In chemistry and physics , atomic theory is a theory of the nature of matter , which states that matter is composed of discrete units called atoms , as opposed to the obsolete notion that matter could be divided into any arbitrarily small quantity . 
+It began as a philosophical concept in ancient Greece and India and entered the scientific mainstream in the early 19th century when discoveries in the field of chemistry showed that matter did indeed behave as if it were made up of particles . 
+The planetary model of the atom had two significant shortcomings . 
+The first is that , unlike planets orbiting a sun , electrons are charged particles . 
+An accelerating electric charge is known to emit electromagnetic waves according to the Larmor formula in classical electromagnetism ; an orbiting charge should steadily lose energy and spiral towards the nucleus , colliding with it in a small fraction of a second . 
+The second problem was that the planetary model could not explain the highly peaked emission and absorption spectra of atoms that were observed . 
+Bohr 's model was not perfect . 
+It could only predict the spectral lines of hydrogen ; it couldn't predict those of multielectron atoms . 
+Worse still , as spectrographic technology improved , additional spectral lines in hydrogen were observed which Bohr 's model couldn't explain . 
+In 1916 , Arnold Sommerfeld added elliptical orbits to the Bohr model to explain the extra emission lines , but this made the model very difficult to use , and it still couldn't explain more complex atoms . 
+A consequence of describing electrons as waveforms is that it is mathematically impossible to simultaneously derive the position and momentum of an electron ; this became known as the uncertainty principle . 
+This invalidated Bohr 's model , with its neat , clearly defined circular orbits . 
+The modern model of the atom describes the positions of electrons in an atom in terms of probabilities . 
+An electron can potentially be found at any distance from the nucleus , but , depending on its energy level , tends to exist more frequently in certain regions around the nucleus than others ; this pattern is referred to as its atomic orbital . 
