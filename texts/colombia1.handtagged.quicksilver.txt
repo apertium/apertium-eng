@@ -164,7 +164,7 @@
 ^which/which<rel><an><mf><sp>$
 ^subsequently/subsequently<adv>$
 ^ignited/ignite<vblex><past>$
-^after/after<pr>
+^after/after<pr>$
 ^the/the<det><def><sp>$
 ^assassination/*assassination$
 ^of/of<pr>$
@@ -543,7 +543,7 @@
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^conflict/conflict<n><sg>$
-^since/since<adv>/since<pr>$
+^since/since<pr>$
 ^its/its<det><pos><sp>$
 ^beginnings/beginning<n><pl>$
 ^,/,<cm>$
