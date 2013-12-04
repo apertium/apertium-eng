@@ -7,7 +7,7 @@
 ^in/in<pr>$ 
 ^1969/1969<num>$ 
 ^,/,<cm>$ 
-^ended/end<vblex><past>$
+^ended/end<vblex><past>$ 
 ^abruptly/abruptly<adv>$ 
 ^in/in<pr>$ 
 ^1972/1972<num>$ 
@@ -16,7 +16,7 @@
 ^announced/announce<vblex><past>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
-^sending/send<vblex><ger>$
+^sending/send<vblex><ger>$ 
 ^an/a<det><ind><sg>$ 
 ^aircraft carrier/aircraft carrier<n><sg>$ 
 ^and/and<cnjcoo>$ 
@@ -93,12 +93,12 @@
 ^,/,<cm>$ 
 ^largely/largely<adv>$ 
 ^as a result of/as a result of<pr>$ 
-^many/many<det><qnt><pl>$
+^many/many<det><qnt><pl>$ 
 ^Guatemalan/guatemalan<adj>$ 
 ^soldiers/soldier<n><pl>$ 
-^deserting/desert<vblex><ger>$ 
+^deserting/desert<vblex><subs>$ 
 ^and/and<cnjcoo>$ 
-^returning/return<vblex><ger>$ 
+^returning/return<vblex><subs>$ 
 ^to/to<pr>$ 
 ^their/their<det><pos><sp>$ 
 ^homes/home<n><pl>$
@@ -113,7 +113,7 @@
 ^,/,<cm>$ 
 ^frustrated/frustrate<vblex><pp>$ 
 ^at/at<pr>$ 
-^dealing with/deal<vblex><subs># with$
+^dealing with/deal<vblex><subs># with$ 
 ^the/the<det><def><sp>$ 
 ^military/military<adj>$
 ^-/-<guio>$
@@ -129,7 +129,7 @@
 ^strategy/strategy<n><sg>$ 
 ^that/that<rel><an><mf><sp>$ 
 ^would/would<vaux><inf>$ 
-^take/take<vblex><inf>$ 
+^take/take<vblex><pres>$ 
 ^the/the<det><def><sp>$ 
 ^case/case<n><sg>$ 
 ^for/for<pr>$ 
@@ -150,7 +150,7 @@
 ^international/international<adj>$ 
 ^support/support<n><sg>$ 
 ^,/,<cm>$ 
-^it/prpers<prn><subj><p3><nt><sg>$
+^it/prpers<prn><subj><p3><nt><sg>$ 
 ^could/can<vaux><past>$ 
 ^strengthen/strengthen<vblex><inf>$ 
 ^its/its<det><pos><sp>$ 
@@ -163,7 +163,7 @@
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
 ^make/make<vblex><inf>$ 
-^it/prpers<prn><obj><p3><nt><sg>$ 
+^it/prpers<prn><obj><p3><nt><sg>$
 ^harder/hard<adj><sint><comp>$ 
 ^for/for<pr>$ 
 ^Britain/Britain<np><top><sg>$ 
@@ -172,6 +172,7 @@
 ^any/any<det><ind><sp>$ 
 ^concessions/concession<n><pl>$ 
 ^./.<sent>$
+ 
 
 ^Belize/Belize<np><top><sg>$ 
 ^argued/argue<vblex><past>$ 
@@ -324,7 +325,6 @@
 ^integrity/integrity<n><sg>$ 
 ^./.<sent>$
 
-
 ^The/The<det><def><sp>$ 
 ^outgoing/*outgoing$ 
 ^Mexican/mexican<adj>$ 
@@ -361,7 +361,7 @@
 ^1977/1977<num>$ 
 ^,/,<cm>$ 
 ^Guatemala/Guatemala<np><top><sg>$ 
-^made/make<vblex><past>$ 
+^made/make<vblex><past>$
 ^further/further<adv>$ 
 ^moves/move<n><pl>$ 
 ^against/against<pr>$ 
@@ -371,15 +371,15 @@
 ^was/be<vbser><past><p3><sg>$ 
 ^deterred/deter<vblex><pp>$ 
 ^from/from<pr>$ 
-^invading/invade<vblex><subs>$ 
+^invading/invade<vblex><subs>$
 ^,/,<cm>$ 
 ^especially/especially<adv>$ 
-^since/since<pr>$ 
+^since/since<adv>$ 
 ^British/british<adj>$ 
 ^fighter jets/fighter jet<n><pl>$ 
 ^had/have<vbhaver><past>$ 
 ^by/by<pr>$ 
-^then/then<adv>$ 
+^then/then<adv>$
 ^been/be<vbser><pp>$ 
 ^permanently/permanently<adv>$ 
 ^stationed/*stationed$ 
@@ -458,7 +458,7 @@
 ^some/some<det><qnt><sp>$ 
 ^hope/hope<n><sg>$ 
 ^that/that<cnjsub>$ 
-^it/prpers<prn><obj><p3><nt><sg>$ 
+^it/prpers<prn><obj><p3><nt><sg>$
 ^would/would<vaux><inf>$ 
 ^retain/retain<vblex><inf>$ 
 ^United States/United States<np><top><pl>$ 
@@ -489,7 +489,7 @@
 ^Belize/Belize<np><top><sg>$ 
 ^,/,<cm>$ 
 ^with/with<pr>$ 
-^all/all<predet><sp>$ 
+^all/all<prn><tn><mf><sp>$
 ^its/its<det><pos><sp>$ 
 ^territory/territory<n><sg>$ 
 ^intact/intact<adj>$ 
@@ -504,8 +504,6 @@
 ^in/in<pr>$ 
 ^1981/1981<num>$ 
 ^./.<sent>$
-
-
 
 ^The/The<det><def><sp>$ 
 ^UN/UN<n><acr><sg>$ 
@@ -525,7 +523,7 @@
 ^It/Prpers<prn><subj><p3><nt><sg>$ 
 ^also/also<adv>$ 
 ^called/call<vblex><past>$ 
-^on/on<pr>$ 
+^on/on<adv>$
 ^all/all<predet><sp>$ 
 ^member/member<n><sg>$ 
 ^countries/country<n><pl>$ 
@@ -559,7 +557,7 @@
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
 ^talks/talk<n><pl>$ 
-^made/make<vblex><past>$ 
+^made/make<vblex><past>$
 ^no/no<det><ind><sp>$ 
 ^concessions/concession<n><pl>$ 
 ^,/,<cm>$ 
@@ -567,7 +565,7 @@
 ^a/a<det><ind><sg>$ 
 ^proposal/proposal<n><sg>$ 
 ^,/,<cm>$ 
-^called/call<vblex><pp>$ 
+^called/call<vblex><pp>$
 ^the/the<det><def><sp>$ 
 ^Heads/Head<n><pl>$ 
 ^of/of<pr>$ 
@@ -656,7 +654,7 @@
 ^of/of<pr>$ 
 ^emergency/emergency<n><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
-^declared/declare<vblex><pp>$ 
+^declared/declare<vblex><pp>$
 ^./.<sent>$
 
 ^However/However<adv>$ 
@@ -720,11 +718,11 @@
 ^)/)<rpar>$ 
 ^to/to<pr>$ 
 ^protect/protect<vblex><inf>$ 
-^it/prpers<prn><obj><p3><nt><sg>$ 
+^it/prpers<prn><obj><p3><nt><sg>$
 ^from/from<pr>$ 
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^,/,<cm>$ 
-^consisting of/consist<vblex><ger># of$ 
+^consisting of/consist<vblex><pprs># of$ 
 ^an/a<det><ind><sg>$ 
 ^army/army<n><sg>$ 
 ^battalion/*battalion$ 
@@ -778,7 +776,7 @@
 ^to/to<pr>$ 
 ^invade/invade<vblex><inf>$ 
 ^,/,<cm>$ 
-^but/but<cnjcoo>\$ 
+^but/but<cnjcoo>$
 ^these/this<det><dem><pl>$ 
 ^fears/fear<n><pl>$ 
 ^never/never<adv>$ 
@@ -790,7 +788,7 @@
 ^,/,<cm>$ 
 ^three/three<num><sp>$ 
 ^years/year<n><pl>$ 
-^after/after<cnjadv>$ 
+^after/after<cnjadv>$
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^recognised/recognise<vblex><past>$ 
 ^Belizean/*Belizean$ 
@@ -813,7 +811,7 @@
 ^British/British<n><pl>$ 
 ^maintained/maintain<vblex><past>$ 
 ^a/a<det><ind><sg>$ 
-^training/train<vblex><subs>$ 
+^training/training<n><sg>$ 
 ^presence/presence<n><sg>$ 
 ^via/via<pr>$ 
 ^the/the<det><def><sp>$ 
@@ -829,7 +827,7 @@
 ^Flight/Flight<n><sg>$ 
 ^Army/Army<n><sg>$ 
 ^Air/Air<n><sg>$ 
-^Corps/Corps<n><pl>$ 
+^Corps/Corps<n><sg>$
 ^until/until<pr>$ 
 ^2011/2011<num>$ 
 ^,/,<cm>$ 
@@ -846,5 +844,4 @@
 ^left/leave<vblex><past>$ 
 ^Belize/Belize<np><top><sg>$ 
 ^./.<sent>$
-
 
