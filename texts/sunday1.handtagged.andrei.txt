@@ -4,7 +4,7 @@
 ^1960s/1960s<num>$
 ^,/,<cm>$ 
 ^discrimination/discrimination<n><sg>$ 
-^against/against<adv>$ 
+^against/against<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Catholic/catholic<adj>$ 
 ^minority/minority<n><sg>$ 
@@ -12,7 +12,7 @@
 ^electoral/electoral<adj>$ 
 ^boundaries/boundary<n><pl>$ 
 ^,/,<cm>$ 
-^voting/vote<vblex><subs>$ 
+^voting/vote<vblex><pprs>$ 
 ^rights/right<n><pl>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
@@ -90,7 +90,7 @@
 ^to/to<pr>$ 
 ^nationalists/nationalist<n><pl>$ 
 ^,/,<cm>$ 
-^all/all<det><qnt><pl>$
+^all/all<predet><sp>$
 ^marches/march<n><pl>$ 
 ^and/and<cnjcoo>$ 
 ^parades/parade<n><pl>$ 
@@ -257,7 +257,7 @@
 ^Provisional/Provisional<adj>$ 
 ^IRA/*IRA$ 
 ^had/have<vbhaver><past>$
-^established/establish<vblex><past>$ 
+^established/establish<vblex><pp>$ 
 " 
 ^no/no<adv>$
 ^-/-<guio>$
@@ -328,7 +328,7 @@
 ^media/media<n><sg>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
-^daily/daily<adv>$ 
+^daily/daily<adj>$ 
 ^clashes/clash<n><pl>$ 
 ^took place/take<vblex><past># place$ 
 ^between/between<pr>$ 
@@ -422,7 +422,7 @@
 ^the/the<det><def><sp>$ 
 ^city/city<n><sg>$ 
 ^,/,<cm>$ 
-^but/but<cnjcoo>/but<pr>$ 
+^but/but<cnjcoo>$
 ^to/to<pr>$ 
 ^stop/stop<vblex><inf>$ 
 ^it/prpers<prn><obj><p3><nt><sg>$ 
@@ -492,7 +492,7 @@
 ^1972/1972<num>$ 
 ^and/and<cnjcoo>$ 
 ^took/take<vblex><past>$ 
-^up/up<pr>$ 
+^up/up<adv>$ 
 ^positions/position<n><pl>$ 
 ^in/in<pr>$ 
 ^the/the<det><def><sp>$ 
