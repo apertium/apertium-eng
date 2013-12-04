@@ -30,8 +30,8 @@
 ^Western/Western<adj>$ 
 ^Sahara/Sahara<np><top><sg>$ 
 ^and/and<cnjcoo>$ 
-^established/establish<vblex><past>$ 
-^it/prpers<prn><obj><p3><nt><sg>$ 
+^established/establish<vblex><past>$
+^it/prpers<prn><obj><p3><nt><sg>$
 ^as a/as a<pr>$ 
 ^Spanish/spanish<adj>$ 
 ^colony/colony<n><sg>$ 
@@ -45,7 +45,7 @@
 ^of/of<pr>$ 
 ^World War II/World War II<np><al><sg>$ 
 ^,/,<cm>$ 
-^this/this<det><dem><sg>$ 
+^this/this<det><dem><sg>$
 ^area/area<n><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
 ^administered/administer<vblex><pp>$ 
@@ -83,7 +83,7 @@
 ^select/select<vblex><inf>$ 
 ^governors/governor<n><pl>$ 
 ^in/in<pr>$ 
-^that/that<det><dem><sg>$ 
+^that/that<det><dem><sg>$
 ^area/area<n><sg>$ 
 ^./.<sent>$
 
@@ -127,7 +127,7 @@
 ^selected/select<vblex><past>$ 
 ^from/from<pr>$ 
 ^this/this<det><dem><sg>$ 
-^list/list<n><sg>$ 
+^list/list<n><sg>$
 ^./.<sent>$
 
 ^During/During<pr>$ 
@@ -156,8 +156,7 @@
 ^monarchy/monarchy<n><sg>$ 
 ^./.<sent>$
 
-
-^As/As<cnjadv>$  
+^As/As<cnjadv>$ 
 ^time/time<n><sg>$ 
 ^went by/go<vblex><past># by$ 
 ^,/,<cm>$ 
@@ -605,7 +604,6 @@
 ^cemeteries/cemetery<n><pl>$ 
 ^./.<sent>$
 
-
 ^The/The<det><def><sp>$ 
 ^Moroccan/moroccan<adj>$ 
 ^and/and<cnjcoo>$ 
@@ -1029,7 +1027,7 @@
 ^of/of<pr>$ 
 ^them/prpers<prn><obj><p3><mf><pl>$ 
 ^originally/originally<adv>$ 
-^based/base<vblex><past>$ 
+^based/base<vblex><pp>$ 
 ^on/on<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Spanish/spanish<adj>$ 
@@ -1040,7 +1038,7 @@
 ^,/,<cm>$ 
 ^but/but<cnjcoo>$ 
 ^Morocco/Morocco<np><top><sg>$ 
-^refused/refuse<vblex><pp>$ 
+^refused/refuse<vblex><past>$ 
 ^and/and<cnjcoo>$ 
 ^,/,<cm>$ 
 ^as/as<cnjadv>$ 
@@ -1099,7 +1097,7 @@
 ^voters/voter<n><pl>$ 
 ^does/do<vbdo><pri><p3><sg>$ 
 ^not/not<adv>$ 
-^rise/rise<vblex><pres>$ 
+^rise/rise<vblex><inf>$ 
 ^significantly/significantly<adv>$ 
 ^the/the<det><def><sp>$ 
 ^odds/*odds$ 
@@ -1171,7 +1169,7 @@
 ^./.<sent>$
 
 ^Erik/Erik<np><ant><m><sg>$ 
-^Jensen/Jensen<np><ant><m><sg>$ 
+^Jensen/Jensen<np><cog><mf><sg>$ 
 ^,/,<cm>$ 
 ^who/who<rel><an><mf><sp>$ 
 ^played/play<vblex><past>$ 
@@ -1186,7 +1184,7 @@
 ^neither/neither<adv>$ 
 ^side/side<n><sg>$ 
 ^would/would<vaux><inf>$ 
-^agree to/agree<vblex><pres># to$ 
+^agree to/agree<vblex><inf># to$ 
 ^a/a<det><ind><sg>$ 
 ^voter/voter<n><sg>$ 
 ^registration/registration<n><sg>$ 
