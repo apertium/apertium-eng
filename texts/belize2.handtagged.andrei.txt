@@ -1,5 +1,5 @@
 ^A/A<det><ind><sg>$ 
-^series/series<n><pl>$ 
+^series/series<n><sg>$ 
 ^of/of<pr>$ 
 ^meetings/meeting<n><pl>$ 
 ^,/,<cm>$ 
@@ -46,7 +46,7 @@
 ^,/,<cm>$ 
 ^but/but<cnjcoo>$ 
 ^broke/break<vblex><past>$ 
-^off/off<pr>$ 
+^off/off<adv>$ 
 ^in/in<pr>$ 
 ^1975/1975<num>$ 
 ^when/when<cnjadv>$ 
@@ -85,7 +85,7 @@
 ^a/a<det><ind><sg>$ 
 ^frigate/frigate<n><sg>$ 
 ^,/,<cm>$ 
-^after/after<adv>$ 
+^after/after<pr>$ 
 ^which/which<rel><an><mf><sp>$ 
 ^tensions/tension<n><pl>$ 
 ^were/be<vbser><past>$ 
@@ -181,7 +181,7 @@
 ^the/the<det><def><sp>$ 
 ^country/country<n><sg>$  
 ^'s/'s<gen>$ 
-^legitimate/legitimate<vblex><inf>$ 
+^legitimate/legitimate<adj>$ 
 ^aspirations/aspiration<n><pl>$ 
 ^to/to<pr>$ 
 ^independence/independence<n><sg>$ 
