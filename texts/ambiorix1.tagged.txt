@@ -293,6 +293,7 @@
 ^to/to<pr>$
 ^flee/flee<vblex><inf>/flee<vblex><pres>$
 ^as/as<preadv>/as<cnjadv>/as<pr>$
+^a/a<det><ind><sg>$
 ^large/large<adj><sint>$
 ^Germanic/germanic<adj>$
 ^force/force<n><sg>/force<vblex><inf>/force<vblex><pres>$
