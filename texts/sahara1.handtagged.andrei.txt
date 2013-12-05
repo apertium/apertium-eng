@@ -78,7 +78,7 @@
 ^cooperated/cooperate<vblex><past>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
-^Spanish/Spanish<n><sg>$
+^Spanish/spanish<adj>$
 ^to/to<pr>$
 ^select/select<vblex><inf>$
 ^governors/governor<n><pl>$
@@ -135,7 +135,7 @@
 ^annual/annual<adj>$
 ^celebration/celebration<n><sg>$
 ^of/of<pr>$
-^Muhammad/Muhammad<np><ant><m><sg>$ 
+^Muhammad/Muhammad<np><ant><m><sg>$
 ^'s/'s<gen>$
 ^birthday/birthday<n><sg>$
 ^,/,<cm>$
@@ -247,7 +247,8 @@
 ^./.<sent>$
 
 ^By/By<pr>$
-^1974/1974<num>$–
+^1974/1974<num>$
+^–/–<guio>$
 ^75/75<num>$
 ^the/the<det><def><sp>$
 ^government/government<n><sg>$
@@ -321,13 +322,13 @@
 ^a/a<det><ind><sg>$
 ^long/long<adj><sint>$
 ^-/-<guio>$
-^running/run<vblex><pprs>$
+running/running<adj>$
 ^rivalry/rivalry<n><sg>$
 ^with/with<pr>$
 ^Morocco/Morocco<np><top><sg>$
 ^./.<sent>$
 
-^After/After<cnjadv>$
+^After/After<pr>$
 ^arguing/argue<vblex><subs>$
 ^for/for<pr>$
 ^a/a<det><ind><sg>$
@@ -353,7 +354,7 @@
 ^to/to<pr>$
 ^assisting/assist<vblex><subs>$
 ^the/the<det><def><sp>$
-^Polisario Front/Polisario front<n><sg>$
+^Polisario Front/Polisario Front<np><al><sg>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
 ^opposed/*opposed$
@@ -372,7 +373,6 @@
 ^Sahara/Sahara<np><top><sg>$
 ^./.<sent>$
 
-
 ^The/The<det><def><sp>$
 ^UN/UN<n><acr><sg>$
 ^attempted/attempt<vblex><past>$
@@ -382,7 +382,7 @@
 ^disputes/dispute<n><pl>$
 ^through/through<pr>$
 ^a/a<det><ind><sg>$
-^visiting/visit<vblex><pprs>$
+visiting/visiting<adj>$
 ^mission/mission<n><sg>$
 ^in/in<pr>$
 ^late/late<adj><sint>$
@@ -491,10 +491,9 @@
 ^northwest/northwest<n><sg>$
 ^./.<sent>$
 
-
 ^In/In<pr>$
 ^the/the<det><def><sp>$
-^waning/wane<vblex><pprs>$
+^waning/waning<adj>$
 ^days/day<n><pl>$
 ^of/of<pr>$
 ^General/General<n><sg>$
@@ -613,12 +612,12 @@
 ^resisted/resist<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
-^Polisario Front/Polisario front<n><sg>$
+^Polisario Front/Polisario Front<np><al><sg>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
 ^had/have<vbhaver><past>$
 ^gained/gain<vblex><pp>$
-^backing/back<vblex><subs>$
+^backing/backing<n><sg>$
 ^from/from<pr>$
 ^Algeria/Algeria<np><top><sg>$
 ^./.<sent>$
@@ -639,7 +638,7 @@
 ^from/from<pr>$
 ^Polisario/*Polisario$
 ^,/,<cm>$
-^including/include<vblex><pprs>$
+^including/include<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^bombardment/bombardment<n><sg>$
 ^of/of<pr>$
@@ -718,7 +717,6 @@
 ^Plan/Plan<n><sg>$
 ^./.<sent>$
 
-
 ^The/The<det><def><sp>$
 ^referendum/referendum<n><sg>$
 ^,/,<cm>$
@@ -790,7 +788,7 @@
 ^At the heart of/At the heart of<pr>$
 ^the/the<det><def><sp>$
 ^dispute/dispute<n><sg>$
-^lies/lie<vblex><pres>$   
+^lies/lie<n><pl>$
 ^the/the<det><def><sp>$
 ^question/question<n><sg>$
 ^of/of<pr>$
@@ -868,12 +866,11 @@
 ^it/prpers<prn><obj><p3><nt><sg>$
 ^./.<sent>$
 
-
 ^Both/Both<det><ind><pl>$
 ^sides/side<n><pl>$
 ^blame/blame<vblex><pres>$
-^each/each<prn><tn><m><sg>$
-^other/other<det><ind><sp>$          
+^each/each<det><ind><sg>$
+^other/other<det><ind><sp>$
 ^for/for<pr>$
 ^the/the<det><def><sp>$
 ^stalling/stall<vblex><subs>$
@@ -889,7 +886,7 @@
 ^on/on<pr>$
 ^only/only<adv>$
 ^allowing/allow<vblex><ger>$
-^those/that<det><dem><pl>$
+^those/that<prn><tn><mf><pl>$
 ^found/find<vblex><pp>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
@@ -898,7 +895,7 @@
 ^Census/Census<n><sg>$
 ^lists/list<n><pl>$
 ^(/(<lpar>$
-^see/see<vblex><pres>$
+^see/see<vblex><inf>$
 ^below/below<adv>$
 ^)/)<rpar>$
 ^to/to<pr>$
@@ -938,7 +935,6 @@
 ^the/the<det><def><sp>$
 ^19th century/19th century<n><sg>$
 ^./.<sent>$
-
 
 ^Efforts/Effort<n><pl>$
 ^by/by<pr>$
@@ -1013,7 +1009,7 @@
 ^as/as<cnjadv>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^had/have<vbhaver><past>$
-^done/do<vblex><pp>$
+^done/do<vbdo><pp>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^previous/previous<adj>$
@@ -1023,7 +1019,7 @@
 ^the/the<det><def><sp>$
 ^UN/UN<n><acr><sg>$
 ^(/(<lpar>$
-^both/both<det><ind><pl>$
+^both/both<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^originally/originally<adv>$
@@ -1068,9 +1064,8 @@
 ^process/process<n><sg>$
 ^to/to<pr>$
 ^a/a<det><ind><sg>$
-^halt/halt<vblex><pres>$
+^halt/halt<vblex><inf>$
 ^./.<sent>$
-
 
 ^According to/According to<pr>$
 ^a/a<det><ind><sg>$
@@ -1089,7 +1084,8 @@
 ^deadlock/deadlock<n><sg>$
 ^continued/continue<vblex><past>$
 ^,/,<cm>$
-^that/that<cnjsub>$ "
+^that/that<cnjsub>$
+"
 ^if/if<cnjadv>$
 ^the/the<det><def><sp>$
 ^number/number<n><sg>$
@@ -1106,7 +1102,8 @@
 ^on/on<pr>$
 ^the/the<det><def><sp>$
 ^RASD/*RASD$
-^side/side<n><sg>$"
+^side/side<n><sg>$
+"
 ^./.<sent>$
 
 ^By/By<pr>$
@@ -1150,9 +1147,11 @@
 ^declared/declare<vblex><past>$
 ^that/that<cnjsub>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^was/be<vbser><past><p3><sg>$ "
+^was/be<vbser><past><p3><sg>$
+"
 ^no longer/no longer<adv>$
-^necessary/necessary<adj>$"
+^necessary/necessary<adj>$
+"
 ^to/to<pr>$
 ^include/include<vblex><inf>$
 ^an/a<det><ind><sg>$
@@ -1196,4 +1195,3 @@
 ^to/to<pr>$
 ^lose/lose<vblex><inf>$
 ^./.<sent>$
-
