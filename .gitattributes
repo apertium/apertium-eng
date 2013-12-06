@@ -3,6 +3,7 @@ texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.handtagged.yongloong.txt -text
 texts/afghanistan1.raw.txt -text
 texts/afghanistan1.tagged.txt -text
+texts/alabama1.raw.txt -text
 texts/albedo1.raw.txt -text
 texts/alfred1.handtagged.darkgaia.txt -text
 texts/alfred1.handtagged.yongloong.txt -text
@@ -38,6 +39,9 @@ texts/belize2.handtagged.andrei.txt -text
 texts/belize2.handtagged.darkgaia.txt -text
 texts/belize2.raw.txt -text
 texts/belize2.tagged.txt -text
+texts/bessarabia1.raw.txt -text
+texts/caucasus1.raw.txt -text
+texts/coil1.raw.txt -text
 texts/colombia1.handtagged.ilie.txt -text
 texts/colombia1.handtagged.quicksilver.txt -text
 texts/colombia1.raw.txt -text
@@ -46,10 +50,15 @@ texts/karabakh1.handtagged.darkgaia1.txt -text
 texts/karabakh1.handtagged.ilie.txt -text
 texts/karabakh1.raw.txt -text
 texts/karabakh1.tagged.txt -text
+texts/kazakhstan1.raw.txt -text
+texts/khazars1.raw.txt -text
+texts/kyrgyzstan1.raw.txt -text
+texts/monarchy1.raw.txt -text
 texts/partisans1.handtagged.andrei.txt -text
 texts/partisans1.handtagged.quicksilver.txt -text
 texts/partisans1.raw.txt -text
 texts/partisans1.tagged.txt -text
+texts/peru1.raw.txt -text
 texts/pirates.handtagged.porsi98.txt -text
 texts/pirates.raw.txt -text
 texts/sahara1.handtagged.andrei.txt -text

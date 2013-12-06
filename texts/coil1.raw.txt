@@ -1,0 +1,45 @@
+A Tesla coil transformer operates in a significantly different fashion than a conventional ( i.e. , iron core ) transformer .
+In a conventional transformer , the windings are very tightly coupled , and voltage gain is limited to the ratio of the numbers of turns in the windings .
+However , the voltage gain of a disruptive Tesla coil can be significantly greater , since it is instead proportional to the square root of the ratio of secondary and primary inductances .
+The coil transfers energy from one oscillating resonant circuit ( the primary ) to the other ( the secondary ) over a number of RF cycles .
+As the primary energy transfers to the secondary , the secondary 's output voltage increases until all of the available primary energy has been transferred to the secondary ( less losses ) .
+Even with significant spark gap losses , a well designed Tesla coil can transfer over 85% of the energy initially stored in the primary capacitor to the secondary circuit .
+Modern high voltage enthusiasts usually build Tesla coils that are similar to some of Tesla 's " later " air core designs .
+These typically consist of a primary tank circuit , which is a series LC ( inductance - capacitance ) circuit composed of a high voltage capacitor , spark gap , and primary coil ; and the secondary LC circuit , a series resonant circuit consisting of the secondary coil and the toroid .
+In Tesla 's original plans , the secondary LC circuit is composed of a loaded secondary coil which is then placed in series with a large helical coil .
+The helical coil was then connected to the toroid .
+Most modern coils use only a single secondary coil .
+The toroid actually forms one terminal of a capacitor , the other terminal being the Earth ( or " ground " ) .
+The primary LC circuit is " tuned " so that it will resonate at the same frequency as the secondary LC circuit .
+The primary and secondary coils are magnetically coupled , creating a dual - tuned resonant air - core transformer .
+However , unlike a conventional transformer , which may couple 97% + of the magnetic fields between windings , a Tesla coil 's windings are " loosely " coupled , with the primary and secondary typically sharing only 10 – 20% of their respective magnetic fields .
+Earlier oil insulated Tesla coils needed large and long insulations at their connections to prevent discharge in air .
+Later version Tesla coils spread their electric fields over large distances to prevent high electrical stresses in the first place , thereby allowing operation in free air .
+In a Doubly Resonant Solid State Tesla Coil ( DRSSTC ) , the electronic switching of the SSTC is combined with the resonant primary circuit of a spark-gap Tesla coil .
+The resonant primary circuit is formed by connecting a capacitor in series with the primary winding of the coil , so that the combination forms a series tank circuit with a resonant frequency near that of the secondary circuit .
+Because of the additional resonant circuit , one manual and one adaptive tuning adjustment are necessary .
+Also , an interrupter is usually used to reduce the duty cycle of the switching bridge , in order to improve peak power capabilities ; similarly , IGBTs are more popular in this application than bipolar transistors or MOSFETs , due to their superior power handling characteristics .
+Performance of a DRSSTC can be comparable to a medium power spark gap Tesla coil , and efficiency ( as measured by spark length versus input power ) can be significantly greater than a spark gap Tesla coil operating at the same input power .
+However , in the typical circuit ( above ) , the spark gap 's short circuiting action prevents high frequency oscillations from " backing up " into the supply transformer .
+In the alternate circuit , high amplitude high frequency oscillations that appear across the capacitor also are applied to the supply transformer 's winding .
+This can induce corona discharges between turns that weaken and eventually destroy the transformer 's insulation .
+Experienced Tesla coil builders almost exclusively use the top circuit , often augmenting it with low pass filters ( resistor and capacitor ( RC ) networks ) between the supply transformer and spark gap to help protect the supply transformer .
+This is especially important when using transformers with fragile high voltage windings , such as Neon-sign transformers ( NSTs ) .
+Regardless of which configuration is used , the HV transformer must be of a type that self-limits its secondary current by means of internal leakage inductance .
+A normal ( low leakage inductance ) high voltage transformer must use an external limiter ( sometimes called a ballast ) to limit current .
+NSTs are designed to have high leakage inductance to limit their short circuit current to a safe level .
+As the secondary coil 's energy ( and output voltage ) continue to increase , larger pulses of displacement current further ionise and heat the air at the point of initial breakdown .
+This forms a very conductive " root " of hotter plasma , called a leader , that projects outward from the toroid .
+The plasma within the leader is considerably hotter than a corona discharge , and is considerably more conductive .
+In fact , it has properties that are similar to an electric arc .
+The leader tapers and branches into thousands of thinner , cooler , hairlike discharges ( called streamers ) .
+The streamers look like a bluish " haze " at the ends of the more luminous leaders , and it is the streamers that actually transfer charge between the leaders and toroid to nearby space charge regions .
+The displacement currents from countless streamers all feed into the leader , helping to keep it hot and electrically conductive .
+Large Tesla coils and magnifiers can deliver dangerous levels of high frequency current , and they can also develop significantly higher voltages ( often 250,000 – 500,000 volts , or more ) .
+Because of the higher voltages , large systems can deliver higher energy , potentially lethal , repetitive high voltage capacitor discharges from their top terminals .
+Doubling the output voltage quadruples the electrostatic energy stored in a given top terminal capacitance .
+If an unwary experimenter accidentally places himself in path of the high voltage capacitor discharge to ground , the low current electric shock can cause involuntary spasms of major muscle groups and may induce life-threatening ventricular fibrillation and cardiac arrest .
+Even lower power vacuum tube or solid state Tesla coils can deliver RF currents that are capable of causing temporary internal tissue , nerve , or joint damage through Joule heating .
+In addition , an RF arc can carbonise flesh , causing a painful and dangerous bone-deep RF burn that may take months to heal .
+Because of these risks , knowledgeable experimenters avoid contact with streamers from all but the smallest systems .
+Professionals usually use other means of protection such as a Faraday cage or a chainmail suit to prevent dangerous currents from entering their body .
