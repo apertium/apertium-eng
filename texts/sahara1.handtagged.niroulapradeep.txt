@@ -819,7 +819,7 @@
 ^since/since<adv>$
 ^there/there<adv>$
 ^is/be<vbser><pri><p3><sg>$
-^no/no<adv>$
+^no/no<det><ind><sp>$
 ^agreement/agreement<n><sg>$
 ^on/on<pr>$
 ^persons/person<n><pl>$
@@ -925,7 +925,7 @@
 ^Sahrawi/*Sahrawi$
 ^tribes/tribe<n><pl>$
 ^which/which<rel><an><mf><sp>$
-^escape/escape<vblex><pres>$                             
+^escape/escape<vblex><pres>$ 
 ^from/from<pr>$
 ^Spanish/spanish<adj>$
 ^invasion/invasion<n><sg>$
@@ -1023,7 +1023,7 @@
 ^the/the<det><def><sp>$
 ^UN/UN<n><acr><sg>$
 ^(/(<lpar>$
-^both/both<det><ind><pl>$
+^both/both<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^originally/originally<adv>$
