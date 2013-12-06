@@ -43,6 +43,7 @@
 ^small/small<adj><sint>$ 
 ^quantity/quantity<n><sg>$ 
 ^./.<sent>$ 
+
 ^It/It<prn><subj><p3><nt><sg>$ 
 ^began/begin<vblex><past>$ 
 ^as a/as a<pr>$ 
@@ -82,6 +83,7 @@
 ^of/of<pr>$ 
 ^particles/particle<n><pl>$ 
 ^./.<sent>$ 
+
 ^The/The<det><def><sp>$ 
 ^planetary/planetary<adj>$ 
 ^model/model<n><sg>$ 
@@ -93,6 +95,7 @@
 ^significant/significant<adj>$ 
 ^shortcomings/shortcoming<n><pl>$ 
 ^./.<sent>$ 
+
 ^The/The<det><def><sp>$ 
 ^first/first<det><ord><sp>$
 ^is/be<vbser><pri><p3><sg>$ 
@@ -109,6 +112,7 @@
 ^charged/charge<vblex><pp>$
 ^particles/particle<n><pl>$
 ^./.<sent>$
+
 ^An/A<det><ind><sg>$
 ^accelerating/accelerate<vblex><pprs>$
 ^electric/electric<adj>$
@@ -151,6 +155,7 @@
 ^a/a<det><ind><sg>$ 
 ^second/second<adv>$ 
 ^./.<sent>$ 
+
 ^The/The<det><def><sp>$ 
 ^second/second<det><ord><sp>$ 
 ^problem/problem<n><sg>$ 
@@ -164,7 +169,7 @@
 ^explain/explain<vblex><inf>$
 ^the/the<det><def><sp>$ 
 ^highly/highly<adv>$ 
-^peaked/peak<adj><past>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                $ # repair this so tha tit has the right format
+^peaked/peaked<adj>$ # repair this so tha tit has the right format
 ^emission/emission<n><sg>$ 
 ^and/and<cnjcoo>$ 
 ^absorption/absorption<n><sg>$ 
@@ -175,6 +180,7 @@
 ^were/be<vbser><past>$ 
 ^observed/observe<vblex><ppt>$
 ^./.<sent>$ 
+
 ^Bohr/Bohr<np><cog><sg>$  
 ^'s/'s<gen>$ 
 ^model/model<n><sg>$ 
@@ -182,6 +188,7 @@
 ^not/not<adv>$ 
 ^perfect/perfect<adj>$ 
 ^./.<sent>$ 
+
 ^It/It<prn><subj><p3><nt><sg>$
 ^could/can<vaux><past>$ 
 ^only/only<adv>$
@@ -200,6 +207,7 @@
 ^multielectron/multielectron<n><pl>$ 
 ^atoms/atom<n><pl>$ 
 ^./.<sent>$ 
+
 ^Worse/Bad<adj><sint><comp>$ 
 ^still/still<adv>$ 
 ^,/,<cm>$ 
@@ -222,11 +230,12 @@
 ^couldn't/can<vaux><past>+not<adv>$ 
 ^explain/explain<vblex><inf>$
 ^./.<sent>$ 
+
 ^In/In<pr>$ 
 ^1916/1916<num>$ 
 ^,/,<cm>$ 
 ^Arnold/Arnold<np><ant><m><sg>$ 
-^Sommerfeld/Sommerfeld<np><ant><cog><sg>$ 
+^Sommerfeld/Sommerfeld<np><cog><sg>$ 
 ^added/add<vblex><pp>$ 
 ^elliptical/elliptical<adj>$ 
 ^orbits/orbit<n><pl>$ 
@@ -260,6 +269,7 @@
 ^complex/complex<adj>$ 
 ^atoms/atom<n><pl>$ 
 ^./.<sent>$ 
+
 ^A/A<det><ind><sg>$ 
 ^consequence/consequence<n><sg>$ 
 ^of/of<pr>$ 
@@ -292,6 +302,7 @@
 ^uncertainty/uncertainty<n><sg>$ 
 ^principle/principle<n><sg>$ 
 ^./.<sent>$ 
+
 ^This/This<prn><tn><mf><sg>$ 
 ^invalidated/invalidate<vblex><pp>$ 
 ^Bohr/Bohr<np><cog><sg>$  
@@ -307,6 +318,7 @@
 ^circular/circular<adj>$ 
 ^orbits/orbit<n><pl>$ 
 ^./.<sent>$ 
+
 ^The/The<det><def><sp>$ 
 ^modern/modern<adj>$ 
 ^model/model<n><sg>$ 
@@ -326,6 +338,7 @@
 ^of/of<pr>$ 
 ^probabilities/probability<n><pl>$ 
 ^./.<sent>$ 
+
 ^An/A<det><ind><sg>$ 
 ^electron/electron<n><sg>$ 
 ^can/can<vaux><pres>$ 
