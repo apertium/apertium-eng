@@ -163,7 +163,7 @@
 ^colonial/colonial<adj>$ 
 ^administration/administration<n><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
-^ended/end<vblex><past>/end<vblex><pp>$ 
+^ended/end<vblex><pp>$ 
 ^and/and<cnjcoo>$ 
 ^French/french<adj>$ 
 ^Indochina/*Indochina$ 
@@ -279,7 +279,7 @@
 ^would/would<vaux><inf>$ 
 ^be/be<vbser><inf>$ 
 ^reunited/reunite<vblex><pp>$ 
-^afterafter<pr>$ 
+^after/after<pr>$ 
 ^elections/election<n><pl>$ 
 ^in/in<pr>$ 
 ^1956/1956<num>$
@@ -542,8 +542,8 @@
 
 
 ^To/To<pr>$ 
-^support<vblex><inf>$ 
-^South/South<adj><sint>$ 
+^support/support<vblex><inf>$ 
+^South/South<adv>$ 
 ^Vietnam/Vietnam<np><top><sg>$ 
 ^'s/'s<gen>$ 
 ^struggle/struggle<n><sg>$ 
@@ -643,7 +643,7 @@
 ^trail/trail<n><sg>$ 
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
-^passed/pass<vblex><pp>$ 
+^passed/pass<vblex><past>$ 
 ^through/through<pr>$ 
 ^Laos/Laos<np><top><sg>$ 
 ^./.<sent>$
@@ -730,7 +730,7 @@
 ^Vietnam/Vietnam<np><top><sg>$ 
 ^./.<sent>$
 
-^Following/Follow<vblex><subs>$ 
+^Following/Follow<vblex><ger>$ 
 ^the/the<det><def><sp>$ 
 ^Paris/Paris<np><top><sg>$ 
 ^Peace/Peace<n><sg>$ 
