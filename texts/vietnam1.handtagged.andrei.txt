@@ -90,7 +90,7 @@
 ^the/the<det><def><sp>$ 
 ^French/french<adj>$ 
 ^Far/Far<adj><sint>$ 
-^East/East<adj>$ 
+^East/East<n><sg>$ 
 ^Expeditionary/*Expeditionary$ 
 ^Corps/Corps<n><sg>$ 
 ^to/to<pr>$ 
@@ -115,7 +115,7 @@
 ^./.<sent>$ 
 
 ^The/The<det><def><sp>$ 
-^resulting/resulting<adj>$ 
+^resulting/result<vblex><pprs>$ 
 ^First/First<det><ord><sp>$ 
 ^Indochina/*Indochina$ 
 ^War/War<n><sg>$ 
@@ -188,7 +188,7 @@
 ^the/the<det><def><sp>$ 
 ^17th/17<num><ord>$ 
 ^parallel/parallel<adj>$ 
-^north/north<n><sg>$ 
+^north/north<adv>$ 
 ^with/with<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Vietnamese/vietnamese<adj>$ 
@@ -224,7 +224,7 @@
 ^Vietnam/Vietnam<np><top><sg>$ 
 ^in/in<pr>$ 
 ^the/the<det><def><sp>$ 
-^south/South<n><sg>$
+^south/south<n><sg>$
 ^./.<sent>$ 
 
 ^A/A<det><ind><sg>$ 
@@ -346,7 +346,7 @@
 ^Diem/*Diem$ 
 ^'s/'s<gen>$ 
 ^government/government<n><sg>$
-^./.<sent>$ 
+^./.<sent>$
 
 ^In/In<pr>$ 
 ^the/the<det><def><sp>$ 
@@ -540,7 +540,6 @@
 ^ground/ground<n><sg>$ 
 ^./.<sent>$
 
-
 ^To/To<pr>$ 
 ^support/support<vblex><inf>$ 
 ^South/South<adj><sint>$ 
@@ -651,7 +650,7 @@
 ^The/The<det><def><sp>$ 
 ^communists/communist<n><pl>$ 
 ^attacked/attack<vblex><past>$ 
-^South/South<adj><sint>$ 
+^South/South<adj><sint>$
 ^Vietnamese/vietnamese<adj>$ 
 ^targets/target<n><pl>$ 
 ^during/during<pr>$ 
@@ -660,6 +659,8 @@
 ^Tet/*Tet$ 
 ^Offensive/Offensive<n><sg>$
 ^./.<sent>$ 
+
+
 
 ^Although/Although<cnjadv>$ 
 ^the/the<det><def><sp>$ 
@@ -713,7 +714,7 @@
 ^the/the<det><def><sp>$ 
 ^early/early<adj><sint>$ 
 ^1970s/1970s<num>$
-^./.<sent>$ 
+^./.<sent>$
 
 ^This/This<det><dem><sg>$ 
 ^process/process<n><sg>$ 
@@ -726,8 +727,8 @@
 ^strengthen/strengthen<vblex><inf>$ 
 ^and/and<cnjcoo>$ 
 ^stabilise/stabilise<vblex><inf>$ 
-^South/South<n><sg>$ 
-^Vietnam/Vietnam<np><top><sg>$ 
+^South/South<adj><sint>$ 
+^Vietnam/Vietnam<np><top><sg>$  
 ^./.<sent>$
 
 ^Following/Follow<vblex><ger>$ 
