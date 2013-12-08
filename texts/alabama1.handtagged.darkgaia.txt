@@ -308,7 +308,7 @@
 ^South/South<n><sg>$ 
 ^(/(<lpar>$ 
 ^disparagingly/*disparagingly$ 
-^called/call<vblex><past>$ 
+^called/call<vblex><pp>$ 
 ^carpetbaggers/*carpetbaggers$ 
 ^)/)<rpar>$ 
 ^took/take<vblex><past>$ 
@@ -598,7 +598,7 @@
 ^to/to<pr>$ 
 ^protect/protect<vblex><inf>$ 
 ^their/their<det><pos><sp>$ 
-^voting/vote<vblex><subs>/vote<vblex><pprs>$ 
+^voting/vote<vblex><subs>$ 
 ^and/and<cnjcoo>$ 
 ^civil/civil<adj>$ 
 ^rights/right<n><pl>$ 

@@ -65,7 +65,7 @@
 ^sacrifice/sacrifice<n><sg>$ 
 ^./.<sent>$
 ^Even/Even<adv>$ 
-^where/where<adv><itg>$ 
+^where/where<rel><adv>$ 
 ^ancestor/ancestor<n><sg>$ 
 ^worship/worship<n><sg>$ 
 ^is/be<vbser><pri><p3><sg>$ 
@@ -163,7 +163,7 @@
 ^its/its<det><pos><sp>$ 
 ^death/death<n><sg>$ 
 ^by/by<pr>$ 
-^helping/help<vblex><ger>$ 
+^helping/help<vblex><subs>$ 
 ^to/to<pr>$ 
 ^discover/discover<vblex><inf>$ 
 ^the/the<det><def><sp>$ 
@@ -346,12 +346,12 @@
 ^the/the<det><def><sp>$ 
 ^origin/origin<n><sg>$ 
 ^of/of<pr>$ 
-^death/death<n><sg>$  
-^do/do<vblex><inf>$ 
+^death/death<n><sg>$ 
+^do/do<vbdo><pres>$ 
 ^not/not<adv>$ 
-^necessarily/necessarily<adv>$
-^have/have<vblex><pres>$
-^any/any<prn><tn><mf><sp>$ 
+^necessarily/necessarily<adv>$ 
+^have/have<vblex><pres>$ 
+^any/any<det><ind><sp>$ 
 ^animistic/*animistic$ 
 ^basis/basis<n><sg>$ 
 ^./.<sent>$
@@ -447,7 +447,7 @@
 ^growth/growth<n><sg>$ 
 ^,/,<cm>$ 
 ^holding/hold<vblex><ger>$ 
-^that/that<prn><tn><mf><sg>$ 
+^that/that<cnjsub>$ 
 ^all/all<prn><tn><mf><sp>$ 
 ^cannot/can<vaux><pres>+not<adv>$ 
 ^be/be<vbser><inf>$ 
@@ -506,7 +506,7 @@
 ^./.<sent>$
 ^There/There<adv>$ 
 ^are/be<vbser><pres>$ 
-^some/some<prn><tn><mf><pl>$ 
+^some/some<det><qnt><sp>$ 
 ^Hindu/*Hindu$ 
 ^groups/group<n><pl>$ 
 ^which/which<rel><an><mf><sp>$ 
