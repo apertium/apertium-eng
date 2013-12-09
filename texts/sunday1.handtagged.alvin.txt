@@ -44,7 +44,7 @@
 
 ^While/While<cnjadv>$ 
 ^initially/initially<adv>$ 
-^welcomed/welcome<vblex><past>$ 
+^welcomed/welcome<vblex><pp>$ 
 ^by/by<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Catholics/Catholic<n><pl>$ 
