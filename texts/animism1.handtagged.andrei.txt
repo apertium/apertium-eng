@@ -350,7 +350,7 @@
 ^do/do<vbdo><pres>$ 
 ^not/not<adv>$ 
 ^necessarily/necessarily<adv>$ 
-^have/have<vblex><pres>$ 
+^have/have<vbhaver><inf>$ 
 ^any/any<det><ind><sp>$ 
 ^animistic/*animistic$ 
 ^basis/basis<n><sg>$ 
