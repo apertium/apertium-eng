@@ -1,6 +1,6 @@
-^In/In<pr>$ 
-^the/the<det><def><sp>$ 
-^late/late<adj><sint>$ 
+^In/In<pr>$
+^the/the<det><def><sp>$
+^late/late<adj><sint>$
 ^1960s/1960s<num>$
 ^,/,<cm>$ 
 ^discrimination/discrimination<n><sg>$ 
@@ -63,7 +63,7 @@
 ^In/In<pr>$ 
 ^response/response<n><sg>$ 
 ^to/to<pr>$ 
-^escalating/escalate<vblex><pprs>$ 
+^escalating/*escalating$ 
 ^levels/level<n><pl>$ 
 ^of/of<pr>$ 
 ^violence/violence<n><sg>$ 
@@ -169,13 +169,13 @@
 ^further/far<adj><sint><comp>$ 
 ^six/six<num><sp>$ 
 ^soldiers/soldier<n><pl>$ 
-^had/have<vbhaver><past>$ 
+^had/have<vbhaver><past>$
 ^been/be<vbser><pp>$ 
 ^killed/kill<vblex><pp>$ 
 ^in/in<pr>$ 
-^Derry/*Derry<np><loc><sg>$ 
+^Derry/*Derry$ 
 ^by/by<pr>$ 
-^mid/*mid<adj>$
+^mid/*mid$
 ^-/-<guio>$
 ^December/December<n><sg>$ 
 ^1971/1971<num>$ 
@@ -350,7 +350,7 @@
 ^,/,<cm>$ 
 ^an/a<det><ind><sg>$ 
 ^estimated/estimate<vblex><pp>$ 
-^total/total<adj>$
+^total/total<n><sg>$ 
 ^of/of<pr>$ 
 ^£/£<mon>$
 ^4/4<num>$ 
@@ -388,8 +388,8 @@
 ^./.<sent>$
 ^The/The<det><def><sp>$ 
 ^authorities/authority<n><pl>$ 
-^who/who<rel><an><mf><sp>$
-^knew/know<vblex><pp>$ 
+^who/who<rel><an><mf><sp>$ 
+^knew/know<vblex><past>$ 
 ^of/of<pr>$ 
 ^the/the<det><def><sp>$ 
 ^proposed/propose<vblex><pp>$ 
@@ -413,8 +413,8 @@
 ^stop/stop<vblex><inf>$ 
 ^it/prpers<prn><obj><p3><nt><sg>$ 
 ^from/from<pr>$ 
-^reaching/reach<n><sg>$ 
-^Guildhall/*Guildhall$
+^reaching/reach<vblex><subs>$ 
+^Guildhall/*Guildhall$ 
 ^Square/Square<n><sg>$ 
 ^,/,<cm>$ 
 ^as/as<cnjadv>$ 
