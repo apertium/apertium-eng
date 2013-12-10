@@ -431,7 +431,7 @@
 ^Guildhall/*Guildhall$ 
 ^Square/Square<n><sg>$ 
 ^,/,<cm>$ 
-^as/as<pr>$ 
+^as/as<cnjadv>$ 
 ^planned/plan<vblex><pp>$ 
 ^by/by<pr>$ 
 ^the/the<det><def><sp>$ 
