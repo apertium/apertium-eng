@@ -104,7 +104,8 @@
 ^the/the<det><def><sp>$
 ^republic/republic<n><sg>$
 ^./.<sent>$
-^In contrast to/In contrast to<pr>$
+^In contrast/In contrast<adv>$
+^to/to<pr>$
 ^the/the<det><def><sp>$
 ^presidents/president<n><pl>$
 ^of/of<pr>$
@@ -151,14 +152,13 @@
 ^considered/consider<vblex><past>$
 ^the/the<det><def><sp>$
 ^republics/republic<n><pl>$
-^too/too<adv>$
+^too/too<preadv>$
 ^interdependent/interdependent<adj>$
 ^economically/economically<adv>$
 ^to/to<pr>$
 ^survive/survive<vblex><inf>$
 ^separation/separation<n><sg>$
 ^./.<sent>$
-
 ^At the same time/At the same time<adv>$
 ^,/,<cm>$
 ^however/however<adv>$
@@ -199,7 +199,7 @@
 ^an/a<det><ind><sg>$
 ^agreement/agreement<n><sg>$
 ^with/with<pr>$
-^Chevron/Chevron<np><al><sg>$
+^Chevron/Chevron<n><sg>$
 ^,/,<cm>$
 ^an/a<det><ind><sg>$
 ^American/american<adj>$
@@ -268,7 +268,7 @@
 ^to/to<pr>$
 ^sign/sign<vblex><inf>$
 ^the/the<det><def><sp>$
-^revised/revised<adj>$ 
+^revised/revised<adj>$
 ^Union/Union<n><sg>$
 ^Treaty/Treaty<n><sg>$
 ^,/,<cm>$
@@ -303,8 +303,8 @@
 ^Asian/asian<adj>$
 ^states/state<n><pl>$
 ^./.<sent>$
-^After/After<pr>$
-^declaring/declare<vblex><subs>$
+^After/After<cnjadv>$
+^declaring/declare<vblex><ger>$
 ^independence/independence<n><sg>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
@@ -342,8 +342,8 @@
 ^most of/most<prn><tn><mf><pl>+of<pr>$
 ^the same/the same<det><ind><sp>$
 ^leadership/leadership<n><sg>$
-^that/that<cnjsub>$
-^had/have<vbhaver><past>$
+^that/that<rel><an><mf><sp>$
+^had/have<vbhaver><past>$ 
 ^occupied/occupy<vblex><pp>$
 ^the/the<det><def><sp>$
 ^top/top<adj>$
@@ -402,7 +402,7 @@
 ^constitution/constitution<n><sg>$
 ^of/of<pr>$
 ^1993/1993<num>$
-^made/make<vblex><past>$ 
+^made/make<vblex><past>$
 ^the/the<det><def><sp>$
 ^prime minister/prime minister<n><sg>$
 ^and/and<cnjcoo>$
@@ -438,8 +438,8 @@
 ^restrictions/restriction<n><pl>$
 ^on/on<pr>$
 ^their/their<det><pos><sp>$
-^activities/activity<n><pl>$ 
-^./.<sent>$ 
+^activities/activity<n><pl>$
+^./.<sent>$
 ^Within/Within<pr>$
 ^that/that<det><dem><sg>$
 ^rigid/rigid<adj>$
@@ -499,7 +499,7 @@
 ^Khan/*Khan$
 ^Tengri/*Tengri$
 ^,/,<cm>$
-^on/on<pr>$
+^on/on<pr>$ 
 ^the/the<det><def><sp>$
 ^Kyrgyz/*Kyrgyz$
 ^border/border<n><sg>$
@@ -527,14 +527,15 @@
 ^Karagiye/*Karagiye$
 ^depression/depression<n><sg>$
 ^at/at<pr>$
-^-132/-132<num>$
+^-/-<guio>$
+^132/132<num>$
 ^m/*m$
 ^,/,<cm>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^Mangystau/*Mangystau$
 ^province/province<n><sg>$
-^east/east<adv>$
+^east/east<adv>$ 
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Caspian/*Caspian$
@@ -543,7 +544,7 @@
 ^Most of/Most<prn><tn><mf><pl>+of<pr>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
-^lies/lie<vblex><pri><p3><sg>$
+^lies/lie<n><pl>$
 ^at/at<pr>$
 ^between/between<pr>$
 ^200/200<num>$
@@ -551,7 +552,7 @@
 ^300/300<num>$
 ^metres above sea level/metre<n><pl># above sea level$
 ^,/,<cm>$
-^but/but<cnjcoo>$
+^but/but<cnjcoo>$ 
 ^Kazakhstan/Kazakhstan<np><loc><sg>$ 
 ^'s/'s<gen>$
 ^Caspian/*Caspian$
@@ -581,11 +582,13 @@
 ^covered/cover<vblex><pp>$
 ^year/year<n><sg>$
 ^-/-<guio>$
-^round/round<n><sg>$
+^round/round<adj><sint>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^their/their<det><pos><sp>$
-^run-off/run-off<n><sg>$
+^run/run<vblex><pp>$
+^-/-<guio>$
+^off/off<pr>$
 ^is/be<vbser><pri><p3><sg>$
 ^the/the<det><def><sp>$
 ^source/source<n><sg>$
@@ -630,7 +633,7 @@
 ^through/through<pr>$
 ^Kazakhstan/Kazakhstan<np><loc><sg>$
 ^,/,<cm>$
-^all/all<predet><sp>$
+^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$
 ^Kazakhstan/Kazakhstan<np><loc><sg>$ 
 ^'s/'s<gen>$
@@ -644,7 +647,7 @@
 ^systems/system<n><pl>$
 ^./.<sent>$
 ^They/Prpers<prn><subj><p3><mf><pl>$
-^either/either<adv>$
+^either/either<cnjcoo>$
 ^flow into/flow<vblex><pres># into$
 ^isolated/isolated<adj>$
 ^bodies/body<n><pl>$
@@ -715,7 +718,7 @@
 ^,/,<cm>$
 ^both/both<prn><tn><mf><pl>$
 ^of which/of<pr>+which<rel><nn><mf><sp>$
-^lie/lie<vblex><pres>$
+^lie/lie<n><sg>$
 ^partially/partially<adv>$
 ^within/within<pr>$
 ^Kazakhstan/Kazakhstan<np><loc><sg>$
@@ -741,7 +744,7 @@
 ^the/the<det><def><sp>$
 ^1990s/1990s<num>$
 ^,/,<cm>$
-^as/as<pr>$
+^as/as<cnjadv>$ 
 ^Germany/Germany<np><loc><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^willing/willing<adj>$
@@ -750,7 +753,7 @@
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^./.<sent>$
 ^Also/Also<adv>$
-^much/much<det><qnt><sg>$
+^much/much<adv>$  
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^smaller/small<adj><sint><comp>$
@@ -764,7 +767,7 @@
 ^to/to<pr>$
 ^Greece/Greece<np><loc><sg>$
 ^,/,<cm>$
-^so/so<preadv>$
+^so/so<cnjadv>$
 ^did/do<vbdo><past>$
 ^many/many<det><qnt><pl>$
 ^Russians/Russian<n><pl>$
@@ -799,4 +802,5 @@
 ^former/former<adj>$
 ^Eastern/Eastern<adj>$
 ^bloc/bloc<n><sg>$
-^./.<sent>$
+^./.<sent>$ 
+

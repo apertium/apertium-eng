@@ -33,7 +33,7 @@
 ^years/year<n><pl>$ 
 ^,/,<cm>$ 
 ^inhabitants/inhabitant<n><pl>$ 
-^switched/switch<vblex><pp>$ 
+^switched/switch<vblex><past>$ 
 ^from/from<pr>$ 
 ^nomadic/nomadic<adj>$ 
 ^lifestyles/lifestyle<n><pl>$ 
@@ -90,9 +90,9 @@
 ^./.<sent>$
 ^Inhabitants/Inhabitant<n><pl>$ 
 ^practiced/practice<vblex><past>$ 
-^spinning/spin<vblex><subs>$ 
+^spinning/spin<vblex><subs>$
 ^and/and<cnjcoo>$ 
-^knitting/knit<vblex><subs>$ 
+^knitting/knit<vblex><subs>$
 ^of/of<pr>$ 
 ^cotton/cotton<n><sg>$ 
 ^and/and<cnjcoo>$ 
@@ -453,7 +453,7 @@
 ^and/and<cnjcoo>$ 
 ^conditioning/condition<vblex><ger>$ 
 ^the/the<det><def><sp>$ 
-^future/future<n><sg>$ 
+^future/future<adj>$ 
 ^course/course<n><sg>$ 
 ^of/of<pr>$ 
 ^the/the<det><def><sp>$ 
@@ -742,7 +742,7 @@
 ^Peru/Peru<np><loc><sg>$ 
 ^(/(<lpar>$ 
 ^in/in<pr>$ 
-^Spanish/spanish<adj>$ 
+^Spanish/Spanish<n><sg>$ 
 ^,/,<cm>$ 
 ^Virreinato/*Virreinato$ 
 ^del/*del$ 
@@ -770,7 +770,7 @@
 ^Venezuela/Venezuela<np><loc><sg>$ 
 ^were/be<vbser><past>$ 
 ^split/split<vblex><pp>$ 
-^off/off<pr>$ 
+^off/off<adv>$ 
 ^as/as<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Viceroyalty/Viceroyalty<n><sg>$ 
@@ -779,7 +779,7 @@
 ^Granada/Granada<np><loc><sg>$ 
 ^(/(<lpar>$ 
 ^in/in<pr>$ 
-^Spanish/spanish<adj>$ 
+^Spanish/Spanish<n><sg>$ 
 ^,/,<cm>$ 
 ^Virreinato/*Virreinato$ 
 ^de/*de$ 
@@ -973,7 +973,7 @@
 ^Spain/Spain<np><loc><sg>$
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
-^accounts/account<n><pl>$ 
+^accounts/account<vblex><pri><p3><sg>$
 ^for/for<pr>$ 
 ^the/the<det><def><sp>$ 
 ^fact/fact<n><sg>$ 
@@ -1002,7 +1002,7 @@
 ^1929/1929<num>$ 
 ^,/,<cm>$ 
 ^numerous/numerous<adj>$ 
-^brief/brief<n><sg>$ 
+^brief/brief<adj>$ 
 ^governments/government<n><pl>$ 
 ^followed/follow<vblex><past>$ 
 ^one/one<num><sg>$ 
@@ -1146,7 +1146,7 @@
 ^a/a<det><ind><sg>$ 
 ^mostly/mostly<adv>$ 
 ^military/military<adj>$ 
-^one/one<num><sg>$ 
+^one/one<prn><tn><mf><sg>$ 
 ^./.<sent>$
 ^In/In<pr>$ 
 ^1948/1948<num>$ 
@@ -1294,6 +1294,7 @@
 ^itself/itself<prn><ref><p3><nt><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
 ^replaced/replace<vblex><pp>$ 
+^by/by<pr>$
 ^the/the<det><def><sp>$ 
 ^nuevo/*nuevo$ 
 ^sol/*sol$ 
@@ -1389,7 +1390,7 @@
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
 ^carried/carry<vblex><past>$ 
-^on/on<pr>$ 
+^on/on<adv>$ 
 ^a/a<det><ind><sg>$ 
 ^terrorist/terrorist<adj>$ 
 ^campaign/campaign<n><sg>$ 
@@ -1427,10 +1428,10 @@
 ^marred/*marred$ 
 ^by/by<pr>$ 
 ^atrocities/atrocity<n><pl>$ 
-^committed/commit<vblex><past>$ 
+^committed/commit<vblex><pp>$ 
 ^by/by<pr>$ 
 ^the/the<det><def><sp>$ 
-^both/both<det><ind><pl>$ 
+^both/both<cnjcoo>$ 
 ^Peruvian/peruvian<adj>$ 
 ^security forces/security forces<n><pl>$ 
 ^and/and<cnjcoo>$ 
@@ -1520,7 +1521,7 @@
 ^group/group<n><sg>$ 
 ^of/of<pr>$ 
 ^insurgents/*insurgents$ 
-^belonging/belong<vblex><ger>$ 
+^belonging/belong<vblex><pprs>$ 
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
 ^MRTA/*MRTA$ 
@@ -1542,7 +1543,7 @@
 ^stormed/*stormed$ 
 ^the/the<det><def><sp>$ 
 ^embassy/embassy<n><sg>$ 
-^compound/compound<adj>$ 
+^compound/compound<n><sg>$ 
 ^in/in<pr>$ 
 ^May/May<n><sg>$ 
 ^1997/1997<num>$ 
@@ -1571,7 +1572,7 @@
 ^,/,<cm>$ 
 ^however/however<adv>$ 
 ^,/,<cm>$ 
-^that/that<det><dem><sg>$ 
+^that/that<cnjsub>$ 
 ^Fujimori/Fujimori<np><cog><sg>$  
 ^'s/'s<gen>$ 
 ^security/security<n><sg>$ 
@@ -1597,7 +1598,7 @@
 ^caretaker/*caretaker$ 
 ^government/government<n><sg>$ 
 ^presided/*presided$ 
-^over/over<pr>$ 
+^over/over<adv>$ 
 ^by/by<pr>$ 
 ^Valentín/Valentín<np><ant><m><sg>$ 
 ^Paniagua/*Paniagua$ 
@@ -1627,7 +1628,7 @@
 ^be/be<vbser><inf>$ 
 ^free/free<adj><sint>$ 
 ^and/and<cnjcoo>$ 
-^fair/fair<n><sg>/fair<adj><sint>$ 
+^fair/fair<adj><sint>$ 
 ^./.<sent>$
 ^Alejandro/Alejandro<np><ant><m><sg>$ 
 ^Toledo/Toledo<np><loc><sg>$ 
