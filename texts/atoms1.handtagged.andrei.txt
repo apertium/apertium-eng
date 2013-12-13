@@ -26,8 +26,8 @@
 ^called/call<vblex><pp>$
 ^atoms/atom<n><pl>$
 ^,/,<cm>$
-^as/as<cnjadv>$
-^opposed/oppose<adj><pp>$
+^as/as<pr>$
+^opposed/*opposed$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^obsolete/obsolete<adj>$
@@ -53,12 +53,12 @@
 ^ancient/ancient<adj>$
 ^Greece/Greece<np><loc><sg>$
 ^and/and<cnjcoo>$
-^India/India<np><loc><sg>$
+^India/India<np><ant><f><sg>$
 ^and/and<cnjcoo>$
 ^entered/enter<vblex><past>$
 ^the/the<det><def><sp>$
 ^scientific/scientific<adj>$
-^mainstream/mainstream<n><sg>$
+^mainstream/*mainstream$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^early/early<adj><sint>$
@@ -93,7 +93,7 @@
 ^had/have<vblex><past>$
 ^two/two<num><sp>$
 ^significant/significant<adj>$
-^shortcomings/shortcoming<n><pl>$
+^shortcomings/*shortcomings$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -120,12 +120,12 @@
 ^is/be<vbser><pri><p3><sg>$
 ^known/know<vblex><pp>$
 ^to/to<pr>$
-^emit/emit<vblex><inf>$
+^emit/*emit$
 ^electromagnetic/electromagnetic<adj>$
 ^waves/wave<n><pl>$
 ^according to/according to<pr>$
 ^the/the<det><def><sp>$
-^Larmor/Larmor<np><p3>$
+^Larmor/*Larmor$
 ^formula/formula<n><sg>$
 ^in/in<pr>$
 ^classical/classical<adj>$
@@ -144,7 +144,7 @@
 ^the/the<det><def><sp>$
 ^nucleus/nucleus<n><sg>$
 ^,/,<cm>$
-^colliding/collide<vblex><ger>$
+^colliding/*colliding$
 ^with/with<pr>$
 ^it/prpers<prn><obj><p3><nt><sg>$
 ^in/in<pr>$
@@ -211,10 +211,10 @@
 ^Worse/Bad<adj><sint><comp>$
 ^still/still<adv>$
 ^,/,<cm>$
-^as/as<cnjadv>$
+^as/as<cnjadv>$ 
 ^spectrographic/spectrographic<adj>$
 ^technology/technology<n><sg>$
-^improved/improve<vblex><past>$
+^improved/improve<vblex><past>$ 
 ^,/,<cm>$
 ^additional/additional<adj>$
 ^spectral/spectral<adj>$
@@ -265,10 +265,11 @@
 ^still/still<adv>$
 ^couldn't/can<vaux><past>+not<adv>$
 ^explain/explain<vblex><inf>$
-^more/more<adv>$
+^more/more<det><qnt><sp>$ # "(more complex) atoms" not "more (complex atoms)", choose category accordingly
 ^complex/complex<adj>$
 ^atoms/atom<n><pl>$
 ^./.<sent>$
+
 
 ^A/A<det><ind><sg>$
 ^consequence/consequence<n><sg>$
@@ -303,7 +304,7 @@
 ^principle/principle<n><sg>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$
+^This/This<prn><tn><mf><sg>$ 
 ^invalidated/invalidate<vblex><pp>$
 ^Bohr/Bohr<np><cog><sg>$ 
 ^'s/'s<gen>$
@@ -314,7 +315,7 @@
 ^neat/neat<adj><sint>$
 ^,/,<cm>$
 ^clearly/clearly<adv>$
-^defined/define<vblex><pp>$
+^defined/define<vblex><pp>$ 
 ^circular/circular<adj>$
 ^orbits/orbit<n><pl>$
 ^./.<sent>$
@@ -354,7 +355,7 @@
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^,/,<cm>$
-^depending on/depend<vblex><sep><ger>$
+^depending on/depend<vblex><sep><ger># on$ 
 ^its/its<det><pos><sp>$
 ^energy/energy<n><sg>$
 ^level/level<n><sg>$
@@ -371,7 +372,7 @@
 ^the/the<det><def><sp>$
 ^nucleus/nucleus<n><sg>$
 ^than/than<cnjcoo>$
-^others/other<prn><tn><mf><pl>$
+^others/others<prn><tn><mf><pl>$
 ^;/;<sent>$
 ^this/this<det><dem><sg>$
 ^pattern/pattern<n><sg>$
@@ -383,3 +384,5 @@
 ^atomic/atomic<adj>$
 ^orbital/orbital<adj>$
 ^./.<sent>$
+
+
