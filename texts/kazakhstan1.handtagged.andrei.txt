@@ -44,7 +44,7 @@
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^called/call<vblex><past>$
 ^them/prpers<prn><obj><p3><mf><pl>$
-^both/both<det><ind><pl>$
+^both/both<prn><tn><mf><pl>$
 ^Kyrgyz/*Kyrgyz$
 ^to/to<pr>$
 ^avoid/avoid<vblex><inf>$
@@ -118,7 +118,7 @@
 ^the/the<det><def><sp>$
 ^independence/independence<n><sg>$
 ^-/-<guio>$
-^minded/mind<vblex><past>$
+^minded/mind<vblex><pp>$
 ^Baltic/*Baltic$
 ^states/state<n><pl>$
 ^,/,<cm>$
@@ -199,7 +199,7 @@
 ^an/a<det><ind><sg>$
 ^agreement/agreement<n><sg>$
 ^with/with<pr>$
-^Chevron/Chevron<np><al><sg>$
+^Chevron/Chevron<n><sg>$
 ^,/,<cm>$
 ^an/a<det><ind><sg>$
 ^American/american<adj>$
@@ -342,7 +342,7 @@
 ^most of/most<prn><tn><mf><pl>+of<pr>$
 ^the same/the same<det><ind><sp>$
 ^leadership/leadership<n><sg>$
-^that/that<cnjsub>$
+^that/that<rel><an><mf><sp>$
 ^had/have<vbhaver><past>$
 ^occupied/occupy<vblex><pp>$
 ^the/the<det><def><sp>$
@@ -562,7 +562,7 @@
 ^the/the<det><def><sp>$
 ^lowest/low<adj><sint><sup>$
 ^elevations/elevation<n><pl>$
-^on/on<adv>/on<pr>$
+^on/on<pr>$
 ^Earth/Earth<n><sg>$
 ^./.<sent>$
 ^Many/Many<det><qnt><pl>$
@@ -630,7 +630,7 @@
 ^through/through<pr>$
 ^Kazakhstan/Kazakhstan<np><loc><sg>$
 ^,/,<cm>$
-^all/all<predet><sp>$
+^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$
 ^Kazakhstan/Kazakhstan<np><loc><sg>$ 
 ^'s/'s<gen>$
@@ -644,7 +644,7 @@
 ^systems/system<n><pl>$
 ^./.<sent>$
 ^They/Prpers<prn><subj><p3><mf><pl>$
-^either/either<adv>$
+^either/either<cnjcoo>$
 ^flow into/flow<vblex><pres># into$
 ^isolated/isolated<adj>$
 ^bodies/body<n><pl>$
@@ -741,7 +741,7 @@
 ^the/the<det><def><sp>$
 ^1990s/1990s<num>$
 ^,/,<cm>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^Germany/Germany<np><loc><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^willing/willing<adj>$

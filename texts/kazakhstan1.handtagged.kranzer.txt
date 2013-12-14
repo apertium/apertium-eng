@@ -44,7 +44,7 @@
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^called/call<vblex><past>$
 ^them/prpers<prn><obj><p3><mf><pl>$
-^both/both<det><ind><pl>$
+^both/both<prn><tn><mf><pl>$
 ^Kyrgyz/*Kyrgyz$
 ^to/to<pr>$
 ^avoid/avoid<vblex><inf>$
@@ -119,7 +119,7 @@
 ^the/the<det><def><sp>$
 ^independence/independence<n><sg>$
 ^-/-<guio>$
-^minded/mind<vblex><past>$
+^minded/mind<vblex><pp>$
 ^Baltic/*Baltic$
 ^states/state<n><pl>$
 ^,/,<cm>$
@@ -343,7 +343,7 @@
 ^the same/the same<det><ind><sp>$
 ^leadership/leadership<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^had/have<vbhaver><past>$ 
+^had/have<vbhaver><past>$
 ^occupied/occupy<vblex><pp>$
 ^the/the<det><def><sp>$
 ^top/top<adj>$
@@ -563,7 +563,7 @@
 ^the/the<det><def><sp>$
 ^lowest/low<adj><sint><sup>$
 ^elevations/elevation<n><pl>$
-^on/on<adv>/on<pr>$
+^on/on<pr>$
 ^Earth/Earth<n><sg>$
 ^./.<sent>$
 ^Many/Many<det><qnt><pl>$
