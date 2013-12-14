@@ -689,7 +689,7 @@
 ^frequency/frequency<n><sg>$ 
 ^oscillations/*oscillations$ 
 ^that/that<rel><an><mf><sp>$ 
-^appear/appear<vblex><inf>$ 
+^appear/appear<vblex><pres>$ 
 ^across/across<pr>$ 
 ^the/the<det><def><sp>$ 
 ^capacitor/*capacitor$ 
@@ -698,7 +698,7 @@
 ^applied/apply<vblex><pp>$ 
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
-^supply/supply<vblex><pres>$ 
+^supply/supply<n><sg>$ 
 ^transformer/transformer<n><sg>$  
 ^'s/'s<gen>$ 
 ^winding/*winding$ 
@@ -737,7 +737,7 @@
 ^augmenting/augment<vblex><ger>$ 
 ^it/prpers<prn><obj><p3><nt><sg>$ 
 ^with/with<pr>$ 
-^low/low<adv>$ 
+^low/low<adj><sint>$ 
 ^pass/pass<n><sg>$ 
 ^filters/filter<n><pl>$ 
 ^(/(<lpar>$ 
@@ -757,7 +757,7 @@
 ^spark/spark<n><sg>$ 
 ^gap/gap<n><sg>$ 
 ^to/to<pr>$ 
-^help/help<n><sg>$ 
+^help/help<vblex><inf>$ 
 ^protect/protect<vblex><inf>$ 
 ^the/the<det><def><sp>$ 
 ^supply/supply<n><sg>$ 
@@ -804,7 +804,7 @@
 ^that/that<rel><an><mf><sp>$ 
 ^self/*self$
 ^-/-<guio>$
-^limits/limit<n><pl>$ 
+^limits/limit<vblex><pri><p3><sg>$ 
 ^its/its<det><pos><sp>$ 
 ^secondary/secondary<adj>$ 
 ^current/current<n><sg>$ 
@@ -1100,12 +1100,12 @@
 ^the/the<det><def><sp>$ 
 ^electrostatic/electrostatic<adj>$ 
 ^energy/energy<n><sg>$ 
-^stored/store<vblex><past>$ 
+^stored/store<vblex><pp>$ 
 ^in/in<pr>$ 
 ^a/a<det><ind><sg>$ 
 ^given/give<vblex><pp>$ 
 ^top/top<adj>$ 
-^terminal/terminal<adj>$ 
+^terminal/terminal<n><sg>$ 
 ^capacitance/*capacitance$ 
 ^./.<sent>$
 
@@ -1204,7 +1204,7 @@
 ^-/-<guio>$
 ^deep/deep<adj><sint>$ 
 ^RF/*RF$ 
-^burn/burn<vblex><pres>$ 
+^burn/burn<n><sg>$ 
 ^that/that<rel><an><mf><sp>$ 
 ^may/may<vaux><inf>$ 
 ^take/take<vblex><inf>$ 
