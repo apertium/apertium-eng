@@ -65,7 +65,7 @@ The modern cone system was developed by Porsche and introduced in the 1952 Porsc
 In the early 1950s , only the second-third shift was synchromesh in most cars , requiring only a single synchro and a simple linkage ; drivers ' manuals in cars suggested that if the driver needed to shift from second to first , it was best to come to a complete stop then shift into first and start up again .
 With continuing sophistication of mechanical development , fully synchromesh transmissions with three speeds , then four , and then five , became universal by the 1980s .
 Many modern manual transmission cars , especially sports cars , now offer six speeds .
-The 2012 Porsche 911 offers a seven-speed manual transmission , with the seventh gear intended for cruising-top speed being attained on sixth .
+The 2012 Porsche 911 offers a seven-speed manual transmission , with the seventh gear intended for cruising - top speed being attained on sixth .
 
 Reverse gear is usually not synchromesh , as there is only one reverse gear in the normal automotive transmission and changing gears into reverse while moving is not required - and often highly undesirable , particularly at high forward speed .
 Additionally , the usual method of providing reverse , with an idler gear sliding into place to bridge what would otherwise be two mismatched forward gears , is necessarily similar to the operation of a crash box .
