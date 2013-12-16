@@ -81,7 +81,7 @@
 ^)/)<rpar>$ 
 ^,/,<cm>$ 
 ^while/while<cnjadv>$ 
-^losing/lose<vblex><subs>$
+^losing/lose<vblex><ger>$ 
 ^only/only<adv>$ 
 ^two/two<num><sp>$ 
 ^./.<sent>$
@@ -121,7 +121,7 @@
 ^fortresses/fortress<n><pl>$ 
 ^,/,<cm>$ 
 ^are/be<vbser><pres>$ 
-^situated/situate<vblex><past>$ 
+^situated/situate<vblex><pp>$ 
 ^in/in<pr>$ 
 ^Bessarabia/*Bessarabia$ 
 ^(/(<lpar>$ 
@@ -219,7 +219,7 @@
 ^were/be<vbser><past>$ 
 ^totally/totally<adv>$ 
 ^driven/drive<vblex><pp>$ 
-^out/out<pr>$ 
+^out/out<adv>$ 
 ^prior to/prior to<pr>$ 
 ^1812/1812<num>$ 
 ^./.<sent>$
@@ -502,7 +502,7 @@
 ^of/of<pr>$ 
 ^Bessarabia/*Bessarabia$ 
 ^,/,<cm>$ 
-^merged/merge<vblex><pp>$ 
+^merged/merge<vblex><past>$ 
 ^with/with<pr>$ 
 ^the/the<det><def><sp>$ 
 ^western/western<adj>$ 
@@ -757,8 +757,8 @@
 ^Romanian/Romanian<n><sg>$ 
 ^control/control<n><sg>$ 
 ^./.<sent>$
-
-^As/As<pr>$ 
+ 
+^As/As<cnjadv>$ 
 ^the/the<det><def><sp>$ 
 ^military operation/military operation<n><sg>$ 
 ^was still in/be<vblex><past><p3><sg># still in$ 
@@ -855,7 +855,7 @@
 ^,/,<cm>$ 
 ^or/or<cnjcoo>$ 
 ^under/under<pr>$ 
-^no/no<adv>$ 
+^no/no<det><ind><sp>$ 
 ^pretext/pretext<n><sg>$ 
 ^whatsoever/whatsoever<prn><tn><m><sg>$ 
 ^./.<sent>$
@@ -1053,7 +1053,7 @@
 ^and/and<cnjcoo>$ 
 ^later/later<adv>$ 
 ^handed/hand<vblex><pp>$ 
-^over/over<pr>$ 
+^over/over<adv>$ 
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Soviets/*Soviets$ 
@@ -1239,19 +1239,19 @@
 ^opposition/opposition<n><sg>$ 
 ^Popular Front/Popular front<n><sg>$ 
 ^all/all<prn><tn><mf><sp>$ 
-^but/but<cnjcoo>$ 
-^winning/win<vblex><ger>$ 
+^but/but<pr>$ 
+^winning/win<vblex><subs>$ 
 ^them/prpers<prn><obj><p3><mf><pl>$ 
 ^./.<sent>$
 
 ^A/A<det><ind><sg>$ 
 ^government/government<n><sg>$ 
-^led/lead<vblex><past>$ 
+^led/lead<vblex><pp>$ 
 ^by/by<pr>$ 
 ^Mircea/*Mircea$ 
 ^Druc/*Druc$ 
 ^,/,<cm>$ 
-^one/one<num><sg>$ 
+^one/one<prn><tn><mf><sg>$ 
 ^of/of<pr>$ 
 ^the/the<det><def><sp>$ 
 ^leaders/leader<n><pl>$ 
@@ -1290,7 +1290,7 @@
 ^its/its<det><pos><sp>$ 
 ^boundaries/boundary<n><pl>$ 
 ^(/(<lpar>$ 
-^those/that<det><dem><pl>$ 
+^those/that<prn><tn><mf><pl>$ 
 ^established/establish<vblex><pp>$ 
 ^on/on<pr>$ 
 ^August/August<n><sg>$ 
