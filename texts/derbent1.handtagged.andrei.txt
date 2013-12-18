@@ -74,7 +74,7 @@
 ^very/very<preadv>$
 ^narrow/narrow<adj><sint>$
 ^coastal/coastal<adj>$
-^crossing/cross<vblex><pprs>$
+^crossing/crossing<n><sg>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^Caspian/*Caspian$
@@ -191,7 +191,7 @@
 ^,/,<cm>$
 ^different/different<adj>$
 ^nations/nation<n><pl>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^given/give<vblex><pp>$
 ^the/the<det><def><sp>$
 ^city/city<n><sg>$
@@ -200,7 +200,7 @@
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^all/all<prn><tn><mf><sp>$
-^connected/connect<vblex><past>$
+^connected/connect<vblex><pp>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^word/word<n><sg>$
@@ -209,7 +209,7 @@
 ^its/its<det><pos><sp>$
 ^name/name<n><sg>$
 ^in/in<pr>$
-^Persian/persian<adj>$
+^Persian/Persian<n><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^Darband/*Darband$
 ^,/,<cm>$
@@ -412,7 +412,7 @@
 ^thirty/thirty<num><sp>$
 ^north/north<adv>$
 ^-/-<guio>$
-^looking/look<vblex><subs>$
+^looking/look<vblex><pprs>$
 ^towers/tower<n><pl>$
 ^are/be<vbser><pres>$
 ^believed/believe<vblex><pp>$
@@ -637,10 +637,10 @@
 ^from/from<pr>$
 ^invaders/*invaders$
 ^;/;<sent>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^Arab/arab<adj>$
 ^rule/rule<n><sg>$
-^weakened/weaken<vblex><pp>$
+^weakened/weaken<vblex><past>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
@@ -991,7 +991,7 @@
 ^Derbent/*Derbent$
 ^became/become<vblex><past>$
 ^the/the<det><def><sp>$
-^capital/capital<adj>$
+^capital/capital<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Derbent/*Derbent$
@@ -1054,7 +1054,7 @@
 ^and/and<cnjcoo>$
 ^several/several<det><ind><pl>$
 ^watchtowers/watchtower<n><pl>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^been/be<vbser><pp>$
 ^preserved/preserve<vblex><pp>$
 ^in/in<pr>$
@@ -1062,7 +1062,7 @@
 ^shape/shape<n><sg>$
 ^until/until<pr>$
 ^the/the<det><def><sp>$
-^present/present<n><sg>$
+^present/present<adj>$
 ^day/day<n><sg>$
 ^./.<sent>$
 
@@ -1201,7 +1201,7 @@
 ^Caspian/*Caspian$
 ^Sea/sea<n><sg>$
 ^,/,<cm>$
-^south/south<n><sg>$
+^south/south<adv>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Rubas/*Rubas$
@@ -1271,7 +1271,7 @@
 ^,/,<cm>$
 ^who/who<rel><an><mf><sp>$
 ^fell/fall<vblex><past>$
-^defending/defend<vblex><pprs>$
+^defending/defend<vblex><ger>$
 ^Dagestan/*Dagestan$
 ^against/against<pr>$
 ^the/the<det><def><sp>$
@@ -1449,7 +1449,7 @@
 ^home/home<n><sg>$
 ^to/to<pr>$
 ^machine/machine<n><sg>$
-^building/build<vblex><pprs>$
+^building/build<vblex><subs>$
 ^,/,<cm>$
 ^food/food<n><sg>$
 ^,/,<cm>$
