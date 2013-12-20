@@ -1,0 +1,69 @@
+Alan Mathison Turing , OBE , FRS ( 23 June 1912 – 7 June 1954 ) , was a British mathematician , logician , cryptanalyst , and computer scientist .
+He was highly influential in the development of computer science , giving a formalisation of the concepts of " algorithm " and " computation " with the Turing machine , which can be considered a model of a general purpose computer .
+Turing is widely considered to be the father of computer science and artificial intelligence .
+
+During the Second World War , Turing worked for the Government Code and Cypher School ( GC&CS ) at Bletchley Park , Britain 's codebreaking centre .
+For a time he was head of Hut 8 , the section responsible for German naval cryptanalysis .
+He devised a number of techniques for breaking German ciphers , including the method of the bombe , an electromechanical machine that could find settings for the Enigma machine .
+
+After the war , he worked at the National Physical Laboratory , where he designed the ACE , one of the first designs for a stored-program computer .
+In 1948 Turing joined Max Newman 's Computing Laboratory at Manchester University , where he assisted in the development of the Manchester computers and became interested in mathematical biology .
+He wrote a paper on the chemical basis of morphogenesis , and predicted oscillating chemical reactions such as the Belousov-Zhabotinsky reaction , which were first observed in the 1960s .
+
+Turing 's homosexuality resulted in a criminal prosecution in 1952 , when homosexual acts were still criminalized in the United Kingdom .
+He accepted treatment with female hormones ( chemical castration ) as an alternative to prison .
+Turing died in 1954 , just over two weeks before his 42nd birthday , from cyanide poisoning .
+An inquest determined that his death was suicide ; his mother and some others believed his death was accidental .
+On 10 September 2009 , following an Internet campaign , British Prime Minister Gordon Brown made an official public apology on behalf of the British government for " the appalling way he was treated " .
+In May 2012 , a private member 's bill was put before the House of Lords to grant Turing a statutory pardon .
+In July 2013 it gained government support .
+
+Turing was born in London while his father was on leave from his position with the Indian Civil Service ( ICS ) at Chhatrapur , Bihar and Orissa Province , in British India .
+Turing 's father , Julius Mathison Turing ( 1873 – 1947 ) , was the son of a clergyman from a Scottish family of merchants which had been based in the Netherlands and included a baronet .
+Julius 's wife , Alan 's mother , was Ethel Sara ( née Stoney ; 1881 – 1976 ) , daughter of Edward Waller Stoney , chief engineer of the Madras Railways .
+The Stoneys were a Protestant Anglo-Irish gentry family from both County Tipperary and County Longford , while Ethel herself had spent much of her childhood in County Clare .
+Julius ' work with the ICS brought the family to British India , where his grandfather had been a general in the Bengal Army .
+However , both Julius and Ethel wanted their children to be brought up in England , so they moved to Maida Vale , London , where Turing was born on 23 June 1912 , as recorded by a blue plaque on the outside of the house of his birth , later the Colonnade Hotel .
+He had an elder brother , John ( the father of Sir John Dermot Turing , 12th Baronet of the Turing baronets ) .
+His father 's civil service commission was still active , and during Turing 's childhood years his parents travelled between Hastings in England and India , leaving their two sons to stay with a retired Army couple .
+Very early in life , Turing showed signs of the genius he was later to display prominently .
+His parents purchased a house in Guildford in 1927 , and Turing lived there during school holidays .
+The location is also marked with a blue plaque .
+
+His parents enrolled him at St Michael 's , a day school at 20 Charles Road , St Leonards-on-Sea , at the age of six .
+The headmistress recognised his talent early on , as did many of his subsequent educators .
+In 1926 , at the age of 13 , he went on to Sherborne School , a well known independent school in the market town of Sherborne in Dorset .
+The first day of term coincided with the 1926 General Strike in Britain , but so determined was he to attend that he rode his bicycle unaccompanied more than 60 miles ( 97 km ) from Southampton to Sherborne , stopping overnight at an inn .
+
+Turing 's natural inclination toward mathematics and science did not earn him respect from some of the teachers at Sherborne , whose definition of education placed more emphasis on the classics .
+His headmaster wrote to his parents : " I hope he will not fall between two stools. If he is to stay at public school , he must aim at becoming educated. If he is to be solely a Scientific Specialist , he is wasting his time at a public school " .
+Despite this , Turing continued to show remarkable ability in the studies he loved , solving advanced problems in 1927 without having studied even elementary calculus .
+In 1928 , aged 16 , Turing encountered Albert Einstein 's work ; not only did he grasp it , but he extrapolated Einstein 's questioning of Newton 's laws of motion from a text in which this was never made explicit .
+
+At Sherborne , Turing formed an important friendship with fellow pupil Christopher Morcom , which provided inspiration in Turing 's future endeavours .
+However , the friendship was cut short by Morcom 's death in February 1930 from complications of bovine tuberculosis contracted after drinking infected cow 's milk some years previously .
+This event shattered Turing 's religious faith .
+He became an atheist and adopted the conviction that all phenomena , including the workings of the human brain , must be materialistic , but he still believed in the survival of the spirit after death .
+
+After Sherborne , Turing studied as an undergraduate from 1931 to 1934 at King 's College , Cambridge , from where he gained first-class honours in mathematics .
+In 1935 , at the young age of 22 , he was elected a fellow at King 's on the strength of a dissertation in which he proved the central limit theorem , despite the fact that he had failed to find out that it had already been proved in 1922 by Jarl Waldemar Lindeberg .
+
+In 1928 , German mathematician David Hilbert had called attention to the Entscheidungsproblem ( decision problem ) .
+In his momentous paper " On Computable Numbers , with an Application to the Entscheidungsproblem " ( submitted on 28 May 1936 and delivered 12 November ) , Turing reformulated Kurt Gödel 's 1931 results on the limits of proof and computation , replacing Gödel 's universal arithmetic-based formal language with the formal and simple hypothetical devices that became known as Turing machines .
+He proved that some such machine would be capable of performing any conceivable mathematical computation if it were representable as an algorithm .
+He went on to prove that there was no solution to the Entscheidungsproblem by first showing that the halting problem for Turing machines is undecidable : in general , it is not possible to decide algorithmically whether a given Turing machine will ever halt .
+
+Although Turing 's proof was published shortly after Alonzo Church 's equivalent proof using his lambda calculus , Turing had been unaware of Church 's work .
+Turing 's approach is considerably more accessible and intuitive than Church 's .
+It was also novel in its notion of a ' Universal Machine ' ( now known as a Universal Turing machine ) , with the idea that such a machine could perform the tasks of any other machine , or in other words , it is provably capable of computing anything that is computable .
+In effect , it is programmable .
+Von Neumann acknowledged that the central concept of the modern computer was due to this paper .
+Turing machines are to this day a central object of study in theory of computation .
+
+From September 1936 to July 1938 , he spent most of his time studying under Church at Princeton University .
+In addition to his purely mathematical work , he studied cryptology and also built three of four stages of an electro-mechanical binary multiplier .
+In June 1938 , he obtained his PhD from Princeton ; his dissertation , Systems of Logic Based on Ordinals , introduced the concept of ordinal logic and the notion of relative computing , where Turing machines are augmented with so-called oracles , allowing a study of problems that cannot be solved by a Turing machine .
+
+When Turing returned to Cambridge , he attended lectures given by Ludwig Wittgenstein about the foundations of mathematics .
+The two argued and disagreed , with Turing defending formalism and Wittgenstein propounding his view that mathematics does not discover any absolute truths but rather invents them .
+He also started to work part-time with the Government Code and Cypher School ( GCCS ) .
