@@ -1,4 +1,5 @@
 * text=auto !eol
+texts/MANIFEST -text
 texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.handtagged.yongloong.txt -text
 texts/afghanistan1.raw.txt -text
@@ -43,7 +44,7 @@ texts/atoms1.handtagged.andrei.txt -text
 texts/atoms1.handtagged.kristian-hansen.txt -text
 texts/atoms1.raw.txt -text
 texts/atoms1.tagged.txt -text
-texts/belize1.handtagged._VN_.text -text
+texts/belize1.handtagged._VN_.txt -text
 texts/belize1.handtagged.darkgaia.txt -text
 texts/belize1.raw.txt -text
 texts/belize1.tagged.txt -text
@@ -74,6 +75,7 @@ texts/derbent1.raw.txt -text
 texts/derbent1.tagged.txt -text
 texts/faust1.raw.txt -text
 texts/faust1.tagged.txt -text
+texts/generate-manifest.sh -text
 texts/karabakh1.handtagged.darkgaia1.txt -text
 texts/karabakh1.handtagged.ilie.txt -text
 texts/karabakh1.raw.txt -text
