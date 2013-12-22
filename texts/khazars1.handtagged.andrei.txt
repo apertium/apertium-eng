@@ -412,7 +412,7 @@
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^rebel/rebel<vblex><inf>$
-^general/general<adj>$
+^general/general<n><sg>$
 ^Bardanes/*Bardanes$
 ^,/,<cm>$
 ^who/who<rel><an><mf><sp>$
@@ -601,7 +601,7 @@
 ^./.<sent>$
 
 ^Historians/Historian<n><pl>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^sometimes/sometimes<adv>$
 ^wondered/wonder<vblex><pp>$
 ^,/,<cm>$
@@ -622,7 +622,7 @@
 ^on/on<pr>$
 ^religious/religious<adj>$
 ^grounds/ground<n><pl>$
-^led/lead<vblex><pp>$
+^led/lead<vblex><past>$
 ^those/that<det><dem><pl>$
 ^rulers/ruler<n><pl>$
 ^to/to<pr>$
@@ -660,7 +660,7 @@
 
 ^Some/Some<det><qnt><sp>$
 ^researchers/researcher<n><pl>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^suggested/suggest<vblex><pp>$
 ^part/part<n><sg>$
 ^of/of<pr>$
@@ -683,7 +683,7 @@
 ^empire/empire<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^between/between<pr>$
-^growing/grow<vblex><subs>$
+^growing/grow<vblex><pprs>$
 ^populations/population<n><pl>$
 ^,/,<cm>$
 ^Muslims/Muslim<n><pl>$
@@ -726,12 +726,12 @@
 ^have/have<vbhaver><inf>$
 ^occurred/occur<vblex><pp>$
 ^as/as<pr>$
-^early/early<adj><sint>$
-^as/as<preadv>$
+^early/early<adv>$
+^as/as<pr>$
 ^740/740<num>$
 ^or/or<cnjcoo>$
 ^as/as<preadv>$
-^late/late<adj><sint>$
+^late/late<adv>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
 ^mid/*mid$
@@ -756,7 +756,7 @@
 ^830/830<num>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^though/though<adv>$
+^though/though<cnjadv>$ 
 ^St./*St.$
 ^Cyril/*Cyril$
 ^(/(<lpar>$
@@ -824,7 +824,7 @@
 ^named/name<vblex><pp>$
 ^Bulan/*Bulan$
 ^which/which<rel><an><mf><sp>$
-^means/means<n><pl>$
+^means/mean<vblex><pri><p3><sg>$
 "
 ^elk/elk<n><sg>$
 "
@@ -899,7 +899,7 @@
 ^Avraham/*Avraham$
 ^Firkovich/*Firkovich$
 ^)/)<rpar>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^proposed/propose<vblex><pp>$
 ^./.<sent>$
 
@@ -938,7 +938,7 @@
 ^Hasdai/*Hasdai$
 ^ibn/*ibn$
 ^Shaprut/*Shaprut$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^been/be<vbser><pp>$
 ^preserved/preserve<vblex><pp>$
 ^)/)<rpar>$
