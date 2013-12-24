@@ -1,33 +1,33 @@
-4	sunday1	alvin,andrei,kristian-hansen,yoonglong,
-3	sahara1	andrei,darkgaia1,niroulapradeep,
-3	kazakhstan1	andrei,ilie,kranzer,
-3	algeria1	quicksilver,rap,yugin,
-2	vietnam1	andrei,yuang-siang-ng,
-2	peru1	andrei,darkgaia,
-2	partisans1	andrei,quicksilver,
-2	karabakh1	darkgaia1,ilie,
-2	derbent1	andrei,ilie,
-2	colombia1	ilie,quicksilver,
-2	coil1	andrei,kranzer,
-2	bessarabia1	andrei,darkgaia,
-2	belize2	andrei,darkgaia,
-2	belize1	darkgaia,_VN_,
-2	atoms1	andrei,kristian-hansen,
-2	animism1	andrei,cmy,
-2	anarchism1	darkgaia,ilie,
-2	ambiorix1	darkgaia1,quicksilver,
-2	alfred1	darkgaia,yongloong,
-2	albedo1	andrei,niroulapradeep,
-2	alabama1	darkgaia,ilie,
-2	afghanistan1	ilie,yongloong,
-1	tokamak1	andrei,
-1	monarchy1	andrei,
-1	kyrgyzstan1	andrei,
-1	khazars1	andrei,
-1	caucasus1	rap,
-1	aluminium1	andrei,
-1	aizkolaritza1	andrei,
-0	turing1	
-0	transmission1	
-0	faust1	
-0	dakhma1	
+-e 4	sunday1	alvin,andrei,kristian-hansen,yoonglong
+-e 4	algeria1	quicksilver,rap,yongloong,yugin
+-e 3	sahara1	andrei,darkgaia1,niroulapradeep
+-e 3	khazars1	andrei,kranzer,kranzer~
+-e 3	kazakhstan1	andrei,ilie,kranzer
+-e 2	vietnam1	andrei,yuang-siang-ng
+-e 2	peru1	andrei,darkgaia
+-e 2	partisans1	andrei,quicksilver
+-e 2	karabakh1	darkgaia1,ilie
+-e 2	derbent1	andrei,ilie
+-e 2	colombia1	ilie,quicksilver
+-e 2	coil1	andrei,kranzer
+-e 2	bessarabia1	andrei,darkgaia
+-e 2	belize2	andrei,darkgaia
+-e 2	belize1	darkgaia,_VN_
+-e 2	atoms1	andrei,kristian-hansen
+-e 2	animism1	andrei,cmy
+-e 2	anarchism1	darkgaia,ilie
+-e 2	ambiorix1	darkgaia1,quicksilver
+-e 2	alfred1	darkgaia,yongloong
+-e 2	albedo1	andrei,niroulapradeep
+-e 2	alabama1	darkgaia,ilie
+-e 2	afghanistan1	ilie,yongloong
+-e 1	tokamak1	andrei
+-e 1	monarchy1	andrei
+-e 1	kyrgyzstan1	andrei
+-e 1	caucasus1	rap
+-e 1	aluminium1	andrei
+-e 1	aizkolaritza1	andrei
+-e 0	turing1	
+-e 0	transmission1	
+-e 0	faust1	
+-e 0	dakhma1	
