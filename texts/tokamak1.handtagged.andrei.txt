@@ -219,7 +219,7 @@
 ^initially/initially<adv>$
 ^classified/classify<vblex><pp>$
 ^as/as<pr>$
-^secret/secret<n><sg>$
+^secret/secret<adj>$
 ^./.<sent>$
 
 ^It/prpers<prn><subj><p3><nt><sg>$
@@ -243,7 +243,7 @@
 ^in/in<pr>$
 ^Geneva/Geneva<np><ant><f><sg>$
 ^that/that<rel><an><mf><sp>$
-^programs/program<vblex><pri><p3><sg>$
+^programs/program<n><pl>$
 ^were/be<vbser><past>$
 ^declassified/*declassified$
 ^and/and<cnjcoo>$
@@ -288,7 +288,7 @@
 ^tokamaks/*tokamaks$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^most/most<prn><tn><mf><pl>$
+^most/most<adv>$ 
 ^successful/successful<adj>$
 ^being/be<vbser><ger>$
 ^T-3/*T-3$
