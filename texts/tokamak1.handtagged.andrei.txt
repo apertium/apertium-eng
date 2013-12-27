@@ -114,7 +114,7 @@
 ^current/current<n><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^induced/induce<vblex><pp>$
-^inside/inside<pr>$ 
+^inside/inside<pr>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^with/with<pr>$
@@ -158,8 +158,8 @@
 ^used/use<vblex><pp>$
 ^for/for<pr>$
 ^confinement/confinement<n><sg>$
-^since/since<pr>$
-^no/no<adv>$
+^since/since<adv>$
+^no/no<det><ind><sp>$
 ^solid/solid<adj><sint>$
 ^material/material<n><sg>$
 ^could/can<vaux><past>$
@@ -288,7 +288,7 @@
 ^tokamaks/*tokamaks$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^most/most<adv>$ 
+^most/most<adv>$
 ^successful/successful<adj>$
 ^being/be<vbser><ger>$
 ^T-3/*T-3$
@@ -569,7 +569,7 @@
 ^field/field<n><sg>$
 ^./.<sent>$
 
-^Since/since<adv>$ 
+^Since/since<adv>$
 ^a/a<det><ind><sg>$
 ^toroidal/*toroidal$
 ^field/field<n><sg>$
@@ -630,7 +630,7 @@
 ^rotation/rotation<n><sg>$
 ^)/)<rpar>$
 ^for/for<pr>$
-^both/both<det><ind><pl>$
+^both/both<cnjcoo>$
 ^ions/ion<n><pl>$
 ^and/and<cnjcoo>$
 ^electrons/electron<n><pl>$
@@ -761,7 +761,7 @@
 ^(/(<lpar>$
 ^larger/large<adj><sint><comp>$
 ^major/major<adj>$
-^radius/radius<n><pl>$
+^radius/radius<n><sg>$ 
 ^,/,<cm>$
 ^or/or<cnjcoo>$
 "
