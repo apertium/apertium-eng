@@ -1091,7 +1091,7 @@
 ^is/be<vbser><pri><p3><sg>$
 ^often/often<adv>$
 ^large/large<adj><sint>$
-^but/but<pr>$
+^but/but<cnjcoo>$
 ^rarely/rarely<adv>$
 ^dramatic/dramatic<adj>$
 ^./.<sent>$
@@ -1325,12 +1325,12 @@
 ^must/must<vaux><inf>$
 ^therefore/therefore<adv>$
 ^either/either<cnjcoo>$
-^operate/operate<vblex><pres>$
+^operate/operate<vblex><inf>$ 
 ^for/for<pr>$
 ^short/short<adj><sint>$
 ^periods/period<n><pl>$
 ^or/or<cnjcoo>$
-^rely/rely<vblex><pres>$
+^rely/rely<vblex><inf>$
 ^on/on<pr>$
 ^other/other<det><ind><sp>$
 ^means/means<n><pl>$
@@ -1639,7 +1639,7 @@
 ^If/if<cnjadv>$
 ^the/the<det><def><sp>$
 ^waves/wave<n><pl>$
-^have/have<vblex><inf>$
+^have/have<vblex><pres>$ 
 ^the/the<det><def><sp>$
 ^correct/correct<adj>$
 ^frequency/frequency<n><sg>$
