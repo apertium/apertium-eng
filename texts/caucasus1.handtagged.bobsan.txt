@@ -16,7 +16,7 @@
 ^The/The<det><def><sp>$
 ^nation/nation<n><sg>$
 ^states/state<n><pl>$
-^that/that<cnjsub>$
+^that/that<rel><an><mf><sp>$
 ^comprise/comprise<vblex><pres>$
 ^the/the<det><def><sp>$
 ^Caucasus/*Caucasus$
@@ -96,7 +96,7 @@
 ^northern/northern<adj>$
 ^portion/portion<n><sg>$
 ^of/of<pr>$
-^the/the<det><def><sp>
+^the/the<det><def><sp>$
 ^Caucasus/*Caucasus$
 ^is/be<vbser><pri><p3><sg>$
 ^known/known<adj>$
@@ -238,7 +238,7 @@
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
 ^came/come<vblex><past>$
-^under/under<adv>$
+^under/under<pr>$
 ^the/the<det><def><sp>$
 ^rule/rule<n><sg>$
 ^of/of<pr>$
@@ -291,7 +291,7 @@
 ^,/,<cm>$
 ^Persia/Persia<np><loc><sg>$
 ^,/,<cm>$
-^until/until<cnjadv>$
+^until/until<pr>$
 ^its/its<det><pos><sp>$
 ^conquest/conquest<n><sg>$
 ^by/by<pr>$
@@ -461,7 +461,7 @@
 ^peoples/peoples<n><pl>$
 ^have/have<vbhaver><inf>$
 ^republics/republic<n><pl>$
-^within/within<adv>$
+^within/within<pr>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
 ^Federation/Federation<n><sg>$
@@ -496,7 +496,7 @@
 ^Caucasian/*Caucasian$
 ^peoples/peoples<n><pl>$
 ^mostly/mostly<adv>$
-^live/live<vblex><inf>$
+^live/live<vblex><pres>$
 ^in/in<pr>$
 ^Dagestan/*Dagestan$
 ^./.<sent>$
@@ -517,7 +517,7 @@
 ^an/a<det><ind><sg>$
 ^autonomous/autonomous<adj>$
 ^republic/republic<n><sg>$
-^within/within<adv>$
+^within/within<pr>$
 ^Georgia/Georgia<np><loc><sg>$
 ^./.<sent>$
 
