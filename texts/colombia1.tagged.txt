@@ -316,12 +316,12 @@
 ^under/under<adv>/under<pr>$
 ^the/the<det><def><sp>$
 ^military/military<adj>/military<n><sg>$
-^junta/*junta$
+^junta/junta<n><sg>$
 ^of/of<pr>$
 ^General/General<adj>/General<n><sg>$
 ^Gabriel/Gabriel<np><ant><m><sg>$
-^París/París<np><ant><m><sg>$
-^Gordillo/*Gordillo$
+^París/París<np><cog><sg>$
+^Gordillo/Gordillo<np><cog><sg>$
 ^./.<sent>$
 
 ^After/After<adv>/After<cnjadv>/After<pr>$
@@ -917,7 +917,7 @@
 ^of/of<pr>$
 ^Statistics/Statistics<n><sg>/Statistics<n><pl>$
 ^(/(<lpar>$
-^DANE/DANE<np><ant><m><sg>$
+^DANE/DANE<np><acr><sg>$
 ^)/)<rpar>$
 ^reported/report<vblex><past>/report<vblex><pp>$
 ^that/that<cnjsub>/that<det><dem><sg>/that<prn><tn><mf><sg>/that<rel><an><mf><sp>$
