@@ -76,6 +76,7 @@ texts/derbent1.handtagged.andrei.txt -text
 texts/derbent1.handtagged.ilie.txt -text
 texts/derbent1.raw.txt -text
 texts/derbent1.tagged.txt -text
+texts/faust1.handtagged.spectie.txt -text
 texts/faust1.raw.txt -text
 texts/faust1.tagged.txt -text
 texts/generate-manifest.sh -text
