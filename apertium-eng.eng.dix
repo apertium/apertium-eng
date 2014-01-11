@@ -3,10 +3,20 @@
   <sdefs>
     <sdef n="n"        c="Noun"/>
     <sdef n="pr"       c="Preposition"/>
+    <sdef n="np"       c="Proper name"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
 
     <sdef n="sg"       c="Singular"/>
+    <sdef n="sp"       c=""/>
     <sdef n="pl"       c="Plural"/>
+
+    <sdef n="m"        c="Masculine"/>
+    <sdef n="f"        c="Feminine"/>
+
+    <sdef n="top"      c="Toponym"/>
+    <sdef n="al"       c="Other"/>
+    <sdef n="ant"      c="Anthroponym"/>
+    <sdef n="cog"      c="Cognomen"/>
   </sdefs>
   <pardefs>
     <!-- SECTION: Conjunctions -->
@@ -76,9 +86,69 @@
     <e lm="of"><i>of</i><par n="from__pr"/></e>
     <e lm="to"><i>to</i><par n="from__pr"/></e>
     <e lm="in"><i>in</i><par n="from__pr"/></e>
+    <e lm="between"><i>between</i><par n="from__pr"/></e>
     <e lm="by"><i>by</i><par n="from__pr"/></e>
     <e lm="with"><i>with</i><par n="from__pr"/></e>
     <e lm="for"><i>for</i><par n="from__pr"/></e>
+    <e lm="at"><i>at</i><par n="from__pr"/></e>
+
+    <e lm="above"><i>above</i><par n="from__pr"/></e>
+    <e lm="according to"><i>according<b/>to</i><par n="from__pr"/></e>
+    <e lm="across"><i>across</i><par n="from__pr"/></e>
+    <e lm="after"><i>after</i><par n="from__pr"/></e>
+    <e lm="against"><i>against</i><par n="from__pr"/></e>
+    <e lm="along"><i>along</i><par n="from__pr"/></e>
+    <e lm="alongside"><i>alongside</i><par n="from__pr"/></e>
+    <e lm="along with"><i>along<b/>with</i><par n="from__pr"/></e>
+    <e lm="amid"><i>amid</i><par n="from__pr"/></e>
+    <e lm="among"><i>among</i><par n="from__pr"/></e>
+    <e lm="amongst"><i>amongst</i><par n="from__pr"/></e>
+    <e lm="around"><i>around</i><par n="from__pr"/></e>
+    <e lm="as"><i>as</i><par n="from__pr"/></e>
+    <e lm="as of"><i>as<b/>of</i><par n="from__pr"/></e>
+    <e lm="at"><i>at</i><par n="from__pr"/></e>
+    <e lm="atop"><i>atop</i><par n="from__pr"/></e>
+    <e lm="because of"><i>because<b/>of</i><par n="from__pr"/></e>
+    <e lm="before"><i>before</i><par n="from__pr"/></e>
+    <e lm="behind"><i>behind</i><par n="from__pr"/></e>
+    <e lm="below"><i>below</i><par n="from__pr"/></e>
+    <e lm="but"><i>but</i><par n="from__pr"/></e>
+    <e lm="by"><i>by</i><par n="from__pr"/></e>
+    <e lm="by means of"><i>by<b/>means<b/>of</i><par n="from__pr"/></e>
+    <e lm="despite"><i>despite</i><par n="from__pr"/></e>
+    <e lm="due to"><i>due<b/>to</i><par n="from__pr"/></e>
+    <e lm="during"><i>during</i><par n="from__pr"/></e>
+    <e lm="except"><i>except</i><par n="from__pr"/></e>
+    <e lm="except for"><i>except<b/>for</i><par n="from__pr"/></e>
+    <e lm="from"><i>from</i><par n="from__pr"/></e>
+    <e lm="in contrast to"><i>in<b/>contrast<b/>to</i><par n="from__pr"/></e>
+    <e lm="in front of"><i>in<b/>front<b/>of</i><par n="from__pr"/></e>
+    <e lm="in order to"><i>in<b/>order<b/>to</i><par n="from__pr"/></e>
+    <e lm="inside"><i>inside</i><par n="from__pr"/></e>
+    <e lm="into"><i>into</i><par n="from__pr"/></e>
+    <e lm="near"><i>near</i><par n="from__pr"/></e>
+    <e lm="off"><i>off</i><par n="from__pr"/></e>
+    <e lm="of"><i>of</i><par n="from__pr"/></e>
+    <e lm="on"><i>on</i><par n="from__pr"/></e>
+    <e lm="out of"><i>out<b/>of</i><par n="from__pr"/></e>
+    <e lm="out"><i>out</i><par n="from__pr"/></e>
+    <e lm="outside"><i>outside</i><par n="from__pr"/></e>
+    <e lm="over"><i>over</i><par n="from__pr"/></e>
+    <e lm="per"><i>per</i><par n="from__pr"/></e>
+    <e lm="prior to"><i>prior<b/>to</i><par n="from__pr"/></e>
+    <e lm="since"><i>since</i><par n="from__pr"/></e>
+    <e lm="throughout"><i>throughout</i><par n="from__pr"/></e>
+    <e lm="through"><i>through</i><par n="from__pr"/></e>
+    <e lm="to"><i>to</i><par n="from__pr"/></e>
+    <e lm="towards"><i>towards</i><par n="from__pr"/></e>
+    <e lm="under"><i>under</i><par n="from__pr"/></e>
+    <e lm="upon"><i>upon</i><par n="from__pr"/></e>
+    <e lm="up to"><i>up<b/>to</i><par n="from__pr"/></e>
+    <e lm="up"><i>up</i><par n="from__pr"/></e>
+    <e lm="via"><i>via</i><par n="from__pr"/></e>
+    <e lm="within"><i>within</i><par n="from__pr"/></e>
+    <e lm="without"><i>without</i><par n="from__pr"/></e>
+    <e lm="with"><i>with</i><par n="from__pr"/></e>
 
     <!-- SECTION: Nouns -->
     <e lm="house"><i>house</i><par n="house__n"/></e>
@@ -129,12 +199,13 @@
     <e lm="army"><i>arm</i><par n="countr/y__n"/></e>
     <e lm="treaty"><i>treat</i><par n="countr/y__n"/></e>
     <e lm="century"><i>centur</i><par n="countr/y__n"/></e>
-    <e lm="military"><i>militar</i><par n="militar/y__n"/></e>
-    <e lm="territory"><i>territor</i><par n="territor/y__n"/></e>
-    <e lm="principality"><i>principalit</i><par n="territor/y__n"/></e>
+    <e lm="military"><i>militar</i><par n="countr/y__n"/></e>
+    <e lm="territory"><i>territor</i><par n="countr/y__n"/></e>
+    <e lm="principality"><i>principalit</i><par n="countr/y__n"/></e>
 
     <e lm="chaos"><i>chaos</i><par n="chaos__n"/></e>
     <e lm="peace"><i>peace</i><par n="chaos__n"/></e>
+    <e lm="independence"><i>independence</i><par n="chaos__n"/></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -143,7 +214,11 @@
     <e lm="Leningrad"><i>Leningrad</i><par n="Siberia__np"/></e>
     <e lm="Bessarabia"><i>Bessarabia</i><par n="Siberia__np"/></e>
     <e lm="Russia"><i>Russia</i><par n="Siberia__np"/></e>
+    <e lm="Morocco"><i>Morocco</i><par n="Siberia__np"/></e>
+    <e lm="Belize"><i>Belize</i><par n="Siberia__np"/></e>
     <e lm="Geneva"><i>Geneva</i><par n="Siberia__np"/></e>
+    <e lm="Derbent"><i>Derbent</i><par n="Siberia__np"/></e>
+    <e lm="Guatemala"><i>Guatemala</i><par n="Siberia__np"/></e>
     <e lm="Soviet Union"><i>Soviet<b/>Union</i><par n="Soviet_Union__np"/></e>
     <e lm="United States"><i>United<b/>States</i><par n="United_States__np"/></e>
 
