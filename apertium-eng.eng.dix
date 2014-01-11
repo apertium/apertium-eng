@@ -73,6 +73,10 @@
       <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="Castro__np">
+      <e><p><l></l><r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    </pardef>
+
   </pardefs>
   <section id="main" type="standard">
     <!-- SECTION: Conjunctions -->
@@ -186,6 +190,8 @@
     <e lm="leader"><i>leader</i><par n="house__n"/></e>
     <e lm="border"><i>border</i><par n="house__n"/></e>
     <e lm="alliance"><i>alliance</i><par n="house__n"/></e>
+    <e lm="refrigerant"><i>refrigerant</i><par n="house__n"/></e>
+    <e lm="speed"><i>speed</i><par n="house__n"/></e>
     <e lm="king"><i>king</i><par n="house__n"/></e>
 
     <e lm="oblast"><i>oblast</i><par n="house__n"/></e>
@@ -313,6 +319,7 @@
     <e lm="Kristina"><i>Kristina</i><par n="Daniela__np"/></e>
     <e lm="Leticia"><i>Leticia</i><par n="Daniela__np"/></e>
 
+    <e lm="Montesinos"><i>Montesinos</i><par n="Castro__np"/></e>
 
   </section>
 
