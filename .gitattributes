@@ -1,4 +1,7 @@
 * text=auto !eol
+/Makefile -text
+/apertium-eng.eng.dix -text
+dev/eng.freq.txt -text
 texts/MANIFEST -text
 texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.handtagged.yongloong.txt -text

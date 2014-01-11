@@ -1,0 +1,244 @@
+<dictionary>
+  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <sdefs>
+    <sdef n="n"        c="Noun"/>
+    <sdef n="pr"       c="Preposition"/>
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+
+    <sdef n="sg"       c="Singular"/>
+    <sdef n="pl"       c="Plural"/>
+  </sdefs>
+  <pardefs>
+    <!-- SECTION: Conjunctions -->
+    <pardef n="and__cnjcoo">
+      <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
+    </pardef>
+
+
+    <!-- SECTION: Prepositions -->
+    <pardef n="from__pr">
+      <e><p><l></l><r><s n="pr"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Nouns -->
+
+    <pardef n="house__n">
+      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="countr/y__n">
+      <e><p><l>y</l><r>y<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>ies</l><r>y<s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="church__n">
+      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>es</l><r><s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="chaos__n">
+      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Proper nouns -->
+
+    <pardef n="Siberia__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Soviet_Union__np" c="used with article">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="United_States__np" c="used with article">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="Eric__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Daniela__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <!-- SECTION: Conjunctions -->
+
+    <e lm="and"><i>and</i><par n="and__cnjcoo"/></e>
+    <e lm="but"><i>but</i><par n="and__cnjcoo"/></e>
+
+    <!-- SECTION: Prepositions -->
+
+    <e lm="from"><i>from</i><par n="from__pr"/></e>
+    <e lm="of"><i>of</i><par n="from__pr"/></e>
+    <e lm="to"><i>to</i><par n="from__pr"/></e>
+    <e lm="in"><i>in</i><par n="from__pr"/></e>
+    <e lm="by"><i>by</i><par n="from__pr"/></e>
+    <e lm="with"><i>with</i><par n="from__pr"/></e>
+    <e lm="for"><i>for</i><par n="from__pr"/></e>
+
+    <!-- SECTION: Nouns -->
+    <e lm="house"><i>house</i><par n="house__n"/></e>
+    <e lm="province"><i>province</i><par n="house__n"/></e>
+    <e lm="government"><i>government</i><par n="house__n"/></e>
+    <e lm="field"><i>field</i><par n="house__n"/></e>
+    <e lm="battlefield"><i>battlefield</i><par n="house__n"/></e>
+    <e lm="river"><i>river</i><par n="house__n"/></e>
+    <e lm="empire"><i>empire</i><par n="house__n"/></e>
+    <e lm="region"><i>region</i><par n="house__n"/></e>
+    <e lm="war"><i>war</i><par n="house__n"/></e>
+    <e lm="year"><i>year</i><par n="house__n"/></e>
+    <e lm="district"><i>district</i><par n="house__n"/></e>
+    <e lm="delta"><i>delta</i><par n="house__n"/></e>
+    <e lm="horde"><i>horde</i><par n="house__n"/></e>
+    <e lm="district"><i>district</i><par n="house__n"/></e>
+    <e lm="access"><i>access</i><par n="house__n"/></e>
+    <e lm="part"><i>part</i><par n="house__n"/></e>
+    <e lm="revolution"><i>revolution</i><par n="house__n"/></e>
+    <e lm="council"><i>council</i><par n="house__n"/></e>
+    <e lm="railway"><i>railway</i><par n="house__n"/></e>
+    <e lm="takeover"><i>takeover</i><par n="house__n"/></e>
+    <e lm="saboteur"><i>saboteur</i><par n="house__n"/></e>
+    <e lm="communist"><i>communist</i><par n="house__n"/></e>
+    <e lm="ghetto"><i>ghetto</i><par n="house__n"/></e>
+    <e lm="solution"><i>solution</i><par n="house__n"/></e>
+    <e lm="camp"><i>camp</i><par n="house__n"/></e>
+    <e lm="invasion"><i>invasion</i><par n="house__n"/></e>
+    <e lm="member"><i>member</i><par n="house__n"/></e>
+    <e lm="front"><i>front</i><par n="house__n"/></e>
+    <e lm="summer"><i>summer</i><par n="house__n"/></e>
+    <e lm="offensive"><i>offensive</i><par n="house__n"/></e>
+    <e lm="operation"><i>operation</i><par n="house__n"/></e>
+    <e lm="land"><i>land</i><par n="house__n"/></e>
+    <e lm="leader"><i>leader</i><par n="house__n"/></e>
+    <e lm="border"><i>border</i><par n="house__n"/></e>
+    <e lm="alliance"><i>alliance</i><par n="house__n"/></e>
+    <e lm="king"><i>king</i><par n="house__n"/></e>
+
+    <e lm="oblast"><i>oblast</i><par n="house__n"/></e>
+
+    <e lm="church"><i>church</i><par n="church__n"/></e>
+    <e lm="march"><i>march</i><par n="church__n"/></e>
+    <e lm="fortress"><i>fortress</i><par n="church__n"/></e>
+
+    <e lm="country"><i>countr</i><par n="countr/y__n"/></e>
+    <e lm="monastery"><i>monaster</i><par n="countr/y__n"/></e>
+    <e lm="army"><i>arm</i><par n="countr/y__n"/></e>
+    <e lm="treaty"><i>treat</i><par n="countr/y__n"/></e>
+    <e lm="century"><i>centur</i><par n="countr/y__n"/></e>
+    <e lm="military"><i>militar</i><par n="militar/y__n"/></e>
+    <e lm="territory"><i>territor</i><par n="territor/y__n"/></e>
+    <e lm="principality"><i>principalit</i><par n="territor/y__n"/></e>
+
+    <e lm="chaos"><i>chaos</i><par n="chaos__n"/></e>
+    <e lm="peace"><i>peace</i><par n="chaos__n"/></e>
+
+    <!-- SECTION: Proper nouns -->
+
+    <e lm="Siberia"><i>Siberia</i><par n="Siberia__np"/></e>
+    <e lm="Stalingrad"><i>Stalingrad</i><par n="Siberia__np"/></e>
+    <e lm="Leningrad"><i>Leningrad</i><par n="Siberia__np"/></e>
+    <e lm="Bessarabia"><i>Bessarabia</i><par n="Siberia__np"/></e>
+    <e lm="Russia"><i>Russia</i><par n="Siberia__np"/></e>
+    <e lm="Geneva"><i>Geneva</i><par n="Siberia__np"/></e>
+    <e lm="Soviet Union"><i>Soviet<b/>Union</i><par n="Soviet_Union__np"/></e>
+    <e lm="United States"><i>United<b/>States</i><par n="United_States__np"/></e>
+
+    <e lm="Aaron"><i>Aaron</i><par n="Eric__np"/></e>
+    <e lm="Ahmed"><i>Ahmed</i><par n="Eric__np"/></e>
+    <e lm="Alan"><i>Alan</i><par n="Eric__np"/></e>
+    <e lm="Alejandro"><i>Alejandro</i><par n="Eric__np"/></e>
+    <e lm="Alexander"><i>Alexander</i><par n="Eric__np"/></e>
+    <e lm="Alfred"><i>Alfred</i><par n="Eric__np"/></e>
+    <e lm="Álvaro"><i>Álvaro</i><par n="Eric__np"/></e>
+    <e lm="Aristotle"><i>Aristotle</i><par n="Eric__np"/></e>
+    <e lm="Arnold"><i>Arnold</i><par n="Eric__np"/></e>
+    <e lm="Augustin"><i>Augustin</i><par n="Eric__np"/></e>
+    <e lm="Ben"><i>Ben</i><par n="Eric__np"/></e>
+    <e lm="Christian"><i>Christian</i><par n="Eric__np"/></e>
+    <e lm="Christopher"><i>Christopher</i><par n="Eric__np"/></e>
+    <e lm="Cicero"><i>Cicero</i><par n="Eric__np"/></e>
+    <e lm="Colin"><i>Colin</i><par n="Eric__np"/></e>
+    <e lm="David"><i>David</i><par n="Eric__np"/></e>
+    <e lm="Diego"><i>Diego</i><par n="Eric__np"/></e>
+    <e lm="Erik"><i>Erik</i><par n="Eric__np"/></e>
+    <e lm="Ernst"><i>Ernst</i><par n="Eric__np"/></e>
+    <e lm="Francisco"><i>Francisco</i><par n="Eric__np"/></e>
+    <e lm="Gabriel"><i>Gabriel</i><par n="Eric__np"/></e>
+    <e lm="Geoffrey"><i>Geoffrey</i><par n="Eric__np"/></e>
+    <e lm="George"><i>George</i><par n="Eric__np"/></e>
+    <e lm="Georg"><i>Georg</i><par n="Eric__np"/></e>
+    <e lm="German"><i>German</i><par n="Eric__np"/></e>
+    <e lm="Gil"><i>Gil</i><par n="Eric__np"/></e>
+    <e lm="Gonzalo"><i>Gonzalo</i><par n="Eric__np"/></e>
+    <e lm="Gustavo"><i>Gustavo</i><par n="Eric__np"/></e>
+    <e lm="Guzmán"><i>Guzmán</i><par n="Eric__np"/></e>
+    <e lm="Hamid"><i>Hamid</i><par n="Eric__np"/></e>
+    <e lm="Hassan"><i>Hassan</i><par n="Eric__np"/></e>
+    <e lm="Hector"><i>Hector</i><par n="Eric__np"/></e>
+    <e lm="Hèctor"><i>Hèctor</i><par n="Eric__np"/></e>
+    <e lm="Herodotus"><i>Herodotus</i><par n="Eric__np"/></e>
+    <e lm="Ian"><i>Ian</i><par n="Eric__np"/></e>
+    <e lm="Igor"><i>Igor</i><par n="Eric__np"/></e>
+    <e lm="Isaac"><i>Isaac</i><par n="Eric__np"/></e>
+    <e lm="Jack"><i>Jack</i><par n="Eric__np"/></e>
+    <e lm="Johann"><i>Johann</i><par n="Eric__np"/></e>
+    <e lm="Johnny"><i>Johnny</i><par n="Eric__np"/></e>
+    <e lm="Jorge"><i>Jorge</i><par n="Eric__np"/></e>
+    <e lm="Jose"><i>Jose</i><par n="Eric__np"/></e>
+    <e lm="Jose Mari"><i>Jose Mari</i><par n="Eric__np"/></e>
+    <e lm="Joseph"><i>Joseph</i><par n="Eric__np"/></e>
+    <e lm="Juan"><i>Juan</i><par n="Eric__np"/></e>
+    <e lm="Julius"><i>Julius</i><par n="Eric__np"/></e>
+    <e lm="Keith"><i>Keith</i><par n="Eric__np"/></e>
+    <e lm="Kevin"><i>Kevin</i><par n="Eric__np"/></e>
+    <e lm="Laureano"><i>Laureano</i><par n="Eric__np"/></e>
+    <e lm="Leo"><i>Leo</i><par n="Eric__np"/></e>
+    <e lm="Luis"><i>Luis</i><par n="Eric__np"/></e>
+    <e lm="Lluís"><i>Lluís</i><par n="Eric__np"/></e>
+    <e lm="Manuel"><i>Manuel</i><par n="Eric__np"/></e>
+    <e lm="Marcus"><i>Marcus</i><par n="Eric__np"/></e>
+    <e lm="Mephistopheles"><i>Mephistopheles</i><par n="Eric__np"/></e>
+    <e lm="Michael"><i>Michael</i><par n="Eric__np"/></e>
+    <e lm="Mikel"><i>Mikel</i><par n="Eric__np"/></e>
+    <e lm="Mikhail"><i>Mikhail</i><par n="Eric__np"/></e>
+    <e lm="Muhammad"><i>Muhammad</i><par n="Eric__np"/></e>
+    <e lm="Nestor"><i>Nestor</i><par n="Eric__np"/></e>
+    <e lm="Omar"><i>Omar</i><par n="Eric__np"/></e>
+    <e lm="Paul"><i>Paul</i><par n="Eric__np"/></e>
+    <e lm="Peter"><i>Peter</i><par n="Eric__np"/></e>
+    <e lm="Plato"><i>Plato</i><par n="Eric__np"/></e>
+    <e lm="Raul"><i>Raul</i><par n="Eric__np"/></e>
+    <e lm="Richard"><i>Richard</i><par n="Eric__np"/></e>
+    <e lm="Robert"><i>Robert</i><par n="Eric__np"/></e>
+    <e lm="Sebastian"><i>Sebastian</i><par n="Eric__np"/></e>
+    <e lm="Sebastián"><i>Sebastián</i><par n="Eric__np"/></e>
+    <e lm="Stephen"><i>Stephen</i><par n="Eric__np"/></e>
+    <e lm="Steven"><i>Steven</i><par n="Eric__np"/></e>
+    <e lm="Tito"><i>Tito</i><par n="Eric__np"/></e>
+    <e lm="Valentín"><i>Valentín</i><par n="Eric__np"/></e>
+    <e lm="Victor"><i>Victor</i><par n="Eric__np"/></e>
+    <e lm="Víctor"><i>Víctor</i><par n="Eric__np"/></e>
+    <e lm="Vladimiro"><i>Vladimiro</i><par n="Eric__np"/></e>
+    <e lm="Vladimir"><i>Vladimir</i><par n="Eric__np"/></e>
+    <e lm="Wolfgang"><i>Wolfgang</i><par n="Eric__np"/></e>
+    <e lm="Zachariah"><i>Zachariah</i><par n="Eric__np"/></e>
+
+    <e lm="Angelica"><i>Angelica</i><par n="Daniela__np"/></e>
+    <e lm="Anne"><i>Anne</i><par n="Daniela__np"/></e>
+    <e lm="Bella"><i>Bella</i><par n="Daniela__np"/></e>
+    <e lm="Gretchen"><i>Gretchen</i><par n="Daniela__np"/></e>
+    <e lm="Helen"><i>Helen</i><par n="Daniela__np"/></e>
+    <e lm="Irene"><i>Irene</i><par n="Daniela__np"/></e>
+    <e lm="Itziar"><i>Itziar</i><par n="Daniela__np"/></e>
+    <e lm="Kara"><i>Kara</i><par n="Daniela__np"/></e>
+    <e lm="Kristina"><i>Kristina</i><par n="Daniela__np"/></e>
+    <e lm="Leticia"><i>Leticia</i><par n="Daniela__np"/></e>
+
+
+  </section>
+
+</dictionary>
