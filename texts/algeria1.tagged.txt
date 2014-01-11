@@ -7,8 +7,7 @@
 ^FLN/*FLN$
 ^leader/leader<adj>/leader<n><sg>$
 ^Ahmed/Ahmed<np><cog><sg>/Ahmed<np><ant><m><sg>$
-^Ben/Ben<np><ant><m><sg>$
-^Bella/Bella<np><ant><f><sg>$
+^Ben Bella/Ben Bella<np><cog><sg>$
 ^./.<sent>$
 
 ^He/Prpers<prn><subj><p3><m><sg>$
