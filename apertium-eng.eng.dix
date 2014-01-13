@@ -4,7 +4,13 @@
     <sdef n="n"        c="Noun"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="np"       c="Proper name"/>
+    <sdef n="vbser"    c="Verb 'to be'"/>
+    <sdef n="det"      c="Determiner"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+
+    <sdef n="p1"       c="First person"/>
+    <sdef n="p2"       c="Second person"/>
+    <sdef n="p3"       c="Third person"/>
 
     <sdef n="sg"       c="Singular"/>
     <sdef n="sp"       c=""/>
@@ -13,10 +19,25 @@
     <sdef n="m"        c="Masculine"/>
     <sdef n="f"        c="Feminine"/>
 
+    <sdef n="def"      c="Definite"/>
+    <sdef n="ind"      c="Indefinite"/>
+
     <sdef n="top"      c="Toponym"/>
     <sdef n="al"       c="Other"/>
     <sdef n="ant"      c="Anthroponym"/>
     <sdef n="cog"      c="Cognomen"/>
+
+    <sdef n="pri"      c="Present indicative"/>
+    <sdef n="prs"      c="Present subjunctive"/>
+    <sdef n="past"     c="Past"/>
+    <sdef n="pis"      c="Past subjunctive"/>
+    <sdef n="imp"      c="Imperative"/>
+    <sdef n="inf"      c="Infinitive"/>
+    <sdef n="pp"       c="Past participle"/>
+
+    <sdef n="subs"     c="Verbal noun"/>
+    <sdef n="pprs"     c="Present participle"/>
+    <sdef n="ger"      c="Gerund"/>
   </sdefs>
   <pardefs>
     <!-- SECTION: Conjunctions -->
@@ -28,6 +49,18 @@
     <!-- SECTION: Prepositions -->
     <pardef n="from__pr">
       <e><p><l></l><r><s n="pr"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Determiners -->
+
+    <pardef n="the__det">
+      <e><p><l></l><r><s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="/a__det">
+      <e><p><l>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e><p><l>an</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e><p><l><a/>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Nouns -->
@@ -75,6 +108,27 @@
 
     <pardef n="Castro__np">
       <e><p><l></l><r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Verbs -->
+
+    <pardef n="/be__vbser">
+      <e><p><l>am</l><r>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>art</l><r>be<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>are</l><r>be<s n="vbser"/><s n="pri"/></r></p></e>
+      <e><p><l>is</l><r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>be</l><r>be<s n="vbser"/><s n="imp"/></r></p></e>
+      <e><p><l>be</l><r>be<s n="vbser"/><s n="inf"/></r></p></e>
+      <e><p><l>be</l><r>be<s n="vbser"/><s n="prs"/></r></p></e>
+      <e><p><l>was</l><r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>were</l><r>be<s n="vbser"/><s n="past"/></r></p></e>
+      <e><p><l>was</l><r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>were</l><r>be<s n="vbser"/><s n="pis"/></r></p></e>
+      <e><p><l>were</l><r>be<s n="vbser"/><s n="pis"/></r></p></e>
+      <e><p><l>being</l><r>be<s n="vbser"/><s n="subs"/></r></p></e>
+      <e><p><l>being</l><r>be<s n="vbser"/><s n="pprs"/></r></p></e>
+      <e><p><l>being</l><r>be<s n="vbser"/><s n="ger"/></r></p></e>
+      <e><p><l>been</l><r>be<s n="vbser"/><s n="pp"/></r></p></e>
     </pardef>
 
   </pardefs>
@@ -154,12 +208,19 @@
     <e lm="without"><i>without</i><par n="from__pr"/></e>
     <e lm="with"><i>with</i><par n="from__pr"/></e>
 
+    <!-- SECTION: Determiners -->
+
+    <e lm="the"><i>the</i><par n="the__det"/></e>
+    <e lm="a"><i></i><par n="/a__det"/></e>
+
     <!-- SECTION: Nouns -->
+
     <e lm="house"><i>house</i><par n="house__n"/></e>
     <e lm="province"><i>province</i><par n="house__n"/></e>
     <e lm="government"><i>government</i><par n="house__n"/></e>
     <e lm="field"><i>field</i><par n="house__n"/></e>
     <e lm="battlefield"><i>battlefield</i><par n="house__n"/></e>
+    <e lm="being"><i>being</i><par n="house__n"/></e>
     <e lm="river"><i>river</i><par n="house__n"/></e>
     <e lm="empire"><i>empire</i><par n="house__n"/></e>
     <e lm="region"><i>region</i><par n="house__n"/></e>
@@ -180,6 +241,8 @@
     <e lm="ghetto"><i>ghetto</i><par n="house__n"/></e>
     <e lm="solution"><i>solution</i><par n="house__n"/></e>
     <e lm="camp"><i>camp</i><par n="house__n"/></e>
+    <e lm="state"><i>state</i><par n="house__n"/></e>
+    <e lm="system"><i>system</i><par n="house__n"/></e>
     <e lm="invasion"><i>invasion</i><par n="house__n"/></e>
     <e lm="member"><i>member</i><par n="house__n"/></e>
     <e lm="front"><i>front</i><par n="house__n"/></e>
@@ -193,6 +256,11 @@
     <e lm="refrigerant"><i>refrigerant</i><par n="house__n"/></e>
     <e lm="speed"><i>speed</i><par n="house__n"/></e>
     <e lm="king"><i>king</i><par n="house__n"/></e>
+    <e lm="power"><i>power</i><par n="house__n"/></e>
+    <e lm="circuit"><i>circuit</i><par n="house__n"/></e>
+    <e lm="plasma"><i>plasma</i><par n="house__n"/></e>
+    <e lm="population"><i>population</i><par n="house__n"/></e>
+    <e lm="control"><i>control</i><par n="house__n"/></e>
 
     <e lm="oblast"><i>oblast</i><par n="house__n"/></e>
 
@@ -208,6 +276,7 @@
     <e lm="military"><i>militar</i><par n="countr/y__n"/></e>
     <e lm="territory"><i>territor</i><par n="countr/y__n"/></e>
     <e lm="principality"><i>principalit</i><par n="countr/y__n"/></e>
+    <e lm="energy"><i>energ</i><par n="countr/y__n"/></e>
 
     <e lm="chaos"><i>chaos</i><par n="chaos__n"/></e>
     <e lm="peace"><i>peace</i><par n="chaos__n"/></e>
@@ -216,6 +285,7 @@
     <!-- SECTION: Proper nouns -->
 
     <e lm="Siberia"><i>Siberia</i><par n="Siberia__np"/></e>
+    <e lm="Colombia"><i>Colombia</i><par n="Siberia__np"/></e>
     <e lm="Stalingrad"><i>Stalingrad</i><par n="Siberia__np"/></e>
     <e lm="Leningrad"><i>Leningrad</i><par n="Siberia__np"/></e>
     <e lm="Bessarabia"><i>Bessarabia</i><par n="Siberia__np"/></e>
@@ -320,6 +390,10 @@
     <e lm="Leticia"><i>Leticia</i><par n="Daniela__np"/></e>
 
     <e lm="Montesinos"><i>Montesinos</i><par n="Castro__np"/></e>
+
+    <!-- SECTION: Verbs -->
+
+    <e lm="be"><i></i><par n="/be__vbser"/></e>
 
   </section>
 
