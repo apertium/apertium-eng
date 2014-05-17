@@ -1,0 +1,287 @@
+DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+SETS
+
+LIST N = n ; 
+LIST Det = det ; 
+LIST A = adj ; 
+LIST V = vblex vbser vaux vbhaver vbdo ; 
+LIST Adv = adv ; 
+LIST Pron = prn ; 
+LIST CS = cnjsub ; 
+LIST CC = cnjcoo ; 
+LIST Rel = rel ; 
+LIST Preadv = preadv ; 
+LIST Pr = pr ; 
+LIST NUM = num ;
+
+LIST Cop = vbser ; 
+
+LIST Inf = inf ; 
+LIST Pres = pres pri; 
+LIST Past = past ;  
+LIST Ger = ger ; 
+LIST VerbalNoun = (vblex subs) ;
+LIST PPRS = (vblex pprs); 
+LIST PrcPast = pp ; 
+LIST AdvItg = (adv itg) ; 
+
+LIST Interr = itg ; 
+LIST Subj = subj ; 
+LIST Obj = obj ; 
+LIST Pos = pos ; 
+
+LIST Months = "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" ;
+LIST Seasons = "winter" "spring" "summer" "autumn" ;
+LIST Year = year ; 
+
+LIST 1p = p1 ;
+LIST 2p = p2 ;
+LIST 3p = p3 ;
+
+LIST FIN = pres past pri ; 
+
+LIST SENT = sent ; 
+
+SET V-FIN = V + FIN ;
+
+SET V-DO = ("do"i) ; 
+
+SET English-sg = ("Englsih"i) ;
+
+SET VAUX-CAN = ("can"i) ;
+
+SET VAUX-WILL = ("will"i) ;
+
+SET VAUX-WOULD = ("would"i) ;
+
+SET Quest = ("<?>"?) ;
+
+SET V-DO-AUX = (vbdo) ;
+
+SET ADV-NOT = ("not"i) ;
+ 
+SET V-HAVE = (vbhaver) ; 
+
+SET V-PRES = (vblex pres) ; 
+
+SET V-MOD = ("must"i) | ("should"i) | ("will"i) | ("can"i) ; 
+
+LIST PRN-SUBJ  = (prn subj) ;
+
+SET CLB = SENT | V-FIN | Subj ; # 'Subj' is risky, e.g. coordination
+
+SET PERSON = 1p | 2p | 3p ;
+
+SECTION
+
+REMOVE V-FIN IF (-1C V-FIN);  # Careful: would kill "The man who _came_ _wrote_ a book"
+
+REMOVE N IF (0 ("<is>"i)) ; 
+
+SELECT N IF (-1 ("<both>"i)) ; 
+
+SELECT V IF (0 ("<like>"i)) ; 
+
+SELECT N IF (0 ("<names>"i))(-1 Pr) ; 
+
+SELECT (vblex pp) IF (0 ("<hit>"i)) (-1 ("<is>"i)) ; 
+
+SELECT (vblex sep pp) IF (-1 (vbser past)) ; 
+
+REMOVE N IF (0 ("<will>"))(1 ADV-NOT);
+
+SELECT (vbhaver inf) if (0 ("have")) (-1 ("not"));
+
+SELECT (n sg) if (0 ("English")) ;
+
+SELECT (n sg) if (0 ("Kazakh")) ;
+
+SELECT (vblex pp) if (-1 (vbser past)) ;
+
+SELECT (vblex inf) if (0 ("be"i)) (-1 Pr) ;
+
+SELECT (vblex ger) if (0 ("beginning"i))(NOT 1 V) ;
+
+SELECT Rel if (-1 N) ;
+
+SELECT N if (-1 Pr) ;
+
+SELECT A if (1C ("Party"i)) ;
+
+SELECT AdvItg if (1C V) ;
+
+SELECT (det dem) if (1 N) ;
+
+SELECT AdvItg if (2C V) ;
+
+SELECT (vblex) if (-1 ("was"i)) ;
+
+SELECT N if (-1 AdvItg) ;
+
+SELECT A if (1 ("Autonomous"i)) ;
+
+SELECT N if (-1 Det) (NOT 0 A) ;
+
+SELECT V-HAVE if (2C V) ;
+
+SELECT Inf if (-2 V-MOD) (-1 ADV-NOT);
+
+SELECT Inf if (-1 VAUX-WOULD) ;
+
+SELECT Pr if (-1 VAUX-WOULD) ;
+
+SELECT Inf IF (-2 V-FIN) (-1 ("<to>"));
+
+SELECT Inf IF (0 ("<will>")) (1 ADV-NOT);
+
+SELECT V-HAVE IF (1 PrcPast);
+
+SELECT V IF (1 Ger)(NOT 0 (vblex pres p3 sg));
+
+REMOVE V-FIN IF (-1 A) (-2 Det); 
+
+REMOVE V-FIN IF (-1 Det);
+
+REMOVE Ger IF (-1 V-FIN) (NOT -1 Cop) (1 N); #MLF not sure about this rule here    
+
+REMOVE A IF (-1 Det) (0 N OR A) (1 ("<is>")) (2 A);
+
+REMOVE Inf IF (0 N OR Inf) (1 ("to"i)) (2 Inf);
+
+SELECT V IF (1 ("to"i)) (2 Inf);
+
+SELECT N IF (-1C NUM);
+
+SELECT Inf IF (-1 ADV-NOT)(-2 VAUX-CAN);
+
+SELECT N IF (-1 ("Baltic"i));
+
+SELECT N IF (-1 ("Asian"i));
+
+SELECT N IF (-1 A);
+
+SELECT Adv IF (-1 V)(0 ("forward"i));
+
+SELECT Inf IF (-1 V-MOD);
+
+SELECT N IF (1 Pr)(2 N);
+
+REMOVE N IF (0 V-FIN) (0 N) (0 N OR V-FIN) ((NOT 1* V-FIN BARRIER CLB) OR (NOT -1C* V-FIN BARRIER CLB));
+
+REMOVE A IF (0 A OR Adv) (NOT 1 N) (NOT -1* Cop BARRIER CLB) ;
+
+REMOVE N IF (0 N OR V-FIN) (1 ("<to>"i)) (2 Inf);
+
+SELECT V-FIN + $$PERSON IF (-1 Subj + $$PERSON);
+
+SELECT CS IF (-1 V)(1 N OR PRN-SUBJ);
+
+SELECT Inf IF (-1* V-DO BARRIER SENT) (NOT 1 Det);
+
+REMOVE Inf IF (NOT 0 ("will"i) ) (1C ADV-NOT) (2 Inf);
+
+SELECT Pr IF (1 N);
+
+SELECT Pr IF (1 NUM);
+
+SELECT Inf IF (1 Inf) (2 Ger);
+
+SELECT Inf IF (1 Inf) (2 PrcPast);
+
+SELECT Inf IF (-1/0 ADV-NOT)(-1/1 VAUX-CAN);
+
+SELECT V-PRES IF (-1 N OR Pron)(1 N OR Pron);
+
+SELECT V-DO-AUX IF (NOT 1C ADV-NOT);
+
+SELECT V-DO-AUX IF (-1 PRN-SUBJ) (1C ADV-NOT);
+
+REMOVE V-DO-AUX IF (-1 PRN-SUBJ) (NOT 1C ADV-NOT);
+
+SELECT (gen) IF (0 ("'s"i));
+
+SELECT V IF (-1 PRN-SUBJ OR N);
+
+SELECT V-HAVE IF (1C ADV-NOT) (2 PrcPast);
+
+SELECT Inf IF (0 Inf) (1 ADV-NOT)(2 Ger);
+
+SELECT Pres IF (1 ADV-NOT) (2 Inf); 
+
+SELECT ("put"i vblex pp) IF (-1 V-HAVE); 
+
+SELECT ("forward"i adv) IF (-1 V); 
+
+REMOVE Inf IF (-1 PRN-SUBJ) (NOT 0 ("will"i));
+
+REMOVE N IF (-1 PRN-SUBJ) (0 ("will"i) );
+
+REMOVE N IF (0 ("will"i)) (1C ADV-NOT) 
+
+REMOVE Inf IF (0 Inf OR V-FIN) (NOT 1* V-FIN BARRIER CLB) (NOT -1* V-FIN BARRIER CLB);
+
+REMOVE PrcPast IF (-1 VAUX-WILL);
+
+REMOVE V-FIN IF (0 Inf) (0 Inf OR V-FIN) ((1C* V-FIN BARRIER CLB) OR (-1C* V-FIN BARRIER CLB));
+
+SELECT Inf IF (-2 ("do"i)) (-1 Pron) (0 Pres OR Inf);
+
+REMOVE CS IF (NOT 1* V-FIN BARRIER CLB);
+
+REMOVE Det IF (NOT 1 N OR A OR NUM);
+
+SELECT Adv + Interr IF (0 Adv OR Rel) (1* ("?")) ;
+
+SELECT Subj IF (0 Subj OR Obj) (1 V-FIN);
+
+SELECT A IF (-1 Preadv) (0 A OR V);
+
+#REMOVE Pr IF (NOT 1* N BARRIER CLB);
+
+REMOVE Pr IF (0 Pr OR CC) (-1 SENT);
+
+SELECT V-FIN + $$PERSON (-1C Subj + $$PERSON);
+
+SELECT Inf IF (-2 V-FIN) (-1 Adv) (0 V-FIN OR Inf);
+
+SELECT Det + Pos IF (0 Det OR Pron) (1 N);
+
+SELECT A IF (0 Det OR A) (-1 Det) (1 N);
+
+REMOVE Ger IF (-1 Det OR A);
+
+SELECT Ger IF (-1 Cop);  # Would not work with "We are sleeping beauties", but it is hard... 
+
+SELECT PPRS IF (-1 Det OR A) (1 N);
+
+SELECT Pr IF (0 Pr OR Adv) (1 Det);
+
+REMOVE Rel IF (-1 CC);
+
+SELECT Det IF (0 ("<no>") OR ("<some>")) (1C N);
+
+REMOVE A IF (0C A OR N) (-1 Det) (1 SENT);
+
+SELECT Det IF (0C Pron OR Det) (1C N);
+
+SELECT V-FIN IF (-1C Subj) (1 Inf);
+
+REMOVE Subj IF (0C Subj OR Obj) (-1C* Subj BARRIER SENT);
+
+SELECT V-HAVE IF (1C PrcPast);
+
+SELECT Pr IF (0 Pr OR Adv) (1 Pron + Obj) ;
+
+REMOVE N IF (0 N OR V) (-1 VAUX-CAN) ;
+
+REMOVE Pron IF (0 Det OR Pron) (1 NUM) ;
+
+SELECT Year IF (-1 ("in") OR ("after") OR ("since") OR ("of") OR ("throughout")) (NOT 1 N);
+
+SELECT Year IF (-1 Seasons OR Months);
+ 
+AFTER-SECTIONS 
+
+REMOVE Year ; 
