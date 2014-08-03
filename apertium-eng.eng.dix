@@ -4,13 +4,20 @@
     <sdef n="n"        c="Noun"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="np"       c="Proper name"/>
+    <sdef n="vblex"    c="Verb"/>
+    <sdef n="vaux"     c="Auxiliary verb"/>
+    <sdef n="vbmod"    c="Modal verb"/>
     <sdef n="vbser"    c="Verb 'to be'"/>
     <sdef n="det"      c="Determiner"/>
+    <sdef n="prn"      c="Pronoun"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="cnjsub"   c="Subordinating conjunction"/>
 
     <sdef n="p1"       c="First person"/>
     <sdef n="p2"       c="Second person"/>
     <sdef n="p3"       c="Third person"/>
+
+    <sdef n="attr"     c="Attributive"/>
 
     <sdef n="sg"       c="Singular"/>
     <sdef n="sp"       c=""/>
@@ -21,6 +28,7 @@
 
     <sdef n="def"      c="Definite"/>
     <sdef n="ind"      c="Indefinite"/>
+    <sdef n="dem"      c="Demonstrative"/>
 
     <sdef n="top"      c="Toponym"/>
     <sdef n="al"       c="Other"/>
@@ -38,15 +46,27 @@
     <sdef n="subs"     c="Verbal noun"/>
     <sdef n="pprs"     c="Present participle"/>
     <sdef n="ger"      c="Gerund"/>
+
+    <sdef n="cm"       c="Comma"/>
+    <sdef n="sent"     c="End of sentence marker"/>
+    <sdef n="quot"     c="Quote mark"/>
+    <sdef n="lquot"    c="Quote mark left"/>
+    <sdef n="rquot"    c="Quote mark right"/>
   </sdefs>
   <pardefs>
+
     <!-- SECTION: Conjunctions -->
+
     <pardef n="and__cnjcoo">
       <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
     </pardef>
 
+    <pardef n="that__cnjsub">
+      <e><p><l></l><r><s n="cnjsub"/></r></p></e>
+    </pardef>
 
     <!-- SECTION: Prepositions -->
+
     <pardef n="from__pr">
       <e><p><l></l><r><s n="pr"/></r></p></e>
     </pardef>
@@ -63,26 +83,73 @@
       <e><p><l><a/>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="th/is__det">
+      <e><p><l>is</l><r>is<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ese</l><r>is<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="th/at__det">
+      <e><p><l>at</l><r>at<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ose</l><r>at<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+      <e c="sub"><p><l>em</l><r>at<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <!-- SECTION: Pronouns -->
+
+    <pardef n="th/is__prn">
+      <e><p><l>is</l><r>is<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ese</l><r>is<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="th/at__prn">
+      <e><p><l>at</l><r>at<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ose</l><r>at<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+      <e c="sub"><p><l>em</l><r>at<s n="prn"/><s n="dem"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Nouns -->
 
     <pardef n="house__n">
+      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="countr/y__n">
+      <e><p><l>y</l><r>y<s n="n"/><s n="attr"/></r></p></e>
       <e><p><l>y</l><r>y<s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>ies</l><r>y<s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="church__n">
+      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
       <e><p><l>es</l><r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="chaos__n">
+      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
     </pardef>
+
+    <pardef n="colo/ur__n">
+      <e><p><l>ur</l><r>ur<s n="n"/><s n="attr"/></r></p></e>
+      <e><p><l>ur</l><r>ur<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>urs</l><r>ur<s n="n"/><s n="pl"/></r></p></e>
+      <e alt="en_US"><p><l>r</l><r>ur<s n="n"/><s n="attr"/></r></p></e>
+      <e alt="en_US"><p><l>r</l><r>ur<s n="n"/><s n="sg"/></r></p></e>
+      <e alt="en_US"><p><l>rs</l><r>ur<s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="organi/sation__n">
+      <e><p><l>sation</l><r>sation<s n="n"/><s n="attr"/></r></p></e>
+      <e><p><l>sation</l><r>sation<s n="n"/><s n="sg"/></r></p></e>
+      <e><p><l>sations</l><r>sation<s n="n"/><s n="pl"/></r></p></e>
+      <e alt="en_US"><p><l>zation</l><r>sation<s n="n"/><s n="attr"/></r></p></e>
+      <e alt="en_US"><p><l>zation</l><r>sation<s n="n"/><s n="sg"/></r></p></e>
+      <e alt="en_US"><p><l>zation</l><r>sation<s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
 
     <!-- SECTION: Proper nouns -->
 
@@ -112,24 +179,57 @@
 
     <!-- SECTION: Verbs -->
 
+    <pardef n="S__being/">
+      <e><p><l></l><r><s n="subs"/></r></p></e>
+      <e><p><l></l><r><s n="pprs"/></r></p></e>
+      <e><p><l></l><r><s n="ger"/></r></p></e>
+    </pardef>
+
+    <pardef n="S__accepted/">
+      <e><p><l></l><r><s n="past"/></r></p></e>
+      <e><p><l></l><r><s n="pis"/></r></p></e>
+    </pardef>
+
     <pardef n="/be__vbser">
+      <e><p><l>be</l><r>be<s n="vbser"/><s n="inf"/></r></p></e>
       <e><p><l>am</l><r>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>art</l><r>be<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><p><l>are</l><r>be<s n="vbser"/><s n="pri"/></r></p></e>
       <e><p><l>is</l><r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>be</l><r>be<s n="vbser"/><s n="imp"/></r></p></e>
-      <e><p><l>be</l><r>be<s n="vbser"/><s n="inf"/></r></p></e>
       <e><p><l>be</l><r>be<s n="vbser"/><s n="prs"/></r></p></e>
       <e><p><l>was</l><r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>were</l><r>be<s n="vbser"/><s n="past"/></r></p></e>
+      <e><p><l>were</l><r>be<s n="vbser"/></r></p><par n="S__accepted/"/></e>
       <e><p><l>was</l><r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e><p><l>were</l><r>be<s n="vbser"/><s n="pis"/></r></p></e>
-      <e><p><l>were</l><r>be<s n="vbser"/><s n="pis"/></r></p></e>
-      <e><p><l>being</l><r>be<s n="vbser"/><s n="subs"/></r></p></e>
-      <e><p><l>being</l><r>be<s n="vbser"/><s n="pprs"/></r></p></e>
-      <e><p><l>being</l><r>be<s n="vbser"/><s n="ger"/></r></p></e>
+      <e><p><l>being</l><r>be<s n="vbser"/></r></p><par n="S__being/"/></e>
       <e><p><l>been</l><r>be<s n="vbser"/><s n="pp"/></r></p></e>
+      <e><p><l>be</l><r>be<s n="vbser"/><s n="imp"/></r></p></e>
     </pardef>
+
+    <pardef n="accept__vblex">
+      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p></e>
+      <e><p><l>s</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p></e>
+      <e><p><l>ed</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
+      <e><p><l>ing</l><r><s n="vblex"/></r></p><par n="S__being/"/></e>
+      <e><p><l>ed</l><r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p></e>
+    </pardef>
+
+    <pardef n="travel__vblex">
+      <e><p><l></l><r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="pri"/></r></p></e>
+      <e><p><l>s</l><r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="prs"/></r></p></e>
+      <e><p><l>led</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
+      <e><p><l>ling</l><r><s n="vblex"/></r></p><par n="S__being/"/></e>
+      <e><p><l>led</l><r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e alt="en_US"><p><l>led</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
+      <e alt="en_US"><p><l>ing</l><r><s n="vblex"/></r></p><par n="S__being/"/></e>
+      <e alt="en_US"><p><l>ed</l><r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p></e>
+    </pardef>
+
 
   </pardefs>
   <section id="main" type="standard">
@@ -137,6 +237,7 @@
 
     <e lm="and"><i>and</i><par n="and__cnjcoo"/></e>
     <e lm="but"><i>but</i><par n="and__cnjcoo"/></e>
+    <e lm="that"><i>that</i><par n="that__cnjsub"/></e>
 
     <!-- SECTION: Prepositions -->
 
@@ -212,6 +313,13 @@
 
     <e lm="the"><i>the</i><par n="the__det"/></e>
     <e lm="a"><i></i><par n="/a__det"/></e>
+    <e lm="this"><i>th</i><par n="th/is__det"/></e>
+    <e lm="that"><i>th</i><par n="th/at__det"/></e>
+
+    <!-- SECTION: Pronouns -->
+
+    <e lm="this"><i>th</i><par n="th/is__prn"/></e>
+    <e lm="that"><i>th</i><par n="th/at__prn"/></e>
 
     <!-- SECTION: Nouns -->
 
@@ -263,6 +371,7 @@
     <e lm="control"><i>control</i><par n="house__n"/></e>
 
     <e lm="oblast"><i>oblast</i><par n="house__n"/></e>
+    <e lm="use"><i>use</i><par n="house__n"/></e>
 
     <e lm="church"><i>church</i><par n="church__n"/></e>
     <e lm="march"><i>march</i><par n="church__n"/></e>
@@ -394,6 +503,8 @@
     <!-- SECTION: Verbs -->
 
     <e lm="be"><i></i><par n="/be__vbser"/></e>
+
+    <e lm="accept"><i>accept</i><par n="accept__vblex"/></e>
 
   </section>
 
