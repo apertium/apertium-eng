@@ -1,4 +1,4 @@
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^a/a<det><ind><sg>$
 ^city/city<n><sg>$
@@ -6,7 +6,7 @@
 ^the/the<det><def><sp>$
 ^Republic/republic<n><sg>$
 ^of/of<pr>$
-^Dagestan/*Dagestan$
+^Dagestan/Dagestan<np><top><sg>$
 ^,/,<cm>$
 ^Russia/Russia<np><top><sg>$
 ^,/,<cm>$
@@ -40,10 +40,10 @@
 ^important/important<adj>$
 ^city/city<n><sg>$
 ^of/of<pr>$
-^Dagestan/*Dagestan$
+^Dagestan/Dagestan<np><top><sg>$
 ^./.<sent>$
 
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^occupies/occupy<vblex><pri><p3><sg>$
 ^the/the<det><def><sp>$
 ^very/very<preadv>$
@@ -94,7 +94,7 @@
 ^of/of<pr>$
 ^Alexander/Alexander<np><ant><m><sg>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^claims/claim<vblex><pri><p3><sg>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
@@ -129,7 +129,7 @@
 ^understood/understand<vblex><pp>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^has/have<vblex><pri><p3><sg>$
 ^archaeological/archaeological<adj>$
 ^structures/structure<n><pl>$
@@ -221,7 +221,7 @@
 "
 ^./.<sent>$
 
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^has/have<vblex><pri><p3><sg>$
 ^an/a<det><ind><sg>$
 ^important/important<adj>$
@@ -263,7 +263,7 @@
 ^the/the<det><def><sp>$
 ^rulers/ruler<n><pl>$
 ^of/of<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^to/to<pr>$
 ^control/control<vblex><inf>$
 ^land/land<n><sg>$
@@ -300,7 +300,7 @@
 ^settlement/settlement<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^area/area<n><sg>$
 ^dates/date<vblex><pri><p3><sg>$
 ^from/from<pr>$
@@ -476,7 +476,7 @@
 ^Sea/sea<n><sg>$^./.<sent>$
 "
 
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
 ^a/a<det><ind><sg>$
 ^strong/strong<adj><sint>$
@@ -496,7 +496,7 @@
 ^6th/6<num><ord>$
 ^centuries/century<n><pl>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^also/also<adv>$
 ^became/become<vblex><past>$
 ^an/a<det><ind><sg>$
@@ -522,7 +522,7 @@
 ^the/the<det><def><sp>$
 ^sack/sack<n><sg>$
 ^of/of<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
 ^hordes/horde<n><pl>$
@@ -566,7 +566,7 @@
 ^In/in<pr>$
 ^654/654<num>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^captured/capture<vblex><pp>$
 ^by/by<pr>$
@@ -689,7 +689,7 @@
 ^Sea/sea<n><sg>$
 ^,/,<cm>$
 ^opposite/opposite<adj>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^,/,<cm>$
 ^revealed/reveal<vblex><past>$
 ^the/the<det><def><sp>$
@@ -707,7 +707,7 @@
 ^and/and<cnjcoo>$
 ^fortifications/fortification<n><pl>$
 ^of/of<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^./.<sent>$
 
 ^Similar/similar<adj>$
@@ -743,7 +743,7 @@
 ^time/time<n><sg>$
 ^living/live<vblex><ger>$
 ^in/in<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^and/and<cnjcoo>$
 ^brought/bring<vblex><past>$
 ^it/prpers<prn><obj><p3><nt><sg>$
@@ -764,7 +764,7 @@
 ^Arab/arab<adj>$
 ^historians/historian<n><pl>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^,/,<cm>$
 ^with/with<pr>$
 ^a/a<det><ind><sg>$
@@ -796,7 +796,7 @@
 ^Arab/arab<adj>$
 ^Caliphate/*Caliphate$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
 ^the/the<det><def><sp>$
 ^capital/capital<n><sg>$
@@ -824,7 +824,7 @@
 ^to/to<pr>$
 ^occasionally/occasionally<adv>$
 ^manipulate/manipulate<vblex><inf>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^'s/'s<gen>$
 ^politics/politics<n><sg>$
 ^./.<sent>$
@@ -857,7 +857,7 @@
 ^14th/14<num><ord>$
 ^century/century<n><sg>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^occupied/occupy<vblex><pp>$
 ^by/by<pr>$
@@ -886,7 +886,7 @@
 ^16th/16<num><ord>$
 ^century/century<n><sg>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^the/the<det><def><sp>$
 ^arena/arena<n><sg>$
@@ -941,7 +941,7 @@
 ^Ganja/*Ganja$
 ^treaty/treaty<n><sg>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^fell/fall<vblex><past>$
 ^within/within<pr>$
 ^the/the<det><def><sp>$
@@ -988,13 +988,13 @@
 ^In/in<pr>$
 ^1747/1747<num>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
 ^the/the<det><def><sp>$
 ^capital/capital<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^Khanate/*Khanate$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -1009,7 +1009,7 @@
 ^of/of<pr>$
 ^1796/1796<num>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^stormed/*stormed$
 ^by/by<pr>$
@@ -1036,7 +1036,7 @@
 ^and/and<cnjcoo>$
 ^Persia/Persia<np><top><sg>$
 ^—/—<guio>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
 ^part/part<n><sg>$
 ^of/of<pr>$
@@ -1223,7 +1223,7 @@
 ^range/range<n><sg>$
 ^)/)<rpar>$
 ^./.<sent>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^well/well<adv>$
 ^served/serve<vblex><pp>$
@@ -1272,7 +1272,7 @@
 ^who/who<rel><an><mf><sp>$
 ^fell/fall<vblex><past>$
 ^defending/defend<vblex><ger>$
-^Dagestan/*Dagestan$
+^Dagestan/Dagestan<np><top><sg>$
 ^against/against<pr>$
 ^the/the<det><def><sp>$
 ^Arabs/Arab<n><pl>$
@@ -1376,14 +1376,14 @@
 ^administrative/administrative<adj>$
 ^divisions/division<n><pl>$
 ^,/,<cm>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^serves/serve<vblex><pri><p3><sg>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
 ^administrative/administrative<adj>$
 ^centre/centre<n><sg>$
 ^of/of<pr>$
-^Derbentsky/*Derbentsky$
+^Derbentsky/Derbent<np><top><sg>sky$
 ^District/district<n><sg>$
 ^,/,<cm>$
 ^even/even<adv>$
@@ -1410,7 +1410,7 @@
 ^the/the<det><def><sp>$
 ^City/city<n><sg>$
 ^of/of<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^—/—<guio>$
 ^an/a<det><ind><sg>$
 ^administrative/administrative<adj>$
@@ -1434,11 +1434,11 @@
 ^the/the<det><def><sp>$
 ^City/city<n><sg>$
 ^of/of<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^incorporated/incorporate<vblex><pp>$
 ^as/as<pr>$
-^Derbent/*Derbent$
+^Derbent/Derbent<np><top><sg>$
 ^Urban/urban<adj>$
 ^Okrug/*Okrug$
 ^./.<sent>$

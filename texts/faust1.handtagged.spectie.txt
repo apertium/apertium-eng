@@ -67,7 +67,7 @@
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^adjective/adjective<n><sg>$
-^Faustian/Faust<np><cog><sg>ian$
+^Faustian/Faustian<adj>$
 ^imply/imply<vblex><pres>$
 ^a/a<det><ind><sg>$
 ^situation/situation<n><sg>$
