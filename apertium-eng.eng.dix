@@ -361,6 +361,8 @@
     <e lm="that"><i>th</i><par n="th/at__prn"/></e>
 
     <e lm="myself"><i>myself</i><par n="myself__prn"/></e>
+    <e lm="oneself"><i>oneself</i><par n="myself__prn"/></e>
+    <e lm="one's self" c="use/dat"><p><l>one's<b/>self</l><r>oneself</r></p><par n="myself__prn"/></e>
 
     <e lm="thyself" c="use/arc"><i>thyself</i><par n="yourself__prn"/></e>
     <e lm="yourself"><i>yourself</i><par n="yourself__prn"/></e>
@@ -372,6 +374,10 @@
 
     <e lm="themself"><i>themself</i><par n="themself__prn"/></e>
     <e lm="themselves"><i>themselves</i><par n="themself__prn"/></e>
+
+    <e lm="oneself"><i>oneself</i><par n="themself__prn"/></e>
+    <e lm="one's self" c="use/dat"><p><l>one's<b/>self</l><r>oneself</r></p><par n="themself__prn"/></e>
+
 
     <e lm="itself"><i>itself</i><par n="itself__prn"/></e>
 
