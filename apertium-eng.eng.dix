@@ -25,9 +25,12 @@
 
     <sdef n="m"        c="Masculine"/>
     <sdef n="f"        c="Feminine"/>
+    <sdef n="mf"       c="Masculine / feminine"/>
+    <sdef n="nt"       c="Neuter"/>
 
     <sdef n="def"      c="Definite"/>
     <sdef n="ind"      c="Indefinite"/>
+    <sdef n="ref"      c="Reflexive"/>
     <sdef n="dem"      c="Demonstrative"/>
 
     <sdef n="top"      c="Toponym"/>
@@ -95,6 +98,42 @@
     </pardef>
 
     <!-- SECTION: Pronouns -->
+
+    <pardef n="myself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="yourself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="himself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="herself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="themself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="itself__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="ourselves__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="yourselves__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="themselves__prn">
+      <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
     <pardef n="th/is__prn">
       <e><p><l>is</l><r>is<s n="prn"/><s n="dem"/><s n="sg"/></r></p></e>
@@ -224,7 +263,7 @@
       <e><p><l>led</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
       <e><p><l>ling</l><r><s n="vblex"/></r></p><par n="S__being/"/></e>
       <e><p><l>led</l><r><s n="vblex"/><s n="pp"/></r></p></e>
-      <e alt="en_US"><p><l>led</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
+      <e alt="en_US"><p><l>ed</l><r><s n="vblex"/></r></p><par n="S__accepted/"/></e>
       <e alt="en_US"><p><l>ing</l><r><s n="vblex"/></r></p><par n="S__being/"/></e>
       <e alt="en_US"><p><l>ed</l><r><s n="vblex"/><s n="pp"/></r></p></e>
       <e><p><l></l><r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -321,6 +360,29 @@
     <e lm="this"><i>th</i><par n="th/is__prn"/></e>
     <e lm="that"><i>th</i><par n="th/at__prn"/></e>
 
+    <e lm="myself"><i>myself</i><par n="myself__prn"/></e>
+
+    <e lm="thyself" c="use/arc"><i>thyself</i><par n="yourself__prn"/></e>
+    <e lm="yourself"><i>yourself</i><par n="yourself__prn"/></e>
+
+    <e lm="himself"><i>himself</i><par n="himself__prn"/></e>
+    <e lm="hisself" c="use/sub"><p><l>hisself</l><r>himself</r></p><par n="himself__prn"/></e>
+
+    <e lm="herself"><i>herself</i><par n="herself__prn"/></e>
+
+    <e lm="themself"><i>themself</i><par n="themself__prn"/></e>
+    <e lm="themselves"><i>themselves</i><par n="themself__prn"/></e>
+
+    <e lm="itself"><i>itself</i><par n="itself__prn"/></e>
+
+    <e lm="ourselves"><i>ourselves</i><par n="ourselves__prn"/></e>
+    <e lm="ourself" c="use/sub"><p><l>ourself</l><r>ourselves</r></p><par n="ourselves__prn"/></e>
+
+    <e lm="yourselves"><i>yourselves</i><par n="yourselves__prn"/></e>
+
+    <e lm="themselves"><i>themselves</i><par n="themselves__prn"/></e>
+    <e lm="theirselves" c="use/sub"><p><l>theirselves</l><r>themselves</r></p><par n="themselves__prn"/></e>
+
     <!-- SECTION: Nouns -->
 
     <e lm="house"><i>house</i><par n="house__n"/></e>
@@ -372,6 +434,8 @@
 
     <e lm="oblast"><i>oblast</i><par n="house__n"/></e>
     <e lm="use"><i>use</i><par n="house__n"/></e>
+    <e lm="peninsula"><i>peninsula</i><par n="house__n"/></e>
+    <e lm="sea"><i>sea</i><par n="house__n"/></e>
 
     <e lm="church"><i>church</i><par n="church__n"/></e>
     <e lm="march"><i>march</i><par n="church__n"/></e>
@@ -505,6 +569,7 @@
     <e lm="be"><i></i><par n="/be__vbser"/></e>
 
     <e lm="accept"><i>accept</i><par n="accept__vblex"/></e>
+    <e lm="travel"><i>travel</i><par n="travel__vblex"/></e>
 
   </section>
 
