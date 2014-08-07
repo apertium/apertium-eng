@@ -117,8 +117,8 @@
 ^the/the<det><def><sp>$
 ^resulting/resulting<adj>$
 ^Russian/russian<adj>$
-^Civil/Civil<adj>$
-^War/War<adj>/War<n><sg>$
+^Civil/civil<adj>$
+^War/war<n><sg>$
 ^did/do<vblex><past>$
 ^serious/serious<adj>$
 ^damage/damage<n><sg>$
@@ -127,7 +127,7 @@
 ^movements/movement<n><pl>$
 ^internationally/internationally<adv>$
 ^./.<sent>$
-^Many/Many<det><qnt><pl>$
+^Many/many<det><qnt><pl>$
 ^workers/worker<n><pl>$
 ^and/and<cnjcoo>$
 ^activists/activist<n><pl>$

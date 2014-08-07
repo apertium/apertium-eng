@@ -451,7 +451,7 @@
 ^all/all<prn><tn><mf><sp>$ 
 ^cannot/can<vaux><pres>+not<adv>$ 
 ^be/be<vbser><inf>$ 
-^traced back/# back/trace<vblex><sep><pp># back$
+^traced back/trace# back<vblex><sep><pp>$
 ^to/to<pr>$ 
 ^chemical/chemical<adj>$ 
 ^and/and<cnjcoo>$ 

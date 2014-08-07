@@ -1009,7 +1009,7 @@
 ^British/British<n><pl>$ 
 ^Honduras/Honduras<np><top><sg>$ 
 ^had/have<vbhaver><past>$ 
-^no/no<adv>/no<det><ind><sp>$
+^no/no<det><ind><sp>$
 ^voice/voice<n><sg>$ 
 ^in/in<pr>$ 
 ^these/this<det><dem><pl>$ 
@@ -1090,7 +1090,7 @@
 
 ^The/The<det><def><sp>$ 
 ^lawyer/lawyer<n><sg>$  
-^'s/'s<gen>/$ 
+^'s/'s<gen>$ 
 ^draft/draft<n><sg>$ 
 ^treaty/treaty<n><sg>$ 
 ^proposed/propose<vblex><past>$ 
@@ -1098,7 +1098,7 @@
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^so much/so much<det><qnt><sg>$ 
 ^control/control<n><sg>$ 
-^over/over<adv>/over<pr>$ 
+^over/over<pr>$ 
 ^the/the<det><def><sp>$ 
 ^newly/newly<adv>$ 
 ^independent/independent<adj>$ 

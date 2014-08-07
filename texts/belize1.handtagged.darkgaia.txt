@@ -235,7 +235,7 @@
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
 ^affirmed/affirm<vblex><past>$ 
-^Spanish/spanish<adj>/Spanish<n><sg>$ 
+^Spanish/spanish<adj>$ 
 ^sovereignty/sovereignty<n><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
 ^never/never<adv>$ 
@@ -818,7 +818,7 @@
 ^and/and<cnjcoo>$ 
 ^the/the<det><def><sp>$ 
 ^British/British<n><pl>$ 
-^responded/respond<vblex><past>/respond<vblex><pp>$ 
+^responded/respond<vblex><past>$ 
 ^by/by<pr>$ 
 ^deploying/deploy<vblex><ger>$ 
 ^two/two<num><sp>$ 
@@ -1017,7 +1017,7 @@
 ^./.<sent>$
 
 ^George/George<np><ant><m><sg>$ 
-^Price/Price<n><sg>/Price<vblex><inf>/Price<vblex><pres>$  ##no proper analysis; suppoesd to be name
+^Price/Price<np><cog><sg>$  
 ^refused/refuse<vblex><past>$ 
 ^an/a<det><ind><sg>$ 
 ^invitation/invitation<n><sg>$ 
@@ -1039,7 +1039,7 @@
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^./.<sent>$
 
-^Price/Price<n><sg>/Price<vblex><inf>/Price<vblex><pres>$ ##ant
+^Price/Price<np><cog><sg>$ 
 ^reiterated/reiterate<vblex><past>$ 
 ^his/his<det><pos><sp>$ 
 ^goal/goal<n><sg>$ 
@@ -1127,7 +1127,7 @@
 ^it/prpers<prn><subj><p3><nt><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
 ^already/already<adv>$ 
-^on/on<adv>/on<pr>$ 
+^on/on<pr>$ 
 ^Britain/Britain<np><top><sg>$ 
 ^./.<sent>$
 
@@ -1151,7 +1151,7 @@
 ^proposals/proposal<n><pl>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
-^Price/Price<n><sg>/Price<vblex><inf>/Price<vblex><pres>$ ###
+^Price/Price<np><cog><sg>$
 ^seized/seize<vblex><past>$ 
 ^the/the<det><def><sp>$ 
 ^initiative/initiative<n><sg>$ 

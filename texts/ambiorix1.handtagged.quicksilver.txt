@@ -137,7 +137,7 @@
 ^urgently/urgently<adv>$
 ^needed/need<vblex><past>$
 ^more/more<det><qnt><sp>$
-^food/food<adj>/food<n><sg>$
+^food/food<n><sg>$
 ^and/and<cnjcoo>$
 ^thereby/thereby<adv>$
 ^the/the<det><def><sp>$
@@ -243,11 +243,11 @@
 ^,/,<cm>$
 ^led/lead<vblex><pp>$
 ^by/by<pr>$
-^Q/*Q$^./.<sent>$
+^Q./*Q.$
 ^Titurius/*Titurius$
 ^Sabinus/*Sabinus$
 ^and/and<cnjcoo>$
-^L/L<num><mf><sg>$^./.<sent>$
+^L./*L.$
 ^Aurunculeius/*Aurunculeius$
 ^Cotta/*Cotta$
 ^were/be<vbser><past>$
@@ -579,10 +579,10 @@
 ^threat/threat<n><sg>$
 ^./.<sent>$
 
-^When/When<cnjadv>/$
+^When/when<cnjadv>$
 ^the/the<det><def><sp>$
 ^Roman/Roman<adj>$
-^Senate/Senate<n><sg>$
+^Senate/senate<n><sg>$
 ^heard/hear<vblex><past>$
 ^what/what<det><itg><sp>$
 ^happened/happen<vblex><past>$
@@ -617,7 +617,7 @@
 ^couldn't/can<vaux><past>+not<adv>$
 ^be/be<vbser><inf>$
 ^beaten/beat<vblex><pp>$
-^so/so<preadv>/so<cnjadv>$
+^so/so<preadv>$
 ^easily/easily<adv>$
 ^./.<sent>$
 
@@ -684,14 +684,14 @@
 ^few/few<det><qnt><pl>$
 ^years/year<n><pl>$
 ^,/,<cm>$
-^but/but<cnjcoo>/but<pr>$
+^but/but<cnjcoo>$
 ^eventually/eventually<adv>$
 ^the/the<det><def><sp>$
 ^Belgae/*Belgae$
 ^were/be<vbser><past>$
 ^no/no<det><ind><sp>$
 ^match/match<n><sg>$
-^against/against<adv>/against<pr>$
+^against/against<pr>$
 ^50,000/50,000<num>$
 ^trained/train<vblex><past>$
 ^Roman/Roman<adj>$

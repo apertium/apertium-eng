@@ -492,7 +492,7 @@
 ^)/)<rpar>$
 ^,/,<cm>$
 ^while/while<cnjadv>$
-^Northeast/Northeast<adv>/Northeast<n><sg>$
+^Northeast/northeast<adj>$
 ^Caucasian/*Caucasian$
 ^peoples/peoples<n><pl>$
 ^mostly/mostly<adv>$

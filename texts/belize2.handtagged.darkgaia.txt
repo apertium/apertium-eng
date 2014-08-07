@@ -505,10 +505,10 @@
 ^1981/1981<num>$ 
 ^./.<sent>$
 
-^The/The<det><def><sp>$ 
+^The/the<det><def><sp>$ 
 ^UN/UN<n><acr><sg>$ 
 ^called/call<vblex><past>$ 
-^on/on<adv>/on<pr>$ 
+^on/on<adv>$ 
 ^Britain/Britain<np><top><sg>$ 
 ^to/to<pr>$ 
 ^continue/continue<vblex><inf>$ 
