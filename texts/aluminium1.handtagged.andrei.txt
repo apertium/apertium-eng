@@ -428,9 +428,9 @@
 ^aluminium/aluminium<n><sg>$
 ^wire/wire<n><sg>$
 ^,/,<cm>$
-^but/but<cnjcoo>/but<pr>$
+^but/but<cnjcoo>$
 ^the/the<det><def><sp>$
-^second//second<adj><ord>$
+^second/second<adj><ord>$
 ^generation/generation<n><sg>$
 ^fixtures/*fixtures$
 ^,/,<cm>$
@@ -438,7 +438,7 @@
 ^bear/bear<vblex><pres>$
 ^a/a<det><ind><sg>$
 ^"/parquote<quot>$
-^CO/CO<n><acr><sg>/CO<np><top><pl>$
+^CO/CO<n><acr><sg>$
 /
 ^LR/LR<n><acr><sg>$
 ^"/parquote<quot>$

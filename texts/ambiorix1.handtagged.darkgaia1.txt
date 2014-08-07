@@ -241,11 +241,11 @@
 ^,/,<cm>$
 ^led/lead<vblex><past>$
 ^by/by<pr>$
-^Q/*Q$^./.<sent>$
+^Q./Q.$
 ^Titurius/*Titurius$
 ^Sabinus/*Sabinus$
 ^and/and<cnjcoo>$
-^L/L<num><mf><sg>$^./.<sent>$
+^L./L.$
 ^Aurunculeius/*Aurunculeius$
 ^Cotta/*Cotta$
 ^were/be<vbser><past>$

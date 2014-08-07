@@ -488,7 +488,8 @@
 ^a/a<det><ind><sg>$
 ^log/log<n><sg>$
 ^of/of<pr>$
-^1/1<num>$^m/*m$
+^1/1<num>$
+^m/m<abbr>$
 ^diameter/diameter<n><sg>$
 ^in/in<pr>$
 ^4/4<num>$
@@ -728,7 +729,8 @@
 ^are/be<vbser><pres>$
 ^up/up<adv>$
 ^to/to<pr>$
-^6/6<num>$^m/*m$
+^6/6<num>$
+^m/m<abbr>$
 ^tall/tall<adj><sint>$
 ^and/and<cnjcoo>$
 ^usually/usually<adv>$

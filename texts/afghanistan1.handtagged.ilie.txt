@@ -101,7 +101,7 @@
 ^parliament/parliament<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^elected/elect<vblex><pp>$
-^in/in<adv>/in<pr>$
+^in/in<pr>$
 ^2005/2005<num>$
 ^./.<sent>$
 
@@ -332,7 +332,7 @@
 ^were born/be# born<vbser><past>$
 ^or/or<cnjcoo>$
 ^worked/work<vblex><past>$
-^in/in<adv>/in<pr>$
+^in/in<pr>$
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
 ^of/of<pr>$
