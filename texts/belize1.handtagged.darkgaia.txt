@@ -1017,7 +1017,7 @@
 ^./.<sent>$
 
 ^George/George<np><ant><m><sg>$ 
-^Price/Price<n><sg>/Price<vblex><inf>/Price<vblex><pres>$  #no proper analysis; suppoesd to be name
+^Price/Price<n><sg>/Price<vblex><inf>/Price<vblex><pres>$  ##no proper analysis; suppoesd to be name
 ^refused/refuse<vblex><past>$ 
 ^an/a<det><ind><sg>$ 
 ^invitation/invitation<n><sg>$ 
