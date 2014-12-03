@@ -512,7 +512,7 @@
 ^./.<sent>$
 ^One/One<prn><tn><mf><sg>$ 
 ^of/of<pr>$ 
-^those/that<det><dem><pl>>$ 
+^those/that<det><dem><pl>$ 
 ^accused/accuse<vblex><pp>$ 
 ^of/of<pr>$ 
 ^improprieties/impropriety<n><pl>$ 

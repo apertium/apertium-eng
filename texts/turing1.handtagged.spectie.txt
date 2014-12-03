@@ -1281,7 +1281,7 @@
 ^devices/device<n><pl>$
 ^that/that<rel><an><mf><sp>$
 ^became/become<vblex><past>$
-^knownknow<vblex><pp>$
+^known/know<vblex><pp>$
 ^as/as<pr>$
 ^Turing/Turing<np><cog><sg>$
 ^machines/machine<n><pl>$

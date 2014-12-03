@@ -1663,7 +1663,7 @@
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^,/,<cm>$
-^which/which<rel><an><mf><sp>>$
+^which/which<rel><an><mf><sp>$
 ^in/in<pr>$
 ^turn/turn<n><sg>$
 ^collide/*collide$

@@ -464,7 +464,7 @@
 ^PARA/*PARA$ 
 ^)/)<rpar>$ 
 ^should/should<vaux><inf>$ 
-^travel/<travel<vblex><inf>$ 
+^travel/travel<vblex><inf>$ 
 ^to/to<pr>$ 
 ^Derry/*Derry$ 
 ^to/to<pr>$ 

@@ -678,7 +678,7 @@
 ^production/production<n><sg>$
 ^,/,<cm>$
 ^leading/lead<vblex><pprs>$
-^White/white<White<adj><sint>$
+^White/white<adj><sint>$
 ^House/House<n><sg>$
 ^drug/drug<n><sg>$
 ^czar/*czar$

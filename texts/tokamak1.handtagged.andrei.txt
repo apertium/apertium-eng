@@ -1073,7 +1073,7 @@
 ^percent/percent<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^total/total<adj>>$
+^total/total<adj>$
 ^numbers/number<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$

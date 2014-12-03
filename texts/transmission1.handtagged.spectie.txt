@@ -886,7 +886,7 @@
 ^engine/engine<n><sg>$
 ^./.<sent>$
 
-^Even though<cnjadv>/even though<cnjadv>$
+^Even though/even though<cnjadv>$
 ^automobile/automobile<n><sg>$
 ^and/and<cnjcoo>$
 ^light/light<adj><sint>$
