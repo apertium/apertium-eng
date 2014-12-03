@@ -721,7 +721,7 @@
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^had/have<vbhaver><past>$ 
 ^ever/ever<adv>$ 
-^exercisedexercise<vblex><pp>$ 
+^exercised/exercise<vblex><pp>$ 
 ^any/any<prn><tn><mf><sp>$ 
 ^authority/authority<n><sg>$ 
 ^in/in<pr>$ 
