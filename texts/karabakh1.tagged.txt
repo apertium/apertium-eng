@@ -139,7 +139,7 @@
 ^The/The<det><def><sp>$
 ^Minsk/Minsk<np><top><pl>$ 
 ^Group/Group<n><sg>$ 
-^is//be<vbser><pres><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^currently/currently<adv>$
 ^co-chaired/co-chair<vblex><past>/co-chair<vblex><pp>$
 ^by/by<adv>/by<pr>$

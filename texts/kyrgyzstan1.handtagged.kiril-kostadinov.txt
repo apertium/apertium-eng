@@ -44,11 +44,11 @@
 ^not/not<adv>$ 
 ^restored/restore<vblex><pp>$ 
 ^until/until<pr>$ 
-^August/August<n><sg>$  <!-- ERROR  //Are you sure? I thought month names were proper nouns -- no, we treat them as common nouns, and <ant> is person name anyway :)
+^August/August<n><sg>$  
 ^1990/1990<num>$ 
 ^./.<sent>$
 ^On/On<pr>$ 
-^August/August<n><sg>$ <!-- ERROR
+^August/August<n><sg>$ 
 ^19/19<num>$ 
 ^,/,<cm>$ 
 ^1991/1991<num>$ 
@@ -125,7 +125,7 @@
 ^on/on<pr>$ 
 ^the/the<det><def><sp>$ 
 ^31st/31<num><ord>$ 
-^August/August<n><sg>$ <!-- ERROR
+^August/August<n><sg>$ 
 ^,/,<cm>$ 
 ^1991/1991<num>$ 
 ^./.<sent>$

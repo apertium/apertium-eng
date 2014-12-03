@@ -236,7 +236,7 @@
 ^brake/brake<n><sg>$
 ^bands/band<n><pl>$
 ^and/and<cnjcoo>$
-^\//\/*$
+^\//*\/$
 ^or/or<cnjcoo>$
 ^clutch/clutch<n><sg>$
 ^packs/pack<n><pl>$
