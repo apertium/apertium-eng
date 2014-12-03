@@ -525,7 +525,7 @@
 ^to/to<pr>$ 
 ^just/just<adv>$ 
 ^under/under<pr>$ 
-27/27<num>$
+^27/27<num>$
 ^°C/*°C$
 ^./.<sent>$
 

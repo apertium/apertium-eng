@@ -933,7 +933,7 @@
 ^leaving/leave<vblex><ger>$ 
 ^./.<sent>$
 
-^OnOn<pr>$ 
+^On/On<pr>$ 
 ^21/21<num>$ 
 ^January/January<n><sg>$ 
 ^1958/1958<num>$ 

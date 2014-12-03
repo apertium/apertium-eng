@@ -558,7 +558,7 @@
 ^on/on<pr>$ 
 ^wavelength/wavelength<n><sg>$ 
 ^,/,<cm>$ 
-^lighting/light<vblex><pprs>>$ 
+^lighting/light<vblex><pprs>$ 
 ^angle/angle<n><sg>$ 
 ^(/(<lpar>$ 
 " 
