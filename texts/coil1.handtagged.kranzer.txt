@@ -943,7 +943,7 @@
 ^it/prpers<prn><subj><p3><nt><sg>$ 
 ^has/have<vblex><pri><p3><sg>$ 
 ^properties/property<n><pl>$ 
-^that<rel><an><mf><sp>$
+^that/that<rel><an><mf><sp>$
 ^are/be<vbser><pres>$ 
 ^similar/similar<adj>$ 
 ^to/to<pr>$ 
