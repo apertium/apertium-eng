@@ -196,7 +196,7 @@
 ^by/by<pr>$
 ^gradual/gradual<adj>$
 ^cooling/cooling<n><sg>$
-^—/—<guio>$
+^-/-<guio>$
 ^in/in<pr>$
 ^effect/effect<n><sg>$
 ^annealing/*annealing$
