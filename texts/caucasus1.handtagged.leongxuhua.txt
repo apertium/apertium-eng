@@ -1,7 +1,7 @@
 ^The/The<det><def><sp>$
 ^Caucasus/*Caucasus$
 ^is/be<vbser><pri><p3><sg>$
-^one<prn><tn><mf><sg>$
+^one/one<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^the most/the most<det><qnt><sp>$
 ^linguistically/linguistically<adv>$
