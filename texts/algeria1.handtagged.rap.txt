@@ -22,7 +22,7 @@
 ^minister/minister<n><sg>$
 ^,/,<cm>$
 ^Houari/*Houari$
-^Boumédienne/*Boumédienne$
+^BoumÃ©dienne/*BoumÃ©dienne$
 ^in/in<pr>$
 ^1965/1965<num>$
 ^./.<sent>$
@@ -45,14 +45,14 @@
 ^trend/trend<n><sg>$
 ^continued/continue<vblex><past>$
 ^throughout/throughout<pr>$
-^Boumédienne/*Boumédienne$
+^BoumÃ©dienne/*BoumÃ©dienne$
 ^'s/'s<gen>$
 ^government/government<n><sg>$
 ^./.<sent>$
 
 ^However/However<adv>$
 ^,/,<cm>$
-^Boumédienne/*Boumédienne$
+^BoumÃ©dienne/*BoumÃ©dienne$
 ^relied/rely<vblex><past>$
 ^much/much<adv>$  
 ^more/more<preadv>$
@@ -258,7 +258,7 @@
 ^1976/1976<num>$
 ^./.<sent>$
 
-^Boumédienne/*Boumédienne$
+^BoumÃ©dienne/*BoumÃ©dienne$
 ^died/die<vblex><past>$
 ^in/in<pr>$
 ^1978/1978<num>$
@@ -354,7 +354,7 @@
 ^rate/rate<n><sg>$
 ^to/to<pr>$
 ^7/7<num>$
-^–/–<guio>$
+^Â–/Â–<guio>$
 ^8/8<num>$
 ^children/child<n><pl>$
 ^per/per<pr>$
