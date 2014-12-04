@@ -284,7 +284,7 @@
 ^,/,<cm>$ 
 ^annexed/annex<vblex><past>$ 
 ^nearly/nearly<adv>$ 
-^all/all<prn><tn><mf><sp>
+^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$ 
 ^Macedonia/Macedonia<np><ant><f><sg>$ 
 ^,/,<cm>$ 

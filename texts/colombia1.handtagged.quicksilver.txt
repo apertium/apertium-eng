@@ -826,7 +826,7 @@
 ^Colombia/Colombia<np><loc><sg>$
 ^shows/show<vblex><pri><p3><sg>$
 ^modest/modest<adj>$
-^progress/progress<n><sg>/$
+^progress/progress<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^struggle/struggle<n><sg>$

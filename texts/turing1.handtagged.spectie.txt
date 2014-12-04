@@ -551,7 +551,7 @@
 ^the/the<det><def><sp>$
 ^family/family<n><sg>$
 ^to/to<pr>$
-^British India/British India<np><top><sg>
+^British India/British India<np><top><sg>$
 ^,/,<cm>$
 ^where/where<rel><adv>$
 ^his/his<det><pos><sp>$

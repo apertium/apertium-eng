@@ -460,7 +460,7 @@
 
 ^From/From<pr>$ 
 ^Britain/Britain<np><top><sg>$  
-^'s/'s<gen> 
+^'s/'s<gen>$
 ^viewpoint/viewpoint<n><sg>$ 
 ^,/,<cm>$ 
 ^this/this<det><dem><sg>$ 
