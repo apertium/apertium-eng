@@ -1,5 +1,9 @@
-DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>" ;
+DELIMITERS = "<.>" "<..>" "<...>" "<!>" "<?>" "<¶>" sent ; 
 SOFT-DELIMITERS = "<,>" ;
+SUBREADINGS = LTR ; 
+
+LIST BOS = (>>>) ; 
+LIST EOS = (<<<) ; 
 
 SETS
 
@@ -48,7 +52,7 @@ SET V-FIN = V + FIN ;
 
 SET V-DO = ("do"i) ; 
 
-SET English-sg = ("Englsih"i) ;
+SET English-sg = ("English"i) ;
 
 SET VAUX-CAN = ("can"i) ;
 
@@ -106,9 +110,9 @@ SELECT (vblex ger) if (0 ("beginning"i))(NOT 1 V) ;
 
 SELECT Rel if (-1 N) ;
 
-SELECT N if (-1 Pr) ;
+#SELECT N if (-1 Pr) ;
 
-SELECT A if (1C ("Party"i)) ;
+SELECT A if (1C ("Party")) ;
 
 SELECT AdvItg if (1C V) ;
 
@@ -116,11 +120,11 @@ SELECT (det dem) if (1 N) ;
 
 SELECT AdvItg if (2C V) ;
 
-SELECT (vblex) if (-1 ("was"i)) ;
+#SELECT (vblex) if (-1 ("was"i)) ;
 
 SELECT N if (-1 AdvItg) ;
 
-SELECT A if (1 ("Autonomous"i)) ;
+#SELECT A if (1 ("Autonomous"i)) ;
 
 SELECT N if (-1 Det) (NOT 0 A) ;
 
