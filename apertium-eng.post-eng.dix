@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="test"/>
+  </sdefs>
+
+  <pardefs>
+    <pardef n="caracter_general">
+      <e>
+        <i>;</i>
+      </e>
+      <e>
+        <i>#</i>
+      </e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+      <e>
+        <i>(</i>
+      </e>
+      <e>
+        <i>[</i>
+      </e>
+      <e>
+        <i>]</i>
+      </e>
+      <e>
+        <i>"</i>
+      </e>
+      <e>
+        <i>'</i>
+      </e>
+      <e>
+        <i>*</i>
+      </e>
+      <e>
+        <i>@</i>
+      </e>
+      <e>
+        <i>«</i>
+      </e>
+      <e>
+        <i>-</i>
+      </e>
+      <e>
+        <i>,</i>
+      </e>
+      <e>
+        <i>?</i>
+      </e>
+      <e>
+        <i>/</i>
+      </e>
+      <e>
+        <i>`</i>
+      </e>
+      <e>
+        <i>±</i>
+      </e>
+      <e>
+        <i>­</i>
+      </e>
+      <e>
+        <i>$</i>
+      </e>
+      <e>
+        <p>
+          <l>)</l>
+          <r>:</r>
+        </p>
+      </e>
+      <e>
+        <i>.</i>
+      </e>
+    </pardef>
+
+  
+	 <pardef n="vocals">
+		 <e>
+			 <i>a</i>
+		 </e>
+		 <e>
+			 <i>e</i>
+		 </e>
+		 <e>
+			 <i>i</i>
+		 </e>
+		 <e>
+			 <i>o</i>
+		 </e>
+		 <e>
+			 <i>u</i>
+		 </e>
+	 </pardef>
+	 
+	 <!-- "a" no es converteix en "an" davant de les paraules que comencen per "uni" (universe, university, etc) o per "eu" (european, euroregion). tampoc ho fa davant de "u", "one", "once" -->
+	 <pardef n="porten_a">
+		 <e>
+			 <i>uni</i>
+		 </e>
+		 <e>
+			 <i>eu</i>
+		 </e>
+		 <e>
+			 <i>u<b/></i>
+		 </e>
+		 <e>
+			 <i>one<b/></i>
+		 </e>
+		 <e>
+			 <i>once<b/></i>
+		 </e>
+		 <e>
+			 <i>u-</i>
+		 </e>
+		 <e>
+			 <i>one-</i>
+		 </e>
+		 <e>
+			 <i>once-</i>
+		 </e>
+	 </pardef>
+	 
+	 <!-- la "a" es converteix en "an" davant d'aquestes paraules que comencen per "h" muda i els seus derivats. A més, hi ha dues excepcions de la regla anterior.-->
+	 <pardef n="porten_an">
+		 <e>
+			 <i>heir</i>
+		 </e>
+		 <e>
+			 <i>honest</i>
+		 </e>
+		 <e>
+			 <i>hono</i>
+		 </e>
+		 <e>
+			 <i>hour</i>
+		 </e>
+		 <e>
+			 <i>unim</i>
+		 </e>
+		 <e>
+			 <i>unin</i>
+		 </e>
+		 <e>
+			 <i>unidentif</i>
+		 </e>
+	 </pardef>
+	 
+
+  </pardefs>
+
+  <section id="main" type="standard">
+	  <e>
+		  <p>
+			  <l><a/>a<b/></l>
+			  <r>an<b/></r>
+		  </p>
+		  <par n="vocals"/>
+	  </e>
+	  <e>
+		  <p>
+			  <l><a/>a<b/></l>
+			  <r>an<b/></r>
+		  </p>
+		  <par n="porten_an"/>
+	  </e>
+	  <e>
+		  <p>
+			  <l><a/>a<b/></l>
+			  <r>a<b/></r>
+		  </p>
+		  <par n="porten_a"/>
+	  </e>
+	
+  </section>
+
+</dictionary>
