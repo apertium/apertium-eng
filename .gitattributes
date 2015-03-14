@@ -1,10 +1,20 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-eng.eng.acx -text svneol=unset#application/xml
 /apertium-eng.eng.dix -text
 /apertium-eng.eng.rlx -text
+/apertium-eng.pc.in -text
 /apertium-eng.post-eng.dix -text
+/autogen.sh -text
+/configure.ac -text
 dev/eng.freq.txt -text
 /eng.prob -text svneol=unset#unset
+/modes.xml -text svneol=unset#application/xml
 texts/MANIFEST -text
 texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.handtagged.yongloong.txt -text
