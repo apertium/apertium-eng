@@ -81,9 +81,9 @@
     </pardef>
 
     <pardef n="/a__det">
-      <e><p><l>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
-      <e><p><l>an</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
-      <e><p><l><a/>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>an</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><a/>a</l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="th/is__det">
