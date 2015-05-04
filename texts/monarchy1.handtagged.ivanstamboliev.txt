@@ -103,7 +103,7 @@
 ^woman/woman<n><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^notably/notably<adv>$
-^set/<vblex><pp>$
+^set/set<vblex><pp>$
 ^at/at<pr>$
 ^twice/twice<adv>$
 ^that/that<det><dem><sg>$
@@ -391,7 +391,7 @@
 ^the/the<det><def><sp>$
 ^High/High<adj><sint>$
 ^Middle/Middle<adj>$
-^Ages/Age<n><pl>/$
+^Ages/Age<n><pl>$
 ^in/in<pr>$
 ^both/both<cnjcoo>$
 ^the/the<det><def><sp>$
