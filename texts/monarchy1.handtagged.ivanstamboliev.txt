@@ -72,7 +72,7 @@
 ^of/of<pr>$
 ^their/their<det><pos><sp>$
 ^own/own<adj>$
-^but/but<cnjcoo>/but<pr>$
+^but/but<cnjcoo>$
 ^inherited/inherit<vblex><past>$
 ^the/the<det><def><sp>$
 ^rank/rank<n><sg>$
@@ -352,7 +352,7 @@
 ^the/the<det><def><sp>$
 ^victim/victim<n><sg>$
 ^,/,<cm>$
-^but/but<cnjcoo>/but<pr>$
+^but/but<cnjcoo>$
 ^to/to<pr>$
 ^settle/settle<vblex><inf>$
 ^damages/damage<n><pl>$
@@ -538,7 +538,7 @@
 ^structures/structure<n><pl>$
 ^remained/remain<vblex><past>$
 ^comparatively/comparatively<adv>$
-^local/local<adj>/local<n><sg>$
+^local/local<adj>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Germanic/germanic<adj>$
