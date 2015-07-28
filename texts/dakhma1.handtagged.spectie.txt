@@ -26,7 +26,7 @@
 ^structure/structure<n><sg>$
 ^used/use<vblex><pp>$
 ^by/by<pr>$
-^Zoroastrians/*Zoroastrians$
+^Zoroastrians/Zoroastrian<adj>s$
 ^for/for<pr>$
 ^exposure/exposure<n><sg>$
 ^of/of<pr>$
@@ -78,7 +78,7 @@
 ^medieval/medieval<adj>$
 ^texts/text<n><pl>$
 ^of/of<pr>$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^tradition/tradition<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -195,7 +195,7 @@
 ^India/India<np><top><sg>$
 ^./.<sent>$
 
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^tradition/tradition<n><sg>$
 ^considers/consider<vblex><pri><p3><sg>$
 ^a/a<det><ind><sg>$
@@ -556,7 +556,7 @@
 ^to/to<pr>$
 ^signify/*signify$
 ^a/a<det><ind><sg>$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^priest/priest<n><sg>$
 ^but/but<cnjcoo>$
 ^may/may<vaux><inf>$
@@ -773,7 +773,7 @@
 ^In/in<pr>$
 ^the/the<det><def><sp>$
 ^Iranian/iranian<adj>$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^tradition/tradition<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -802,7 +802,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Iranian/iranian<adj>$
-^Zoroastrians/*Zoroastrians$
+^Zoroastrians/Zoroastrian<adj>s$
 ^gradually/gradually<adv>$
 ^discontinued/discontinue<vblex><past>$
 ^their/their<det><pos><sp>$
@@ -885,7 +885,7 @@
 ^humiliation/humiliation<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^community/community<n><sg>$
 ^./.<sent>$
 
@@ -924,7 +924,7 @@
 ^many/many<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Zoroastrians/*Zoroastrians$
+^Zoroastrians/Zoroastrian<adj>s$
 ^themselves/themselves<prn><ref><p3><mf><pl>$
 ^found/find<vblex><past>$
 ^the/the<det><def><sp>$
@@ -1003,7 +1003,7 @@
 ^cemeteries/cemetery<n><pl>$
 ^,/,<cm>$
 ^orthodox/*orthodox$
-^Zoroastrians/*Zoroastrians$
+^Zoroastrians/Zoroastrian<adj>s$
 ^continued/continue<vblex><past>$
 ^to/to<pr>$
 ^maintain/maintain<vblex><inf>$
@@ -1055,7 +1055,7 @@
 
 ^In/in<pr>$
 ^Parsi/*Parsi$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^tradition/tradition<n><sg>$
 ^,/,<cm>$
 ^exposure/exposure<n><sg>$
@@ -1263,7 +1263,7 @@
 ^predominantly/predominantly<adv>$
 ^conservative/conservative<adj>$
 ^local/local<adj>$
-^Zoroastrian/*Zoroastrian$
+^Zoroastrian/Zoroastrian<adj>$
 ^associations/association<n><pl>$
 ^(/(<lpar>$
 ^usually/usually<adv>$
@@ -1279,9 +1279,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^In/in<pr>$
-^accordance/*accordance$
-^with/with<pr>$
+^In accordance with/in accordance with<pr>$
 ^Indian/indian<adj>$
 ^statutes/statute<n><pl>$
 ^,/,<cm>$
@@ -1310,7 +1308,7 @@
 ^result/result<n><sg>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
-^anjumans/*anjumans$
+^anjumans/anjuman<n><pl>$
 ^frequently/frequently<adv>$
 ^prohibit/prohibit<vblex><pres>$
 ^the/the<det><def><sp>$
@@ -1320,10 +1318,10 @@
 ^offspring/offspring<n><sg>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
-"
+^"/"<quot>$
 ^mixed/mixed<adj>$
 ^marriage/marriage<n><sg>$
-"
+^"/"<quot>$
 ^,/,<cm>$
 ^that/that<prn><tn><mf><sg>$
 ^is/be<vbser><pri><p3><sg>$
@@ -1333,10 +1331,9 @@
 ^parent/parent<n><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^a/a<det><ind><sg>$
-^Parsi/*Parsi$
+^Parsi/Parsi<n><sg>$
 ^and/and<cnjcoo>$
-^the/the<det><def><sp>$
-^other/other<det><ind><sp>$
+^the other/the other<prn><def><sp>$
 ^is/be<vbser><pri><p3><sg>$
 ^not/not<adv>$
 ^./.<sent>$
