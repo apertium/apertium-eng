@@ -1047,24 +1047,24 @@
     </pardef>
 
     <pardef n="Mark__np">
-      <e>       <p><l></l>         <r><s n="np"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>'s</l>       <r><s n="np"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e r="RL"><p><l></l>         <r><s n="np"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>'s</l>       <r><s n="np"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>'s</l>       <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e r="RL"><p><l></l>         <r><s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>'s</l>       <r><s n="np"/><s n="ant"/><s n="sg"/><s n="gen"/></r></p></e>
     </pardef>
 
     <pardef n="Mary__np">
-      <e>       <p><l></l>         <r><s n="np"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>'s</l>       <r><s n="np"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e r="RL"><p><l></l>         <r><s n="np"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>'s</l>       <r><s n="np"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>'s</l>       <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e r="RL"><p><l></l>         <r><s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>'s</l>       <r><s n="np"/><s n="ant"/><s n="sg"/><s n="gen"/></r></p></e>
     </pardef>
 
     <pardef n="Smith__np">
-      <e>       <p><l></l>         <r><s n="np"/><s n="sg"/></r></p></e>
-      <e>       <p><l>'s</l>       <r><s n="np"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>       <p><l>s'</l>       <r><s n="np"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l>s</l>        <r><s n="np"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+      <e>       <p><l>'s</l>       <r><s n="np"/><s n="cog"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>s'</l>       <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>s</l>        <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="Wikipedia__np">
