@@ -26,6 +26,7 @@
     <sdef n="f"        c="Feminine"/>
     <sdef n="mf"       c="Masculine / feminine"/>
     <sdef n="nt"       c="Neuter"/>
+    <sdef n="mfn"      c="Masculine / feminine / neuter"/>
     <sdef n="def"      c="Definite"/>
     <sdef n="ind"      c="Indefinite"/>
     <sdef n="ref"      c="Reflexive"/>
@@ -85,6 +86,7 @@
     <sdef n="lquest"   c=""/>
     <sdef n="obj"      c=""/>
     <sdef n="subj"     c=""/>
+    <sdef n="pers"     c=""/>
     <sdef n="pres"     c=""/>
   </sdefs>
 
@@ -663,6 +665,26 @@
       <e>       <p><l></l>         <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
+    <pardef n="what__rel">
+      <e>       <p><l>what</l>     <r><s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="which__rel">
+      <e>       <p><l>which</l>    <r><s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="those_who__rel">
+      <e>       <p><l>those<b/>who</l><r><s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="that__rel">
+      <e>       <p><l>that</l>     <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="where__rel">
+      <e>       <p><l>where</l>    <r><s n="rel"/><s n="adv"/></r></p></e>
+    </pardef>
+
     <pardef n="prsubj__prn">
       <e>       <p><l>I</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>you</l>      <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -727,24 +749,28 @@
       <e>       <p><l><b/>those</l><r><j/>prpers<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="what__rel">
-      <e>       <p><l>what</l>     <r><s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
-
-    <pardef n="which__rel">
-      <e>       <p><l>which</l>    <r><s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
-
-    <pardef n="those_who__rel">
-      <e>       <p><l>those<b/>who</l><r><s n="rel"/><s n="nn"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-
-    <pardef n="that__rel">
-      <e>       <p><l>that</l>     <r><s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
-
-    <pardef n="where__rel">
-      <e>       <p><l>where</l>    <r><s n="rel"/><s n="adv"/></r></p></e>
+    <pardef n="prpos__prn">
+      <e>       <p><l>mine</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>his</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>hers</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>its</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>theirs</l>   <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l>mine</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>ours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>theirs</l>   <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="m"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l>mine</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>ours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>theirs</l>   <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="f"/><s n="sp"/></r></p></e>
     </pardef>
 
 
@@ -2881,6 +2907,7 @@
 	
     <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
     <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
+    <e lm="prpers prn pos"><i></i><par n="prpos__prn"/></e>
 
 
     <!-- SECTION: Pronouns -->
@@ -2900,13 +2927,9 @@
     <e lm="everyone"><i>everyone</i><par n="everyone__prn"/></e>
     <e lm="everything"><i>everything</i><par n="everyone__prn"/></e>
     <e lm="few"><i>few</i><par n="both__prn"/></e>
-    <e lm="hers"><i>hers</i><par n="mine__prn"/></e>
-    <e lm="his"><i>his</i><par n="mine__prn"/></e>
     <e lm="how many"><i>how<b/>many</i><par n="how_many__prn"/></e>
     <e lm="how much"><i>how<b/>much</i><par n="how_much__prn"/></e>
-    <e lm="its"><i>its</i><par n="mine__prn"/></e>
     <e lm="many"><i>many</i><par n="both__prn"/></e>
-    <e lm="mine"><i>mine</i><par n="mine__prn"/></e>
     <e lm="most"><i>most</i><par n="both__prn"/></e>
     <e lm="much"><i>much</i><par n="all__prn"/></e>
     <e lm="no one"><i>no<b/>one</i><par n="everyone__prn"/></e>
@@ -2915,7 +2938,6 @@
     <e lm="nothing"><i>nothing</i><par n="everyone__prn"/></e>
     <e lm="one"><i>one</i><par n="the_other__prn"/></e>
     <e lm="others"><i>others</i><par n="both__prn"/></e>
-    <e lm="ours"><i>ours</i><par n="mine__prn"/></e>
     <e lm="several"><i>several</i><par n="both__prn"/></e>
     <e lm="some"><i>some</i><par n="both__prn"/></e>
     <e lm="somebody"><i>somebody</i><par n="everyone__prn"/></e>
@@ -2923,7 +2945,6 @@
     <e lm="something"><i>something</i><par n="something__prn"/></e>
     <e lm="that"><i>th</i><par n="th/at__prn"/></e>
     <e lm="the one"><i>the<b/>one</i><par n="the_other__prn"/></e>
-    <e lm="theirs"><i>theirs</i><par n="mine__prn"/></e>
     <e lm="this"><i>th</i><par n="th/is__prn"/></e>
     <e lm="various" r="RL"><i>various</i><par n="both__prn"/></e>
     <e lm="what"><i>what</i><par n="what__prn"/></e>
@@ -2932,7 +2953,6 @@
     <e lm="which one"><i>which<b/>one</i><par n="which_one__prn"/></e>
     <e lm="who"><i>who</i><par n="what__prn"/></e>
     <e lm="whose"><i>whose</i><par n="whose__prn"/></e>
-    <e lm="yours"><i>yours</i><par n="mine__prn"/></e>
 
 
     <e lm="herself"><i>herself</i><par n="herself__prn"/></e>
@@ -4344,6 +4364,7 @@
     <e lm="chevron"><i>chevron</i><par n="house__n"/></e>
     <e lm="chewing gum"><i>chewing<b/>gum</i><par n="house__n"/></e>
     <e lm="chicken"><i>chicken</i><par n="house__n"/></e>
+    <e lm="chicken soup"><i>chicken<b/>soup</i><par n="house__n"/></e>
     <e lm="chicken-house"><i>chicken-house</i><par n="house__n"/></e>
     <e lm="chickenpox"><i>chickenpox</i><par n="east__n"/></e>
     <e lm="chief"><i>chief</i><par n="house__n"/></e>
@@ -7359,6 +7380,7 @@
     <e lm="kiosk"><i>kiosk</i><par n="house__n"/></e>
     <e lm="kiss"><i>kiss</i><par n="access__n"/></e>
     <e lm="kitchen"><i>kitchen</i><par n="house__n"/></e>
+    <e lm="kitchen chair"><i>kitchen<b/>chair</i><par n="house__n"/></e>
     <e lm="kitchen stove"><i>kitchen<b/>stove</i><par n="house__n"/></e>
     <e lm="kitchen table"><i>kitchen<b/>table</i><par n="house__n"/></e>
     <e lm="kitchen-clock"><i>kitchen-clock</i><par n="house__n"/></e>
@@ -7917,6 +7939,7 @@
     <e lm="militia"><i>militia</i><par n="house__n"/></e>
     <e lm="milk"><i>milk</i><par n="house__n"/></e>
     <e lm="milk truck"><i>milk<b/>truck</i><par n="house__n"/></e>
+    <e lm="milk-shake"><i>milk-shake</i><par n="house__n"/></e>
     <e lm="milking machine"><i>milking<b/>machine</i><par n="house__n"/></e>
     <e lm="milkman"><i>milkm</i><par n="m/an__n"/></e>
     <e lm="Milky Way"><par n="Mm"/><i>ilky<b/>Way</i><par n="east__n"/></e>
@@ -11756,6 +11779,7 @@
     <!-- SECTION: Verbs -->
 
     <e lm="be"><i></i><par n="/be__vbser"/></e>
+    <e lm="be able to"><i/><par n="/be__vbser"/><p><l><b/>able<b/>to</l><r><g><b/>able<b/>to</g></r></p></e>
 
     <e lm="have"><i>ha</i><par n="ha/ve__vbhaver"/></e>
     <e lm="have got"><i>ha</i><par n="ha/ve__vbhaver"/><p><l><b/>got</l><r><g><b/>got</g></r></p></e>
@@ -11766,17 +11790,15 @@
     <e lm="might"><i>might</i><par n="will/__vbmod"/></e>
     <e lm="must"><i>must</i><par n="will/__vbmod"/></e>
     <e lm="shall"><i>shall</i><par n="will/__vbmod"/></e>
-    <e lm="should"><i>should</i><par n="will/__vbmod"/></e>
     <e lm="want"><i>want</i><par n="want__vbmod"/></e>
     <e lm="want to"><i>want</i><par n="want__vbmod"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="will"><i>will</i><par n="will/__vbmod"/></e>
-    <e lm="would"><i>would</i><par n="will/__vbmod"/></e>
 
     <e lm="cannot"><p><l>cannot</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
     <e lm="do"><i>d</i><par n="d/o__vaux"/></e>
 
     <e lm="be" r="RL"><i></i><par n="/be__vblex"/></e> <!-- for subjuncs -->
-    <e lm="do"><i>d</i><par n="d/o__vblex"/></e>
+    <e lm="do" r="RL"><i>d</i><par n="d/o__vblex"/></e>
 
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/></e>
@@ -11917,8 +11939,7 @@
     <e lm="base"><i>bas</i><par n="liv/e__vblex"/></e>
     <e lm="bathe"><i>bath</i><par n="liv/e__vblex"/></e>
     <e lm="bawl"><i>bawl</i><par n="accept__vblex"/></e>
-    <e lm="be a member of" r="RL"><i/><par n="/be__vblex"/><p><l><b/>a<b/>member<b/>of</l><r><g><b/>a<b/>member<b/>of</g></r></p></e>
-    <e lm="be able to"><i/><par n="/be__vblex"/><p><l><b/>able<b/>to</l><r><g><b/>able<b/>to</g></r></p></e>
+    <e lm="be a member of"><i/><par n="/be__vblex"/><p><l><b/>a<b/>member<b/>of</l><r><g><b/>a<b/>member<b/>of</g></r></p></e>
     <e lm="be adrift"><i/><par n="/be__vblex"/><p><l><b/>adrift</l><r><g><b/>adrift</g></r></p></e>
     <e lm="be allowed to"><i/><par n="/be__vblex"/><p><l><b/>allowed<b/>to</l><r><g><b/>allowed<b/>to</g></r></p></e>
     <e lm="be bleeding to death"><i/><par n="/be__vblex"/><p><l><b/>bleeding<b/>to<b/>death</l><r><g><b/>bleeding<b/>to<b/>death</g></r></p></e>
@@ -11926,7 +11947,7 @@
     <e lm="be called"><i/><par n="/be__vblex"/><p><l><b/>called</l><r><g><b/>called</g></r></p></e>
     <e lm="be consistent"><i/><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
     <e lm="be damned"><i/><par n="/be__vblex"/><p><l><b/>damned</l><r><g><b/>damned</g></r></p></e>
-    <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="be hungry"><i/><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be left"><i/><par n="/be__vblex"/><p><l><b/>left</l><r><g><b/>left</g></r></p></e>
     <e lm="be missing"><i/><par n="/be__vblex"/><p><l><b/>missing</l><r><g><b/>missing</g></r></p></e>
     <e lm="be shocked"><i/><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
@@ -11989,6 +12010,7 @@
     <e lm="bribe"><i>brib</i><par n="liv/e__vblex"/></e>
     <e lm="brief"><i>brief</i><par n="accept__vblex"/></e>
     <e lm="bring"><i>br</i><par n="br/ing__vblex"/></e>
+    <e lm="bring together"><i>br</i><par n="br/ing__vblex__sep"/><p><l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="bring together"><i>br</i><par n="br/ing__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="broaden"><i>broaden</i><par n="accept__vblex"/></e>
     <e lm="browse"><i>brows</i><par n="liv/e__vblex"/></e>
@@ -12018,6 +12040,7 @@
     <e lm="caricature"><i>caricatur</i><par n="liv/e__vblex"/></e>
     <e lm="carry"><i>carr</i><par n="appl/y__vblex"/></e>
     <e lm="carry on"><i>carr</i><par n="appl/y__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
+    <e lm="carry out"><i>carr</i><par n="appl/y__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="carry out"><i>carr</i><par n="appl/y__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="cash"><i>cash</i><par n="accept__vblex"/></e>
     <e lm="cash in"><i>cash</i><par n="accept__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
@@ -12045,6 +12068,7 @@
     <e lm="chat"><i>chat</i><par n="admit__vblex"/></e>
     <e lm="cheat"><i>cheat</i><par n="accept__vblex"/></e>
     <e lm="check"><i>check</i><par n="accept__vblex"/></e>
+    <e lm="check out"><i>check</i><par n="accept__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="check out"><i>check</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="cheer"><i>cheer</i><par n="accept__vblex"/></e>
     <e lm="chew"><i>chew</i><par n="accept__vblex"/></e>
@@ -12083,7 +12107,7 @@
     <e lm="come across"><i>c</i><par n="bec/ome__vblex"/><p><l><b/>across</l><r><g><b/>across</g></r></p></e>
     <e lm="come back"><i>c</i><par n="bec/ome__vblex"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="come down"><i>come<b/>down</i><par n="bec/ome__vblex"/></e>
-    <e lm="come home"><i>c</i><par n="bec/ome__vblex"/> <p><l><b/>home</l><r><g><b/>home</g></r></p></e>
+    <e lm="come home"><i>c</i><par n="bec/ome__vblex"/><p><l><b/>home</l><r><g><b/>home</g></r></p></e>
     <e lm="come in"><i>c</i><par n="bec/ome__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="come on"><i>come<b/>on</i><par n="bec/ome__vblex"/></e>
     <e lm="come out"><i>c</i><par n="bec/ome__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
@@ -12565,9 +12589,11 @@
     <e lm="giggle"><i>giggl</i><par n="liv/e__vblex"/></e>
     <e lm="gild"><i>gild</i><par n="accept__vblex"/></e>
     <e lm="give"><i>g</i><par n="g/ive__vblex"/></e>
+    <e lm="give back"><i>g</i><par n="g/ive__vblex__sep"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="give back"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="give in marriage"><i>g</i><par n="g/ive__vblex"/><p><l><b/>in<b/>marriage</l><r><g><b/>in<b/>marriage</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
+    <e lm="give up"><i>g</i><par n="g/ive__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="gladden"><i>gladden</i><par n="accept__vblex"/></e>
     <e lm="glance"><i>glanc</i><par n="liv/e__vblex"/></e>
@@ -12583,12 +12609,13 @@
     <e lm="go and get drunk"><i/><par n="/go__vblex"/><p><l><b/>and<b/>get<b/>drunk</l><r><g><b/>and<b/>get<b/>drunk</g></r></p></e>
     <e lm="go back"><i/><par n="/go__vblex"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="go berserk"><i/><par n="/go__vblex"/><p><l><b/>berserk</l><r><g><b/>berserk</g></r></p></e>
-    <e lm="go by bike"><i></i><par n="/go__vblex"/> <p><l><b/>by<b/>bike</l><r><g><b/>by<b/>bike</g></r></p></e>
-    <e lm="go by car"><i></i><par n="/go__vblex"/> <p><l><b/>by<b/>car</l><r><g><b/>by<b/>car</g></r></p></e>
-    <e lm="go by train"><i></i><par n="/go__vblex"/> <p><l><b/>by<b/>train</l><r><g><b/>by<b/>train</g></r></p></e>
-    <e lm="go camping"><i>go<b/>campi</i><par n="/go__vblex"/></e>
+    <e lm="go by bike"><i/><par n="/go__vblex"/><p><l><b/>by<b/>bike</l><r><g><b/>by<b/>bike</g></r></p></e>
+    <e lm="go by car"><i/><par n="/go__vblex"/><p><l><b/>by<b/>car</l><r><g><b/>by<b/>car</g></r></p></e>
+    <e lm="go by train"><i/><par n="/go__vblex"/><p><l><b/>by<b/>train</l><r><g><b/>by<b/>train</g></r></p></e>
+    <e lm="go camping"><i/><par n="/go__vblex"/><p><l><b/>camping</l><r><g><b/>camping</g></r></p></e>
     <e lm="go down"><i/><par n="/go__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="go Dutch"><i/><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
+    <e lm="go home"><i/><par n="/go__vblex"/><p><l><b/>home</l><r><g><b/>home</g></r></p></e>
     <e lm="go in"><i/><par n="/go__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="go into"><i>go<b/>in</i><par n="/go__vblex"/></e>
     <e lm="go on"><i/><par n="/go__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
@@ -12635,6 +12662,7 @@
     <e lm="hatch"><i>hatch</i><par n="approach__vblex"/></e>
     <e lm="hate"><i>hat</i><par n="liv/e__vblex"/></e>
     <e lm="have breakfast"><i>have<b/>breakfast</i><par n="ha/ve__vbhaver"/></e>
+    <e lm="have dinner"><i>have</i><par n="maybe__adv"/><p><l><b/>dinner</l><r><g><b/>dinner</g></r></p></e>
     <e lm="have fun"><i>have<b/>fun</i><par n="ha/ve__vbhaver"/></e>
     <e lm="head"><i>head</i><par n="accept__vblex"/></e>
     <e lm="heal"><i>heal</i><par n="accept__vblex"/></e>
@@ -12803,6 +12831,7 @@
     <e lm="limit"><i>limit</i><par n="accept__vblex"/></e>
     <e lm="limp"><i>limp</i><par n="accept__vblex"/></e>
     <e lm="line"><i>lin</i><par n="liv/e__vblex"/></e>
+    <e lm="line up"><i>lin</i><par n="liv/e__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="line up"><i>lin</i><par n="liv/e__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="link"><i>link</i><par n="accept__vblex"/></e>
     <e lm="list"><i>list</i><par n="accept__vblex"/></e>
@@ -12897,6 +12926,7 @@
     <e lm="notarise"><i>notaris</i><par n="liv/e__vblex"/></e>
     <e lm="notch"><i>notch</i><par n="approach__vblex"/></e>
     <e lm="note"><i>not</i><par n="liv/e__vblex"/></e>
+    <e lm="note down"><i>not</i><par n="liv/e__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="note down"><i>not</i><par n="liv/e__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="notify"><i>notif</i><par n="appl/y__vblex"/></e>
     <e lm="nourish"><i>nourish</i><par n="approach__vblex"/></e>
@@ -12964,6 +12994,7 @@
     <e lm="photocopy"><i>photocop</i><par n="appl/y__vblex"/></e>
     <e lm="photograph"><i>photograph</i><par n="accept__vblex"/></e>
     <e lm="pick"><i>pick</i><par n="accept__vblex"/></e>
+    <e lm="pick up"><i>pick</i><par n="accept__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="pick up"><i>pick</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="pile"><i>pil</i><par n="liv/e__vblex"/></e>
     <e lm="pile up"><i>pil</i><par n="liv/e__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
@@ -13050,6 +13081,7 @@
     <e lm="provoke"><i>provok</i><par n="liv/e__vblex"/></e>
     <e lm="publish"><i>publish</i><par n="approach__vblex"/></e>
     <e lm="pull"><i>pull</i><par n="accept__vblex"/></e>
+    <e lm="pull out"><i>pull</i><par n="accept__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="pull out"><i>pull</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="pump"><i>pump</i><par n="accept__vblex"/></e>
     <e lm="puncture"><i>punctur</i><par n="liv/e__vblex"/></e>
@@ -13233,6 +13265,7 @@
     <e lm="select"><i>select</i><par n="accept__vblex"/></e>
     <e lm="sell"><i>s</i><par n="s/ell__vblex"/></e>
     <e lm="send"><i>sen</i><par n="ben/d__vblex"/></e>
+    <e lm="send back"><i>sen</i><par n="ben/d__vblex__sep"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="send back"><i>sen</i><par n="ben/d__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="send in"><i>sen</i><par n="ben/d__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="sense"><i>sens</i><par n="liv/e__vblex"/></e>
@@ -13242,6 +13275,7 @@
     <e lm="serve"><i>serv</i><par n="liv/e__vblex"/></e>
     <e lm="set"><i>set</i><par n="cut__vblex"/></e>
     <e lm="set off"><i>set</i><par n="cut__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
+    <e lm="set up"><i>set</i><par n="cut__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="set up"><i>set</i><par n="cut__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="settle"><i>settl</i><par n="liv/e__vblex"/></e>
     <e lm="sew"><i>sew</i><par n="hew__vblex"/></e>
@@ -13269,6 +13303,7 @@
     <e lm="shower"><i>shower</i><par n="accept__vblex"/></e>
     <e lm="shun"><i>shun</i><par n="plan__vblex"/></e>
     <e lm="shut"><i>shut</i><par n="cut__vblex"/></e>
+    <e lm="shut down"><i>shut</i><par n="cut__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="shut down"><i>shut</i><par n="cut__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="sigh"><i>sigh</i><par n="accept__vblex"/></e>
     <e lm="sign"><i>sign</i><par n="accept__vblex"/></e>
@@ -13291,6 +13326,7 @@
     <e lm="slink"><i>sl</i><par n="sl/ink__vblex"/></e>
     <e lm="slip"><i>slip</i><par n="step__vblex"/></e>
     <e lm="slow"><i>slow</i><par n="accept__vblex"/></e>
+    <e lm="slow down"><i>slow</i><par n="accept__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="slow down"><i>slow</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="smash"><i>smash</i><par n="approach__vblex"/></e>
     <e lm="smear"><i>smear</i><par n="accept__vblex"/></e>
@@ -13332,10 +13368,11 @@
     <e lm="stamp"><i>stamp</i><par n="accept__vblex"/></e>
     <e lm="stand"><i>st</i><par n="st/and__vblex"/></e>
     <e lm="stand about"><i>stand<b/>about</i><par n="st/and__vblex"/></e>
-    <e lm="stand in front of"><i>st</i><par n="st/and__vblex"/> <p><l><b/>in<b/>front<b/>of</l><r><g><b/>in<b/>front<b/>of</g></r></p></e>
+    <e lm="stand in front of"><i>st</i><par n="st/and__vblex"/><p><l><b/>in<b/>front<b/>of</l><r><g><b/>in<b/>front<b/>of</g></r></p></e>
     <e lm="stare"><i>star</i><par n="liv/e__vblex"/></e>
     <e lm="start"><i>start</i><par n="accept__vblex"/></e>
-    <e lm="start proceedings"><i>start</i><par n="accept__vblex"/><p><l><b/>proceedings<b/>against</l><r><g><b/>proceedings<b/>against</g></r></p></e>
+    <e lm="start proceedings"><i>start</i><par n="accept__vblex"/><p><l><b/>proceedings</l><r><g><b/>proceedings</g></r></p></e>
+    <e lm="start proceedings against"><i>start</i><par n="accept__vblex"/><p><l><b/>proceedings<b/>against</l><r><g><b/>proceedings<b/>against</g></r></p></e>
     <e lm="start talks"><i>start</i><par n="accept__vblex"/><p><l><b/>talks</l><r><g><b/>talks</g></r></p></e>
     <e lm="startle"><i>startl</i><par n="liv/e__vblex"/></e>
     <e lm="state"><i>stat</i><par n="liv/e__vblex"/></e>
@@ -13350,6 +13387,7 @@
     <e lm="stimulate"><i>stimulat</i><par n="liv/e__vblex"/></e>
     <e lm="stipulate"><i>stipulat</i><par n="liv/e__vblex"/></e>
     <e lm="stir"><i>stir</i><par n="occur__vblex"/></e>
+    <e lm="stir up"><i>stir</i><par n="occur__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="stir up"><i>stir</i><par n="occur__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="stoop"><i>stoop</i><par n="accept__vblex"/></e>
     <e lm="stop"><i>stop</i><par n="step__vblex"/></e>
@@ -13422,10 +13460,14 @@
     <e lm="tailor"><i>tailor</i><par n="accept__vblex"/></e>
     <e lm="take"><i>t</i><par n="t/ake__vblex"/></e>
     <e lm="take advantage of"><i>t</i><par n="t/ake__vblex"/><p><l><b/>advantage<b/>of</l><r><g><b/>advantage<b/>of</g></r></p></e>
+    <e lm="take away"><i>t</i><par n="t/ake__vblex__sep"/><p><l><b/>away</l><r><g><b/>away</g></r></p></e>
     <e lm="take away"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>away</l><r><g><b/>away</g></r></p></e>
     <e lm="take care"><i>t</i><par n="t/ake__vblex"/><p><l><b/>care</l><r><g><b/>care</g></r></p></e>
+    <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
     <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
+    <e lm="take off"><i>t</i><par n="t/ake__vblex__sep"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="take off"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
+    <e lm="take out"><i>t</i><par n="t/ake__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="take out"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="take part"><i>t</i><par n="t/ake__vblex"/><p><l><b/>part</l><r><g><b/>part</g></r></p></e>
     <e lm="take place"><i>t</i><par n="t/ake__vblex"/><p><l><b/>place</l><r><g><b/>place</g></r></p></e>
@@ -13475,6 +13517,7 @@
     <e lm="tow"><i>tow</i><par n="accept__vblex"/></e>
     <e lm="tower"><i>tower</i><par n="accept__vblex"/></e>
     <e lm="trace"><i>trac</i><par n="liv/e__vblex"/></e>
+    <e lm="trace back"><i>trac</i><par n="liv/e__vblex__sep"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="trace back"><i>trac</i><par n="liv/e__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="trade"><i>trad</i><par n="liv/e__vblex"/></e>
     <e lm="train"><i>train</i><par n="accept__vblex"/></e>
@@ -13503,6 +13546,7 @@
     <e lm="turn"><i>turn</i><par n="accept__vblex"/></e>
     <e lm="turn into"><i>turn<b/>into</i><par n="accept__vblex"/></e>
     <e lm="turn left"><i>turn<b/>left</i><par n="accept__vblex"/></e>
+    <e lm="turn off"><i>turn</i><par n="accept__vblex__sep"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn off"><i>turn</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn off"><i>turn</i><par n="accept__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn on"><i>turn</i><par n="accept__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
@@ -13558,8 +13602,10 @@
     <e lm="warm up"><i>warm</i><par n="accept__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="warn"><i>warn</i><par n="accept__vblex"/></e>
     <e lm="wash"><i>wash</i><par n="approach__vblex"/></e>
+    <e lm="wash up"><i>wash</i><par n="approach__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="waste"><i>wast</i><par n="liv/e__vblex"/></e>
     <e lm="watch"><i>watch</i><par n="approach__vblex"/></e>
+    <e lm="water"><i>water</i><par n="accept__vblex"/></e>
     <e lm="wave"><i>wav</i><par n="liv/e__vblex"/></e>
     <e lm="weaken"><i>weaken</i><par n="accept__vblex"/></e>
     <e lm="wear"><i>w</i><par n="sw/ear__vblex"/></e>
@@ -14360,7 +14406,6 @@
     <e lm="dominant"><i>dominant</i><par n="expensive__adj"/></e>
     <e lm="dominating"><i>dominating</i><par n="expensive__adj"/></e>
     <e lm="Dominican"><par n="Dd"/><i>ominican</i><par n="expensive__adj"/></e>
-    <e lm="done"><i>done</i><par n="expensive__adj"/></e>
     <e lm="dorsal"><i>dorsal</i><par n="expensive__adj"/></e>
     <e lm="double"><i>double</i><par n="expensive__adj"/></e>
     <e lm="doubtful"><i>doubtful</i><par n="expensive__adj"/></e>
@@ -14738,7 +14783,6 @@
     <e lm="hermetical"><i>hermetical</i><par n="expensive__adj"/></e>
     <e lm="heroic"><i>heroic</i><par n="expensive__adj"/></e>
     <e lm="heroical"><i>heroical</i><par n="expensive__adj"/></e>
-    <e lm="hers"><i>hers</i><par n="mine__adj"/></e>
     <e lm="hesitant"><i>hesitant</i><par n="expensive__adj"/></e>
     <e lm="heterogeneous"><i>heterogeneous</i><par n="expensive__adj"/></e>
     <e lm="hidden"><i>hidden</i><par n="expensive__adj"/></e>
@@ -16439,7 +16483,6 @@
     <e lm="behind"><i>behind</i><par n="maybe__adv"/></e>
     <e lm="below"><i>below</i><par n="maybe__adv"/></e>
     <e lm="besides"><i>besides</i><par n="maybe__adv"/></e>
-    <e lm="best"><i>best</i><par n="maybe__adv"/></e>
     <e lm="beyond"><i>beyond</i><par n="maybe__adv"/></e>
     <e lm="biologically"><i>biologically</i><par n="maybe__adv"/></e>
     <e lm="bitterly"><i>bitterly</i><par n="maybe__adv"/></e>
@@ -17732,6 +17775,7 @@
     <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
     <e lm="thankyou"><i>thankyou</i><par n="hello__ij"/></e>
     <e lm="toot"><i>toot</i><par n="hello__ij"/></e>
+    <e lm="twang"><i>twang</i><par n="hello__ij"/></e>
     <e lm="ugh"><i>ugh</i><par n="hello__ij"/></e>
     <e lm="well" r="RL"><i>well</i><par n="hello__ij"/></e>
     <e lm="whoops"><i>whoops</i><par n="hello__ij"/></e>
@@ -17761,6 +17805,7 @@
     <e lm="half a loaf is better than no bread"><i>half<b/>a<b/>loaf<b/>is<b/>better<b/>than<b/>no<b/>bread</i><par n="hello__ij"/></e>
     <e lm="happy birthday"><i>happy<b/>birthday</i><par n="hello__ij"/></e>
     <e lm="he who laughs last laughs longest"><i>he<b/>who<b/>laughs<b/>last<b/>laughs<b/>longest</i><par n="hello__ij"/></e>
+    <e lm="here you are"><i>here<b/>you<b/>are</i><par n="hello__ij"/></e>
     <e lm="how do you do"><i>how<b/>do<b/>you<b/>do</i><par n="hello__ij"/></e>
     <e lm="hunt with cats and you catch only rats"><i>hunt<b/>with<b/>cats<b/>and<b/>you<b/>catch<b/>only<b/>rats</i><par n="hello__ij"/></e>
     <e lm="I know your game"><i>I<b/>know<b/>your<b/>game</i><par n="hello__ij"/></e>
@@ -24444,6 +24489,7 @@
     <e lm="we'll"><p><l>we'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
     <e lm="we're"><p><l>we're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
     <e lm="we've got"><p><l>we've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+    <e lm="we've"><p><l>we've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
     <e lm="weren't"><p><l>weren't</l><r>be<s n="vbser"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
     <e lm="what's"><p><l>what's</l> <r>what<s n="prn"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
