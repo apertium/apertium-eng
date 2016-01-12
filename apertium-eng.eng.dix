@@ -752,9 +752,9 @@
     <pardef n="prpos__prn">
       <e>       <p><l>mine</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e>       <p><l>his</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>his</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>hers</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>its</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>its</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
       <e>       <p><l>ours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>yours</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
       <e>       <p><l>theirs</l>   <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -1230,13 +1230,15 @@
     </pardef>
 
     <pardef n="two__num">
-      <e>       <p><l></l>         <r><s n="num"/><s n="sp"/></r></p></e>
-      <e>       <p><l><b/>hundred</l><r><b/>hundred<s n="num"/><s n="sp"/></r></p></e>
-      <e>       <p><l><b/>thousand</l><r><b/>thousand<s n="num"/><s n="sp"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="num"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l>         <r><s n="num"/><s n="sp"/></r></p></e>
+      <e>       <p><l><b/>hundred</l><r><b/>hundred<s n="num"/><s n="pl"/></r></p></e>
+      <e>       <p><l><b/>thousand</l><r><b/>thousand<s n="num"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="million__num">
-      <e>       <p><l></l>         <r><s n="num"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l></l>         <r><s n="num"/><s n="sp"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="num"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="twenty__num">
@@ -2907,7 +2909,7 @@
 	
     <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
     <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
-    <e lm="prpers prn pos"><i></i><par n="prpos__prn"/></e>
+    <e lm="possessive pronoun"><i></i><par n="prpos__prn"/></e>
 
 
     <!-- SECTION: Pronouns -->
@@ -3007,9 +3009,6 @@
     <e lm="every"><i>every</i><par n="another__det"/></e>
     <e lm="few"><i>few</i><par n="many__det"/></e>
     <e lm="fewer"><i>fewer</i><par n="many__det"/></e>
-    <e lm="her"><i>her</i><par n="her__det"/></e>
-    <e lm="his"><i>his</i><par n="her__det"/></e>
-    <e lm="its"><i>its</i><par n="her__det"/></e>
     <e lm="less"><i>less</i><par n="much__det"/></e>
     <e lm="lots of"><i>lots<b/>of</i><par n="enough__det"/></e>
     <e lm="many"><i>many</i><par n="many__det"/></e>
@@ -3017,10 +3016,8 @@
     <e lm="most"><i>most</i><par n="enough__det"/></e>
     <e lm="most of"><i>most<b/>of</i><par n="enough__det"/></e>
     <e lm="much"><i>much</i><par n="much__det"/></e>
-    <e lm="my"><i>my</i><par n="her__det"/></e>
     <e lm="no"><i>no</i><par n="another__det"/></e>
     <e lm="other"><i>other</i><par n="other__det"/></e>
-    <e lm="our"><i>our</i><par n="her__det"/></e>
     <e lm="quite a lot of"><i>quite<b/>a<b/>lot<b/>of</i><par n="enough__det"/></e>
     <e lm="several"><i>several</i><par n="several__det"/></e>
     <e lm="so many"><i>so<b/>many</i><par n="many__det"/></e>
@@ -3032,7 +3029,6 @@
     <e lm="the"><i>the</i><par n="the__det"/></e>
     <e lm="the most"><i>the<b/>most</i><par n="enough__det"/></e>
     <e lm="the same"><i>the<b/>same</i><par n="other__det"/></e>
-    <e lm="their"><i>their</i><par n="her__det"/></e>
     <e lm="this"><i>th</i><par n="th/is__det"/></e>
     <e lm="too many"><i>too<b/>many</i><par n="many__det"/></e>
     <e lm="too much"><i>too<b/>much</i><par n="much__det"/></e>
@@ -3040,7 +3036,15 @@
     <e lm="what"><i>what</i><par n="what__det"/></e>
     <e lm="whatever"><i>whatever</i><par n="another__det"/></e>
     <e lm="which"><i>which</i><par n="what__det"/></e>
-    <e lm="your"><i>your</i><par n="her__det"/></e>
+
+    <e lm="my"><p><l>my</l><r>my<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="your"><p><l>your</l><r>your<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="his"><p><l>his</l><r>his<s n="det"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="her"><p><l>her</l><r>her<s n="det"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="its"><p><l>its</l><r>its<s n="det"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e lm="our"><p><l>our</l><r>our<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="your"><p><l>your</l><r>your<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="their"><p><l>their</l><r>their<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <!-- SECTION: Nouns -->
 
@@ -11790,8 +11794,9 @@
     <e lm="might"><i>might</i><par n="will/__vbmod"/></e>
     <e lm="must"><i>must</i><par n="will/__vbmod"/></e>
     <e lm="shall"><i>shall</i><par n="will/__vbmod"/></e>
-    <e lm="want"><i>want</i><par n="want__vbmod"/></e>
-    <e lm="want to"><i>want</i><par n="want__vbmod"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
+
+    <e lm="want to"><i>want</i><par n="accept__vblex"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
+
     <e lm="will"><i>will</i><par n="will/__vbmod"/></e>
 
     <e lm="cannot"><p><l>cannot</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
@@ -14788,7 +14793,6 @@
     <e lm="hidden"><i>hidden</i><par n="expensive__adj"/></e>
     <e lm="high"><i>high</i><par n="long/__adj"/></e>
     <e lm="hilarious"><i>hilarious</i><par n="expensive__adj"/></e>
-    <e lm="his"><i>his</i><par n="mine__adj"/></e>
     <e lm="historic"><i>historic</i><par n="expensive__adj"/></e>
     <e lm="historical"><i>historical</i><par n="expensive__adj"/></e>
     <e lm="hoarse"><i>hoarse</i><par n="expensive__adj"/></e>
@@ -15225,7 +15229,6 @@
     <e lm="mild"><i>mild</i><par n="long/__adj"/></e>
     <e lm="militant"><i>militant</i><par n="expensive__adj"/></e>
     <e lm="military"><i>military</i><par n="expensive__adj"/></e>
-    <e lm="mine"><i>mine</i><par n="mine__adj"/></e>
     <e lm="mineral"><i>mineral</i><par n="expensive__adj"/></e>
     <e lm="minimal"><i>minimal</i><par n="expensive__adj"/></e>
     <e lm="minimum"><i>minimum</i><par n="expensive__adj"/></e>
@@ -15411,7 +15414,6 @@
     <e lm="Orthodox"><par n="Oo"/><i>rthodox</i><par n="expensive__adj"/></e>
     <e lm="orthographical"><i>orthographical</i><par n="expensive__adj"/></e>
     <e lm="osseous"><i>osseous</i><par n="expensive__adj"/></e>
-    <e lm="ours"><i>ours</i><par n="mine__adj"/></e>
     <e lm="out of control"><i>out<b/>of<b/>control</i><par n="expensive__adj"/></e>
     <e lm="out of date"><i>out<b/>of<b/>date</i><par n="expensive__adj"/></e>
     <e lm="outdated"><i>outdated</i><par n="expensive__adj"/></e>
@@ -16062,7 +16064,6 @@
     <e lm="Thai"><par n="Tt"/><i>hai</i><par n="expensive__adj"/></e>
     <e lm="that kind of"><i>that<b/>kind<b/>of</i><par n="expensive__adj"/></e>
     <e lm="theatrical"><i>theatrical</i><par n="expensive__adj"/></e>
-    <e lm="theirs"><i>theirs</i><par n="mine__adj"/></e>
     <e lm="thematic"><i>thematic</i><par n="expensive__adj"/></e>
     <e lm="then" r="RL"><i>then</i><par n="expensive__adj"/></e> <!-- The _then_ president -->
     <e lm="theological"><i>theological</i><par n="expensive__adj"/></e>
@@ -16406,7 +16407,6 @@
     <e lm="yellow"><i>yellow</i><par n="long/__adj"/></e>
     <e lm="yielding"><i>yielding</i><par n="expensive__adj"/></e>
     <e lm="young"><i>young</i><par n="long/__adj"/></e>
-    <e lm="yours"><i>yours</i><par n="mine__adj"/></e>
     <e lm="youthful"><i>youthful</i><par n="expensive__adj"/></e>
     <e lm="Yugoslav"><par n="Yy"/><i>ugoslav</i><par n="expensive__adj"/></e>
     <e lm="zonal"><i>zonal</i><par n="expensive__adj"/></e>
@@ -24491,7 +24491,8 @@
     <e lm="we've got"><p><l>we've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
     <e lm="we've"><p><l>we've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
     <e lm="weren't"><p><l>weren't</l><r>be<s n="vbser"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="what's"><p><l>what's</l> <r>what<s n="prn"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="what's"><p><l>what's</l><r>what<s n="prn"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="where's"><p><l>where's</l><r>where<s n="prn"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="won't"><p><l>won't</l><r>will<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
