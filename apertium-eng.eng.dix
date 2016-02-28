@@ -877,7 +877,7 @@
       <e>       <p><l></l>         <r><s n="n"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l>       <r><s n="n"/><s n="pl"/></r></p></e>
       <e>       <p><l>es'</l>      <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e r="LR"><p><l></l>         <r><s n="n"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="bus__n">
@@ -1329,6 +1329,7 @@
       <e>       <p><l>ving</l>     <r>ve<s n="vbhaver"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ving</l>     <r>ve<s n="vbhaver"/><s n="ger"/></r></p></e>
       <e>       <p><l>ving</l>     <r>ve<s n="vbhaver"/><s n="subs"/></r></p></e>
+      <e r="RL"><p><l>ve</l>       <r>ve<s n="vbhaver"/><s n="pres"/></r></p></e>
       <e>       <p><l>ve</l>       <r>ve<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>ve</l>       <r>ve<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>s</l>        <r>ve<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -1341,6 +1342,7 @@
       <e>       <p><l>d</l>        <r>ve<s n="vbhaver"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>d</l>        <r>ve<s n="vbhaver"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>d</l>        <r>ve<s n="vbhaver"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>d</l>        <r>ve<s n="vbhaver"/><s n="past"/></r></p></e>
     </pardef>
 
     <pardef n="/be__vbser">
@@ -1349,6 +1351,7 @@
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="pprs"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="ger"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="subs"/></r></p></e>
+      <e r="RL"><p><l>am</l>       <r>be<s n="vbser"/><s n="pres"/></r></p></e>
       <e>       <p><l>am</l>       <r>be<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>are</l>      <r>be<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>is</l>       <r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -1361,10 +1364,12 @@
       <e>       <p><l>were</l>     <r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>were</l>     <r>be<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>were</l>     <r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>was</l>      <r>be<s n="vbser"/><s n="past"/></r></p></e>
     </pardef>
 
     <pardef n="/be__vblex">
       <e>       <p><l>be</l>       <r>be<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>be</l>       <r>be<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>been</l>     <r>be<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1398,6 +1403,7 @@
 
     <pardef n="d/o__vblex">
       <e>       <p><l>o</l>        <r>o<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>o</l>        <r>o<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>one</l>      <r>o<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>oing</l>     <r>o<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>oing</l>     <r>o<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1420,6 +1426,7 @@
 
     <pardef n="dwel/l__vblex">
       <e>       <p><l>l</l>        <r>l<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>l</l>        <r>l<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>l<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ling</l>     <r>l<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ling</l>     <r>l<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1431,6 +1438,7 @@
 
     <pardef n="accept__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1442,6 +1450,7 @@
 
     <pardef n="liv/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1453,6 +1462,7 @@
 
     <pardef n="appl/y__vblex">
       <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ied</l>      <r>y<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1464,6 +1474,7 @@
 
     <pardef n="enjoy__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1475,6 +1486,7 @@
 
     <pardef n="pa/y__vblex">
       <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>id</l>       <r>y<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1486,6 +1498,7 @@
 
     <pardef n="ab/ide__vblex">
       <e>       <p><l>ide</l>      <r>ide<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ide</l>      <r>ide<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ode</l>      <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>ided</l>     <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iding</l>    <r>ide<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1499,6 +1512,7 @@
 
     <pardef n="approach__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1510,6 +1524,7 @@
 
     <pardef n="admit__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ted</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1521,6 +1536,7 @@
 
     <pardef n="fit__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>ted</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1534,6 +1550,7 @@
 
     <pardef n="agree__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1545,6 +1562,7 @@
 
     <pardef n="ar/ise__vblex">
       <e>       <p><l>ise</l>      <r>ise<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ise</l>      <r>ise<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>isen</l>     <r>ise<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ising</l>    <r>ise<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ising</l>    <r>ise<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1556,6 +1574,7 @@
 
     <pardef n="aw/ake__vblex">
       <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>aken</l>     <r>ake<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1567,6 +1586,7 @@
 
     <pardef n="s/it__vblex">
       <e>       <p><l>it</l>       <r>it<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>it</l>       <r>it<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>at</l>       <r>it<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>itting</l>   <r>it<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>itting</l>   <r>it<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1578,6 +1598,7 @@
 
     <pardef n="b/ear__vblex">
       <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>orne</l>     <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>orn</l>      <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1590,6 +1611,7 @@
 
     <pardef n="b/eat__vblex">
       <e>       <p><l>eat</l>      <r>eat<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eat</l>      <r>eat<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>eaten</l>    <r>eat<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eating</l>   <r>eat<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eating</l>   <r>eat<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1601,6 +1623,7 @@
 
     <pardef n="bec/ome__vblex">
       <e>       <p><l>ome</l>      <r>ome<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ome</l>      <r>ome<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ome</l>      <r>ome<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>oming</l>    <r>ome<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>oming</l>    <r>ome<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1612,6 +1635,7 @@
 
     <pardef n="f/all__vblex">
       <e>       <p><l>all</l>      <r>all<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>all</l>      <r>all<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>allen</l>    <r>all<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>alling</l>   <r>all<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>alling</l>   <r>all<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1623,6 +1647,7 @@
 
     <pardef n="beg/et__vblex">
       <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>otten</l>    <r>et<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1635,6 +1660,7 @@
 
     <pardef n="beg/in__vblex">
       <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>un</l>       <r>in<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1646,6 +1672,7 @@
 
     <pardef n="h/old__vblex">
       <e>       <p><l>old</l>      <r>old<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>old</l>      <r>old<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>eld</l>      <r>old<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>olding</l>   <r>old<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>olding</l>   <r>old<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1657,6 +1684,7 @@
 
     <pardef n="ben/d__vblex">
       <e>       <p><l>d</l>        <r>d<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>d</l>        <r>d<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>d<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ding</l>     <r>d<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ding</l>     <r>d<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1668,6 +1696,7 @@
 
     <pardef n="cut__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1679,6 +1708,7 @@
 
     <pardef n="bestr/ide__vblex">
       <e>       <p><l>ide</l>      <r>ide<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ide</l>      <r>ide<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>idden</l>    <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iding</l>    <r>ide<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iding</l>    <r>ide<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1690,6 +1720,7 @@
 
     <pardef n="t/ake__vblex">
       <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>aken</l>     <r>ake<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1701,6 +1732,7 @@
 
     <pardef n="f/ind__vblex">
       <e>       <p><l>ind</l>      <r>ind<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ind</l>      <r>ind<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ound</l>     <r>ind<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inding</l>   <r>ind<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inding</l>   <r>ind<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1712,6 +1744,7 @@
 
     <pardef n="b/ite__vblex">
       <e>       <p><l>ite</l>      <r>ite<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ite</l>      <r>ite<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>itten</l>    <r>ite<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iting</l>    <r>ite<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iting</l>    <r>ite<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1723,6 +1756,7 @@
 
     <pardef n="ble/ed__vblex">
       <e>       <p><l>ed</l>       <r>ed<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ed</l>       <r>ed<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r>ed<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eding</l>    <r>ed<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eding</l>    <r>ed<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1734,6 +1768,7 @@
 
     <pardef n="bles/s__vblex">
       <e>       <p><l>s</l>        <r>s<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>s</l>        <r>s<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>st</l>       <r>s<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>sed</l>      <r>s<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>sing</l>     <r>s<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1747,6 +1782,7 @@
 
     <pardef n="bl/ow__vblex">
       <e>       <p><l>ow</l>       <r>ow<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ow</l>       <r>ow<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>own</l>      <r>ow<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>owing</l>    <r>ow<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>owing</l>    <r>ow<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1758,6 +1794,7 @@
 
     <pardef n="br/ing__vblex">
       <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1769,6 +1806,7 @@
 
     <pardef n="cost__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1780,6 +1818,7 @@
 
     <pardef n="b/uy__vblex">
       <e>       <p><l>uy</l>       <r>uy<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>uy</l>       <r>uy<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>uy<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>uying</l>    <r>uy<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>uying</l>    <r>uy<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1791,6 +1830,7 @@
 
     <pardef n="ca/tch__vblex">
       <e>       <p><l>tch</l>      <r>tch<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>tch</l>      <r>tch<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ught</l>     <r>tch<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>tching</l>   <r>tch<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>tching</l>   <r>tch<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1802,6 +1842,7 @@
 
     <pardef n="chid/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>den</l>      <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l></l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1814,6 +1855,7 @@
 
     <pardef n="cho/ose__vblex">
       <e>       <p><l>ose</l>      <r>ose<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ose</l>      <r>ose<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>sen</l>      <r>ose<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>osing</l>    <r>ose<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>osing</l>    <r>ose<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1825,6 +1867,7 @@
 
     <pardef n="cl/ing__vblex">
       <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ung</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1836,6 +1879,7 @@
 
     <pardef n="cl/othe__vblex">
       <e>       <p><l>othe</l>     <r>othe<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>othe</l>     <r>othe<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ad</l>       <r>othe<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>othing</l>   <r>othe<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>othing</l>   <r>othe<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1847,6 +1891,7 @@
 
     <pardef n="control__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>led</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ling</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ling</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1858,6 +1903,7 @@
 
     <pardef n="ke/ep__vblex">
       <e>       <p><l>ep</l>       <r>ep<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ep</l>       <r>ep<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>pt</l>       <r>ep<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eping</l>    <r>ep<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eping</l>    <r>ep<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1869,6 +1915,7 @@
 
     <pardef n="deal__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -1880,6 +1927,7 @@
 
     <pardef n="d/ie__vblex">
       <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ied</l>      <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1891,6 +1939,7 @@
 
     <pardef n="d/ig__vblex">
       <e>       <p><l>ig</l>       <r>ig<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ig</l>       <r>ig<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ug</l>       <r>ig<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>igging</l>   <r>ig<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>igging</l>   <r>ig<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1902,6 +1951,7 @@
 
     <pardef n="d/ive__vblex">
       <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ived</l>     <r>ive<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1914,6 +1964,7 @@
 
     <pardef n="dr/aw__vblex">
       <e>       <p><l>aw</l>       <r>aw<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>aw</l>       <r>aw<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>awn</l>      <r>aw<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>awing</l>    <r>aw<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>awing</l>    <r>aw<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1925,6 +1976,7 @@
 
     <pardef n="dr/ink__vblex">
       <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>unk</l>      <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1936,6 +1988,7 @@
 
     <pardef n="dr/ive__vblex">
       <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>iven</l>     <r>ive<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1947,6 +2000,7 @@
 
     <pardef n="spel/l__vblex">
       <e>       <p><l>l</l>        <r>l<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>l</l>        <r>l<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>l<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>led</l>      <r>l<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ling</l>     <r>l<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -1960,6 +2014,7 @@
 
     <pardef n="/eat__vblex">
       <e>       <p><l>eat</l>      <r>eat<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eat</l>      <r>eat<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>eaten</l>    <r>eat<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eating</l>   <r>eat<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eating</l>   <r>eat<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1971,6 +2026,7 @@
 
     <pardef n="fe/el__vblex">
       <e>       <p><l>el</l>       <r>el<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>el</l>       <r>el<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>lt</l>       <r>el<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eling</l>    <r>el<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eling</l>    <r>el<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1982,6 +2038,7 @@
 
     <pardef n="f/ight__vblex">
       <e>       <p><l>ight</l>     <r>ight<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ight</l>     <r>ight<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>ight<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ighting</l>  <r>ight<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ighting</l>  <r>ight<s n="vblex"/><s n="ger"/></r></p></e>
@@ -1993,6 +2050,7 @@
 
     <pardef n="fle/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eing</l>     <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eing</l>     <r>e<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2004,6 +2062,7 @@
 
     <pardef n="floodli/ght__vblex">
       <e>       <p><l>ght</l>      <r>ght<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ght</l>      <r>ght<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>ght<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ghting</l>   <r>ght<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ghting</l>   <r>ght<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2015,6 +2074,7 @@
 
     <pardef n="fl/y__vblex">
       <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>own</l>      <r>y<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2026,6 +2086,7 @@
 
     <pardef n="forb/id__vblex">
       <e>       <p><l>id</l>       <r>id<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>id</l>       <r>id<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>idden</l>    <r>id<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>idding</l>   <r>id<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>idding</l>   <r>id<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2038,6 +2099,7 @@
 
     <pardef n="/go__vblex">
       <e>       <p><l>go</l>       <r>go<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>go</l>       <r>go<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>gone</l>     <r>go<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>going</l>    <r>go<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>going</l>    <r>go<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2049,6 +2111,7 @@
 
     <pardef n="s/ee__vblex">
       <e>       <p><l>ee</l>       <r>ee<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ee</l>       <r>ee<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>een</l>      <r>ee<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eeing</l>    <r>ee<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eeing</l>    <r>ee<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2060,6 +2123,7 @@
 
     <pardef n="s/ell__vblex">
       <e>       <p><l>ell</l>      <r>ell<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ell</l>      <r>ell<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>old</l>      <r>ell<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>elling</l>   <r>ell<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>elling</l>   <r>ell<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2071,6 +2135,7 @@
 
     <pardef n="forg/et__vblex">
       <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>otten</l>    <r>et<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2082,6 +2147,7 @@
 
     <pardef n="g/ive__vblex">
       <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>iven</l>     <r>ive<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2093,6 +2159,7 @@
 
     <pardef n="sw/ear__vblex">
       <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>orn</l>      <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2104,6 +2171,7 @@
 
     <pardef n="fr/eeze__vblex">
       <e>       <p><l>eeze</l>     <r>eeze<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eeze</l>     <r>eeze<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ozen</l>     <r>eeze<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eezing</l>   <r>eeze<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eezing</l>   <r>eeze<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2115,6 +2183,7 @@
 
     <pardef n="g/et__vblex">
       <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ot</l>       <r>et<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>otten</l>    <r>et<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2127,6 +2196,7 @@
 
     <pardef n="h/ang__vblex">
       <e>       <p><l>ang</l>      <r>ang<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ang</l>      <r>ang<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>anged</l>    <r>ang<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>ung</l>      <r>ang<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>anging</l>   <r>ang<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2140,6 +2210,7 @@
 
     <pardef n="hear__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2151,6 +2222,7 @@
 
     <pardef n="hew__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>n</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2163,6 +2235,7 @@
 
     <pardef n="hid/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>den</l>      <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l></l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2175,6 +2248,7 @@
 
     <pardef n="w/eave__vblex">
       <e>       <p><l>eave</l>     <r>eave<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eave</l>     <r>eave<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>oven</l>     <r>eave<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eaving</l>   <r>eave<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eaving</l>   <r>eave<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2186,6 +2260,7 @@
 
     <pardef n="le/ad__vblex">
       <e>       <p><l>ad</l>       <r>ad<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ad</l>       <r>ad<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r>ad<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ading</l>    <r>ad<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ading</l>    <r>ad<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2197,6 +2272,7 @@
 
     <pardef n="le/ave__vblex">
       <e>       <p><l>ave</l>      <r>ave<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ave</l>      <r>ave<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ft</l>       <r>ave<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aving</l>    <r>ave<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aving</l>    <r>ave<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2208,6 +2284,7 @@
 
     <pardef n="l/ie__vblex">
       <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ain</l>      <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2219,6 +2296,7 @@
 
     <pardef n="lo/se__vblex">
       <e>       <p><l>se</l>       <r>se<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>se</l>       <r>se<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>st</l>       <r>se<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>sing</l>     <r>se<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>sing</l>     <r>se<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2230,6 +2308,7 @@
 
     <pardef n="ma/ke__vblex">
       <e>       <p><l>ke</l>       <r>ke<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ke</l>       <r>ke<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>de</l>       <r>ke<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>king</l>     <r>ke<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>king</l>     <r>ke<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2241,6 +2320,7 @@
 
     <pardef n="me/et__vblex">
       <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>et<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eting</l>    <r>et<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eting</l>    <r>et<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2252,6 +2332,7 @@
 
     <pardef n="m/elt__vblex">
       <e>       <p><l>elt</l>      <r>elt<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>elt</l>      <r>elt<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>elted</l>    <r>elt<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>olted</l>    <r>elt<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>elting</l>   <r>elt<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2264,6 +2345,7 @@
 
     <pardef n="read__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2275,6 +2357,7 @@
 
     <pardef n="st/and__vblex">
       <e>       <p><l>and</l>      <r>and<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>and</l>      <r>and<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ood</l>      <r>and<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>anding</l>   <r>and<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>anding</l>   <r>and<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2286,6 +2369,7 @@
 
     <pardef n="occur__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>red</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ring</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ring</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2297,6 +2381,7 @@
 
     <pardef n="outbid__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ding</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ding</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2308,6 +2393,7 @@
 
     <pardef n="r/un__vblex">
       <e>       <p><l>un</l>       <r>un<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>un</l>       <r>un<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>un</l>       <r>un<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>unning</l>   <r>un<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>unning</l>   <r>un<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2319,6 +2405,7 @@
 
     <pardef n="outsh/ine__vblex">
       <e>       <p><l>ine</l>      <r>ine<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ine</l>      <r>ine<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>one</l>      <r>ine<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ining</l>    <r>ine<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ining</l>    <r>ine<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2330,6 +2417,7 @@
 
     <pardef n="sho/ot__vblex">
       <e>       <p><l>ot</l>       <r>ot<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ot</l>       <r>ot<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>ot<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>oting</l>    <r>ot<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>oting</l>    <r>ot<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2341,6 +2429,7 @@
 
     <pardef n="plan__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ned</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ning</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ning</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2352,6 +2441,7 @@
 
     <pardef n="prov/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>en</l>       <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2364,6 +2454,7 @@
 
     <pardef n="th/ink__vblex">
       <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2375,6 +2466,7 @@
 
     <pardef n="wr/ite__vblex">
       <e>       <p><l>ite</l>      <r>ite<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ite</l>      <r>ite<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>itten</l>    <r>ite<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iting</l>    <r>ite<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iting</l>    <r>ite<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2386,6 +2478,7 @@
 
     <pardef n="r/ing__vblex">
       <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ung</l>      <r>ing<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2397,6 +2490,7 @@
 
     <pardef n="s/eek__vblex">
       <e>       <p><l>eek</l>      <r>eek<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eek</l>      <r>eek<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>eek<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eeking</l>   <r>eek<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eeking</l>   <r>eek<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2408,6 +2502,7 @@
 
     <pardef n="sh/ear__vblex">
       <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>eared</l>    <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>orn</l>      <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2420,6 +2515,7 @@
 
     <pardef n="sho/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>d</l>        <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eing</l>     <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eing</l>     <r>e<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2431,6 +2527,7 @@
 
     <pardef n="st/ink__vblex">
       <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ank</l>      <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>unk</l>      <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2444,6 +2541,7 @@
 
     <pardef n="sl/ay__vblex">
       <e>       <p><l>ay</l>       <r>ay<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ay</l>       <r>ay<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ain</l>      <r>ay<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aying</l>    <r>ay<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aying</l>    <r>ay<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2455,6 +2553,7 @@
 
     <pardef n="slid/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2466,6 +2565,7 @@
 
     <pardef n="br/eak__vblex">
       <e>       <p><l>eak</l>      <r>eak<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eak</l>      <r>eak<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>oken</l>     <r>eak<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eaking</l>   <r>eak<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eaking</l>   <r>eak<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2477,6 +2577,7 @@
 
     <pardef n="sp/in__vblex">
       <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>un</l>       <r>in<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2489,6 +2590,7 @@
 
     <pardef n="st/ave__vblex">
       <e>       <p><l>ave</l>      <r>ave<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ave</l>      <r>ave<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ove</l>      <r>ave<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>aved</l>     <r>ave<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aving</l>    <r>ave<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2502,6 +2604,7 @@
 
     <pardef n="st/eal__vblex">
       <e>       <p><l>eal</l>      <r>eal<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eal</l>      <r>eal<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>olen</l>     <r>eal<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ealing</l>   <r>eal<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ealing</l>   <r>eal<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2513,6 +2616,7 @@
 
     <pardef n="step__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ped</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ping</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ping</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2524,6 +2628,7 @@
 
     <pardef n="st/ick__vblex">
       <e>       <p><l>ick</l>      <r>ick<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ick</l>      <r>ick<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>uck</l>      <r>ick<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>icking</l>   <r>ick<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>icking</l>   <r>ick<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2535,6 +2640,7 @@
 
     <pardef n="str/ike__vblex">
       <e>       <p><l>ike</l>      <r>ike<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ike</l>      <r>ike<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>uck</l>      <r>ike<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>iking</l>    <r>ike<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iking</l>    <r>ike<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2546,6 +2652,7 @@
 
     <pardef n="sw/ell__vblex">
       <e>       <p><l>ell</l>      <r>ell<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ell</l>      <r>ell<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>elled</l>    <r>ell<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>ollen</l>    <r>ell<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>elling</l>   <r>ell<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2558,6 +2665,7 @@
 
     <pardef n="sw/im__vblex">
       <e>       <p><l>im</l>       <r>im<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>im</l>       <r>im<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>um</l>       <r>im<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>imming</l>   <r>im<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>imming</l>   <r>im<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2569,6 +2677,7 @@
 
     <pardef n="t/each__vblex">
       <e>       <p><l>each</l>     <r>each<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>each</l>     <r>each<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>aught</l>    <r>each<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eaching</l>  <r>each<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>eaching</l>  <r>each<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2580,6 +2689,7 @@
 
     <pardef n="tr/ead__vblex">
       <e>       <p><l>ead</l>      <r>ead<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ead</l>      <r>ead<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>od</l>       <r>ead<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>odden</l>    <r>ead<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eading</l>   <r>ead<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2592,6 +2702,7 @@
 
     <pardef n="underl/ie__vblex">
       <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ie</l>       <r>ie<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>aid</l>      <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2603,6 +2714,7 @@
 
     <pardef n="w/in__vblex">
       <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>in</l>       <r>in<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>on</l>       <r>in<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inning</l>   <r>in<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2614,6 +2726,7 @@
 
     <pardef n="wr/eak__vblex">
       <e>       <p><l>eak</l>      <r>eak<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>eak</l>      <r>eak<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>eak<s n="vblex"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>eaked</l>    <r>eak<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eaking</l>   <r>eak<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2627,6 +2740,7 @@
 
     <pardef n="plug__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ged</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ging</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ging</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2638,6 +2752,7 @@
 
     <pardef n="sl/ink__vblex">
       <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ink</l>      <r>ink<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>unk</l>      <r>ink<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inking</l>   <r>ink<s n="vblex"/><s n="ger"/></r></p></e>
@@ -2649,6 +2764,7 @@
 
     <pardef n="dub__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>bed</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>bing</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>bing</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2660,6 +2776,7 @@
 
     <pardef n="bed__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ded</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ding</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ding</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2671,6 +2788,7 @@
 
     <pardef n="whiz__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>zed</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>zing</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>zing</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2682,6 +2800,7 @@
 
     <pardef n="program__vblex">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>med</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ming</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ming</l>     <r><s n="vblex"/><s n="ger"/></r></p></e>
@@ -2693,6 +2812,7 @@
 
     <pardef n="ag/e__vblex">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r>e<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>eing</l>     <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
       <e r="LR"><p><l>ing</l>      <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
@@ -2707,6 +2827,7 @@
 
     <pardef n="accept__vblex__sep">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2718,6 +2839,7 @@
 
     <pardef n="liv/e__vblex__sep">
       <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>e</l>        <r>e<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r>e<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r>e<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2729,6 +2851,7 @@
 
     <pardef n="appl/y__vblex__sep">
       <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ied</l>      <r>y<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2740,6 +2863,7 @@
 
     <pardef n="pa/y__vblex__sep">
       <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>y</l>        <r>y<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>id</l>       <r>y<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ying</l>     <r>y<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2751,6 +2875,7 @@
 
     <pardef n="approach__vblex__sep">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2762,6 +2887,7 @@
 
     <pardef n="h/old__vblex__sep">
       <e>       <p><l>old</l>      <r>old<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>old</l>      <r>old<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>eld</l>      <r>old<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>olding</l>   <r>old<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>olding</l>   <r>old<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2773,6 +2899,7 @@
 
     <pardef n="ben/d__vblex__sep">
       <e>       <p><l>d</l>        <r>d<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>d</l>        <r>d<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>d<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ding</l>     <r>d<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ding</l>     <r>d<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2784,6 +2911,7 @@
 
     <pardef n="cut__vblex__sep">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ting</l>     <r><s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2795,6 +2923,7 @@
 
     <pardef n="t/ake__vblex__sep">
       <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ake</l>      <r>ake<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>aken</l>     <r>ake<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aking</l>    <r>ake<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2806,6 +2935,7 @@
 
     <pardef n="bl/ow__vblex__sep">
       <e>       <p><l>ow</l>       <r>ow<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ow</l>       <r>ow<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>own</l>      <r>ow<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>owing</l>    <r>ow<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>owing</l>    <r>ow<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2817,6 +2947,7 @@
 
     <pardef n="br/ing__vblex__sep">
       <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ing</l>      <r>ing<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ought</l>    <r>ing<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>inging</l>   <r>ing<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2828,6 +2959,7 @@
 
     <pardef n="d/ig__vblex__sep">
       <e>       <p><l>ig</l>       <r>ig<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ig</l>       <r>ig<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ug</l>       <r>ig<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>igging</l>   <r>ig<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>igging</l>   <r>ig<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2839,6 +2971,7 @@
 
     <pardef n="g/ive__vblex__sep">
       <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ive</l>      <r>ive<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>iven</l>     <r>ive<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>iving</l>    <r>ive<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2850,6 +2983,7 @@
 
     <pardef n="sw/ear__vblex__sep">
       <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ear</l>      <r>ear<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>orn</l>      <r>ear<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>earing</l>   <r>ear<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2861,6 +2995,7 @@
 
     <pardef n="g/et__vblex__sep">
       <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>et</l>       <r>et<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>ot</l>       <r>et<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e r="LR"><p><l>otten</l>    <r>et<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>etting</l>   <r>et<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
@@ -2873,6 +3008,7 @@
 
     <pardef n="ma/ke__vblex__sep">
       <e>       <p><l>ke</l>       <r>ke<s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l>ke</l>       <r>ke<s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>de</l>       <r>ke<s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>king</l>     <r>ke<s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>king</l>     <r>ke<s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2884,6 +3020,7 @@
 
     <pardef n="occur__vblex__sep">
       <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="sep"/><s n="imp"/></r></p></e>
       <e>       <p><l>red</l>      <r><s n="vblex"/><s n="sep"/><s n="pp"/></r></p></e>
       <e>       <p><l>ring</l>     <r><s n="vblex"/><s n="sep"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ring</l>     <r><s n="vblex"/><s n="sep"/><s n="ger"/></r></p></e>
@@ -2895,6 +3032,7 @@
 
     <pardef n="d/are__vblex">
       <e>       <p><l>are</l>      <r>are<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l>are</l>      <r>are<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>ared</l>     <r>are<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>aring</l>    <r>are<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>aring</l>    <r>are<s n="vblex"/><s n="ger"/></r></p></e>
@@ -3490,7 +3628,6 @@
     <e lm="appearance"><i>appearance</i><par n="house__n"/></e>
     <e lm="appeasement"><i>appeasement</i><par n="house__n"/></e>
     <e lm="appellative"><i>appellative</i><par n="house__n"/></e>
-    <e lm="appendage"><i>appendage</i><par n="house__n"/></e>
     <e lm="appendage"><i>appendage</i><par n="house__n"/></e>
     <e lm="appendicitis"><i>appendicitis</i><par n="east__n"/></e>
     <e lm="appendix"><i>appendi</i><par n="appendi/x__n"/></e>
@@ -5171,6 +5308,7 @@
     <e lm="conception"><i>conception</i><par n="house__n"/></e>
     <e lm="concern"><i>concern</i><par n="house__n"/></e>
     <e lm="concert"><i>concert</i><par n="house__n"/></e>
+    <e lm="concert ticket"><i>concert<b/>ticket</i><par n="house__n"/></e>
     <e lm="concerto"><i>concert</i><par n="librett/o__n"/></e>
     <e lm="concession"><i>concession</i><par n="house__n"/></e>
     <e lm="conciliation"><i>conciliation</i><par n="house__n"/></e>
@@ -5306,6 +5444,7 @@
     <e lm="continuation"><i>continuation</i><par n="house__n"/></e>
     <e lm="continued story"><i>continued<b/>stor</i><par n="bab/y__n"/></e>
     <e lm="continuity"><i>continuit</i><par n="bab/y__n"/></e>
+    <e lm="continuous form"><i>continuous<b/>form</i><par n="house__n"/></e>
     <e lm="contortionist"><i>contortionist</i><par n="house__n"/></e>
     <e lm="contour"><i>contour</i><par n="house__n"/></e>
     <e lm="contrabass"><i>contrabass</i><par n="access__n"/></e>
@@ -5742,7 +5881,6 @@
     <e lm="deerskin"><i>deerskin</i><par n="house__n"/></e>
     <e lm="defalcation"><i>defalcati</i><par n="criteri/on__n"/></e>
     <e lm="defamation"><i>defamation</i><par n="house__n"/></e>
-    <e lm="defamation"><i>defamati</i><par n="criteri/on__n"/></e>
     <e lm="default"><i>default</i><par n="house__n"/></e>
     <e lm="defaulter"><i>defaulter</i><par n="house__n"/></e>
     <e lm="defeat"><i>defeat</i><par n="house__n"/></e>
@@ -6149,7 +6287,6 @@
     <e lm="domestication"><i>domestication</i><par n="house__n"/></e>
     <e lm="domicile"><i>domicile</i><par n="house__n"/></e>
     <e lm="domiciliation"><i>domiciliation</i><par n="house__n"/></e>
-    <e lm="dominance"><i>dominance</i><par n="house__n"/></e>
     <e lm="dominance"><i>dominance</i><par n="house__n"/></e>
     <e lm="dominion"><i>dominion</i><par n="house__n"/></e>
     <e lm="donkey"><i>donke</i><par n="bab/y__n"/></e>
@@ -7332,7 +7469,6 @@
     <e lm="game"><i>game</i><par n="house__n"/></e>
     <e lm="gammaglobulin"><i>gammaglobulin</i><par n="house__n"/></e>
     <e lm="gamut"><i>gamut</i><par n="house__n"/></e>
-    <e lm="gamut"><i>gamut</i><par n="house__n"/></e>
     <e lm="gang"><i>gang</i><par n="house__n"/></e>
     <e lm="ganglion"><i>ganglion</i><par n="house__n"/></e>
     <e lm="gangplank"><i>gangplank</i><par n="house__n"/></e>
@@ -7738,6 +7874,7 @@
     <e lm="handwriting"><i>handwriting</i><par n="house__n"/></e>
     <e lm="handyman"><i>handym</i><par n="m/an__n"/></e>
     <e lm="hanger"><i>hanger</i><par n="house__n"/></e>
+    <e lm="hanging"><i>hanging</i><par n="house__n"/></e>
     <e lm="hangman"><i>hangm</i><par n="m/an__n"/></e>
     <e lm="hangover"><i>hangover</i><par n="house__n"/></e>
     <e lm="hanky"><i>hank</i><par n="bab/y__n"/></e>
@@ -8032,6 +8169,7 @@
     <e lm="hot dog"><i>hot<b/>dog</i><par n="house__n"/></e>
     <e lm="hot-water bottle"><i>hot-water<b/>bottle</i><par n="house__n"/></e>
     <e lm="hotel"><i>hotel</i><par n="house__n"/></e>
+    <e lm="hotel bar"><i>hotel<b/>bar</i><par n="house__n"/></e>
     <e lm="hotel clerk"><i>hotel<b/>clerk</i><par n="house__n"/></e>
     <e lm="hotel hall"><i>hotel<b/>hall</i><par n="house__n"/></e>
     <e lm="hotel-keeper"><i>hotel-keeper</i><par n="house__n"/></e>
@@ -8322,7 +8460,6 @@
     <e lm="independence"><i>independence</i><par n="house__n"/></e>
     <e lm="independentism"><i>independentism</i><par n="house__n"/></e>
     <e lm="index"><i>ind</i><par n="ind/ex__n"/></e>
-    <e lm="indexation"><i>indexation</i><par n="east__n"/></e>
     <e lm="indexation"><i>indexation</i><par n="house__n"/></e>
     <e lm="Indian"><par n="Ii"/><i>ndian</i><par n="house__n"/></e>
     <e lm="indication"><i>indication</i><par n="house__n"/></e>
@@ -9214,6 +9351,7 @@
     <e lm="mammal"><i>mammal</i><par n="house__n"/></e>
     <e lm="man"><i>m</i><par n="m/an__n"/></e>
     <e lm="man studies"><i>man<b/>studies</i><par n="east__n"/></e>
+    <e lm="man's voice"><i>man's<b/>voice</i><par n="house__n"/></e>
     <e lm="management"><i>management</i><par n="house__n"/></e>
     <e lm="manager"><i>manager</i><par n="house__n"/></e>
     <e lm="manageress"><i>manageress</i><par n="access__n"/></e>
@@ -9754,12 +9892,12 @@
     <e lm="movie"><i>movie</i><par n="house__n"/></e>
     <e lm="mowing machine"><i>mowing<b/>machine</i><par n="house__n"/></e>
     <e lm="Mr"><i>Mr</i><par n="east__n"/></e>
-    <e lm="Mr." r="LR"><p><l>Mr.</l><r>Mr</r></p><par n="east__n"/></e>
+    <e lm="Mr."><i>Mr.</i><par n="east__n"/></e>
     <e lm="Mrs"><par n="Mm"/><i>rs</i><par n="east__n"/></e>
-    <e lm="Mrs." r="LR"><p><l>Mrs.</l><r>Mrs</r></p><par n="east__n"/></e>
+    <e lm="Mrs."><i>Mrs.</i><par n="east__n"/></e>
     <e lm="Mrs."><i>Mrs.</i><par n="east__n"/></e>
     <e lm="Ms"><i>Ms</i><par n="east__n"/></e>
-    <e lm="Ms." r="LR"><p><l>Ms.</l><r>Ms</r></p><par n="east__n"/></e>
+    <e lm="Ms."><i>Ms.</i><par n="east__n"/></e>
     <e lm="mucosa"><i>mucosa</i><par n="house__n"/></e>
     <e lm="mucus"><i>mucus</i><par n="access__n"/></e>
     <e lm="mud"><i>mud</i><par n="house__n"/></e>
@@ -11948,7 +12086,6 @@
     <e lm="rottenness"><i>rottenness</i><par n="access__n"/></e>
     <e lm="rouble"><i>rouble</i><par n="house__n"/></e>
     <e lm="roughage"><i>roughage</i><par n="house__n"/></e>
-    <e lm="roughness"><i>roughness</i><par n="east__n"/></e>
     <e lm="roughness"><i>roughness</i><par n="access__n"/></e>
     <e lm="roulette"><i>roulette</i><par n="house__n"/></e>
     <e lm="round"><i>round</i><par n="house__n"/></e>
@@ -12663,7 +12800,6 @@
     <e lm="slip"><i>slip</i><par n="house__n"/></e>
     <e lm="slippery ice"><i>slippery<b/>ice</i><par n="east__n"/></e>
     <e lm="slipstream"><i>slipstream</i><par n="house__n"/></e>
-    <e lm="slit"><i>slit</i><par n="house__n"/></e>
     <e lm="slit"><i>slit</i><par n="house__n"/></e>
     <e lm="sliver"><i>sliver</i><par n="house__n"/></e>
     <e lm="sloe"><i>sloe</i><par n="house__n"/></e>
@@ -13389,7 +13525,6 @@
     <e lm="swatch"><i>swatch</i><par n="house__n"/></e>
     <e lm="swath"><i>swath</i><par n="house__n"/></e>
     <e lm="swearing"><i>swearing</i><par n="house__n"/></e>
-    <e lm="sweat"><i>sweat</i><par n="east__n"/></e>
     <e lm="sweat"><i>sweat</i><par n="house__n"/></e>
     <e lm="sweater"><i>sweater</i><par n="house__n"/></e>
     <e lm="sweatshirt"><i>sweatshirt</i><par n="house__n"/></e>
@@ -13666,6 +13801,7 @@
     <e lm="thaw"><i>thaw</i><par n="house__n"/></e>
     <e lm="theater"><i>theater</i><par n="house__n"/></e>
     <e lm="theatre"><i>theatre</i><par n="house__n"/></e>
+    <e lm="theatre ticket"><i>theatre<b/>ticket</i><par n="house__n"/></e>
     <e lm="theft"><i>theft</i><par n="house__n"/></e>
     <e lm="theme"><i>theme</i><par n="house__n"/></e>
     <e lm="theologian"><i>theologian</i><par n="house__n"/></e>
@@ -13905,7 +14041,6 @@
     <e lm="transcendency"><i>transcendenc</i><par n="bab/y__n"/></e>
     <e lm="transcendentalism"><i>transcendentalism</i><par n="house__n"/></e>
     <e lm="transcriber"><i>transcriber</i><par n="house__n"/></e>
-    <e lm="transcript"><i>transcript</i><par n="house__n"/></e>
     <e lm="transcript"><i>transcript</i><par n="house__n"/></e>
     <e lm="transcription"><i>transcription</i><par n="house__n"/></e>
     <e lm="transducer"><i>transducer</i><par n="house__n"/></e>
@@ -18219,7 +18354,6 @@
     <e lm="global"><i>global</i><par n="expensive__adj"/></e>
     <e lm="gloomy"><i>gloom</i><par n="happ/y__adj"/></e>
     <e lm="glorious"><i>glorious</i><par n="expensive__adj"/></e>
-    <e lm="glossy"><i>glossy</i><par n="expensive__adj"/></e>
     <e lm="glossy"><i>gloss</i><par n="happ/y__adj"/></e>
     <e lm="glum"><i>glum</i><par n="dim/__adj"/></e>
     <e lm="godless"><i>godless</i><par n="expensive__adj"/></e>
@@ -22249,7 +22383,6 @@
     <e lm="Ltd."><i>Ltd.</i><par n="e.g.__abbr"/></e>
     <e lm="mill."><i>mill.</i><par n="e.g.__abbr"/></e>
     <e lm="more" r="RL"><i>more</i><par n="e.g.__abbr"/></e>
-    <e lm="Mr."><i>Mr.</i><par n="e.g.__abbr"/></e>
     <e lm="N.Y."><i>N.Y.</i><par n="e.g.__abbr"/></e>
     <e lm="NB."><i>NB.</i><par n="e.g.__abbr"/></e>
     <e lm="next" r="RL"><i>next</i><par n="e.g.__abbr"/></e>
@@ -27851,6 +27984,7 @@
     <e lm="Grove"><i>Grove</i><par n="Smith__np"/></e>
     <e lm="Grundy"><i>Grundy</i><par n="Smith__np"/></e>
     <e lm="Guevara"><i>Guevara</i><par n="Smith__np"/></e>
+    <e lm="Guinness"><i>Guinness</i><par n="Smith__np"/></e>
     <e lm="Gupta"><i>Gupta</i><par n="Smith__np"/></e>
     <e lm="Gutter"><i>Gutter</i><par n="Smith__np"/></e>
     <e lm="Gwynne"><i>Gwynne</i><par n="Smith__np"/></e>
