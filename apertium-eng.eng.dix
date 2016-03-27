@@ -132,12 +132,20 @@
     </pardef>
 
     <pardef n="numeros">
-      <e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
-      <e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
-      <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
-      <e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
+      <e>      <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>      <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>      <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
+      <e>      <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
       <e>      <re>[0-9]+([.,][0-9]+)?</re>      <p>        <l><b/>o'clock</l>        <r><b/>o'clock<s n="num"/></r></p></e>
       <e>      <re>[0-9]+([.,][0-9]+)?[:.][0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+    </pardef>
+
+    <pardef n="ordinals">
+	  <e>      <re>([0-9]*[02-9]1|1)</re>     <p>    <l>st</l>    <r><s n="num"/><s n="ord"/></r></p></e>
+      <e>      <re>([0-9]*[02-9]2|2)</re>     <p>    <l>nd</l>    <r><s n="num"/><s n="ord"/></r></p></e>
+      <e>      <re>([0-9]*[02-9]3|3)</re>     <p>    <l>rd</l>    <r><s n="num"/><s n="ord"/></r></p></e>
+      <e>      <re>1[0-9]</re>                <p>    <l>th</l>    <r><s n="num"/><s n="ord"/></r></p></e>
+      <e>      <re>[0-9]*([4-90]|1[0-9])</re> <p>    <l>th</l>    <r><s n="num"/><s n="ord"/></r></p></e>
     </pardef>
 
     <pardef n="separa">
@@ -345,31 +353,31 @@
       <e r="RL" alt="en_US">                   <p><l>e</l>  <r>oe</r></p></e>
     </pardef>
 
-	
-<pardef n="/I__prn">
-  <e>       <p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="/you__prn">
-  <e>       <p><l>you</l>       <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="/he__prn">
-  <e>       <p><l>he</l>        <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="/she__prn">
-  <e>       <p><l>she</l>       <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="/it__prn">
-  <e>       <p><l>it</l>        <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
-</pardef>
-<pardef n="/we__prn">
-  <e>       <p><l>we</l>        <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
-<pardef n="/you__prn_pl">
-  <e>       <p><l>you</l>       <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
-<pardef n="/they__prn">
-  <e>       <p><l>they</l>      <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
+
+    <pardef n="/I__prn">
+      <e>       <p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="/you__prn">
+      <e>       <p><l>you</l>      <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="/he__prn">
+      <e>       <p><l>he</l>       <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="/she__prn">
+      <e>       <p><l>she</l>      <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="/it__prn">
+      <e>       <p><l>it</l>       <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="/we__prn">
+      <e>       <p><l>we</l>       <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/you__prn_pl">
+      <e>       <p><l>you</l>      <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="/they__prn">
+      <e>       <p><l>they</l>     <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
 
     <pardef n="e.g.__abbr">
@@ -29384,6 +29392,7 @@
   <section id="final" type="inconditional">
     <e><par n="separa"/></e>
     <e><par n="numeros"/></e>
+    <e><par n="ordinals"/></e>
     <e><par n="coma"/></e>
     <e><par n="cometa"/></e>
     <e><par n="paresq"/></e>
