@@ -101,11 +101,11 @@
 
     <pardef n="aposchar">
       <e>        <i>'</i>    </e>
-      <e r="LR"><p>        <l>’</l>        <r>'</r></p></e>
+      <e r="LR"><p>        <l>’</l>       <r>'</r></p></e>
     </pardef>
 
     <pardef n="cometa">
-      <e>        <par n="aposchar"/>       <p>        <l></l>        <r><s n="apos"/></r></p></e>
+      <e>        <par n="aposchar"/> <p> <l></l> <r><s n="apos"/></r></p></e>
     </pardef>
 
     <pardef n="months">
@@ -178,127 +178,158 @@
 
     <pardef n="Aa">
       <e r="LR"><i>A</i></e>
+      <e r="LR"><p><l>a</l><r>A</r></p></e>
       <e r="RL"><p><l>A</l><r>a</r></p></e>
     </pardef>
 
     <pardef n="Bb">
       <e r="LR"><i>B</i></e>
+      <e r="LR"><p><l>b</l><r>B</r></p></e>
       <e r="RL"><p><l>B</l><r>b</r></p></e>
     </pardef>
 
     <pardef n="Cc">
       <e r="LR"><i>C</i></e>
+      <e r="LR"><p><l>c</l><r>C</r></p></e>
       <e r="RL"><p><l>C</l><r>c</r></p></e>
     </pardef>
 
     <pardef n="Dd">
       <e r="LR"><i>D</i></e>
+	  <e r="LR"><p><l>d</l><r>D</r></p></e>
       <e r="RL"><p><l>D</l><r>d</r></p></e>
     </pardef>
 
     <pardef n="Ee">
       <e r="LR"><i>E</i></e>
+	  <e r="LR"><p><l>e</l><r>E</r></p></e>
       <e r="RL"><p><l>E</l><r>e</r></p></e>
     </pardef>
 
     <pardef n="Ff">
       <e r="LR"><i>F</i></e>
+	  <e r="LR"><p><l>f</l><r>F</r></p></e>
       <e r="RL"><p><l>F</l><r>f</r></p></e>
     </pardef>
 
     <pardef n="Gg">
       <e r="LR"><i>G</i></e>
+	  <e r="LR"><p><l>g</l><r>G</r></p></e>
       <e r="RL"><p><l>G</l><r>g</r></p></e>
     </pardef>
 
     <pardef n="Hh">
       <e r="LR"><i>H</i></e>
+	  <e r="LR"><p><l>h</l><r>H</r></p></e>
       <e r="RL"><p><l>H</l><r>h</r></p></e>
     </pardef>
 
     <pardef n="Ii">
       <e r="LR"><i>I</i></e>
+	  <e r="LR"><p><l>i</l><r>I</r></p></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
     </pardef>
 
     <pardef n="Jj">
       <e r="LR"><i>J</i></e>
+	  <e r="LR"><p><l>j</l><r>J</r></p></e>
       <e r="RL"><p><l>J</l><r>j</r></p></e>
     </pardef>
 
     <pardef n="Kk">
       <e r="LR"><i>K</i></e>
+	  <e r="LR"><p><l>k</l><r>K</r></p></e>
       <e r="RL"><p><l>K</l><r>k</r></p></e>
     </pardef>
 
     <pardef n="Ll">
       <e r="LR"><i>L</i></e>
+	  <e r="LR"><p><l>l</l><r>L</r></p></e>
       <e r="RL"><p><l>L</l><r>l</r></p></e>
     </pardef>
 
     <pardef n="Mm">
       <e r="LR"><i>M</i></e>
+	  <e r="LR"><p><l>m</l><r>M</r></p></e>
       <e r="RL"><p><l>M</l><r>m</r></p></e>
     </pardef>
 
     <pardef n="Nn">
       <e r="LR"><i>N</i></e>
+	  <e r="LR"><p><l>n</l><r>N</r></p></e>
       <e r="RL"><p><l>N</l><r>n</r></p></e>
     </pardef>
 
     <pardef n="Oo">
       <e r="LR"><i>O</i></e>
+	  <e r="LR"><p><l>o</l><r>O</r></p></e>
       <e r="RL"><p><l>O</l><r>o</r></p></e>
     </pardef>
 
     <pardef n="Pp">
       <e r="LR"><i>P</i></e>
+	  <e r="LR"><p><l>p</l><r>P</r></p></e>
       <e r="RL"><p><l>P</l><r>p</r></p></e>
     </pardef>
 
     <pardef n="Qq">
       <e r="LR"><i>Q</i></e>
+	  <e r="LR"><p><l>q</l><r>Q</r></p></e>
       <e r="RL"><p><l>Q</l><r>q</r></p></e>
     </pardef>
 
     <pardef n="Rr">
       <e r="LR"><i>R</i></e>
+	  <e r="LR"><p><l>r</l><r>R</r></p></e>
       <e r="RL"><p><l>R</l><r>r</r></p></e>
     </pardef>
 
     <pardef n="Ss">
       <e r="LR"><i>S</i></e>
+	  <e r="LR"><p><l>s</l><r>S</r></p></e>
       <e r="RL"><p><l>S</l><r>s</r></p></e>
     </pardef>
 
     <pardef n="Tt">
       <e r="LR"><i>T</i></e>
+	  <e r="LR"><p><l>t</l><r>T</r></p></e>
       <e r="RL"><p><l>T</l><r>t</r></p></e>
     </pardef>
 
     <pardef n="Uu">
       <e r="LR"><i>U</i></e>
+	  <e r="LR"><p><l>u</l><r>U</r></p></e>
       <e r="RL"><p><l>U</l><r>u</r></p></e>
     </pardef>
 
     <pardef n="Vv">
       <e r="LR"><i>V</i></e>
+	  <e r="LR"><p><l>v</l><r>V</r></p></e>
       <e r="RL"><p><l>V</l><r>v</r></p></e>
     </pardef>
 
     <pardef n="Ww">
       <e r="LR"><i>W</i></e>
+	  <e r="LR"><p><l>w</l><r>W</r></p></e>
       <e r="RL"><p><l>W</l><r>w</r></p></e>
     </pardef>
 
     <pardef n="Xx">
       <e r="LR"><i>X</i></e>
+	  <e r="LR"><p><l>x</l><r>X</r></p></e>
       <e r="RL"><p><l>X</l><r>x</r></p></e>
     </pardef>
 
     <pardef n="Yy">
       <e r="LR"><i>Y</i></e>
+      <e r="LR"><p><l>y</l><r>Y</r></p></e>
       <e r="RL"><p><l>Y</l><r>y</r></p></e>
+    </pardef>
+
+    <pardef n="Zz">
+      <e r="LR"><i>Z</i></e>
+	  <e r="LR"><p><l>z</l><r>Z</r></p></e>
+      <e r="RL"><p><l>Z</l><r>z</r></p></e>
     </pardef>
 
     <pardef n="'s__gen">
@@ -307,7 +338,7 @@
 
 
     <!-- dialects -->
-	
+
     <pardef n="ouml">
       <e>       <p><l>ö</l>        <r>ö</r></p></e>
       <e r="LR"><p><l>oe</l>       <r>ö</r></p></e>
@@ -337,7 +368,7 @@
       <e r="LR" c="en_US">                     <p><l>e</l>  <r>ae</r></p></e>
       <e r="RL" alt="en_GB">                   <p><l>ae</l> <r>ae</r></p></e>
       <e r="RL" alt="en_US">                   <p><l>e</l>  <r>ae</r></p></e>
-	</pardef>
+    </pardef>
 
     <pardef n="l_ll">
       <e r="LR" c="en_GB, en_ZA, en_IE, en_CA"><p><l>ll</l> <r>ll</r></p></e>
@@ -358,25 +389,25 @@
       <e>       <p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/you__prn">
-      <e>       <p><l>you</l>      <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>you</l>       <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/he__prn">
-      <e>       <p><l>he</l>       <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>he</l>        <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/she__prn">
-      <e>       <p><l>she</l>      <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>she</l>       <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/it__prn">
-      <e>       <p><l>it</l>       <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>       <p><l>it</l>        <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="/we__prn">
-      <e>       <p><l>we</l>       <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>we</l>        <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="/you__prn_pl">
-      <e>       <p><l>you</l>      <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>you</l>       <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="/they__prn">
-      <e>       <p><l>they</l>     <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>they</l>      <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
 
 
@@ -959,7 +990,6 @@
       <e>       <p><l></l>         <r><s n="n"/><s n="sg"/></r></p></e>
       <e>       <p><l>es</l>       <r><s n="n"/><s n="pl"/></r></p></e>
       <e>       <p><l>es'</l>      <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>       <p><l></l>         <r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="bus__n">
@@ -7260,6 +7290,7 @@
     <e lm="film director"><i>film<b/>director</i><par n="house__n"/></e>
     <e lm="film review"><i>film<b/>review</i><par n="house__n"/></e>
     <e lm="film star"><i>film<b/>star</i><par n="house__n"/></e>
+    <e lm="film studio"><i>film<b/>studio</i><par n="house__n"/></e>
     <e lm="filmography"><i>filmograph</i><par n="bab/y__n"/></e>
     <e lm="filter"><i>filter</i><par n="house__n"/></e>
     <e lm="filtration"><i>filtrati</i><par n="criteri/on__n"/></e>
@@ -7768,7 +7799,7 @@
     <e lm="geriatrist"><i>geriatrist</i><par n="house__n"/></e>
     <e lm="germ"><i>germ</i><par n="house__n"/></e>
     <e lm="German"><par n="Gg"/><i>erman</i><par n="house__n"/></e>
-    <e lm="German book"><i>German<b/>book</i><par n="house__n"/></e>
+    <e lm="German book"><par n="Gg"/><i>erman<b/>book</i><par n="house__n"/></e>
     <e lm="German speaker"><par n="Gg"/><i>erman<b/>speaker</i><par n="house__n"/></e>
     <e lm="German teacher"><par n="Gg"/><i>erman<b/>teacher</i><par n="house__n"/></e>
     <e lm="germination"><i>germination</i><par n="house__n"/></e>
@@ -10365,6 +10396,7 @@
     <e lm="New Year's"><par n="Nn"/><i>ew<b/>Year's</i><par n="east__n"/></e>
     <e lm="New Year's day"><par n="Nn"/><i>ew<b/>Year's<b/>day</i><par n="house__n"/></e>
     <e lm="New Year's eve"><par n="Nn"/><i>ew<b/>Year's<b/>eve</i><par n="house__n"/></e>
+    <e lm="New Yorker"><i>New<b/>Yorker</i><par n="Dutch__n"/></e>
     <e lm="newborn"><i>newborn</i><par n="house__n"/></e>
     <e lm="newcomer"><i>newcomer</i><par n="house__n"/></e>
     <e lm="newel"><i>newel</i><par n="house__n"/></e>
@@ -12679,6 +12711,7 @@
     <e lm="schoolchild"><i>schoolchild</i><par n="child__n"/></e>
     <e lm="schoolgirl"><i>schoolgirl</i><par n="house__n"/></e>
     <e lm="schoolhouse"><i>schoolhouse</i><par n="house__n"/></e>
+    <e lm="schoolmaster"><i>schoolmaster</i><par n="house__n"/></e>
     <e lm="schoolmate"><i>schoolmate</i><par n="house__n"/></e>
     <e lm="schoolteacher"><i>schoolteacher</i><par n="house__n"/></e>
     <e lm="schooner"><i>schooner</i><par n="house__n"/></e>
@@ -13251,7 +13284,6 @@
     <e lm="snot"><i>snot</i><par n="house__n"/></e>
     <e lm="snout"><i>snout</i><par n="house__n"/></e>
     <e lm="snow"><i>snow</i><par n="house__n"/></e>
-    <e lm="snow bunting"><i>snow<b/>bunting</i><par n="house__n"/></e>
     <e lm="snow-fall"><i>snow-fall</i><par n="house__n"/></e>
     <e lm="snow-storm"><i>snow-storm</i><par n="house__n"/></e>
     <e lm="snowball"><i>snowball</i><par n="house__n"/></e>
@@ -13592,6 +13624,7 @@
     <e lm="steel industry"><i>steel<b/>industr</i><par n="bab/y__n"/></e>
     <e lm="steel plate"><i>steel<b/>plate</i><par n="house__n"/></e>
     <e lm="steel wool"><i>steel<b/>wool</i><par n="house__n"/></e>
+    <e lm="steelman"><i>steelm</i><par n="m/an__n"/></e>
     <e lm="steepness"><i>steepness</i><par n="access__n"/></e>
     <e lm="steering wheel"><i>steering<b/>wheel</i><par n="house__n"/></e>
     <e lm="steering-wheel"><i>steering-wheel</i><par n="house__n"/></e>
@@ -14645,6 +14678,7 @@
     <e lm="turn signal"><i>turn<b/>signal</i><par n="house__n"/></e>
     <e lm="turnaround"><i>turnaround</i><par n="house__n"/></e>
     <e lm="turncoat"><i>turncoat</i><par n="house__n"/></e>
+    <e lm="turning"><i>turning</i><par n="house__n"/></e>
     <e lm="turning point"><i>turning<b/>point</i><par n="house__n"/></e>
     <e lm="turnover"><i>turnover</i><par n="house__n"/></e>
     <e lm="turnstile"><i>turnstile</i><par n="house__n"/></e>
@@ -15083,6 +15117,7 @@
     <e lm="walls"><i>walls</i><par n="politics__n"/></e>
     <e lm="walnut"><i>walnut</i><par n="house__n"/></e>
     <e lm="walrus"><i>walrus</i><par n="access__n"/></e>
+    <e lm="waltz"><i>waltz</i><par n="access__n"/></e>
     <e lm="wand"><i>wand</i><par n="house__n"/></e>
     <e lm="wanderlust"><i>wanderlust</i><par n="house__n"/></e>
     <e lm="wanker"><i>wanker</i><par n="house__n"/></e>
@@ -15295,6 +15330,7 @@
     <e lm="window"><i>window</i><par n="house__n"/></e>
     <e lm="window cleaner"><i>window<b/>cleaner</i><par n="house__n"/></e>
     <e lm="window pane"><i>window<b/>pane</i><par n="house__n"/></e>
+    <e lm="window seat"><i>window<b/>seat</i><par n="house__n"/></e>
     <e lm="window-shopping"><i>window-shopping</i><par n="house__n"/></e>
     <e lm="windowpane"><i>windowpane</i><par n="house__n"/></e>
     <e lm="windpipe"><i>windpipe</i><par n="house__n"/></e>
@@ -15768,7 +15804,7 @@
     <e lm="be missing"><i/><par n="/be__vblex"/><p><l><b/>missing</l><r><g><b/>missing</g></r></p></e>
     <e lm="be shocked"><i/><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
     <e lm="be stuck"><i/><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
-    <e lm="be worth"><i/><par n="/be__vblex"/><p><l><b/>worth</l><r><g><b/>worth</g></r></p></e>
+    <e lm="be worth"><i/><par n="/be__vbser"/><p><l><b/>worth</l><r><g><b/>worth</g></r></p></e>
     <e lm="bear"><i>b</i><par n="b/ear__vblex"/></e>
     <e lm="beat"><i>b</i><par n="b/eat__vblex"/></e>
     <e lm="become"><i>bec</i><par n="bec/ome__vblex"/></e>
@@ -16318,6 +16354,7 @@
     <e lm="feel like"><i>fe</i><par n="fe/el__vblex"/><p><l><b/>like</l><r><g><b/>like</g></r></p></e>
     <e lm="ferment"><i>ferment</i><par n="accept__vblex"/></e>
     <e lm="ferry"><i>ferr</i><par n="appl/y__vblex"/></e>
+    <e lm="fetch"><i>fetch</i><par n="approach__vblex"/></e>
     <e lm="fiddle"><i>fiddl</i><par n="liv/e__vblex"/></e>
     <e lm="fight"><i>f</i><par n="f/ight__vblex"/></e>
     <e lm="figure"><i>figur</i><par n="liv/e__vblex"/></e>
@@ -16457,6 +16494,7 @@
     <e lm="greet"><i>greet</i><par n="accept__vblex"/></e>
     <e lm="grieve"><i>griev</i><par n="liv/e__vblex"/></e>
     <e lm="grimace"><i>grimac</i><par n="liv/e__vblex"/></e>
+    <e lm="grip"><i>grip</i><par n="step__vblex"/></e>
     <e lm="grow"><i>gr</i><par n="bl/ow__vblex"/></e>
     <e lm="guarantee"><i>guarantee</i><par n="accept__vblex"/></e>
     <e lm="guard"><i>guard</i><par n="accept__vblex"/></e>
@@ -18366,6 +18404,7 @@
     <e lm="divine"><i>divine</i><par n="expensive__adj"/></e>
     <e lm="divisible"><i>divisible</i><par n="expensive__adj"/></e>
     <e lm="divisional"><i>divisional</i><par n="expensive__adj"/></e>
+    <e lm="dizzy"><i>dizzy</i><par n="expensive__adj"/></e>
     <e lm="docile"><i>docile</i><par n="expensive__adj"/></e>
     <e lm="doctrinaire"><i>doctrinaire</i><par n="expensive__adj"/></e>
     <e lm="documentary"><i>documentary</i><par n="expensive__adj"/></e>
@@ -18756,7 +18795,6 @@
     <e lm="geometrical"><i>geometrical</i><par n="expensive__adj"/></e>
     <e lm="geopolitical"><i>geopolitical</i><par n="expensive__adj"/></e>
     <e lm="geriatric"><i>geriatric</i><par n="expensive__adj"/></e>
-    <e lm="German"><i>German</i><par n="expensive__adj"/></e>
     <e lm="German"><par n="Gg"/><i>erman</i><par n="expensive__adj"/></e>
     <e lm="German-speaking"><par n="Gg"/><i>erman-speaking</i><par n="expensive__adj"/></e>
     <e lm="germane"><i>germane</i><par n="expensive__adj"/></e>
@@ -20479,7 +20517,6 @@
     <e lm="sportive"><i>sportive</i><par n="expensive__adj"/></e>
     <e lm="sporty"><i>sporty</i><par n="expensive__adj"/></e>
     <e lm="sprightly"><i>sprightly</i><par n="expensive__adj"/></e>
-    <e lm="spread"><i>spread</i><par n="expensive__adj"/></e>
     <e lm="square"><i>square</i><par n="expensive__adj"/></e>
     <e lm="squat"><i>squat</i><par n="expensive__adj"/></e>
     <e lm="squeaky"><i>squeaky</i><par n="expensive__adj"/></e>
@@ -21928,7 +21965,6 @@
     <e lm="wherever"><i>wherever</i><par n="maybe__adv"/></e>
     <e lm="whether"><i>whether</i><par n="maybe__adv"/></e>
     <e lm="which" r="RL"><i>which</i><par n="where__adv"/></e>
-    <e lm="who"><i>who</i><par n="where__adv"/></e>
     <e lm="wholesale"><i>wholesale</i><par n="maybe__adv"/></e>
     <e lm="wholly"><i>wholly</i><par n="maybe__adv"/></e>
     <e lm="why"><i>why</i><par n="where__adv"/></e>
@@ -22588,6 +22624,7 @@
     <!-- SECTION: Interjections -->
 
     <e lm="bow-wow"><i>bow-wow</i><par n="hello__ij"/></e>
+    <e lm="bravo"><i>bravo</i><par n="hello__ij"/></e>
     <e lm="bye"><i>bye</i><par n="hello__ij"/></e>
     <e lm="bye-bye"><i>bye-bye</i><par n="hello__ij"/></e>
     <e lm="cheerio"><i>cheerio</i><par n="hello__ij"/></e>
@@ -24607,10 +24644,10 @@
     <e lm="Martín"><i>Martín</i><par n="Mark__np"/></e>
     <e lm="Martiniano"><i>Martiniano</i><par n="Mark__np"/></e>
     <e lm="Martino"><i>Martino</i><par n="Mark__np"/></e>
-    <e lm="Masoud"><i>Masoud</i><par n="Mark__np"/></e>
     <e lm="Marvin"><i>Marvin</i><par n="Mark__np"/></e>
     <e lm="Marwan"><i>Marwan</i><par n="Mark__np"/></e>
     <e lm="Mason"><i>Mason</i><par n="Mark__np"/></e>
+    <e lm="Masoud"><i>Masoud</i><par n="Mark__np"/></e>
     <e lm="Matco"><i>Matco</i><par n="Mark__np"/></e>
     <e lm="Mateo"><i>Mateo</i><par n="Mark__np"/></e>
     <e lm="Mathew"><i>Mathew</i><par n="Mark__np"/></e>
