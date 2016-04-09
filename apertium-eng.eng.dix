@@ -3510,7 +3510,7 @@
     <e lm="affection"><i>affection</i><par n="house__n"/></e>
     <e lm="affectivity"><i>affectivit</i><par n="bab/y__n"/></e>
     <e lm="affidavit"><i>affidavit</i><par n="house__n"/></e>
-    <e lm="affiliates"><i>affiliates</i><par n="personnel__n"/></e>
+    <e lm="affiliate"><i>affiliate</i><par n="house__n"/></e>
     <e lm="affinity"><i>affinit</i><par n="bab/y__n"/></e>
     <e lm="affirmation"><i>affirmation</i><par n="house__n"/></e>
     <e lm="affluence"><i>affluence</i><par n="house__n"/></e>
@@ -3568,7 +3568,7 @@
     <e lm="airplane" r="LR"><p><l>airplane</l><r>aeroplane</r></p><par n="house__n"/></e>
     <e lm="airport"><i>airport</i><par n="house__n"/></e>
     <e lm="airstrike"><i>airstrike</i><par n="house__n"/></e>
-    <e lm="airways"><i>airways</i><par n="politics__n"/></e>
+    <e lm="airway"><i>airway</i><par n="house__n"/></e>
     <e lm="aisle"><i>aisle</i><par n="house__n"/></e>
     <e lm="Akan language"><par n="Aa"/><i>kan<b/>language</i><par n="house__n"/></e>
     <e lm="alarm"><i>alarm</i><par n="house__n"/></e>
@@ -3615,7 +3615,6 @@
     <e lm="alteration"><i>alteration</i><par n="house__n"/></e>
     <e lm="altercation"><i>altercation</i><par n="house__n"/></e>
     <e lm="alternative"><i>alternative</i><par n="house__n"/></e>
-    <e lm="althing"><i>althing</i><par n="house__n"/></e>
     <e lm="altitude"><i>altitude</i><par n="house__n"/></e>
     <e lm="altruist"><i>altruist</i><par n="house__n"/></e>
     <e lm="aluminium"><i>aluminium</i><par n="house__n"/></e>
@@ -3685,7 +3684,6 @@
     <e lm="animal shed"><i>animal<b/>shed</i><par n="house__n"/></e>
     <e lm="animal trainer"><i>animal<b/>trainer</i><par n="house__n"/></e>
     <e lm="animalism"><i>animalism</i><par n="house__n"/></e>
-    <e lm="animals"><i>animals</i><par n="politics__n"/></e>
     <e lm="animation"><i>animation</i><par n="house__n"/></e>
     <e lm="animosity"><i>animosit</i><par n="bab/y__n"/></e>
     <e lm="ankle"><i>ankle</i><par n="house__n"/></e>
@@ -3716,6 +3714,7 @@
     <e lm="anthropologist"><i>anthropologist</i><par n="house__n"/></e>
     <e lm="anthropology"><i>anthropology</i><par n="east__n"/></e>
     <e lm="anti-aircraft system"><i>anti-aircraft<b/>system</i><par n="house__n"/></e>
+    <e lm="anti-racialism"><i>anti-racialism</i><par n="house__n"/></e>
     <e lm="antibiotic"><i>antibiotic</i><par n="house__n"/></e>
     <e lm="antibody"><i>antibod</i><par n="bab/y__n"/></e>
     <e lm="antichrist"><i>antichrist</i><par n="house__n"/></e>
@@ -3727,7 +3726,6 @@
     <e lm="antipathy"><i>antipath</i><par n="bab/y__n"/></e>
     <e lm="antiperspirant"><i>antiperspirant</i><par n="house__n"/></e>
     <e lm="antiquity"><i>antiquit</i><par n="bab/y__n"/></e>
-    <e lm="antiracialism"><i>antiracialism</i><par n="house__n"/></e>
     <e lm="antisemitism"><i>antisemitism</i><par n="house__n"/></e>
     <e lm="antitheft device"><i>antitheft<b/>device</i><par n="house__n"/></e>
     <e lm="antithesis"><i>antithes</i><par n="analys/is__n"/></e>
@@ -4010,7 +4008,6 @@
     <e lm="aviation"><i>aviation</i><par n="house__n"/></e>
     <e lm="avocado"><i>avocado</i><par n="archipelago__n"/></e>
     <e lm="award"><i>award</i><par n="house__n"/></e>
-    <e lm="awards"><i>awards</i><par n="politics__n"/></e>
     <e lm="awareness"><i>awareness</i><par n="access__n"/></e>
     <e lm="awfulness"><i>awfulness</i><par n="access__n"/></e>
     <e lm="awl"><i>awl</i><par n="house__n"/></e>
@@ -4056,8 +4053,7 @@
     <e lm="badminton"><i>badminton</i><par n="east__n"/></e>
     <e lm="bag"><i>bag</i><par n="house__n"/></e>
     <e lm="baggage"><i>baggage</i><par n="house__n"/></e>
-    <e lm="bagpipes"><i>bagpipes</i><par n="personnel__n"/></e>
-    <e lm="bags"><i>bags</i><par n="politics__n"/></e>
+    <e lm="bagpipe"><i>bagpipe</i><par n="house__n"/></e>
     <e lm="bait"><i>bait</i><par n="house__n"/></e>
     <e lm="baker"><i>baker</i><par n="house__n"/></e>
     <e lm="bakery"><i>baker</i><par n="bab/y__n"/></e>
@@ -4156,7 +4152,6 @@
     <e lm="bassin"><i>bassin</i><par n="house__n"/></e>
     <e lm="bassoon"><i>bassoon</i><par n="house__n"/></e>
     <e lm="bat"><i>bat</i><par n="house__n"/></e>
-    <e lm="batallion"><i>batallion</i><par n="house__n"/></e>
     <e lm="batch"><i>batch</i><par n="access__n"/></e>
     <e lm="bath"><i>bath</i><par n="house__n"/></e>
     <e lm="bath oil"><i>bath<b/>oil</i><par n="house__n"/></e>
@@ -5391,7 +5386,7 @@
     <e lm="comb"><i>comb</i><par n="house__n"/></e>
     <e lm="combatant"><i>combatant</i><par n="house__n"/></e>
     <e lm="combination"><i>combination</i><par n="house__n"/></e>
-    <e lm="combustibles"><i>combustibles</i><par n="politics__n"/></e>
+    <e lm="combustible"><i>combustible</i><par n="house__n"/></e>
     <e lm="combustion"><i>combustion</i><par n="house__n"/></e>
     <e lm="comeback"><i>comeback</i><par n="house__n"/></e>
     <e lm="comedian"><i>comedian</i><par n="house__n"/></e>
@@ -6009,7 +6004,7 @@
     <e lm="dashboard"><i>dashboard</i><par n="house__n"/></e>
     <e lm="data"><i>data</i><par n="politics__n"/></e>
     <e lm="data transmission"><i>data<b/>transmission</i><par n="house__n"/></e>
-    <e lm="database studies"><i>database<b/>studies</i><par n="east__n"/></e>
+    <e lm="database study"><i>database<b/>stud</i><par n="bab/y__n"/></e>
     <e lm="date"><i>date</i><par n="house__n"/></e>
     <e lm="date of birth"><i>date</i><par n="house__n"/><p><l><b/>of<b/>birth</l><r><g><b/>of<b/>birth</g></r></p></e>
     <e lm="dating"><i>dating</i><par n="house__n"/></e>
@@ -6205,7 +6200,6 @@
     <e lm="deserter"><i>deserter</i><par n="house__n"/></e>
     <e lm="desertification"><i>desertification</i><par n="house__n"/></e>
     <e lm="desertion"><i>desertion</i><par n="house__n"/></e>
-    <e lm="desertisation"><i>desertisation</i><par n="house__n"/></e>
     <e lm="desexualisation"><i>desexualisation</i><par n="house__n"/></e>
     <e lm="deshumanisation"><i>deshumanisation</i><par n="house__n"/></e>
     <e lm="design"><i>design</i><par n="house__n"/></e>
@@ -6412,7 +6406,6 @@
     <e lm="dismissal"><i>dismissal</i><par n="house__n"/></e>
     <e lm="disobedience"><i>disobedience</i><par n="house__n"/></e>
     <e lm="disorder"><i>disorder</i><par n="house__n"/></e>
-    <e lm="disorders"><i>disorders</i><par n="politics__n"/></e>
     <e lm="disparity"><i>disparit</i><par n="bab/y__n"/></e>
     <e lm="dispatch"><i>dispatch</i><par n="access__n"/></e>
     <e lm="dispensary"><i>dispensar</i><par n="bab/y__n"/></e>
@@ -6496,7 +6489,7 @@
     <e lm="doggy"><i>dogg</i><par n="bab/y__n"/></e>
     <e lm="dogma"><i>dogma</i><par n="house__n"/></e>
     <e lm="dogmatism"><i>dogmatism</i><par n="house__n"/></e>
-    <e lm="doles"><i>doles</i><par n="politics__n"/></e>
+    <e lm="dole"><i>dole</i><par n="house__n"/></e>
     <e lm="doll"><i>doll</i><par n="house__n"/></e>
     <e lm="doll house"><i>doll<b/>house</i><par n="house__n"/></e>
     <e lm="doll's house"><i>doll's<b/>house</i><par n="house__n"/></e>
@@ -7394,7 +7387,6 @@
     <e lm="flexibility"><i>flexibilit</i><par n="bab/y__n"/></e>
     <e lm="flexion"><i>flexi</i><par n="criteri/on__n"/></e>
     <e lm="flight"><i>flight</i><par n="house__n"/></e>
-    <e lm="flights"><i>flights</i><par n="politics__n"/></e>
     <e lm="flimsiness"><i>flimsiness</i><par n="access__n"/></e>
     <e lm="flint"><i>flint</i><par n="house__n"/></e>
     <e lm="flipper"><i>flipper</i><par n="house__n"/></e>
@@ -8343,7 +8335,7 @@
     <e lm="holocaust"><i>holocaust</i><par n="house__n"/></e>
     <e lm="holster"><i>holster</i><par n="house__n"/></e>
     <e lm="holy"><i>holy</i><par n="house__n"/></e>
-    <e lm="Holy Week"><par n="Hh"/><i>oly<b/>Week</i><par n="east__n"/></e>
+    <e lm="Holy Week"><i>Holy<b/>Week</i><par n="east__n"/></e>
     <e lm="homage"><i>homage</i><par n="house__n"/></e>
     <e lm="home"><i>home</i><par n="house__n"/></e>
     <e lm="home assignment"><i>home<b/>assignment</i><par n="house__n"/></e>
@@ -9936,7 +9928,7 @@
     <e lm="milking machine"><i>milking<b/>machine</i><par n="house__n"/></e>
     <e lm="milkmaid"><i>milkmaid</i><par n="house__n"/></e>
     <e lm="milkman"><i>milkm</i><par n="m/an__n"/></e>
-    <e lm="Milky Way"><par n="Mm"/><i>ilky<b/>Way</i><par n="east__n"/></e>
+    <e lm="Milky Way"><i>Milky<b/>Way</i><par n="east__n"/></e>
     <e lm="mill"><i>mill</i><par n="house__n"/></e>
     <e lm="millennium"><i>millennium</i><par n="house__n"/></e>
     <e lm="miller"><i>miller</i><par n="house__n"/></e>
@@ -10394,8 +10386,8 @@
     <e lm="neutrality"><i>neutralit</i><par n="bab/y__n"/></e>
     <e lm="neutron"><i>neutron</i><par n="house__n"/></e>
     <e lm="New Year's"><par n="Nn"/><i>ew<b/>Year's</i><par n="east__n"/></e>
-    <e lm="New Year's day"><par n="Nn"/><i>ew<b/>Year's<b/>day</i><par n="house__n"/></e>
-    <e lm="New Year's eve"><par n="Nn"/><i>ew<b/>Year's<b/>eve</i><par n="house__n"/></e>
+    <e lm="New Year's day"><i>New<b/>Year's<b/>day</i><par n="house__n"/></e>
+    <e lm="New Year's eve"><i>New<b/>Year's<b/>eve</i><par n="house__n"/></e>
     <e lm="New Yorker"><i>New<b/>Yorker</i><par n="Dutch__n"/></e>
     <e lm="newborn"><i>newborn</i><par n="house__n"/></e>
     <e lm="newcomer"><i>newcomer</i><par n="house__n"/></e>
@@ -10450,7 +10442,6 @@
     <e lm="nobleman"><i>noblem</i><par n="m/an__n"/></e>
     <e lm="node"><i>node</i><par n="house__n"/></e>
     <e lm="noise"><i>noise</i><par n="house__n"/></e>
-    <e lm="noisy man"><i>noisy<b/>m</i><par n="m/an__n"/></e>
     <e lm="nomad"><i>nomad</i><par n="house__n"/></e>
     <e lm="nomenclature"><i>nomenclature</i><par n="house__n"/></e>
     <e lm="nominal"><i>nominal</i><par n="house__n"/></e>
@@ -12102,7 +12093,6 @@
     <e lm="red light"><i>red<b/>light</i><par n="house__n"/></e>
     <e lm="red tape"><i>red<b/>tape</i><par n="house__n"/></e>
     <e lm="red wine"><i>red<b/>wine</i><par n="house__n"/></e>
-    <e lm="red-throated diver"><i>red-throated<b/>diver</i><par n="house__n"/></e>
     <e lm="redcurrant"><i>redcurrant</i><par n="house__n"/></e>
     <e lm="redemption"><i>redemption</i><par n="house__n"/></e>
     <e lm="redevelopment"><i>redevelopment</i><par n="house__n"/></e>
@@ -12249,7 +12239,7 @@
     <e lm="reptile"><i>reptile</i><par n="house__n"/></e>
     <e lm="republic"><i>republic</i><par n="house__n"/></e>
     <e lm="republican"><i>republican</i><par n="house__n"/></e>
-    <e lm="republising"><i>republising</i><par n="house__n"/></e>
+    <e lm="republishing"><i>republishing</i><par n="house__n"/></e>
     <e lm="repulsiveness"><i>repulsiveness</i><par n="access__n"/></e>
     <e lm="repurchase"><i>repurchase</i><par n="house__n"/></e>
     <e lm="reputation"><i>reputation</i><par n="house__n"/></e>
@@ -13208,7 +13198,7 @@
     <e lm="slimness"><i>slimness</i><par n="access__n"/></e>
     <e lm="slingshot"><i>slingshot</i><par n="house__n"/></e>
     <e lm="slip"><i>slip</i><par n="house__n"/></e>
-    <e lm="slippers"><i>slippers</i><par n="alms__n"/></e>
+    <e lm="slipper"><i>slipper</i><par n="house__n"/></e>
     <e lm="slippery ice"><i>slippery<b/>ice</i><par n="east__n"/></e>
     <e lm="slipstream"><i>slipstream</i><par n="house__n"/></e>
     <e lm="slit"><i>slit</i><par n="house__n"/></e>
@@ -13811,7 +13801,6 @@
     <e lm="subscription"><i>subscription</i><par n="house__n"/></e>
     <e lm="subsection"><i>subsecti</i><par n="criteri/on__n"/></e>
     <e lm="subsidence"><i>subsidence</i><par n="house__n"/></e>
-    <e lm="subsidiariness"><i>subsidiariness</i><par n="access__n"/></e>
     <e lm="subsidiary"><i>subsidiar</i><par n="bab/y__n"/></e>
     <e lm="subsidy"><i>subsid</i><par n="bab/y__n"/></e>
     <e lm="subsistence"><i>subsistence</i><par n="house__n"/></e>
@@ -14848,7 +14837,7 @@
     <e lm="urn"><i>urn</i><par n="house__n"/></e>
     <e lm="urologist"><i>urologist</i><par n="house__n"/></e>
     <e lm="Uruguayan"><i>Uruguayan</i><par n="house__n"/></e>
-    <e lm="US dollar"><par n="Uu"/><i>S<b/>dollar</i><par n="house__n"/></e>
+    <e lm="US dollar"><i>US<b/>dollar</i><par n="house__n"/></e>
     <e lm="usage"><i>usage</i><par n="house__n"/></e>
     <e lm="use"><i>use</i><par n="house__n"/></e>
     <e lm="usefulness"><i>usefulness</i><par n="access__n"/></e>
@@ -15512,7 +15501,6 @@
     <e lm="zoo"><i>zoo</i><par n="house__n"/></e>
     <e lm="zoo-keeper"><i>zoo-keeper</i><par n="house__n"/></e>
     <e lm="zoology"><i>zoology</i><par n="east__n"/></e>
-    <e lm="zoomusicology"><i>zoomusicology</i><par n="east__n"/></e>
     <e lm="zoophyte"><i>zoophyte</i><par n="house__n"/></e>
 
 
@@ -17832,7 +17820,7 @@
     <e lm="artificial"><i>artificial</i><par n="expensive__adj"/></e>
     <e lm="artistic"><i>artistic</i><par n="expensive__adj"/></e>
     <e lm="ashen-faced"><i>ashen-faced</i><par n="expensive__adj"/></e>
-    <e lm="ashy"><i>ashy</i><par n="expensive__adj"/></e>
+    <e lm="ashy"><i>ash</i><par n="happ/y__adj"/></e>
     <e lm="Asian"><par n="Aa"/><i>sian</i><par n="expensive__adj"/></e>
     <e lm="askew"><i>askew</i><par n="expensive__adj"/></e>
     <e lm="asleep"><i>asleep</i><par n="expensive__adj"/></e>
@@ -17895,7 +17883,7 @@
     <e lm="baneful"><i>baneful</i><par n="expensive__adj"/></e>
     <e lm="bare"><i>bare</i><par n="expensive__adj"/></e>
     <e lm="barefoot"><i>barefoot</i><par n="expensive__adj"/></e>
-    <e lm="barmy"><i>barmy</i><par n="expensive__adj"/></e>
+    <e lm="barmy"><i>barm</i><par n="happ/y__adj"/></e>
     <e lm="barren"><i>barren</i><par n="long/__adj"/></e>
     <e lm="baseless"><i>baseless</i><par n="expensive__adj"/></e>
     <e lm="basic"><i>basic</i><par n="expensive__adj"/></e>
@@ -17903,7 +17891,7 @@
     <e lm="bearable"><i>bearable</i><par n="expensive__adj"/></e>
     <e lm="beautiful"><i>beautiful</i><par n="expensive__adj"/></e>
     <e lm="bedridden"><i>bedridden</i><par n="expensive__adj"/></e>
-    <e lm="beefy"><i>beefy</i><par n="expensive__adj"/></e>
+    <e lm="beefy"><i>beef</i><par n="happ/y__adj"/></e>
     <e lm="beige"><i>beige</i><par n="nice/__adj"/></e>
     <e lm="Belgian"><par n="Bb"/><i>elgian</i><par n="expensive__adj"/></e>
     <e lm="believable"><i>believable</i><par n="expensive__adj"/></e>
@@ -17935,20 +17923,20 @@
     <e lm="blond"><i>blond</i><par n="long/__adj"/></e>
     <e lm="blonde"><i>blonde</i><par n="expensive__adj"/></e>
     <e lm="blooming"><i>blooming</i><par n="expensive__adj"/></e>
-    <e lm="blotchy"><i>blotchy</i><par n="expensive__adj"/></e>
+    <e lm="blotchy"><i>blotch</i><par n="happ/y__adj"/></e>
     <e lm="blue"><i>blue</i><par n="nice/__adj"/></e>
     <e lm="blunt"><i>blunt</i><par n="expensive__adj"/></e>
-    <e lm="blurry"><i>blurry</i><par n="expensive__adj"/></e>
+    <e lm="blurry"><i>blurr</i><par n="happ/y__adj"/></e>
     <e lm="blusterous"><i>blusterous</i><par n="expensive__adj"/></e>
     <e lm="boastful"><i>boastful</i><par n="expensive__adj"/></e>
     <e lm="bodiless"><i>bodiless</i><par n="expensive__adj"/></e>
     <e lm="bohemian"><i>bohemian</i><par n="expensive__adj"/></e>
     <e lm="boisterous"><i>boisterous</i><par n="expensive__adj"/></e>
     <e lm="bomber"><i>bomber</i><par n="expensive__adj"/></e>
-    <e lm="bonny"><i>bonny</i><par n="expensive__adj"/></e>
+    <e lm="bonny"><i>bonn</i><par n="happ/y__adj"/></e>
     <e lm="bookish"><i>bookish</i><par n="expensive__adj"/></e>
     <e lm="boorish"><i>boorish</i><par n="expensive__adj"/></e>
-    <e lm="boozy"><i>boozy</i><par n="expensive__adj"/></e>
+    <e lm="boozy"><i>booz</i><par n="happ/y__adj"/></e>
     <e lm="boring"><i>boring</i><par n="expensive__adj"/></e>
     <e lm="born"><i>born</i><par n="expensive__adj"/></e>
     <e lm="botanic"><i>botanic</i><par n="expensive__adj"/></e>
@@ -17959,10 +17947,10 @@
     <e lm="bounteous"><i>bounteous</i><par n="expensive__adj"/></e>
     <e lm="bourgeois"><i>bourgeois</i><par n="expensive__adj"/></e>
     <e lm="boyish"><i>boyish</i><par n="expensive__adj"/></e>
-    <e lm="brainy"><i>brainy</i><par n="expensive__adj"/></e>
-    <e lm="brassy"><i>brassy</i><par n="expensive__adj"/></e>
+    <e lm="brainy"><i>brain</i><par n="happ/y__adj"/></e>
+    <e lm="brassy"><i>brass</i><par n="happ/y__adj"/></e>
     <e lm="brave"><i>brave</i><par n="nice/__adj"/></e>
-    <e lm="brawny"><i>brawny</i><par n="expensive__adj"/></e>
+    <e lm="brawny"><i>brawn</i><par n="happ/y__adj"/></e>
     <e lm="brazen"><i>brazen</i><par n="expensive__adj"/></e>
     <e lm="Brazilian"><par n="Bb"/><i>razilian</i><par n="expensive__adj"/></e>
     <e lm="breakneck"><i>breakneck</i><par n="expensive__adj"/></e>
@@ -17972,7 +17960,7 @@
     <e lm="bright red"><i>bright<b/>red</i><par n="expensive__adj"/></e>
     <e lm="brilliant"><i>brilliant</i><par n="expensive__adj"/></e>
     <e lm="brimful"><i>brimful</i><par n="expensive__adj"/></e>
-    <e lm="briny"><i>briny</i><par n="expensive__adj"/></e>
+    <e lm="briny"><i>brin</i><par n="happ/y__adj"/></e>
     <e lm="brisk"><i>brisk</i><par n="expensive__adj"/></e>
     <e lm="bristly"><i>bristl</i><par n="happ/y__adj"/></e>
     <e lm="British"><par n="Bb"/><i>ritish</i><par n="expensive__adj"/></e>
@@ -17988,7 +17976,7 @@
     <e lm="bucolic"><i>bucolic</i><par n="expensive__adj"/></e>
     <e lm="Buddhist"><par n="Bb"/><i>uddhist</i><par n="expensive__adj"/></e>
     <e lm="budgetary"><i>budgetary</i><par n="expensive__adj"/></e>
-    <e lm="buggy"><i>buggy</i><par n="expensive__adj"/></e>
+    <e lm="buggy"><i>bugg</i><par n="happ/y__adj"/></e>
     <e lm="built"><i>built</i><par n="expensive__adj"/></e>
     <e lm="Bulgarian"><par n="Bb"/><i>ulgarian</i><par n="expensive__adj"/></e>
     <e lm="bulky"><i>bulk</i><par n="happ/y__adj"/></e>
@@ -17996,7 +17984,7 @@
     <e lm="bureaucratic"><i>bureaucratic</i><par n="expensive__adj"/></e>
     <e lm="buried"><i>buried</i><par n="expensive__adj"/></e>
     <e lm="Burmese"><par n="Bb"/><i>urmese</i><par n="expensive__adj"/></e>
-    <e lm="bushy"><i>bushy</i><par n="expensive__adj"/></e>
+    <e lm="bushy"><i>bush</i><par n="happ/y__adj"/></e>
     <e lm="business"><i>business</i><par n="expensive__adj"/></e>
     <e lm="busy"><i>bus</i><par n="happ/y__adj"/></e>
     <e lm="Byelorussian"><par n="Bb"/><i>yelorussian</i><par n="expensive__adj"/></e>
@@ -18047,7 +18035,7 @@
     <e lm="ceremonial"><i>ceremonial</i><par n="expensive__adj"/></e>
     <e lm="ceremonious"><i>ceremonious</i><par n="expensive__adj"/></e>
     <e lm="certain"><i>certain</i><par n="expensive__adj"/></e>
-    <e lm="chalky"><i>chalky</i><par n="expensive__adj"/></e>
+    <e lm="chalky"><i>chalk</i><par n="happ/y__adj"/></e>
     <e lm="chaotic"><i>chaotic</i><par n="expensive__adj"/></e>
     <e lm="characteristic"><i>characteristic</i><par n="expensive__adj"/></e>
     <e lm="chargeable"><i>chargeable</i><par n="expensive__adj"/></e>
@@ -18056,7 +18044,7 @@
     <e lm="charming"><i>charming</i><par n="expensive__adj"/></e>
     <e lm="chaste"><i>chaste</i><par n="expensive__adj"/></e>
     <e lm="cheap"><i>cheap</i><par n="long/__adj"/></e>
-    <e lm="cheeky"><i>cheeky</i><par n="expensive__adj"/></e>
+    <e lm="cheeky"><i>cheek</i><par n="happ/y__adj"/></e>
     <e lm="cheerful"><i>cheerful</i><par n="expensive__adj"/></e>
     <e lm="chemical"><i>chemical</i><par n="expensive__adj"/></e>
     <e lm="childish"><i>childish</i><par n="expensive__adj"/></e>
@@ -18065,16 +18053,16 @@
     <e lm="Chilean"><par n="Cc"/><i>hilean</i><par n="expensive__adj"/></e>
     <e lm="chilly"><i>chill</i><par n="happ/y__adj"/></e>
     <e lm="Chinese"><par n="Cc"/><i>hinese</i><par n="expensive__adj"/></e>
-    <e lm="chintzy"><i>chintzy</i><par n="expensive__adj"/></e>
-    <e lm="chirpy"><i>chirpy</i><par n="expensive__adj"/></e>
+    <e lm="chintzy"><i>chintz</i><par n="happ/y__adj"/></e>
+    <e lm="chirpy"><i>chirp</i><par n="happ/y__adj"/></e>
     <e lm="choosy"><i>choos</i><par n="happ/y__adj"/></e>
     <e lm="choral"><i>choral</i><par n="expensive__adj"/></e>
     <e lm="chosen"><i>chosen</i><par n="expensive__adj"/></e>
     <e lm="Christian"><par n="Cc"/><i>hristian</i><par n="expensive__adj"/></e>
     <e lm="chronic"><i>chronic</i><par n="expensive__adj"/></e>
     <e lm="chronological"><i>chronological</i><par n="expensive__adj"/></e>
-    <e lm="chubby"><i>chubby</i><par n="expensive__adj"/></e>
-    <e lm="chummy"><i>chummy</i><par n="expensive__adj"/></e>
+    <e lm="chubby"><i>chubb</i><par n="happ/y__adj"/></e>
+    <e lm="chummy"><i>chumm</i><par n="happ/y__adj"/></e>
     <e lm="cinematographic"><i>cinematographic</i><par n="expensive__adj"/></e>
     <e lm="circuitous"><i>circuitous</i><par n="expensive__adj"/></e>
     <e lm="circular"><i>circular</i><par n="expensive__adj"/></e>
@@ -18088,8 +18076,8 @@
     <e lm="clandestine"><i>clandestine</i><par n="expensive__adj"/></e>
     <e lm="classic"><i>classic</i><par n="expensive__adj"/></e>
     <e lm="classical"><i>classical</i><par n="expensive__adj"/></e>
-    <e lm="classy"><i>classy</i><par n="expensive__adj"/></e>
-    <e lm="clayey"><i>clayey</i><par n="expensive__adj"/></e>
+    <e lm="classy"><i>class</i><par n="happ/y__adj"/></e>
+    <e lm="clayey"><i>claye</i><par n="happ/y__adj"/></e>
     <e lm="clean"><i>clean</i><par n="long/__adj"/></e>
     <e lm="clear"><i>clear</i><par n="long/__adj"/></e>
     <e lm="clenched"><i>clenched</i><par n="expensive__adj"/></e>
@@ -18128,7 +18116,7 @@
     <e lm="comer"><i>comer</i><par n="expensive__adj"/></e>
     <e lm="comfortable"><i>comfortable</i><par n="expensive__adj"/></e>
     <e lm="comfortless"><i>comfortless</i><par n="expensive__adj"/></e>
-    <e lm="comfy"><i>comfy</i><par n="expensive__adj"/></e>
+    <e lm="comfy"><i>comf</i><par n="happ/y__adj"/></e>
     <e lm="comical"><i>comical</i><par n="expensive__adj"/></e>
     <e lm="commendable"><i>commendable</i><par n="expensive__adj"/></e>
     <e lm="commercial"><i>commercial</i><par n="expensive__adj"/></e>
@@ -18230,7 +18218,7 @@
     <e lm="countless"><i>countless</i><par n="expensive__adj"/></e>
     <e lm="covetous"><i>covetous</i><par n="expensive__adj"/></e>
     <e lm="cowardly"><i>cowardly</i><par n="expensive__adj"/></e>
-    <e lm="coy"><i>coy</i><par n="expensive__adj"/></e>
+    <e lm="coy"><i>coy</i><par n="sly/__adj"/></e>
     <e lm="cranial"><i>cranial</i><par n="expensive__adj"/></e>
     <e lm="crass"><i>crass</i><par n="expensive__adj"/></e>
     <e lm="crazy"><i>craz</i><par n="happ/y__adj"/></e>
@@ -18241,7 +18229,7 @@
     <e lm="creditable"><i>creditable</i><par n="expensive__adj"/></e>
     <e lm="criminal"><i>criminal</i><par n="expensive__adj"/></e>
     <e lm="crisp"><i>crisp</i><par n="expensive__adj"/></e>
-    <e lm="crispy"><i>crispy</i><par n="expensive__adj"/></e>
+    <e lm="crispy"><i>crisp</i><par n="happ/y__adj"/></e>
     <e lm="critical"><i>critical</i><par n="expensive__adj"/></e>
     <e lm="croaky"><i>croaky</i><par n="expensive__adj"/></e>
     <e lm="cross-eyed"><i>cross-eyed</i><par n="expensive__adj"/></e>
@@ -18249,7 +18237,7 @@
     <e lm="crucial"><i>crucial</i><par n="expensive__adj"/></e>
     <e lm="crude"><i>crude</i><par n="nice/__adj"/></e>
     <e lm="cruel"><i>cruel</i><par n="expensive__adj"/></e>
-    <e lm="crusty"><i>crusty</i><par n="expensive__adj"/></e>
+    <e lm="crusty"><i>crust</i><par n="happ/y__adj"/></e>
     <e lm="Cuban"><par n="Cc"/><i>uban</i><par n="expensive__adj"/></e>
     <e lm="cubic"><i>cubic</i><par n="expensive__adj"/></e>
     <e lm="cultivable"><i>cultivable</i><par n="expensive__adj"/></e>
@@ -18271,7 +18259,7 @@
     <e lm="Cypriot"><par n="Cc"/><i>ypriot</i><par n="expensive__adj"/></e>
     <e lm="Czech"><par n="Cc"/><i>zech</i><par n="expensive__adj"/></e>
     <e lm="daily"><i>daily</i><par n="expensive__adj"/></e>
-    <e lm="dainty"><i>dainty</i><par n="expensive__adj"/></e>
+    <e lm="dainty"><i>daint</i><par n="happ/y__adj"/></e>
     <e lm="damp"><i>damp</i><par n="expensive__adj"/></e>
     <e lm="dangerous"><i>dangerous</i><par n="expensive__adj"/></e>
     <e lm="Danish"><par n="Dd"/><i>anish</i><par n="expensive__adj"/></e>
@@ -18404,7 +18392,7 @@
     <e lm="divine"><i>divine</i><par n="expensive__adj"/></e>
     <e lm="divisible"><i>divisible</i><par n="expensive__adj"/></e>
     <e lm="divisional"><i>divisional</i><par n="expensive__adj"/></e>
-    <e lm="dizzy"><i>dizzy</i><par n="expensive__adj"/></e>
+    <e lm="dizzy"><i>dizz</i><par n="happ/y__adj"/></e>
     <e lm="docile"><i>docile</i><par n="expensive__adj"/></e>
     <e lm="doctrinaire"><i>doctrinaire</i><par n="expensive__adj"/></e>
     <e lm="documentary"><i>documentary</i><par n="expensive__adj"/></e>
@@ -18428,10 +18416,10 @@
     <e lm="dramatic"><i>dramatic</i><par n="expensive__adj"/></e>
     <e lm="drastic"><i>drastic</i><par n="expensive__adj"/></e>
     <e lm="dreadful"><i>dreadful</i><par n="expensive__adj"/></e>
-    <e lm="dreamy"><i>dreamy</i><par n="expensive__adj"/></e>
+    <e lm="dreamy"><i>dream</i><par n="happ/y__adj"/></e>
     <e lm="driven"><i>driven</i><par n="expensive__adj"/></e>
     <e lm="droll"><i>droll</i><par n="expensive__adj"/></e>
-    <e lm="drowsy"><i>drowsy</i><par n="expensive__adj"/></e>
+    <e lm="drowsy"><i>drows</i><par n="happ/y__adj"/></e>
     <e lm="drug-free"><i>drug-free</i><par n="expensive__adj"/></e>
     <e lm="drunk"><i>drunk</i><par n="expensive__adj"/></e>
     <e lm="dry"><i>dr</i><par n="happ/y__adj"/></e>
@@ -18466,7 +18454,7 @@
     <e lm="economically advantageous"><i>economically<b/>advantageous</i><par n="expensive__adj"/></e>
     <e lm="ecstatic"><i>ecstatic</i><par n="expensive__adj"/></e>
     <e lm="ecumenical"><i>ecumenical</i><par n="expensive__adj"/></e>
-    <e lm="edgy"><i>edgy</i><par n="expensive__adj"/></e>
+    <e lm="edgy"><i>edg</i><par n="happ/y__adj"/></e>
     <e lm="edible"><i>edible</i><par n="expensive__adj"/></e>
     <e lm="educational"><i>educational</i><par n="expensive__adj"/></e>
     <e lm="educative"><i>educative</i><par n="expensive__adj"/></e>
@@ -18629,10 +18617,10 @@
     <e lm="fateful"><i>fateful</i><par n="expensive__adj"/></e>
     <e lm="fatherless"><i>fatherless</i><par n="expensive__adj"/></e>
     <e lm="fatherly"><i>fatherly</i><par n="expensive__adj"/></e>
-    <e lm="fatty"><i>fatty</i><par n="expensive__adj"/></e>
+    <e lm="fatty"><i>fatt</i><par n="happ/y__adj"/></e>
     <e lm="fatuous"><i>fatuous</i><par n="expensive__adj"/></e>
     <e lm="faultless"><i>faultless</i><par n="expensive__adj"/></e>
-    <e lm="faulty"><i>faulty</i><par n="expensive__adj"/></e>
+    <e lm="faulty"><i>fault</i><par n="happ/y__adj"/></e>
     <e lm="favorable"><i>favorable</i><par n="expensive__adj"/></e>
     <e lm="favourable"><i>favourable</i><par n="expensive__adj"/></e>
     <e lm="favourite"><i>favourite</i><par n="expensive__adj"/></e>
@@ -18644,7 +18632,7 @@
     <e lm="federal"><i>federal</i><par n="expensive__adj"/></e>
     <e lm="federalistic"><i>federalistic</i><par n="expensive__adj"/></e>
     <e lm="feeble"><i>feeble</i><par n="nice/__adj"/></e>
-    <e lm="feisty"><i>feisty</i><par n="expensive__adj"/></e>
+    <e lm="feisty"><i>feist</i><par n="happ/y__adj"/></e>
     <e lm="felicitous"><i>felicitous</i><par n="expensive__adj"/></e>
     <e lm="fellow"><i>fellow</i><par n="expensive__adj"/></e>
     <e lm="female"><i>female</i><par n="expensive__adj"/></e>
@@ -18678,12 +18666,12 @@
     <e lm="fiscal"><i>fiscal</i><par n="expensive__adj"/></e>
     <e lm="fit"><i>fit</i><par n="hot/__adj"/></e>
     <e lm="fixed"><i>fixed</i><par n="expensive__adj"/></e>
-    <e lm="fizzy"><i>fizzy</i><par n="expensive__adj"/></e>
+    <e lm="fizzy"><i>fizz</i><par n="happ/y__adj"/></e>
     <e lm="flagrant"><i>flagrant</i><par n="expensive__adj"/></e>
     <e lm="flamboyant"><i>flamboyant</i><par n="expensive__adj"/></e>
     <e lm="flaming"><i>flaming</i><par n="expensive__adj"/></e>
     <e lm="flammable"><i>flammable</i><par n="expensive__adj"/></e>
-    <e lm="flashy"><i>flashy</i><par n="expensive__adj"/></e>
+    <e lm="flashy"><i>flash</i><par n="happ/y__adj"/></e>
     <e lm="flat"><i>flat</i><par n="flat/__adj"/></e>
     <e lm="flawless"><i>flawless</i><par n="expensive__adj"/></e>
     <e lm="flaxen"><i>flaxen</i><par n="expensive__adj"/></e>
@@ -18695,11 +18683,11 @@
     <e lm="floppy"><i>flopp</i><par n="happ/y__adj"/></e>
     <e lm="floral"><i>floral</i><par n="expensive__adj"/></e>
     <e lm="florid"><i>florid</i><par n="expensive__adj"/></e>
-    <e lm="fluffy"><i>fluffy</i><par n="expensive__adj"/></e>
+    <e lm="fluffy"><i>fluff</i><par n="happ/y__adj"/></e>
     <e lm="fluorescent"><i>fluorescent</i><par n="expensive__adj"/></e>
     <e lm="fluvial"><i>fluvial</i><par n="expensive__adj"/></e>
     <e lm="focused"><i>focused</i><par n="expensive__adj"/></e>
-    <e lm="foggy"><i>foggy</i><par n="expensive__adj"/></e>
+    <e lm="foggy"><i>fogg</i><par n="happ/y__adj"/></e>
     <e lm="folksy"><i>folksy</i><par n="expensive__adj"/></e>
     <e lm="fond"><i>fond</i><par n="long/__adj"/></e>
     <e lm="food"><i>food</i><par n="expensive__adj"/></e>
@@ -18745,11 +18733,11 @@
     <e lm="friendless"><i>friendless</i><par n="expensive__adj"/></e>
     <e lm="friendly"><i>friendl</i><par n="happ/y__adj"/></e>
     <e lm="frightful"><i>frightful</i><par n="expensive__adj"/></e>
-    <e lm="frisky"><i>frisky</i><par n="expensive__adj"/></e>
+    <e lm="frisky"><i>frisk</i><par n="happ/y__adj"/></e>
     <e lm="frivolous"><i>frivolous</i><par n="expensive__adj"/></e>
     <e lm="frontal"><i>frontal</i><par n="expensive__adj"/></e>
     <e lm="frostbitten"><i>frostbitten</i><par n="expensive__adj"/></e>
-    <e lm="frothy"><i>frothy</i><par n="expensive__adj"/></e>
+    <e lm="frothy"><i>froth</i><par n="happ/y__adj"/></e>
     <e lm="frozen"><i>frozen</i><par n="expensive__adj"/></e>
     <e lm="fruitful"><i>fruitful</i><par n="expensive__adj"/></e>
     <e lm="fruitless"><i>fruitless</i><par n="expensive__adj"/></e>
@@ -18764,8 +18752,8 @@
     <e lm="funereal"><i>funereal</i><par n="expensive__adj"/></e>
     <e lm="funny"><i>funn</i><par n="happ/y__adj"/></e>
     <e lm="furious"><i>furious</i><par n="expensive__adj"/></e>
-    <e lm="furry"><i>furry</i><par n="expensive__adj"/></e>
-    <e lm="fusty"><i>fusty</i><par n="expensive__adj"/></e>
+    <e lm="furry"><i>furr</i><par n="happ/y__adj"/></e>
+    <e lm="fusty"><i>fust</i><par n="happ/y__adj"/></e>
     <e lm="futile"><i>futile</i><par n="expensive__adj"/></e>
     <e lm="future"><i>future</i><par n="expensive__adj"/></e>
     <e lm="futuristic"><i>futuristic</i><par n="expensive__adj"/></e>
@@ -18820,7 +18808,7 @@
     <e lm="good-looking"><i>good-looking</i><par n="expensive__adj"/></e>
     <e lm="good-sized"><i>good-sized</i><par n="expensive__adj"/></e>
     <e lm="gorgeous"><i>gorgeous</i><par n="expensive__adj"/></e>
-    <e lm="gory"><i>gory</i><par n="expensive__adj"/></e>
+    <e lm="gory"><i>gor</i><par n="happ/y__adj"/></e>
     <e lm="gossipy"><i>gossipy</i><par n="expensive__adj"/></e>
     <e lm="Gothic"><par n="Gg"/><i>othic</i><par n="expensive__adj"/></e>
     <e lm="governable"><i>governable</i><par n="expensive__adj"/></e>
@@ -18829,7 +18817,7 @@
     <e lm="grand"><i>grand</i><par n="expensive__adj"/></e>
     <e lm="grandiose"><i>grandiose</i><par n="expensive__adj"/></e>
     <e lm="graphic"><i>graphic</i><par n="expensive__adj"/></e>
-    <e lm="grassy"><i>grassy</i><par n="expensive__adj"/></e>
+    <e lm="grassy"><i>grass</i><par n="happ/y__adj"/></e>
     <e lm="grateful"><i>grateful</i><par n="expensive__adj"/></e>
     <e lm="gratuitous"><i>gratuitous</i><par n="expensive__adj"/></e>
     <e lm="grave"><i>grave</i><par n="nice/__adj"/></e>
@@ -18842,10 +18830,10 @@
     <e lm="grey"><i>grey</i><par n="sly/__adj"/></e>
     <e lm="greyish"><i>greyish</i><par n="expensive__adj"/></e>
     <e lm="grim"><i>grim</i><par n="dim/__adj"/></e>
-    <e lm="grimy"><i>grimy</i><par n="expensive__adj"/></e>
+    <e lm="grimy"><i>grim</i><par n="happ/y__adj"/></e>
     <e lm="grinning"><i>grinning</i><par n="expensive__adj"/></e>
     <e lm="gripping"><i>gripping</i><par n="expensive__adj"/></e>
-    <e lm="gritty"><i>gritty</i><par n="expensive__adj"/></e>
+    <e lm="gritty"><i>gritt</i><par n="happ/y__adj"/></e>
     <e lm="gross"><i>gross</i><par n="long/__adj"/></e>
     <e lm="grotesque"><i>grotesque</i><par n="expensive__adj"/></e>
     <e lm="groundless"><i>groundless</i><par n="expensive__adj"/></e>
@@ -18858,7 +18846,7 @@
     <e lm="guileful"><i>guileful</i><par n="expensive__adj"/></e>
     <e lm="guileless"><i>guileless</i><par n="expensive__adj"/></e>
     <e lm="guilty"><i>guilt</i><par n="happ/y__adj"/></e>
-    <e lm="gusty"><i>gusty</i><par n="expensive__adj"/></e>
+    <e lm="gusty"><i>gust</i><par n="happ/y__adj"/></e>
     <e lm="gutless"><i>gutless</i><par n="expensive__adj"/></e>
     <e lm="habitual"><i>habitual</i><par n="expensive__adj"/></e>
     <e lm="hairless"><i>hairless</i><par n="expensive__adj"/></e>
@@ -18891,13 +18879,13 @@
     <e lm="healthy"><i>health</i><par n="happ/y__adj"/></e>
     <e lm="heartfelt"><i>heartfelt</i><par n="expensive__adj"/></e>
     <e lm="heartless"><i>heartless</i><par n="expensive__adj"/></e>
-    <e lm="hearty"><i>hearty</i><par n="expensive__adj"/></e>
+    <e lm="hearty"><i>heart</i><par n="happ/y__adj"/></e>
     <e lm="heathen"><i>heathen</i><par n="expensive__adj"/></e>
     <e lm="heavenly"><i>heavenly</i><par n="expensive__adj"/></e>
     <e lm="heavy"><i>heav</i><par n="happ/y__adj"/></e>
     <e lm="hectic"><i>hectic</i><par n="expensive__adj"/></e>
     <e lm="heedful"><i>heedful</i><par n="expensive__adj"/></e>
-    <e lm="hefty"><i>hefty</i><par n="expensive__adj"/></e>
+    <e lm="hefty"><i>heft</i><par n="happ/y__adj"/></e>
     <e lm="heinous"><i>heinous</i><par n="expensive__adj"/></e>
     <e lm="hello"><i>hello</i><par n="expensive__adj"/></e>
     <e lm="helpful"><i>helpful</i><par n="expensive__adj"/></e>
@@ -18984,7 +18972,6 @@
     <e lm="ill-lit"><i>ill-lit</i><par n="expensive__adj"/></e>
     <e lm="illegal"><i>illegal</i><par n="expensive__adj"/></e>
     <e lm="illegible"><i>illegible</i><par n="expensive__adj"/></e>
-    <e lm="illegimate"><i>illegimate</i><par n="expensive__adj"/></e>
     <e lm="illegitimate"><i>illegitimate</i><par n="expensive__adj"/></e>
     <e lm="illicit"><i>illicit</i><par n="expensive__adj"/></e>
     <e lm="illiterate"><i>illiterate</i><par n="expensive__adj"/></e>
@@ -19243,7 +19230,7 @@
     <e lm="irregular"><i>irregular</i><par n="common/__adj"/></e>
     <e lm="irrelevant"><i>irrelevant</i><par n="expensive__adj"/></e>
     <e lm="irreligious"><i>irreligious</i><par n="expensive__adj"/></e>
-    <e lm="irremoveable"><i>irremoveable</i><par n="expensive__adj"/></e>
+    <e lm="irremovable"><i>irremovable</i><par n="expensive__adj"/></e>
     <e lm="irreparable"><i>irreparable</i><par n="expensive__adj"/></e>
     <e lm="irreplaceable"><i>irreplaceable</i><par n="expensive__adj"/></e>
     <e lm="irreproachable"><i>irreproachable</i><par n="expensive__adj"/></e>
@@ -19259,20 +19246,20 @@
     <e lm="Israeli"><par n="Ii"/><i>sraeli</i><par n="expensive__adj"/></e>
     <e lm="Italian"><par n="Ii"/><i>talian</i><par n="expensive__adj"/></e>
     <e lm="Italian-speaking"><par n="Ii"/><i>talian-speaking</i><par n="expensive__adj"/></e>
-    <e lm="itchy"><i>itchy</i><par n="expensive__adj"/></e>
+    <e lm="itchy"><i>itch</i><par n="happ/y__adj"/></e>
     <e lm="itinerant"><i>itinerant</i><par n="expensive__adj"/></e>
     <e lm="Jamaican"><par n="Jj"/><i>amaican</i><par n="expensive__adj"/></e>
     <e lm="Japanese"><par n="Jj"/><i>apanese</i><par n="expensive__adj"/></e>
-    <e lm="jazzy"><i>jazzy</i><par n="expensive__adj"/></e>
+    <e lm="jazzy"><i>jazz</i><par n="happ/y__adj"/></e>
     <e lm="jealous"><i>jealous</i><par n="expensive__adj"/></e>
-    <e lm="jerky"><i>jerky</i><par n="expensive__adj"/></e>
+    <e lm="jerky"><i>jerk</i><par n="happ/y__adj"/></e>
     <e lm="jet-black"><i>jet-black</i><par n="expensive__adj"/></e>
     <e lm="Jewish"><par n="Jj"/><i>ewish</i><par n="expensive__adj"/></e>
     <e lm="jittery"><i>jittery</i><par n="expensive__adj"/></e>
     <e lm="jocose"><i>jocose</i><par n="expensive__adj"/></e>
     <e lm="jocular"><i>jocular</i><par n="expensive__adj"/></e>
     <e lm="joint"><i>joint</i><par n="expensive__adj"/></e>
-    <e lm="jolly"><i>jolly</i><par n="expensive__adj"/></e>
+    <e lm="jolly"><i>joll</i><par n="happ/y__adj"/></e>
     <e lm="Jordanian"><par n="Jj"/><i>ordanian</i><par n="expensive__adj"/></e>
     <e lm="journalistic"><i>journalistic</i><par n="expensive__adj"/></e>
     <e lm="jovial"><i>jovial</i><par n="expensive__adj"/></e>
@@ -19281,7 +19268,7 @@
     <e lm="jubilant"><i>jubilant</i><par n="expensive__adj"/></e>
     <e lm="judicial"><i>judicial</i><par n="expensive__adj"/></e>
     <e lm="judicious"><i>judicious</i><par n="expensive__adj"/></e>
-    <e lm="juicy"><i>juicy</i><par n="expensive__adj"/></e>
+    <e lm="juicy"><i>juic</i><par n="happ/y__adj"/></e>
     <e lm="juridical"><i>juridical</i><par n="expensive__adj"/></e>
     <e lm="jurisdictional"><i>jurisdictional</i><par n="expensive__adj"/></e>
     <e lm="just"><i>just</i><par n="long/__adj"/></e>
@@ -19291,7 +19278,7 @@
     <e lm="key"><i>key</i><par n="expensive__adj"/></e>
     <e lm="kind"><i>kind</i><par n="long/__adj"/></e>
     <e lm="kinetic"><i>kinetic</i><par n="expensive__adj"/></e>
-    <e lm="kinky"><i>kinky</i><par n="expensive__adj"/></e>
+    <e lm="kinky"><i>kink</i><par n="happ/y__adj"/></e>
     <e lm="knightly"><i>knightly</i><par n="expensive__adj"/></e>
     <e lm="knowledgeable"><i>knowledgeable</i><par n="expensive__adj"/></e>
     <e lm="known"><i>known</i><par n="expensive__adj"/></e>
@@ -19321,13 +19308,13 @@
     <e lm="lax"><i>lax</i><par n="expensive__adj"/></e>
     <e lm="lazy"><i>laz</i><par n="happ/y__adj"/></e>
     <e lm="leafless"><i>leafless</i><par n="expensive__adj"/></e>
-    <e lm="leafy"><i>leafy</i><par n="expensive__adj"/></e>
-    <e lm="leaky"><i>leaky</i><par n="expensive__adj"/></e>
+    <e lm="leafy"><i>leaf</i><par n="happ/y__adj"/></e>
+    <e lm="leaky"><i>leak</i><par n="happ/y__adj"/></e>
     <e lm="lean"><i>lean</i><par n="long/__adj"/></e>
     <e lm="learned"><i>learned</i><par n="expensive__adj"/></e>
     <e lm="Lebanese"><par n="Ll"/><i>ebanese</i><par n="expensive__adj"/></e>
     <e lm="lecherous"><i>lecherous</i><par n="expensive__adj"/></e>
-    <e lm="leery"><i>leery</i><par n="expensive__adj"/></e>
+    <e lm="leery"><i>leer</i><par n="happ/y__adj"/></e>
     <e lm="left"><i>left</i><par n="expensive__adj"/></e>
     <e lm="left-hand"><i>left-hand</i><par n="expensive__adj"/></e>
     <e lm="left-handed"><i>left-handed</i><par n="expensive__adj"/></e>
@@ -19390,10 +19377,10 @@
     <e lm="long-haired"><i>long-haired</i><par n="expensive__adj"/></e>
     <e lm="longshore"><i>longshore</i><par n="expensive__adj"/></e>
     <e lm="longwise"><i>longwise</i><par n="expensive__adj"/></e>
-    <e lm="loony"><i>loony</i><par n="expensive__adj"/></e>
+    <e lm="loony"><i>loon</i><par n="happ/y__adj"/></e>
     <e lm="lost"><i>lost</i><par n="expensive__adj"/></e>
     <e lm="loud"><i>loud</i><par n="long/__adj"/></e>
-    <e lm="lousy"><i>lousy</i><par n="expensive__adj"/></e>
+    <e lm="lousy"><i>lous</i><par n="happ/y__adj"/></e>
     <e lm="loutish"><i>loutish</i><par n="expensive__adj"/></e>
     <e lm="loveable"><i>loveable</i><par n="expensive__adj"/></e>
     <e lm="loveless"><i>loveless</i><par n="expensive__adj"/></e>
@@ -19440,8 +19427,8 @@
     <e lm="mammary"><i>mammary</i><par n="expensive__adj"/></e>
     <e lm="manageable"><i>manageable</i><par n="expensive__adj"/></e>
     <e lm="managerial"><i>managerial</i><par n="expensive__adj"/></e>
-    <e lm="mangy"><i>mangy</i><par n="expensive__adj"/></e>
-    <e lm="manly"><i>manly</i><par n="expensive__adj"/></e>
+    <e lm="mangy"><i>mang</i><par n="happ/y__adj"/></e>
+    <e lm="manly"><i>manl</i><par n="happ/y__adj"/></e>
     <e lm="mannish"><i>mannish</i><par n="expensive__adj"/></e>
     <e lm="manual"><i>manual</i><par n="expensive__adj"/></e>
     <e lm="many" r="RL"><i>many</i><par n="expensive__adj"/></e>
@@ -19452,7 +19439,7 @@
     <e lm="marketed"><i>marketed</i><par n="expensive__adj"/></e>
     <e lm="marriageable"><i>marriageable</i><par n="expensive__adj"/></e>
     <e lm="married"><i>married</i><par n="expensive__adj"/></e>
-    <e lm="marshy"><i>marshy</i><par n="expensive__adj"/></e>
+    <e lm="marshy"><i>marsh</i><par n="happ/y__adj"/></e>
     <e lm="marvellous"><i>marvellous</i><par n="expensive__adj"/></e>
     <e lm="Marxist"><par n="Mm"/><i>arxist</i><par n="expensive__adj"/></e>
     <e lm="masculine"><i>masculine</i><par n="expensive__adj"/></e>
@@ -19526,10 +19513,9 @@
     <e lm="minimum"><i>minimum</i><par n="expensive__adj"/></e>
     <e lm="ministerial"><i>ministerial</i><par n="expensive__adj"/></e>
     <e lm="minor"><i>minor</i><par n="expensive__adj"/></e>
-    <e lm="minoritary"><i>minoritary</i><par n="expensive__adj"/></e>
     <e lm="miraculous"><i>miraculous</i><par n="expensive__adj"/></e>
     <e lm="mirthless"><i>mirthless</i><par n="expensive__adj"/></e>
-    <e lm="miry"><i>miry</i><par n="expensive__adj"/></e>
+    <e lm="miry"><i>mir</i><par n="happ/y__adj"/></e>
     <e lm="misanthropic"><i>misanthropic</i><par n="expensive__adj"/></e>
     <e lm="misbegotten"><i>misbegotten</i><par n="expensive__adj"/></e>
     <e lm="miscellaneous"><i>miscellaneous</i><par n="expensive__adj"/></e>
@@ -19564,20 +19550,20 @@
     <e lm="monthly"><i>monthly</i><par n="expensive__adj"/></e>
     <e lm="monumental"><i>monumental</i><par n="expensive__adj"/></e>
     <e lm="moody"><i>mood</i><par n="happ/y__adj"/></e>
-    <e lm="moony"><i>moony</i><par n="expensive__adj"/></e>
+    <e lm="moony"><i>moon</i><par n="happ/y__adj"/></e>
     <e lm="moot"><i>moot</i><par n="expensive__adj"/></e>
     <e lm="moral"><i>moral</i><par n="common/__adj"/></e>
     <e lm="moralistic"><i>moralistic</i><par n="expensive__adj"/></e>
     <e lm="morbid"><i>morbid</i><par n="expensive__adj"/></e>
     <e lm="Moroccan"><par n="Mm"/><i>oroccan</i><par n="expensive__adj"/></e>
     <e lm="mortal"><i>mortal</i><par n="expensive__adj"/></e>
-    <e lm="mossy"><i>mossy</i><par n="expensive__adj"/></e>
+    <e lm="mossy"><i>moss</i><par n="happ/y__adj"/></e>
     <e lm="motionless"><i>motionless</i><par n="expensive__adj"/></e>
     <e lm="motley"><i>motley</i><par n="expensive__adj"/></e>
     <e lm="mouldy"><i>mouldy</i><par n="expensive__adj"/></e>
     <e lm="mountainous"><i>mountainous</i><par n="expensive__adj"/></e>
     <e lm="moveable"><i>moveable</i><par n="expensive__adj"/></e>
-    <e lm="mucky"><i>mucky</i><par n="expensive__adj"/></e>
+    <e lm="mucky"><i>muck</i><par n="happ/y__adj"/></e>
     <e lm="muddy"><i>mudd</i><par n="happ/y__adj"/></e>
     <e lm="mulish"><i>mulish</i><par n="expensive__adj"/></e>
     <e lm="multicoloured"><i>multicoloured</i><par n="expensive__adj"/></e>
@@ -19592,12 +19578,12 @@
     <e lm="multitudinous"><i>multitudinous</i><par n="expensive__adj"/></e>
     <e lm="mundane"><i>mundane</i><par n="expensive__adj"/></e>
     <e lm="municipal"><i>municipal</i><par n="expensive__adj"/></e>
-    <e lm="murky"><i>murky</i><par n="expensive__adj"/></e>
+    <e lm="murky"><i>murk</i><par n="happ/y__adj"/></e>
     <e lm="muscovite"><i>muscovite</i><par n="expensive__adj"/></e>
     <e lm="muscular"><i>muscular</i><par n="expensive__adj"/></e>
     <e lm="musical"><i>musical</i><par n="expensive__adj"/></e>
     <e lm="Muslim"><par n="Mm"/><i>uslim</i><par n="expensive__adj"/></e>
-    <e lm="musty"><i>musty</i><par n="expensive__adj"/></e>
+    <e lm="musty"><i>must</i><par n="happ/y__adj"/></e>
     <e lm="mutable"><i>mutable</i><par n="expensive__adj"/></e>
     <e lm="mutinous"><i>mutinous</i><par n="expensive__adj"/></e>
     <e lm="mutual"><i>mutual</i><par n="expensive__adj"/></e>
@@ -19627,7 +19613,7 @@
     <e lm="naughty"><i>naught</i><par n="happ/y__adj"/></e>
     <e lm="nautical"><i>nautical</i><par n="expensive__adj"/></e>
     <e lm="naval"><i>naval</i><par n="expensive__adj"/></e>
-    <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
+    <e lm="navy"><i>nav</i><par n="happ/y__adj"/></e>
     <e lm="near"><i>near</i><par n="long/__adj"/></e>
     <e lm="nearby"><i>nearby</i><par n="expensive__adj"/></e>
     <e lm="neat"><i>neat</i><par n="expensive__adj"/></e>
@@ -19638,9 +19624,9 @@
     <e lm="negotiable"><i>negotiable</i><par n="expensive__adj"/></e>
     <e lm="neighbouring"><i>neighbouring</i><par n="expensive__adj"/></e>
     <e lm="Nepalese"><par n="Nn"/><i>epalese</i><par n="expensive__adj"/></e>
-    <e lm="nerdy"><i>nerdy</i><par n="expensive__adj"/></e>
+    <e lm="nerdy"><i>nerd</i><par n="happ/y__adj"/></e>
     <e lm="nervous"><i>nervous</i><par n="expensive__adj"/></e>
-    <e lm="nervy"><i>nervy</i><par n="expensive__adj"/></e>
+    <e lm="nervy"><i>nerv</i><par n="happ/y__adj"/></e>
     <e lm="net"><i>net</i><par n="hot/__adj"/></e>
     <e lm="neural"><i>neural</i><par n="expensive__adj"/></e>
     <e lm="neuter"><i>neuter</i><par n="expensive__adj"/></e>
@@ -19652,7 +19638,7 @@
     <e lm="next"><i>next</i><par n="expensive__adj"/></e>
     <e lm="Nicaraguan"><par n="Nn"/><i>icaraguan</i><par n="expensive__adj"/></e>
     <e lm="nice"><i>nice</i><par n="nice/__adj"/></e>
-    <e lm="nifty"><i>nifty</i><par n="expensive__adj"/></e>
+    <e lm="nifty"><i>nift</i><par n="happ/y__adj"/></e>
     <e lm="Nigerian"><par n="Nn"/><i>igerian</i><par n="expensive__adj"/></e>
     <e lm="nihilistic"><i>nihilistic</i><par n="expensive__adj"/></e>
     <e lm="nitric"><i>nitric</i><par n="expensive__adj"/></e>
@@ -19697,7 +19683,7 @@
     <e lm="numerical"><i>numerical</i><par n="expensive__adj"/></e>
     <e lm="numerous"><i>numerous</i><par n="expensive__adj"/></e>
     <e lm="nutritious"><i>nutritious</i><par n="expensive__adj"/></e>
-    <e lm="nutty"><i>nutty</i><par n="expensive__adj"/></e>
+    <e lm="nutty"><i>nutt</i><par n="happ/y__adj"/></e>
     <e lm="oafish"><i>oafish</i><par n="expensive__adj"/></e>
     <e lm="obdurate"><i>obdurate</i><par n="expensive__adj"/></e>
     <e lm="objectionable"><i>objectionable</i><par n="expensive__adj"/></e>
@@ -19743,7 +19729,7 @@
     <e lm="oneiric"><i>oneiric</i><par n="expensive__adj"/></e>
     <e lm="ongoing"><i>ongoing</i><par n="expensive__adj"/></e>
     <e lm="only"><i>only</i><par n="expensive__adj"/></e>
-    <e lm="oozy"><i>oozy</i><par n="expensive__adj"/></e>
+    <e lm="oozy"><i>ooz</i><par n="happ/y__adj"/></e>
     <e lm="opalescent"><i>opalescent</i><par n="expensive__adj"/></e>
     <e lm="opaque"><i>opaque</i><par n="expensive__adj"/></e>
     <e lm="open"><i>open</i><par n="expensive__adj"/></e>
@@ -19810,7 +19796,7 @@
     <e lm="Palestinian"><par n="Pp"/><i>alestinian</i><par n="expensive__adj"/></e>
     <e lm="palliative"><i>palliative</i><par n="expensive__adj"/></e>
     <e lm="palpable"><i>palpable</i><par n="expensive__adj"/></e>
-    <e lm="paltry"><i>paltry</i><par n="expensive__adj"/></e>
+    <e lm="paltry"><i>paltr</i><par n="happ/y__adj"/></e>
     <e lm="Panamanian"><par n="Pp"/><i>anamanian</i><par n="expensive__adj"/></e>
     <e lm="panicky"><i>panicky</i><par n="expensive__adj"/></e>
     <e lm="panoramic"><i>panoramic</i><par n="expensive__adj"/></e>
@@ -19855,7 +19841,7 @@
     <e lm="pejorative"><i>pejorative</i><par n="expensive__adj"/></e>
     <e lm="penal"><i>penal</i><par n="expensive__adj"/></e>
     <e lm="penetrable"><i>penetrable</i><par n="expensive__adj"/></e>
-    <e lm="pennyless"><i>pennyless</i><par n="expensive__adj"/></e>
+    <e lm="penniless"><i>penniless</i><par n="expensive__adj"/></e>
     <e lm="pensive"><i>pensive</i><par n="expensive__adj"/></e>
     <e lm="penultimate"><i>penultimate</i><par n="expensive__adj"/></e>
     <e lm="perceivable"><i>perceivable</i><par n="expensive__adj"/></e>
@@ -19902,7 +19888,7 @@
     <e lm="photovoltaic"><i>photovoltaic</i><par n="expensive__adj"/></e>
     <e lm="physical"><i>physical</i><par n="expensive__adj"/></e>
     <e lm="picaresque"><i>picaresque</i><par n="expensive__adj"/></e>
-    <e lm="picky"><i>picky</i><par n="expensive__adj"/></e>
+    <e lm="picky"><i>pick</i><par n="happ/y__adj"/></e>
     <e lm="pictorial"><i>pictorial</i><par n="expensive__adj"/></e>
     <e lm="picturesque"><i>picturesque</i><par n="expensive__adj"/></e>
     <e lm="pilot"><i>pilot</i><par n="expensive__adj"/></e>
@@ -20063,13 +20049,13 @@
     <e lm="psychological"><i>psychological</i><par n="expensive__adj"/></e>
     <e lm="public"><i>public</i><par n="expensive__adj"/></e>
     <e lm="puerile"><i>puerile</i><par n="expensive__adj"/></e>
-    <e lm="puffy"><i>puffy</i><par n="expensive__adj"/></e>
+    <e lm="puffy"><i>puff</i><par n="happ/y__adj"/></e>
     <e lm="pukka"><i>pukka</i><par n="expensive__adj"/></e>
     <e lm="pulmonary"><i>pulmonary</i><par n="expensive__adj"/></e>
     <e lm="punctual"><i>punctual</i><par n="expensive__adj"/></e>
     <e lm="punishable"><i>punishable</i><par n="expensive__adj"/></e>
     <e lm="punitive"><i>punitive</i><par n="expensive__adj"/></e>
-    <e lm="puny"><i>puny</i><par n="expensive__adj"/></e>
+    <e lm="puny"><i>pun</i><par n="happ/y__adj"/></e>
     <e lm="purchasable"><i>purchasable</i><par n="expensive__adj"/></e>
     <e lm="pure"><i>pure</i><par n="nice/__adj"/></e>
     <e lm="puritanical"><i>puritanical</i><par n="expensive__adj"/></e>
@@ -20089,20 +20075,20 @@
     <e lm="quiescent"><i>quiescent</i><par n="expensive__adj"/></e>
     <e lm="quiet"><i>quiet</i><par n="long/__adj"/></e>
     <e lm="quintessential"><i>quintessential</i><par n="expensive__adj"/></e>
-    <e lm="quirky"><i>quirky</i><par n="expensive__adj"/></e>
+    <e lm="quirky"><i>quirk</i><par n="happ/y__adj"/></e>
     <e lm="quizzical"><i>quizzical</i><par n="expensive__adj"/></e>
     <e lm="quotable"><i>quotable</i><par n="expensive__adj"/></e>
     <e lm="rabbinical"><i>rabbinical</i><par n="expensive__adj"/></e>
     <e lm="rabid"><i>rabid</i><par n="expensive__adj"/></e>
     <e lm="racial"><i>racial</i><par n="expensive__adj"/></e>
     <e lm="racist"><i>racist</i><par n="expensive__adj"/></e>
-    <e lm="racy"><i>racy</i><par n="expensive__adj"/></e>
+    <e lm="racy"><i>rac</i><par n="happ/y__adj"/></e>
     <e lm="radial"><i>radial</i><par n="expensive__adj"/></e>
     <e lm="radiant"><i>radiant</i><par n="expensive__adj"/></e>
     <e lm="radical"><i>radical</i><par n="expensive__adj"/></e>
     <e lm="rainless"><i>rainless</i><par n="expensive__adj"/></e>
     <e lm="rainproof"><i>rainproof</i><par n="expensive__adj"/></e>
-    <e lm="rainy"><i>rainy</i><par n="expensive__adj"/></e>
+    <e lm="rainy"><i>rain</i><par n="happ/y__adj"/></e>
     <e lm="rakish"><i>rakish</i><par n="expensive__adj"/></e>
     <e lm="rambunctious"><i>rambunctious</i><par n="expensive__adj"/></e>
     <e lm="rampant"><i>rampant</i><par n="expensive__adj"/></e>
@@ -20116,7 +20102,7 @@
     <e lm="rash"><i>rash</i><par n="expensive__adj"/></e>
     <e lm="rather"><i>rather</i><par n="expensive__adj"/></e>
     <e lm="rational"><i>rational</i><par n="expensive__adj"/></e>
-    <e lm="ratty"><i>ratty</i><par n="expensive__adj"/></e>
+    <e lm="ratty"><i>ratt</i><par n="happ/y__adj"/></e>
     <e lm="raucous"><i>raucous</i><par n="expensive__adj"/></e>
     <e lm="raunchy"><i>raunchy</i><par n="expensive__adj"/></e>
     <e lm="raving mad"><i>raving<b/>mad</i><par n="expensive__adj"/></e>
@@ -20231,12 +20217,11 @@
     <e lm="riotous"><i>riotous</i><par n="expensive__adj"/></e>
     <e lm="ripe"><i>ripe</i><par n="handsome/__adj"/></e>
     <e lm="risible"><i>risible</i><par n="expensive__adj"/></e>
-    <e lm="risky"><i>risky</i><par n="expensive__adj"/></e>
+    <e lm="risky"><i>risk</i><par n="happ/y__adj"/></e>
     <e lm="ritual"><i>ritual</i><par n="expensive__adj"/></e>
     <e lm="rival"><i>rival</i><par n="expensive__adj"/></e>
     <e lm="robust"><i>robust</i><par n="common/__adj"/></e>
     <e lm="rocky"><i>rock</i><par n="happ/y__adj"/></e>
-    <e lm="rogueish"><i>rogueish</i><par n="expensive__adj"/></e>
     <e lm="roguish"><i>roguish</i><par n="expensive__adj"/></e>
     <e lm="roman"><i>roman</i><par n="expensive__adj"/></e>
     <e lm="romance"><i>romance</i><par n="expensive__adj"/></e>
@@ -20291,16 +20276,16 @@
     <e lm="satanic"><i>satanic</i><par n="expensive__adj"/></e>
     <e lm="satirical"><i>satirical</i><par n="expensive__adj"/></e>
     <e lm="satisfactory"><i>satisfactory</i><par n="expensive__adj"/></e>
-    <e lm="saucy"><i>saucy</i><par n="expensive__adj"/></e>
+    <e lm="saucy"><i>sauc</i><par n="happ/y__adj"/></e>
     <e lm="savory"><i>savory</i><par n="expensive__adj"/></e>
-    <e lm="savvy"><i>savvy</i><par n="expensive__adj"/></e>
+    <e lm="savvy"><i>savv</i><par n="happ/y__adj"/></e>
     <e lm="scabrous"><i>scabrous</i><par n="expensive__adj"/></e>
     <e lm="Scandinavian"><par n="Ss"/><i>candinavian</i><par n="expensive__adj"/></e>
     <e lm="scant"><i>scant</i><par n="expensive__adj"/></e>
-    <e lm="scanty"><i>scanty</i><par n="expensive__adj"/></e>
+    <e lm="scanty"><i>scant</i><par n="happ/y__adj"/></e>
     <e lm="scarce"><i>scarce</i><par n="expensive__adj"/></e>
     <e lm="scared"><i>scared</i><par n="expensive__adj"/></e>
-    <e lm="scary"><i>scary</i><par n="expensive__adj"/></e>
+    <e lm="scary"><i>scar</i><par n="happ/y__adj"/></e>
     <e lm="scary"><i>scar</i><par n="happ/y__adj"/></e>
     <e lm="scattered"><i>scattered</i><par n="expensive__adj"/></e>
     <e lm="scenic"><i>scenic</i><par n="expensive__adj"/></e>
@@ -20320,7 +20305,7 @@
     <e lm="scrupulous"><i>scrupulous</i><par n="expensive__adj"/></e>
     <e lm="sculptural"><i>sculptural</i><par n="expensive__adj"/></e>
     <e lm="scurfy"><i>scurfy</i><par n="expensive__adj"/></e>
-    <e lm="scurvy"><i>scurvy</i><par n="expensive__adj"/></e>
+    <e lm="scurvy"><i>scurv</i><par n="happ/y__adj"/></e>
     <e lm="sea-sick" r="LR"><i>sea-sick</i><par n="expensive__adj"/></e>
     <e lm="seamless"><i>seamless</i><par n="expensive__adj"/></e>
     <e lm="seasick"><i>seasick</i><par n="expensive__adj"/></e>
@@ -20336,7 +20321,7 @@
     <e lm="secular"><i>secular</i><par n="expensive__adj"/></e>
     <e lm="secure"><i>secure</i><par n="expensive__adj"/></e>
     <e lm="sedate"><i>sedate</i><par n="expensive__adj"/></e>
-    <e lm="seedy"><i>seedy</i><par n="expensive__adj"/></e>
+    <e lm="seedy"><i>seed</i><par n="happ/y__adj"/></e>
     <e lm="seemingly intact"><i>seemingly<b/>intact</i><par n="expensive__adj"/></e>
     <e lm="seemly"><i>seemly</i><par n="expensive__adj"/></e>
     <e lm="seismological"><i>seismological</i><par n="expensive__adj"/></e>
@@ -20379,8 +20364,8 @@
     <e lm="shabby"><i>shabb</i><par n="happ/y__adj"/></e>
     <e lm="shadowy"><i>shadowy</i><par n="expensive__adj"/></e>
     <e lm="shady"><i>shad</i><par n="happ/y__adj"/></e>
-    <e lm="shaggy"><i>shaggy</i><par n="expensive__adj"/></e>
-    <e lm="shaky"><i>shaky</i><par n="expensive__adj"/></e>
+    <e lm="shaggy"><i>shagg</i><par n="happ/y__adj"/></e>
+    <e lm="shaky"><i>shak</i><par n="happ/y__adj"/></e>
     <e lm="shallow"><i>shallow</i><par n="long/__adj"/></e>
     <e lm="shamefaced"><i>shamefaced</i><par n="expensive__adj"/></e>
     <e lm="shameful"><i>shameful</i><par n="expensive__adj"/></e>
@@ -20402,13 +20387,12 @@
     <e lm="signed"><i>signed</i><par n="expensive__adj"/></e>
     <e lm="significant"><i>significant</i><par n="expensive__adj"/></e>
     <e lm="silent"><i>silent</i><par n="common/__adj"/></e>
-    <e lm="silky"><i>silky</i><par n="expensive__adj"/></e>
+    <e lm="silky"><i>silk</i><par n="happ/y__adj"/></e>
     <e lm="silly"><i>sill</i><par n="happ/y__adj"/></e>
     <e lm="similar"><i>similar</i><par n="expensive__adj"/></e>
     <e lm="simple"><i>simple</i><par n="nice/__adj"/></e>
     <e lm="simultaneous"><i>simultaneous</i><par n="expensive__adj"/></e>
     <e lm="sincere"><i>sincere</i><par n="nice/__adj"/></e>
-    <e lm="sindical"><i>sindical</i><par n="expensive__adj"/></e>
     <e lm="sinewy"><i>sinewy</i><par n="expensive__adj"/></e>
     <e lm="sinful"><i>sinful</i><par n="expensive__adj"/></e>
     <e lm="single"><i>single</i><par n="expensive__adj"/></e>
@@ -20418,7 +20402,7 @@
     <e lm="sizable"><i>sizable</i><par n="expensive__adj"/></e>
     <e lm="sizeable"><i>sizeable</i><par n="expensive__adj"/></e>
     <e lm="skeptical"><i>skeptical</i><par n="expensive__adj"/></e>
-    <e lm="sketchy"><i>sketchy</i><par n="expensive__adj"/></e>
+    <e lm="sketchy"><i>sketch</i><par n="happ/y__adj"/></e>
     <e lm="skilful"><i>skilful</i><par n="expensive__adj"/></e>
     <e lm="skillful"><i>skillful</i><par n="expensive__adj"/></e>
     <e lm="skimpy"><i>skimp</i><par n="happ/y__adj"/></e>
@@ -20426,9 +20410,9 @@
     <e lm="skittish"><i>skittish</i><par n="expensive__adj"/></e>
     <e lm="slanderous"><i>slanderous</i><par n="expensive__adj"/></e>
     <e lm="slanted"><i>slanted</i><par n="expensive__adj"/></e>
-    <e lm="slaty"><i>slaty</i><par n="expensive__adj"/></e>
+    <e lm="slaty"><i>slat</i><par n="happ/y__adj"/></e>
     <e lm="slavish"><i>slavish</i><par n="expensive__adj"/></e>
-    <e lm="sleazy"><i>sleazy</i><par n="expensive__adj"/></e>
+    <e lm="sleazy"><i>sleaz</i><par n="happ/y__adj"/></e>
     <e lm="sleepy"><i>sleep</i><par n="happ/y__adj"/></e>
     <e lm="slender and supple"><i>slender<b/>and<b/>supple</i><par n="expensive__adj"/></e>
     <e lm="slick"><i>slick</i><par n="expensive__adj"/></e>
@@ -20445,15 +20429,15 @@
     <e lm="sly"><i>sl</i><par n="sh/y__adj"/></e>
     <e lm="small"><i>small</i><par n="long/__adj"/></e>
     <e lm="smart"><i>smart</i><par n="long/__adj"/></e>
-    <e lm="smelly"><i>smelly</i><par n="expensive__adj"/></e>
+    <e lm="smelly"><i>smell</i><par n="happ/y__adj"/></e>
     <e lm="smoke-free"><i>smoke-free</i><par n="expensive__adj"/></e>
     <e lm="smokeless"><i>smokeless</i><par n="expensive__adj"/></e>
     <e lm="smooth"><i>smooth</i><par n="long/__adj"/></e>
-    <e lm="sneaky"><i>sneaky</i><par n="expensive__adj"/></e>
+    <e lm="sneaky"><i>sneak</i><par n="happ/y__adj"/></e>
     <e lm="snide"><i>snide</i><par n="expensive__adj"/></e>
-    <e lm="snotty"><i>snotty</i><par n="expensive__adj"/></e>
+    <e lm="snotty"><i>snott</i><par n="happ/y__adj"/></e>
     <e lm="snow-white"><i>snow-white</i><par n="expensive__adj"/></e>
-    <e lm="snowy"><i>snowy</i><par n="expensive__adj"/></e>
+    <e lm="snowy"><i>snow</i><par n="happ/y__adj"/></e>
     <e lm="snug"><i>snug</i><par n="big/__adj"/></e>
     <e lm="so-called"><i>so-called</i><par n="expensive__adj"/></e>
     <e lm="sober"><i>sober</i><par n="long/__adj"/></e>
@@ -20463,7 +20447,7 @@
     <e lm="socioeconomic"><i>socioeconomic</i><par n="expensive__adj"/></e>
     <e lm="sociological"><i>sociological</i><par n="expensive__adj"/></e>
     <e lm="soft"><i>soft</i><par n="long/__adj"/></e>
-    <e lm="soggy"><i>soggy</i><par n="expensive__adj"/></e>
+    <e lm="soggy"><i>sogg</i><par n="happ/y__adj"/></e>
     <e lm="solar"><i>solar</i><par n="expensive__adj"/></e>
     <e lm="sold"><i>sold</i><par n="expensive__adj"/></e>
     <e lm="sold out"><i>sold<b/>out</i><par n="expensive__adj"/></e>
@@ -20515,7 +20499,7 @@
     <e lm="spoonful"><i>spoonful</i><par n="expensive__adj"/></e>
     <e lm="sporadic"><i>sporadic</i><par n="expensive__adj"/></e>
     <e lm="sportive"><i>sportive</i><par n="expensive__adj"/></e>
-    <e lm="sporty"><i>sporty</i><par n="expensive__adj"/></e>
+    <e lm="sporty"><i>sport</i><par n="happ/y__adj"/></e>
     <e lm="sprightly"><i>sprightly</i><par n="expensive__adj"/></e>
     <e lm="square"><i>square</i><par n="expensive__adj"/></e>
     <e lm="squat"><i>squat</i><par n="expensive__adj"/></e>
@@ -20544,13 +20528,13 @@
     <e lm="stereotypical"><i>stereotypical</i><par n="expensive__adj"/></e>
     <e lm="sterile"><i>sterile</i><par n="expensive__adj"/></e>
     <e lm="stertorous"><i>stertorous</i><par n="expensive__adj"/></e>
-    <e lm="sticky"><i>sticky</i><par n="expensive__adj"/></e>
+    <e lm="sticky"><i>stick</i><par n="happ/y__adj"/></e>
     <e lm="stiff"><i>stiff</i><par n="expensive__adj"/></e>
     <e lm="still"><i>still</i><par n="long/__adj"/></e>
     <e lm="stimulative"><i>stimulative</i><par n="expensive__adj"/></e>
     <e lm="stipulatory"><i>stipulatory</i><par n="expensive__adj"/></e>
     <e lm="stocky"><i>stock</i><par n="happ/y__adj"/></e>
-    <e lm="stodgy"><i>stodgy</i><par n="expensive__adj"/></e>
+    <e lm="stodgy"><i>stodg</i><par n="happ/y__adj"/></e>
     <e lm="stolid"><i>stolid</i><par n="expensive__adj"/></e>
     <e lm="straight"><i>straight</i><par n="common/__adj"/></e>
     <e lm="straightforward"><i>straightforward</i><par n="expensive__adj"/></e>
@@ -20560,16 +20544,16 @@
     <e lm="strict"><i>strict</i><par n="common/__adj"/></e>
     <e lm="strident"><i>strident</i><par n="expensive__adj"/></e>
     <e lm="stringent"><i>stringent</i><par n="expensive__adj"/></e>
-    <e lm="stringy"><i>stringy</i><par n="expensive__adj"/></e>
+    <e lm="stringy"><i>string</i><par n="happ/y__adj"/></e>
     <e lm="strong"><i>strong</i><par n="long/__adj"/></e>
     <e lm="structural"><i>structural</i><par n="expensive__adj"/></e>
     <e lm="strung"><i>strung</i><par n="expensive__adj"/></e>
-    <e lm="stubbly"><i>stubbly</i><par n="expensive__adj"/></e>
+    <e lm="stubbly"><i>stubbl</i><par n="happ/y__adj"/></e>
     <e lm="stubborn"><i>stubborn</i><par n="expensive__adj"/></e>
-    <e lm="stubby"><i>stubby</i><par n="expensive__adj"/></e>
+    <e lm="stubby"><i>stubb</i><par n="happ/y__adj"/></e>
     <e lm="stuck"><i>stuck</i><par n="expensive__adj"/></e>
     <e lm="studious"><i>studious</i><par n="expensive__adj"/></e>
-    <e lm="stuffy"><i>stuffy</i><par n="expensive__adj"/></e>
+    <e lm="stuffy"><i>stuff</i><par n="happ/y__adj"/></e>
     <e lm="stunned"><i>stunned</i><par n="expensive__adj"/></e>
     <e lm="stupid"><i>stupid</i><par n="expensive__adj"/></e>
     <e lm="stygian"><i>stygian</i><par n="expensive__adj"/></e>
@@ -20598,15 +20582,15 @@
     <e lm="sufficient"><i>sufficient</i><par n="expensive__adj"/></e>
     <e lm="sugar-free"><i>sugar-free</i><par n="expensive__adj"/></e>
     <e lm="sugarless"><i>sugarless</i><par n="expensive__adj"/></e>
-    <e lm="sugary"><i>sugary</i><par n="expensive__adj"/></e>
+    <e lm="sugary"><i>sugar</i><par n="happ/y__adj"/></e>
     <e lm="sullen"><i>sullen</i><par n="expensive__adj"/></e>
-    <e lm="sultry"><i>sultry</i><par n="expensive__adj"/></e>
+    <e lm="sultry"><i>sultr</i><par n="happ/y__adj"/></e>
     <e lm="Sumerian"><par n="Ss"/><i>umerian</i><par n="expensive__adj"/></e>
     <e lm="summary" r="RL"><i>summary</i><par n="expensive__adj"/></e>
     <e lm="sunburnt"><i>sunburnt</i><par n="expensive__adj"/></e>
     <e lm="sundry"><i>sundry</i><par n="expensive__adj"/></e>
     <e lm="sunken"><i>sunken</i><par n="expensive__adj"/></e>
-    <e lm="sunny"><i>sunny</i><par n="expensive__adj"/></e>
+    <e lm="sunny"><i>sunn</i><par n="happ/y__adj"/></e>
     <e lm="super"><i>super</i><par n="expensive__adj"/></e>
     <e lm="superabundant"><i>superabundant</i><par n="expensive__adj"/></e>
     <e lm="superb"><i>superb</i><par n="expensive__adj"/></e>
@@ -20633,7 +20617,7 @@
     <e lm="sustainable"><i>sustainable</i><par n="expensive__adj"/></e>
     <e lm="svelte"><i>svelte</i><par n="expensive__adj"/></e>
     <e lm="swarthy"><i>swarthy</i><par n="expensive__adj"/></e>
-    <e lm="sweaty"><i>sweaty</i><par n="expensive__adj"/></e>
+    <e lm="sweaty"><i>sweat</i><par n="happ/y__adj"/></e>
     <e lm="Swedish"><par n="Ss"/><i>wedish</i><par n="expensive__adj"/></e>
     <e lm="Swedish-speaking"><par n="Ss"/><i>wedish-speaking</i><par n="expensive__adj"/></e>
     <e lm="sweet"><i>sweet</i><par n="long/__adj"/></e>
@@ -20653,11 +20637,11 @@
     <e lm="synthetic"><i>synthetic</i><par n="expensive__adj"/></e>
     <e lm="synthetical"><i>synthetical</i><par n="expensive__adj"/></e>
     <e lm="Syrian"><par n="Ss"/><i>yrian</i><par n="expensive__adj"/></e>
-    <e lm="syrupy"><i>syrupy</i><par n="expensive__adj"/></e>
+    <e lm="syrupy"><i>syrup</i><par n="happ/y__adj"/></e>
     <e lm="systematic"><i>systematic</i><par n="expensive__adj"/></e>
     <e lm="taboo"><i>taboo</i><par n="expensive__adj"/></e>
     <e lm="tacit"><i>tacit</i><par n="expensive__adj"/></e>
-    <e lm="tacky"><i>tacky</i><par n="expensive__adj"/></e>
+    <e lm="tacky"><i>tack</i><par n="happ/y__adj"/></e>
     <e lm="tactful"><i>tactful</i><par n="expensive__adj"/></e>
     <e lm="tactical"><i>tactical</i><par n="expensive__adj"/></e>
     <e lm="tactile"><i>tactile</i><par n="expensive__adj"/></e>
@@ -20669,8 +20653,8 @@
     <e lm="tattered"><i>tattered</i><par n="expensive__adj"/></e>
     <e lm="taut"><i>taut</i><par n="expensive__adj"/></e>
     <e lm="tautological"><i>tautological</i><par n="expensive__adj"/></e>
-    <e lm="tawdry"><i>tawdry</i><par n="expensive__adj"/></e>
-    <e lm="tawny"><i>tawny</i><par n="expensive__adj"/></e>
+    <e lm="tawdry"><i>tawdr</i><par n="happ/y__adj"/></e>
+    <e lm="tawny"><i>tawn</i><par n="happ/y__adj"/></e>
     <e lm="tax-exempt"><i>tax-exempt</i><par n="expensive__adj"/></e>
     <e lm="taxable"><i>taxable</i><par n="expensive__adj"/></e>
     <e lm="teachable"><i>teachable</i><par n="expensive__adj"/></e>
@@ -20701,7 +20685,7 @@
     <e lm="terrific"><i>terrific</i><par n="expensive__adj"/></e>
     <e lm="territorial"><i>territorial</i><par n="expensive__adj"/></e>
     <e lm="terrorist"><i>terrorist</i><par n="expensive__adj"/></e>
-    <e lm="testy"><i>testy</i><par n="expensive__adj"/></e>
+    <e lm="testy"><i>test</i><par n="happ/y__adj"/></e>
     <e lm="textile"><i>textile</i><par n="expensive__adj"/></e>
     <e lm="textual"><i>textual</i><par n="expensive__adj"/></e>
     <e lm="Thai"><par n="Tt"/><i>hai</i><par n="expensive__adj"/></e>
@@ -20719,19 +20703,19 @@
     <e lm="thermostatic"><i>thermostatic</i><par n="expensive__adj"/></e>
     <e lm="thick"><i>thick</i><par n="long/__adj"/></e>
     <e lm="thin"><i>thin</i><par n="thin/__adj"/></e>
-    <e lm="thirsty"><i>thirsty</i><par n="expensive__adj"/></e>
-    <e lm="thorny"><i>thorny</i><par n="expensive__adj"/></e>
+    <e lm="thirsty"><i>thirst</i><par n="happ/y__adj"/></e>
+    <e lm="thorny"><i>thorn</i><par n="happ/y__adj"/></e>
     <e lm="thorough"><i>thorough</i><par n="expensive__adj"/></e>
     <e lm="thoroughgoing"><i>thoroughgoing</i><par n="expensive__adj"/></e>
     <e lm="thoughtless"><i>thoughtless</i><par n="expensive__adj"/></e>
     <e lm="three-dimensional"><i>three-dimensional</i><par n="expensive__adj"/></e>
     <e lm="three-of-a-kind"><i>three-of-a-kind</i><par n="expensive__adj"/></e>
     <e lm="threefold"><i>threefold</i><par n="expensive__adj"/></e>
-    <e lm="thrifty"><i>thrifty</i><par n="expensive__adj"/></e>
+    <e lm="thrifty"><i>thrift</i><par n="happ/y__adj"/></e>
     <e lm="thunderous"><i>thunderous</i><par n="expensive__adj"/></e>
     <e lm="thunderstruck"><i>thunderstruck</i><par n="expensive__adj"/></e>
     <e lm="ticklish"><i>ticklish</i><par n="expensive__adj"/></e>
-    <e lm="tidy"><i>tidy</i><par n="expensive__adj"/></e>
+    <e lm="tidy"><i>tid</i><par n="happ/y__adj"/></e>
     <e lm="tied"><i>tied</i><par n="expensive__adj"/></e>
     <e lm="tillable"><i>tillable</i><par n="expensive__adj"/></e>
     <e lm="time" r="RL"><i>time</i><par n="expensive__adj"/></e>
@@ -20740,7 +20724,7 @@
     <e lm="timid"><i>timid</i><par n="expensive__adj"/></e>
     <e lm="timorous"><i>timorous</i><par n="expensive__adj"/></e>
     <e lm="tiny"><i>tin</i><par n="happ/y__adj"/></e>
-    <e lm="tipsy"><i>tipsy</i><par n="expensive__adj"/></e>
+    <e lm="tipsy"><i>tips</i><par n="happ/y__adj"/></e>
     <e lm="tired"><i>tired</i><par n="expensive__adj"/></e>
     <e lm="tireless"><i>tireless</i><par n="expensive__adj"/></e>
     <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/></e>
@@ -20759,7 +20743,7 @@
     <e lm="torrid"><i>torrid</i><par n="expensive__adj"/></e>
     <e lm="total"><i>total</i><par n="expensive__adj"/></e>
     <e lm="totalitarian"><i>totalitarian</i><par n="expensive__adj"/></e>
-    <e lm="touchy"><i>touchy</i><par n="expensive__adj"/></e>
+    <e lm="touchy"><i>touch</i><par n="happ/y__adj"/></e>
     <e lm="tough"><i>tough</i><par n="long/__adj"/></e>
     <e lm="toxic"><i>toxic</i><par n="expensive__adj"/></e>
     <e lm="tractable"><i>tractable</i><par n="expensive__adj"/></e>
@@ -20788,7 +20772,7 @@
     <e lm="treble"><i>treble</i><par n="expensive__adj"/></e>
     <e lm="tremendous"><i>tremendous</i><par n="expensive__adj"/></e>
     <e lm="trenchant"><i>trenchant</i><par n="expensive__adj"/></e>
-    <e lm="trendy"><i>trendy</i><par n="expensive__adj"/></e>
+    <e lm="trendy"><i>trend</i><par n="happ/y__adj"/></e>
     <e lm="tribal"><i>tribal</i><par n="expensive__adj"/></e>
     <e lm="tricky"><i>trick</i><par n="happ/y__adj"/></e>
     <e lm="triennial"><i>triennial</i><par n="expensive__adj"/></e>
@@ -20804,7 +20788,7 @@
     <e lm="true"><i>true</i><par n="nice/__adj"/></e>
     <e lm="trustful"><i>trustful</i><par n="expensive__adj"/></e>
     <e lm="trustworthy"><i>trustworthy</i><par n="expensive__adj"/></e>
-    <e lm="trusty"><i>trusty</i><par n="expensive__adj"/></e>
+    <e lm="trusty"><i>trust</i><par n="happ/y__adj"/></e>
     <e lm="tubercular"><i>tubercular</i><par n="expensive__adj"/></e>
     <e lm="tuberous"><i>tuberous</i><par n="expensive__adj"/></e>
     <e lm="tumultuous"><i>tumultuous</i><par n="expensive__adj"/></e>
@@ -21056,7 +21040,7 @@
     <e lm="unrestrained"><i>unrestrained</i><par n="expensive__adj"/></e>
     <e lm="unrighteous"><i>unrighteous</i><par n="expensive__adj"/></e>
     <e lm="unripe"><i>unripe</i><par n="handsome/__adj"/></e>
-    <e lm="unruly"><i>unruly</i><par n="expensive__adj"/></e>
+    <e lm="unruly"><i>unrul</i><par n="happ/y__adj"/></e>
     <e lm="unsaid"><i>unsaid</i><par n="expensive__adj"/></e>
     <e lm="unsatisfied"><i>unsatisfied</i><par n="expensive__adj"/></e>
     <e lm="unsavoury"><i>unsavoury</i><par n="expensive__adj"/></e>
@@ -21191,19 +21175,19 @@
     <e lm="voluptuous"><i>voluptuous</i><par n="expensive__adj"/></e>
     <e lm="vulgar"><i>vulgar</i><par n="expensive__adj"/></e>
     <e lm="vulnerable"><i>vulnerable</i><par n="expensive__adj"/></e>
-    <e lm="wacky"><i>wacky</i><par n="expensive__adj"/></e>
+    <e lm="wacky"><i>wack</i><par n="happ/y__adj"/></e>
     <e lm="waggish"><i>waggish</i><par n="expensive__adj"/></e>
     <e lm="wakeful"><i>wakeful</i><par n="expensive__adj"/></e>
     <e lm="wanton"><i>wanton</i><par n="expensive__adj"/></e>
     <e lm="warlike"><i>warlike</i><par n="expensive__adj"/></e>
     <e lm="warm"><i>warm</i><par n="long/__adj"/></e>
-    <e lm="warty"><i>warty</i><par n="expensive__adj"/></e>
+    <e lm="warty"><i>warty</i><par n="sly/__adj"/></e>
     <e lm="watchful"><i>watchful</i><par n="expensive__adj"/></e>
     <e lm="water-repellent"><i>water-repellent</i><par n="expensive__adj"/></e>
     <e lm="waterless"><i>waterless</i><par n="expensive__adj"/></e> <!-- @BEGIN IFFY@ -->
     <e lm="waterproof"><i>waterproof</i><par n="expensive__adj"/></e>
     <e lm="watery"><i>watery</i><par n="expensive__adj"/></e>
-    <e lm="wavy"><i>wavy</i><par n="expensive__adj"/></e>
+    <e lm="wavy"><i>wav</i><par n="happ/y__adj"/></e>
     <e lm="wayward"><i>wayward</i><par n="expensive__adj"/></e>
     <e lm="weak"><i>weak</i><par n="long/__adj"/></e>
     <e lm="wealthy"><i>wealth</i><par n="happ/y__adj"/></e>
@@ -21211,7 +21195,7 @@
     <e lm="weedy"><i>weedy</i><par n="expensive__adj"/></e>
     <e lm="weekly"><i>weekly</i><par n="expensive__adj"/></e>
     <e lm="weightless"><i>weightless</i><par n="expensive__adj"/></e>
-    <e lm="weighty"><i>weighty</i><par n="expensive__adj"/></e>
+    <e lm="weighty"><i>weight</i><par n="happ/y__adj"/></e>
     <e lm="weird"><i>weird</i><par n="long/__adj"/></e>
     <e lm="welcome"><i>welcome</i><par n="expensive__adj"/></e>
     <e lm="well made"><i>well<b/>made</i><par n="expensive__adj"/></e>
@@ -21224,7 +21208,7 @@
     <e lm="westerly"><i>westerly</i><par n="expensive__adj"/></e>
     <e lm="western"><i>western</i><par n="expensive__adj"/></e>
     <e lm="wet"><i>wet</i><par n="expensive__adj"/></e>
-    <e lm="whiny"><i>whiny</i><par n="expensive__adj"/></e>
+    <e lm="whiny"><i>whin</i><par n="happ/y__adj"/></e>
     <e lm="whipped"><i>whipped</i><par n="expensive__adj"/></e>
     <e lm="white"><i>white</i><par n="nice/__adj"/></e>
     <e lm="whole"><i>whole</i><par n="expensive__adj"/></e>
@@ -21236,8 +21220,8 @@
     <e lm="widowed"><i>widowed</i><par n="expensive__adj"/></e>
     <e lm="wild"><i>wild</i><par n="long/__adj"/></e>
     <e lm="winded"><i>winded</i><par n="expensive__adj"/></e>
-    <e lm="windy"><i>windy</i><par n="expensive__adj"/></e>
-    <e lm="wiry"><i>wiry</i><par n="expensive__adj"/></e>
+    <e lm="windy"><i>wind</i><par n="happ/y__adj"/></e>
+    <e lm="wiry"><i>wir</i><par n="happ/y__adj"/></e>
     <e lm="wise"><i>wise</i><par n="nice/__adj"/></e>
     <e lm="wishful"><i>wishful</i><par n="expensive__adj"/></e>
     <e lm="witless"><i>witless</i><par n="expensive__adj"/></e>
@@ -21250,12 +21234,12 @@
     <e lm="workable"><i>workable</i><par n="expensive__adj"/></e>
     <e lm="world"><i>world</i><par n="expensive__adj"/></e>
     <e lm="world-wide"><i>world-wide</i><par n="expensive__adj"/></e>
-    <e lm="worldly"><i>worldly</i><par n="expensive__adj"/></e>
+    <e lm="worldly"><i>worldl</i><par n="happ/y__adj"/></e>
     <e lm="worried"><i>worried</i><par n="expensive__adj"/></e>
     <e lm="worrisome"><i>worrisome</i><par n="expensive__adj"/></e>
     <e lm="worthless"><i>worthless</i><par n="expensive__adj"/></e>
     <e lm="worthwhile"><i>worthwhile</i><par n="expensive__adj"/></e>
-    <e lm="worthy"><i>worthy</i><par n="expensive__adj"/></e>
+    <e lm="worthy"><i>worth</i><par n="happ/y__adj"/></e>
     <e lm="wounded"><i>wounded</i><par n="expensive__adj"/></e>
     <e lm="wrathful"><i>wrathful</i><par n="expensive__adj"/></e>
     <e lm="wretched"><i>wretched</i><par n="expensive__adj"/></e>
@@ -21265,7 +21249,7 @@
     <e lm="xenophobic"><i>xenophobic</i><par n="expensive__adj"/></e>
     <e lm="yearlong"><i>yearlong</i><par n="expensive__adj"/></e>
     <e lm="yearly"><i>yearly</i><par n="expensive__adj"/></e>
-    <e lm="yeasty"><i>yeasty</i><par n="expensive__adj"/></e>
+    <e lm="yeasty"><i>yeast</i><par n="happ/y__adj"/></e>
     <e lm="yellow"><i>yellow</i><par n="long/__adj"/></e>
     <e lm="young"><i>young</i><par n="long/__adj"/></e>
     <e lm="youthful"><i>youthful</i><par n="expensive__adj"/></e>
@@ -21969,6 +21953,7 @@
     <e lm="wholly"><i>wholly</i><par n="maybe__adv"/></e>
     <e lm="why"><i>why</i><par n="where__adv"/></e>
     <e lm="widely"><i>widely</i><par n="maybe__adv"/></e>
+    <e lm="wildly"><i>wildly</i><par n="maybe__adv"/></e>
     <e lm="willingly"><i>willingly</i><par n="maybe__adv"/></e>
     <e lm="within"><i>within</i><par n="maybe__adv"/></e>
     <e lm="without"><i>without</i><par n="maybe__adv"/></e>
@@ -22447,7 +22432,6 @@
     <e lm="why not"><i>why<b/>not</i><par n="where__adv"/></e>
     <e lm="wide open"><i>wide<b/>open</i><par n="maybe__adv"/></e>
     <e lm="wild guess"><i>wild<b/>guess</i><par n="maybe__adv"/></e>
-    <e lm="wildly"><i>wildly</i><par n="maybe__adv"/></e>
     <e lm="willingly or by force"><i>willingly<b/>or<b/>by<b/>force</i><par n="maybe__adv"/></e>
     <e lm="with great difficulty"><i>with<b/>great<b/>difficulty</i><par n="maybe__adv"/></e>
     <e lm="with great dificulty"><i>with<b/>great<b/>dificulty</i><par n="maybe__adv"/></e>
@@ -28050,6 +28034,7 @@
     <e lm="Aitkins"><i>Aitkins</i><par n="Smith__np"/></e>
     <e lm="Akhwari"><i>Akhwari</i><par n="Smith__np"/></e>
     <e lm="Allman"><i>Allman</i><par n="Smith__np"/></e>
+    <e lm="Althing"><i>Althing</i><par n="Smith__np"/></e>
     <e lm="Alvarado"><i>Alvarado</i><par n="Smith__np"/></e>
     <e lm="Amery"><i>Amery</i><par n="Smith__np"/></e>
     <e lm="Ammar"><i>Ammar</i><par n="Smith__np"/></e>
@@ -29211,6 +29196,7 @@
     <e lm="Peking"><i>Peking</i><par n="Barcelona__np"/></e>
     <e lm="Peru"><i>Peru</i><par n="Barcelona__np"/></e>
     <e lm="Philippines"><i>Philippines</i><par n="Barcelona__np"/></e>
+    <e lm="Piccadilly Circus"><i>Piccadilly<b/>Circus</i><par n="Barcelona__np"/></e>
     <e lm="Poland"><i>Poland</i><par n="Barcelona__np"/></e>
     <e lm="Port-au-Prince"><i>Port-au-Prince</i><par n="Barcelona__np"/></e>
     <e lm="Portugal"><i>Portugal</i><par n="Barcelona__np"/></e>
@@ -29330,7 +29316,6 @@
     <e lm="Microsoft"><i>Microsoft</i><par n="Linux__np"/></e>
     <e lm="Pacific"><i>Pacific</i><par n="Linux__np"/></e>
     <e lm="Pacific Ocean"><par n="Pp"/><i>acific<b/>Ocean</i><par n="Linux__np"/></e>
-    <e lm="Piccadilly Circus"><i>Piccadilly<b/>Circus</i><par n="Barcelona__np"/></e>
     <e lm="Progressive Party"><par n="Pp"/><i>rogressive<b/>Party</i><par n="Wikimedia__np"/></e>
     <e lm="Repsol"><i>Repsol</i><par n="Linux__np"/></e>
     <e lm="Reuters"><par n="Rr"/><i>euters</i><par n="Linux__np"/></e>
