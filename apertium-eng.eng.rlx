@@ -8,11 +8,20 @@ LIST EOS = (<<<) ;
 SETS
 
 LIST N = n ; 
+LIST Prn = prn ; 
 LIST Det = det ; 
-LIST V = vblex vbser vaux vbhaver vbdo ; 
+LIST Adj = adj ;
+LIST Adv = adv ;
+LIST V = vblex vbser vaux vbmod vbhaver vbdo ; 
+LIST VMOD = vbmod ; 
 
-LIST Fin = pres past ; 
+LIST Sg = sg ;
 LIST Pl = pl ; 
+LIST M = m ;
+LIST F = f ;
+LIST Nt = nt ;
+LIST Mf = mf ;
+LIST Fin = pres past ; 
 
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
@@ -21,3 +30,23 @@ SECTION
 REMOVE Fin IF (-1C Det) ; 
 
 REMOVE Pl IF (0 Letters) ; 
+
+REMOVE (vblex) IF (-1 (gen)) ;
+
+
+REMOVE (preadv) IF (1 (cm)) ;
+
+
+#(by wth)
+REMOVE (vblex inf) IF (-1 BOS) ;
+REMOVE (vbmod inf) IF (-1 BOS) ;
+REMOVE (vaux inf) IF (-1 BOS) ;
+REMOVE (vblex pres) IF (-1 BOS) ;
+REMOVE (vblex pp) IF (-1 BOS) ;
+REMOVE (cnjadv) IF (-1 BOS) ;
+REMOVE (preadv) IF (1 EOS) ;
+REMOVE (vblex pp) IF (-1 (np)) ;
+REMOVE (vblex pp) IF (-1 (prn subj)) ;
+REMOVE (n) IF (-1 ("to" pr)) ;
+REMOVE (vbmod inf) IF (1 (vblex inf)) ;
+REMOVE ("second"i n) IF (1 (n)) ;
