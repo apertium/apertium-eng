@@ -650,12 +650,6 @@
       <e>       <p><l>ose</l>      <r>at<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="second__det">
-      <e>       <p><l></l>         <r><s n="det"/><s n="ord"/><s n="sp"/></r></p></e>
-      <e r="RL"><p><l></l>         <r><s n="det"/><s n="ord"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l>         <r><s n="det"/><s n="ord"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="many__det">
       <e>       <p><l></l>         <r><s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
     </pardef>
@@ -1351,10 +1345,6 @@
       <e r="LR"><p><l>es'</l>      <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
     </pardef>
 
-
-    <pardef n="second__num">
-      <e>       <p><l></l>         <r><s n="num"/><s n="ord"/></r></p></e>
-    </pardef>
 
     <pardef n="one__num">
       <e>       <p><l></l>         <r><s n="num"/><s n="sg"/></r></p></e>
@@ -3317,7 +3307,6 @@
     <e lm="yourselves"><i>yourselves</i><par n="yourselves__prn"/></e>
 
 
-    <e lm="after which"><i>after<b/>which</i><par n="that__rel"/></e>
     <e lm="of which"><p><l>of<b/>which</l><r>of<s n="pr"/><j/>which</r></p><par n="which__rel"/></e>
     <e lm="that"><i>that</i><par n="that__rel"/></e>
     <e lm="the one which"><i>the<b/>one<b/>which</i><par n="what__rel"/></e>
@@ -3351,7 +3340,6 @@
     <e lm="enough"><i>enough</i><par n="enough__det"/></e>
     <e lm="every"><i>every</i><par n="another__det"/></e>
     <e lm="few"><i>few</i><par n="many__det"/></e>
-    <e lm="fewer"><i>fewer</i><par n="many__det"/></e>
     <e lm="less"><i>less</i><par n="much__det"/></e>
     <e lm="lots of"><i>lots<b/>of</i><par n="enough__det"/></e>
     <e lm="many"><i>many</i><par n="many__det"/></e>
@@ -3370,14 +3358,12 @@
     <e lm="such a"><i>such<b/>a</i><par n="another__det"/></e>
     <e lm="that"><i>th</i><par n="th/at__det"/></e>
     <e lm="the"><i>the</i><par n="the__det"/></e>
-    <e lm="the most"><i>the<b/>most</i><par n="enough__det"/></e>
     <e lm="the same"><i>the<b/>same</i><par n="other__det"/></e>
     <e lm="this"><i>th</i><par n="th/is__det"/></e>
     <e lm="too many"><i>too<b/>many</i><par n="many__det"/></e>
     <e lm="too much"><i>too<b/>much</i><par n="much__det"/></e>
     <e lm="various"><i>various</i><par n="several__det"/></e>
     <e lm="what"><i>what</i><par n="what__det"/></e>
-    <e lm="whatever"><i>whatever</i><par n="another__det"/></e>
     <e lm="which"><i>which</i><par n="what__det"/></e>
 
     <e lm="my"><p><l>my</l><r>my<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -3608,7 +3594,6 @@
     <e lm="aging"><i>aging</i><par n="house__n"/></e>
     <e lm="agitation"><i>agitation</i><par n="house__n"/></e>
     <e lm="agitator"><i>agitator</i><par n="house__n"/></e>
-    <e lm="agnation"><i>agnation</i><par n="house__n"/></e>
     <e lm="agnostic"><i>agnostic</i><par n="house__n"/></e>
     <e lm="agony"><i>agon</i><par n="bab/y__n"/></e>
     <e lm="agreement"><i>agreement</i><par n="house__n"/></e>
@@ -3712,6 +3697,7 @@
     <e lm="amendment"><i>amendment</i><par n="house__n"/></e>
     <e lm="American"><par n="Aa"/><i>merican</i><par n="house__n"/></e>
     <e lm="American"><i>American</i><par n="house__n"/></e>
+    <e lm="American English"><i>American<b/>English</i><par n="politics__n"/></e>
     <e lm="American president"><par n="Aa"/><i>merican<b/>president</i><par n="house__n"/></e>
     <e lm="americanism"><i>americanism</i><par n="house__n"/></e>
     <e lm="americium"><i>americium</i><par n="house__n"/></e>
@@ -3898,6 +3884,7 @@
     <e lm="Arab"><par n="Aa"/><i>rab</i><par n="house__n"/></e>
     <e lm="Arabic language"><par n="Aa"/><i>rabic<b/>language</i><par n="house__n"/></e>
     <e lm="Arabic speaker"><par n="Aa"/><i>rabic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Aramean"><i>Aramean</i><par n="house__n"/></e>
     <e lm="arbitrager"><i>arbitrager</i><par n="house__n"/></e>
     <e lm="arbitrariness"><i>arbitrariness</i><par n="access__n"/></e>
     <e lm="arch"><i>arch</i><par n="access__n"/></e>
@@ -4997,7 +4984,7 @@
     <e lm="capitalisation"><i>capitalisation</i><par n="house__n"/></e>
     <e lm="capitalism"><i>capitalism</i><par n="house__n"/></e>
     <e lm="capitalist"><i>capitalist</i><par n="house__n"/></e>
-    <e lm="capitality"><i>capitalit</i><par n="bab/y__n"/></e>
+    <e lm="capitalization"><i>capitalization</i><par n="house__n"/></e>
     <e lm="cappuccino"><i>cappuccino</i><par n="house__n"/></e>
     <e lm="capriciousness"><i>capriciousness</i><par n="access__n"/></e>
     <e lm="capsule"><i>capsule</i><par n="house__n"/></e>
@@ -5795,7 +5782,7 @@
     <e lm="confluence"><i>confluence</i><par n="house__n"/></e>
     <e lm="conformism"><i>conformism</i><par n="house__n"/></e>
     <e lm="conformity"><i>conformit</i><par n="bab/y__n"/></e>
-    <e lm="confrerie"><i>confrerie</i><par n="house__n"/></e>
+    <e lm="confrontation"><i>confrontation</i><par n="house__n"/></e>
     <e lm="confusion"><i>confusion</i><par n="house__n"/></e>
     <e lm="congestion"><i>congestion</i><par n="house__n"/></e>
     <e lm="conglomerate"><i>conglomerate</i><par n="house__n"/></e>
@@ -6068,7 +6055,7 @@
     <e lm="crane"><i>crane</i><par n="house__n"/></e>
     <e lm="crane driver"><i>crane<b/>driver</i><par n="house__n"/></e>
     <e lm="crank"><i>crank</i><par n="house__n"/></e>
-    <e lm="crannock"><i>crannock</i><par n="house__n"/></e>
+    <e lm="cranny"><i>crann</i><par n="bab/y__n"/></e>
     <e lm="crash"><i>crash</i><par n="access__n"/></e>
     <e lm="crash-helmet"><i>crash-helmet</i><par n="house__n"/></e>
     <e lm="crate"><i>crate</i><par n="house__n"/></e>
@@ -6817,6 +6804,7 @@
     <e lm="dot"><i>dot</i><par n="house__n"/></e>
     <e lm="dotage"><i>dotage</i><par n="house__n"/></e>
     <e lm="double bed"><i>double<b/>bed</i><par n="house__n"/></e>
+    <e lm="double meaning"><i>double<b/>meaning</i><par n="house__n"/></e>
     <e lm="double room"><i>double<b/>room</i><par n="house__n"/></e>
     <e lm="double-decker"><i>double-decker</i><par n="house__n"/></e>
     <e lm="doublet"><i>doublet</i><par n="house__n"/></e>
@@ -7476,6 +7464,7 @@
     <e lm="fairyland"><i>fairyland</i><par n="house__n"/></e>
     <e lm="fairytale"><i>fairytale</i><par n="house__n"/></e>
     <e lm="faith"><i>faith</i><par n="house__n"/></e>
+    <e lm="faithfulness"><i>faithfulness</i><par n="access__n"/></e>
     <e lm="fake"><i>fake</i><par n="house__n"/></e>
     <e lm="faker"><i>faker</i><par n="house__n"/></e>
     <e lm="fakir"><i>fakir</i><par n="house__n"/></e>
@@ -8053,7 +8042,6 @@
     <e lm="furrier"><i>furrier</i><par n="house__n"/></e>
     <e lm="further education"><i>further<b/>education</i><par n="house__n"/></e>
     <e lm="further reading"><i>further<b/>reading</i><par n="house__n"/></e>
-    <e lm="furthfullness"><i>furthfullness</i><par n="access__n"/></e>
     <e lm="furtiveness"><i>furtiveness</i><par n="access__n"/></e>
     <e lm="fury"><i>fur</i><par n="bab/y__n"/></e>
     <e lm="fuse"><i>fuse</i><par n="house__n"/></e>
@@ -9175,7 +9163,6 @@
     <e lm="inception"><i>inception</i><par n="house__n"/></e>
     <e lm="incest"><i>incest</i><par n="east__n"/></e>
     <e lm="inch"><i>inch</i><par n="access__n"/></e>
-    <e lm="inchoation"><i>inchoation</i><par n="house__n"/></e>
     <e lm="incidence"><i>incidence</i><par n="house__n"/></e>
     <e lm="incident"><i>incident</i><par n="house__n"/></e>
     <e lm="incineration"><i>incineration</i><par n="house__n"/></e>
@@ -11217,8 +11204,8 @@
     <e lm="official"><i>official</i><par n="house__n"/></e>
     <e lm="official language"><i>official<b/>language</i><par n="house__n"/></e>
     <e lm="officialdom"><i>officialdom</i><par n="house__n"/></e>
-    <e lm="officiality"><i>officialit</i><par n="bab/y__n"/></e>
     <e lm="officiousness"><i>officiousness</i><par n="access__n"/></e>
+    <e lm="offset"><i>offset</i><par n="house__n"/></e>
     <e lm="offside"><i>offside</i><par n="east__n"/></e>
     <e lm="offspring"><i>offspring</i><par n="house__n"/></e>
     <e lm="ogive"><i>ogive</i><par n="house__n"/></e>
@@ -11709,6 +11696,7 @@
     <e lm="peonage"><i>peonage</i><par n="house__n"/></e>
     <e lm="people"><i>people</i><par n="house__n"/></e> <!-- as in 'people', 'peoples' of the world -->
     <e lm="pepper"><i>pepper</i><par n="house__n"/></e>
+    <e lm="peppermint"><i>peppermint</i><par n="house__n"/></e>
     <e lm="perambulation"><i>perambulati</i><par n="criteri/on__n"/></e>
     <e lm="percent"><i>percent</i><par n="house__n"/></e>
     <e lm="percentage"><i>percentage</i><par n="house__n"/></e>
@@ -12993,10 +12981,9 @@
     <e lm="respirator"><i>respirator</i><par n="house__n"/></e>
     <e lm="respiratory tract"><i>respiratory<b/>tract</i><par n="house__n"/></e>
     <e lm="respite"><i>respite</i><par n="house__n"/></e>
-    <e lm="respitory arrest"><i>respitory<b/>arrest</i><par n="house__n"/></e>
-    <e lm="respitory system"><i>respitory<b/>system</i><par n="house__n"/></e>
     <e lm="response"><i>response</i><par n="house__n"/></e>
     <e lm="responsibility"><i>responsibilit</i><par n="bab/y__n"/></e>
+    <e lm="responsible cause"><i>responsible<b/>cause</i><par n="house__n"/></e>
     <e lm="responsiveness"><i>responsiveness</i><par n="house__n"/></e>
     <e lm="rest"><i>rest</i><par n="house__n"/></e>
     <e lm="restaurant"><i>restaurant</i><par n="house__n"/></e>
@@ -13710,7 +13697,7 @@
     <e lm="shed"><i>shed</i><par n="house__n"/></e>
     <e lm="sheep"><i>sheep</i><par n="politics__n"/></e>
     <e lm="sheepdog"><i>sheepdog</i><par n="house__n"/></e>
-    <e lm="sheepshed"><i>sheepshed</i><par n="house__n"/></e>
+    <e lm="sheepshead"><i>sheepshead</i><par n="house__n"/></e>
     <e lm="sheepskin"><i>sheepskin</i><par n="house__n"/></e>
     <e lm="sheet"><i>sheet</i><par n="house__n"/></e>
     <e lm="sheet of paper"><i>sheet</i><par n="house__n"/><p><l><b/>of<b/>paper</l><r><g><b/>of<b/>paper</g></r></p></e>
@@ -15166,7 +15153,7 @@
     <e lm="tithe"><i>tithe</i><par n="house__n"/></e>
     <e lm="titillation"><i>titillati</i><par n="criteri/on__n"/></e>
     <e lm="title"><i>title</i><par n="house__n"/></e>
-    <e lm="titularity"><i>titularit</i><par n="bab/y__n"/></e>
+    <e lm="tizzy"><i>tizz</i><par n="bab/y__n"/></e>
     <e lm="toad"><i>toad</i><par n="house__n"/></e>
     <e lm="toadflax"><i>toadfla</i><par n="appendi/x__n"/></e>
     <e lm="toadstool"><i>toadstool</i><par n="house__n"/></e>
@@ -16227,6 +16214,7 @@
     <e lm="wire fence"><i>wire<b/>fence</i><par n="house__n"/></e>
     <e lm="wireless"><i>wireless</i><par n="east__n"/></e>
     <e lm="wisdom"><i>wisdom</i><par n="house__n"/></e>
+    <e lm="wisdom tooth"><i>wisdom<b/>t</i><par n="t/ooth__n"/></e>
     <e lm="wise person"><i>wise<b/>person</i><par n="house__n"/></e>
     <e lm="wisecrack"><i>wisecrack</i><par n="house__n"/></e>
     <e lm="wish"><i>wish</i><par n="access__n"/></e>
@@ -16315,6 +16303,7 @@
     <e lm="worthiness"><i>worthiness</i><par n="access__n"/></e>
     <e lm="worthlessness"><i>worthlessness</i><par n="access__n"/></e>
     <e lm="wound"><i>wound</i><par n="house__n"/></e>
+    <e lm="wrack"><i>wrack</i><par n="house__n"/></e>
     <e lm="wrap"><i>wrap</i><par n="house__n"/></e>
     <e lm="wrapper"><i>wrapper</i><par n="house__n"/></e>
     <e lm="wrapping"><i>wrapping</i><par n="house__n"/></e>
@@ -16399,6 +16388,7 @@
     <e lm="zoning"><i>zoning</i><par n="house__n"/></e>
     <e lm="zoo"><i>zoo</i><par n="house__n"/></e>
     <e lm="zoo-keeper"><i>zoo-keeper</i><par n="house__n"/></e>
+    <e lm="zookeeper"><i>zookeeper</i><par n="house__n"/></e>
     <e lm="zoology"><i>zoology</i><par n="east__n"/></e>
     <e lm="zoophyte"><i>zoophyte</i><par n="house__n"/></e>
     <e lm="zucchini" r="LR"><p><l>zucchini</l><r>courgette</r></p><par n="house__n"/></e>
@@ -16697,19 +16687,15 @@
     <e lm="be called"><i/><par n="/be__vblex"/><p><l><b/>called</l><r><g><b/>called</g></r></p></e>
     <e lm="be consistent"><i/><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
     <e lm="be damned"><i/><par n="/be__vblex"/><p><l><b/>damned</l><r><g><b/>damned</g></r></p></e>
-
-    <e lm="be descended"><i/><par n="/be__vbser"/><p><l><b/>descended</l><r><g><b/>descended</g></r></p></e>
-
+    <e lm="be descended"><i/><par n="/be__vblex"/><p><l><b/>descended</l><r><g><b/>descended</g></r></p></e>
     <e lm="be hesitant" r="RL"><par n="/be__vblex"/><p><l><b/>hesitant</l><r><g><b/>hesitant</g></r></p></e>
     <e lm="be hungry"><i/><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be left"><i/><par n="/be__vblex"/><p><l><b/>left</l><r><g><b/>left</g></r></p></e>
     <e lm="be missing"><i/><par n="/be__vblex"/><p><l><b/>missing</l><r><g><b/>missing</g></r></p></e>
-
-    <e lm="be permitted"><i/><par n="/be__vbser"/><p><l><b/>permitted</l><r><g><b/>permitted</g></r></p></e>
-
+    <e lm="be permitted"><i/><par n="/be__vblex"/><p><l><b/>permitted</l><r><g><b/>permitted</g></r></p></e>
     <e lm="be shocked"><i/><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
     <e lm="be stuck"><i/><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
-    <e lm="be worth"><i/><par n="/be__vbser"/><p><l><b/>worth</l><r><g><b/>worth</g></r></p></e>
+    <e lm="be worth"><i/><par n="/be__vblex"/><p><l><b/>worth</l><r><g><b/>worth</g></r></p></e>
     <e lm="bear"><i>b</i><par n="b/ear__vblex"/></e>
     <e lm="beat"><i>b</i><par n="b/eat__vblex"/></e>
     <e lm="become"><i>bec</i><par n="bec/ome__vblex"/></e>
@@ -18671,7 +18657,6 @@
     <e lm="work shifts"><i>work</i><par n="accept__vblex"/><p><l><b/>shifts</l><r><g><b/>shifts</g></r></p></e>
     <e lm="worry"><i>worr</i><par n="appl/y__vblex"/></e>
     <e lm="worsen"><i>worsen</i><par n="accept__vblex"/></e>
-    <e lm="wrack"><i>wrack</i><par n="accept__vblex"/></e>
     <e lm="wrangle"><i>wrangl</i><par n="liv/e__vblex"/></e>
     <e lm="wrap"><i>wrap</i><par n="step__vblex"/></e>
     <e lm="wreak"><i>wr</i><par n="wr/eak__vblex"/></e>
@@ -18679,7 +18664,6 @@
     <e lm="write"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>about</l><r><j/>about<s n="pr"/></r></p></e>
     <e lm="write down"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="writhe"><i>writh</i><par n="liv/e__vblex"/></e>
-    <e lm="wrung"><i>wrung</i><par n="accept__vblex"/></e>
     <e lm="yawn"><i>yawn</i><par n="accept__vblex"/></e>
     <e lm="yelp"><i>yelp</i><par n="accept__vblex"/></e>
     <e lm="yield"><i>yield</i><par n="accept__vblex"/></e>
@@ -18691,8 +18675,10 @@
     <e lm="and"><i>and</i><par n="and__cnjcoo"/></e>
     <e lm="but"><i>but</i><par n="and__cnjcoo"/></e>
     <e lm="but rather"><i>but<b/>rather</i><par n="and__cnjcoo"/></e>
+    <e lm="neither"><i>neither</i><par n="and__cnjcoo"/></e>
     <e lm="nor"><i>nor</i><par n="and__cnjcoo"/></e>
     <e lm="or"><i>or</i><par n="and__cnjcoo"/></e>
+    <e lm="thus"><i>thus</i><par n="and__cnjcoo"/></e>
 
     <e lm="although"><i>although</i><par n="that__cnjsub"/></e>
     <e lm="as"><i>as</i><par n="that__cnjsub"/></e>
@@ -18707,7 +18693,6 @@
     <e lm="less than"><i>less<b/>than</i><par n="that__cnjsub"/></e> <!-- tæpur -->
     <e lm="like"><i>like</i><par n="that__cnjsub"/></e>
     <e lm="more than"><i>more<b/>than</i><par n="that__cnjsub"/></e>
-    <e lm="neither"><i>neither</i><par n="that__cnjsub"/></e>
     <e lm="providing"><i>providing</i><par n="that__cnjsub"/></e>
     <e lm="rather than"><i>rather<b/>than</i><par n="that__cnjsub"/></e>
     <e lm="since"><i>since</i><par n="that__cnjsub"/></e>
@@ -18716,7 +18701,6 @@
     <e lm="than"><i>than</i><par n="that__cnjsub"/></e>
     <e lm="that"><i>that</i><par n="that__cnjsub"/></e>
     <e lm="though"><i>though</i><par n="that__cnjsub"/></e>
-    <e lm="thus"><i>thus</i><par n="that__cnjsub"/></e>
     <e lm="to" r="RL"><i>to</i><par n="that__cnjsub"/></e>
     <e lm="unless"><i>unless</i><par n="that__cnjsub"/></e>
     <e lm="until"><i>until</i><par n="that__cnjsub"/></e>
@@ -18726,6 +18710,7 @@
     <e lm="while"><i>while</i><par n="that__cnjsub"/></e>
 
     <e lm="after"><i>after</i><par n="after__cnjadv"/></e>
+    <e lm="after which"><i>after<b/>which</i><par n="after__cnjadv"/></e>
     <e lm="although"><i>although</i><par n="after__cnjadv"/></e>
     <e lm="as"><i>as</i><par n="after__cnjadv"/></e>
     <e lm="as if" r="RL"><i>as<b/>if</i><par n="after__cnjadv"/></e>
@@ -19031,7 +19016,6 @@
     <e lm="Arab"><par n="Aa"/><i>rab</i><par n="expensive__adj"/></e>
     <e lm="Arabic"><par n="Aa"/><i>rabic</i><par n="expensive__adj"/></e>
     <e lm="Arabic-speaking"><par n="Aa"/><i>rabic-speaking</i><par n="expensive__adj"/></e>
-    <e lm="Aramean"><i>Aramean</i><par n="expensive__adj"/></e>
     <e lm="arbitral"><i>arbitral</i><par n="expensive__adj"/></e>
     <e lm="arbitrary"><i>arbitrary</i><par n="expensive__adj"/></e>
     <e lm="archaeologic"><i>archaeologic</i><par n="expensive__adj"/></e>
@@ -20673,6 +20657,7 @@
     <e lm="lengthy"><i>length</i><par n="happ/y__adj"/></e>
     <e lm="lenient"><i>lenient</i><par n="expensive__adj"/></e>
     <e lm="lesbian"><i>lesbian</i><par n="expensive__adj"/></e>
+    <e lm="less exciting"><i>less<b/>exciting</i><par n="expensive__adj"/></e>
     <e lm="less than" r="RL"><i>less<b/>than</i><par n="expensive__adj"/></e>
     <e lm="lesser"><i>lesser</i><par n="expensive__adj"/></e>
     <e lm="lethal"><i>lethal</i><par n="expensive__adj"/></e>
@@ -21226,7 +21211,6 @@
     <e lm="penniless"><i>penniless</i><par n="expensive__adj"/></e>
     <e lm="pensive"><i>pensive</i><par n="expensive__adj"/></e>
     <e lm="penultimate"><i>penultimate</i><par n="expensive__adj"/></e>
-    <e lm="people's"><i>people's</i><par n="expensive__adj"/></e>
     <e lm="perceivable"><i>perceivable</i><par n="expensive__adj"/></e>
     <e lm="perceptible"><i>perceptible</i><par n="expensive__adj"/></e>
     <e lm="perceptive"><i>perceptive</i><par n="expensive__adj"/></e>
@@ -21519,9 +21503,9 @@
     <e lm="rebellious"><i>rebellious</i><par n="expensive__adj"/></e>
     <e lm="reborn"><i>reborn</i><par n="expensive__adj"/></e>
     <e lm="recent"><i>recent</i><par n="expensive__adj"/></e>
-    <e lm="recently arrived"><i>recently<b/>arrived</i><par n="expensive__adj"/></e>
     <e lm="receptive"><i>receptive</i><par n="expensive__adj"/></e>
     <e lm="recessive"><i>recessive</i><par n="expensive__adj"/></e>
+    <e lm="rechargeable"><i>rechargeable</i><par n="expensive__adj"/></e>
     <e lm="reciprocal"><i>reciprocal</i><par n="expensive__adj"/></e>
     <e lm="reckless"><i>reckless</i><par n="expensive__adj"/></e>
     <e lm="reclusive"><i>reclusive</i><par n="expensive__adj"/></e>
@@ -23531,6 +23515,7 @@
     <e lm="weekly"><i>weekly</i><par n="maybe__adv"/></e>
     <e lm="well"><i>well</i><par n="maybe__adv"/></e>
     <e lm="west"><i>west</i><par n="maybe__adv"/></e>
+    <e lm="whatever"><i>whatever</i><par n="maybe__adv"/></e>
     <e lm="when"><i>when</i><par n="where__adv"/></e>
     <e lm="whence"><i>whence</i><par n="where__adv"/></e>
     <e lm="where"><i>where</i><par n="where__adv"/></e>
@@ -23678,7 +23663,6 @@
     <e lm="for ever"><i>for<b/>ever</i><par n="maybe__adv"/></e>
     <e lm="for ever and ever"><i>for<b/>ever<b/>and<b/>ever</i><par n="maybe__adv"/></e>
     <e lm="for example"><i>for<b/>example</i><par n="maybe__adv"/></e>
-    <e lm="for God's sake"><i>for<b/>God's<b/>sake</i><par n="maybe__adv"/></e>
     <e lm="for life"><i>for<b/>life</i><par n="maybe__adv"/></e>
     <e lm="for many years"><i>for<b/>many<b/>years</i><par n="maybe__adv"/></e>
     <e lm="for nothing"><i>for<b/>nothing</i><par n="maybe__adv"/></e>
@@ -24034,6 +24018,8 @@
     <e lm="week in week out"><i>week<b/>in<b/>week<b/>out</i><par n="maybe__adv"/></e>
     <e lm="what kind of"><i>what<b/>kind<b/>of</i><par n="where__adv"/></e>
     <e lm="whatever happens"><i>whatever<b/>happens</i><par n="maybe__adv"/></e>
+    <e lm="when the time came"><i>when<b/>the<b/>time<b/>came</i><par n="maybe__adv"/></e>
+    <e lm="when the time comes"><i>when<b/>the<b/>time<b/>comes</i><par n="maybe__adv"/></e>
     <e lm="why not"><i>why<b/>not</i><par n="where__adv"/></e>
     <e lm="wide open"><i>wide<b/>open</i><par n="maybe__adv"/></e>
     <e lm="wild guess"><i>wild<b/>guess</i><par n="maybe__adv"/></e>
@@ -24086,9 +24072,6 @@
     <e lm="a thousand"><i>a<b/>thousand</i><par n="million__num"/></e>
     <e lm="eight"><i>eight</i><par n="two__num"/></e>
     <e lm="eighteen"><i>eighteen</i><par n="two__num"/></e>
-    <e lm="eighteenth"><i>eighteenth</i><par n="second__num"/></e>
-    <e lm="eighth"><i>eighth</i><par n="second__num"/></e>
-    <e lm="eightieth"><i>eightieth</i><par n="second__num"/></e>
     <e lm="eighty"><i>eighty</i><par n="twenty__num"/></e>
     <e lm="eighty-eight"><i>eighty-eight</i><par n="two__num"/></e>
     <e lm="eighty-five"><i>eighty-five</i><par n="two__num"/></e>
@@ -24100,11 +24083,7 @@
     <e lm="eighty-three"><i>eighty-three</i><par n="two__num"/></e>
     <e lm="eighty-two"><i>eighty-two</i><par n="two__num"/></e>
     <e lm="eleven"><i>eleven</i><par n="two__num"/></e>
-    <e lm="eleventh"><i>eleventh</i><par n="second__num"/></e>
     <e lm="fifteen"><i>fifteen</i><par n="two__num"/></e>
-    <e lm="fifteenth"><i>fifteenth</i><par n="second__num"/></e>
-    <e lm="fifth"><i>fifth</i><par n="second__num"/></e>
-    <e lm="fiftieth"><i>fiftieth</i><par n="second__num"/></e>
     <e lm="fifty"><i>fifty</i><par n="twenty__num"/></e>
     <e lm="fifty-eight"><i>fifty-eight</i><par n="two__num"/></e>
     <e lm="fifty-five"><i>fifty-five</i><par n="two__num"/></e>
@@ -24115,22 +24094,14 @@
     <e lm="fifty-six"><i>fifty-six</i><par n="two__num"/></e>
     <e lm="fifty-three"><i>fifty-three</i><par n="two__num"/></e>
     <e lm="fifty-two"><i>fifty-two</i><par n="two__num"/></e>
-    <e lm="first"><i>first</i><par n="second__num"/></e>
     <e lm="five"><i>five</i><par n="two__num"/></e>
-    <e lm="fortieth"><i>fortieth</i><par n="second__num"/></e>
     <e lm="forty"><i>forty</i><par n="twenty__num"/></e>
     <e lm="four"><i>four</i><par n="two__num"/></e>
     <e lm="fourteen"><i>fourteen</i><par n="two__num"/></e>
-    <e lm="fourteenth"><i>fourteenth</i><par n="second__num"/></e>
-    <e lm="fourth"><i>fourth</i><par n="second__num"/></e>
     <e lm="hundred" r="RL"><i>hundred</i><par n="two__num"/></e>
-    <e lm="hundredth"><i>hundredth</i><par n="second__num"/></e>
-    <e lm="last"><i>last</i><par n="second__num"/></e>
     <e lm="million"><i>million</i><par n="million__num"/></e>
     <e lm="nine"><i>nine</i><par n="two__num"/></e>
     <e lm="nineteen"><i>nineteen</i><par n="two__num"/></e>
-    <e lm="nineteenth"><i>nineteenth</i><par n="second__num"/></e>
-    <e lm="ninetieth"><i>ninetieth</i><par n="second__num"/></e>
     <e lm="ninety"><i>ninety</i><par n="twenty__num"/></e>
     <e lm="ninety-eight"><i>ninety-eight</i><par n="two__num"/></e>
     <e lm="ninety-five"><i>ninety-five</i><par n="two__num"/></e>
@@ -24141,18 +24112,13 @@
     <e lm="ninety-six"><i>ninety-six</i><par n="two__num"/></e>
     <e lm="ninety-three"><i>ninety-three</i><par n="two__num"/></e>
     <e lm="ninety-two"><i>ninety-two</i><par n="two__num"/></e>
-    <e lm="ninth"><i>ninth</i><par n="second__num"/></e>
     <e lm="one"><i>one</i><par n="one__num"/></e>
     <e lm="one hundred"><i>one<b/>hundred</i><par n="million__num"/></e>
     <e lm="one million"><i>one<b/>million</i><par n="million__num"/></e>
     <e lm="one thousand"><i>one<b/>thousand</i><par n="million__num"/></e>
     <e lm="only one"><i>only<b/>one</i><par n="one__num"/></e>
-    <e lm="second"><i>second</i><par n="second__num"/></e>
     <e lm="seven"><i>seven</i><par n="two__num"/></e>
     <e lm="seventeen"><i>seventeen</i><par n="two__num"/></e>
-    <e lm="seventeenth"><i>seventeenth</i><par n="second__num"/></e>
-    <e lm="seventh"><i>seventh</i><par n="second__num"/></e>
-    <e lm="seventieth"><i>seventieth</i><par n="second__num"/></e>
     <e lm="seventy"><i>seventy</i><par n="twenty__num"/></e>
     <e lm="seventy-eight"><i>seventy-eight</i><par n="two__num"/></e>
     <e lm="seventy-five"><i>seventy-five</i><par n="two__num"/></e>
@@ -24165,9 +24131,6 @@
     <e lm="seventy-two"><i>seventy-two</i><par n="two__num"/></e>
     <e lm="six"><i>six</i><par n="two__num"/></e>
     <e lm="sixteen"><i>sixteen</i><par n="two__num"/></e>
-    <e lm="sixteenth"><i>sixteenth</i><par n="second__num"/></e>
-    <e lm="sixth"><i>sixth</i><par n="second__num"/></e>
-    <e lm="sixtieth"><i>sixtieth</i><par n="second__num"/></e>
     <e lm="sixty"><i>sixty</i><par n="twenty__num"/></e>
     <e lm="sixty-eight"><i>sixty-eight</i><par n="two__num"/></e>
     <e lm="sixty-five"><i>sixty-five</i><par n="two__num"/></e>
@@ -24179,36 +24142,63 @@
     <e lm="sixty-three"><i>sixty-three</i><par n="two__num"/></e>
     <e lm="sixty-two"><i>sixty-two</i><par n="two__num"/></e>
     <e lm="ten"><i>ten</i><par n="two__num"/></e>
-    <e lm="tenth"><i>tenth</i><par n="second__num"/></e>
-    <e lm="third"><i>third</i><par n="second__num"/></e>
     <e lm="thirteen"><i>thirteen</i><par n="two__num"/></e>
-    <e lm="thirteenth"><i>thirteenth</i><par n="second__num"/></e>
-    <e lm="thirtieth"><i>thirtieth</i><par n="second__num"/></e>
     <e lm="thirty"><i>thirty</i><par n="twenty__num"/></e>
-    <e lm="thousandth"><i>thousandth</i><par n="second__num"/></e>
     <e lm="three"><i>three</i><par n="two__num"/></e>
-    <e lm="twelfth"><i>twelfth</i><par n="second__num"/></e>
     <e lm="twelve"><i>twelve</i><par n="two__num"/></e>
-    <e lm="twentieth"><i>twentieth</i><par n="second__num"/></e>
     <e lm="twenty"><i>twenty</i><par n="twenty__num"/></e>
     <e lm="twenty-eight"><i>twenty-eight</i><par n="two__num"/></e>
-    <e lm="twenty-eighth"><i>twenty-eighth</i><par n="second__num"/></e>
-    <e lm="twenty-fifth"><i>twenty-fifth</i><par n="second__num"/></e>
-    <e lm="twenty-first"><i>twenty-first</i><par n="second__num"/></e>
     <e lm="twenty-five"><i>twenty-five</i><par n="two__num"/></e>
     <e lm="twenty-four"><i>twenty-four</i><par n="two__num"/></e>
     <e lm="twenty-nine"><i>twenty-nine</i><par n="two__num"/></e>
-    <e lm="twenty-ninth"><i>twenty-ninth</i><par n="second__num"/></e>
     <e lm="twenty-one"><i>twenty-one</i><par n="two__num"/></e>
-    <e lm="twenty-second"><i>twenty-second</i><par n="second__num"/></e>
     <e lm="twenty-seven"><i>twenty-seven</i><par n="two__num"/></e>
-    <e lm="twenty-seventh"><i>twenty-seventh</i><par n="second__num"/></e>
     <e lm="twenty-six"><i>twenty-six</i><par n="two__num"/></e>
-    <e lm="twenty-sixth"><i>twenty-sixth</i><par n="second__num"/></e>
-    <e lm="twenty-third"><i>twenty-third</i><par n="second__num"/></e>
     <e lm="twenty-three"><i>twenty-three</i><par n="two__num"/></e>
     <e lm="twenty-two"><i>twenty-two</i><par n="two__num"/></e>
     <e lm="two"><i>two</i><par n="two__num"/></e>
+
+
+    <!-- Ordinals -->
+
+    <e lm="eighteenth"><i>eighteenth</i><par n="second__adj"/></e>
+    <e lm="eighth"><i>eighth</i><par n="second__adj"/></e>
+    <e lm="eightieth"><i>eightieth</i><par n="second__adj"/></e>
+    <e lm="eleventh"><i>eleventh</i><par n="second__adj"/></e>
+    <e lm="fifteenth"><i>fifteenth</i><par n="second__adj"/></e>
+    <e lm="fifth"><i>fifth</i><par n="second__adj"/></e>
+    <e lm="fiftieth"><i>fiftieth</i><par n="second__adj"/></e>
+    <e lm="first"><i>first</i><par n="second__adj"/></e>
+    <e lm="fortieth"><i>fortieth</i><par n="second__adj"/></e>
+    <e lm="fourteenth"><i>fourteenth</i><par n="second__adj"/></e>
+    <e lm="fourth"><i>fourth</i><par n="second__adj"/></e>
+    <e lm="hundredth"><i>hundredth</i><par n="second__adj"/></e>
+    <e lm="last"><i>last</i><par n="second__adj"/></e>
+    <e lm="nineteenth"><i>nineteenth</i><par n="second__adj"/></e>
+    <e lm="ninetieth"><i>ninetieth</i><par n="second__adj"/></e>
+    <e lm="ninth"><i>ninth</i><par n="second__adj"/></e>
+    <e lm="second"><i>second</i><par n="second__adj"/></e>
+    <e lm="seventeenth"><i>seventeenth</i><par n="second__adj"/></e>
+    <e lm="seventh"><i>seventh</i><par n="second__adj"/></e>
+    <e lm="seventieth"><i>seventieth</i><par n="second__adj"/></e>
+    <e lm="sixteenth"><i>sixteenth</i><par n="second__adj"/></e>
+    <e lm="sixth"><i>sixth</i><par n="second__adj"/></e>
+    <e lm="sixtieth"><i>sixtieth</i><par n="second__adj"/></e>
+    <e lm="tenth"><i>tenth</i><par n="second__adj"/></e>
+    <e lm="third"><i>third</i><par n="second__adj"/></e>
+    <e lm="thirteenth"><i>thirteenth</i><par n="second__adj"/></e>
+    <e lm="thirtieth"><i>thirtieth</i><par n="second__adj"/></e>
+    <e lm="thousandth"><i>thousandth</i><par n="second__adj"/></e>
+    <e lm="twelfth"><i>twelfth</i><par n="second__adj"/></e>
+    <e lm="twentieth"><i>twentieth</i><par n="second__adj"/></e>
+    <e lm="twenty-eighth"><i>twenty-eighth</i><par n="second__adj"/></e>
+    <e lm="twenty-fifth"><i>twenty-fifth</i><par n="second__adj"/></e>
+    <e lm="twenty-first"><i>twenty-first</i><par n="second__adj"/></e>
+    <e lm="twenty-ninth"><i>twenty-ninth</i><par n="second__adj"/></e>
+    <e lm="twenty-second"><i>twenty-second</i><par n="second__adj"/></e>
+    <e lm="twenty-seventh"><i>twenty-seventh</i><par n="second__adj"/></e>
+    <e lm="twenty-sixth"><i>twenty-sixth</i><par n="second__adj"/></e>
+    <e lm="twenty-third"><i>twenty-third</i><par n="second__adj"/></e>
 
 
     <!-- SECTION: Interjections -->
@@ -24264,11 +24254,11 @@
     <e lm="better late than never"><i>better<b/>late<b/>than<b/>never</i><par n="hello__ij"/></e>
     <e lm="better safe than sorry"><i>better<b/>safe<b/>than<b/>sorry</i><par n="hello__ij"/></e>
     <e lm="brain is better than brawn"><i>brain<b/>is<b/>better<b/>than<b/>brawn</i><par n="hello__ij"/></e>
-    <e lm="don't count your chickens"><i>don't<b/>count<b/>your<b/>chickens</i><par n="hello__ij"/></e>
     <e lm="don't count your chickens before they're hatched"><i>don't<b/>count<b/>your<b/>chickens<b/>before<b/>they're<b/>hatched</i><par n="hello__ij"/></e>
     <e lm="every cloud has a silver lining"><i>every<b/>cloud<b/>has<b/>a<b/>silver<b/>lining</i><par n="hello__ij"/></e>
     <e lm="excuse me"><i>excuse<b/>me</i><par n="hello__ij"/></e>
     <e lm="fools rush in where angels fear to tread"><i>fools<b/>rush<b/>in<b/>where<b/>angels<b/>fear<b/>to<b/>tread</i><par n="hello__ij"/></e>
+    <e lm="for God's sake"><i>for<b/>God's<b/>sake</i><par n="hello__ij"/></e>
     <e lm="good morning"><i>good<b/>morning</i><par n="hello__ij"/></e>
     <e lm="half a loaf is better than no bread"><i>half<b/>a<b/>loaf<b/>is<b/>better<b/>than<b/>no<b/>bread</i><par n="hello__ij"/></e>
     <e lm="happy birthday"><i>happy<b/>birthday</i><par n="hello__ij"/></e>
@@ -24312,8 +24302,6 @@
     <e lm="we all make mistakes"><i>we<b/>all<b/>make<b/>mistakes</i><par n="hello__ij"/></e>
     <e lm="when in Rome do as the Romans do"><i>when<b/>in<b/>Rome<b/>do<b/>as<b/>the<b/>Romans<b/>do</i><par n="hello__ij"/></e>
     <e lm="when the cat's away the mice will play"><i>when<b/>the<b/>cat's<b/>away<b/>the<b/>mice<b/>will<b/>play</i><par n="hello__ij"/></e>
-    <e lm="when the time came"><i>when<b/>the<b/>time<b/>came</i><par n="hello__ij"/></e>
-    <e lm="when the time comes"><i>when<b/>the<b/>time<b/>comes</i><par n="hello__ij"/></e>
     <e lm="you can lead o take a horse to water but you can't make it drink"><i>you<b/>can<b/>lead<b/>o<b/>take<b/>a<b/>horse<b/>to<b/>water<b/>but<b/>you<b/>can't<b/>make<b/>it<b/>drink</i><par n="hello__ij"/></e>
     <e lm="you can't judge a book by its cover"><i>you<b/>can't<b/>judge<b/>a<b/>book<b/>by<b/>its<b/>cover</i><par n="hello__ij"/></e>
     <e lm="you can't make a silk purse out of a sow's ear"><i>you<b/>can't<b/>make<b/>a<b/>silk<b/>purse<b/>out<b/>of<b/>a<b/>sow's<b/>ear</i><par n="hello__ij"/></e>
