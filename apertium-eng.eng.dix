@@ -678,6 +678,18 @@
       <e>       <p><l></l>         <r><s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="prpos__det">
+      <e>       <p><l>my</l>       <r>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>your</l>     <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e>       <p><l>his</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>her</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>its</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>       <p><l>our</l>      <r>prpers<s n="det"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>your</l>     <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>their</l>    <r>prpers<s n="det"/><s n="pos"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e>       <p><l>your</l>     <r>prpers<s n="det"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
 
     <pardef n="at__pr">
       <e>       <p><l></l>         <r><s n="pr"/></r></p></e>
@@ -3230,6 +3242,7 @@
     <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
     <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
     <e lm="possessive pronoun"><i></i><par n="prpos__prn"/></e>
+    <e lm="possessive determinter"><i></i><par n="prpos__det"/></e>
 
 
 
@@ -31100,7 +31113,6 @@
     <e lm="Unix"><i>Unix</i><par n="Linux__np"/></e>
     <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
     <e lm="Wikipedia"><par n="Ww"/><i>ikipedia</i><par n="Wikipedia__np"/></e>
-
 
   </section>
 
