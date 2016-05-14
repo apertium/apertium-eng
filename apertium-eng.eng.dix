@@ -7513,6 +7513,7 @@
     <e lm="farm"><i>farm</i><par n="house__n"/></e>
     <e lm="farm-worker"><i>farm-worker</i><par n="house__n"/></e>
     <e lm="farmer"><i>farmer</i><par n="house__n"/></e>
+    <e lm="farmer's wife"><i>farmer's<b/>wi</i><par n="li/fe__n"/></e>
     <e lm="farmhouse"><i>farmhouse</i><par n="house__n"/></e>
     <e lm="farming"><i>farming</i><par n="house__n"/></e>
     <e lm="farmyard"><i>farmyard</i><par n="house__n"/></e>
@@ -13904,6 +13905,7 @@
     <e lm="sitter"><i>sitter</i><par n="house__n"/></e>
     <e lm="sitting-room"><i>sitting-room</i><par n="house__n"/></e>
     <e lm="situation"><i>situation</i><par n="house__n"/></e>
+    <e lm="sixpenny"><i>sixpen</i><par n="pen/ny__n"/></e>
     <e lm="size"><i>size</i><par n="house__n"/></e>
     <e lm="skateboard"><i>skateboard</i><par n="house__n"/></e>
     <e lm="skater"><i>skater</i><par n="house__n"/></e>
@@ -15101,6 +15103,7 @@
     <e lm="thrall"><i>thrall</i><par n="house__n"/></e>
     <e lm="thread"><i>thread</i><par n="house__n"/></e>
     <e lm="threat"><i>threat</i><par n="house__n"/></e>
+    <e lm="threepenny"><i>threepen</i><par n="pen/ny__n"/></e>
     <e lm="threshold"><i>threshold</i><par n="house__n"/></e>
     <e lm="thrift"><i>thrift</i><par n="house__n"/></e>
     <e lm="thrill"><i>thrill</i><par n="house__n"/></e>
@@ -15179,6 +15182,7 @@
     <e lm="toaster"><i>toaster</i><par n="house__n"/></e>
     <e lm="tobacco"><i>tobacco</i><par n="archipelago__n"/></e>
     <e lm="tobacconist"><i>tobacconist</i><par n="house__n"/></e>
+    <e lm="today"><i>today</i><par n="house__n"/></e>
     <e lm="toddler"><i>toddler</i><par n="house__n"/></e>
     <e lm="toddy"><i>todd</i><par n="bab/y__n"/></e>
     <e lm="toe"><i>toe</i><par n="house__n"/></e>
@@ -18570,7 +18574,6 @@
     <e lm="turn"><i>turn</i><par n="accept__vblex"/></e>
     <e lm="turn into"><i>turn</i><par n="accept__vblex"/><p><l><b/>into</l><r><g><b/>into</g></r></p></e>
     <e lm="turn left"><i>turn</i><par n="accept__vblex"/><p><l><b/>left</l><r><g><b/>left</g></r></p></e>
-    <e lm="turn off"><i>turn</i><par n="accept__vblex__sep"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn off"><i>turn</i><par n="accept__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn on"><i>turn</i><par n="accept__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
     <e lm="turn out"><i>turn</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
@@ -23022,7 +23025,6 @@
     <e lm="flawlessly"><i>flawlessly</i><par n="maybe__adv"/></e>
     <e lm="fondly"><i>fondly</i><par n="maybe__adv"/></e>
     <e lm="foolishly"><i>foolishly</i><par n="maybe__adv"/></e>
-    <e lm="for"><i>for</i><par n="maybe__adv"/></e>
     <e lm="formally"><i>formally</i><par n="maybe__adv"/></e>
     <e lm="former"><i>former</i><par n="maybe__adv"/></e>
     <e lm="formerly"><i>formerly</i><par n="maybe__adv"/></e>
