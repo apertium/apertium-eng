@@ -14,6 +14,7 @@ LIST Adj = adj ;
 LIST Adv = adv ;
 LIST V = vblex vbser vaux vbmod vbhaver vbdo ; 
 LIST VMOD = vbmod ; 
+SET vInf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ; 
@@ -38,9 +39,11 @@ REMOVE (preadv) IF (1 (cm)) ;
 
 
 #(by wth)
-REMOVE (vblex inf) IF (-1 BOS) ;
-REMOVE (vbmod inf) IF (-1 BOS) ;
-REMOVE (vaux inf) IF (-1 BOS) ;
+#REMOVE (vblex inf) IF (-1 BOS) ;
+#REMOVE (vbmod inf) IF (-1 BOS) ;
+#REMOVE (vaux inf) IF (-1 BOS) ;
+#REMOVE (vbhaver inf) IF (-1 BOS) ;
+REMOVE vInf IF (-1 BOS) ;
 REMOVE (vblex pres) IF (-1 BOS) ;
 REMOVE (vblex pp) IF (-1 BOS) ;
 REMOVE (cnjadv) IF (-1 BOS) ;
