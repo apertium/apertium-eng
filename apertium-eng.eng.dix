@@ -389,13 +389,6 @@
     </pardef>
 
 
-    <pardef n="m_f_mf__sg">
-      <e>       <p><l></l>          <r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l>          <r><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l>          <r><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
-
-
     <pardef n="/I__prn">
       <e>       <p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
@@ -3233,7 +3226,6 @@
     <!-- SECTION: Pronouns -->
 
     <e lm="all"><i>all</i><par n="all__prn"/></e>
-    <e lm="another"><i>another</i><par n="everyone__prn"/></e>
     <e lm="another one"><i>another<b/>one</i><par n="everyone__prn"/></e>
     <e lm="any"><i>any</i><par n="all__prn"/></e>
     <e lm="any one"><i>any<b/>one</i><par n="everyone__prn"/></e>
@@ -3357,14 +3349,14 @@
     <e lm="too much"><i>too<b/>much</i><par n="much__det"/></e>
     <e lm="various"><i>various</i><par n="several__det"/></e>
 
-    <e lm="my"><p><l>my</l><r>my<s n="det"/><s n="pos"/></r></p><par n="m_f_mf__sg"/></e>
-    <e lm="your"><p><l>your</l><r>your<s n="det"/><s n="pos"/></r></p><par n="m_f_mf__sg"/></e>
-    <e lm="his"><p><l>his</l><r>his<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="her"><p><l>her</l><r>her<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="its"><p><l>its</l><r>its<s n="det"/><s n="pos"/><s n="nt"/><s n="sg"/></r></p></e>
-    <e lm="our"><p><l>our</l><r>our<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e lm="your"><p><l>your</l><r>your<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-    <e lm="their"><p><l>their</l><r>their<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="my"><i>my</i><par n="her__det"/></e>
+    <e lm="your"><i>your</i><par n="her__det"/></e>
+    <e lm="his"><i>his</i><par n="her__det"/></e>
+    <e lm="her"><i>her</i><par n="her__det"/></e>
+    <e lm="its"><i>its</i><par n="her__det"/></e>
+    <e lm="our"><i>our</i><par n="her__det"/></e>
+    <e lm="your"><i>your</i><par n="her__det"/></e>
+    <e lm="their"><i>their</i><par n="her__det"/></e>
 
 
     <!-- SECTION: Nouns -->
@@ -19230,6 +19222,7 @@
     <e lm="bitter"><i>bitter</i><par n="common/__adj"/></e>
     <e lm="bizarre"><i>bizarre</i><par n="expensive__adj"/></e>
     <e lm="black"><i>black</i><par n="long/__adj"/></e>
+    <e lm="black and white"><i>black<b/>and<b/>white</i><par n="expensive__adj"/></e>
     <e lm="blatant"><i>blatant</i><par n="common/__adj"/></e>
     <e lm="blazing"><i>blazing</i><par n="expensive__adj"/></e>
     <e lm="bleak"><i>bleak</i><par n="long/__adj"/></e>
@@ -23687,6 +23680,7 @@
     <e lm="all the way"><i>all<b/>the<b/>way</i><par n="maybe__adv"/></e>
     <e lm="almost exclusively"><i>almost<b/>exclusively</i><par n="maybe__adv"/></e>
     <e lm="amid a lot of hype"><i>amid<b/>a<b/>lot<b/>of<b/>hype</i><par n="maybe__adv"/></e>
+    <e lm="among each other"><i>among<b/>each<b/>other</i><par n="maybe__adv"/></e>
     <e lm="any longer"><i>any<b/>longer</i><par n="maybe__adv"/></e>
     <e lm="any moment"><i>any<b/>moment</i><par n="maybe__adv"/></e>
     <e lm="any more"><i>any<b/>more</i><par n="maybe__adv"/></e>
