@@ -39,6 +39,7 @@ REMOVE (preadv) IF (1 (cm)) ;
 
 
 #(by wth)
+#SELECT (vblex imp) IF (-1 BOS) ;
 #REMOVE (vblex inf) IF (-1 BOS) ;
 #REMOVE (vbmod inf) IF (-1 BOS) ;
 #REMOVE (vaux inf) IF (-1 BOS) ;
@@ -50,8 +51,13 @@ REMOVE (cnjadv) IF (-1 BOS) ;
 REMOVE (preadv) IF (1 EOS) ;
 REMOVE (vblex pp) IF (-1 (np)) ;
 REMOVE (vblex pp) IF (-1 (prn subj)) ;
-REMOVE (n) IF (-1 ("to" pr)) ;
+#-REMOVE (n) IF (-1 ("to" pr)) ;
 REMOVE (vbmod inf) IF (1 (vblex inf)) ;
 REMOVE ("second"i n) IF (1 (n)) ;
 #REMOVE (prn obj) IF (-1 V) (-2 BOS) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
+# one : eins (num) / man (prn)
+SELECT (num) IF (1 (n)) ;
+
+SELECT (adv itg) IF (-1 BOS) ;
+
