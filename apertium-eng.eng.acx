@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <analysis-chars>
-  <!-- Describe equivalent characters in monodices here. See http://wiki.apertium.org/wiki/Acx for more information. -->
+<!-- Make apostrophe variants equal ' -->
+  <char value="'">
+    <equiv-char value="&#x2019;"/>
+    <equiv-char value="&#x2BC;"/>
+    <equiv-char value="&#8217;"/>
+    <equiv-char value="&#39;"/>
+  </char>
+  <char value="&#183;">
+    <equiv-char value="."/>
+  </char>
 </analysis-chars>
-
