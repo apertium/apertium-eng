@@ -3633,6 +3633,7 @@
     <e lm="aggressiveness"><i>aggressiveness</i><par n="access__n"/></e>
     <e lm="aggressor"><i>aggressor</i><par n="house__n"/></e>
     <e lm="aging"><i>aging</i><par n="house__n"/></e>
+    <e lm="packaging"><i>packaging</i><par n="house__n"/></e>
     <e lm="agitation"><i>agitation</i><par n="house__n"/></e>
     <e lm="agitator"><i>agitator</i><par n="house__n"/></e>
     <e lm="agnostic"><i>agnostic</i><par n="house__n"/></e>
@@ -10240,6 +10241,7 @@
     <e lm="lock"><i>lock</i><par n="house__n"/></e>
     <e lm="locker"><i>locker</i><par n="house__n"/></e>
     <e lm="locket"><i>locket</i><par n="house__n"/></e>
+    <e lm="socket"><i>socket</i><par n="house__n"/></e>
     <e lm="lockout"><i>lockout</i><par n="house__n"/></e>
     <e lm="locksmith"><i>locksmith</i><par n="house__n"/></e>
     <e lm="locomotion"><i>locomotion</i><par n="house__n"/></e>
@@ -15568,6 +15570,8 @@
     <e lm="toothpaste"><i>toothpaste</i><par n="house__n"/></e>
     <e lm="toothpick"><i>toothpick</i><par n="house__n"/></e>
     <e lm="top"><i>top</i><par n="house__n"/></e>
+    <e lm="stovetop"><i>stovetop</i><par n="house__n"/></e>
+    <e lm="hob"><i>hob</i><par n="house__n"/></e>
     <e lm="top goalscorer"><i>top<b/>goalscorer</i><par n="house__n"/></e>
     <e lm="topic"><i>topic</i><par n="house__n"/></e>
     <e lm="topic of discussion"><i>topic</i><par n="house__n"/><p><l><b/>of<b/>discussion</l><r><g><b/>of<b/>discussion</g></r></p></e>
@@ -18353,6 +18357,7 @@
     <e lm="participate"><i>participat</i><par n="liv/e__vblex"/></e>
     <e lm="pass"><i>pass</i><par n="approach__vblex"/></e>
     <e c="(GB)" lm="pasteurise"><i>pasteuris</i><par n="liv/e__vblex"/></e>
+    <e c="(GB)" lm="pressurise"><i>pressuris</i><par n="liv/e__vblex"/></e>
     <e lm="patent"><i>patent</i><par n="accept__vblex"/></e>
     <e lm="pause"><i>paus</i><par n="liv/e__vblex"/></e>
     <e lm="pave"><i>pav</i><par n="liv/e__vblex"/></e>
@@ -23950,6 +23955,7 @@
     <e lm="reflexively"><i>reflexively</i><par n="maybe__adv"/></e>
     <e lm="regardless"><i>regardless</i><par n="maybe__adv"/></e>
     <e lm="regularly"><i>regularly</i><par n="maybe__adv"/></e>
+    <e lm="irregularly"><i>irregularly</i><par n="maybe__adv"/></e>
     <e lm="relatively"><i>relatively</i><par n="maybe__adv"/></e>
     <e lm="reliably"><i>reliably</i><par n="maybe__adv"/></e>
     <e lm="religiously"><i>religiously</i><par n="maybe__adv"/></e>
@@ -24915,6 +24921,7 @@
     <!-- SECTION: Interjections -->
 
     <e lm="ah"><i>ah</i><par n="hello__ij"/></e>
+    <e lm="beware"><i>beware</i><par n="hello__ij"/></e>
     <e lm="bang"><i>bang</i><par n="hello__ij"/></e>
     <e lm="bow-wow"><i>bow-wow</i><par n="hello__ij"/></e>
     <e lm="bravo"><i>bravo</i><par n="hello__ij"/></e>
@@ -31717,6 +31724,8 @@
     <e lm="Lleida"><i>Lleida</i><par n="Barcelona__np"/></e>
     <e lm="Loch Ness"><i>Loch<b/>Ness</i><par n="Barcelona__np"/></e>
     <e lm="London"><i>London</i><par n="Barcelona__np"/></e>
+    <e lm="Lagkadikia"><i>Lagkadikia</i><par n="Barcelona__np"/></e>
+    <e lm="Kos"><i>Kos</i><par n="Barcelona__np"/></e>
     <e lm="Thessaloniki"><i>Thessaloniki</i><par n="Barcelona__np"/></e>
     <e lm="Tabernovce"><i>Tabernovce</i><par n="Barcelona__np"/></e>
     <e lm="London Bridge"><i>London<b/>Bridge</i><par n="Barcelona__np"/></e>
