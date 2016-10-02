@@ -20224,6 +20224,7 @@
     <e lm="divisible"><i>divisible</i><par n="expensive__adj"/></e>
     <e lm="divisional"><i>divisional</i><par n="expensive__adj"/></e>
     <e lm="dizzy"><i>dizz</i><par n="happ/y__adj"/></e>
+    <e lm="dizzy" r="RL"><i>dizz</i><par n="bab/y__n"/></e>
     <e lm="dizzying"><i>dizzying</i><par n="expensive__adj"/></e>
     <e lm="docile"><i>docile</i><par n="expensive__adj"/></e>
     <e lm="doctoral"><i>doctoral</i><par n="expensive__adj"/></e>
