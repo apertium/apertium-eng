@@ -3602,6 +3602,7 @@
     <e lm="aeration"><i>aeration</i><par n="house__n"/></e>
     <e c="(GB)" lm="aerial"><i>aerial</i><par n="house__n"/></e>
     <e c="(GB)" lm="aeroplane"><i>aeroplane</i><par n="house__n"/></e>
+    <e lm="airplane" r="LR"><p><l>airplane</l><r>aeroplane</r></p><par n="house__n"/></e>
     <e lm="aerosol"><i>aerosol</i><par n="house__n"/></e>
     <e lm="aerospace"><i>aerospace</i><par n="house__n"/></e>
     <e lm="aesthetics"><i>aesthetics</i><par n="politics__n"/></e>
@@ -3671,7 +3672,6 @@
     <e lm="airmail"><i>airmail</i><par n="house__n"/></e>
     <e lm="airmail letter"><i>airmail<b/>letter</i><par n="house__n"/></e>
     <e lm="airman"><i>airm</i><par n="m/an__n"/></e>
-    <e lm="airplane" r="LR"><p><l>airplane</l><r>aeroplane</r></p><par n="house__n"/></e>
     <e lm="airport"><i>airport</i><par n="house__n"/></e>
     <e lm="airstrike"><i>airstrike</i><par n="house__n"/></e>
     <e lm="airtime"><i>airtime</i><par n="house__n"/></e>
@@ -19388,6 +19388,7 @@
     <e lm="abatable"><i>abatable</i><par n="expensive__adj"/></e>
     <e lm="abdicable"><i>abdicable</i><par n="expensive__adj"/></e>
     <e lm="abdominal"><i>abdominal</i><par n="expensive__adj"/></e>
+    <e lm="halal"><i>halal</i><par n="expensive__adj"/></e>
     <e lm="abducting"><i>abducting</i><par n="expensive__adj"/></e>
     <e lm="able"><i>able</i><par n="nice/__adj"/></e>
     <e lm="abnormal"><i>abnormal</i><par n="expensive__adj"/></e>
