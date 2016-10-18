@@ -18501,6 +18501,7 @@
     <e lm="prevent"><i>prevent</i><par n="accept__vblex"/></e>
     <e lm="price"><i>pric</i><par n="liv/e__vblex"/></e>
     <e lm="print"><i>print</i><par n="accept__vblex"/></e>
+    <e lm="print out"><i>print</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e c="(GB)" lm="prioritise"><i>prioritis</i><par n="liv/e__vblex"/></e>
     <e lm="proceed"><i>proceed</i><par n="accept__vblex"/></e>
     <e lm="process"><i>process</i><par n="approach__vblex"/></e>
@@ -18542,6 +18543,7 @@
     <e lm="put"><i>put</i><par n="cut__vblex"/></e>
     <e lm="put out"><i>put</i><par n="cut__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="put together"><i>put</i><par n="cut__vblex"/><p><l><b/>together</l><r><g><b/>together</g></r></p></e>
+    <e lm="put up"><i>put</i><par n="cut__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="quantify"><i>quantif</i><par n="appl/y__vblex"/></e>
     <e lm="quarrel"><i>quarrel</i><par n="travel__vblex"/></e>
     <e lm="quash"><i>quash</i><par n="approach__vblex"/></e>
