@@ -16983,6 +16983,8 @@
 
     <e lm="do"><i>d</i><par n="d/o__vaux"/></e>
 
+    <e lm="age"><i>ag</i><par n="liv/e__vblex"/></e>
+    <e lm="average"><i>averag</i><par n="liv/e__vblex"/></e>
     <e lm="be" r="RL"><i></i><par n="/be__vblex"/></e> <!-- for subjuncs -->
     <e lm="do" r="RL"><i>d</i><par n="d/o__vblex"/></e>
 
@@ -17741,6 +17743,10 @@
     <e lm="epitomize"><i>epitomiz</i><par n="liv/e__vblex"/></e>
     <e lm="equate"><i>equat</i><par n="liv/e__vblex"/></e>
     <e lm="equip"><i>equip</i><par n="step__vblex"/></e>
+    <e lm="forge"><i>forg</i><par n="liv/e__vblex"/></e>
+    <e lm="leverage"><i>leverag</i><par n="liv/e__vblex"/></e>
+    <e lm="lounge"><i>loung</i><par n="liv/e__vblex"/></e>
+    <e lm="lure"><i>lur</i><par n="liv/e__vblex"/></e>
     <e lm="sip"><i>sip</i><par n="step__vblex"/></e>
     <e lm="eradicate"><i>eradicat</i><par n="liv/e__vblex"/></e>
     <e lm="erase"><i>eras</i><par n="liv/e__vblex"/></e>
