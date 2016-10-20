@@ -1502,7 +1502,7 @@
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="pprs"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="ger"/></r></p></e>
       <e>       <p><l>being</l>    <r>be<s n="vbser"/><s n="subs"/></r></p></e>
-      <e>       <p><l>are</l>       <r>be<s n="vbser"/><s n="pres"/></r></p></e>
+      <e>       <p><l>are</l>      <r>be<s n="vbser"/><s n="pres"/></r></p></e>
       <e>       <p><l>am</l>       <r>be<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>are</l>      <r>be<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>is</l>       <r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -1699,6 +1699,21 @@
       <e>       <p><l></l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
       <e>       <p><l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>ted</l>      <r><s n="vblex"/><s n="past"/></r></p></e>
+    </pardef>
+
+    <pardef n="gibbet__vblex">
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
+      <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="subs"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
+      <e>       <p><l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="past"/></r></p></e>
+      <e r="LR"><p><l>ted</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e r="LR"><p><l>ting</l>     <r><s n="vblex"/><s n="pprs"/></r></p></e>
+      <e r="LR"><p><l>ted</l>      <r><s n="vblex"/><s n="past"/></r></p></e>
     </pardef>
 
     <pardef n="fit__vblex">
@@ -1976,16 +1991,16 @@
     </pardef>
 
     <pardef n="sow__vblex">
-      <e>       <p><l></l>       <r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l></l>       <r><s n="vblex"/><s n="imp"/></r></p></e>
-      <e>       <p><l>n</l>      <r><s n="vblex"/><s n="pp"/></r></p></e>
-      <e>       <p><l>ed</l>     <r><s n="vblex"/><s n="pp"/></r></p></e>
-      <e>       <p><l>ing</l>    <r><s n="vblex"/><s n="pprs"/></r></p></e>
-      <e>       <p><l>ing</l>    <r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>       <p><l>ing</l>    <r><s n="vblex"/><s n="subs"/></r></p></e>
-      <e>       <p><l></l>       <r><s n="vblex"/><s n="pres"/></r></p></e>
-      <e>       <p><l>s</l>      <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ed</l>     <r><s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="imp"/></r></p></e>
+      <e>       <p><l>n</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="pprs"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>       <p><l>ing</l>      <r><s n="vblex"/><s n="subs"/></r></p></e>
+      <e>       <p><l></l>         <r><s n="vblex"/><s n="pres"/></r></p></e>
+      <e>       <p><l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ed</l>       <r><s n="vblex"/><s n="past"/></r></p></e>
     </pardef>
 
     <pardef n="br/ing__vblex">
@@ -2266,14 +2281,14 @@
       <e>       <p><l>ght</l>      <r>ght<s n="vblex"/><s n="inf"/></r></p></e>
       <e>       <p><l>ght</l>      <r>ght<s n="vblex"/><s n="imp"/></r></p></e>
       <e>       <p><l>t</l>        <r>ght<s n="vblex"/><s n="pp"/></r></p></e>
-      <e>       <p><l>ed</l>       <r>ght<s n="vblex"/><s n="pp"/></r></p></e>
+      <e>       <p><l>ghted</l>    <r>ght<s n="vblex"/><s n="pp"/></r></p></e>
       <e>       <p><l>ghting</l>   <r>ght<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>       <p><l>ghting</l>   <r>ght<s n="vblex"/><s n="ger"/></r></p></e>
       <e>       <p><l>ghting</l>   <r>ght<s n="vblex"/><s n="subs"/></r></p></e>
       <e>       <p><l>ght</l>      <r>ght<s n="vblex"/><s n="pres"/></r></p></e>
       <e>       <p><l>ghts</l>     <r>ght<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>       <p><l>t</l>        <r>ght<s n="vblex"/><s n="past"/></r></p></e>
-      <e>       <p><l>ed</l>       <r>ght<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ghted</l>    <r>ght<s n="vblex"/><s n="past"/></r></p></e>
     </pardef>
 
     <pardef n="fl/y__vblex">
@@ -17970,6 +17985,7 @@
     <e lm="get there"><i>g</i><par n="g/et__vblex"/><p><l><b/>there</l><r><g><b/>there</g></r></p></e>
     <e lm="get up"><i>g</i><par n="g/et__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="get windy"><i>g</i><par n="g/et__vblex"/><p><l><b/>windy</l><r><g><b/>windy</g></r></p></e>
+	<e lm="gibbet"><i>gibbet</i><par n="gibbet__vblex"/></e>
     <e lm="giggle"><i>giggl</i><par n="liv/e__vblex"/></e>
     <e lm="gild"><i>gild</i><par n="accept__vblex"/></e>
     <e lm="gird"><i>gird</i><par n="accept__vblex"/></e>
