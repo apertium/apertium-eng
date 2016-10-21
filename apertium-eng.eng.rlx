@@ -8,24 +8,37 @@ LIST EOS = (<<<) ;
 SETS
 
 LIST N = n ; 
+LIST Np = np ;
 LIST Prn = prn ; 
 LIST Det = det ; 
 LIST Adj = adj ;
 LIST Adv = adv ;
-LIST V = vblex vbser vaux vbmod vbhaver vbdo ; 
-LIST Vbmod = vbmod ; 
+LIST Pr = p) ;
+LIST Num = num ;
+LIST Rel = (prn rel) ;
+LIST Ij = ij ;
+LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
+LIST Vblex = vblex ;
+LIST Vbser = vbser ;
+LIST Vbhaver = vbhaver ;
+LIST Vbdo = vbdo ;
+LIST Vbaux = vaux ;
+LIST Vbmod = vbmod ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 
-LIST Can = "can" ; 
 LIST Sg = sg ;
 LIST Pl = pl ; 
+LIST Sp = sp ;
 LIST M = m ;
 LIST F = f ;
 LIST Nt = nt ;
 LIST Mf = mf ;
 LIST Fin = pres past ; 
+SET Pers = (p1) | (p2) | (p3) ;
 
+LIST Can = "can" ; 
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
+
 
 SECTION
 
@@ -35,16 +48,16 @@ REMOVE Pl IF (0 Letters) ;
 
 REMOVE (vblex) IF (-1 (gen)) ;
 
-
 REMOVE (preadv) IF (1 (cm)) ;
+
+SELECT Vbmod IF (0 Can) (1 Inf) ;
 
 
 #(by wth)
-#SELECT (vblex imp) IF (-1 BOS) ;
-#REMOVE (vblex inf) IF (-1 BOS) ;
-#REMOVE (vbmod inf) IF (-1 BOS) ;
-#REMOVE (vaux inf) IF (-1 BOS) ;
-#REMOVE (vbhaver inf) IF (-1 BOS) ;
+
+# one : eins (num) / man (prn)
+SELECT (num) IF (1 (n)) ;
+
 REMOVE Inf IF (-1 BOS) ;
 REMOVE (vblex pres) IF (-1 BOS) ;
 REMOVE (vblex pp) IF (-1 BOS) ;
@@ -52,14 +65,10 @@ REMOVE (cnjadv) IF (-1 BOS) ;
 REMOVE (preadv) IF (1 EOS) ;
 REMOVE (vblex pp) IF (-1 (np)) ;
 REMOVE (vblex pp) IF (-1 (prn subj)) ;
-#-REMOVE (n) IF (-1 ("to" pr)) ;
 REMOVE (vbmod inf) IF (1 (vblex inf)) ;
 REMOVE ("second"i n) IF (1 (n)) ;
 #REMOVE (prn obj) IF (-1 V) (-2 BOS) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
-# one : eins (num) / man (prn)
-SELECT (num) IF (1 (n)) ;
 
 SELECT (adv itg) IF (-1 BOS) ;
-
-SELECT Vbmod IF (0 Can) (1 Inf) ;
+SELECT V IF (-1 (prn pers)) ;
