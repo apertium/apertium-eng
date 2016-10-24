@@ -3474,6 +3474,7 @@
     <e lm="abbot"><i>abbot</i><par n="house__n"/></e>
     <e lm="abbreviation"><i>abbreviation</i><par n="house__n"/></e>
     <e lm="abdication"><i>abdication</i><par n="house__n"/></e>
+    <e lm="abdication of the throne"><i>abdication</i><par n="house__n"/><p><l><b/>of<b/>the<b/>throne</l><r><g><b/>of<b/>the<b/>throne</g></r></p></e>
     <e lm="abdomen"><i>abdomen</i><par n="house__n"/></e>
     <e lm="abductor"><i>abductor</i><par n="house__n"/></e>
     <e lm="aberration"><i>aberration</i><par n="house__n"/></e>
@@ -3555,6 +3556,7 @@
     <e lm="accusative"><i>accusative</i><par n="house__n"/></e>
     <e lm="accusative case"><i>accusative<b/>case</i><par n="house__n"/></e>
     <e lm="ace"><i>ace</i><par n="house__n"/></e>
+    <e lm="ace of diamonds"><i>ace</i><par n="house__n"/><p><l><b/>of<b/>diamonds</l><r><g><b/>of<b/>diamonds</g></r></p></e>
     <e lm="ache"><i>ache</i><par n="house__n"/></e>
     <e lm="achievement"><i>achievement</i><par n="house__n"/></e>
     <e lm="acid"><i>acid</i><par n="house__n"/></e>
@@ -3574,9 +3576,11 @@
     <e lm="acronym"><i>acronym</i><par n="house__n"/></e>
     <e lm="act"><i>act</i><par n="house__n"/></e>
     <e lm="act of parliament"><i>act</i><par n="house__n"/><p><l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
+    <e lm="act of revenge"><i>act</i><par n="house__n"/><p><l><b/>of<b/>revenge</l><r><g><b/>of<b/>revenge</g></r></p></e>
     <e lm="acting"><i>acting</i><par n="house__n"/></e>
     <e lm="action"><i>action</i><par n="house__n"/></e>
     <e lm="action movie"><i>action<b/>movie</i><par n="house__n"/></e>
+    <e lm="action of light"><i>action</i><par n="house__n"/><p><l><b/>of<b/>light</l><r><g><b/>of<b/>light</g></r></p></e>
     <e lm="active voice"><i>active<b/>voice</i><par n="house__n"/></e>
     <e lm="activism"><i>activism</i><par n="house__n"/></e>
     <e lm="activist"><i>activist</i><par n="house__n"/></e>
@@ -3639,6 +3643,7 @@
     <e lm="adventurousness"><i>adventurousness</i><par n="access__n"/></e>
     <e lm="adverb"><i>adverb</i><par n="house__n"/></e>
     <e lm="adverb of manner"><i>adverb</i><par n="house__n"/><p><l><b/>of<b/>manner</l><r><g><b/>of<b/>manner</g></r></p></e>
+    <e lm="adverb of place"><i>adverb</i><par n="house__n"/><p><l><b/>of<b/>place</l><r><g><b/>of<b/>place</g></r></p></e>
     <e lm="adversary"><i>adversar</i><par n="bab/y__n"/></e>
     <e lm="adversity"><i>adversit</i><par n="bab/y__n"/></e>
     <e lm="advert"><i>advert</i><par n="house__n"/></e>
@@ -3811,6 +3816,8 @@
     <e lm="amortisation"><i>amortisation</i><par n="house__n"/></e>
     <e lm="amortization"><i>amortization</i><par n="house__n"/></e>
     <e lm="amount"><i>amount</i><par n="house__n"/></e>
+    <e lm="amount of data"><i>amount</i><par n="house__n"/><p><l><b/>of<b/>data</l><r><g><b/>of<b/>data</g></r></p></e>
+    <e lm="amount of precipitation"><i>amount</i><par n="house__n"/><p><l><b/>of<b/>precipitation</l><r><g><b/>of<b/>precipitation</g></r></p></e>
     <e lm="amoxicillin"><i>amoxicillin</i><par n="house__n"/></e>
     <e lm="ampere"><i>ampere</i><par n="house__n"/></e>
     <e lm="amphibian"><i>amphibian</i><par n="house__n"/></e>
@@ -4008,6 +4015,9 @@
     <e lm="ardor"><i>ardor</i><par n="house__n"/></e>
     <e lm="ardour"><i>ardour</i><par n="house__n"/></e>
     <e lm="area"><i>area</i><par n="house__n"/></e>
+    <e lm="area of application"><i>area</i><par n="house__n"/><p><l><b/>of<b/>application</l><r><g><b/>of<b/>application</g></r></p></e>
+    <e lm="area of cultivation"><i>area</i><par n="house__n"/><p><l><b/>of<b/>cultivation</l><r><g><b/>of<b/>cultivation</g></r></p></e>
+    <e lm="area of low pressure"><i>area</i><par n="house__n"/><p><l><b/>of<b/>low<b/>pressure</l><r><g><b/>of<b/>low<b/>pressure</g></r></p></e>
     <e lm="arena"><i>arena</i><par n="house__n"/></e>
     <e lm="Argentinian"><par n="Aa"/><i>rgentinian</i><par n="house__n"/></e>
     <e lm="argument"><i>argument</i><par n="house__n"/></e>
@@ -4035,6 +4045,7 @@
     <e lm="aromatherapy"><i>aromatherap</i><par n="bab/y__n"/></e>
     <e lm="arrangement"><i>arrangement</i><par n="house__n"/></e>
     <e lm="array"><i>array</i><par n="house__n"/></e>
+    <e lm="array of products"><i>array</i><par n="house__n"/><p><l><b/>of<b/>products</l><r><g><b/>of<b/>products</g></r></p></e>
     <e lm="arrears"><i>arrears</i><par n="personnel__n"/></e>
     <e lm="arrest"><i>arrest</i><par n="house__n"/></e>
     <e lm="arrested person"><i>arrested<b/>p</i><par n="p/erson__n"/></e>
@@ -4049,12 +4060,15 @@
     <e lm="art gallery"><i>art<b/>galler</i><par n="bab/y__n"/></e>
     <e lm="art history"><i>art<b/>histor</i><par n="bab/y__n"/></e>
     <e lm="art museum"><i>art<b/>museum</i><par n="house__n"/></e>
+    <e lm="art of dancing"><i>art</i><par n="house__n"/><p><l><b/>of<b/>dancing</l><r><g><b/>of<b/>dancing</g></r></p></e>
     <e lm="art work"><i>art<b/>work</i><par n="house__n"/></e>
     <e lm="arteriosclerosis"><i>arteriosclerosis</i><par n="politics__n"/></e>
     <e lm="artery"><i>arter</i><par n="bab/y__n"/></e>
     <e lm="arthropod"><i>arthropod</i><par n="house__n"/></e>
     <e lm="artichoke"><i>artichoke</i><par n="house__n"/></e>
     <e lm="article"><i>article</i><par n="house__n"/></e>
+    <e lm="article of clothing"><i>article</i><par n="house__n"/><p><l><b/>of<b/>clothing</l><r><g><b/>of<b/>clothing</g></r></p></e>
+    <e lm="article of value"><i>article</i><par n="house__n"/><p><l><b/>of<b/>value</l><r><g><b/>of<b/>value</g></r></p></e>
     <e lm="articulation"><i>articulation</i><par n="house__n"/></e>
     <e c="(US)" lm="artifact"><i>artifact</i><par n="house__n"/></e>
     <e lm="artificial intelligence"><i>artificial<b/>intelligence</i><par n="house__n"/></e>
@@ -4103,9 +4117,12 @@
     <e c="(GB)" lm="assistant"><i>assistant</i><par n="house__n"/></e>
     <e lm="assistant director"><i>assistant<b/>director</i><par n="house__n"/></e>
     <e lm="association"><i>association</i><par n="house__n"/></e>
+    <e lm="association of ideas"><i>association</i><par n="house__n"/><p><l><b/>of<b/>ideas</l><r><g><b/>of<b/>ideas</g></r></p></e>
+    <e lm="association of manufacturers"><i>association</i><par n="house__n"/><p><l><b/>of<b/>manufacturers</l><r><g><b/>of<b/>manufacturers</g></r></p></e>
     <e lm="assonance"><i>assonance</i><par n="house__n"/></e>
     <e lm="assortment"><i>assortment</i><par n="house__n"/></e>
     <e lm="assumption"><i>assumption</i><par n="house__n"/></e>
+    <e lm="assumption of office"><i>assumption</i><par n="house__n"/><p><l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
     <e c="(GB)" lm="assurance"><i>assurance</i><par n="house__n"/></e>
     <e lm="assuredness"><i>assuredness</i><par n="access__n"/></e>
     <e lm="astatine"><i>astatine</i><par n="house__n"/></e>
@@ -4228,6 +4245,7 @@
     <e c="(GB)" lm="axe"><i>axe</i><par n="house__n"/></e>
     <e lm="axiom"><i>axiom</i><par n="house__n"/></e>
     <e lm="axis"><i>ax</i><par n="analys/is__n"/></e>
+    <e lm="axis of the earth"><i>ax</i><par n="analys/is__n"/><p><l><b/>of<b/>the<b/>earth</l><r><g><b/>of<b/>the<b/>earth</g></r></p></e>
     <e lm="axle"><i>axle</i><par n="house__n"/></e>
     <e lm="Ayamara"><par n="Aa"/><i>ymara</i><par n="east__n"/></e>
     <e lm="ayran"><i>ayran</i><par n="house__n"/></e>
@@ -4286,6 +4304,7 @@
     <e lm="baker"><i>baker</i><par n="house__n"/></e>
     <e lm="bakery"><i>baker</i><par n="bab/y__n"/></e>
     <e lm="balance"><i>balance</i><par n="house__n"/></e>
+    <e lm="balance of account"><i>balance</i><par n="house__n"/><p><l><b/>of<b/>account</l><r><g><b/>of<b/>account</g></r></p></e>
     <e lm="balcony"><i>balcon</i><par n="bab/y__n"/></e>
     <e lm="baldness"><i>baldness</i><par n="east__n"/></e>
     <e lm="bale"><i>bale</i><par n="house__n"/></e>
@@ -4385,6 +4404,7 @@
     <e lm="basilisk"><i>basilisk</i><par n="house__n"/></e>
     <e lm="basin"><i>basin</i><par n="house__n"/></e>
     <e lm="basis"><i>bas</i><par n="analys/is__n"/></e>
+    <e lm="basis of life"><i>bas</i><par n="analys/is__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
     <e lm="basket"><i>basket</i><par n="house__n"/></e>
     <e lm="basket-ball"><i>basket-ball</i><par n="house__n"/></e>
     <e lm="basketball"><i>basketball</i><par n="house__n"/></e>
@@ -4397,6 +4417,7 @@
     <e lm="bassoon"><i>bassoon</i><par n="house__n"/></e>
     <e lm="bat"><i>bat</i><par n="house__n"/></e>
     <e lm="batch"><i>batch</i><par n="access__n"/></e>
+    <e lm="batch of documents"><i>batch</i><par n="access__n"/><p><l><b/>of<b/>documents</l><r><g><b/>of<b/>documents</g></r></p></e>
     <e lm="bath"><i>bath</i><par n="house__n"/></e>
     <e lm="bath oil"><i>bath<b/>oil</i><par n="house__n"/></e>
     <e lm="bathing suit"><i>bathing<b/>suit</i><par n="house__n"/></e>
@@ -4647,6 +4668,7 @@
     <e lm="blizzard"><i>blizzard</i><par n="house__n"/></e>
     <e lm="bloc"><i>bloc</i><par n="house__n"/></e>
     <e lm="block"><i>block</i><par n="house__n"/></e>
+    <e lm="block of shares"><i>block</i><par n="house__n"/><p><l><b/>of<b/>shares</l><r><g><b/>of<b/>shares</g></r></p></e>
     <e lm="blockade"><i>blockade</i><par n="house__n"/></e>
     <e lm="blocker"><i>blocker</i><par n="house__n"/></e>
     <e lm="blonde"><i>blonde</i><par n="house__n"/></e>
@@ -4677,6 +4699,8 @@
     <e lm="board"><i>board</i><par n="house__n"/></e>
     <e lm="board game"><i>board<b/>game</i><par n="house__n"/></e>
     <e lm="board meeting"><i>board<b/>meeting</i><par n="house__n"/></e>
+    <e lm="board of directors"><i>board</i><par n="house__n"/><p><l><b/>of<b/>directors</l><r><g><b/>of<b/>directors</g></r></p></e>
+    <e lm="board of trustees"><i>board</i><par n="house__n"/><p><l><b/>of<b/>trustees</l><r><g><b/>of<b/>trustees</g></r></p></e>
     <e lm="boarder"><i>boarder</i><par n="house__n"/></e>
     <e lm="boarding card"><i>boarding<b/>card</i><par n="house__n"/></e>
     <e lm="boarding-card" r="LR"><p><l>boarding-card</l><r>boarding card</r></p><par n="house__n"/></e>
@@ -4718,11 +4742,14 @@
     <e lm="bombing"><i>bombing</i><par n="house__n"/></e>
     <e lm="bond"><i>bond</i><par n="house__n"/></e>
     <e lm="bone"><i>bone</i><par n="house__n"/></e>
+    <e lm="bone of contention"><i>bone</i><par n="house__n"/><p><l><b/>of<b/>contention</l><r><g><b/>of<b/>contention</g></r></p></e>
     <e lm="bonfire"><i>bonfire</i><par n="house__n"/></e>
     <e c="(GB)" lm="bonnet"><i>bonnet</i><par n="house__n"/></e>
     <e lm="bonus"><i>bonus</i><par n="access__n"/></e>
     <e lm="book"><i>book</i><par n="house__n"/></e>
     <e lm="book learning"><i>book<b/>learning</i><par n="house__n"/></e>
+    <e lm="book of reference"><i>book</i><par n="house__n"/><p><l><b/>of<b/>reference</l><r><g><b/>of<b/>reference</g></r></p></e>
+    <e lm="book of stamps"><i>book</i><par n="house__n"/><p><l><b/>of<b/>stamps</l><r><g><b/>of<b/>stamps</g></r></p></e>
     <e lm="book review"><i>book<b/>review</i><par n="house__n"/></e>
     <e lm="book shop"><i>book<b/>shop</i><par n="house__n"/></e>
     <e lm="book-keeper"><i>book-keeper</i><par n="house__n"/></e>
@@ -4777,6 +4804,7 @@
     <e lm="boundary"><i>boundar</i><par n="bab/y__n"/></e>
     <e lm="bounty"><i>bount</i><par n="bab/y__n"/></e>
     <e c="(US)" lm="bouquet"><i>bouquet</i><par n="house__n"/></e>
+    <e lm="bouquet of flowers"><i>bouquet</i><par n="house__n"/><p><l><b/>of<b/>flowers</l><r><g><b/>of<b/>flowers</g></r></p></e>
     <e lm="bourgeoisie"><i>bourgeoisie</i><par n="house__n"/></e>
     <e lm="bourse"><i>bourse</i><par n="house__n"/></e>
     <e lm="bout"><i>bout</i><par n="house__n"/></e>
@@ -4818,6 +4846,7 @@
     <e lm="brambling"><i>brambling</i><par n="house__n"/></e>
     <e lm="bran"><i>br</i><par n="m/an__n"/></e>
     <e lm="branch"><i>branch</i><par n="access__n"/></e>
+    <e lm="branch of industry"><i>branch</i><par n="access__n"/><p><l><b/>of<b/>industry</l><r><g><b/>of<b/>industry</g></r></p></e>
     <e lm="brand"><i>brand</i><par n="house__n"/></e>
     <e lm="brandy"><i>brand</i><par n="bab/y__n"/></e>
     <e lm="brass"><i>brass</i><par n="access__n"/></e>
@@ -4941,6 +4970,7 @@
     <e lm="buffet"><i>buffet</i><par n="house__n"/></e>
     <e lm="buffoon"><i>buffoon</i><par n="house__n"/></e>
     <e lm="bug"><i>bug</i><par n="house__n"/></e>
+    <e lm="bug of the family Cimicidae"><i>bug</i><par n="house__n"/><p><l><b/>of<b/>the<b/>family<b/>Cimicidae</l><r><g><b/>of<b/>the<b/>family<b/>Cimicidae</g></r></p></e>
     <e lm="bugbear"><i>bugbear</i><par n="house__n"/></e>
     <e lm="bugler"><i>bugler</i><par n="house__n"/></e>
     <e lm="build"><i>build</i><par n="house__n"/></e>
@@ -4965,7 +4995,9 @@
     <e lm="bumblebee"><i>bumblebee</i><par n="house__n"/></e>
     <e lm="bump"><i>bump</i><par n="house__n"/></e>
     <e c="(GB)" lm="bunch"><i>bunch</i><par n="access__n"/></e>
+    <e lm="bunch of keys"><i>bunch</i><par n="access__n"/><p><l><b/>of<b/>keys</l><r><g><b/>of<b/>keys</g></r></p></e>
     <e lm="bundle"><i>bundle</i><par n="house__n"/></e>
+    <e lm="bundle of papers"><i>bundle</i><par n="house__n"/><p><l><b/>of<b/>papers</l><r><g><b/>of<b/>papers</g></r></p></e>
     <e lm="bung"><i>bung</i><par n="house__n"/></e>
     <e lm="bungalow"><i>bungalow</i><par n="house__n"/></e>
     <e lm="bungler"><i>bungler</i><par n="house__n"/></e>
@@ -5288,6 +5320,7 @@
     <e lm="causality"><i>causalit</i><par n="bab/y__n"/></e>
     <e lm="causation"><i>causation</i><par n="house__n"/></e>
     <e lm="cause"><i>cause</i><par n="house__n"/></e>
+    <e lm="cause of death"><i>cause</i><par n="house__n"/><p><l><b/>of<b/>death</l><r><g><b/>of<b/>death</g></r></p></e>
     <e lm="cauterization"><i>cauterization</i><par n="house__n"/></e>
     <e lm="caution"><i>caution</i><par n="house__n"/></e>
     <e lm="cavalcade"><i>cavalcade</i><par n="house__n"/></e>
@@ -5325,6 +5358,7 @@
     <e lm="cemetery"><i>cemeter</i><par n="bab/y__n"/></e>
     <e lm="censer"><i>censer</i><par n="house__n"/></e>
     <e lm="censorship"><i>censorship</i><par n="house__n"/></e>
+    <e lm="censorship of the press"><i>censorship</i><par n="house__n"/><p><l><b/>of<b/>the<b/>press</l><r><g><b/>of<b/>the<b/>press</g></r></p></e>
     <e lm="cent"><i>cent</i><par n="house__n"/></e>
     <e lm="centennial"><i>centennial</i><par n="house__n"/></e>
     <e lm="center" r="LR"><p><l>center</l><r>centre</r></p><par n="house__n"/></e>
@@ -5339,6 +5373,9 @@
     <e lm="centralism"><i>centralism</i><par n="house__n"/></e>
     <e c="(GB)" lm="centre"><i>centre</i><par n="house__n"/></e>
     <e c="(GB)" lm="centre circle"><i>centre<b/>circle</i><par n="house__n"/></e>
+    <e lm="centre of competence"><i>centre</i><par n="house__n"/><p><l><b/>of<b/>competence</l><r><g><b/>of<b/>competence</g></r></p></e>
+    <e lm="centre of curvature"><i>centre</i><par n="house__n"/><p><l><b/>of<b/>curvature</l><r><g><b/>of<b/>curvature</g></r></p></e>
+    <e lm="centre of gravity"><i>centre</i><par n="house__n"/><p><l><b/>of<b/>gravity</l><r><g><b/>of<b/>gravity</g></r></p></e>
     <e lm="centrifuge"><i>centrifuge</i><par n="house__n"/></e>
     <e lm="century"><i>centur</i><par n="bab/y__n"/></e>
     <e lm="cereal"><i>cereal</i><par n="house__n"/></e>
@@ -5346,6 +5383,9 @@
     <e lm="cerium"><i>cerium</i><par n="house__n"/></e>
     <e lm="certainty"><i>certaint</i><par n="bab/y__n"/></e>
     <e lm="certificate"><i>certificate</i><par n="house__n"/></e>
+    <e lm="certificate of achievement"><i>certificate</i><par n="house__n"/><p><l><b/>of<b/>achievement</l><r><g><b/>of<b/>achievement</g></r></p></e>
+    <e lm="certificate of appointment"><i>certificate</i><par n="house__n"/><p><l><b/>of<b/>appointment</l><r><g><b/>of<b/>appointment</g></r></p></e>
+    <e lm="certificate of deposit"><i>certificate</i><par n="house__n"/><p><l><b/>of<b/>deposit</l><r><g><b/>of<b/>deposit</g></r></p></e>
     <e lm="certification"><i>certification</i><par n="house__n"/></e>
     <e lm="certitude"><i>certitude</i><par n="house__n"/></e>
     <e lm="cerulean warbler"><i>cerulean<b/>warbler</i><par n="house__n"/></e>
@@ -5357,6 +5397,7 @@
     <e lm="chaffinch"><i>chaffinch</i><par n="access__n"/></e>
     <e lm="chai"><i>chai</i><par n="house__n"/></e>
     <e lm="chain"><i>chain</i><par n="house__n"/></e>
+    <e lm="chain of office"><i>chain</i><par n="house__n"/><p><l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
     <e lm="chainsaw"><i>chainsaw</i><par n="house__n"/></e>
     <e lm="chair"><i>chair</i><par n="house__n"/></e>
     <e lm="chairman"><i>chairm</i><par n="m/an__n"/></e>
@@ -5369,18 +5410,21 @@
     <e lm="challenger"><i>challenger</i><par n="house__n"/></e>
     <e lm="chamber"><i>chamber</i><par n="house__n"/></e>
     <e lm="chamber music"><i>chamber<b/>music</i><par n="house__n"/></e>
+    <e lm="chamber of commerce"><i>chamber</i><par n="house__n"/><p><l><b/>of<b/>commerce</l><r><g><b/>of<b/>commerce</g></r></p></e>
     <e lm="chamfer"><i>chamfer</i><par n="house__n"/></e>
     <e lm="chamois"><i>chamois</i><par n="politics__n"/></e>
     <e lm="champagne"><i>champagne</i><par n="house__n"/></e>
     <e lm="champion"><i>champion</i><par n="house__n"/></e>
     <e lm="championship"><i>championship</i><par n="house__n"/></e>
     <e lm="chance"><i>chance</i><par n="house__n"/></e>
+    <e lm="chance of success"><i>chance</i><par n="house__n"/><p><l><b/>of<b/>success</l><r><g><b/>of<b/>success</g></r></p></e>
     <e lm="chancellery"><i>chanceller</i><par n="bab/y__n"/></e>
     <e lm="chancellor"><i>chancellor</i><par n="house__n"/></e>
     <e lm="chancellorship"><i>chancellorship</i><par n="house__n"/></e>
     <e lm="chancery"><i>chancer</i><par n="bab/y__n"/></e>
     <e lm="chandelier"><i>chandelier</i><par n="house__n"/></e>
     <e lm="change"><i>change</i><par n="house__n"/></e>
+    <e lm="change in equity"><i>change</i><par n="house__n"/><p><l><b/>in<b/>equity</l><r><g><b/>in<b/>equity</g></r></p></e>
     <e lm="changelessness"><i>changelessness</i><par n="access__n"/></e>
     <e lm="changing room"><i>changing<b/>room</i><par n="house__n"/></e>
     <e lm="channel"><i>channel</i><par n="house__n"/></e>
@@ -5562,6 +5606,8 @@
     <e lm="cinnamon"><i>cinnamon</i><par n="house__n"/></e>
     <e lm="cipher"><i>cipher</i><par n="house__n"/></e>
     <e lm="circle"><i>circle</i><par n="house__n"/></e>
+    <e lm="circle of experts"><i>circle</i><par n="house__n"/><p><l><b/>of<b/>experts</l><r><g><b/>of<b/>experts</g></r></p></e>
+    <e lm="circle of latitude"><i>circle</i><par n="house__n"/><p><l><b/>of<b/>latitude</l><r><g><b/>of<b/>latitude</g></r></p></e>
     <e lm="circuit"><i>circuit</i><par n="house__n"/></e>
     <e lm="circular"><i>circular</i><par n="house__n"/></e>
     <e lm="circulation"><i>circulation</i><par n="house__n"/></e>
@@ -5571,6 +5617,7 @@
     <e lm="circumstance"><i>circumstance</i><par n="house__n"/></e>
     <e lm="circus"><i>circus</i><par n="access__n"/></e>
     <e lm="cirrhosis"><i>cirrhosis</i><par n="politics__n"/></e>
+    <e lm="cirrhosis of the liver"><i>cirrhosis</i><par n="politics__n"/><p><l><b/>of<b/>the<b/>liver</l><r><g><b/>of<b/>the<b/>liver</g></r></p></e>
     <e lm="cirrus"><i>cirrus</i><par n="politics__n"/></e>
     <e lm="cistern"><i>cistern</i><par n="house__n"/></e>
     <e lm="citadel"><i>citadel</i><par n="house__n"/></e>
@@ -5605,6 +5652,7 @@
     <e lm="clash"><i>clash</i><par n="access__n"/></e>
     <e lm="clasp"><i>clasp</i><par n="house__n"/></e>
     <e lm="class"><i>class</i><par n="access__n"/></e>
+    <e lm="class of population"><i>class</i><par n="access__n"/><p><l><b/>of<b/>population</l><r><g><b/>of<b/>population</g></r></p></e>
     <e lm="class period"><i>class<b/>period</i><par n="house__n"/></e>
     <e lm="class room"><i>class<b/>room</i><par n="house__n"/></e>
     <e lm="class teacher"><i>class<b/>teacher</i><par n="house__n"/></e>
@@ -5671,6 +5719,7 @@
     <e lm="clothesline"><i>clothesline</i><par n="house__n"/></e>
     <e lm="clothing"><i>clothing</i><par n="house__n"/></e>
     <e lm="cloud"><i>cloud</i><par n="house__n"/></e>
+    <e lm="cloud of smoke"><i>cloud</i><par n="house__n"/><p><l><b/>of<b/>smoke</l><r><g><b/>of<b/>smoke</g></r></p></e>
     <e lm="cloudburst"><i>cloudburst</i><par n="house__n"/></e>
     <e lm="cloudiness"><i>cloudiness</i><par n="access__n"/></e>
     <e lm="clout"><i>clout</i><par n="house__n"/></e>
@@ -5766,6 +5815,8 @@
     <e lm="colleague"><i>colleague</i><par n="house__n"/></e>
     <e lm="collectible"><i>collectible</i><par n="house__n"/></e>
     <e lm="collection"><i>collection</i><par n="house__n"/></e>
+    <e lm="collection of fairytales"><i>collection</i><par n="house__n"/><p><l><b/>of<b/>fairytales</l><r><g><b/>of<b/>fairytales</g></r></p></e>
+    <e lm="collection of pictures"><i>collection</i><par n="house__n"/><p><l><b/>of<b/>pictures</l><r><g><b/>of<b/>pictures</g></r></p></e>
     <e lm="collection of poetry"><i>collection</i><par n="house__n"/><p><l><b/>of<b/>poetry</l><r><g><b/>of<b/>poetry</g></r></p></e>
     <e lm="collectivity"><i>collectivit</i><par n="bab/y__n"/></e>
     <e lm="collectivization"><i>collectivization</i><par n="house__n"/></e>
@@ -5789,6 +5840,7 @@
     <e lm="colossus"><i>colossus</i><par n="access__n"/></e>
     <e c="(GB)" lm="colour"><i>colour</i><par n="house__n"/></e>
     <e c="(GB)" lm="colour film"><i>colour<b/>film</i><par n="house__n"/></e>
+    <e lm="colour of the skin"><i>colour</i><par n="house__n"/><p><l><b/>of<b/>the<b/>skin</l><r><g><b/>of<b/>the<b/>skin</g></r></p></e>
     <e c="(GB)" lm="coloured pencil"><i>coloured<b/>pencil</i><par n="house__n"/></e>
     <e lm="column"><i>column</i><par n="house__n"/></e>
     <e lm="columnist"><i>columnist</i><par n="house__n"/></e>
@@ -5813,6 +5865,8 @@
     <e lm="commander"><i>commander</i><par n="house__n"/></e>
     <e lm="commandment"><i>commandment</i><par n="house__n"/></e>
     <e lm="commando"><i>commando</i><par n="house__n"/></e>
+    <e lm="commemoration"><i>commemoration</i><par n="house__n"/></e>
+    <e lm="commemoration of the dead"><i>commemoration</i><par n="house__n"/><p><l><b/>of<b/>the<b/>dead</l><r><g><b/>of<b/>the<b/>dead</g></r></p></e>
     <e lm="commencement"><i>commencement</i><par n="house__n"/></e>
     <e lm="commendation"><i>commendation</i><par n="house__n"/></e>
     <e lm="commensal"><i>commensal</i><par n="house__n"/></e>
@@ -5848,6 +5902,7 @@
     <e lm="communist"><i>communist</i><par n="house__n"/></e>
     <e lm="communist party"><i>communist<b/>part</i><par n="bab/y__n"/></e>
     <e lm="community"><i>communit</i><par n="bab/y__n"/></e>
+    <e lm="community of states"><i>communit</i><par n="bab/y__n"/><p><l><b/>of<b/>states</l><r><g><b/>of<b/>states</g></r></p></e>
     <e lm="commutation"><i>commutation</i><par n="house__n"/></e>
     <e lm="commute"><i>commute</i><par n="house__n"/></e>
     <e lm="commuter"><i>commuter</i><par n="house__n"/></e>
@@ -5899,6 +5954,8 @@
     <e lm="compulsory education"><i>compulsory<b/>education</i><par n="east__n"/></e>
     <e lm="compulsory stop"><i>compulsory<b/>stop</i><par n="east__n"/></e>
     <e lm="compunction"><i>compunction</i><par n="house__n"/></e>
+    <e lm="computation"><i>computation</i><par n="house__n"/></e>
+    <e lm="computation of time"><i>computation</i><par n="house__n"/><p><l><b/>of<b/>time</l><r><g><b/>of<b/>time</g></r></p></e>
     <e lm="computer"><i>computer</i><par n="house__n"/></e>
     <e lm="computer game"><i>computer<b/>game</i><par n="house__n"/></e>
     <e lm="computer mouse"><i>computer<b/>m</i><par n="m/ouse__n"/></e>
@@ -5918,6 +5975,7 @@
     <e lm="conceit"><i>conceit</i><par n="east__n"/></e>
     <e lm="concentration"><i>concentration</i><par n="house__n"/></e>
     <e lm="concept"><i>concept</i><par n="house__n"/></e>
+    <e lm="concept of mobility"><i>concept</i><par n="house__n"/><p><l><b/>of<b/>mobility</l><r><g><b/>of<b/>mobility</g></r></p></e>
     <e lm="conception"><i>conception</i><par n="house__n"/></e>
     <e lm="concern"><i>concern</i><par n="house__n"/></e>
     <e lm="concert"><i>concert</i><par n="house__n"/></e>
@@ -6040,12 +6098,14 @@
     <e lm="consulate"><i>consulate</i><par n="house__n"/></e>
     <e lm="consultant"><i>consultant</i><par n="house__n"/></e>
     <e lm="consultation"><i>consultation</i><par n="house__n"/></e>
+    <e lm="consultation of workers by management"><i>consultation</i><par n="house__n"/><p><l><b/>of<b/>workers<b/>by<b/>management</l><r><g><b/>of<b/>workers<b/>by<b/>management</g></r></p></e>
     <e lm="consulting"><i>consulting</i><par n="house__n"/></e>
     <e lm="consumer"><i>consumer</i><par n="house__n"/></e>
     <e lm="consumer right"><i>consumer<b/>right</i><par n="house__n"/></e>
     <e lm="consumerism"><i>consumerism</i><par n="house__n"/></e>
     <e lm="consummation"><i>consummation</i><par n="house__n"/></e>
     <e lm="consumption"><i>consumption</i><par n="house__n"/></e>
+    <e lm="consumption of alcohol"><i>consumption</i><par n="house__n"/><p><l><b/>of<b/>alcohol</l><r><g><b/>of<b/>alcohol</g></r></p></e>
     <e lm="contact"><i>contact</i><par n="house__n"/></e>
     <e lm="contagion"><i>contagion</i><par n="house__n"/></e>
     <e lm="container"><i>container</i><par n="house__n"/></e>
@@ -6071,6 +6131,7 @@
     <e lm="contrabass"><i>contrabass</i><par n="access__n"/></e>
     <e lm="contrabassoon"><i>contrabassoon</i><par n="house__n"/></e>
     <e lm="contract"><i>contract</i><par n="house__n"/></e>
+    <e lm="contract of sale"><i>contract</i><par n="house__n"/><p><l><b/>of<b/>sale</l><r><g><b/>of<b/>sale</g></r></p></e>
     <e lm="contractor"><i>contractor</i><par n="house__n"/></e>
     <e lm="contracture"><i>contracture</i><par n="house__n"/></e>
     <e lm="contradiction"><i>contradiction</i><par n="house__n"/></e>
@@ -6128,6 +6189,7 @@
     <e lm="copula"><i>copula</i><par n="house__n"/></e>
     <e lm="copulation"><i>copulation</i><par n="house__n"/></e>
     <e lm="copy"><i>cop</i><par n="bab/y__n"/></e>
+    <e lm="copy of certificates"><i>cop</i><par n="bab/y__n"/><p><l><b/>of<b/>certificates</l><r><g><b/>of<b/>certificates</g></r></p></e>
     <e lm="copycat"><i>copycat</i><par n="house__n"/></e>
     <e lm="copyist"><i>copyist</i><par n="house__n"/></e>
     <e lm="copyright"><i>copyright</i><par n="house__n"/></e>
@@ -6140,6 +6202,7 @@
     <e lm="corn oil"><i>corn<b/>oil</i><par n="house__n"/></e>
     <e lm="corned beef"><i>corned<b/>beef</i><par n="house__n"/></e>
     <e lm="corner"><i>corner</i><par n="house__n"/></e>
+    <e lm="corner of the street"><i>corner</i><par n="house__n"/><p><l><b/>of<b/>the<b/>street</l><r><g><b/>of<b/>the<b/>street</g></r></p></e>
     <e lm="corner shop"><i>corner<b/>shop</i><par n="house__n"/></e>
     <e lm="cornerstone"><i>cornerstone</i><par n="house__n"/></e>
     <e lm="cornflake"><i>cornflake</i><par n="house__n"/></e>
@@ -6169,6 +6232,7 @@
     <e lm="cosmopolitism"><i>cosmopolitism</i><par n="house__n"/></e>
     <e lm="cosmos"><i>cosmos</i><par n="east__n"/></e>
     <e lm="cost"><i>cost</i><par n="house__n"/></e>
+    <e lm="cost of living"><i>cost</i><par n="house__n"/><p><l><b/>of<b/>living</l><r><g><b/>of<b/>living</g></r></p></e>
     <e lm="costliness"><i>costliness</i><par n="access__n"/></e>
     <e lm="costume"><i>costume</i><par n="house__n"/></e>
     <e lm="cot"><i>cot</i><par n="house__n"/></e>
@@ -6209,6 +6273,8 @@
     <e lm="courgette" r="LR"><i>courgette</i><par n="house__n"/></e>
     <e lm="courier"><i>courier</i><par n="house__n"/></e>
     <e lm="course"><i>course</i><par n="house__n"/></e>
+    <e lm="course of events"><i>course</i><par n="house__n"/><p><l><b/>of<b/>events</l><r><g><b/>of<b/>events</g></r></p></e>
+    <e lm="course of lectures"><i>course</i><par n="house__n"/><p><l><b/>of<b/>lectures</l><r><g><b/>of<b/>lectures</g></r></p></e>
     <e lm="court"><i>court</i><par n="house__n"/></e>
     <e lm="court case"><i>court<b/>case</i><par n="house__n"/></e>
     <e lm="court of arbitration"><i>court</i><par n="house__n"/><p><l><b/>of<b/>arbitration</l><r><g><b/>of<b/>arbitration</g></r></p></e>
@@ -6299,6 +6365,7 @@
     <e lm="cronyism"><i>cronyism</i><par n="house__n"/></e>
     <e lm="crook"><i>crook</i><par n="house__n"/></e>
     <e lm="crop"><i>crop</i><par n="house__n"/></e>
+    <e lm="crop of fruit"><i>crop</i><par n="house__n"/><p><l><b/>of<b/>fruit</l><r><g><b/>of<b/>fruit</g></r></p></e>
     <e lm="croquet"><i>croquet</i><par n="house__n"/></e>
     <e lm="cross"><i>cross</i><par n="access__n"/></e>
     <e lm="cross-roads"><i>cross-roads</i><par n="east__n"/></e>
@@ -6317,6 +6384,7 @@
     <e lm="crowd"><i>crowd</i><par n="house__n"/></e>
     <e lm="crown"><i>crown</i><par n="house__n"/></e>
     <e lm="Crown Jewel"><i>Crown<b/>Jewel</i><par n="house__n"/></e>
+    <e lm="crown of thorns"><i>crown</i><par n="house__n"/><p><l><b/>of<b/>thorns</l><r><g><b/>of<b/>thorns</g></r></p></e>
     <e lm="crown prince"><i>crown<b/>prince</i><par n="house__n"/></e>
     <e lm="crown princess"><i>crown<b/>princess</i><par n="access__n"/></e>
     <e lm="crucible"><i>crucible</i><par n="house__n"/></e>
@@ -6370,6 +6438,7 @@
     <e lm="cupboard key"><i>cupboard<b/>key</i><par n="house__n"/></e>
     <e lm="cupidity"><i>cupidit</i><par n="bab/y__n"/></e>
     <e lm="curator"><i>curator</i><par n="house__n"/></e>
+    <e lm="curator of the estate"><i>curator</i><par n="house__n"/><p><l><b/>of<b/>the<b/>estate</l><r><g><b/>of<b/>the<b/>estate</g></r></p></e>
     <e lm="cure"><i>cure</i><par n="house__n"/></e>
     <e lm="curfew"><i>curfew</i><par n="house__n"/></e>
     <e lm="curing"><i>curing</i><par n="house__n"/></e>
@@ -6444,6 +6513,7 @@
     <e lm="dandruff"><i>dandruff</i><par n="house__n"/></e>
     <e lm="Dane"><par n="Dd"/><i>ane</i><par n="house__n"/></e>
     <e lm="danger"><i>danger</i><par n="house__n"/></e>
+    <e lm="danger of life"><i>danger</i><par n="house__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
     <e lm="dangerousness"><i>dangerousness</i><par n="access__n"/></e>
     <e lm="Danish"><par n="Dd"/><i>anish</i><par n="Dutch__n"/></e>
     <e lm="dapple"><i>dapple</i><par n="house__n"/></e>
@@ -6461,8 +6531,11 @@
     <e lm="database"><i>database</i><par n="house__n"/></e>
     <e lm="database study"><i>database<b/>stud</i><par n="bab/y__n"/></e>
     <e lm="date"><i>date</i><par n="house__n"/></e>
+    <e lm="date of arrival"><i>date</i><par n="house__n"/><p><l><b/>of<b/>arrival</l><r><g><b/>of<b/>arrival</g></r></p></e>
     <e lm="date of birth"><i>date</i><par n="house__n"/><p><l><b/>of<b/>birth</l><r><g><b/>of<b/>birth</g></r></p></e>
     <e lm="date of delivery"><i>date</i><par n="house__n"/><p><l><b/>of<b/>delivery</l><r><g><b/>of<b/>delivery</g></r></p></e>
+    <e lm="date of expiry"><i>date</i><par n="house__n"/><p><l><b/>of<b/>expiry</l><r><g><b/>of<b/>expiry</g></r></p></e>
+    <e lm="date of minting"><i>date</i><par n="house__n"/><p><l><b/>of<b/>minting</l><r><g><b/>of<b/>minting</g></r></p></e>
     <e lm="dating"><i>dating</i><par n="house__n"/></e>
     <e lm="dative"><i>dative</i><par n="house__n"/></e>
     <e lm="dative case"><i>dative<b/>case</i><par n="house__n"/></e>
@@ -6472,6 +6545,8 @@
     <e lm="day"><i>day</i><par n="house__n"/></e>
     <e lm="day of celebration"><i>day</i><par n="house__n"/><p><l><b/>of<b/>celebration</l><r><g><b/>of<b/>celebration</g></r></p></e>
     <e lm="day of death"><i>day</i><par n="house__n"/><p><l><b/>of<b/>death</l><r><g><b/>of<b/>death</g></r></p></e>
+    <e lm="day of foundation"><i>day</i><par n="house__n"/><p><l><b/>of<b/>foundation</l><r><g><b/>of<b/>foundation</g></r></p></e>
+    <e lm="day of play"><i>day</i><par n="house__n"/><p><l><b/>of<b/>play</l><r><g><b/>of<b/>play</g></r></p></e>
     <e lm="day of rest"><i>day</i><par n="house__n"/><p><l><b/>of<b/>rest</l><r><g><b/>of<b/>rest</g></r></p></e>
     <e lm="day work"><i>day<b/>work</i><par n="house__n"/></e>
     <e lm="day-light"><i>day-light</i><par n="house__n"/></e>
@@ -6532,6 +6607,10 @@
     <e lm="declamation"><i>declamation</i><par n="house__n"/></e>
     <e lm="declarant"><i>declarant</i><par n="house__n"/></e>
     <e lm="declaration"><i>declaration</i><par n="house__n"/></e>
+    <e lm="declaration of bankruptcy"><i>declaration</i><par n="house__n"/><p><l><b/>of<b/>bankruptcy</l><r><g><b/>of<b/>bankruptcy</g></r></p></e>
+    <e lm="declaration of face value"><i>declaration</i><par n="house__n"/><p><l><b/>of<b/>face<b/>value</l><r><g><b/>of<b/>face<b/>value</g></r></p></e>
+    <e lm="declaration of intent"><i>declaration</i><par n="house__n"/><p><l><b/>of<b/>intent</l><r><g><b/>of<b/>intent</g></r></p></e>
+    <e lm="declaration of neutrality"><i>declaration</i><par n="house__n"/><p><l><b/>of<b/>neutrality</l><r><g><b/>of<b/>neutrality</g></r></p></e>
     <e lm="declension"><i>declension</i><par n="house__n"/></e>
     <e lm="decline"><i>decline</i><par n="house__n"/></e>
     <e lm="decoder"><i>decoder</i><par n="house__n"/></e>
@@ -6572,6 +6651,7 @@
     <e lm="degeneration"><i>degeneration</i><par n="house__n"/></e>
     <e lm="degradation"><i>degradation</i><par n="house__n"/></e>
     <e lm="degree"><i>degree</i><par n="house__n"/></e>
+    <e lm="degree of freedom"><i>degree</i><par n="house__n"/><p><l><b/>of<b/>freedom</l><r><g><b/>of<b/>freedom</g></r></p></e>
     <e lm="dehydration"><i>dehydration</i><par n="house__n"/></e>
     <e lm="deism"><i>deism</i><par n="house__n"/></e>
     <e lm="deity"><i>deit</i><par n="bab/y__n"/></e>
@@ -6590,6 +6670,7 @@
     <e lm="delinquency"><i>delinquenc</i><par n="bab/y__n"/></e>
     <e lm="deliverance"><i>deliverance</i><par n="house__n"/></e>
     <e lm="delivery"><i>deliver</i><par n="bab/y__n"/></e>
+    <e lm="delivery of goods"><i>deliver</i><par n="bab/y__n"/><p><l><b/>of<b/>goods</l><r><g><b/>of<b/>goods</g></r></p></e>
     <e lm="delta"><i>delta</i><par n="house__n"/></e>
     <e lm="deluge"><i>deluge</i><par n="house__n"/></e>
     <e lm="delusion"><i>delusion</i><par n="house__n"/></e>
@@ -6645,6 +6726,7 @@
     <e lm="depreciation"><i>depreciation</i><par n="house__n"/></e>
     <e lm="depression"><i>depression</i><par n="house__n"/></e>
     <e lm="deprivation"><i>deprivation</i><par n="house__n"/></e>
+    <e lm="deprivation of liberty"><i>deprivation</i><par n="house__n"/><p><l><b/>of<b/>liberty</l><r><g><b/>of<b/>liberty</g></r></p></e>
     <e lm="depth"><i>depth</i><par n="house__n"/></e>
     <e lm="deputation"><i>deputation</i><par n="house__n"/></e>
     <e c="(US)" lm="deputy"><i>deput</i><par n="bab/y__n"/></e>
@@ -6737,6 +6819,7 @@
     <e lm="dialogue"><i>dialogue</i><par n="house__n"/></e>
     <e lm="dialysis"><i>dialys</i><par n="analys/is__n"/></e>
     <e lm="diameter"><i>diameter</i><par n="house__n"/></e>
+    <e lm="diameter of hole"><i>diameter</i><par n="house__n"/><p><l><b/>of<b/>hole</l><r><g><b/>of<b/>hole</g></r></p></e>
     <e lm="diamond"><i>diamond</i><par n="house__n"/></e>
     <e lm="diamond ring"><i>diamond<b/>ring</i><par n="house__n"/></e>
     <e lm="diaper"><i>diaper</i><par n="house__n"/></e>
@@ -6960,6 +7043,7 @@
     <e lm="doctorate"><i>doctorate</i><par n="house__n"/></e>
     <e lm="doctoring"><i>doctoring</i><par n="east__n"/></e>
     <e lm="doctrine"><i>doctrine</i><par n="house__n"/></e>
+    <e lm="doctrine of predestination"><i>doctrine</i><par n="house__n"/><p><l><b/>of<b/>predestination</l><r><g><b/>of<b/>predestination</g></r></p></e>
     <e lm="document"><i>document</i><par n="house__n"/></e>
     <e lm="documentalist"><i>documentalist</i><par n="house__n"/></e>
     <e lm="documentary"><i>documentar</i><par n="bab/y__n"/></e>
@@ -7088,6 +7172,8 @@
     <e lm="dromedary"><i>dromedar</i><par n="bab/y__n"/></e>
     <e lm="drone"><i>drone</i><par n="house__n"/></e>
     <e lm="drop"><i>drop</i><par n="house__n"/></e>
+    <e lm="drop of bitterness"><i>drop</i><par n="house__n"/><p><l><b/>of<b/>bitterness</l><r><g><b/>of<b/>bitterness</g></r></p></e>
+    <e lm="drop of water"><i>drop</i><par n="house__n"/><p><l><b/>of<b/>water</l><r><g><b/>of<b/>water</g></r></p></e>
     <e lm="dropout"><i>dropout</i><par n="house__n"/></e>
     <e lm="dropper"><i>dropper</i><par n="house__n"/></e>
     <e lm="dropping"><i>dropping</i><par n="house__n"/></e>
@@ -7228,6 +7314,7 @@
     <e lm="eddy"><i>edd</i><par n="bab/y__n"/></e>
     <e lm="edema"><i>edema</i><par n="house__n"/></e>
     <e lm="edge"><i>edge</i><par n="house__n"/></e>
+    <e lm="edge of the circle"><i>edge</i><par n="house__n"/><p><l><b/>of<b/>the<b/>circle</l><r><g><b/>of<b/>the<b/>circle</g></r></p></e>
     <e lm="edginess"><i>edginess</i><par n="access__n"/></e>
     <e lm="edict"><i>edict</i><par n="house__n"/></e>
     <e lm="edification"><i>edification</i><par n="house__n"/></e>
@@ -7292,6 +7379,7 @@
     <e lm="elegance"><i>elegance</i><par n="house__n"/></e>
     <e lm="elegy"><i>eleg</i><par n="bab/y__n"/></e>
     <e lm="element"><i>element</i><par n="house__n"/></e>
+    <e lm="element of a list"><i>element</i><par n="house__n"/><p><l><b/>of<b/>a<b/>list</l><r><g><b/>of<b/>a<b/>list</g></r></p></e>
     <e lm="element symbol"><i>element<b/>symbol</i><par n="house__n"/></e>
     <e c="(US)" lm="elementary school"><i>elementary<b/>school</i><par n="house__n"/></e>
     <e lm="elephant"><i>elephant</i><par n="house__n"/></e>
@@ -7364,12 +7452,14 @@
     <e lm="encyclopedia"><i>encyclopedia</i><par n="house__n"/></e>
     <e lm="end"><i>end</i><par n="house__n"/></e>
     <e lm="end of term"><i>end</i><par n="house__n"/><p><l><b/>of<b/>term</l><r><g><b/>of<b/>term</g></r></p></e>
+    <e lm="end of the month"><i>end</i><par n="house__n"/><p><l><b/>of<b/>the<b/>month</l><r><g><b/>of<b/>the<b/>month</g></r></p></e>
     <e lm="end of the world"><i>end</i><par n="house__n"/><p><l><b/>of<b/>the<b/>world</l><r><g><b/>of<b/>the<b/>world</g></r></p></e>
     <e lm="end of the year"><i>end</i><par n="house__n"/><p><l><b/>of<b/>the<b/>year</l><r><g><b/>of<b/>the<b/>year</g></r></p></e>
     <e lm="end of work"><i>end</i><par n="house__n"/><p><l><b/>of<b/>work</l><r><g><b/>of<b/>work</g></r></p></e>
     <e lm="endearment"><i>endearment</i><par n="house__n"/></e>
     <e lm="endeavour"><i>endeavour</i><par n="house__n"/></e>
     <e lm="ending"><i>ending</i><par n="house__n"/></e>
+    <e lm="ending of a sentence"><i>ending</i><par n="house__n"/><p><l><b/>of<b/>a<b/>sentence</l><r><g><b/>of<b/>a<b/>sentence</g></r></p></e>
     <e lm="endometrium"><i>endometrium</i><par n="house__n"/></e>
     <e lm="endosperm"><i>endosperm</i><par n="house__n"/></e>
     <e lm="endurance"><i>endurance</i><par n="east__n"/></e>
@@ -7493,6 +7583,7 @@
     <e c="(GB)" lm="estate agent"><i>estate<b/>agent</i><par n="house__n"/></e>
     <e lm="esteem"><i>esteem</i><par n="east__n"/></e>
     <e lm="estimate"><i>estimate</i><par n="house__n"/></e>
+    <e lm="estimate of cost"><i>estimate</i><par n="house__n"/><p><l><b/>of<b/>cost</l><r><g><b/>of<b/>cost</g></r></p></e>
     <e lm="estrus"><i>estrus</i><par n="access__n"/></e>
     <e lm="estuary"><i>estuar</i><par n="bab/y__n"/></e>
     <e lm="etcher"><i>etcher</i><par n="house__n"/></e>
@@ -7575,6 +7666,7 @@
     <e lm="exercise book"><i>exercise<b/>book</i><par n="house__n"/></e>
     <e lm="exercise-book"><i>exercise-book</i><par n="house__n"/></e>
     <e lm="exertion"><i>exertion</i><par n="house__n"/></e>
+    <e lm="exertion of influence"><i>exertion</i><par n="house__n"/><p><l><b/>of<b/>influence</l><r><g><b/>of<b/>influence</g></r></p></e>
     <e lm="exhalation"><i>exhalation</i><par n="house__n"/></e>
     <e lm="exhaustion"><i>exhaustion</i><par n="house__n"/></e>
     <e c="(US)" lm="exhibit"><i>exhibit</i><par n="house__n"/></e>
@@ -7758,6 +7850,7 @@
     <e lm="father"><i>father</i><par n="house__n"/></e>
     <e lm="father and son"><p><l>fathers<b/>and<b/>sons</l><r>father<b/>and<b/>son<s n="n"/><s n="pl"/></r></p></e>
     <e lm="Father Christmas"><i>Father<b/>Christmas</i><par n="access__n"/></e>
+    <e lm="father-in-law"><i>father</i><par n="house__n"/><p><l>-in-law</l><r><g>-in-law</g></r></p></e>
     <e lm="fatherhood"><i>fatherhood</i><par n="house__n"/></e>
     <e lm="fatherland"><i>fatherland</i><par n="house__n"/></e>
     <e lm="fathom"><i>fathom</i><par n="house__n"/></e>
@@ -7774,6 +7867,7 @@
     <e lm="favouritism"><i>favouritism</i><par n="house__n"/></e>
     <e lm="fax"><i>fax</i><par n="house__n"/></e>
     <e lm="fear"><i>fear</i><par n="house__n"/></e>
+    <e lm="fear of heights"><i>fear</i><par n="house__n"/><p><l><b/>of<b/>heights</l><r><g><b/>of<b/>heights</g></r></p></e>
     <e lm="fearlessness"><i>fearlessness</i><par n="access__n"/></e>
     <e lm="feasibility"><i>feasibilit</i><par n="bab/y__n"/></e>
     <e lm="feast"><i>feast</i><par n="house__n"/></e>
@@ -7841,6 +7935,11 @@
     <e lm="fief"><i>fief</i><par n="house__n"/></e>
     <e lm="field"><i>field</i><par n="house__n"/></e>
     <e lm="field glass"><i>field<b/>glass</i><par n="access__n"/></e>
+    <e lm="field of activity"><i>field</i><par n="house__n"/><p><l><b/>of<b/>activity</l><r><g><b/>of<b/>activity</g></r></p></e>
+    <e lm="field of fractions"><i>field</i><par n="house__n"/><p><l><b/>of<b/>fractions</l><r><g><b/>of<b/>fractions</g></r></p></e>
+    <e lm="field of interest"><i>field</i><par n="house__n"/><p><l><b/>of<b/>interest</l><r><g><b/>of<b/>interest</g></r></p></e>
+    <e lm="field of study"><i>field</i><par n="house__n"/><p><l><b/>of<b/>study</l><r><g><b/>of<b/>study</g></r></p></e>
+    <e lm="field of work"><i>field</i><par n="house__n"/><p><l><b/>of<b/>work</l><r><g><b/>of<b/>work</g></r></p></e>
     <e lm="field-glass"><i>field-glass</i><par n="access__n"/></e>
     <e lm="fierceness"><i>fierceness</i><par n="access__n"/></e>
     <e lm="fifth"><i>fifth</i><par n="house__n"/></e>
@@ -7852,6 +7951,7 @@
     <e lm="fighting spirit"><i>fighting<b/>spirit</i><par n="house__n"/></e>
     <e lm="figuration"><i>figuration</i><par n="house__n"/></e>
     <e lm="figure"><i>figure</i><par n="house__n"/></e>
+    <e lm="figure of eight"><i>figure</i><par n="house__n"/><p><l><b/>of<b/>eight</l><r><g><b/>of<b/>eight</g></r></p></e>
     <e lm="file"><i>file</i><par n="house__n"/></e>
     <e lm="file system"><i>file<b/>system</i><par n="house__n"/></e>
     <e c="(US)" lm="filet"><i>filet</i><par n="house__n"/></e>
@@ -8123,6 +8223,8 @@
     <e lm="fork"><i>fork</i><par n="house__n"/></e>
     <e lm="forklift"><i>forklift</i><par n="house__n"/></e>
     <e lm="form"><i>form</i><par n="house__n"/></e>
+    <e lm="form of energy"><i>form</i><par n="house__n"/><p><l><b/>of<b/>energy</l><r><g><b/>of<b/>energy</g></r></p></e>
+    <e lm="form of life"><i>form</i><par n="house__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
     <e lm="formalisation"><i>formali</i><par n="globali/sation__n"/></e>
     <e lm="formality"><i>formalit</i><par n="bab/y__n"/></e>
     <e lm="formalization"><i>formalization</i><par n="house__n"/></e>
@@ -8180,6 +8282,7 @@
     <e lm="freedom"><i>freedom</i><par n="house__n"/></e>
     <e lm="freedom hero"><i>freedom<b/>hero</i><par n="access__n"/></e>
     <e lm="freedom of religion"><i>freedom</i><par n="house__n"/><p><l><b/>of<b/>religion</l><r><g><b/>of<b/>religion</g></r></p></e>
+    <e lm="freedom of the press"><i>freedom</i><par n="house__n"/><p><l><b/>of<b/>the<b/>press</l><r><g><b/>of<b/>the<b/>press</g></r></p></e>
     <e lm="freeholder"><i>freeholder</i><par n="house__n"/></e>
     <e lm="freelance work"><i>freelance<b/>work</i><par n="east__n"/></e>
     <e lm="freeway"><i>freeway</i><par n="house__n"/></e>
@@ -8330,6 +8433,10 @@
     <e lm="gambling"><i>gambling</i><par n="house__n"/></e>
     <e lm="gambol"><i>gambol</i><par n="house__n"/></e>
     <e c="(US)" lm="game"><i>game</i><par n="house__n"/></e>
+    <e lm="game of chance"><i>game</i><par n="house__n"/><p><l><b/>of<b/>chance</l><r><g><b/>of<b/>chance</g></r></p></e>
+    <e lm="game of chess"><i>game</i><par n="house__n"/><p><l><b/>of<b/>chess</l><r><g><b/>of<b/>chess</g></r></p></e>
+    <e lm="game of darts"><i>game</i><par n="house__n"/><p><l><b/>of<b/>darts</l><r><g><b/>of<b/>darts</g></r></p></e>
+    <e lm="game of dominoes"><i>game</i><par n="house__n"/><p><l><b/>of<b/>dominoes</l><r><g><b/>of<b/>dominoes</g></r></p></e>
     <e lm="gaming"><i>gaming</i><par n="house__n"/></e>
     <e lm="gamma-ray" r="LR"><p><l>gamma-ray</l><r>gamma ray</r></p><par n="house__n"/></e>
     <e lm="gammaglobulin"><i>gammaglobulin</i><par n="house__n"/></e>
@@ -8575,6 +8682,7 @@
     <e lm="graffiti"><i>graffiti</i><par n="east__n"/></e>
     <e lm="graft"><i>graft</i><par n="house__n"/></e>
     <e lm="grain"><i>grain</i><par n="house__n"/></e>
+    <e lm="grain of sand"><i>grain</i><par n="house__n"/><p><l><b/>of<b/>sand</l><r><g><b/>of<b/>sand</g></r></p></e>
     <e lm="gram"><i>gram</i><par n="house__n"/></e>
     <e lm="grammar"><i>grammar</i><par n="house__n"/></e>
     <e lm="grammar school"><i>grammar<b/>school</i><par n="house__n"/></e>
@@ -8681,12 +8789,14 @@
     <e lm="group"><i>group</i><par n="house__n"/></e>
     <e lm="group leader"><i>group<b/>leader</i><par n="house__n"/></e>
     <e lm="group member"><i>group<b/>member</i><par n="house__n"/></e>
+    <e lm="group of hundred"><i>group</i><par n="house__n"/><p><l><b/>of<b/>hundred</l><r><g><b/>of<b/>hundred</g></r></p></e>
     <e lm="group tour"><i>group<b/>tour</i><par n="house__n"/></e>
     <e lm="grouping"><i>grouping</i><par n="house__n"/></e>
     <e lm="grove"><i>grove</i><par n="house__n"/></e>
     <e lm="grower"><i>grower</i><par n="house__n"/></e>
     <e lm="growl"><i>growl</i><par n="house__n"/></e>
     <e lm="growth"><i>growth</i><par n="house__n"/></e>
+    <e lm="growth of population"><i>growth</i><par n="house__n"/><p><l><b/>of<b/>population</l><r><g><b/>of<b/>population</g></r></p></e>
     <e lm="grudge"><i>grudge</i><par n="house__n"/></e>
     <e lm="grumpiness"><i>grumpiness</i><par n="access__n"/></e>
     <e lm="guarantee"><i>guarantee</i><par n="house__n"/></e>
@@ -8871,6 +8981,7 @@
     <e lm="head"><i>head</i><par n="house__n"/></e>
     <e lm="head of department"><i>head</i><par n="house__n"/><p><l><b/>of<b/>department</l><r><g><b/>of<b/>department</g></r></p></e>
     <e lm="head of government"><i>head</i><par n="house__n"/><p><l><b/>of<b/>government</l><r><g><b/>of<b/>government</g></r></p></e>
+    <e lm="head of personnel"><i>head</i><par n="house__n"/><p><l><b/>of<b/>personnel</l><r><g><b/>of<b/>personnel</g></r></p></e>
     <e lm="head of state"><i>head</i><par n="house__n"/><p><l><b/>of<b/>state</l><r><g><b/>of<b/>state</g></r></p></e>
     <e lm="head office"><i>head<b/>office</i><par n="house__n"/></e>
     <e lm="head quarter"><i>head<b/>quarter</i><par n="house__n"/></e>
@@ -8900,6 +9011,7 @@
     <e lm="healthcare"><i>healthcare</i><par n="house__n"/></e>
     <e lm="healthiness"><i>healthiness</i><par n="access__n"/></e>
     <e lm="heap"><i>heap</i><par n="house__n"/></e>
+    <e lm="heap of rubbish"><i>heap</i><par n="house__n"/><p><l><b/>of<b/>rubbish</l><r><g><b/>of<b/>rubbish</g></r></p></e>
     <e lm="hearer"><i>hearer</i><par n="house__n"/></e>
     <e lm="hearing"><i>hearing</i><par n="house__n"/></e>
     <e lm="hearing aid"><i>hearing<b/>aid</i><par n="house__n"/></e>
@@ -8969,6 +9081,7 @@
     <e lm="herbalist"><i>herbalist</i><par n="house__n"/></e>
     <e lm="herbarium"><i>herbari</i><par n="maxim/um__n"/></e>
     <e lm="herd"><i>herd</i><par n="house__n"/></e>
+    <e lm="herd of cattle"><i>herd</i><par n="house__n"/><p><l><b/>of<b/>cattle</l><r><g><b/>of<b/>cattle</g></r></p></e>
     <e lm="heresy"><i>heres</i><par n="bab/y__n"/></e>
     <e lm="heretic"><i>heretic</i><par n="house__n"/></e>
     <e lm="heritage"><i>heritage</i><par n="house__n"/></e>
@@ -9031,12 +9144,15 @@
     <e c="(GB)" lm="hire"><i>hire</i><par n="house__n"/></e>
     <e lm="historian"><i>historian</i><par n="house__n"/></e>
     <e lm="history"><i>histor</i><par n="bab/y__n"/></e>
+    <e lm="history of science"><i>histor</i><par n="bab/y__n"/><p><l><b/>of<b/>science</l><r><g><b/>of<b/>science</g></r></p></e>
     <e lm="histrionics"><i>histrionics</i><par n="alms__n"/></e>
     <e lm="hit"><i>hit</i><par n="house__n"/></e>
     <e lm="hit parade"><i>hit<b/>parade</i><par n="house__n"/></e>
     <e lm="hitch"><i>hitch</i><par n="house__n"/></e>
     <e lm="hitch-hiker"><i>hitch-hiker</i><par n="house__n"/></e>
     <e lm="hitchhiker"><i>hitchhiker</i><par n="house__n"/></e>
+    <e lm="hoard"><i>hoard</i><par n="house__n"/></e>
+    <e lm="hoard of coins"><i>hoard</i><par n="house__n"/><p><l><b/>of<b/>coins</l><r><g><b/>of<b/>coins</g></r></p></e>
     <e lm="hoarder"><i>hoarder</i><par n="house__n"/></e>
     <e lm="hoarding"><i>hoarding</i><par n="house__n"/></e>
     <e lm="hoarfrost"><i>hoarfrost</i><par n="east__n"/></e>
@@ -9278,6 +9394,7 @@
     <e lm="hymen"><i>hymen</i><par n="house__n"/></e>
     <e lm="hymn"><i>hymn</i><par n="house__n"/></e>
     <e lm="hymn book"><i>hymn<b/>book</i><par n="house__n"/></e>
+    <e lm="hymn of thanksgiving"><i>hymn</i><par n="house__n"/><p><l><b/>of<b/>thanksgiving</l><r><g><b/>of<b/>thanksgiving</g></r></p></e>
     <e lm="hyoid bone"><i>hyoid<b/>bone</i><par n="house__n"/></e>
     <e lm="hyperactivity"><i>hyperactivit</i><par n="bab/y__n"/></e>
     <e lm="hyperbole"><i>hyperbole</i><par n="house__n"/></e>
@@ -9548,10 +9665,15 @@
     <e lm="infraction"><i>infraction</i><par n="house__n"/></e>
     <e lm="infrastructure"><i>infrastructure</i><par n="house__n"/></e>
     <e lm="infringement"><i>infringement</i><par n="house__n"/></e>
+    <e lm="infringement of the law"><i>infringement</i><par n="house__n"/><p><l><b/>of<b/>the<b/>law</l><r><g><b/>of<b/>the<b/>law</g></r></p></e>
     <e lm="infusion"><i>infusion</i><par n="house__n"/></e>
     <e lm="ingratitude"><i>ingratitude</i><par n="house__n"/></e>
     <e lm="ingredient"><i>ingredient</i><par n="house__n"/></e>
     <e lm="inhabitant"><i>inhabitant</i><par n="house__n"/></e>
+    <e lm="inhabitant of Bremen"><i>inhabitant</i><par n="house__n"/><p><l><b/>of<b/>Bremen</l><r><g><b/>of<b/>Bremen</g></r></p></e>
+    <e lm="inhabitant of Lausanne"><i>inhabitant</i><par n="house__n"/><p><l><b/>of<b/>Lausanne</l><r><g><b/>of<b/>Lausanne</g></r></p></e>
+    <e lm="inhabitant of the Valais"><i>inhabitant</i><par n="house__n"/><p><l><b/>of<b/>the<b/>Valais</l><r><g><b/>of<b/>the<b/>Valais</g></r></p></e>
+    <e lm="inhabitant of Zurich"><i>inhabitant</i><par n="house__n"/><p><l><b/>of<b/>Zurich</l><r><g><b/>of<b/>Zurich</g></r></p></e>
     <e lm="inhalation"><i>inhalation</i><par n="house__n"/></e>
     <e lm="inheritance"><i>inheritance</i><par n="house__n"/></e>
     <e lm="inheritor"><i>inheritor</i><par n="house__n"/></e>
@@ -9730,6 +9852,7 @@
     <e lm="investigator"><i>investigator</i><par n="house__n"/></e>
     <e lm="investiture"><i>investiture</i><par n="house__n"/></e>
     <e lm="investment"><i>investment</i><par n="house__n"/></e>
+    <e lm="investment of money"><i>investment</i><par n="house__n"/><p><l><b/>of<b/>money</l><r><g><b/>of<b/>money</g></r></p></e>
     <e lm="investor"><i>investor</i><par n="house__n"/></e>
     <e lm="invigilator"><i>invigilator</i><par n="house__n"/></e>
     <e lm="invincibility"><i>invincibilit</i><par n="bab/y__n"/></e>
@@ -9776,6 +9899,7 @@
     <e lm="itch"><i>itch</i><par n="access__n"/></e>
     <e lm="itching"><i>itching</i><par n="house__n"/></e>
     <e lm="item"><i>item</i><par n="house__n"/></e>
+    <e lm="item of the agenda"><i>item</i><par n="house__n"/><p><l><b/>of<b/>the<b/>agenda</l><r><g><b/>of<b/>the<b/>agenda</g></r></p></e>
     <e lm="iteration"><i>iteration</i><par n="house__n"/></e>
     <e lm="itinerant worker"><i>itinerant<b/>worker</i><par n="house__n"/></e>
     <e lm="ivory"><i>ivor</i><par n="bab/y__n"/></e>
@@ -9928,6 +10052,7 @@
     <e lm="kilt"><i>kilt</i><par n="house__n"/></e>
     <e lm="kin"><i>kin</i><par n="house__n"/></e>
     <e lm="kind"><i>kind</i><par n="house__n"/></e>
+    <e lm="kind of black pudding"><i>kind</i><par n="house__n"/><p><l><b/>of<b/>black<b/>pudding</l><r><g><b/>of<b/>black<b/>pudding</g></r></p></e>
     <e lm="kindergarten"><i>kindergarten</i><par n="house__n"/></e>
     <e lm="kindness"><i>kindness</i><par n="access__n"/></e>
     <e lm="kindred"><i>kindred</i><par n="house__n"/></e>
@@ -9989,11 +10114,13 @@
     <e lm="lace"><i>lace</i><par n="house__n"/></e>
     <e lm="lack"><i>lack</i><par n="house__n"/></e>
     <e lm="lack of faith"><i>lack</i><par n="house__n"/><p><l><b/>of<b/>faith</l><r><g><b/>of<b/>faith</g></r></p></e>
+    <e lm="lack of interest"><i>lack</i><par n="house__n"/><p><l><b/>of<b/>interest</l><r><g><b/>of<b/>interest</g></r></p></e>
     <e lm="lacquering"><i>lacquering</i><par n="house__n"/></e>
     <e lm="lactation"><i>lactation</i><par n="house__n"/></e>
     <e lm="lacuna"><i>lacuna</i><par n="house__n"/></e>
     <e lm="lad"><i>lad</i><par n="house__n"/></e>
     <e lm="ladder"><i>ladder</i><par n="house__n"/></e>
+    <e lm="ladder of success"><i>ladder</i><par n="house__n"/><p><l><b/>of<b/>success</l><r><g><b/>of<b/>success</g></r></p></e>
     <e lm="lady"><i>lad</i><par n="bab/y__n"/></e>
     <e lm="ladybird" r="LR"><i>ladybird</i><par n="house__n"/></e>
     <e lm="ladybug" r="LR"><i>ladybug</i><par n="house__n"/></e>
@@ -10021,7 +10148,11 @@
     <e lm="landscape"><i>landscape</i><par n="house__n"/></e>
     <e lm="lane"><i>lane</i><par n="house__n"/></e>
     <e lm="language"><i>language</i><par n="house__n"/></e>
+    <e lm="language as mean of communication"><i>language</i><par n="house__n"/><p><l><b/>as<b/>mean<b/>of<b/>communication</l><r><g><b/>as<b/>mean<b/>of<b/>communication</g></r></p></e>
     <e lm="language course"><i>language<b/>course</i><par n="house__n"/></e>
+    <e lm="language of instruction"><i>language</i><par n="house__n"/><p><l><b/>of<b/>instruction</l><r><g><b/>of<b/>instruction</g></r></p></e>
+    <e lm="language of the civilized world"><i>language</i><par n="house__n"/><p><l><b/>of<b/>the<b/>civilized<b/>world</l><r><g><b/>of<b/>the<b/>civilized<b/>world</g></r></p></e>
+    <e lm="language of the country"><i>language</i><par n="house__n"/><p><l><b/>of<b/>the<b/>country</l><r><g><b/>of<b/>the<b/>country</g></r></p></e>
     <e lm="language school"><i>language<b/>school</i><par n="house__n"/></e>
     <e lm="language technology"><i>language<b/>technolog</i><par n="bab/y__n"/></e>
     <e lm="lanolin"><i>lanolin</i><par n="house__n"/></e>
@@ -10070,6 +10201,8 @@
     <e lm="law"><i>law</i><par n="house__n"/></e>
     <e lm="law court"><i>law<b/>court</i><par n="house__n"/></e>
     <e lm="law of gravity"><i>law</i><par n="house__n"/><p><l><b/>of<b/>gravity</l><r><g><b/>of<b/>gravity</g></r></p></e>
+    <e lm="law of nations"><i>law</i><par n="house__n"/><p><l><b/>of<b/>nations</l><r><g><b/>of<b/>nations</g></r></p></e>
+    <e lm="law of nature"><i>law</i><par n="house__n"/><p><l><b/>of<b/>nature</l><r><g><b/>of<b/>nature</g></r></p></e>
     <e lm="lawfulness"><i>lawfulness</i><par n="access__n"/></e>
     <e lm="lawmaker"><i>lawmaker</i><par n="house__n"/></e>
     <e lm="lawn"><i>lawn</i><par n="house__n"/></e>
@@ -10139,6 +10272,8 @@
     <e lm="lemonade"><i>lemonade</i><par n="house__n"/></e>
     <e lm="lender"><i>lender</i><par n="house__n"/></e>
     <e lm="length"><i>length</i><par n="house__n"/></e>
+    <e lm="length of stay"><i>length</i><par n="house__n"/><p><l><b/>of<b/>stay</l><r><g><b/>of<b/>stay</g></r></p></e>
+    <e lm="length of the trip"><i>length</i><par n="house__n"/><p><l><b/>of<b/>the<b/>trip</l><r><g><b/>of<b/>the<b/>trip</g></r></p></e>
     <e lm="lens"><i>lens</i><par n="politics__n"/></e>
     <e lm="lentil"><i>lentil</i><par n="house__n"/></e>
     <e lm="leper"><i>leper</i><par n="house__n"/></e>
@@ -10148,6 +10283,10 @@
     <e lm="lesson"><i>lesson</i><par n="house__n"/></e>
     <e lm="lethargy"><i>letharg</i><par n="bab/y__n"/></e>
     <e lm="letter"><i>letter</i><par n="house__n"/></e>
+    <e lm="letter of application"><i>letter</i><par n="house__n"/><p><l><b/>of<b/>application</l><r><g><b/>of<b/>application</g></r></p></e>
+    <e lm="letter of marque"><i>letter</i><par n="house__n"/><p><l><b/>of<b/>marque</l><r><g><b/>of<b/>marque</g></r></p></e>
+    <e lm="letter of recommendation"><i>letter</i><par n="house__n"/><p><l><b/>of<b/>recommendation</l><r><g><b/>of<b/>recommendation</g></r></p></e>
+    <e lm="letter of refusal"><i>letter</i><par n="house__n"/><p><l><b/>of<b/>refusal</l><r><g><b/>of<b/>refusal</g></r></p></e>
     <e lm="letter of thanks"><i>letter</i><par n="house__n"/><p><l><b/>of<b/>thanks</l><r><g><b/>of<b/>thanks</g></r></p></e>
     <e lm="letter to the editor"><i>letter</i><par n="house__n"/><p><l><b/>to<b/>the<b/>editor</l><r><g><b/>to<b/>the<b/>editor</g></r></p></e>
     <e c="(GB)" lm="letter-box"><i>letter-box</i><par n="bass__n"/></e>
@@ -10222,6 +10361,9 @@
     <e lm="limitation"><i>limitation</i><par n="house__n"/></e>
     <e lm="limpet"><i>limpet</i><par n="house__n"/></e>
     <e c="(US)" lm="line"><i>line</i><par n="house__n"/></e>
+    <e lm="line of ancestry"><i>line</i><par n="house__n"/><p><l><b/>of<b/>ancestry</l><r><g><b/>of<b/>ancestry</g></r></p></e>
+    <e lm="line of fire"><i>line</i><par n="house__n"/><p><l><b/>of<b/>fire</l><r><g><b/>of<b/>fire</g></r></p></e>
+    <e lm="line of work"><i>line</i><par n="house__n"/><p><l><b/>of<b/>work</l><r><g><b/>of<b/>work</g></r></p></e>
     <e lm="lineage"><i>lineage</i><par n="house__n"/></e>
     <e lm="linearity"><i>linearit</i><par n="bab/y__n"/></e>
     <e lm="linen"><i>linen</i><par n="house__n"/></e>
@@ -10251,6 +10393,7 @@
     <e lm="lira"><i>lir</i><par n="lir/a__n"/></e>
     <e lm="lisp"><i>lisp</i><par n="house__n"/></e>
     <e lm="list"><i>list</i><par n="house__n"/></e>
+    <e lm="list of hotels"><i>list</i><par n="house__n"/><p><l><b/>of<b/>hotels</l><r><g><b/>of<b/>hotels</g></r></p></e>
     <e lm="listener"><i>listener</i><par n="house__n"/></e>
     <e lm="listing"><i>listing</i><par n="house__n"/></e>
     <e c="(US)" lm="liter"><i>liter</i><par n="house__n"/></e>
@@ -10340,11 +10483,13 @@
     <e lm="loquaciousness"><i>loquaciousness</i><par n="access__n"/></e>
     <e lm="lord"><i>lord</i><par n="house__n"/></e>
     <e lm="Lord's prayer"><par n="Ll"/><i>ord's<b/>prayer</i><par n="house__n"/></e>
+    <e lm="lord of the manor"><i>lord</i><par n="house__n"/><p><l><b/>of<b/>the<b/>manor</l><r><g><b/>of<b/>the<b/>manor</g></r></p></e>
     <e lm="lorry"><i>lorr</i><par n="bab/y__n"/></e>
     <e lm="lorry driver"><i>lorry<b/>driver</i><par n="house__n"/></e>
     <e lm="lose"><i>lose</i><par n="house__n"/></e>
     <e lm="loser"><i>loser</i><par n="house__n"/></e>
     <e lm="loss"><i>loss</i><par n="access__n"/></e>
+    <e lm="loss of memory"><i>loss</i><par n="access__n"/><p><l><b/>of<b/>memory</l><r><g><b/>of<b/>memory</g></r></p></e>
     <e lm="lost property office"><i>lost<b/>property<b/>office</i><par n="house__n"/></e>
     <e lm="lot"><i>lot</i><par n="house__n"/></e>
     <e lm="lotion"><i>lotion</i><par n="house__n"/></e>
@@ -10355,6 +10500,7 @@
     <e lm="lounge"><i>lounge</i><par n="house__n"/></e>
     <e lm="louse"><i>louse</i><par n="house__n"/></e>
     <e lm="love"><i>love</i><par n="house__n"/></e>
+    <e lm="love of life"><i>love</i><par n="house__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
     <e lm="love story"><i>love<b/>stor</i><par n="bab/y__n"/></e>
     <e lm="lover"><i>lover</i><par n="house__n"/></e>
     <e lm="Lower House"><i>Lower<b/>House</i><par n="house__n"/></e>
@@ -10529,12 +10675,14 @@
     <e lm="manure"><i>manure</i><par n="east__n"/></e>
     <e lm="manuscript"><i>manuscript</i><par n="house__n"/></e>
     <e lm="map"><i>map</i><par n="house__n"/></e>
+    <e lm="map of the world"><i>map</i><par n="house__n"/><p><l><b/>of<b/>the<b/>world</l><r><g><b/>of<b/>the<b/>world</g></r></p></e>
     <e lm="marathon"><i>marathon</i><par n="house__n"/></e>
     <e lm="marble"><i>marble</i><par n="house__n"/></e>
     <e lm="march"><i>march</i><par n="access__n"/></e>
     <e lm="mare"><i>mare</i><par n="house__n"/></e>
     <e lm="margarine"><i>margarine</i><par n="house__n"/></e>
     <e lm="margin"><i>margin</i><par n="house__n"/></e>
+    <e lm="margin of a field"><i>margin</i><par n="house__n"/><p><l><b/>of<b/>a<b/>field</l><r><g><b/>of<b/>a<b/>field</g></r></p></e>
     <e lm="marginalisation"><i>marginalisation</i><par n="house__n"/></e>
     <e lm="marigold"><i>marigold</i><par n="house__n"/></e>
     <e lm="marijuana"><i>marijuana</i><par n="house__n"/></e>
@@ -10582,6 +10730,7 @@
     <e lm="massif"><i>massif</i><par n="house__n"/></e>
     <e lm="mast"><i>mast</i><par n="house__n"/></e>
     <e lm="master"><i>master</i><par n="house__n"/></e>
+    <e lm="master of ceremonies"><i>master</i><par n="house__n"/><p><l><b/>of<b/>ceremonies</l><r><g><b/>of<b/>ceremonies</g></r></p></e>
     <e lm="master of the house"><i>master</i><par n="house__n"/><p><l><b/>of<b/>the<b/>house</l><r><g><b/>of<b/>the<b/>house</g></r></p></e>
     <e lm="master's degree"><i>master's<b/>degree</i><par n="house__n"/></e>
     <e lm="masterpiece"><i>masterpiece</i><par n="house__n"/></e>
@@ -10606,6 +10755,7 @@
     <e lm="matrix"><i>matri</i><par n="appendi/x__n"/></e>
     <e lm="matron"><i>matron</i><par n="house__n"/></e>
     <e lm="matter"><i>matter</i><par n="house__n"/></e>
+    <e lm="matter of money"><i>matter</i><par n="house__n"/><p><l><b/>of<b/>money</l><r><g><b/>of<b/>money</g></r></p></e>
     <e lm="matter of opinion"><i>matter</i><par n="house__n"/><p><l><b/>of<b/>opinion</l><r><g><b/>of<b/>opinion</g></r></p></e>
     <e lm="mattress"><i>mattress</i><par n="access__n"/></e>
     <e lm="maturation"><i>maturation</i><par n="east__n"/></e>
@@ -10670,7 +10820,13 @@
     <e lm="melting point"><i>melting<b/>point</i><par n="house__n"/></e>
     <e lm="member"><i>member</i><par n="house__n"/></e>
     <e lm="member country"><i>member<b/>countr</i><par n="bab/y__n"/></e>
+    <e lm="member of a consortium"><i>member</i><par n="house__n"/><p><l><b/>of<b/>a<b/>consortium</l><r><g><b/>of<b/>a<b/>consortium</g></r></p></e>
+    <e lm="member of a philharmonic orchestra"><i>member</i><par n="house__n"/><p><l><b/>of<b/>a<b/>philharmonic<b/>orchestra</l><r><g><b/>of<b/>a<b/>philharmonic<b/>orchestra</g></r></p></e>
     <e lm="member of parliament"><i>member</i><par n="house__n"/><p><l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
+    <e lm="member of the 1968 generation"><i>member</i><par n="house__n"/><p><l><b/>of<b/>the<b/>1968<b/>generation</l><r><g><b/>of<b/>the<b/>1968<b/>generation</g></r></p></e>
+    <e lm="member of the board"><i>member</i><par n="house__n"/><p><l><b/>of<b/>the<b/>board</l><r><g><b/>of<b/>the<b/>board</g></r></p></e>
+    <e lm="member of the same species"><i>member</i><par n="house__n"/><p><l><b/>of<b/>the<b/>same<b/>species</l><r><g><b/>of<b/>the<b/>same<b/>species</g></r></p></e>
+    <e lm="member of the secret police"><i>member</i><par n="house__n"/><p><l><b/>of<b/>the<b/>secret<b/>police</l><r><g><b/>of<b/>the<b/>secret<b/>police</g></r></p></e>
     <e lm="membership"><i>membership</i><par n="house__n"/></e>
     <e lm="membrane"><i>membrane</i><par n="house__n"/></e>
     <e lm="memento"><i>memento</i><par n="house__n"/></e>
@@ -10731,6 +10887,7 @@
     <e lm="methadone"><i>methadone</i><par n="house__n"/></e>
     <e lm="methane"><i>methane</i><par n="east__n"/></e>
     <e lm="method"><i>method</i><par n="house__n"/></e>
+    <e lm="method of analysis"><i>method</i><par n="house__n"/><p><l><b/>of<b/>analysis</l><r><g><b/>of<b/>analysis</g></r></p></e>
     <e lm="methodism"><i>methodism</i><par n="house__n"/></e>
     <e lm="methodology"><i>methodolog</i><par n="bab/y__n"/></e>
     <e c="(GB)" lm="metre"><i>metre</i><par n="house__n"/></e>
@@ -10834,6 +10991,7 @@
     <e lm="minister of finance"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Finance</l><r><g><b/>of<b/>finance</g></r></p></e>
     <e lm="minister of fisheries and agriculture"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Fisheries<b/>and<b/>Agriculture</l><r><g><b/>of<b/>fisheries<b/>and<b/>agriculture</g></r></p></e>
     <e lm="minister of health"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Health</l><r><g><b/>of<b/>health</g></r></p></e>
+    <e lm="minister of industry"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>industry</l><r><g><b/>of<b/>industry</g></r></p></e>
     <e lm="minister of industry, energy and tourism"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Industry,<b/>Energy<b/>and<b/>Tourism</l><r><g><b/>of<b/>industry,<b/>energy<b/>and<b/>tourism</g></r></p></e>
     <e lm="minister of justice"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Justice</l><r><g><b/>of<b/>justice</g></r></p></e>
     <e lm="minister of justice and human rights"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</l><r><g><b/>of<b/>justice<b/>and<b/>human<b/>rights</g></r></p></e>
@@ -10844,6 +11002,8 @@
     <e lm="ministry for foreign affairs"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>for<b/>The<b/>Environment</l><r><g><b/>for<b/>foreign<b/>affairs</g></r></p></e>
     <e lm="ministry for the environment"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>for<b/>The<b/>Environment</l><r><g><b/>for<b/>the<b/>environment</g></r></p></e>
     <e lm="ministry of economic affairs"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Economic<b/>Affairs</l><r><g><b/>of<b/>economic<b/>affairs</g></r></p></e>
+    <e lm="ministry of economics"><i>ministr</i><par n="bab/y__n"/><p><l><b/>of<b/>economics</l><r><g><b/>of<b/>economics</g></r></p></e>
+    <e lm="ministry of education"><i>ministr</i><par n="bab/y__n"/><p><l><b/>of<b/>education</l><r><g><b/>of<b/>education</g></r></p></e>
     <e lm="ministry of education, science and culture"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Education,<b/>Science<b/>and<b/>Culture</l><r><g><b/>of<b/>education,<b/>science<b/>and<b/>culture</g></r></p></e>
     <e lm="ministry of finance"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Finance</l><r><g><b/>of<b/>finance</g></r></p></e>
     <e lm="ministry of fisheries and agriculture"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Fisheries<b/>and<b/>Agriculture</l><r><g><b/>of<b/>fisheries<b/>and<b/>agriculture</g></r></p></e>
@@ -10865,6 +11025,7 @@
     <e lm="mint sauce"><i>mint<b/>sauce</i><par n="house__n"/></e>
     <e lm="minus"><i>minus</i><par n="access__n"/></e>
     <e lm="minute"><i>minute</i><par n="house__n"/></e>
+    <e lm="minute of the meeting"><i>minute</i><par n="house__n"/><p><l><b/>of<b/>meeting</l><r><g><b/>of<b/>meeting</g></r></p></e>
     <e lm="minutiae"><i>minutiae</i><par n="house__n"/></e>
     <e lm="miracle"><i>miracle</i><par n="house__n"/></e>
     <e lm="mirage"><i>mirage</i><par n="house__n"/></e>
@@ -10926,6 +11087,7 @@
     <e lm="mode"><i>mode</i><par n="house__n"/></e>
     <e lm="model"><i>model</i><par n="house__n"/></e>
     <e lm="model factory"><i>model<b/>factor</i><par n="bab/y__n"/></e>
+    <e lm="model of aircraft"><i>model</i><par n="house__n"/><p><l><b/>of<b/>aircraft</l><r><g><b/>of<b/>aircraft</g></r></p></e>
     <e lm="modem"><i>modem</i><par n="house__n"/></e>
     <e lm="moderate breeze"><i>moderate<b/>breeze</i><par n="house__n"/></e>
     <e lm="moderate drinking"><i>moderate<b/>drinking</i><par n="east__n"/></e>
@@ -10988,6 +11150,7 @@
     <e lm="monster"><i>monster</i><par n="house__n"/></e>
     <e lm="monstrosity"><i>monstrosit</i><par n="bab/y__n"/></e>
     <e lm="month"><i>month</i><par n="house__n"/></e>
+    <e lm="month of delight"><i>month</i><par n="house__n"/><p><l><b/>of<b/>delight</l><r><g><b/>of<b/>delight</g></r></p></e>
     <e lm="monthly review"><i>monthly<b/>review</i><par n="house__n"/></e>
     <e lm="monument"><i>monument</i><par n="house__n"/></e>
     <e lm="mood"><i>mood</i><par n="house__n"/></e>
@@ -11035,6 +11198,7 @@
     <e lm="moth"><i>moth</i><par n="house__n"/></e>
     <e lm="mother"><i>mother</i><par n="house__n"/></e>
     <e lm="mother tongue"><i>mother<b/>tongue</i><par n="house__n"/></e>
+    <e lm="mother-in-law"><i>mother</i><par n="house__n"/><p><l>-in-law</l><r><g>-in-law</g></r></p></e>
     <e lm="motherboard"><i>motherboard</i><par n="house__n"/></e>
     <e lm="motherhood"><i>motherhood</i><par n="house__n"/></e>
     <e lm="motion"><i>motion</i><par n="house__n"/></e>
@@ -11131,6 +11295,7 @@
     <e lm="musculature"><i>musculature</i><par n="house__n"/></e>
     <e lm="muse"><i>muse</i><par n="house__n"/></e>
     <e lm="museum"><i>museum</i><par n="house__n"/></e>
+    <e lm="museum of local history"><i>museum</i><par n="house__n"/><p><l><b/>of<b/>local<b/>history</l><r><g><b/>of<b/>local<b/>history</g></r></p></e>
     <e lm="mushroom"><i>mushroom</i><par n="house__n"/></e>
     <e lm="music"><i>music</i><par n="house__n"/></e>
     <e lm="music school"><i>music<b/>school</i><par n="house__n"/></e>
@@ -11206,6 +11371,8 @@
     <e lm="nationalization"><i>nationalization</i><par n="house__n"/></e>
     <e lm="native"><i>native</i><par n="house__n"/></e>
     <e lm="native language"><i>native<b/>language</i><par n="house__n"/></e>
+    <e lm="native of Munich"><i>native</i><par n="house__n"/><p><l><b/>of<b/>Munich</l><r><g><b/>of<b/>Munich</g></r></p></e>
+    <e lm="native of Stockholm"><i>native</i><par n="house__n"/><p><l><b/>of<b/>Stockholm</l><r><g><b/>of<b/>Stockholm</g></r></p></e>
     <e lm="native town"><i>native<b/>town</i><par n="house__n"/></e>
     <e lm="nativism"><i>nativism</i><par n="house__n"/></e>
     <e lm="natural selection"><i>natural<b/>selection</i><par n="house__n"/></e>
@@ -11344,6 +11511,7 @@
     <e lm="nobleman"><i>noblem</i><par n="m/an__n"/></e>
     <e lm="node"><i>node</i><par n="house__n"/></e>
     <e lm="noise"><i>noise</i><par n="house__n"/></e>
+    <e lm="noise of the traffic"><i>noise</i><par n="house__n"/><p><l><b/>of<b/>the<b/>traffic</l><r><g><b/>of<b/>the<b/>traffic</g></r></p></e>
     <e lm="nomad"><i>nomad</i><par n="house__n"/></e>
     <e lm="nomadism"><i>nomadism</i><par n="house__n"/></e>
     <e lm="nomenclature"><i>nomenclature</i><par n="house__n"/></e>
@@ -11419,6 +11587,11 @@
     <e lm="nuisance"><i>nuisance</i><par n="house__n"/></e>
     <e lm="nullity"><i>nullit</i><par n="bab/y__n"/></e>
     <e lm="number"><i>number</i><par n="house__n"/></e>
+    <e lm="number of digits"><i>number</i><par n="house__n"/><p><l><b/>of<b/>digits</l><r><g><b/>of<b/>digits</g></r></p></e>
+    <e lm="number of members"><i>number</i><par n="house__n"/><p><l><b/>of<b/>members</l><r><g><b/>of<b/>members</g></r></p></e>
+    <e lm="number of participants"><i>number</i><par n="house__n"/><p><l><b/>of<b/>participants</l><r><g><b/>of<b/>participants</g></r></p></e>
+    <e lm="number of pieces"><i>number</i><par n="house__n"/><p><l><b/>of<b/>pieces</l><r><g><b/>of<b/>pieces</g></r></p></e>
+    <e lm="number of visitors"><i>number</i><par n="house__n"/><p><l><b/>of<b/>visitors</l><r><g><b/>of<b/>visitors</g></r></p></e>
     <e lm="number plate"><i>number<b/>plate</i><par n="house__n"/></e>
     <e lm="numbering"><i>numbering</i><par n="house__n"/></e>
     <e lm="numberplate" r="LR"><i>numberplate</i><par n="house__n"/></e>
@@ -11611,6 +11784,8 @@
     <e lm="ordeal"><i>ordeal</i><par n="house__n"/></e>
     <e lm="order"><i>order</i><par n="house__n"/></e>
     <e lm="order department"><i>order<b/>department</i><par n="house__n"/></e>
+    <e lm="order of arrival"><i>order</i><par n="house__n"/><p><l><b/>of<b/>arrival</l><r><g><b/>of<b/>arrival</g></r></p></e>
+    <e lm="order of the day"><i>order</i><par n="house__n"/><p><l><b/>of<b/>the<b/>day</l><r><g><b/>of<b/>the<b/>day</g></r></p></e>
     <e lm="ordering"><i>ordering</i><par n="east__n"/></e>
     <e lm="orderliness"><i>orderliness</i><par n="access__n"/></e>
     <e lm="ordinal number"><i>ordinal<b/>number</i><par n="house__n"/></e>
@@ -11847,6 +12022,7 @@
     <e lm="pardon"><i>pardon</i><par n="house__n"/></e>
     <e lm="parent"><i>parent</i><par n="house__n"/></e>
     <e lm="parent company"><i>parent<b/>compan</i><par n="bab/y__n"/></e>
+    <e lm="parent-in-law"><i>parent</i><par n="house__n"/><p><l>-in-law</l><r><g>-in-law</g></r></p></e>
     <e lm="parentage"><i>parentage</i><par n="house__n"/></e>
     <e lm="parenthesis"><i>parenthes</i><par n="analys/is__n"/></e>
     <e lm="parenthood"><i>parenthood</i><par n="house__n"/></e>
@@ -11876,6 +12052,7 @@
     <e lm="parsimony"><i>parsimon</i><par n="bab/y__n"/></e>
     <e lm="parsley"><i>parsley</i><par n="east__n"/></e>
     <e lm="part"><i>part</i><par n="house__n"/></e>
+    <e lm="part of a sentence"><i>part</i><par n="house__n"/><p><l><b/>of<b/>a<b/>sentence</l><r><g><b/>of<b/>a<b/>sentence</g></r></p></e>
     <e lm="part of speech"><i>part</i><par n="house__n"/><p><l><b/>of<b/>speech</l><r><g><b/>of<b/>speech</g></r></p></e>
     <e lm="part-time"><i>part-time</i><par n="house__n"/></e>
     <e lm="part-time job"><i>part-time<b/>job</i><par n="house__n"/></e>
@@ -11921,6 +12098,8 @@
     <e lm="pasturage"><i>pasturage</i><par n="house__n"/></e>
     <e lm="pasture"><i>pasture</i><par n="house__n"/></e>
     <e lm="pastureland"><i>pastureland</i><par n="house__n"/></e>
+    <e lm="patch"><i>patch</i><par n="access__n"/></e>
+    <e lm="patch of grass"><i>patch</i><par n="access__n"/><p><l><b/>of<b/>grass</l><r><g><b/>of<b/>grass</g></r></p></e>
     <e lm="patchwork"><i>patchwork</i><par n="house__n"/></e>
     <e lm="pâté"><i>pâté</i><par n="house__n"/></e>
     <e lm="patent"><i>patent</i><par n="house__n"/></e>
@@ -12033,6 +12212,7 @@
     <e lm="percentage"><i>percentage</i><par n="house__n"/></e>
     <e lm="percept"><i>percept</i><par n="house__n"/></e>
     <e lm="perception"><i>perception</i><par n="house__n"/></e>
+    <e lm="perception of history"><i>perception</i><par n="house__n"/><p><l><b/>of<b/>history</l><r><g><b/>of<b/>history</g></r></p></e>
     <e lm="perceptivity"><i>perceptivit</i><par n="bab/y__n"/></e>
     <e lm="perch"><i>perch</i><par n="access__n"/></e>
     <e lm="percussion"><i>percussion</i><par n="house__n"/></e>
@@ -12050,6 +12230,8 @@
     <e lm="perimeter"><i>perimeter</i><par n="house__n"/></e>
     <e lm="perineum"><i>perineum</i><par n="house__n"/></e>
     <e lm="period"><i>period</i><par n="house__n"/></e>
+    <e lm="period of exposure"><i>period</i><par n="house__n"/><p><l><b/>of<b/>exposure</l><r><g><b/>of<b/>exposure</g></r></p></e>
+    <e lm="period of service"><i>period</i><par n="house__n"/><p><l><b/>of<b/>service</l><r><g><b/>of<b/>service</g></r></p></e>
     <e lm="periodic table"><i>periodic<b/>table</i><par n="house__n"/></e>
     <e lm="periodicity"><i>periodicit</i><par n="bab/y__n"/></e>
     <e lm="peripheral"><i>peripheral</i><par n="house__n"/></e>
@@ -12064,12 +12246,15 @@
     <e lm="permission"><i>permission</i><par n="house__n"/></e>
     <e lm="permissiveness"><i>permissiveness</i><par n="access__n"/></e>
     <e lm="permit"><i>permit</i><par n="house__n"/></e>
+    <e lm="permit of residence"><i>permit</i><par n="house__n"/><p><l><b/>of<b/>residence</l><r><g><b/>of<b/>residence</g></r></p></e>
     <e lm="peroxide"><i>peroxide</i><par n="house__n"/></e>
     <e lm="perpendicular"><i>perpendicular</i><par n="house__n"/></e>
+    <e lm="perpendicular bisectors of the sides"><i>perpendicular</i><par n="house__n"/><p><l><b/>bisectors<b/>of<b/>the<b/>sides</l><r><g><b/>bisectors<b/>of<b/>the<b/>sides</g></r></p></e>
     <e lm="perpetration"><i>perpetration</i><par n="house__n"/></e>
     <e lm="perpetrator"><i>perpetrator</i><par n="house__n"/></e>
     <e lm="perquisite"><i>perquisite</i><par n="house__n"/></e>
     <e lm="persecution"><i>persecution</i><par n="house__n"/></e>
+    <e lm="persecution of the Jews"><i>persecution</i><par n="house__n"/><p><l><b/>of<b/>the<b/>Jews</l><r><g><b/>of<b/>the<b/>Jews</g></r></p></e>
     <e lm="perseverance"><i>perseverance</i><par n="house__n"/></e>
     <e lm="Persian"><par n="Pp"/><i>ersian</i><par n="house__n"/></e>
     <e lm="persistence"><i>persistence</i><par n="house__n"/></e>
@@ -12178,7 +12363,16 @@
     <e lm="pidgin"><i>pidgin</i><par n="house__n"/></e>
     <e lm="pie"><i>pie</i><par n="house__n"/></e>
     <e lm="piece"><i>piece</i><par n="house__n"/></e>
+    <e lm="piece of chalk"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>chalk</l><r><g><b/>of<b/>chalk</g></r></p></e>
+    <e lm="piece of chocolate"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>chocolate</l><r><g><b/>of<b/>chocolate</g></r></p></e>
+    <e lm="piece of furniture"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>furniture</l><r><g><b/>of<b/>furniture</g></r></p></e>
+    <e lm="piece of jewellery"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>jewellery</l><r><g><b/>of<b/>jewellery</g></r></p></e>
+    <e lm="piece of luggage"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>luggage</l><r><g><b/>of<b/>luggage</g></r></p></e>
+    <e lm="piece of money"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>money</l><r><g><b/>of<b/>money</g></r></p></e>
+    <e lm="piece of music"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>music</l><r><g><b/>of<b/>music</g></r></p></e>
+    <e lm="piece of news"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>news</l><r><g><b/>of<b/>news</g></r></p></e>
     <e lm="piece of paper"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>paper</l><r><g><b/>of<b/>paper</g></r></p></e>
+    <e lm="piece of printed matter"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>printed<b/>matter</l><r><g><b/>of<b/>printed<b/>matter</g></r></p></e>
     <e lm="piece of wood"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>wood</l><r><g><b/>of<b/>wood</g></r></p></e>
     <e lm="piecework"><i>piecework</i><par n="house__n"/></e>
     <e lm="pier"><i>pier</i><par n="house__n"/></e>
@@ -12226,6 +12420,7 @@
     <e lm="piston"><i>piston</i><par n="house__n"/></e>
     <e lm="pit"><i>pit</i><par n="house__n"/></e>
     <e lm="pitch"><i>pitch</i><par n="access__n"/></e>
+    <e lm="pitch of the voice"><i>pitch</i><par n="access__n"/><p><l><b/>of<b/>the<b/>voice</l><r><g><b/>of<b/>the<b/>voice</g></r></p></e>
     <e lm="pitcher"><i>pitcher</i><par n="house__n"/></e>
     <e lm="pitchfork"><i>pitchfork</i><par n="house__n"/></e>
     <e lm="pitfall"><i>pitfall</i><par n="house__n"/></e>
@@ -12238,6 +12433,8 @@
     <e lm="placard"><i>placard</i><par n="house__n"/></e>
     <e lm="place"><i>place</i><par n="house__n"/></e>
     <e lm="place name"><i>place<b/>name</i><par n="house__n"/></e>
+    <e lm="place of pilgrimage"><i>place</i><par n="house__n"/><p><l><b/>of<b/>pilgrimage</l><r><g><b/>of<b/>pilgrimage</g></r></p></e>
+    <e lm="place of recovery"><i>place</i><par n="house__n"/><p><l><b/>of<b/>recovery</l><r><g><b/>of<b/>recovery</g></r></p></e>
     <e lm="placeholder"><i>placeholder</i><par n="house__n"/></e>
     <e lm="placement"><i>placement</i><par n="house__n"/></e>
     <e lm="placenta"><i>placenta</i><par n="larva__n"/></e>
@@ -12340,6 +12537,8 @@
     <e lm="poetry"><i>poetr</i><par n="bab/y__n"/></e>
     <e lm="poignancy"><i>poignanc</i><par n="bab/y__n"/></e>
     <e lm="point"><i>point</i><par n="house__n"/></e>
+    <e lm="point of departure"><i>point</i><par n="house__n"/><p><l><b/>of<b/>departure</l><r><g><b/>of<b/>departure</g></r></p></e>
+    <e lm="point of sale"><i>point</i><par n="house__n"/><p><l><b/>of<b/>sale</l><r><g><b/>of<b/>sale</g></r></p></e>
     <e lm="point of view"><i>point</i><par n="house__n"/><p><l><b/>of<b/>view</l><r><g><b/>of<b/>view</g></r></p></e>
     <e lm="pointer"><i>pointer</i><par n="house__n"/></e>
     <e lm="poise"><i>poise</i><par n="east__n"/></e>
@@ -12511,6 +12710,8 @@
     <e lm="poverty"><i>povert</i><par n="bab/y__n"/></e>
     <e lm="powder"><i>powder</i><par n="house__n"/></e>
     <e lm="power"><i>power</i><par n="house__n"/></e>
+    <e lm="power of disposition"><i>power</i><par n="house__n"/><p><l><b/>of<b/>disposition</l><r><g><b/>of<b/>disposition</g></r></p></e>
+    <e lm="power of imagination"><i>power</i><par n="house__n"/><p><l><b/>of<b/>imagination</l><r><g><b/>of<b/>imagination</g></r></p></e>
     <e lm="power station"><i>power<b/>station</i><par n="house__n"/></e>
     <e lm="powerhouse"><i>powerhouse</i><par n="house__n"/></e>
     <e lm="powerlessness"><i>powerlessness</i><par n="access__n"/></e>
@@ -12574,6 +12775,7 @@
     <e lm="prescription"><i>prescription</i><par n="house__n"/></e>
     <e lm="preselection"><i>preselection</i><par n="house__n"/></e>
     <e lm="presence"><i>presence</i><par n="house__n"/></e>
+    <e lm="presence of mind"><i>presence</i><par n="house__n"/><p><l><b/>of<b/>mind</l><r><g><b/>of<b/>mind</g></r></p></e>
     <e lm="present"><i>present</i><par n="house__n"/></e>
     <e lm="present tense"><i>present<b/>tense</i><par n="house__n"/></e>
     <e lm="presentation"><i>presentation</i><par n="house__n"/></e>
@@ -12592,6 +12794,7 @@
     <e lm="pressure"><i>pressure</i><par n="house__n"/></e>
     <e lm="pressure cooker"><i>pressure<b/>cooker</i><par n="house__n"/></e>
     <e lm="pressure group"><i>pressure<b/>group</i><par n="house__n"/></e>
+    <e lm="pressure of competition"><i>pressure</i><par n="house__n"/><p><l><b/>of<b/>competition</l><r><g><b/>of<b/>competition</g></r></p></e>
     <e lm="prestige"><i>prestige</i><par n="house__n"/></e>
     <e lm="presumption"><i>presumption</i><par n="house__n"/></e>
     <e lm="pretence"><i>pretence</i><par n="house__n"/></e>
@@ -12606,6 +12809,7 @@
     <e lm="prey"><i>prey</i><par n="house__n"/></e>
     <e lm="price"><i>price</i><par n="house__n"/></e>
     <e lm="price guarantee"><i>price<b/>guarantee</i><par n="house__n"/></e>
+    <e lm="price of milk"><i>price</i><par n="house__n"/><p><l><b/>of<b/>milk</l><r><g><b/>of<b/>milk</g></r></p></e>
     <e lm="price-list"><i>price-list</i><par n="house__n"/></e>
     <e lm="pride"><i>pride</i><par n="house__n"/></e>
     <e lm="priest"><i>priest</i><par n="house__n"/></e>
@@ -12696,6 +12900,8 @@
     <e lm="progress"><i>progress</i><par n="access__n"/></e>
     <e lm="progression"><i>progression</i><par n="house__n"/></e>
     <e lm="prohibition"><i>prohibition</i><par n="house__n"/></e>
+    <e lm="prohibition of exports"><i>prohibition</i><par n="house__n"/><p><l><b/>of<b/>exports</l><r><g><b/>of<b/>exports</g></r></p></e>
+    <e lm="prohibition of interest"><i>prohibition</i><par n="house__n"/><p><l><b/>of<b/>interest</l><r><g><b/>of<b/>interest</g></r></p></e>
     <e lm="project"><i>project</i><par n="house__n"/></e>
     <e lm="projectile"><i>projectile</i><par n="house__n"/></e>
     <e lm="projection"><i>projection</i><par n="house__n"/></e>
@@ -12714,6 +12920,8 @@
     <e lm="pronoun"><i>pronoun</i><par n="house__n"/></e>
     <e lm="pronunciation"><i>pronunciation</i><par n="house__n"/></e>
     <e lm="proof"><i>proof</i><par n="house__n"/></e>
+    <e lm="proof of existence"><i>proof</i><par n="house__n"/><p><l><b/>of<b/>existence</l><r><g><b/>of<b/>existence</g></r></p></e>
+    <e lm="proof of purchase"><i>proof</i><par n="house__n"/><p><l><b/>of<b/>purchase</l><r><g><b/>of<b/>purchase</g></r></p></e>
     <e lm="proofreader"><i>proofreader</i><par n="house__n"/></e>
     <e lm="prop"><i>prop</i><par n="house__n"/></e>
     <e lm="propaganda"><i>propaganda</i><par n="house__n"/></e>
@@ -12744,6 +12952,7 @@
     <e lm="proselytism"><i>proselytism</i><par n="house__n"/></e>
     <e lm="prosody"><i>prosod</i><par n="bab/y__n"/></e>
     <e lm="prospect"><i>prospect</i><par n="house__n"/></e>
+    <e lm="prospect of success"><i>prospect</i><par n="house__n"/><p><l><b/>of<b/>success</l><r><g><b/>of<b/>success</g></r></p></e>
     <e lm="prospector"><i>prospector</i><par n="house__n"/></e>
     <e lm="prospectus"><i>prospectus</i><par n="access__n"/></e>
     <e lm="prosperity"><i>prosperit</i><par n="bab/y__n"/></e>
@@ -12753,6 +12962,7 @@
     <e lm="prostitution"><i>prostitution</i><par n="house__n"/></e>
     <e lm="protagonist"><i>protagonist</i><par n="house__n"/></e>
     <e lm="protection"><i>protection</i><par n="house__n"/></e>
+    <e lm="protection of species"><i>protection</i><par n="house__n"/><p><l><b/>of<b/>species</l><r><g><b/>of<b/>species</g></r></p></e>
     <e lm="protectionism"><i>protectionism</i><par n="house__n"/></e>
     <e lm="protectorate"><i>protectorate</i><par n="house__n"/></e>
     <e lm="protein"><i>protein</i><par n="house__n"/></e>
@@ -12901,6 +13111,8 @@
     <e lm="quarrelsomeness"><i>quarrelsomeness</i><par n="access__n"/></e>
     <e lm="quarry"><i>quarr</i><par n="bab/y__n"/></e>
     <e lm="quarter"><i>quarter</i><par n="house__n"/></e>
+    <e lm="quarter of a century"><i>quarter</i><par n="house__n"/><p><l><b/>of<b/>a<b/>century</l><r><g><b/>of<b/>a<b/>century</g></r></p></e>
+    <e lm="quarter of an hour"><i>quarter</i><par n="house__n"/><p><l><b/>of<b/>an<b/>hour</l><r><g><b/>of<b/>an<b/>hour</g></r></p></e>
     <e lm="quarterly review"><i>quarterly<b/>review</i><par n="house__n"/></e>
     <e lm="quartet"><i>quartet</i><par n="house__n"/></e>
     <e lm="quartette"><i>quartette</i><par n="house__n"/></e>
@@ -12910,6 +13122,7 @@
     <e lm="queen"><i>queen</i><par n="house__n"/></e>
     <e lm="query"><i>quer</i><par n="bab/y__n"/></e>
     <e lm="question"><i>question</i><par n="house__n"/></e>
+    <e lm="question of money"><i>question</i><par n="house__n"/><p><l><b/>of<b/>money</l><r><g><b/>of<b/>money</g></r></p></e>
     <e lm="question tag"><i>question<b/>tag</i><par n="house__n"/></e>
     <e lm="question word"><i>question<b/>word</i><par n="house__n"/></e>
     <e lm="questioner"><i>questioner</i><par n="house__n"/></e>
@@ -12930,6 +13143,7 @@
     <e lm="quiz"><i>quiz</i><par n="quiz__n"/></e>
     <e lm="quoit"><i>quoit</i><par n="house__n"/></e>
     <e lm="quotation"><i>quotation</i><par n="house__n"/></e>
+    <e lm="quotation of prices"><i>quotation</i><par n="house__n"/><p><l><b/>of<b/>prices</l><r><g><b/>of<b/>prices</g></r></p></e>
     <e lm="quote"><i>quote</i><par n="house__n"/></e>
     <e lm="Quran"><par n="Qq"/><i>uran</i><par n="house__n"/></e>
     <e lm="rabbi"><i>rabbi</i><par n="house__n"/></e>
@@ -12964,6 +13178,8 @@
     <e lm="radish"><i>radish</i><par n="access__n"/></e>
     <e lm="radium"><i>radium</i><par n="house__n"/></e>
     <e lm="radius"><i>radi</i><par n="stimul/us__n"/></e>
+    <e lm="radius of convergence"><i>radi</i><par n="stimul/us__n"/><p><l><b/>of<b/>convergence</l><r><g><b/>of<b/>convergence</g></r></p></e>
+    <e lm="radius of curvature"><i>radi</i><par n="stimul/us__n"/><p><l><b/>of<b/>curvature</l><r><g><b/>of<b/>curvature</g></r></p></e>
     <e lm="radon"><i>radon</i><par n="house__n"/></e>
     <e lm="raffle"><i>raffle</i><par n="house__n"/></e>
     <e lm="raft"><i>raft</i><par n="house__n"/></e>
@@ -12999,6 +13215,10 @@
     <e lm="ranching"><i>ranching</i><par n="house__n"/></e>
     <e lm="rancor"><i>rancor</i><par n="house__n"/></e>
     <e lm="range"><i>range</i><par n="house__n"/></e>
+    <e lm="range of articles"><i>range</i><par n="house__n"/><p><l><b/>of<b/>articles</l><r><g><b/>of<b/>articles</g></r></p></e>
+    <e lm="range of distribution"><i>range</i><par n="house__n"/><p><l><b/>of<b/>distribution</l><r><g><b/>of<b/>distribution</g></r></p></e>
+    <e lm="range of duty"><i>range</i><par n="house__n"/><p><l><b/>of<b/>duty</l><r><g><b/>of<b/>duty</g></r></p></e>
+    <e lm="range of values"><i>range</i><par n="house__n"/><p><l><b/>of<b/>values</l><r><g><b/>of<b/>values</g></r></p></e>
     <e lm="ranger"><i>ranger</i><par n="house__n"/></e>
     <e lm="rank"><i>rank</i><par n="house__n"/></e>
     <e lm="ransom"><i>ransom</i><par n="house__n"/></e>
@@ -13016,6 +13236,9 @@
     <e lm="raspberry"><i>raspberr</i><par n="bab/y__n"/></e>
     <e lm="rat"><i>rat</i><par n="house__n"/></e>
     <e lm="rate"><i>rate</i><par n="house__n"/></e>
+    <e lm="rate of growth"><i>rate</i><par n="house__n"/><p><l><b/>of<b/>growth</l><r><g><b/>of<b/>growth</g></r></p></e>
+    <e lm="rate of inflation"><i>rate</i><par n="house__n"/><p><l><b/>of<b/>inflation</l><r><g><b/>of<b/>inflation</g></r></p></e>
+    <e lm="rate of profit"><i>rate</i><par n="house__n"/><p><l><b/>of<b/>profit</l><r><g><b/>of<b/>profit</g></r></p></e>
     <e lm="rating"><i>rating</i><par n="house__n"/></e>
     <e lm="ratio"><i>ratio</i><par n="house__n"/></e>
     <e lm="ration"><i>ration</i><par n="house__n"/></e>
@@ -13185,6 +13408,7 @@
     <e lm="region"><i>region</i><par n="house__n"/></e>
     <e lm="regionalism"><i>regionalism</i><par n="house__n"/></e>
     <e lm="register"><i>register</i><par n="house__n"/></e>
+    <e lm="register of names"><i>register</i><par n="house__n"/><p><l><b/>of<b/>names</l><r><g><b/>of<b/>names</g></r></p></e>
     <e lm="registered letter"><i>registered<b/>letter</i><par n="house__n"/></e>
     <e lm="registered mail"><i>registered<b/>mail</i><par n="house__n"/></e>
     <e lm="registered nurse"><i>registered<b/>nurse</i><par n="house__n"/></e>
@@ -13192,6 +13416,7 @@
     <e lm="registrant"><i>registrant</i><par n="house__n"/></e>
     <e lm="registrar"><i>registrar</i><par n="house__n"/></e>
     <e lm="registration"><i>registration</i><par n="house__n"/></e>
+    <e lm="registration of new vehicles"><i>registration</i><par n="house__n"/><p><l><b/>of<b/>new<b/>vehicles</l><r><g><b/>of<b/>new<b/>vehicles</g></r></p></e>
     <e lm="regression"><i>regression</i><par n="house__n"/></e>
     <e lm="regret"><i>regret</i><par n="house__n"/></e>
     <e lm="regular customer"><i>regular<b/>customer</i><par n="house__n"/></e>
@@ -13282,6 +13507,7 @@
     <e lm="repossession"><i>repossession</i><par n="house__n"/></e>
     <e lm="representation"><i>representation</i><par n="house__n"/></e>
     <e lm="representative"><i>representative</i><par n="house__n"/></e>
+    <e lm="representative of the people"><i>representative</i><par n="house__n"/><p><l><b/>of<b/>the<b/>people</l><r><g><b/>of<b/>the<b/>people</g></r></p></e>
     <e lm="representativeness"><i>representativeness</i><par n="access__n"/></e>
     <e lm="repression"><i>repression</i><par n="house__n"/></e>
     <e lm="reprieve"><i>reprieve</i><par n="house__n"/></e>
@@ -13380,6 +13606,7 @@
     <e lm="retrospect"><i>retrospect</i><par n="house__n"/></e>
     <e lm="retrospection"><i>retrospection</i><par n="house__n"/></e>
     <e lm="return"><i>return</i><par n="house__n"/></e>
+    <e lm="return of investment"><i>return</i><par n="house__n"/><p><l><b/>of<b/>investment</l><r><g><b/>of<b/>investment</g></r></p></e>
     <e lm="return ticket"><i>return<b/>ticket</i><par n="house__n"/></e>
     <e lm="return trip"><i>return<b/>trip</i><par n="house__n"/></e>
     <e lm="reunification"><i>reunification</i><par n="house__n"/></e>
@@ -13445,6 +13672,7 @@
     <e lm="right"><i>right</i><par n="house__n"/></e>
     <e lm="right hand"><i>right<b/>hand</i><par n="house__n"/></e>
     <e lm="right hander"><i>right<b/>hander</i><par n="house__n"/></e>
+    <e lm="right of way"><i>right</i><par n="house__n"/><p><l><b/>of<b/>way</l><r><g><b/>of<b/>way</g></r></p></e>
     <e lm="right side"><i>right<b/>side</i><par n="house__n"/></e>
     <e lm="right word"><i>right<b/>word</i><par n="house__n"/></e>
     <e lm="rightness"><i>rightness</i><par n="access__n"/></e>
@@ -13465,6 +13693,7 @@
     <e c="(GB)" lm="rise"><i>rise</i><par n="house__n"/></e>
     <e lm="risk"><i>risk</i><par n="house__n"/></e>
     <e lm="risk management"><i>risk<b/>management</i><par n="east__n"/></e>
+    <e lm="risk of infection"><i>risk</i><par n="house__n"/><p><l><b/>of<b/>infection</l><r><g><b/>of<b/>infection</g></r></p></e>
     <e lm="riskiness"><i>riskiness</i><par n="access__n"/></e>
     <e lm="rite"><i>rite</i><par n="house__n"/></e>
     <e lm="ritual"><i>ritual</i><par n="house__n"/></e>
@@ -13523,6 +13752,7 @@
     <e lm="roost"><i>roost</i><par n="house__n"/></e>
     <e lm="rooster"><i>rooster</i><par n="house__n"/></e>
     <e lm="root"><i>root</i><par n="house__n"/></e>
+    <e lm="root of a tooth"><i>root</i><par n="house__n"/><p><l><b/>of<b/>a<b/>tooth</l><r><g><b/>of<b/>a<b/>tooth</g></r></p></e>
     <e lm="rooting"><i>rooting</i><par n="house__n"/></e>
     <e lm="roots"><i>roots</i><par n="politics__n"/></e>
     <e lm="rope"><i>rope</i><par n="house__n"/></e>
@@ -13577,6 +13807,9 @@
     <e lm="ruination"><i>ruination</i><par n="house__n"/></e>
     <e lm="rule"><i>rule</i><par n="house__n"/></e>
     <e lm="rule of competition"><i>rule</i><par n="house__n"/><p><l><b/>of<b/>competition</l><r><g><b/>of<b/>competition</g></r></p></e>
+    <e lm="rule of the game"><i>rule</i><par n="house__n"/><p><l><b/>of<b/>the<b/>game</l><r><g><b/>of<b/>the<b/>game</g></r></p></e>
+    <e lm="rule of the road"><i>rule</i><par n="house__n"/><p><l><b/>of<b/>the<b/>road</l><r><g><b/>of<b/>the<b/>road</g></r></p></e>
+    <e lm="rule of thumb"><i>rule</i><par n="house__n"/><p><l><b/>of<b/>thumb</l><r><g><b/>of<b/>thumb</g></r></p></e>
     <e lm="ruler"><i>ruler</i><par n="house__n"/></e>
     <e lm="ruling"><i>ruling</i><par n="house__n"/></e>
     <e lm="rum"><i>rum</i><par n="house__n"/></e>
@@ -13889,6 +14122,7 @@
     <e lm="season"><i>season</i><par n="house__n"/></e>
     <e lm="seat"><i>seat</i><par n="house__n"/></e>
     <e lm="seat belt"><i>seat<b/>belt</i><par n="house__n"/></e>
+    <e lm="seat of the trousers"><i>seat</i><par n="house__n"/><p><l><b/>of<b/>the<b/>trousers</l><r><g><b/>of<b/>the<b/>trousers</g></r></p></e>
     <e lm="seat-belt" r="LR"><i>seat-belt</i><par n="house__n"/></e>
     <e lm="seawall"><i>seawall</i><par n="house__n"/></e>
     <e lm="seaway"><i>seaway</i><par n="house__n"/></e>
@@ -13910,6 +14144,7 @@
     <e lm="secretiveness"><i>secretiveness</i><par n="access__n"/></e>
     <e lm="sect"><i>sect</i><par n="house__n"/></e>
     <e lm="section"><i>section</i><par n="house__n"/></e>
+    <e lm="section of the population"><i>section</i><par n="house__n"/><p><l><b/>of<b/>the<b/>population</l><r><g><b/>of<b/>the<b/>population</g></r></p></e>
     <e lm="sector"><i>sector</i><par n="house__n"/></e>
     <e lm="secularisation"><i>secularisation</i><par n="house__n"/></e>
     <e lm="secularism"><i>secularism</i><par n="east__n"/></e>
@@ -13979,6 +14214,8 @@
     <e lm="sensation"><i>sensation</i><par n="house__n"/></e>
     <e lm="sensationalism"><i>sensationalism</i><par n="house__n"/></e>
     <e lm="sense"><i>sense</i><par n="house__n"/></e>
+    <e lm="sense of proportion"><i>sense</i><par n="house__n"/><p><l><b/>of<b/>proportion</l><r><g><b/>of<b/>proportion</g></r></p></e>
+    <e lm="sense of well-being"><i>sense</i><par n="house__n"/><p><l><b/>of<b/>well-being</l><r><g><b/>of<b/>well-being</g></r></p></e>
     <e lm="sensitisation"><i>sensitisation</i><par n="house__n"/></e>
     <e lm="sensitivity"><i>sensitivit</i><par n="bab/y__n"/></e>
     <e lm="sensor"><i>sensor</i><par n="house__n"/></e>
@@ -14019,6 +14256,7 @@
     <e lm="sesame"><i>sesame</i><par n="house__n"/></e>
     <e lm="session"><i>session</i><par n="house__n"/></e>
     <e lm="set"><i>set</i><par n="house__n"/></e>
+    <e lm="set of rules"><i>set</i><par n="house__n"/><p><l><b/>of<b/>rules</l><r><g><b/>of<b/>rules</g></r></p></e>
     <e lm="set theory"><i>set<b/>theor</i><par n="bab/y__n"/></e>
     <e lm="setscrew"><i>setscrew</i><par n="house__n"/></e>
     <e lm="settee"><i>settee</i><par n="house__n"/></e>
@@ -14168,6 +14406,7 @@
     <e lm="showcase"><i>showcase</i><par n="house__n"/></e>
     <e lm="shower"><i>shower</i><par n="house__n"/></e>
     <e lm="shower cap"><i>shower<b/>cap</i><par n="house__n"/></e>
+    <e lm="shower of rain"><i>shower</i><par n="house__n"/><p><l><b/>of<b/>rain</l><r><g><b/>of<b/>rain</g></r></p></e>
     <e lm="showercap"><i>showercap</i><par n="house__n"/></e>
     <e lm="showman"><i>showm</i><par n="m/an__n"/></e>
     <e lm="showmanship"><i>showmanship</i><par n="house__n"/></e>
@@ -14190,6 +14429,7 @@
     <e lm="sickle"><i>sickle</i><par n="house__n"/></e>
     <e lm="sickness"><i>sickness</i><par n="access__n"/></e>
     <e lm="side"><i>side</i><par n="house__n"/></e>
+    <e lm="side of the street"><i>side</i><par n="house__n"/><p><l><b/>of<b/>the<b/>street</l><r><g><b/>of<b/>the<b/>street</g></r></p></e>
     <e lm="side street"><i>side<b/>street</i><par n="house__n"/></e>
     <e lm="side-effect"><i>side-effect</i><par n="house__n"/></e>
     <e lm="sideboard"><i>sideboard</i><par n="house__n"/></e>
@@ -14204,6 +14444,7 @@
     <e lm="sightseeing tour"><i>sightseeing<b/>tour</i><par n="house__n"/></e>
     <e lm="sign"><i>sign</i><par n="house__n"/></e>
     <e lm="sign language"><i>sign<b/>language</i><par n="house__n"/></e>
+    <e lm="sign of the zodiac"><i>sign</i><par n="house__n"/><p><l><b/>of<b/>the<b/>zodiac</l><r><g><b/>of<b/>the<b/>zodiac</g></r></p></e>
     <e lm="signal"><i>signal</i><par n="house__n"/></e>
     <e lm="signal-rocket"><i>signal-rocket</i><par n="house__n"/></e>
     <e lm="signalman"><i>signalm</i><par n="m/an__n"/></e>
@@ -14494,6 +14735,7 @@
     <e lm="somersault"><i>somersault</i><par n="house__n"/></e>
     <e lm="sommelier"><i>sommelier</i><par n="house__n"/></e>
     <e lm="son"><i>son</i><par n="house__n"/></e>
+    <e lm="son-in-law"><i>son</i><par n="house__n"/><p><l>-in-law</l><r><g>-in-law</g></r></p></e>
     <e lm="song"><i>song</i><par n="house__n"/></e>
     <e lm="song book"><i>song<b/>book</i><par n="house__n"/></e>
     <e lm="songbird"><i>songbird</i><par n="house__n"/></e>
@@ -14522,12 +14764,15 @@
     <e lm="soul"><i>soul</i><par n="house__n"/></e>
     <e lm="soulfulness"><i>soulfulness</i><par n="access__n"/></e>
     <e lm="sound"><i>sound</i><par n="house__n"/></e>
+    <e lm="sound of snoring"><i>sound</i><par n="house__n"/><p><l><b/>of<b/>snoring</l><r><g><b/>of<b/>snoring</g></r></p></e>
     <e lm="sound-technician"><i>sound-technician</i><par n="house__n"/></e>
     <e lm="soundlessness"><i>soundlessness</i><par n="access__n"/></e>
     <e lm="soundness"><i>soundness</i><par n="access__n"/></e>
     <e lm="soup"><i>soup</i><par n="house__n"/></e>
     <e lm="soup of the day"><i>soup</i><par n="house__n"/><p><l><b/>of<b/>the<b/>day</l><r><g><b/>of<b/>the<b/>day</g></r></p></e>
     <e lm="source"><i>source</i><par n="house__n"/></e>
+    <e lm="source of error"><i>source</i><par n="house__n"/><p><l><b/>of<b/>error</l><r><g><b/>of<b/>error</g></r></p></e>
+    <e lm="source of income"><i>source</i><par n="house__n"/><p><l><b/>of<b/>income</l><r><g><b/>of<b/>income</g></r></p></e>
     <e lm="sourness"><i>sourness</i><par n="access__n"/></e>
     <e lm="south"><i>south</i><par n="east__n"/></e>
     <e lm="South American"><i>South<b/>American</i><par n="house__n"/></e>
@@ -14592,6 +14837,7 @@
     <e c="(GB)" lm="speciality"><i>specialit</i><par n="bab/y__n"/></e>
     <e lm="specialty" r="LR"><p><l>specialty</l><r>speciality</r></p><par n="house__n"/></e>
     <e lm="species"><i>species</i><par n="politics__n"/></e>
+    <e lm="species of fish"><i>species</i><par n="politics__n"/><p><l><b/>of<b/>fish</l><r><g><b/>of<b/>fish</g></r></p></e>
     <e lm="specification"><i>specification</i><par n="house__n"/></e>
     <e lm="specificity"><i>specificit</i><par n="bab/y__n"/></e>
     <e lm="speck"><i>speck</i><par n="house__n"/></e>
@@ -14619,6 +14865,7 @@
     <e lm="spermatozoid"><i>spermatozoid</i><par n="house__n"/></e>
     <e lm="spermatozoon"><i>spermatozo</i><par n="criteri/on__n"/></e>
     <e lm="sphere"><i>sphere</i><par n="house__n"/></e>
+    <e lm="sphere of life"><i>sphere</i><par n="house__n"/><p><l><b/>of<b/>life</l><r><g><b/>of<b/>life</g></r></p></e>
     <e lm="spice"><i>spice</i><par n="house__n"/></e>
     <e lm="spider"><i>spider</i><par n="house__n"/></e>
     <e lm="spigot"><i>spigot</i><par n="house__n"/></e>
@@ -14734,6 +14981,7 @@
     <e lm="stage"><i>stage</i><par n="house__n"/></e>
     <e lm="stage design"><i>stage<b/>design</i><par n="house__n"/></e>
     <e lm="stage light"><i>stage<b/>light</i><par n="house__n"/></e>
+    <e lm="stage of construction"><i>stage</i><par n="house__n"/><p><l><b/>of<b/>construction</l><r><g><b/>of<b/>construction</g></r></p></e>
     <e lm="stagnancy"><i>stagnanc</i><par n="bab/y__n"/></e>
     <e lm="stagnation"><i>stagnation</i><par n="house__n"/></e>
     <e lm="stain"><i>stain</i><par n="house__n"/></e>
@@ -14755,6 +15003,7 @@
     <e lm="stance"><i>stance</i><par n="house__n"/></e>
     <e lm="stand"><i>stand</i><par n="house__n"/></e>
     <e lm="standard"><i>standard</i><par n="house__n"/></e>
+    <e lm="standard of living"><i>standard</i><par n="house__n"/><p><l><b/>of<b/>living</l><r><g><b/>of<b/>living</g></r></p></e>
     <e lm="standout"><i>standout</i><par n="house__n"/></e>
     <e lm="standpoint"><i>standpoint</i><par n="house__n"/></e>
     <e lm="standstill"><i>standstill</i><par n="house__n"/></e>
@@ -14767,11 +15016,14 @@
     <e lm="starfish"><i>starfish</i><par n="bass__n"/></e>
     <e lm="starlet"><i>starlet</i><par n="house__n"/></e>
     <e lm="start"><i>start</i><par n="house__n"/></e>
+    <e lm="start of record"><i>start</i><par n="house__n"/><p><l><b/>of<b/>record</l><r><g><b/>of<b/>record</g></r></p></e>
     <e lm="starter"><i>starter</i><par n="house__n"/></e>
     <e lm="startup"><i>startup</i><par n="house__n"/></e>
     <e lm="starvation"><i>starvation</i><par n="house__n"/></e>
     <e lm="state"><i>state</i><par n="house__n"/></e>
     <e lm="State Crown"><i>State<b/>Crown</i><par n="house__n"/></e>
+    <e lm="state of emergency"><i>state</i><par n="house__n"/><p><l><b/>of<b/>emergency</l><r><g><b/>of<b/>emergency</g></r></p></e>
+    <e lm="state of health"><i>state</i><par n="house__n"/><p><l><b/>of<b/>health</l><r><g><b/>of<b/>health</g></r></p></e>
     <e lm="statehood"><i>statehood</i><par n="house__n"/></e>
     <e lm="statement"><i>statement</i><par n="house__n"/></e>
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/></e>
@@ -14904,6 +15156,7 @@
     <e lm="straw"><i>straw</i><par n="house__n"/></e>
     <e lm="strawberry"><i>strawberr</i><par n="bab/y__n"/></e>
     <e lm="streak"><i>streak</i><par n="house__n"/></e>
+    <e lm="streak of bad luck"><i>streak</i><par n="house__n"/><p><l><b/>of<b/>bad<b/>luck</l><r><g><b/>of<b/>bad<b/>luck</g></r></p></e>
     <e lm="stream"><i>stream</i><par n="house__n"/></e>
     <e lm="streamer"><i>streamer</i><par n="house__n"/></e>
     <e lm="streamlet"><i>streamlet</i><par n="house__n"/></e>
@@ -14918,6 +15171,8 @@
     <e lm="streptomycin"><i>streptomycin</i><par n="house__n"/></e>
     <e lm="stress"><i>stress</i><par n="access__n"/></e>
     <e lm="stretch"><i>stretch</i><par n="access__n"/></e>
+    <e lm="stretch of water"><i>stretch</i><par n="access__n"/><p><l><b/>of<b/>water</l><r><g><b/>of<b/>water</g></r></p></e>
+    <e lm="stretch of way"><i>stretch</i><par n="access__n"/><p><l><b/>of<b/>way</l><r><g><b/>of<b/>way</g></r></p></e>
     <e lm="stretcher"><i>stretcher</i><par n="house__n"/></e>
     <e lm="stretching"><i>stretching</i><par n="house__n"/></e>
     <e lm="strictness"><i>strictness</i><par n="access__n"/></e>
@@ -14935,6 +15190,7 @@
     <e lm="striptease"><i>striptease</i><par n="house__n"/></e>
     <e lm="stroke"><i>stroke</i><par n="house__n"/></e>
     <e lm="stroke of genius"><i>stroke</i><par n="house__n"/><p><l><b/>of<b/>genius</l><r><g><b/>of<b/>genius</g></r></p></e>
+    <e lm="stroke of lightning"><i>stroke</i><par n="house__n"/><p><l><b/>of<b/>lightning</l><r><g><b/>of<b/>lightning</g></r></p></e>
     <e lm="stroke of luck"><i>stroke</i><par n="house__n"/><p><l><b/>of<b/>luck</l><r><g><b/>of<b/>luck</g></r></p></e>
     <e lm="stroller"><i>stroller</i><par n="house__n"/></e>
     <e lm="stronghold"><i>stronghold</i><par n="house__n"/></e>
@@ -15191,6 +15447,7 @@
     <e lm="swivel"><i>swivel</i><par n="house__n"/></e>
     <e lm="swoop"><i>swoop</i><par n="house__n"/></e>
     <e lm="sword"><i>sword</i><par n="house__n"/></e>
+    <e lm="sword of Damocles"><i>sword</i><par n="house__n"/><p><l><b/>of<b/>Damocles</l><r><g><b/>of<b/>Damocles</g></r></p></e>
     <e lm="swordsman"><i>swordsm</i><par n="m/an__n"/></e>
     <e lm="swordsmanship"><i>swordsmanship</i><par n="house__n"/></e>
     <e lm="sycophant"><i>sycophant</i><par n="house__n"/></e>
@@ -15222,6 +15479,7 @@
     <e lm="syringe"><i>syringe</i><par n="house__n"/></e>
     <e lm="syrup"><i>syrup</i><par n="house__n"/></e>
     <e lm="system"><i>system</i><par n="house__n"/></e>
+    <e lm="system of equations"><i>system</i><par n="house__n"/><p><l><b/>of<b/>equations</l><r><g><b/>of<b/>equations</g></r></p></e>
     <e lm="systematics"><i>systematics</i><par n="politics__n"/></e>
     <e lm="systems analyst"><i>systems<b/>analyst</i><par n="house__n"/></e>
     <e lm="T-shirt"><i>T-shirt</i><par n="house__n"/></e>
@@ -15255,6 +15513,8 @@
     <e c="(GB)" lm="takeaway"><i>takeaway</i><par n="house__n"/></e>
     <e lm="takeoff"><i>takeoff</i><par n="house__n"/></e>
     <e lm="taker"><i>taker</i><par n="house__n"/></e>
+    <e lm="taking"><i>taking</i><par n="house__n"/></e>
+    <e lm="taking of hostage"><i>taking</i><par n="house__n"/><p><l><b/>of<b/>hostage</l><r><g><b/>of<b/>hostage</g></r></p></e>
     <e lm="tale"><i>tale</i><par n="house__n"/></e>
     <e lm="talent"><i>talent</i><par n="house__n"/></e>
     <e lm="talisman"><i>talism</i><par n="m/an__n"/></e>
@@ -15328,6 +15588,7 @@
     <e lm="tea-spoon"><i>tea-spoon</i><par n="house__n"/></e>
     <e lm="tea-time"><i>tea-time</i><par n="house__n"/></e>
     <e lm="teacher"><i>teacher</i><par n="house__n"/></e>
+    <e lm="teacher of languages"><i>teacher</i><par n="house__n"/><p><l><b/>of<b/>languages</l><r><g><b/>of<b/>languages</g></r></p></e>
     <e lm="teacher training college"><i>teacher<b/>training<b/>college</i><par n="house__n"/></e>
     <e lm="teaching"><i>teaching</i><par n="house__n"/></e>
     <e lm="teaching material"><i>teaching<b/>material</i><par n="house__n"/></e>
@@ -15431,6 +15692,7 @@
     <e lm="tenth"><i>tenth</i><par n="house__n"/></e>
     <e lm="tequila"><i>tequila</i><par n="house__n"/></e>
     <e lm="term"><i>term</i><par n="house__n"/></e>
+    <e lm="term of imprisonment"><i>term</i><par n="house__n"/><p><l><b/>of<b/>imprisonment</l><r><g><b/>of<b/>imprisonment</g></r></p></e>
     <e lm="term of office"><i>term</i><par n="house__n"/><p><l><b/>of<b/>office</l><r><g><b/>of<b/>office</g></r></p></e>
     <e lm="terminal"><i>terminal</i><par n="house__n"/></e>
     <e lm="termination"><i>termination</i><par n="house__n"/></e>
@@ -15449,6 +15711,7 @@
     <e lm="tessitura"><i>tessitura</i><par n="house__n"/></e>
     <e lm="test"><i>test</i><par n="house__n"/></e>
     <e c="(GB)" lm="test match"><i>test<b/>match</i><par n="access__n"/></e>
+    <e lm="test of patience"><i>test</i><par n="house__n"/><p><l><b/>of<b/>patience</l><r><g><b/>of<b/>patience</g></r></p></e>
     <e lm="testament"><i>testament</i><par n="house__n"/></e>
     <e lm="tester"><i>tester</i><par n="house__n"/></e>
     <e lm="testicle"><i>testicle</i><par n="house__n"/></e>
@@ -15551,6 +15814,7 @@
     <e lm="time machine"><i>time<b/>machine</i><par n="house__n"/></e>
     <e lm="time of arrival"><i>time</i><par n="house__n"/><p><l><b/>of<b/>arrival</l><r><g><b/>of<b/>arrival</g></r></p></e>
     <e lm="time of change"><i>time</i><par n="house__n"/><p><l><b/>of<b/>change</l><r><g><b/>of<b/>change</g></r></p></e>
+    <e lm="time of circulation"><i>time</i><par n="house__n"/><p><l><b/>of<b/>circulation</l><r><g><b/>of<b/>circulation</g></r></p></e>
     <e lm="time-book"><i>time-book</i><par n="house__n"/></e>
     <e lm="time-table"><i>time-table</i><par n="house__n"/></e>
     <e lm="timekeeper"><i>timekeeper</i><par n="house__n"/></e>
@@ -15805,6 +16069,7 @@
     <e lm="treatment"><i>treatment</i><par n="house__n"/></e>
     <e lm="treaty"><i>treat</i><par n="bab/y__n"/></e>
     <e lm="tree"><i>tree</i><par n="house__n"/></e>
+    <e lm="tree of heaven"><i>tree</i><par n="house__n"/><p><l><b/>of<b/>heaven</l><r><g><b/>of<b/>heaven</g></r></p></e>
     <e lm="tree of knowledge"><i>tree</i><par n="house__n"/><p><l><b/>of<b/>knowledge</l><r><g><b/>of<b/>knowledge</g></r></p></e>
     <e lm="tree trunk"><i>tree<b/>trunk</i><par n="house__n"/></e>
     <e lm="trefoil"><i>trefoil</i><par n="house__n"/></e>
@@ -15959,6 +16224,7 @@
     <e lm="twine"><i>twine</i><par n="house__n"/></e>
     <e lm="twinning"><i>twinning</i><par n="house__n"/></e>
     <e lm="twist"><i>twist</i><par n="house__n"/></e>
+    <e lm="twist of lemon"><i>twist</i><par n="house__n"/><p><l><b/>of<b/>lemon</l><r><g><b/>of<b/>lemon</g></r></p></e>
     <e lm="twister"><i>twister</i><par n="house__n"/></e>
     <e lm="twitch"><i>twitch</i><par n="access__n"/></e>
     <e lm="twittering"><i>twittering</i><par n="east__n"/></e>
@@ -15968,6 +16234,9 @@
     <e lm="tympanist"><i>tympanist</i><par n="house__n"/></e>
     <e lm="type"><i>type</i><par n="house__n"/></e>
     <e lm="type font"><i>type<b/>font</i><par n="house__n"/></e>
+    <e lm="type of coin"><i>type</i><par n="house__n"/><p><l><b/>of<b/>coin</l><r><g><b/>of<b/>coin</g></r></p></e>
+    <e lm="type of corn"><i>type</i><par n="house__n"/><p><l><b/>of<b/>corn</l><r><g><b/>of<b/>corn</g></r></p></e>
+    <e lm="type of grape"><i>type</i><par n="house__n"/><p><l><b/>of<b/>grape</l><r><g><b/>of<b/>grape</g></r></p></e>
     <e lm="typeface"><i>typeface</i><par n="house__n"/></e>
     <e lm="typewriter"><i>typewriter</i><par n="house__n"/></e>
     <e lm="typhoid"><i>typhoid</i><par n="house__n"/></e>
@@ -16001,6 +16270,7 @@
     <e lm="uncertainty"><i>uncertaint</i><par n="bab/y__n"/></e>
     <e lm="unchangeability"><i>unchangeabilit</i><par n="bab/y__n"/></e>
     <e lm="uncle"><i>uncle</i><par n="house__n"/></e>
+    <e lm="uncle-in-law"><i>uncle</i><par n="house__n"/><p><l>-in-law</l><r><g>-in-law</g></r></p></e>
     <e lm="uncoiling"><i>uncoiling</i><par n="house__n"/></e>
     <e lm="uncomfortableness"><i>uncomfortableness</i><par n="access__n"/></e>
     <e lm="unconsciousness"><i>unconsciousness</i><par n="east__n"/></e>
@@ -16144,6 +16414,8 @@
     <e lm="vagrancy"><i>vagranc</i><par n="bab/y__n"/></e>
     <e lm="vagrant"><i>vagrant</i><par n="house__n"/></e>
     <e lm="vagueness"><i>vagueness</i><par n="access__n"/></e>
+    <e lm="vale"><i>vale</i><par n="house__n"/></e>
+    <e lm="vale of tears"><i>vale</i><par n="house__n"/><p><l><b/>of<b/>tears</l><r><g><b/>of<b/>tears</g></r></p></e>
     <e lm="Valencian"><par n="Vv"/><i>alencian</i><par n="house__n"/></e>
     <e lm="valency"><i>valenc</i><par n="bab/y__n"/></e>
     <e lm="validation"><i>validation</i><par n="house__n"/></e>
@@ -16418,6 +16690,8 @@
     <e lm="wanker"><i>wanker</i><par n="house__n"/></e>
     <e lm="wantonness"><i>wantonness</i><par n="access__n"/></e>
     <e lm="war"><i>war</i><par n="house__n"/></e>
+    <e lm="war of independence"><i>war</i><par n="house__n"/><p><l><b/>of<b/>independence</l><r><g><b/>of<b/>independence</g></r></p></e>
+    <e lm="war of religion"><i>war</i><par n="house__n"/><p><l><b/>of<b/>religion</l><r><g><b/>of<b/>religion</g></r></p></e>
     <e lm="ward"><i>ward</i><par n="house__n"/></e>
     <e lm="ward orderly"><i>ward<b/>orderl</i><par n="bab/y__n"/></e>
     <e lm="warder"><i>warder</i><par n="house__n"/></e>
@@ -16489,11 +16763,13 @@
     <e lm="waxwing"><i>waxwing</i><par n="house__n"/></e>
     <e lm="way"><i>way</i><par n="house__n"/></e>
     <e lm="way home"><i>way<b/>home</i><par n="house__n"/></e>
+    <e lm="way of thinking"><i>way</i><par n="house__n"/><p><l><b/>of<b/>thinking</l><r><g><b/>of<b/>thinking</g></r></p></e>
     <e lm="waybill"><i>waybill</i><par n="house__n"/></e>
     <e lm="waystation"><i>waystation</i><par n="house__n"/></e>
     <e lm="weakness"><i>weakness</i><par n="access__n"/></e>
     <e lm="wealth"><i>wealth</i><par n="house__n"/></e>
     <e lm="weapon"><i>weapon</i><par n="house__n"/></e>
+    <e lm="weapon of mass destruction"><i>weapon</i><par n="house__n"/><p><l><b/>of<b/>mass<b/>destruction</l><r><g><b/>of<b/>mass<b/>destruction</g></r></p></e>
     <e lm="weapons market"><i>weapons<b/>market</i><par n="house__n"/></e>
     <e lm="wear"><i>wear</i><par n="house__n"/></e>
     <e lm="weasel"><i>weasel</i><par n="house__n"/></e>
@@ -16595,6 +16871,7 @@
     <e lm="whistling"><i>whistling</i><par n="east__n"/></e>
     <e lm="white"><i>white</i><par n="house__n"/></e>
     <e lm="white blood cell"><i>white<b/>blood<b/>cell</i><par n="house__n"/></e>
+    <e lm="white of an egg"><i>white</i><par n="house__n"/><p><l><b/>of<b/>an<b/>egg</l><r><g><b/>of<b/>an<b/>egg</g></r></p></e>
     <e lm="white wine"><i>white<b/>wine</i><par n="house__n"/></e>
     <e lm="whitener"><i>whitener</i><par n="house__n"/></e>
     <e lm="whiteness"><i>whiteness</i><par n="access__n"/></e>
@@ -16692,6 +16969,7 @@
     <e lm="wolf"><i>wol</i><par n="wol/f__n"/></e>
     <e lm="woman"><i>wom</i><par n="m/an__n"/></e>
     <e lm="woman in confinement"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>confinement</l><r><g><b/>in<b/>confinement</g></r></p></e>
+    <e lm="woman of one's dreams"><i>wom</i><par n="m/an__n"/><p><l><b/>of<b/>one's<b/>dreams</l><r><g><b/>of<b/>one's<b/>dreams</g></r></p></e>
     <e lm="woman teacher"><i>woman<b/>teacher</i><par n="house__n"/></e>
     <e lm="womanhood"><i>womanhood</i><par n="house__n"/></e>
     <e lm="womankind"><i>womankind</i><par n="house__n"/></e>
@@ -16721,6 +16999,7 @@
     <e lm="word"><i>word</i><par n="house__n"/></e>
     <e lm="word class"><i>word<b/>class</i><par n="access__n"/></e>
     <e lm="word game"><i>word<b/>game</i><par n="house__n"/></e>
+    <e lm="word of consent"><i>word</i><par n="house__n"/><p><l><b/>of<b/>consent</l><r><g><b/>of<b/>consent</g></r></p></e>
     <e lm="word of thanks"><i>word</i><par n="house__n"/><p><l><b/>of<b/>thanks</l><r><g><b/>of<b/>thanks</g></r></p></e>
     <e lm="work"><i>work</i><par n="house__n"/></e>
     <e lm="work group"><i>work<b/>group</i><par n="house__n"/></e>
@@ -16806,6 +17085,8 @@
     <e lm="yawl"><i>yawl</i><par n="house__n"/></e>
     <e lm="yaws"><i>yaws</i><par n="politics__n"/></e>
     <e lm="year"><i>year</i><par n="house__n"/></e>
+    <e lm="year of one's life"><i>year</i><par n="house__n"/><p><l><b/>of<b/>one's<b/>life</l><r><g><b/>of<b/>one's<b/>life</g></r></p></e>
+    <e lm="year of travel"><i>year</i><par n="house__n"/><p><l><b/>of<b/>travel</l><r><g><b/>of<b/>travel</g></r></p></e>
     <e lm="yearbook"><i>yearbook</i><par n="house__n"/></e>
     <e lm="yeast"><i>yeast</i><par n="house__n"/></e>
     <e lm="yen"><i>yen</i><par n="house__n"/></e>
