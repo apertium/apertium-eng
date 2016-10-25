@@ -988,6 +988,13 @@
       <e r="LR"><p><l>ums</l>      <r>um<s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="moment/um__n">
+      <e>       <p><l>um</l>       <r>um<s n="n"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ums</l>      <r>um<s n="n"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ums'</l>     <r>um<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e r="LR"><p><l>a</l>        <r>um<s n="n"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="mon/ey__n">
       <e>       <p><l>ey</l>       <r>ey<s n="n"/><s n="sg"/></r></p></e>
       <e>       <p><l>eys</l>      <r>ey<s n="n"/><s n="pl"/></r></p></e>
@@ -4992,6 +4999,7 @@
     <e lm="building industry"><i>building<b/>industr</i><par n="bab/y__n"/></e>
     <e lm="building society"><i>building<b/>societ</i><par n="bab/y__n"/></e>
     <e lm="buildup"><i>buildup</i><par n="house__n"/></e>
+    <e lm="build-up"><i>build-up</i><par n="house__n"/></e>
     <e lm="bulb"><i>bulb</i><par n="house__n"/></e>
     <e lm="Bulgarian"><par n="Bb"/><i>ulgarian</i><par n="house__n"/></e>
     <e lm="bulimia"><i>bulimia</i><par n="east__n"/></e>
@@ -5105,6 +5113,7 @@
     <e lm="calcium"><i>calcium</i><par n="house__n"/></e>
     <e lm="calculation"><i>calculation</i><par n="house__n"/></e>
     <e lm="calculator"><i>calculator</i><par n="house__n"/></e>
+    <e lm="calculus"><i>calcul</i><par n="calcul/us__n"/></e>
     <e lm="calendar"><i>calendar</i><par n="house__n"/></e>
     <e lm="calf"><i>cal</i><par n="wol/f__n"/></e>
     <e lm="calibration"><i>calibration</i><par n="house__n"/></e>
@@ -5863,6 +5872,7 @@
     <e lm="colony"><i>colon</i><par n="bab/y__n"/></e>
     <e lm="colophon"><i>colophon</i><par n="house__n"/></e>
     <e lm="colossus"><i>colossus</i><par n="access__n"/></e>
+    <e c="(US)" lm="color"><i>color</i><par n="house__n"/></e>
     <e c="(GB)" lm="colour"><i>colour</i><par n="house__n"/></e>
     <e c="(GB)" lm="colour film"><i>colour<b/>film</i><par n="house__n"/></e>
     <e lm="colour of the skin"><i>colour</i><par n="house__n"/><p><l><b/>of<b/>the<b/>skin</l><r><g><b/>of<b/>the<b/>skin</g></r></p></e>
@@ -11173,6 +11183,7 @@
     <e lm="molybdenum"><i>molybdenum</i><par n="house__n"/></e>
     <e lm="mom"><i>mom</i><par n="house__n"/></e>
     <e lm="moment"><i>moment</i><par n="house__n"/></e>
+    <e lm="momentum"><i>moment</i><par n="moment/um__n"/></e>
     <e c="(US)" lm="mommy"><i>momm</i><par n="bab/y__n"/></e>
     <e lm="monarch"><i>monarch</i><par n="access__n"/></e>
     <e lm="monarchism"><i>monarchism</i><par n="house__n"/></e>
@@ -13179,6 +13190,7 @@
     <e lm="qualm"><i>qualm</i><par n="house__n"/></e>
     <e lm="quandary"><i>quandar</i><par n="bab/y__n"/></e>
     <e lm="quantity"><i>quantit</i><par n="bab/y__n"/></e>
+    <e lm="quantum"><i>quant</i><par n="maxim/um__n"/></e>
     <e lm="quarantine"><i>quarantine</i><par n="house__n"/></e>
     <e lm="quarrel"><i>quarrel</i><par n="house__n"/></e>
     <e lm="quarrelsomeness"><i>quarrelsomeness</i><par n="access__n"/></e>
