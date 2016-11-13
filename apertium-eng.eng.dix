@@ -1090,7 +1090,9 @@
 
     <pardef n="br/other__n">
       <e>       <p><l>other</l>    <r>other<s n="n"/><s n="sg"/></r></p></e>
+      <e>       <p><l>other's</l>  <r>other<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
       <e>       <p><l>others</l>   <r>other<s n="n"/><s n="pl"/></r></p></e>
+      <e>       <p><l>others'</l>  <r>other<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
       <e r="LR"><p><l>ethren</l>   <r>other<s n="n"/><s n="pl"/></r></p></e>
     </pardef>
 
@@ -11651,6 +11653,7 @@
     <e lm="moderation"><i>moderation</i><par n="house__n"/></e>
     <e lm="moderator"><i>moderator</i><par n="house__n"/></e>
     <e lm="modern history"><i>modern<b/>histor</i><par n="bab/y__n"/></e>
+    <e lm="modern time"><i>modern<b/>time</i><par n="house__n"/></e>
     <e lm="modern times"><i>modern<b/>times</i><par n="personnel__n"/></e>
     <e lm="modernisation"><i>modernisation</i><par n="house__n"/></e>
     <e lm="modernism"><i>modernism</i><par n="house__n"/></e>
@@ -22775,7 +22778,6 @@
     <e c="(GB)" lm="mobile"><i>mobile</i><par n="expensive__adj"/></e>
     <e lm="modal"><i>modal</i><par n="expensive__adj"/></e>
     <e lm="modern"><i>modern</i><par n="common/__adj"/></e>
-    <e lm="modern times"><i>modern<b/>time</i><par n="house__n"/></e>
     <e lm="modernist"><i>modernist</i><par n="expensive__adj"/></e>
     <e lm="modest"><i>modest</i><par n="common/__adj"/></e>
     <e lm="modish"><i>modish</i><par n="expensive__adj"/></e>
@@ -26352,6 +26354,7 @@
     <e lm="phew"><i>phew</i><par n="hello__ij"/></e>
     <e lm="please"><i>please</i><par n="hello__ij"/></e>
     <e lm="pshaw"><i>pshaw</i><par n="hello__ij"/></e>
+    <e lm="quack"><i>quack</i><par n="hello__ij"/></e>
     <e lm="shush"><i>shush</i><par n="hello__ij"/></e>
     <e lm="sir" r="RL"><i>sir</i><par n="hello__ij"/></e>
     <e lm="ssh"><i>ssh</i><par n="hello__ij"/></e>
