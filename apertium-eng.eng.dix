@@ -20686,9 +20686,10 @@
     <e lm="versus"><i>versus</i><par n="at__pr"/></e>
     <e lm="via"><i>via</i><par n="at__pr"/></e>
     <e lm="with"><i>with</i><par n="at__pr"/></e>
+    <e lm="with the aid of"><i>with<b/>the<b/>aid<b/>of</i><par n="at__pr"/></e>
+    <e lm="with the help of"><i>with<b/>the<b/>help<b/>of</i><par n="at__pr"/></e>
     <e lm="within"><i>within</i><par n="at__pr"/></e>
     <e lm="without"><i>without</i><par n="at__pr"/></e>
-
 
     <!-- SECTION: Adjectives -->
 
