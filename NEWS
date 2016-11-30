@@ -1,0 +1,13 @@
+
+### 2016, November
+
++ the lexicon from dying apertium-en-fr mostly merged in:
+  + single-token adjectives
+  + single-token adverbs
+  + single-token proper nouns
+  + single-token common nouns (~500 remain)
+  + single-token verbs
+  - NOTE: closed class words not added. hopefully they already exist in apertium-eng
+  - TODO: phrases with adj/adv/np/n/vblex not added
+
+
