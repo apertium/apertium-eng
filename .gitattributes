@@ -8,6 +8,7 @@
 /apertium-eng.eng.acx -text svneol=unset#application/xml
 /apertium-eng.eng.dix -text
 /apertium-eng.eng.rlx -text
+/apertium-eng.eng.tsx -text
 /apertium-eng.pc.in -text
 /apertium-eng.post-eng.dix -text
 /autogen.sh -text
