@@ -6,32 +6,7 @@
   </sdefs>
 
   <pardefs>
-    <pardef n="caracter_general">
-      <e> <i>;</i> </e>
-      <e> <i>#</i> </e>
-      <e> <i>)</i> </e>
-      <e> <i>:</i> </e>
-      <e> <i>(</i> </e>
-      <e> <i>[</i> </e>
-      <e> <i>]</i> </e>
-      <e> <i>"</i> </e>
-      <e> <i>'</i> </e>
-      <e> <i>*</i> </e>
-      <e> <i>@</i> </e>
-      <e> <i>«</i> </e>
-      <e> <i>-</i> </e>
-      <e> <i>,</i> </e>
-      <e> <i>?</i> </e>
-      <e> <i>/</i> </e>
-      <e> <i>`</i> </e>
-      <e> <i>±</i> </e>
-      <e> <i>­</i> </e>
-      <e> <i>$</i> </e>
-      <e> <p><l>)</l><r>:</r></p> </e> <!-- TODO: what is the purpose of this rule? -->
-      <e> <i>.</i></e>
-    </pardef>
-
-    <pardef n="vocals">
+    <pardef n="vowels">
       <e> <i>a</i> </e>
       <e> <i>e</i> </e>
       <e> <i>i</i> </e>
@@ -39,8 +14,17 @@
       <e> <i>u</i> </e>
     </pardef>
 
-    <!-- "a" no es converteix en "an" davant de les paraules que comencen per "uni" (universe, university, etc) o per "eu" (european, euroregion). tampoc ho fa davant de "u", "one", "once" -->
-    <pardef n="porten_a">
+    <!--
+	The indefinite article "a" is not changed to "an" if the initial vowel is pronounced
+	as semivowel, which happens in
+	 - "uni" [juni] as in universe, university
+	 - "eu" [jue] as in European
+	 - a number of other words, e.g. "once" [wans]
+	Here a list of such initial segments is given. To match a complete word, it must be
+	specified with trailing <b/>, e.g.
+	  <i>one<b/></i>
+    -->
+    <pardef n="require_a">
       <e> <i>uni</i>      </e>
       <e> <i>eu</i>       </e>
       <e> <i>u<b/></i>    </e>
@@ -51,22 +35,28 @@
       <e> <i>once-</i>    </e>
     </pardef>
 
-    <!-- la "a" es converteix en "an" davant d'aquestes paraules que comencen per "h" muda i els seus derivats. A més, hi ha dues excepcions de la regla anterior.-->
-    <pardef n="porten_an">
+    <!--
+	The indefinite article "a" becomes "an" before
+	- words that start with a silent "h"
+	- a number of words that are exceptions to the above rule. Exceptions work because
+	  the longer prefix wins over a shorter one.
+    -->
+    <pardef n="require_an">
       <e> <i>heir</i>      </e>
       <e> <i>honest</i>    </e>
-      <e> <i>hono</i>      </e>
+      <e> <i>hono</i>      </e> <!-- ex: honorable -->
       <e> <i>hour</i>      </e>
-      <e> <i>unim</i>      </e>
+      <!-- exceptions to other rule(s) -->
+      <e> <i>unim</i>      </e> <!-- ex: unimportant -->
       <e> <i>unin</i>      </e>
       <e> <i>unidentif</i> </e>
     </pardef>
   </pardefs>
 
   <section id="main" type="standard">
-    <e><p> <l><a/>a<b/></l> <r>an<b/></r> </p><par n="vocals"/></e>
-    <e><p> <l><a/>a<b/></l> <r>an<b/></r> </p><par n="porten_an"/></e>
-    <e><p> <l><a/>a<b/></l> <r>a<b/></r>  </p><par n="porten_a"/></e>
+    <e><p> <l><a/>a<b/></l> <r>an<b/></r> </p><par n="vowels"/></e>
+    <e><p> <l><a/>a<b/></l> <r>an<b/></r> </p><par n="require_an"/></e>
+    <e><p> <l><a/>a<b/></l> <r>a<b/></r>  </p><par n="require_a"/></e>
   </section>
 
 </dictionary>
