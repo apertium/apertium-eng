@@ -3636,7 +3636,7 @@
     <e lm="acclivity"><i>acclivit</i><par n="bab/y__n"/></e>
     <e lm="accolade"><i>accolade</i><par n="house__n"/></e>
     <e lm="accommodation"><i>accommodation</i><par n="house__n"/></e>
-    <e lm="accomodation"><i>accomodation</i><par n="house__n"/></e>
+    <e lm="accomodation" r="LR" c="typo"><p><l>accomodation</l><r>accommodation</r></p><par n="house__n"/></e>
     <e lm="accompaniment"><i>accompaniment</i><par n="house__n"/></e>
     <e lm="accompanist"><i>accompanist</i><par n="house__n"/></e>
     <e lm="accomplice"><i>accomplice</i><par n="house__n"/></e>
@@ -4040,6 +4040,7 @@
     <e lm="analgesia"><i>analgesia</i><par n="house__n"/></e>
     <e lm="analgesic"><i>analgesic</i><par n="house__n"/></e>
     <e lm="analogy"><i>analog</i><par n="bab/y__n"/></e>
+    <e lm="analyser"><i>analyser</i><par n="house__n"/></e>
     <e lm="analysis"><i>analys</i><par n="analys/is__n"/></e>
     <e lm="analyst"><i>analyst</i><par n="house__n"/></e>
     <e lm="analyzing"><i>analyzing</i><par n="house__n"/></e>
@@ -4290,6 +4291,7 @@
     <e lm="architecture"><i>architecture</i><par n="house__n"/></e>
     <e lm="architrave"><i>architrave</i><par n="house__n"/></e>
     <e lm="archive"><i>archive</i><par n="house__n"/></e>
+    <e lm="archiving"><i>archiving</i><par n="house__n"/></e>
     <e lm="archivist"><i>archivist</i><par n="house__n"/></e>
     <e lm="archivolt"><i>archivolt</i><par n="house__n"/></e>
     <e lm="archness"><i>archness</i><par n="access__n"/></e>
@@ -15851,6 +15853,7 @@
     <e lm="regalia"><i>regalia</i><par n="house__n"/></e>
     <e lm="regalism"><i>regalism</i><par n="house__n"/></e>
     <e lm="regard"><i>regard</i><par n="house__n"/></e>
+    <e lm="regatta"><i>regatta</i><par n="house__n"/></e>
     <e lm="regency"><i>regenc</i><par n="bab/y__n"/></e>
     <e lm="regeneration"><i>regeneration</i><par n="house__n"/></e>
     <e lm="Regent's Park"><i>Regent's<b/>Park</i><par n="house__n"/></e>
@@ -25952,14 +25955,13 @@
     <e lm="ocular"><i>ocular</i><par n="expensive__adj"/></e>
     <e lm="odd"><i>odd</i><par n="long/__adj"/></e>
     <e lm="odorous"><i>odorous</i><par n="expensive__adj"/></e>
-    <e lm="off-line"><i>offline</i><par n="expensive__adj"/></e>
-    <e lm="off-line" r="LR"><p><l>off-line</l><r>offline</r></p><par n="expensive__adj"/></e>
     <e lm="offbeat"><i>offbeat</i><par n="expensive__adj"/></e>
     <e lm="offensive"><i>offensive</i><par n="expensive__adj"/></e>
     <e lm="offhand"><i>offhand</i><par n="expensive__adj"/></e>
     <e lm="official"><i>official</i><par n="expensive__adj"/></e>
     <e lm="officious"><i>officious</i><par n="expensive__adj"/></e>
-    <e lm="offline" r="LR"><i>offline</i><par n="expensive__adj"/></e>
+    <e lm="offline"><i>offline</i><par n="expensive__adj"/></e>
+    <e lm="offline" r="LR"><p><l>off-line</l><r>offline</r></p><par n="expensive__adj"/></e>
     <e lm="ogival"><i>ogival</i><par n="expensive__adj"/></e>
     <e lm="ogreish"><i>ogreish</i><par n="expensive__adj"/></e>
     <e lm="ohmic"><i>ohmic</i><par n="expensive__adj"/></e>
