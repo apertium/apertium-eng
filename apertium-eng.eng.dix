@@ -112,29 +112,6 @@
       <e>        <par n="aposchar"/> <p> <l></l> <r><s n="apos"/></r></p></e>
     </pardef>
 
-    <pardef n="months">
-      <e><p><l>January</l><r>January</r></p></e>
-      <e><p><l>February</l><r>February</r></p></e>
-      <e><p><l>March</l><r>March</r></p></e>
-      <e><p><l>April</l><r>April</r></p></e>
-      <e><p><l>May</l><r>May</r></p></e>
-      <e><p><l>June</l><r>June</r></p></e>
-      <e><p><l>July</l><r>July</r></p></e>
-      <e><p><l>August</l><r>August</r></p></e>
-      <e><p><l>September</l><r>September</r></p></e>
-      <e><p><l>October</l><r>October</r></p></e>
-      <e><p><l>November</l><r>November</r></p></e>
-      <e><p><l>December</l><r>December</r></p></e>
-    </pardef>
-
-    <pardef n="dates">
-      <e>      <re>[2-3]?[0,4-9]</re><p><l>th<b/></l><r>th<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
-      <e>      <re>1[0-9]</re><p><l>th<b/></l><r>th<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
-      <e>      <re>[2-9]*</re><p><l>1st<b/></l><r>1st<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
-      <e>      <re>[2-9]*</re><p><l>2nd<b/></l><r>2nd<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
-      <e>      <re>[2-9]*</re><p><l>3rd<b/></l><r>3rd<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
-    </pardef>
-
     <pardef n="numeros">
       <e>      <re>[0-9]+([.,][0-9]+)?%?</re> <p><l></l><r><s n="num"/></r></p></e>
       <e>      <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re> <p><l></l><r><s n="num"/></r></p></e>
@@ -145,18 +122,11 @@
     </pardef>
 
     <pardef n="ordinals">
-      <e>      <re>([0-9]*[02-9]1|1)</re>     <p>    <l>st</l>    <r>st<s n="num"/><s n="ord"/></r></p></e>
-      <e>      <re>([0-9]*[02-9]2|2)</re>     <p>    <l>nd</l>    <r>nd<s n="num"/><s n="ord"/></r></p></e>
-      <e>      <re>([0-9]*[02-9]3|3)</re>     <p>    <l>rd</l>    <r>rd<s n="num"/><s n="ord"/></r></p></e>
-      <e>      <re>1[0-9]</re>                <p>    <l>th</l>    <r>th<s n="num"/><s n="ord"/></r></p></e>
-      <e>      <re>[0-9]*([4-90]|1[0-9])</re> <p>    <l>th</l>    <r>th<s n="num"/><s n="ord"/></r></p></e>
-<!--
       <e>      <re>([0-9]*[02-9]1|1)</re>     <p>    <l>st</l>    <r><s n="num"/><s n="ord"/></r></p></e>
       <e>      <re>([0-9]*[02-9]2|2)</re>     <p>    <l>nd</l>    <r><s n="num"/><s n="ord"/></r></p></e>
       <e>      <re>([0-9]*[02-9]3|3)</re>     <p>    <l>rd</l>    <r><s n="num"/><s n="ord"/></r></p></e>
       <e>      <re>1[0-9]</re>                <p>    <l>th</l>    <r><s n="num"/><s n="ord"/></r></p></e>
       <e>      <re>[0-9]*([4-90]|1[0-9])</re> <p>    <l>th</l>    <r><s n="num"/><s n="ord"/></r></p></e>
--->
     </pardef>
 
     <pardef n="separa">
@@ -3513,7 +3483,7 @@
     <e lm="most"><i>most</i><par n="enough__det"/></e>
     <e lm="most of"><i>most<b/>of</i><par n="enough__det"/></e>
     <e lm="much"><i>much</i><par n="much__det"/></e>
-    <e lm="no"><i>no</i><par n="another__det"/></e>
+    <e lm="no"><i>no</i><par n="other__det"/></e>
     <e lm="other"><i>other</i><par n="other__det"/></e>
     <e lm="quite a lot of"><i>quite<b/>a<b/>lot<b/>of</i><par n="enough__det"/></e>
     <e lm="several"><i>several</i><par n="several__det"/></e>
@@ -7198,7 +7168,6 @@
     <e lm="cunt"><i>cunt</i><par n="house__n"/></e>
     <e lm="cup"><i>cup</i><par n="house__n"/></e>
     <e lm="cup final"><i>cup<b/>final</i><par n="house__n"/></e>
-    <e lm="cup of"><i>cup</i><par n="house__n"/><p><l><b/>of</l><r><g><b/>of</g></r></p></e>
     <e lm="cup tie"><i>cup<b/>tie</i><par n="house__n"/></e>
     <e lm="cupboard"><i>cupboard</i><par n="house__n"/></e>
     <e lm="cupboard key"><i>cupboard<b/>key</i><par n="house__n"/></e>
@@ -21760,7 +21729,12 @@
     <e lm="lodge"><i>lodg</i><par n="liv/e__vblex"/></e>
     <e lm="loiter"><i>loiter</i><par n="accept__vblex"/></e>
     <e lm="long"><i>long</i><par n="accept__vblex"/></e>
-    <e lm="long for"><i>long</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
+    <!--
+	FIXME: temporarily commented "long for" to workaround cases like:
+	"The logs are 8 m long for competition where ..."
+	"Long for" (as seen in the commented entry) must be handled elsewhere (in the chunker?).
+    -->
+    <!-- <e lm="long for"><i>long</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e> -->
     <e lm="look"><i>look</i><par n="accept__vblex"/></e>
     <e lm="look after"><i>look</i><par n="accept__vblex"/><p><l><b/>after</l><r><g><b/>after</g></r></p></e>
     <e lm="look at"><i>look</i><par n="accept__vblex"/><p><l><b/>at</l><r><g><b/>at</g></r></p></e>
@@ -22711,7 +22685,12 @@
     <e lm="testify"><i>testif</i><par n="appl/y__vblex"/></e>
     <e lm="thank"><i>thank</i><par n="accept__vblex"/></e>
     <e lm="thaw"><i>thaw</i><par n="accept__vblex"/></e>
-    <e lm="there be"><i>there<b/></i><par n="/be__vblex"/></e>
+    <!--
+	FIXME: temporarily commented "there be" to workaround cases like:
+	"People (over) there are smart."
+	"There be" (as seen in the commented entry) must be handled elsewhere (in the chunker?).
+    -->
+    <!-- <e lm="there be"><i>there<b/></i><par n="/be__vblex"/></e> -->
     <e lm="thin"><i>thin</i><par n="plan__vblex"/></e>
     <e lm="think"><i>th</i><par n="th/ink__vblex"/></e>
     <e lm="thread"><i>thread</i><par n="accept__vblex"/></e>
@@ -22935,9 +22914,7 @@
     <e lm="either"><i>either</i><par n="that__cnjsub"/></e>
     <e lm="if"><i>if</i><par n="that__cnjsub"/></e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
-    <e lm="less than"><i>less<b/>than</i><par n="that__cnjsub"/></e> <!-- tæpur -->
     <e lm="like"><i>like</i><par n="that__cnjsub"/></e>
-    <e lm="more than"><i>more<b/>than</i><par n="that__cnjsub"/></e>
     <e lm="providing"><i>providing</i><par n="that__cnjsub"/></e>
     <e lm="rather than"><i>rather<b/>than</i><par n="that__cnjsub"/></e>
     <e lm="since"><i>since</i><par n="that__cnjsub"/></e>
@@ -26368,6 +26345,7 @@
     <e lm="preschool"><i>preschool</i><par n="expensive__adj"/></e>
     <e lm="prescient"><i>prescient</i><par n="expensive__adj"/></e>
     <e lm="present"><i>present</i><par n="expensive__adj"/></e>
+    <e lm="present-day"><i>present-day</i><par n="expensive__adj"/></e>
     <e lm="presentable"><i>presentable</i><par n="expensive__adj"/></e>
     <e lm="preservable"><i>preservable</i><par n="expensive__adj"/></e>
     <e lm="presidential"><i>presidential</i><par n="expensive__adj"/></e>
@@ -29336,6 +29314,7 @@
     <e lm="last summer"><i>last<b/>summer</i><par n="maybe__adv"/></e>
     <e lm="last winter"><i>last<b/>winter</i><par n="maybe__adv"/></e>
     <e lm="last year"><i>last<b/>year</i><par n="maybe__adv"/></e>
+    <e lm="less than"><i>less<b/>than</i><par n="maybe__adv"/></e> <!-- tæpur -->
     <e lm="like always"><i>like<b/>always</i><par n="maybe__adv"/></e>
     <e lm="like before"><i>like<b/>before</i><par n="maybe__adv"/></e>
     <e lm="like nothing"><i>like<b/>nothing</i><par n="maybe__adv"/></e>
@@ -29344,6 +29323,7 @@
     <e lm="like this or like that"><i>like<b/>this<b/>or<b/>like<b/>that</i><par n="maybe__adv"/></e>
     <e lm="make sure"><i>make<b/>sure</i><par n="maybe__adv"/></e>
     <e lm="more or less"><i>more<b/>or<b/>less</i><par n="maybe__adv"/></e>
+    <e lm="more than"><i>more<b/>than</i><par n="maybe__adv"/></e>
     <e lm="more than enough"><i>more<b/>than<b/>enough</i><par n="maybe__adv"/></e>
     <e lm="more than slightly"><i>more<b/>than<b/>slightly</i><par n="maybe__adv"/></e>
     <e lm="much better"><i>much<b/>better</i><par n="maybe__adv"/></e>
@@ -32676,6 +32656,7 @@
     <e lm="Jose"><i>Jose</i><par n="Mark__np"/></e>
     <e lm="José"><i>José</i><par n="Mark__np"/></e>
     <e lm="José Luis"><i>José<b/>Luis</i><par n="Mark__np"/></e>
+    <e lm="Jose Marí"><i>Jose<b/>Mari</i><par n="Mark__np"/></e>
     <e lm="José María"><i>José<b/>María</i><par n="Mark__np"/></e>
     <e lm="Joseba"><i>Joseba</i><par n="Mark__np"/></e>
     <e lm="Josée"><i>Josée</i><par n="Mary__np"/></e>
@@ -38861,6 +38842,7 @@
     <e lm="Íslandsbanki"><i>Íslandsbanki</i><par n="Wikimedia__np"/></e>
     <e lm="Landsbanki"><i>Landsbanki</i><par n="Wikimedia__np"/></e>
     <e lm="Linux"><i>Linux</i><par n="Linux__np"/></e>
+    <e lm="Loya jirga"><i>Loya<b/>jirga</i><par n="Wikimedia__np"/></e>
     <e lm="Lufthansa"><i>Lufthansa</i><par n="Wikipedia__np"/></e>
     <e lm="Macintosh"><i>Macintosh</i><par n="Linux__np"/></e>
     <e lm="Massachusetts"><i>Massachusetts</i><par n="Mars__np"/></e>
@@ -39002,7 +38984,6 @@
     <e><par n="organisations"/></e>
     <e><par n="separ"/></e>
     <e><par n="guionet"/></e>
-    <e><par n="dates"/></e>
     <e><par n="emails"/></e>
     <e><par n="urls"/></e>
   </section>
