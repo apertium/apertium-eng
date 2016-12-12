@@ -17,6 +17,7 @@ dev/eng.freq.txt -text
 /eng.prob -text svneol=unset#unset
 /modes.xml -text svneol=unset#application/xml
 texts/MANIFEST -text
+texts/TRAINING -text
 texts/afghanistan1.handtagged.ilie.txt -text
 texts/afghanistan1.handtagged.yongloong.txt -text
 texts/afghanistan1.raw.txt -text
