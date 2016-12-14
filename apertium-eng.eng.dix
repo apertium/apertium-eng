@@ -21204,7 +21204,7 @@
     <e lm="detain"><i>detain</i><par n="accept__vblex"/></e>
     <e lm="detect"><i>detect</i><par n="accept__vblex"/></e>
     <e lm="determine"><i>determin</i><par n="liv/e__vblex"/></e>
-    <e lm="deter"><i>deter</i><par n="accept__vblex"/></e>
+    <e lm="deter"><i>deter</i><par n="occur__vblex"/></e>
     <e lm="detest"><i>detest</i><par n="accept__vblex"/></e>
     <e lm="destine"><i>destin</i><par n="liv/e__vblex"/></e>
     <e lm="detonate"><i>detonat</i><par n="liv/e__vblex"/></e>
@@ -29452,7 +29452,7 @@
     <e lm="yesterday"><i>yesterday</i><par n="maybe__adv"/></e>
     <e lm="yet"><i>yet</i><par n="maybe__adv"/></e>
     <e lm="zickzack"><i>zickzack</i><par n="maybe__adv"/></e>
-      
+
     <e lm="abashedly"><i>abashedly</i><par n="maybe__adv"/></e>
     <e lm="abominably"><i>abominably</i><par n="maybe__adv"/></e>
     <e lm="abysmally"><i>abysmally</i><par n="maybe__adv"/></e>
@@ -29463,7 +29463,6 @@
     <e lm="agreeably"><i>agreeably</i><par n="maybe__adv"/></e>
     <e lm="amusingly"><i>amusingly</i><par n="maybe__adv"/></e>
     <e lm="anonymously"><i>anonymously</i><par n="maybe__adv"/></e>
-    <e lm="appallingly"><i>appallingly</i><par n="maybe__adv"/></e>
     <e lm="appallingly"><i>appallingly</i><par n="maybe__adv"/></e>
     <e lm="authentically"><i>authentically</i><par n="maybe__adv"/></e>
     <e lm="beguilingly"><i>beguilingly</i><par n="maybe__adv"/></e>
@@ -29529,7 +29528,6 @@
     <e lm="scrupulously"><i>scrupulously</i><par n="maybe__adv"/></e>
     <e lm="singularly"><i>singularly</i><par n="maybe__adv"/></e>
     <e lm="statistically"><i>statistically</i><par n="maybe__adv"/></e>
-    <e lm="statutorily"><i>statutorily</i><par n="maybe__adv"/></e>
     <e lm="statutorily"><i>statutorily</i><par n="maybe__adv"/></e>
     <e lm="symmetrically"><i>symmetrically</i><par n="maybe__adv"/></e>
     <e lm="tranquilly"><i>tranquilly</i><par n="maybe__adv"/></e>
