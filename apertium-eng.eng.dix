@@ -20443,7 +20443,7 @@
 
     <e lm="do"><i>d</i><par n="d/o__vaux"/></e>
     <e lm="be" r="RL"><i/><par n="/be__vblex"/></e> <!-- for subjuncs -->
-    <e lm="do" r="RL"><i>d</i><par n="d/o__vblex"/></e>
+    <e lm="do"><i>d</i><par n="d/o__vblex"/></e>
 
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
     <e lm="abase"><i>abas</i><par n="liv/e__vblex"/></e>
