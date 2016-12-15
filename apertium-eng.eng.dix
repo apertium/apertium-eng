@@ -8188,6 +8188,7 @@
     <e lm="dystopia"><i>dystopia</i><par n="house__n"/></e>
     <e lm="dystrophy"><i>dystroph</i><par n="bab/y__n"/></e>
     <e lm="e-mail"><i>e-mail</i><par n="house__n"/></e>
+    <e lm="email" r="LR"><p><l>email</l><r>e-mail</r></p><par n="house__n"/></e>
     <e lm="eagerness"><i>eagerness</i><par n="access__n"/></e>
     <e lm="eagle"><i>eagle</i><par n="house__n"/></e>
     <e lm="ear"><i>ear</i><par n="house__n"/></e>
@@ -8370,7 +8371,6 @@
     <e lm="elven queen"><i>elven<b/>queen</i><par n="house__n"/></e>
     <e lm="elver"><i>elver</i><par n="house__n"/></e>
     <e lm="elytron"><i>elytron</i><par n="house__n"/></e>
-    <e lm="email"><i>email</i><par n="house__n"/></e>
     <e lm="emanation"><i>emanation</i><par n="house__n"/></e>
     <e lm="emancipation"><i>emancipation</i><par n="house__n"/></e>
     <e lm="embankment"><i>embankment</i><par n="house__n"/></e>
