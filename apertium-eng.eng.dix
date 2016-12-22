@@ -28826,69 +28826,203 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e c="(GB)" lm="favourably"><i>favourably</i><par n="maybe__adv"/></e>
+    <e c="(GB)" lm="underground"><i>underground</i><par n="maybe__adv"/></e>
+    <e c="(US)" lm="flat"><i>flat</i><par n="maybe__adv"/></e>
+    <e c="(US)" lm="laboriously"><i>laboriously</i><par n="maybe__adv"/></e>
     <e lm="a.m."><i>a.m.</i><par n="maybe__adv"/></e>
     <e lm="aback"><i>aback</i><par n="maybe__adv"/></e>
+    <e lm="abandonedly"><i>abandonedly</i><par n="maybe__adv"/></e>
+    <e lm="abasedly"><i>abasedly</i><par n="maybe__adv"/></e>
+    <e lm="abashedly"><i>abashedly</i><par n="maybe__adv"/></e>
+    <e lm="abatedly"><i>abatedly</i><par n="maybe__adv"/></e>
+    <e lm="abatingly"><i>abatingly</i><par n="maybe__adv"/></e>
+    <e lm="abbreviatedly"><i>abbreviatedly</i><par n="maybe__adv"/></e>
+    <e lm="aberrantly"><i>aberrantly</i><par n="maybe__adv"/></e>
+    <e lm="abeyantly"><i>abeyantly</i><par n="maybe__adv"/></e>
+    <e lm="abhorrently"><i>abhorrently</i><par n="maybe__adv"/></e>
+    <e lm="abidingly"><i>abidingly</i><par n="maybe__adv"/></e>
+    <e lm="abjectly"><i>abjectly</i><par n="maybe__adv"/></e>
+    <e lm="ably"><i>ably</i><par n="maybe__adv"/></e>
     <e lm="abnormally"><i>abnormally</i><par n="maybe__adv"/></e>
     <e lm="aboard"><i>aboard</i><par n="maybe__adv"/></e>
+    <e lm="abominably"><i>abominably</i><par n="maybe__adv"/></e>
+    <e lm="abortedly"><i>abortedly</i><par n="maybe__adv"/></e>
     <e lm="about"><i>about</i><par n="maybe__adv"/></e>
     <e lm="above"><i>above</i><par n="maybe__adv"/></e>
+    <e lm="abrasively"><i>abrasively</i><par n="maybe__adv"/></e>
     <e lm="abroad"><i>abroad</i><par n="maybe__adv"/></e>
     <e lm="abruptly"><i>abruptly</i><par n="maybe__adv"/></e>
     <e lm="absent-mindedly"><i>absent-mindedly</i><par n="maybe__adv"/></e>
+    <e lm="absently"><i>absently</i><par n="maybe__adv"/></e>
     <e lm="absentmindedly"><i>absentmindedly</i><par n="maybe__adv"/></e>
     <e lm="absolutely"><i>absolutely</i><par n="maybe__adv"/></e>
+    <e lm="absorbantly"><i>absorbantly</i><par n="maybe__adv"/></e>
+    <e lm="absorbedly"><i>absorbedly</i><par n="maybe__adv"/></e>
+    <e lm="absorbingly"><i>absorbingly</i><par n="maybe__adv"/></e>
+    <e lm="abstainedly"><i>abstainedly</i><par n="maybe__adv"/></e>
+    <e lm="abstentiously"><i>abstentiously</i><par n="maybe__adv"/></e>
+    <e lm="abstinently"><i>abstinently</i><par n="maybe__adv"/></e>
+    <e lm="abstractedly"><i>abstractedly</i><par n="maybe__adv"/></e>
+    <e lm="abstractly"><i>abstractly</i><par n="maybe__adv"/></e>
+    <e lm="abstrusely"><i>abstrusely</i><par n="maybe__adv"/></e>
     <e lm="absurdly"><i>absurdly</i><par n="maybe__adv"/></e>
     <e lm="abundantly"><i>abundantly</i><par n="maybe__adv"/></e>
+    <e lm="abusedly"><i>abusedly</i><par n="maybe__adv"/></e>
+    <e lm="abusively"><i>abusively</i><par n="maybe__adv"/></e>
+    <e lm="abysmally"><i>abysmally</i><par n="maybe__adv"/></e>
+    <e lm="academically"><i>academically</i><par n="maybe__adv"/></e>
+    <e lm="acapella"><i>acapella</i><par n="maybe__adv"/></e>
+    <e lm="acceptingly"><i>acceptingly</i><par n="maybe__adv"/></e>
+    <e lm="accessibly"><i>accessibly</i><par n="maybe__adv"/></e>
+    <e lm="accessorily"><i>accessorily</i><par n="maybe__adv"/></e>
     <e lm="accidentally"><i>accidentally</i><par n="maybe__adv"/></e>
+    <e lm="acclamatorily"><i>acclamatorily</i><par n="maybe__adv"/></e>
+    <e lm="accommodatingly"><i>accommodatingly</i><par n="maybe__adv"/></e>
+    <e lm="accomplishedly"><i>accomplishedly</i><par n="maybe__adv"/></e>
     <e lm="accordingly"><i>accordingly</i><par n="maybe__adv"/></e>
     <e lm="accurately"><i>accurately</i><par n="maybe__adv"/></e>
+    <e lm="accusatorily"><i>accusatorily</i><par n="maybe__adv"/></e>
+    <e lm="accusingly"><i>accusingly</i><par n="maybe__adv"/></e>
+    <e lm="accustomably"><i>accustomably</i><par n="maybe__adv"/></e>
+    <e lm="acerbically"><i>acerbically</i><par n="maybe__adv"/></e>
+    <e lm="achingly"><i>achingly</i><par n="maybe__adv"/></e>
     <e lm="acidly"><i>acidly</i><par n="maybe__adv"/></e>
+    <e lm="acknowledgingly"><i>acknowledgingly</i><par n="maybe__adv"/></e>
+    <e lm="acoustically"><i>acoustically</i><par n="maybe__adv"/></e>
+    <e lm="acquiescently"><i>acquiescently</i><par n="maybe__adv"/></e>
+    <e lm="acquisitively"><i>acquisitively</i><par n="maybe__adv"/></e>
+    <e lm="acridly"><i>acridly</i><par n="maybe__adv"/></e>
+    <e lm="acrimoniously"><i>acrimoniously</i><par n="maybe__adv"/></e>
+    <e lm="acrobatically"><i>acrobatically</i><par n="maybe__adv"/></e>
     <e lm="across"><i>across</i><par n="maybe__adv"/></e>
     <e lm="actively"><i>actively</i><par n="maybe__adv"/></e>
     <e lm="actually"><i>actually</i><par n="maybe__adv"/></e>
     <e lm="acutely"><i>acutely</i><par n="maybe__adv"/></e>
+    <e lm="adamantly"><i>adamantly</i><par n="maybe__adv"/></e>
+    <e lm="addictedly"><i>addictedly</i><par n="maybe__adv"/></e>
+    <e lm="addictively"><i>addictively</i><par n="maybe__adv"/></e>
     <e lm="additionally"><i>additionally</i><par n="maybe__adv"/></e>
+    <e lm="adeptly"><i>adeptly</i><par n="maybe__adv"/></e>
     <e lm="adequately"><i>adequately</i><par n="maybe__adv"/></e>
+    <e lm="adherently"><i>adherently</i><par n="maybe__adv"/></e>
+    <e lm="adhesively"><i>adhesively</i><par n="maybe__adv"/></e>
+    <e lm="adjacently"><i>adjacently</i><par n="maybe__adv"/></e>
     <e lm="admirably"><i>admirably</i><par n="maybe__adv"/></e>
     <e lm="admiringly"><i>admiringly</i><par n="maybe__adv"/></e>
     <e lm="admittedly"><i>admittedly</i><par n="maybe__adv"/></e>
+    <e lm="admonishedly"><i>admonishedly</i><par n="maybe__adv"/></e>
+    <e lm="admonishingly"><i>admonishingly</i><par n="maybe__adv"/></e>
+    <e lm="adorably"><i>adorably</i><par n="maybe__adv"/></e>
+    <e lm="adoringly"><i>adoringly</i><par n="maybe__adv"/></e>
+    <e lm="adroitly"><i>adroitly</i><par n="maybe__adv"/></e>
+    <e lm="adulatingly"><i>adulatingly</i><par n="maybe__adv"/></e>
+    <e lm="adulterously"><i>adulterously</i><par n="maybe__adv"/></e>
+    <e lm="advantageously"><i>advantageously</i><par n="maybe__adv"/></e>
     <e lm="adventurously"><i>adventurously</i><par n="maybe__adv"/></e>
+    <e lm="adversarially"><i>adversarially</i><par n="maybe__adv"/></e>
+    <e lm="adversely"><i>adversely</i><par n="maybe__adv"/></e>
     <e lm="advisedly"><i>advisedly</i><par n="maybe__adv"/></e>
+    <e lm="aesthetically"><i>aesthetically</i><par n="maybe__adv"/></e>
+    <e lm="affably"><i>affably</i><par n="maybe__adv"/></e>
+    <e lm="affectedly"><i>affectedly</i><par n="maybe__adv"/></e>
+    <e lm="affectingly"><i>affectingly</i><par n="maybe__adv"/></e>
     <e lm="affectionately"><i>affectionately</i><par n="maybe__adv"/></e>
+    <e lm="affirmatively"><i>affirmatively</i><par n="maybe__adv"/></e>
+    <e lm="affirmingly"><i>affirmingly</i><par n="maybe__adv"/></e>
+    <e lm="affrontedly"><i>affrontedly</i><par n="maybe__adv"/></e>
     <e lm="after"><i>after</i><par n="maybe__adv"/></e>
     <e lm="afterwards"><i>afterwards</i><par n="maybe__adv"/></e>
     <e lm="again"><i>again</i><par n="maybe__adv"/></e>
     <e lm="against"><i>against</i><par n="maybe__adv"/></e>
+    <e lm="agape"><i>agape</i><par n="maybe__adv"/></e>
+    <e lm="agedly"><i>agedly</i><par n="maybe__adv"/></e>
+    <e lm="agelessly"><i>agelessly</i><par n="maybe__adv"/></e>
+    <e lm="aggravatedly"><i>aggravatedly</i><par n="maybe__adv"/></e>
+    <e lm="aggravatingly"><i>aggravatingly</i><par n="maybe__adv"/></e>
+    <e lm="aggressively"><i>aggressively</i><par n="maybe__adv"/></e>
+    <e lm="aggrievedly"><i>aggrievedly</i><par n="maybe__adv"/></e>
+    <e lm="aghastly"><i>aghastly</i><par n="maybe__adv"/></e>
+    <e lm="agilely"><i>agilely</i><par n="maybe__adv"/></e>
     <e lm="agitatedly"><i>agitatedly</i><par n="maybe__adv"/></e>
     <e lm="ago"><i>ago</i><par n="maybe__adv"/></e>
+    <e lm="agonisedly"><i>agonisedly</i><par n="maybe__adv"/></e>
+    <e lm="agonizedly"><i>agonizedly</i><par n="maybe__adv"/></e>
+    <e lm="agreeably"><i>agreeably</i><par n="maybe__adv"/></e>
+    <e lm="agreeingly"><i>agreeingly</i><par n="maybe__adv"/></e>
     <e lm="ahead"><i>ahead</i><par n="maybe__adv"/></e>
+    <e lm="aimlessly"><i>aimlessly</i><par n="maybe__adv"/></e>
+    <e lm="airily"><i>airily</i><par n="maybe__adv"/></e>
+    <e lm="alarmedly"><i>alarmedly</i><par n="maybe__adv"/></e>
+    <e lm="alarmingly"><i>alarmingly</i><par n="maybe__adv"/></e>
+    <e lm="alertly"><i>alertly</i><par n="maybe__adv"/></e>
     <e lm="algebraically"><i>algebraically</i><par n="maybe__adv"/></e>
     <e lm="alike"><i>alike</i><par n="maybe__adv"/></e>
     <e lm="all"><i>all</i><par n="maybe__adv"/></e>
     <e lm="allegedly"><i>allegedly</i><par n="maybe__adv"/></e>
+    <e lm="allegorically"><i>allegorically</i><par n="maybe__adv"/></e>
     <e lm="allegretto"><i>allegretto</i><par n="maybe__adv"/></e>
     <e lm="allegro"><i>allegro</i><par n="maybe__adv"/></e>
+    <e lm="alliteratively"><i>alliteratively</i><par n="maybe__adv"/></e>
+    <e lm="alludingly"><i>alludingly</i><par n="maybe__adv"/></e>
+    <e lm="alluringly"><i>alluringly</i><par n="maybe__adv"/></e>
+    <e lm="allusively"><i>allusively</i><par n="maybe__adv"/></e>
     <e lm="almost"><i>almost</i><par n="maybe__adv"/></e>
     <e lm="aloft"><i>aloft</i><par n="maybe__adv"/></e>
     <e lm="alone"><i>alone</i><par n="maybe__adv"/></e>
     <e lm="alongside"><i>alongside</i><par n="maybe__adv"/></e>
+    <e lm="aloofly"><i>aloofly</i><par n="maybe__adv"/></e>
     <e lm="aloud"><i>aloud</i><par n="maybe__adv"/></e>
     <e lm="already"><i>already</i><par n="maybe__adv"/></e>
     <e lm="alright"><i>alright</i><par n="maybe__adv"/></e>
     <e lm="also"><i>also</i><par n="maybe__adv"/></e>
+    <e lm="alternatingly"><i>alternatingly</i><par n="maybe__adv"/></e>
     <e lm="alternatively"><i>alternatively</i><par n="maybe__adv"/></e>
     <e lm="altogether"><i>altogether</i><par n="maybe__adv"/></e>
+    <e lm="altruistically"><i>altruistically</i><par n="maybe__adv"/></e>
     <e lm="always"><i>always</i><par n="maybe__adv"/></e>
+    <e lm="amateurishly"><i>amateurishly</i><par n="maybe__adv"/></e>
+    <e lm="amatively"><i>amatively</i><par n="maybe__adv"/></e>
     <e lm="amazedly"><i>amazedly</i><par n="maybe__adv"/></e>
     <e lm="amazingly"><i>amazingly</i><par n="maybe__adv"/></e>
+    <e lm="ambiguously"><i>ambiguously</i><par n="maybe__adv"/></e>
+    <e lm="ambitiously"><i>ambitiously</i><par n="maybe__adv"/></e>
+    <e lm="ambivalently"><i>ambivalently</i><par n="maybe__adv"/></e>
+    <e lm="amblingly"><i>amblingly</i><par n="maybe__adv"/></e>
+    <e lm="ambrosially"><i>ambrosially</i><par n="maybe__adv"/></e>
+    <e lm="amenably"><i>amenably</i><par n="maybe__adv"/></e>
+    <e lm="amiably"><i>amiably</i><par n="maybe__adv"/></e>
     <e lm="amicably"><i>amicably</i><par n="maybe__adv"/></e>
     <e lm="amidst"><i>amidst</i><par n="maybe__adv"/></e>
     <e lm="amongst"><i>amongst</i><par n="maybe__adv"/></e>
+    <e lm="amorally"><i>amorally</i><par n="maybe__adv"/></e>
+    <e lm="amorously"><i>amorously</i><par n="maybe__adv"/></e>
+    <e lm="amply"><i>amply</i><par n="maybe__adv"/></e>
+    <e lm="amuck"><i>amuck</i><par n="maybe__adv"/></e>
+    <e lm="amusedly"><i>amusedly</i><par n="maybe__adv"/></e>
+    <e lm="amusingly"><i>amusingly</i><par n="maybe__adv"/></e>
+    <e lm="analytically"><i>analytically</i><par n="maybe__adv"/></e>
+    <e lm="anarchically"><i>anarchically</i><par n="maybe__adv"/></e>
+    <e lm="anciently"><i>anciently</i><par n="maybe__adv"/></e>
+    <e lm="anew"><i>anew</i><par n="maybe__adv"/></e>
+    <e lm="angelically"><i>angelically</i><par n="maybe__adv"/></e>
     <e lm="angrily"><i>angrily</i><par n="maybe__adv"/></e>
+    <e lm="anguishedly"><i>anguishedly</i><par n="maybe__adv"/></e>
+    <e lm="angularly"><i>angularly</i><par n="maybe__adv"/></e>
+    <e lm="animalistically"><i>animalistically</i><par n="maybe__adv"/></e>
+    <e lm="animatedly"><i>animatedly</i><par n="maybe__adv"/></e>
+    <e lm="annoyedly"><i>annoyedly</i><par n="maybe__adv"/></e>
     <e lm="annoyingly"><i>annoyingly</i><par n="maybe__adv"/></e>
     <e lm="annually"><i>annually</i><par n="maybe__adv"/></e>
     <e lm="annum"><i>annum</i><par n="maybe__adv"/></e>
+    <e lm="anonymously"><i>anonymously</i><par n="maybe__adv"/></e>
+    <e lm="answeringly"><i>answeringly</i><par n="maybe__adv"/></e>
+    <e lm="antagonistically"><i>antagonistically</i><par n="maybe__adv"/></e>
     <e lm="anti-clockwise"><i>anti-clockwise</i><par n="maybe__adv"/></e>
+    <e lm="anticipatingly"><i>anticipatingly</i><par n="maybe__adv"/></e>
+    <e lm="anticipatorily"><i>anticipatorily</i><par n="maybe__adv"/></e>
+    <e lm="anticlimactically"><i>anticlimactically</i><par n="maybe__adv"/></e>
+    <e lm="antisocially"><i>antisocially</i><par n="maybe__adv"/></e>
     <e lm="anxiously"><i>anxiously</i><par n="maybe__adv"/></e>
     <e lm="any"><i>any</i><par n="maybe__adv"/></e>
     <e lm="anyhow"><i>anyhow</i><par n="maybe__adv"/></e>
@@ -28897,135 +29031,645 @@
     <e lm="anyway"><i>anyway</i><par n="maybe__adv"/></e>
     <e lm="anywhere"><i>anywhere</i><par n="maybe__adv"/></e>
     <e lm="apart"><i>apart</i><par n="maybe__adv"/></e>
+    <e lm="apathetically"><i>apathetically</i><par n="maybe__adv"/></e>
+    <e lm="apodeictically"><i>apodeictically</i><par n="maybe__adv"/></e>
+    <e lm="apologetically"><i>apologetically</i><par n="maybe__adv"/></e>
+    <e lm="appalledly"><i>appalledly</i><par n="maybe__adv"/></e>
+    <e lm="appallingly"><i>appallingly</i><par n="maybe__adv"/></e>
     <e lm="apparently"><i>apparently</i><par n="maybe__adv"/></e>
+    <e lm="appealingly"><i>appealingly</i><par n="maybe__adv"/></e>
+    <e lm="appeasedly"><i>appeasedly</i><par n="maybe__adv"/></e>
+    <e lm="appeasingly"><i>appeasingly</i><par n="maybe__adv"/></e>
+    <e lm="appositely"><i>appositely</i><par n="maybe__adv"/></e>
+    <e lm="appraisingly"><i>appraisingly</i><par n="maybe__adv"/></e>
+    <e lm="appreciatively"><i>appreciatively</i><par n="maybe__adv"/></e>
+    <e lm="apprehensibly"><i>apprehensibly</i><par n="maybe__adv"/></e>
+    <e lm="apprehensively"><i>apprehensively</i><par n="maybe__adv"/></e>
+    <e lm="appropriately"><i>appropriately</i><par n="maybe__adv"/></e>
+    <e lm="approvingly"><i>approvingly</i><par n="maybe__adv"/></e>
     <e lm="approximately"><i>approximately</i><par n="maybe__adv"/></e>
+    <e lm="aptly"><i>aptly</i><par n="maybe__adv"/></e>
+    <e lm="aquatically"><i>aquatically</i><par n="maybe__adv"/></e>
+    <e lm="arbitrarily"><i>arbitrarily</i><par n="maybe__adv"/></e>
+    <e lm="arcanely"><i>arcanely</i><par n="maybe__adv"/></e>
+    <e lm="archly"><i>archly</i><par n="maybe__adv"/></e>
+    <e lm="ardently"><i>ardently</i><par n="maybe__adv"/></e>
+    <e lm="arduously"><i>arduously</i><par n="maybe__adv"/></e>
+    <e lm="argumentatively"><i>argumentatively</i><par n="maybe__adv"/></e>
+    <e lm="aridly"><i>aridly</i><par n="maybe__adv"/></e>
+    <e lm="aristocratically"><i>aristocratically</i><par n="maybe__adv"/></e>
+    <e lm="aromatically"><i>aromatically</i><par n="maybe__adv"/></e>
     <e lm="around"><i>around</i><par n="maybe__adv"/></e>
+    <e lm="arousedly"><i>arousedly</i><par n="maybe__adv"/></e>
+    <e lm="arousingly"><i>arousingly</i><par n="maybe__adv"/></e>
+    <e lm="arrantly"><i>arrantly</i><par n="maybe__adv"/></e>
     <e lm="arrogantly"><i>arrogantly</i><par n="maybe__adv"/></e>
+    <e lm="artfully"><i>artfully</i><par n="maybe__adv"/></e>
+    <e lm="articulately"><i>articulately</i><par n="maybe__adv"/></e>
     <e lm="artificially"><i>artificially</i><par n="maybe__adv"/></e>
+    <e lm="artistically"><i>artistically</i><par n="maybe__adv"/></e>
+    <e lm="artlessly"><i>artlessly</i><par n="maybe__adv"/></e>
     <e lm="as"><i>as</i><par n="maybe__adv"/></e>
+    <e lm="ascendingly"><i>ascendingly</i><par n="maybe__adv"/></e>
+    <e lm="ascetically"><i>ascetically</i><par n="maybe__adv"/></e>
+    <e lm="ashamedly"><i>ashamedly</i><par n="maybe__adv"/></e>
     <e lm="ashore"><i>ashore</i><par n="maybe__adv"/></e>
     <e lm="aside"><i>aside</i><par n="maybe__adv"/></e>
+    <e lm="asininely"><i>asininely</i><par n="maybe__adv"/></e>
     <e lm="askance"><i>askance</i><par n="maybe__adv"/></e>
+    <e lm="aspiringly"><i>aspiringly</i><par n="maybe__adv"/></e>
+    <e lm="assentingly"><i>assentingly</i><par n="maybe__adv"/></e>
+    <e lm="assertively"><i>assertively</i><par n="maybe__adv"/></e>
+    <e lm="assessingly"><i>assessingly</i><par n="maybe__adv"/></e>
+    <e lm="assiduously"><i>assiduously</i><par n="maybe__adv"/></e>
+    <e lm="assimilatedly"><i>assimilatedly</i><par n="maybe__adv"/></e>
+    <e lm="assimilatingly"><i>assimilatingly</i><par n="maybe__adv"/></e>
+    <e lm="assumingly"><i>assumingly</i><par n="maybe__adv"/></e>
     <e lm="assuredly"><i>assuredly</i><par n="maybe__adv"/></e>
+    <e lm="assuringly"><i>assuringly</i><par n="maybe__adv"/></e>
+    <e lm="astonishedly"><i>astonishedly</i><par n="maybe__adv"/></e>
     <e lm="astonishingly"><i>astonishingly</i><par n="maybe__adv"/></e>
+    <e lm="astoundedly"><i>astoundedly</i><par n="maybe__adv"/></e>
+    <e lm="astringently"><i>astringently</i><par n="maybe__adv"/></e>
+    <e lm="astuciously"><i>astuciously</i><par n="maybe__adv"/></e>
+    <e lm="astutely"><i>astutely</i><par n="maybe__adv"/></e>
+    <e lm="asunder"><i>asunder</i><par n="maybe__adv"/></e>
     <e lm="asymmetrically"><i>asymmetrically</i><par n="maybe__adv"/></e>
+    <e lm="athletically"><i>athletically</i><par n="maybe__adv"/></e>
+    <e lm="atrociously"><i>atrociously</i><par n="maybe__adv"/></e>
+    <e lm="attemptingly"><i>attemptingly</i><par n="maybe__adv"/></e>
     <e lm="attentively"><i>attentively</i><par n="maybe__adv"/></e>
+    <e lm="attractively"><i>attractively</i><par n="maybe__adv"/></e>
+    <e lm="atypically"><i>atypically</i><par n="maybe__adv"/></e>
+    <e lm="audaciously"><i>audaciously</i><par n="maybe__adv"/></e>
+    <e lm="audibly"><i>audibly</i><par n="maybe__adv"/></e>
+    <e lm="augustly"><i>augustly</i><par n="maybe__adv"/></e>
+    <e lm="auspiciously"><i>auspiciously</i><par n="maybe__adv"/></e>
+    <e lm="austerely"><i>austerely</i><par n="maybe__adv"/></e>
+    <e lm="authentically"><i>authentically</i><par n="maybe__adv"/></e>
+    <e lm="authoritatively"><i>authoritatively</i><par n="maybe__adv"/></e>
+    <e lm="autocratically"><i>autocratically</i><par n="maybe__adv"/></e>
     <e lm="automatically"><i>automatically</i><par n="maybe__adv"/></e>
+    <e lm="autonomously"><i>autonomously</i><par n="maybe__adv"/></e>
+    <e lm="avariciously"><i>avariciously</i><par n="maybe__adv"/></e>
     <e lm="averagely"><i>averagely</i><par n="maybe__adv"/></e>
     <e lm="avidly"><i>avidly</i><par n="maybe__adv"/></e>
     <e lm="away"><i>away</i><par n="maybe__adv"/></e>
+    <e lm="awedly"><i>awedly</i><par n="maybe__adv"/></e>
+    <e lm="awesomely"><i>awesomely</i><par n="maybe__adv"/></e>
+    <e lm="awestruckly"><i>awestruckly</i><par n="maybe__adv"/></e>
     <e lm="awfully"><i>awfully</i><par n="maybe__adv"/></e>
     <e lm="awhile"><i>awhile</i><par n="maybe__adv"/></e>
     <e lm="awkwardly"><i>awkwardly</i><par n="maybe__adv"/></e>
+    <e lm="axiomatically"><i>axiomatically</i><par n="maybe__adv"/></e>
     <e lm="back"><i>back</i><par n="maybe__adv"/></e>
+    <e lm="backhandedly"><i>backhandedly</i><par n="maybe__adv"/></e>
     <e lm="backstage"><i>backstage</i><par n="maybe__adv"/></e>
+    <e lm="backwardly"><i>backwardly</i><par n="maybe__adv"/></e>
     <e lm="backwards"><i>backwards</i><par n="maybe__adv"/></e>
     <e lm="badly"><i>badly</i><par n="maybe__adv"/></e>
+    <e lm="baffledly"><i>baffledly</i><par n="maybe__adv"/></e>
+    <e lm="bafflingly"><i>bafflingly</i><par n="maybe__adv"/></e>
+    <e lm="balancedly"><i>balancedly</i><par n="maybe__adv"/></e>
+    <e lm="balancingly"><i>balancingly</i><par n="maybe__adv"/></e>
+    <e lm="baldly"><i>baldly</i><par n="maybe__adv"/></e>
+    <e lm="balefully"><i>balefully</i><par n="maybe__adv"/></e>
+    <e lm="balletically"><i>balletically</i><par n="maybe__adv"/></e>
+    <e lm="ballistically"><i>ballistically</i><par n="maybe__adv"/></e>
+    <e lm="banally"><i>banally</i><par n="maybe__adv"/></e>
+    <e lm="banefully"><i>banefully</i><par n="maybe__adv"/></e>
+    <e lm="banteringly"><i>banteringly</i><par n="maybe__adv"/></e>
+    <e lm="barbarically"><i>barbarically</i><par n="maybe__adv"/></e>
+    <e lm="barbarously"><i>barbarously</i><par n="maybe__adv"/></e>
     <e lm="bareback"><i>bareback</i><par n="maybe__adv"/></e>
+    <e lm="barefacedly"><i>barefacedly</i><par n="maybe__adv"/></e>
     <e lm="barefooted"><i>barefooted</i><par n="ii__adv"/></e>
     <e lm="barely"><i>barely</i><par n="maybe__adv"/></e>
+    <e lm="basely"><i>basely</i><par n="maybe__adv"/></e>
+    <e lm="bashfully"><i>bashfully</i><par n="maybe__adv"/></e>
     <e lm="basically"><i>basically</i><par n="maybe__adv"/></e>
+    <e lm="bawdily"><i>bawdily</i><par n="maybe__adv"/></e>
+    <e lm="beadily"><i>beadily</i><par n="maybe__adv"/></e>
+    <e lm="beamingly"><i>beamingly</i><par n="maybe__adv"/></e>
+    <e lm="bearishly"><i>bearishly</i><par n="maybe__adv"/></e>
+    <e lm="beatifically"><i>beatifically</i><par n="maybe__adv"/></e>
+    <e lm="beauteously"><i>beauteously</i><par n="maybe__adv"/></e>
     <e lm="beautifully"><i>beautifully</i><par n="maybe__adv"/></e>
+    <e lm="becalmingly"><i>becalmingly</i><par n="maybe__adv"/></e>
+    <e lm="beckoningly"><i>beckoningly</i><par n="maybe__adv"/></e>
+    <e lm="becomingly"><i>becomingly</i><par n="maybe__adv"/></e>
+    <e lm="bedraggledly"><i>bedraggledly</i><par n="maybe__adv"/></e>
+    <e lm="befittingly"><i>befittingly</i><par n="maybe__adv"/></e>
     <e lm="before"><i>before</i><par n="maybe__adv"/></e>
     <e lm="beforehand"><i>beforehand</i><par n="maybe__adv"/></e>
+    <e lm="befuddledly"><i>befuddledly</i><par n="maybe__adv"/></e>
+    <e lm="begrudgingly"><i>begrudgingly</i><par n="maybe__adv"/></e>
+    <e lm="beguilingly"><i>beguilingly</i><par n="maybe__adv"/></e>
     <e lm="behind"><i>behind</i><par n="maybe__adv"/></e>
+    <e lm="belatedly"><i>belatedly</i><par n="maybe__adv"/></e>
+    <e lm="believably"><i>believably</i><par n="maybe__adv"/></e>
+    <e lm="believingly"><i>believingly</i><par n="maybe__adv"/></e>
+    <e lm="bellicosely"><i>bellicosely</i><par n="maybe__adv"/></e>
+    <e lm="belligerently"><i>belligerently</i><par n="maybe__adv"/></e>
     <e lm="below"><i>below</i><par n="maybe__adv"/></e>
+    <e lm="bemusedly"><i>bemusedly</i><par n="maybe__adv"/></e>
     <e lm="beneath"><i>beneath</i><par n="maybe__adv"/></e>
+    <e lm="beneficently"><i>beneficently</i><par n="maybe__adv"/></e>
+    <e lm="beneficially"><i>beneficially</i><par n="maybe__adv"/></e>
     <e lm="benevolently"><i>benevolently</i><par n="maybe__adv"/></e>
+    <e lm="benignantly"><i>benignantly</i><par n="maybe__adv"/></e>
+    <e lm="benignly"><i>benignly</i><par n="maybe__adv"/></e>
+    <e lm="berserkly"><i>berserkly</i><par n="maybe__adv"/></e>
+    <e lm="beseechingly"><i>beseechingly</i><par n="maybe__adv"/></e>
     <e lm="besides"><i>besides</i><par n="maybe__adv"/></e>
+    <e lm="besottedly"><i>besottedly</i><par n="maybe__adv"/></e>
+    <e lm="bestially"><i>bestially</i><par n="maybe__adv"/></e>
+    <e lm="bewilderedly"><i>bewilderedly</i><par n="maybe__adv"/></e>
+    <e lm="bewilderingly"><i>bewilderingly</i><par n="maybe__adv"/></e>
+    <e lm="bewitchingly"><i>bewitchingly</i><par n="maybe__adv"/></e>
     <e lm="beyond"><i>beyond</i><par n="maybe__adv"/></e>
+    <e lm="biannually"><i>biannually</i><par n="maybe__adv"/></e>
+    <e lm="biasedly"><i>biasedly</i><par n="maybe__adv"/></e>
+    <e lm="bibulously"><i>bibulously</i><par n="maybe__adv"/></e>
+    <e lm="biliously"><i>biliously</i><par n="maybe__adv"/></e>
+    <e lm="billowingly"><i>billowingly</i><par n="maybe__adv"/></e>
     <e lm="biologically"><i>biologically</i><par n="maybe__adv"/></e>
+    <e lm="bitchily"><i>bitchily</i><par n="maybe__adv"/></e>
+    <e lm="bitingly"><i>bitingly</i><par n="maybe__adv"/></e>
     <e lm="bitterly"><i>bitterly</i><par n="maybe__adv"/></e>
+    <e lm="bittersweetly"><i>bittersweetly</i><par n="maybe__adv"/></e>
+    <e lm="bizarrely"><i>bizarrely</i><par n="maybe__adv"/></e>
     <e lm="blackly"><i>blackly</i><par n="maybe__adv"/></e>
+    <e lm="blamelessly"><i>blamelessly</i><par n="maybe__adv"/></e>
+    <e lm="blandly"><i>blandly</i><par n="maybe__adv"/></e>
+    <e lm="blankly"><i>blankly</i><par n="maybe__adv"/></e>
+    <e lm="blasphemously"><i>blasphemously</i><par n="maybe__adv"/></e>
     <e lm="blatantly"><i>blatantly</i><par n="maybe__adv"/></e>
+    <e lm="blazingly"><i>blazingly</i><par n="maybe__adv"/></e>
+    <e lm="bleakly"><i>bleakly</i><par n="maybe__adv"/></e>
+    <e lm="blearily"><i>blearily</i><par n="maybe__adv"/></e>
+    <e lm="blessedly"><i>blessedly</i><par n="maybe__adv"/></e>
     <e lm="blindly"><i>blindly</i><par n="maybe__adv"/></e>
+    <e lm="blissfully"><i>blissfully</i><par n="maybe__adv"/></e>
+    <e lm="blithely"><i>blithely</i><par n="maybe__adv"/></e>
+    <e lm="blithesomely"><i>blithesomely</i><par n="maybe__adv"/></e>
+    <e lm="blockedly"><i>blockedly</i><par n="maybe__adv"/></e>
+    <e lm="bloodily"><i>bloodily</i><par n="maybe__adv"/></e>
+    <e lm="bloodthirstily"><i>bloodthirstily</i><par n="maybe__adv"/></e>
+    <e lm="blotchily"><i>blotchily</i><par n="maybe__adv"/></e>
+    <e lm="bluffly"><i>bluffly</i><par n="maybe__adv"/></e>
+    <e lm="bluishly"><i>bluishly</i><par n="maybe__adv"/></e>
+    <e lm="bluntly"><i>bluntly</i><par n="maybe__adv"/></e>
+    <e lm="blurrily"><i>blurrily</i><par n="maybe__adv"/></e>
+    <e lm="blushingly"><i>blushingly</i><par n="maybe__adv"/></e>
+    <e lm="blusteringly"><i>blusteringly</i><par n="maybe__adv"/></e>
+    <e lm="boastfully"><i>boastfully</i><par n="maybe__adv"/></e>
+    <e lm="boastingly"><i>boastingly</i><par n="maybe__adv"/></e>
+    <e lm="bodily"><i>bodily</i><par n="maybe__adv"/></e>
+    <e lm="boilingly"><i>boilingly</i><par n="maybe__adv"/></e>
+    <e lm="boisterously"><i>boisterously</i><par n="maybe__adv"/></e>
+    <e lm="boldly"><i>boldly</i><par n="maybe__adv"/></e>
+    <e lm="bolsteringly"><i>bolsteringly</i><par n="maybe__adv"/></e>
     <e lm="bomb-proof"><i>bomb-proof</i><par n="maybe__adv"/></e>
+    <e lm="bombastically"><i>bombastically</i><par n="maybe__adv"/></e>
+    <e lm="bookishly"><i>bookishly</i><par n="maybe__adv"/></e>
+    <e lm="boomingly"><i>boomingly</i><par n="maybe__adv"/></e>
+    <e lm="boorishly"><i>boorishly</i><par n="maybe__adv"/></e>
+    <e lm="bootlessly"><i>bootlessly</i><par n="maybe__adv"/></e>
+    <e lm="boozily"><i>boozily</i><par n="maybe__adv"/></e>
+    <e lm="boredly"><i>boredly</i><par n="maybe__adv"/></e>
+    <e lm="boringly"><i>boringly</i><par n="maybe__adv"/></e>
+    <e lm="bossily"><i>bossily</i><par n="maybe__adv"/></e>
+    <e lm="botheredly"><i>botheredly</i><par n="maybe__adv"/></e>
+    <e lm="bothersomely"><i>bothersomely</i><par n="maybe__adv"/></e>
+    <e lm="bouncily"><i>bouncily</i><par n="maybe__adv"/></e>
+    <e lm="boundingly"><i>boundingly</i><par n="maybe__adv"/></e>
+    <e lm="boundlessly"><i>boundlessly</i><par n="maybe__adv"/></e>
+    <e lm="bountifully"><i>bountifully</i><par n="maybe__adv"/></e>
+    <e lm="bovinely"><i>bovinely</i><par n="maybe__adv"/></e>
+    <e lm="bowingly"><i>bowingly</i><par n="maybe__adv"/></e>
+    <e lm="boyishly"><i>boyishly</i><par n="maybe__adv"/></e>
+    <e lm="bracingly"><i>bracingly</i><par n="maybe__adv"/></e>
+    <e lm="braggingly"><i>braggingly</i><par n="maybe__adv"/></e>
+    <e lm="brashly"><i>brashly</i><par n="maybe__adv"/></e>
+    <e lm="brassily"><i>brassily</i><par n="maybe__adv"/></e>
+    <e lm="brattily"><i>brattily</i><par n="maybe__adv"/></e>
     <e lm="bravely"><i>bravely</i><par n="maybe__adv"/></e>
+    <e lm="brazenly"><i>brazenly</i><par n="maybe__adv"/></e>
+    <e lm="breakingly"><i>breakingly</i><par n="maybe__adv"/></e>
+    <e lm="breathily"><i>breathily</i><par n="maybe__adv"/></e>
     <e lm="breathlessly"><i>breathlessly</i><par n="maybe__adv"/></e>
+    <e lm="breathtakingly"><i>breathtakingly</i><par n="maybe__adv"/></e>
     <e lm="breezily"><i>breezily</i><par n="maybe__adv"/></e>
     <e lm="briefly"><i>briefly</i><par n="maybe__adv"/></e>
     <e lm="brightly"><i>brightly</i><par n="maybe__adv"/></e>
+    <e lm="brilliantly"><i>brilliantly</i><par n="maybe__adv"/></e>
+    <e lm="brimmingly"><i>brimmingly</i><par n="maybe__adv"/></e>
+    <e lm="briskly"><i>briskly</i><par n="maybe__adv"/></e>
+    <e lm="brittlely"><i>brittlely</i><par n="maybe__adv"/></e>
     <e lm="broadly"><i>broadly</i><par n="maybe__adv"/></e>
+    <e lm="brokenly"><i>brokenly</i><par n="maybe__adv"/></e>
+    <e lm="broodingly"><i>broodingly</i><par n="maybe__adv"/></e>
+    <e lm="bruisedly"><i>bruisedly</i><par n="maybe__adv"/></e>
+    <e lm="brusquely"><i>brusquely</i><par n="maybe__adv"/></e>
     <e lm="brutally"><i>brutally</i><par n="maybe__adv"/></e>
+    <e lm="brutishly"><i>brutishly</i><par n="maybe__adv"/></e>
+    <e lm="bubblingly"><i>bubblingly</i><par n="maybe__adv"/></e>
+    <e lm="bulkily"><i>bulkily</i><par n="maybe__adv"/></e>
+    <e lm="bullheadedly"><i>bullheadedly</i><par n="maybe__adv"/></e>
+    <e lm="bullyingly"><i>bullyingly</i><par n="maybe__adv"/></e>
+    <e lm="bumblingly"><i>bumblingly</i><par n="maybe__adv"/></e>
+    <e lm="buoyantly"><i>buoyantly</i><par n="maybe__adv"/></e>
+    <e lm="burdenedly"><i>burdenedly</i><par n="maybe__adv"/></e>
+    <e lm="burdensomely"><i>burdensomely</i><par n="maybe__adv"/></e>
+    <e lm="burningly"><i>burningly</i><par n="maybe__adv"/></e>
+    <e lm="busily"><i>busily</i><par n="maybe__adv"/></e>
     <e lm="by"><i>by</i><par n="maybe__adv"/></e>
+    <e lm="caddishly"><i>caddishly</i><par n="maybe__adv"/></e>
     <e lm="cagily"><i>cagily</i><par n="maybe__adv"/></e>
+    <e lm="cajolingly"><i>cajolingly</i><par n="maybe__adv"/></e>
+    <e lm="calculatingly"><i>calculatingly</i><par n="maybe__adv"/></e>
+    <e lm="callously"><i>callously</i><par n="maybe__adv"/></e>
+    <e lm="callowly"><i>callowly</i><par n="maybe__adv"/></e>
+    <e lm="calmingly"><i>calmingly</i><par n="maybe__adv"/></e>
     <e lm="calmly"><i>calmly</i><par n="maybe__adv"/></e>
+    <e lm="calumniously"><i>calumniously</i><par n="maybe__adv"/></e>
+    <e lm="candidly"><i>candidly</i><par n="maybe__adv"/></e>
+    <e lm="cannily"><i>cannily</i><par n="maybe__adv"/></e>
+    <e lm="cantankerously"><i>cantankerously</i><par n="maybe__adv"/></e>
+    <e lm="capably"><i>capably</i><par n="maybe__adv"/></e>
     <e lm="capaciously"><i>capaciously</i><par n="maybe__adv"/></e>
+    <e lm="capriciously"><i>capriciously</i><par n="maybe__adv"/></e>
+    <e lm="captiously"><i>captiously</i><par n="maybe__adv"/></e>
+    <e lm="captivatedly"><i>captivatedly</i><par n="maybe__adv"/></e>
+    <e lm="captivatingly"><i>captivatingly</i><par n="maybe__adv"/></e>
     <e lm="carefully"><i>carefully</i><par n="maybe__adv"/></e>
     <e lm="carelessly"><i>carelessly</i><par n="maybe__adv"/></e>
+    <e lm="caressingly"><i>caressingly</i><par n="maybe__adv"/></e>
+    <e lm="caringly"><i>caringly</i><par n="maybe__adv"/></e>
+    <e lm="carnally"><i>carnally</i><par n="maybe__adv"/></e>
+    <e lm="carnivorously"><i>carnivorously</i><par n="maybe__adv"/></e>
     <e lm="casually"><i>casually</i><par n="maybe__adv"/></e>
+    <e lm="casuistically"><i>casuistically</i><par n="maybe__adv"/></e>
+    <e lm="catastrophically"><i>catastrophically</i><par n="maybe__adv"/></e>
+    <e lm="catatonically"><i>catatonically</i><par n="maybe__adv"/></e>
     <e lm="categorically"><i>categorically</i><par n="maybe__adv"/></e>
+    <e lm="cattily"><i>cattily</i><par n="maybe__adv"/></e>
+    <e lm="caustically"><i>caustically</i><par n="maybe__adv"/></e>
     <e lm="cautiously"><i>cautiously</i><par n="maybe__adv"/></e>
+    <e lm="cavalierly"><i>cavalierly</i><par n="maybe__adv"/></e>
     <e lm="ceaselessly"><i>ceaselessly</i><par n="maybe__adv"/></e>
+    <e lm="celibately"><i>celibately</i><par n="maybe__adv"/></e>
+    <e lm="censoriously"><i>censoriously</i><par n="maybe__adv"/></e>
     <e lm="centrally"><i>centrally</i><par n="maybe__adv"/></e>
+    <e lm="ceremonially"><i>ceremonially</i><par n="maybe__adv"/></e>
+    <e lm="ceremoniously"><i>ceremoniously</i><par n="maybe__adv"/></e>
     <e lm="certainly"><i>certainly</i><par n="maybe__adv"/></e>
+    <e lm="chagrinedly"><i>chagrinedly</i><par n="maybe__adv"/></e>
+    <e lm="challengingly"><i>challengingly</i><par n="maybe__adv"/></e>
+    <e lm="chantingly"><i>chantingly</i><par n="maybe__adv"/></e>
+    <e lm="chaotically"><i>chaotically</i><par n="maybe__adv"/></e>
+    <e lm="characteristically"><i>characteristically</i><par n="maybe__adv"/></e>
+    <e lm="charily"><i>charily</i><par n="maybe__adv"/></e>
+    <e lm="charismatically"><i>charismatically</i><par n="maybe__adv"/></e>
+    <e lm="charitably"><i>charitably</i><par n="maybe__adv"/></e>
+    <e lm="charmingly"><i>charmingly</i><par n="maybe__adv"/></e>
+    <e lm="chastely"><i>chastely</i><par n="maybe__adv"/></e>
+    <e lm="chastenedly"><i>chastenedly</i><par n="maybe__adv"/></e>
+    <e lm="chattily"><i>chattily</i><par n="maybe__adv"/></e>
+    <e lm="chauvinistically"><i>chauvinistically</i><par n="maybe__adv"/></e>
     <e lm="cheaply"><i>cheaply</i><par n="maybe__adv"/></e>
+    <e lm="cheekily"><i>cheekily</i><par n="maybe__adv"/></e>
     <e lm="cheerfully"><i>cheerfully</i><par n="maybe__adv"/></e>
+    <e lm="cheerily"><i>cheerily</i><par n="maybe__adv"/></e>
+    <e lm="cheeringly"><i>cheeringly</i><par n="maybe__adv"/></e>
+    <e lm="cheerlessly"><i>cheerlessly</i><par n="maybe__adv"/></e>
+    <e lm="cheesily"><i>cheesily</i><par n="maybe__adv"/></e>
     <e lm="chemically"><i>chemically</i><par n="maybe__adv"/></e>
+    <e lm="cherishedly"><i>cherishedly</i><par n="maybe__adv"/></e>
+    <e lm="cherishingly"><i>cherishingly</i><par n="maybe__adv"/></e>
+    <e lm="cherubically"><i>cherubically</i><par n="maybe__adv"/></e>
+    <e lm="chidingly"><i>chidingly</i><par n="maybe__adv"/></e>
     <e lm="chiefly"><i>chiefly</i><par n="maybe__adv"/></e>
+    <e lm="childishly"><i>childishly</i><par n="maybe__adv"/></e>
+    <e lm="chillily"><i>chillily</i><par n="maybe__adv"/></e>
+    <e lm="chillingly"><i>chillingly</i><par n="maybe__adv"/></e>
+    <e lm="chimingly"><i>chimingly</i><par n="maybe__adv"/></e>
+    <e lm="chipperly"><i>chipperly</i><par n="maybe__adv"/></e>
+    <e lm="chirpily"><i>chirpily</i><par n="maybe__adv"/></e>
+    <e lm="chivalrously"><i>chivalrously</i><par n="maybe__adv"/></e>
+    <e lm="chokingly"><i>chokingly</i><par n="maybe__adv"/></e>
     <e lm="chronically"><i>chronically</i><par n="maybe__adv"/></e>
     <e lm="chronologically"><i>chronologically</i><par n="maybe__adv"/></e>
+    <e lm="chubbily"><i>chubbily</i><par n="maybe__adv"/></e>
+    <e lm="chunkily"><i>chunkily</i><par n="maybe__adv"/></e>
+    <e lm="churlishly"><i>churlishly</i><par n="maybe__adv"/></e>
     <e lm="circa"><i>circa</i><par n="maybe__adv"/></e>
+    <e lm="circuitously"><i>circuitously</i><par n="maybe__adv"/></e>
+    <e lm="circularly"><i>circularly</i><par n="maybe__adv"/></e>
+    <e lm="circumspectly"><i>circumspectly</i><par n="maybe__adv"/></e>
+    <e lm="circumstantially"><i>circumstantially</i><par n="maybe__adv"/></e>
+    <e lm="civilly"><i>civilly</i><par n="maybe__adv"/></e>
+    <e lm="clairvoyantly"><i>clairvoyantly</i><par n="maybe__adv"/></e>
+    <e lm="clammily"><i>clammily</i><par n="maybe__adv"/></e>
+    <e lm="clandestinely"><i>clandestinely</i><par n="maybe__adv"/></e>
+    <e lm="clarifyingly"><i>clarifyingly</i><par n="maybe__adv"/></e>
+    <e lm="clashingly"><i>clashingly</i><par n="maybe__adv"/></e>
+    <e lm="classically"><i>classically</i><par n="maybe__adv"/></e>
+    <e lm="classily"><i>classily</i><par n="maybe__adv"/></e>
+    <e lm="classlessly"><i>classlessly</i><par n="maybe__adv"/></e>
+    <e lm="clatteringly"><i>clatteringly</i><par n="maybe__adv"/></e>
+    <e lm="claustrophobically"><i>claustrophobically</i><par n="maybe__adv"/></e>
     <e lm="clean"><i>clean</i><par n="maybe__adv"/></e>
+    <e lm="cleanly"><i>cleanly</i><par n="maybe__adv"/></e>
+    <e lm="cleansingly"><i>cleansingly</i><par n="maybe__adv"/></e>
     <e lm="clearly"><i>clearly</i><par n="maybe__adv"/></e>
     <e lm="cleverly"><i>cleverly</i><par n="maybe__adv"/></e>
+    <e lm="climatically"><i>climatically</i><par n="maybe__adv"/></e>
+    <e lm="clingingly"><i>clingingly</i><par n="maybe__adv"/></e>
+    <e lm="clinically"><i>clinically</i><par n="maybe__adv"/></e>
+    <e lm="clinkingly"><i>clinkingly</i><par n="maybe__adv"/></e>
     <e lm="clockwise"><i>clockwise</i><par n="maybe__adv"/></e>
     <e lm="closely"><i>closely</i><par n="maybe__adv"/></e>
+    <e lm="cloudily"><i>cloudily</i><par n="maybe__adv"/></e>
+    <e lm="clubbily"><i>clubbily</i><par n="maybe__adv"/></e>
+    <e lm="cluelessly"><i>cluelessly</i><par n="maybe__adv"/></e>
+    <e lm="clumsily"><i>clumsily</i><par n="maybe__adv"/></e>
+    <e lm="coarsely"><i>coarsely</i><par n="maybe__adv"/></e>
+    <e lm="coaxingly"><i>coaxingly</i><par n="maybe__adv"/></e>
+    <e lm="cockily"><i>cockily</i><par n="maybe__adv"/></e>
+    <e lm="cogently"><i>cogently</i><par n="maybe__adv"/></e>
+    <e lm="cognisantly"><i>cognisantly</i><par n="maybe__adv"/></e>
+    <e lm="cognizantly"><i>cognizantly</i><par n="maybe__adv"/></e>
+    <e lm="coherently"><i>coherently</i><par n="maybe__adv"/></e>
+    <e lm="coincidentally"><i>coincidentally</i><par n="maybe__adv"/></e>
+    <e lm="coldheartedly"><i>coldheartedly</i><par n="maybe__adv"/></e>
     <e lm="coldly"><i>coldly</i><par n="maybe__adv"/></e>
+    <e lm="collectedly"><i>collectedly</i><par n="maybe__adv"/></e>
+    <e lm="collectively"><i>collectively</i><par n="maybe__adv"/></e>
+    <e lm="colorfully"><i>colorfully</i><par n="maybe__adv"/></e>
+    <e lm="colorlessly"><i>colorlessly</i><par n="maybe__adv"/></e>
+    <e lm="colourfully"><i>colourfully</i><par n="maybe__adv"/></e>
+    <e lm="colourlessly"><i>colourlessly</i><par n="maybe__adv"/></e>
+    <e lm="coltishly"><i>coltishly</i><par n="maybe__adv"/></e>
+    <e lm="comatosely"><i>comatosely</i><par n="maybe__adv"/></e>
+    <e lm="combatively"><i>combatively</i><par n="maybe__adv"/></e>
     <e lm="comfortably"><i>comfortably</i><par n="maybe__adv"/></e>
+    <e lm="comfortedly"><i>comfortedly</i><par n="maybe__adv"/></e>
+    <e lm="comfortingly"><i>comfortingly</i><par n="maybe__adv"/></e>
+    <e lm="comfortlessly"><i>comfortlessly</i><par n="maybe__adv"/></e>
+    <e lm="comically"><i>comically</i><par n="maybe__adv"/></e>
+    <e lm="commandingly"><i>commandingly</i><par n="maybe__adv"/></e>
+    <e lm="commendatorily"><i>commendatorily</i><par n="maybe__adv"/></e>
     <e lm="commercially"><i>commercially</i><par n="maybe__adv"/></e>
+    <e lm="commodiously"><i>commodiously</i><par n="maybe__adv"/></e>
     <e lm="commonly"><i>commonly</i><par n="maybe__adv"/></e>
+    <e lm="communicatively"><i>communicatively</i><par n="maybe__adv"/></e>
+    <e lm="compactly"><i>compactly</i><par n="maybe__adv"/></e>
+    <e lm="companionably"><i>companionably</i><par n="maybe__adv"/></e>
     <e lm="comparatively"><i>comparatively</i><par n="maybe__adv"/></e>
+    <e lm="comparingly"><i>comparingly</i><par n="maybe__adv"/></e>
+    <e lm="compassionately"><i>compassionately</i><par n="maybe__adv"/></e>
+    <e lm="compellingly"><i>compellingly</i><par n="maybe__adv"/></e>
+    <e lm="compensatingly"><i>compensatingly</i><par n="maybe__adv"/></e>
+    <e lm="competently"><i>competently</i><par n="maybe__adv"/></e>
+    <e lm="competitively"><i>competitively</i><par n="maybe__adv"/></e>
+    <e lm="complacently"><i>complacently</i><par n="maybe__adv"/></e>
+    <e lm="complainingly"><i>complainingly</i><par n="maybe__adv"/></e>
+    <e lm="complaisantly"><i>complaisantly</i><par n="maybe__adv"/></e>
+    <e lm="complementarily"><i>complementarily</i><par n="maybe__adv"/></e>
     <e lm="completely"><i>completely</i><par n="maybe__adv"/></e>
+    <e lm="complexly"><i>complexly</i><par n="maybe__adv"/></e>
+    <e lm="compliantly"><i>compliantly</i><par n="maybe__adv"/></e>
+    <e lm="complicatedly"><i>complicatedly</i><par n="maybe__adv"/></e>
+    <e lm="complicitly"><i>complicitly</i><par n="maybe__adv"/></e>
+    <e lm="complimentarily"><i>complimentarily</i><par n="maybe__adv"/></e>
+    <e lm="composedly"><i>composedly</i><par n="maybe__adv"/></e>
+    <e lm="comprehendingly"><i>comprehendingly</i><par n="maybe__adv"/></e>
+    <e lm="comprehensibly"><i>comprehensibly</i><par n="maybe__adv"/></e>
     <e lm="comprehensively"><i>comprehensively</i><par n="maybe__adv"/></e>
+    <e lm="compromisingly"><i>compromisingly</i><par n="maybe__adv"/></e>
+    <e lm="compulsively"><i>compulsively</i><par n="maybe__adv"/></e>
+    <e lm="compulsorily"><i>compulsorily</i><par n="maybe__adv"/></e>
     <e lm="computationally"><i>computationally</i><par n="maybe__adv"/></e>
+    <e lm="concealingly"><i>concealingly</i><par n="maybe__adv"/></e>
+    <e lm="concedingly"><i>concedingly</i><par n="maybe__adv"/></e>
+    <e lm="conceitedly"><i>conceitedly</i><par n="maybe__adv"/></e>
     <e lm="conceivably"><i>conceivably</i><par n="maybe__adv"/></e>
+    <e lm="concentratedly"><i>concentratedly</i><par n="maybe__adv"/></e>
+    <e lm="concernedly"><i>concernedly</i><par n="maybe__adv"/></e>
+    <e lm="concertedly"><i>concertedly</i><par n="maybe__adv"/></e>
+    <e lm="conciliatorily"><i>conciliatorily</i><par n="maybe__adv"/></e>
     <e lm="concisely"><i>concisely</i><par n="maybe__adv"/></e>
+    <e lm="concludingly"><i>concludingly</i><par n="maybe__adv"/></e>
+    <e lm="conclusively"><i>conclusively</i><par n="maybe__adv"/></e>
+    <e lm="concupiscently"><i>concupiscently</i><par n="maybe__adv"/></e>
+    <e lm="concurrently"><i>concurrently</i><par n="maybe__adv"/></e>
+    <e lm="concurringly"><i>concurringly</i><par n="maybe__adv"/></e>
+    <e lm="condescendingly"><i>condescendingly</i><par n="maybe__adv"/></e>
+    <e lm="conditionally"><i>conditionally</i><par n="maybe__adv"/></e>
+    <e lm="confidentially"><i>confidentially</i><par n="maybe__adv"/></e>
     <e lm="confidently"><i>confidently</i><par n="maybe__adv"/></e>
+    <e lm="confidingly"><i>confidingly</i><par n="maybe__adv"/></e>
+    <e lm="confinedly"><i>confinedly</i><par n="maybe__adv"/></e>
+    <e lm="confirmingly"><i>confirmingly</i><par n="maybe__adv"/></e>
+    <e lm="conflictedly"><i>conflictedly</i><par n="maybe__adv"/></e>
+    <e lm="confoundedly"><i>confoundedly</i><par n="maybe__adv"/></e>
+    <e lm="confusedly"><i>confusedly</i><par n="maybe__adv"/></e>
+    <e lm="confusingly"><i>confusingly</i><par n="maybe__adv"/></e>
+    <e lm="congenially"><i>congenially</i><par n="maybe__adv"/></e>
+    <e lm="congestedly"><i>congestedly</i><par n="maybe__adv"/></e>
+    <e lm="congratulatorily"><i>congratulatorily</i><par n="maybe__adv"/></e>
+    <e lm="congruently"><i>congruently</i><par n="maybe__adv"/></e>
+    <e lm="conjointly"><i>conjointly</i><par n="maybe__adv"/></e>
+    <e lm="connately"><i>connately</i><par n="maybe__adv"/></e>
+    <e lm="connivingly"><i>connivingly</i><par n="maybe__adv"/></e>
     <e lm="conscientiously"><i>conscientiously</i><par n="maybe__adv"/></e>
     <e lm="consciously"><i>consciously</i><par n="maybe__adv"/></e>
     <e lm="consecutively"><i>consecutively</i><par n="maybe__adv"/></e>
+    <e lm="consensually"><i>consensually</i><par n="maybe__adv"/></e>
+    <e lm="consentedly"><i>consentedly</i><par n="maybe__adv"/></e>
+    <e lm="consentingly"><i>consentingly</i><par n="maybe__adv"/></e>
     <e lm="consequently"><i>consequently</i><par n="maybe__adv"/></e>
+    <e lm="conservatively"><i>conservatively</i><par n="maybe__adv"/></e>
     <e lm="considerable"><i>considerable</i><par n="maybe__adv"/></e>
     <e lm="considerably"><i>considerably</i><par n="maybe__adv"/></e>
+    <e lm="considerately"><i>considerately</i><par n="maybe__adv"/></e>
+    <e lm="consideringly"><i>consideringly</i><par n="maybe__adv"/></e>
     <e lm="consistently"><i>consistently</i><par n="maybe__adv"/></e>
+    <e lm="consolingly"><i>consolingly</i><par n="maybe__adv"/></e>
+    <e lm="conspicuously"><i>conspicuously</i><par n="maybe__adv"/></e>
+    <e lm="conspiratorially"><i>conspiratorially</i><par n="maybe__adv"/></e>
     <e lm="constantly"><i>constantly</i><par n="maybe__adv"/></e>
     <e lm="constitutionally"><i>constitutionally</i><par n="maybe__adv"/></e>
+    <e lm="constrictedly"><i>constrictedly</i><par n="maybe__adv"/></e>
+    <e lm="constrictingly"><i>constrictingly</i><par n="maybe__adv"/></e>
+    <e lm="constrictively"><i>constrictively</i><par n="maybe__adv"/></e>
+    <e lm="constructively"><i>constructively</i><par n="maybe__adv"/></e>
+    <e lm="consumedly"><i>consumedly</i><par n="maybe__adv"/></e>
+    <e lm="consumingly"><i>consumingly</i><par n="maybe__adv"/></e>
+    <e lm="consummately"><i>consummately</i><par n="maybe__adv"/></e>
+    <e lm="contagiously"><i>contagiously</i><par n="maybe__adv"/></e>
+    <e lm="contemplatively"><i>contemplatively</i><par n="maybe__adv"/></e>
+    <e lm="contemptibly"><i>contemptibly</i><par n="maybe__adv"/></e>
+    <e lm="contemptuously"><i>contemptuously</i><par n="maybe__adv"/></e>
     <e lm="contentedly"><i>contentedly</i><par n="maybe__adv"/></e>
+    <e lm="contentiously"><i>contentiously</i><par n="maybe__adv"/></e>
+    <e lm="contently"><i>contently</i><par n="maybe__adv"/></e>
+    <e lm="continently"><i>continently</i><par n="maybe__adv"/></e>
     <e lm="continually"><i>continually</i><par n="maybe__adv"/></e>
+    <e lm="continuingly"><i>continuingly</i><par n="maybe__adv"/></e>
     <e lm="continuously"><i>continuously</i><par n="maybe__adv"/></e>
+    <e lm="contradictorily"><i>contradictorily</i><par n="maybe__adv"/></e>
+    <e lm="contrarily"><i>contrarily</i><par n="maybe__adv"/></e>
+    <e lm="contrastingly"><i>contrastingly</i><par n="maybe__adv"/></e>
+    <e lm="contritely"><i>contritely</i><par n="maybe__adv"/></e>
+    <e lm="contrivedly"><i>contrivedly</i><par n="maybe__adv"/></e>
+    <e lm="controlledly"><i>controlledly</i><par n="maybe__adv"/></e>
+    <e lm="contumaciously"><i>contumaciously</i><par n="maybe__adv"/></e>
+    <e lm="contumeliously"><i>contumeliously</i><par n="maybe__adv"/></e>
     <e lm="conveniently"><i>conveniently</i><par n="maybe__adv"/></e>
     <e lm="conventionally"><i>conventionally</i><par n="maybe__adv"/></e>
+    <e lm="conversationally"><i>conversationally</i><par n="maybe__adv"/></e>
     <e lm="conversely"><i>conversely</i><par n="maybe__adv"/></e>
+    <e lm="convincedly"><i>convincedly</i><par n="maybe__adv"/></e>
+    <e lm="convincingly"><i>convincingly</i><par n="maybe__adv"/></e>
+    <e lm="convivially"><i>convivially</i><par n="maybe__adv"/></e>
+    <e lm="convolutely"><i>convolutely</i><par n="maybe__adv"/></e>
+    <e lm="convulsively"><i>convulsively</i><par n="maybe__adv"/></e>
+    <e lm="coolingly"><i>coolingly</i><par n="maybe__adv"/></e>
+    <e lm="coolly"><i>coolly</i><par n="maybe__adv"/></e>
     <e lm="cooperatively"><i>cooperatively</i><par n="maybe__adv"/></e>
+    <e lm="coordinately"><i>coordinately</i><par n="maybe__adv"/></e>
+    <e lm="copiously"><i>copiously</i><par n="maybe__adv"/></e>
+    <e lm="coquettishly"><i>coquettishly</i><par n="maybe__adv"/></e>
     <e lm="cordially"><i>cordially</i><par n="maybe__adv"/></e>
+    <e lm="correctedly"><i>correctedly</i><par n="maybe__adv"/></e>
+    <e lm="correctively"><i>correctively</i><par n="maybe__adv"/></e>
     <e lm="correctly"><i>correctly</i><par n="maybe__adv"/></e>
+    <e lm="correspondingly"><i>correspondingly</i><par n="maybe__adv"/></e>
+    <e lm="cosily"><i>cosily</i><par n="maybe__adv"/></e>
+    <e lm="coughingly"><i>coughingly</i><par n="maybe__adv"/></e>
+    <e lm="counterproductively"><i>counterproductively</i><par n="maybe__adv"/></e>
+    <e lm="courageously"><i>courageously</i><par n="maybe__adv"/></e>
+    <e lm="courteously"><i>courteously</i><par n="maybe__adv"/></e>
     <e lm="covertly"><i>covertly</i><par n="maybe__adv"/></e>
+    <e lm="covetously"><i>covetously</i><par n="maybe__adv"/></e>
+    <e lm="coyly"><i>coyly</i><par n="maybe__adv"/></e>
+    <e lm="cozily"><i>cozily</i><par n="maybe__adv"/></e>
+    <e lm="crabbily"><i>crabbily</i><par n="maybe__adv"/></e>
+    <e lm="craftily"><i>craftily</i><par n="maybe__adv"/></e>
+    <e lm="crankily"><i>crankily</i><par n="maybe__adv"/></e>
+    <e lm="crassly"><i>crassly</i><par n="maybe__adv"/></e>
+    <e lm="cravenly"><i>cravenly</i><par n="maybe__adv"/></e>
+    <e lm="crazily"><i>crazily</i><par n="maybe__adv"/></e>
+    <e lm="creakily"><i>creakily</i><par n="maybe__adv"/></e>
+    <e lm="creamily"><i>creamily</i><par n="maybe__adv"/></e>
     <e lm="creatively"><i>creatively</i><par n="maybe__adv"/></e>
+    <e lm="credulously"><i>credulously</i><par n="maybe__adv"/></e>
+    <e lm="creepily"><i>creepily</i><par n="maybe__adv"/></e>
+    <e lm="crescendingly"><i>crescendingly</i><par n="maybe__adv"/></e>
+    <e lm="crestfallenly"><i>crestfallenly</i><par n="maybe__adv"/></e>
+    <e lm="cringingly"><i>cringingly</i><par n="maybe__adv"/></e>
+    <e lm="crisply"><i>crisply</i><par n="maybe__adv"/></e>
     <e lm="critically"><i>critically</i><par n="maybe__adv"/></e>
+    <e lm="croakily"><i>croakily</i><par n="maybe__adv"/></e>
+    <e lm="croakingly"><i>croakingly</i><par n="maybe__adv"/></e>
+    <e lm="crookedly"><i>crookedly</i><par n="maybe__adv"/></e>
+    <e lm="crossingly"><i>crossingly</i><par n="maybe__adv"/></e>
+    <e lm="crossly"><i>crossly</i><par n="maybe__adv"/></e>
+    <e lm="crowdedly"><i>crowdedly</i><par n="maybe__adv"/></e>
+    <e lm="crudely"><i>crudely</i><par n="maybe__adv"/></e>
     <e lm="cruelly"><i>cruelly</i><par n="maybe__adv"/></e>
+    <e lm="crunchily"><i>crunchily</i><par n="maybe__adv"/></e>
+    <e lm="crushedly"><i>crushedly</i><par n="maybe__adv"/></e>
+    <e lm="crushingly"><i>crushingly</i><par n="maybe__adv"/></e>
+    <e lm="crustily"><i>crustily</i><par n="maybe__adv"/></e>
+    <e lm="cryptically"><i>cryptically</i><par n="maybe__adv"/></e>
+    <e lm="cultivatedly"><i>cultivatedly</i><par n="maybe__adv"/></e>
     <e lm="culturally"><i>culturally</i><par n="maybe__adv"/></e>
+    <e lm="culturedly"><i>culturedly</i><par n="maybe__adv"/></e>
+    <e lm="cumbersomely"><i>cumbersomely</i><par n="maybe__adv"/></e>
+    <e lm="cunningly"><i>cunningly</i><par n="maybe__adv"/></e>
     <e lm="curiously"><i>curiously</i><par n="maybe__adv"/></e>
+    <e lm="curmudgeonly"><i>curmudgeonly</i><par n="maybe__adv"/></e>
     <e lm="currently"><i>currently</i><par n="maybe__adv"/></e>
+    <e lm="cursorily"><i>cursorily</i><par n="maybe__adv"/></e>
+    <e lm="curtly"><i>curtly</i><par n="maybe__adv"/></e>
+    <e lm="curvedly"><i>curvedly</i><par n="maybe__adv"/></e>
+    <e lm="customarily"><i>customarily</i><par n="maybe__adv"/></e>
+    <e lm="cutely"><i>cutely</i><par n="maybe__adv"/></e>
+    <e lm="cuttingly"><i>cuttingly</i><par n="maybe__adv"/></e>
+    <e lm="cynically"><i>cynically</i><par n="maybe__adv"/></e>
+    <e lm="daffily"><i>daffily</i><par n="maybe__adv"/></e>
+    <e lm="daftly"><i>daftly</i><par n="maybe__adv"/></e>
     <e lm="daily"><i>daily</i><par n="maybe__adv"/></e>
+    <e lm="daintily"><i>daintily</i><par n="maybe__adv"/></e>
+    <e lm="damply"><i>damply</i><par n="maybe__adv"/></e>
+    <e lm="dancingly"><i>dancingly</i><par n="maybe__adv"/></e>
     <e lm="dangerously"><i>dangerously</i><par n="maybe__adv"/></e>
+    <e lm="dapperly"><i>dapperly</i><par n="maybe__adv"/></e>
+    <e lm="daringly"><i>daringly</i><par n="maybe__adv"/></e>
+    <e lm="darkly"><i>darkly</i><par n="maybe__adv"/></e>
+    <e lm="dashingly"><i>dashingly</i><par n="maybe__adv"/></e>
+    <e lm="dauntedly"><i>dauntedly</i><par n="maybe__adv"/></e>
+    <e lm="dauntingly"><i>dauntingly</i><par n="maybe__adv"/></e>
+    <e lm="dauntlessly"><i>dauntlessly</i><par n="maybe__adv"/></e>
+    <e lm="dazedly"><i>dazedly</i><par n="maybe__adv"/></e>
+    <e lm="dazzlingly"><i>dazzlingly</i><par n="maybe__adv"/></e>
     <e lm="deadly"><i>deadly</i><par n="maybe__adv"/></e>
+    <e lm="deadpan"><i>deadpan</i><par n="maybe__adv"/></e>
+    <e lm="deafeningly"><i>deafeningly</i><par n="maybe__adv"/></e>
+    <e lm="deafly"><i>deafly</i><par n="maybe__adv"/></e>
     <e lm="dear"><i>dear</i><par n="maybe__adv"/></e>
     <e lm="dearly"><i>dearly</i><par n="maybe__adv"/></e>
+    <e lm="debasedly"><i>debasedly</i><par n="maybe__adv"/></e>
+    <e lm="debonairly"><i>debonairly</i><par n="maybe__adv"/></e>
+    <e lm="decadently"><i>decadently</i><par n="maybe__adv"/></e>
+    <e lm="deceitfully"><i>deceitfully</i><par n="maybe__adv"/></e>
     <e lm="decently"><i>decently</i><par n="maybe__adv"/></e>
+    <e lm="deceptively"><i>deceptively</i><par n="maybe__adv"/></e>
     <e lm="decidedly"><i>decidedly</i><par n="maybe__adv"/></e>
     <e lm="decisively"><i>decisively</i><par n="maybe__adv"/></e>
+    <e lm="decoratively"><i>decoratively</i><par n="maybe__adv"/></e>
+    <e lm="decorously"><i>decorously</i><par n="maybe__adv"/></e>
+    <e lm="decreasingly"><i>decreasingly</i><par n="maybe__adv"/></e>
+    <e lm="dedicatedly"><i>dedicatedly</i><par n="maybe__adv"/></e>
+    <e lm="deductively"><i>deductively</i><par n="maybe__adv"/></e>
     <e lm="deeply"><i>deeply</i><par n="maybe__adv"/></e>
+    <e lm="defamatorily"><i>defamatorily</i><par n="maybe__adv"/></e>
+    <e lm="defeatedly"><i>defeatedly</i><par n="maybe__adv"/></e>
+    <e lm="defectingly"><i>defectingly</i><par n="maybe__adv"/></e>
+    <e lm="defencelessly"><i>defencelessly</i><par n="maybe__adv"/></e>
+    <e lm="defenselessly"><i>defenselessly</i><par n="maybe__adv"/></e>
+    <e lm="defensively"><i>defensively</i><par n="maybe__adv"/></e>
+    <e lm="deferentially"><i>deferentially</i><par n="maybe__adv"/></e>
+    <e lm="defiantly"><i>defiantly</i><par n="maybe__adv"/></e>
     <e lm="definitely"><i>definitely</i><par n="maybe__adv"/></e>
     <e lm="definitively"><i>definitively</i><par n="maybe__adv"/></e>
+    <e lm="deflatedly"><i>deflatedly</i><par n="maybe__adv"/></e>
+    <e lm="deflectingly"><i>deflectingly</i><par n="maybe__adv"/></e>
+    <e lm="deformedly"><i>deformedly</i><par n="maybe__adv"/></e>
+    <e lm="deftly"><i>deftly</i><par n="maybe__adv"/></e>
+    <e lm="dejectedly"><i>dejectedly</i><par n="maybe__adv"/></e>
+    <e lm="delectably"><i>delectably</i><par n="maybe__adv"/></e>
     <e lm="deliberately"><i>deliberately</i><par n="maybe__adv"/></e>
+    <e lm="delicately"><i>delicately</i><par n="maybe__adv"/></e>
+    <e lm="deliciously"><i>deliciously</i><par n="maybe__adv"/></e>
     <e lm="delightedly"><i>delightedly</i><par n="maybe__adv"/></e>
+    <e lm="delightfully"><i>delightfully</i><par n="maybe__adv"/></e>
+    <e lm="deliriously"><i>deliriously</i><par n="maybe__adv"/></e>
+    <e lm="deludedly"><i>deludedly</i><par n="maybe__adv"/></e>
+    <e lm="demandingly"><i>demandingly</i><par n="maybe__adv"/></e>
+    <e lm="dementedly"><i>dementedly</i><par n="maybe__adv"/></e>
     <e lm="democratically"><i>democratically</i><par n="maybe__adv"/></e>
     <e lm="demographically"><i>demographically</i><par n="maybe__adv"/></e>
+    <e lm="demonstrably"><i>demonstrably</i><par n="maybe__adv"/></e>
     <e lm="densely"><i>densely</i><par n="maybe__adv"/></e>
     <e lm="desperately"><i>desperately</i><par n="maybe__adv"/></e>
     <e lm="despite"><i>despite</i><par n="maybe__adv"/></e>
     <e lm="destructively"><i>destructively</i><par n="maybe__adv"/></e>
+    <e lm="determinedly"><i>determinedly</i><par n="maybe__adv"/></e>
     <e lm="detestable"><i>detestable</i><par n="ii__adv"/></e>
     <e lm="diagonally"><i>diagonally</i><par n="maybe__adv"/></e>
     <e lm="diametrically"><i>diametrically</i><par n="maybe__adv"/></e>
@@ -29037,19 +29681,23 @@
     <e lm="disastrously"><i>disastrously</i><par n="maybe__adv"/></e>
     <e lm="disconcertingly"><i>disconcertingly</i><par n="maybe__adv"/></e>
     <e lm="discover"><i>discover</i><par n="maybe__adv"/></e>
+    <e lm="disgracefully"><i>disgracefully</i><par n="maybe__adv"/></e>
     <e lm="disinterestedly"><i>disinterestedly</i><par n="maybe__adv"/></e>
     <e lm="disproportionately"><i>disproportionately</i><par n="maybe__adv"/></e>
     <e lm="disreputably"><i>disreputably</i><par n="maybe__adv"/></e>
     <e lm="disrespectfully"><i>disrespectfully</i><par n="maybe__adv"/></e>
     <e lm="distinctly"><i>distinctly</i><par n="maybe__adv"/></e>
     <e lm="distractedly"><i>distractedly</i><par n="maybe__adv"/></e>
+    <e lm="ditto"><i>ditto</i><par n="maybe__adv"/></e>
     <e lm="doggedly"><i>doggedly</i><par n="maybe__adv"/></e>
+    <e lm="dogmatically"><i>dogmatically</i><par n="maybe__adv"/></e>
     <e lm="domestically"><i>domestically</i><par n="maybe__adv"/></e>
     <e lm="double"><i>double</i><par n="maybe__adv"/></e>
     <e lm="doubly"><i>doubly</i><par n="maybe__adv"/></e>
     <e lm="doubtless"><i>doubtless</i><par n="maybe__adv"/></e>
-    <e lm="down"><i>down</i><par n="maybe__adv"/></e>
+    <e lm="dourly"><i>dourly</i><par n="maybe__adv"/></e>
     <e lm="down-hill" r="LR"><i>down-hill</i><par n="maybe__adv"/></e>
+    <e lm="down"><i>down</i><par n="maybe__adv"/></e>
     <e lm="downhill"><i>downhill</i><par n="maybe__adv"/></e>
     <e lm="downright"><i>downright</i><par n="maybe__adv"/></e>
     <e lm="downstairs"><i>downstairs</i><par n="maybe__adv"/></e>
@@ -29122,12 +29770,14 @@
     <e lm="excellently"><i>excellently</i><par n="maybe__adv"/></e>
     <e lm="exceptionally"><i>exceptionally</i><par n="maybe__adv"/></e>
     <e lm="excessively"><i>excessively</i><par n="maybe__adv"/></e>
+    <e lm="excitedly"><i>excitedly</i><par n="maybe__adv"/></e>
     <e lm="exclusively"><i>exclusively</i><par n="maybe__adv"/></e>
     <e lm="expediently"><i>expediently</i><par n="maybe__adv"/></e>
     <e lm="experimentally"><i>experimentally</i><par n="maybe__adv"/></e>
     <e lm="explicitly"><i>explicitly</i><par n="maybe__adv"/></e>
     <e lm="expressively"><i>expressively</i><par n="maybe__adv"/></e>
     <e lm="expressly"><i>expressly</i><par n="maybe__adv"/></e>
+    <e lm="exquisitely"><i>exquisitely</i><par n="maybe__adv"/></e>
     <e lm="extensively"><i>extensively</i><par n="maybe__adv"/></e>
     <e lm="externally"><i>externally</i><par n="maybe__adv"/></e>
     <e lm="extra"><i>extra</i><par n="maybe__adv"/></e>
@@ -29141,7 +29791,8 @@
     <e lm="fantastically"><i>fantastically</i><par n="maybe__adv"/></e>
     <e lm="far"><i>far</i><par n="maybe__adv"/></e>
     <e lm="fast"><i>fast</i><par n="maybe__adv"/></e>
-    <e c="(GB)" lm="favourably"><i>favourably</i><par n="maybe__adv"/></e>
+    <e lm="fatally"><i>fatally</i><par n="maybe__adv"/></e>
+    <e lm="favorably"><i>favorably</i><par n="maybe__adv"/></e>
     <e lm="feverishly"><i>feverishly</i><par n="maybe__adv"/></e>
     <e lm="fiercely"><i>fiercely</i><par n="maybe__adv"/></e>
     <e lm="finally"><i>finally</i><par n="maybe__adv"/></e>
@@ -29151,8 +29802,8 @@
     <e lm="firmly"><i>firmly</i><par n="maybe__adv"/></e>
     <e lm="first"><i>first</i><par n="maybe__adv"/></e>
     <e lm="firstly"><i>firstly</i><par n="maybe__adv"/></e>
+    <e lm="fiscally"><i>fiscally</i><par n="maybe__adv"/></e>
     <e lm="five-thirty"><i>five-thirty</i><par n="maybe__adv"/></e>
-    <e c="(US)" lm="flat"><i>flat</i><par n="maybe__adv"/></e>
     <e lm="flatly"><i>flatly</i><par n="maybe__adv"/></e>
     <e lm="flawlessly"><i>flawlessly</i><par n="maybe__adv"/></e>
     <e lm="fluently"><i>fluently</i><par n="maybe__adv"/></e>
@@ -29166,6 +29817,7 @@
     <e lm="forte"><i>forte</i><par n="maybe__adv"/></e>
     <e lm="forth"><i>forth</i><par n="maybe__adv"/></e>
     <e lm="forthwith"><i>forthwith</i><par n="maybe__adv"/></e>
+    <e lm="fortuitously"><i>fortuitously</i><par n="maybe__adv"/></e>
     <e lm="fortunately"><i>fortunately</i><par n="maybe__adv"/></e>
     <e lm="forward"><i>forward</i><par n="maybe__adv"/></e>
     <e lm="four-thirty"><i>four-thirty</i><par n="maybe__adv"/></e>
@@ -29182,6 +29834,7 @@
     <e lm="friendly"><i>friendly</i><par n="maybe__adv"/></e>
     <e lm="frivolously"><i>frivolously</i><par n="maybe__adv"/></e>
     <e lm="front"><i>front</i><par n="maybe__adv"/></e>
+    <e lm="frontally"><i>frontally</i><par n="maybe__adv"/></e>
     <e lm="fully"><i>fully</i><par n="maybe__adv"/></e>
     <e lm="fundamentally"><i>fundamentally</i><par n="maybe__adv"/></e>
     <e lm="furiously"><i>furiously</i><par n="maybe__adv"/></e>
@@ -29207,17 +29860,21 @@
     <e lm="godly"><i>godl</i><par n="ic/y__adv"/></e>
     <e lm="good"><i>good</i><par n="maybe__adv"/></e>
     <e lm="gracefully"><i>gracefully</i><par n="maybe__adv"/></e>
+    <e lm="graciously"><i>graciously</i><par n="maybe__adv"/></e>
     <e lm="gradually"><i>gradually</i><par n="maybe__adv"/></e>
     <e lm="gravely"><i>gravely</i><par n="maybe__adv"/></e>
     <e lm="greatly"><i>greatly</i><par n="maybe__adv"/></e>
+    <e lm="grindingly"><i>grindingly</i><par n="maybe__adv"/></e>
     <e lm="gropingly"><i>gropingly</i><par n="maybe__adv"/></e>
     <e lm="gross"><i>gross</i><par n="maybe__adv"/></e>
+    <e lm="grossly"><i>grossly</i><par n="maybe__adv"/></e>
     <e lm="guardedly"><i>guardedly</i><par n="maybe__adv"/></e>
     <e lm="half"><i>half</i><par n="maybe__adv"/></e>
     <e lm="halfway"><i>halfway</i><par n="maybe__adv"/></e>
     <e lm="handsomely"><i>handsomely</i><par n="maybe__adv"/></e>
     <e lm="happily"><i>happily</i><par n="maybe__adv"/></e>
     <e lm="hardly"><i>hardly</i><par n="maybe__adv"/></e>
+    <e lm="harmoniously"><i>harmoniously</i><par n="maybe__adv"/></e>
     <e lm="harshly"><i>harshly</i><par n="maybe__adv"/></e>
     <e lm="headlong"><i>headlong</i><par n="maybe__adv"/></e>
     <e lm="heavily"><i>heavily</i><par n="maybe__adv"/></e>
@@ -29256,9 +29913,11 @@
     <e lm="hypothetically"><i>hypothetically</i><par n="maybe__adv"/></e>
     <e lm="ibidem"><i>ibidem</i><par n="maybe__adv"/></e>
     <e lm="ideally"><i>ideally</i><par n="maybe__adv"/></e>
+    <e lm="ideologically"><i>ideologically</i><par n="maybe__adv"/></e>
     <e lm="illegally"><i>illegally</i><par n="maybe__adv"/></e>
     <e lm="illicitly"><i>illicitly</i><par n="maybe__adv"/></e>
     <e lm="immediately"><i>immediately</i><par n="maybe__adv"/></e>
+    <e lm="imminently"><i>imminently</i><par n="maybe__adv"/></e>
     <e lm="impartially"><i>impartially</i><par n="maybe__adv"/></e>
     <e lm="imperceptibly"><i>imperceptibly</i><par n="maybe__adv"/></e>
     <e lm="impressively"><i>impressively</i><par n="maybe__adv"/></e>
@@ -29274,6 +29933,7 @@
     <e lm="incorrectly"><i>incorrectly</i><par n="maybe__adv"/></e>
     <e lm="increasingly"><i>increasingly</i><par n="maybe__adv"/></e>
     <e lm="incredibly"><i>incredibly</i><par n="maybe__adv"/></e>
+    <e lm="incrementally"><i>incrementally</i><par n="maybe__adv"/></e>
     <e lm="indeed"><i>indeed</i><par n="maybe__adv"/></e>
     <e lm="indefinitely"><i>indefinitely</i><par n="maybe__adv"/></e>
     <e lm="independently"><i>independently</i><par n="maybe__adv"/></e>
@@ -29288,9 +29948,11 @@
     <e lm="inevitably"><i>inevitably</i><par n="maybe__adv"/></e>
     <e lm="inexplicably"><i>inexplicably</i><par n="maybe__adv"/></e>
     <e lm="inextricably"><i>inextricably</i><par n="maybe__adv"/></e>
+    <e lm="infinitely"><i>infinitely</i><par n="maybe__adv"/></e>
     <e lm="informally"><i>informally</i><par n="maybe__adv"/></e>
     <e lm="initially"><i>initially</i><par n="maybe__adv"/></e>
     <e lm="innocently"><i>innocently</i><par n="maybe__adv"/></e>
+    <e lm="inordinately"><i>inordinately</i><par n="maybe__adv"/></e>
     <e lm="inside"><i>inside</i><par n="maybe__adv"/></e>
     <e lm="insofar"><i>insofar</i><par n="maybe__adv"/></e>
     <e lm="instantaneously"><i>instantaneously</i><par n="maybe__adv"/></e>
@@ -29304,21 +29966,27 @@
     <e lm="intentionally"><i>intentionally</i><par n="maybe__adv"/></e>
     <e lm="interactively"><i>interactively</i><par n="maybe__adv"/></e>
     <e lm="interestingly"><i>interestingly</i><par n="maybe__adv"/></e>
+    <e lm="internally"><i>internally</i><par n="maybe__adv"/></e>
     <e lm="internationally"><i>internationally</i><par n="maybe__adv"/></e>
     <e lm="intestate"><i>intestate</i><par n="maybe__adv"/></e> <!-- TODO: maybe adjective? ex: to die intestate -->
-    <e lm="internally"><i>internally</i><par n="maybe__adv"/></e>
     <e lm="intimately"><i>intimately</i><par n="maybe__adv"/></e>
     <e lm="intolerably"><i>intolerably</i><par n="maybe__adv"/></e>
     <e lm="intrinsically"><i>intrinsically</i><par n="maybe__adv"/></e>
     <e lm="invariably"><i>invariably</i><par n="maybe__adv"/></e>
+    <e lm="inversely"><i>inversely</i><par n="maybe__adv"/></e>
     <e lm="involuntarily"><i>involuntarily</i><par n="maybe__adv"/></e>
     <e lm="inwardly"><i>inwardly</i><par n="maybe__adv"/></e>
     <e lm="ironically"><i>ironically</i><par n="maybe__adv"/></e>
+    <e lm="irrefutably"><i>irrefutably</i><par n="maybe__adv"/></e>
     <e lm="irregularly"><i>irregularly</i><par n="maybe__adv"/></e>
     <e lm="irreparably"><i>irreparably</i><par n="maybe__adv"/></e>
+    <e lm="irresistibly"><i>irresistibly</i><par n="maybe__adv"/></e>
     <e lm="irrespective"><i>irrespective</i><par n="maybe__adv"/></e>
     <e lm="irresponsibly"><i>irresponsibly</i><par n="maybe__adv"/></e>
+    <e lm="irretrievably"><i>irretrievably</i><par n="maybe__adv"/></e>
+    <e lm="irrevocably"><i>irrevocably</i><par n="maybe__adv"/></e>
     <e lm="irritating"><i>irritating</i><par n="ii__adv"/></e>
+    <e lm="isolatedly"><i>isolatedly</i><par n="maybe__adv"/></e>
     <e lm="jauntily"><i>jauntily</i><par n="maybe__adv"/></e>
     <e lm="jealously"><i>jealously</i><par n="maybe__adv"/></e>
     <e lm="jointly"><i>jointly</i><par n="maybe__adv"/></e>
@@ -29327,7 +29995,7 @@
     <e lm="just"><i>just</i><par n="maybe__adv"/></e>
     <e lm="kindly"><i>kindly</i><par n="maybe__adv"/></e>
     <e lm="knowingly"><i>knowingly</i><par n="maybe__adv"/></e>
-    <e c="(US)" lm="laboriously"><i>laboriously</i><par n="maybe__adv"/></e>
+    <e lm="laconically"><i>laconically</i><par n="maybe__adv"/></e>
     <e lm="lamely"><i>lamely</i><par n="maybe__adv"/></e>
     <e lm="largely"><i>largely</i><par n="maybe__adv"/></e>
     <e lm="larghetto"><i>larghetto</i><par n="maybe__adv"/></e>
@@ -29341,6 +30009,7 @@
     <e lm="legally"><i>legally</i><par n="maybe__adv"/></e>
     <e lm="legibly"><i>legibly</i><par n="maybe__adv"/></e>
     <e lm="legitimately"><i>legitimately</i><par n="maybe__adv"/></e>
+    <e lm="leisurely"><i>leisurely</i><par n="maybe__adv"/></e>
     <e lm="lengthways"><i>lengthways</i><par n="ii__adv"/></e>
     <e lm="lengthwise"><i>lengthwise</i><par n="maybe__adv"/></e>
     <e lm="less"><i>less</i><par n="maybe__adv"/></e>
@@ -29365,6 +30034,7 @@
     <e lm="lower"><i>lower</i><par n="maybe__adv"/></e>
     <e lm="lowest"><i>lowest</i><par n="maybe__adv"/></e>
     <e lm="lowly"><i>lowly</i><par n="maybe__adv"/></e>
+    <e lm="loyally"><i>loyally</i><par n="maybe__adv"/></e>
     <e lm="luckily"><i>luckily</i><par n="maybe__adv"/></e>
     <e lm="lustily"><i>lustily</i><par n="maybe__adv"/></e>
     <e lm="madly"><i>madly</i><par n="maybe__adv"/></e>
@@ -29380,6 +30050,8 @@
     <e lm="markedly"><i>markedly</i><par n="maybe__adv"/></e>
     <e lm="marvelously"><i>marvelously</i><par n="maybe__adv"/></e>
     <e lm="massively"><i>massively</i><par n="maybe__adv"/></e>
+    <e lm="materially"><i>materially</i><par n="maybe__adv"/></e>
+    <e lm="mathematically"><i>mathematically</i><par n="maybe__adv"/></e>
     <e lm="maybe"><i>maybe</i><par n="maybe__adv"/></e>
     <e lm="meaningfully"><i>meaningfully</i><par n="maybe__adv"/></e>
     <e lm="meantime"><i>meantime</i><par n="maybe__adv"/></e>
@@ -29390,6 +30062,7 @@
     <e lm="mentally"><i>mentally</i><par n="maybe__adv"/></e>
     <e lm="merely"><i>merely</i><par n="maybe__adv"/></e>
     <e lm="merrily"><i>merrily</i><par n="maybe__adv"/></e>
+    <e lm="methodically"><i>methodically</i><par n="maybe__adv"/></e>
     <e lm="meticulously"><i>meticulously</i><par n="maybe__adv"/></e>
     <e lm="midway"><i>midway</i><par n="maybe__adv"/></e>
     <e lm="midweek"><i>midweek</i><par n="maybe__adv"/></e>
@@ -29401,6 +30074,7 @@
     <e lm="misty"><i>misty</i><par n="maybe__adv"/></e>
     <e lm="moderately"><i>moderately</i><par n="maybe__adv"/></e>
     <e lm="modestly"><i>modestly</i><par n="maybe__adv"/></e>
+    <e lm="momentarily"><i>momentarily</i><par n="maybe__adv"/></e>
     <e lm="monotonously"><i>monotonously</i><par n="maybe__adv"/></e>
     <e lm="monthly"><i>monthly</i><par n="maybe__adv"/></e>
     <e lm="monumentally"><i>monumentally</i><par n="maybe__adv"/></e>
@@ -29412,6 +30086,8 @@
     <e lm="most"><i>most</i><par n="maybe__adv"/></e>
     <e lm="mostly"><i>mostly</i><par n="maybe__adv"/></e>
     <e lm="much"><i>much</i><par n="maybe__adv"/></e>
+    <e lm="musically"><i>musically</i><par n="maybe__adv"/></e>
+    <e lm="mutually"><i>mutually</i><par n="maybe__adv"/></e>
     <e lm="mysteriously"><i>mysteriously</i><par n="maybe__adv"/></e>
     <e lm="namely"><i>namely</i><par n="maybe__adv"/></e>
     <e lm="narrowly"><i>narrowly</i><par n="maybe__adv"/></e>
@@ -29500,6 +30176,7 @@
     <e lm="perhaps"><i>perhaps</i><par n="maybe__adv"/></e>
     <e lm="periodically"><i>periodically</i><par n="maybe__adv"/></e>
     <e lm="permanently"><i>permanently</i><par n="maybe__adv"/></e>
+    <e lm="perpendicularly"><i>perpendicularly</i><par n="maybe__adv"/></e>
     <e lm="perpetually"><i>perpetually</i><par n="maybe__adv"/></e>
     <e lm="personally"><i>personally</i><par n="maybe__adv"/></e>
     <e lm="persuasively"><i>persuasively</i><par n="maybe__adv"/></e>
@@ -29527,10 +30204,13 @@
     <e lm="practically"><i>practically</i><par n="maybe__adv"/></e>
     <e lm="pragmatically"><i>pragmatically</i><par n="maybe__adv"/></e>
     <e lm="precariously"><i>precariously</i><par n="maybe__adv"/></e>
+    <e lm="precipitously"><i>precipitously</i><par n="maybe__adv"/></e>
     <e lm="precisely"><i>precisely</i><par n="maybe__adv"/></e>
     <e lm="predictably"><i>predictably</i><par n="maybe__adv"/></e>
     <e lm="predominantly"><i>predominantly</i><par n="maybe__adv"/></e>
+    <e lm="preemptively"><i>preemptively</i><par n="maybe__adv"/></e>
     <e lm="preferably"><i>preferably</i><par n="maybe__adv"/></e>
+    <e lm="prematurely"><i>prematurely</i><par n="maybe__adv"/></e>
     <e lm="presently"><i>presently</i><par n="maybe__adv"/></e>
     <e lm="prestissimo"><i>prestissimo</i><par n="maybe__adv"/></e>
     <e lm="presumably"><i>presumably</i><par n="maybe__adv"/></e>
@@ -29543,6 +30223,7 @@
     <e lm="probably"><i>probably</i><par n="maybe__adv"/></e>
     <e lm="productively"><i>productively</i><par n="maybe__adv"/></e>
     <e lm="professionally"><i>professionally</i><par n="maybe__adv"/></e>
+    <e lm="profitably"><i>profitably</i><par n="maybe__adv"/></e>
     <e lm="profoundly"><i>profoundly</i><par n="maybe__adv"/></e>
     <e lm="progressively"><i>progressively</i><par n="maybe__adv"/></e>
     <e lm="promiscuously"><i>promiscuously</i><par n="maybe__adv"/></e>
@@ -29553,12 +30234,15 @@
     <e lm="prospectively"><i>prospectively</i><par n="maybe__adv"/></e>
     <e lm="proudly"><i>proudly</i><par n="maybe__adv"/></e>
     <e lm="provisionally"><i>provisionally</i><par n="maybe__adv"/></e>
+    <e lm="psychically"><i>psychically</i><par n="maybe__adv"/></e>
     <e lm="psychologically"><i>psychologically</i><par n="maybe__adv"/></e>
     <e lm="publicly"><i>publicly</i><par n="maybe__adv"/></e>
     <e lm="punctually"><i>punctually</i><par n="maybe__adv"/></e>
     <e lm="purely"><i>purely</i><par n="maybe__adv"/></e>
     <e lm="purportedly"><i>purportedly</i><par n="maybe__adv"/></e>
     <e lm="purposely"><i>purposely</i><par n="maybe__adv"/></e>
+    <e lm="quantitatively"><i>quantitatively</i><par n="maybe__adv"/></e>
+    <e lm="quarterly"><i>quarterly</i><par n="maybe__adv"/></e>
     <e lm="questionably"><i>questionably</i><par n="maybe__adv"/></e>
     <e lm="quick"><i>quick</i><par n="maybe__adv"/></e>
     <e lm="quickly"><i>quickly</i><par n="maybe__adv"/></e>
@@ -29568,14 +30252,17 @@
     <e lm="rapidly"><i>rapidly</i><par n="maybe__adv"/></e>
     <e lm="rarely"><i>rarely</i><par n="maybe__adv"/></e>
     <e lm="rather"><i>rather</i><par n="maybe__adv"/></e>
+    <e lm="rationally"><i>rationally</i><par n="maybe__adv"/></e>
     <e lm="readily"><i>readily</i><par n="maybe__adv"/></e>
     <e lm="really"><i>really</i><par n="maybe__adv"/></e>
     <e lm="reasonably"><i>reasonably</i><par n="maybe__adv"/></e>
     <e lm="recently"><i>recently</i><par n="maybe__adv"/></e>
+    <e lm="reciprocally"><i>reciprocally</i><par n="maybe__adv"/></e>
     <e lm="recklessly"><i>recklessly</i><par n="maybe__adv"/></e>
     <e lm="reflex"><i>reflex</i><par n="maybe__adv"/></e>
     <e lm="reflexively"><i>reflexively</i><par n="maybe__adv"/></e>
     <e lm="regardless"><i>regardless</i><par n="maybe__adv"/></e>
+    <e lm="regrettably"><i>regrettably</i><par n="maybe__adv"/></e>
     <e lm="regularly"><i>regularly</i><par n="maybe__adv"/></e>
     <e lm="relatively"><i>relatively</i><par n="maybe__adv"/></e>
     <e lm="reliably"><i>reliably</i><par n="maybe__adv"/></e>
@@ -29588,6 +30275,7 @@
     <e lm="respectfully"><i>respectfully</i><par n="maybe__adv"/></e>
     <e lm="respectively"><i>respectively</i><par n="maybe__adv"/></e>
     <e lm="responsibly"><i>responsibly</i><par n="maybe__adv"/></e>
+    <e lm="richly"><i>richly</i><par n="maybe__adv"/></e>
     <e lm="right"><i>right</i><par n="maybe__adv"/></e>
     <e lm="rightly"><i>rightly</i><par n="maybe__adv"/></e>
     <e lm="roughly"><i>roughly</i><par n="maybe__adv"/></e>
@@ -29599,7 +30287,9 @@
     <e lm="safely"><i>safely</i><par n="maybe__adv"/></e>
     <e lm="sake"><i>sake</i><par n="maybe__adv"/></e>
     <e lm="satisfactorily"><i>satisfactorily</i><par n="maybe__adv"/></e>
+    <e lm="savagely"><i>savagely</i><par n="maybe__adv"/></e>
     <e lm="scarcely"><i>scarcely</i><par n="maybe__adv"/></e>
+    <e lm="scrupulously"><i>scrupulously</i><par n="maybe__adv"/></e>
     <e lm="second"><i>second</i><par n="maybe__adv"/></e>
     <e lm="secondly"><i>secondly</i><par n="maybe__adv"/></e>
     <e lm="secretly"><i>secretly</i><par n="maybe__adv"/></e>
@@ -29629,6 +30319,7 @@
     <e lm="since"><i>since</i><par n="maybe__adv"/></e>
     <e lm="sincerely"><i>sincerely</i><par n="maybe__adv"/></e>
     <e lm="singly"><i>singly</i><par n="maybe__adv"/></e>
+    <e lm="singularly"><i>singularly</i><par n="maybe__adv"/></e>
     <e lm="six-thirty"><i>six-thirty</i><par n="maybe__adv"/></e>
     <e lm="slightly"><i>slightly</i><par n="maybe__adv"/></e>
     <e lm="slovenly"><i>slovenly</i><par n="maybe__adv"/></e>
@@ -29665,6 +30356,8 @@
     <e lm="sporadically"><i>sporadically</i><par n="maybe__adv"/></e>
     <e lm="squatting"><i>squatting</i><par n="maybe__adv"/></e>
     <e lm="stately"><i>stately</i><par n="maybe__adv"/></e>
+    <e lm="statistically"><i>statistically</i><par n="maybe__adv"/></e>
+    <e lm="statutorily"><i>statutorily</i><par n="maybe__adv"/></e>
     <e lm="steadily"><i>steadily</i><par n="maybe__adv"/></e>
     <e lm="sternly"><i>sternly</i><par n="maybe__adv"/></e>
     <e lm="still"><i>still</i><par n="maybe__adv"/></e>
@@ -29699,6 +30392,7 @@
     <e lm="sweetly"><i>sweetly</i><par n="maybe__adv"/></e>
     <e lm="swiftly"><i>swiftly</i><par n="maybe__adv"/></e>
     <e lm="symbolically"><i>symbolically</i><par n="maybe__adv"/></e>
+    <e lm="symmetrically"><i>symmetrically</i><par n="maybe__adv"/></e>
     <e lm="systematically"><i>systematically</i><par n="maybe__adv"/></e>
     <e lm="tacitly"><i>tacitly</i><par n="maybe__adv"/></e>
     <e lm="tactfully"><i>tactfully</i><par n="maybe__adv"/></e>
@@ -29749,12 +30443,14 @@
     <e lm="towards"><i>towards</i><par n="maybe__adv"/></e>
     <e lm="traditionally"><i>traditionally</i><par n="maybe__adv"/></e>
     <e lm="tragically"><i>tragically</i><par n="maybe__adv"/></e>
+    <e lm="tranquilly"><i>tranquilly</i><par n="maybe__adv"/></e>
+    <e lm="transiently"><i>transiently</i><par n="maybe__adv"/></e>
     <e lm="truly"><i>truly</i><par n="maybe__adv"/></e>
     <e lm="trustworthily"><i>trustworthily</i><par n="maybe__adv"/></e>
     <e lm="truthfully"><i>truthfully</i><par n="maybe__adv"/></e>
     <e lm="twelve-thirty"><i>twelve-thirty</i><par n="maybe__adv"/></e>
-    <e lm="twice"><i>twice</i><par n="maybe__adv"/></e>
     <e lm="twice-weekly"><i>twice-weekly</i><par n="maybe__adv"/></e>
+    <e lm="twice"><i>twice</i><par n="maybe__adv"/></e>
     <e lm="two-thirty"><i>two-thirty</i><par n="maybe__adv"/></e>
     <e lm="typically"><i>typically</i><par n="maybe__adv"/></e>
     <e lm="uglily"><i>uglily</i><par n="maybe__adv"/></e>
@@ -29765,17 +30461,18 @@
     <e lm="unbelievably"><i>unbelievably</i><par n="maybe__adv"/></e>
     <e lm="unbidden"><i>unbidden</i><par n="maybe__adv"/></e>
     <e lm="uncertainly"><i>uncertainly</i><par n="maybe__adv"/></e>
+    <e lm="uncomfortably"><i>uncomfortably</i><par n="maybe__adv"/></e>
     <e lm="unconditionally"><i>unconditionally</i><par n="maybe__adv"/></e>
     <e lm="unconsciously"><i>unconsciously</i><par n="maybe__adv"/></e>
     <e lm="undeniably"><i>undeniably</i><par n="maybe__adv"/></e>
     <e lm="under"><i>under</i><par n="maybe__adv"/></e>
-    <e c="(GB)" lm="underground"><i>underground</i><par n="maybe__adv"/></e>
     <e lm="underneath"><i>underneath</i><par n="maybe__adv"/></e>
     <e lm="undersea"><i>undersea</i><par n="maybe__adv"/></e>
     <e lm="underseas"><i>underseas</i><par n="maybe__adv"/></e>
     <e lm="understandably"><i>understandably</i><par n="maybe__adv"/></e>
     <e lm="undoubtedly"><i>undoubtedly</i><par n="maybe__adv"/></e>
     <e lm="unduly"><i>unduly</i><par n="maybe__adv"/></e>
+    <e lm="unequally"><i>unequally</i><par n="maybe__adv"/></e>
     <e lm="unequivocally"><i>unequivocally</i><par n="maybe__adv"/></e>
     <e lm="unerringly"><i>unerringly</i><par n="maybe__adv"/></e>
     <e lm="uneven"><i>uneven</i><par n="maybe__adv"/></e>
@@ -29815,6 +30512,8 @@
     <e lm="usual"><i>usual</i><par n="maybe__adv"/></e>
     <e lm="usually"><i>usually</i><par n="maybe__adv"/></e>
     <e lm="utterly"><i>utterly</i><par n="maybe__adv"/></e>
+    <e lm="vainly"><i>vainly</i><par n="maybe__adv"/></e>
+    <e lm="validly"><i>validly</i><par n="maybe__adv"/></e>
     <e lm="variously"><i>variously</i><par n="maybe__adv"/></e>
     <e lm="verbally"><i>verbally</i><par n="maybe__adv"/></e>
     <e lm="verbatim"><i>verbatim</i><par n="maybe__adv"/></e>
@@ -29825,6 +30524,7 @@
     <e lm="virtually"><i>virtually</i><par n="maybe__adv"/></e>
     <e lm="visibly"><i>visibly</i><par n="maybe__adv"/></e>
     <e lm="visually"><i>visually</i><par n="maybe__adv"/></e>
+    <e lm="vividly"><i>vividly</i><par n="maybe__adv"/></e>
     <e lm="voluntarily"><i>voluntarily</i><par n="maybe__adv"/></e>
     <e lm="warily"><i>warily</i><par n="maybe__adv"/></e>
     <e lm="watchfully"><i>watchfully</i><par n="maybe__adv"/></e>
@@ -29836,11 +30536,11 @@
     <e lm="west"><i>west</i><par n="maybe__adv"/></e>
     <e lm="westerly"><i>westerly</i><par n="maybe__adv"/></e>
     <e lm="whatever"><i>whatever</i><par n="maybe__adv"/></e>
-    <e lm="when"><i>when</i><par n="where__adv"/></e>
     <e lm="when"><i>when</i><par n="maybe__adv"/></e>
+    <e lm="when"><i>when</i><par n="where__adv"/></e>
     <e lm="whence"><i>whence</i><par n="where__adv"/></e>
-    <e lm="where"><i>where</i><par n="where__adv"/></e>
     <e lm="where"><i>where</i><par n="maybe__adv"/></e>
+    <e lm="where"><i>where</i><par n="where__adv"/></e>
     <e lm="whereof"><i>whereof</i><par n="where__adv"/></e>
     <e lm="wherever"><i>wherever</i><par n="maybe__adv"/></e>
     <e lm="whether"><i>whether</i><par n="maybe__adv"/></e>
@@ -29857,6 +30557,7 @@
     <e lm="woefully"><i>woefully</i><par n="maybe__adv"/></e>
     <e lm="wonderfully"><i>wonderfully</i><par n="maybe__adv"/></e>
     <e lm="worldwide"><i>worldwide</i><par n="maybe__adv"/></e>
+    <e lm="worthily"><i>worthily</i><par n="maybe__adv"/></e> 
     <e lm="wrong"><i>wrong</i><par n="maybe__adv"/></e>
     <e lm="wrongly"><i>wrongly</i><par n="maybe__adv"/></e>
     <e lm="wryly"><i>wryly</i><par n="maybe__adv"/></e>
@@ -29864,93 +30565,7 @@
     <e lm="yes"><i>yes</i><par n="maybe__adv"/></e>
     <e lm="yesterday"><i>yesterday</i><par n="maybe__adv"/></e>
     <e lm="yet"><i>yet</i><par n="maybe__adv"/></e>
-    <e lm="zickzack"><i>zickzack</i><par n="maybe__adv"/></e>
-
-    <e lm="abashedly"><i>abashedly</i><par n="maybe__adv"/></e>
-    <e lm="abominably"><i>abominably</i><par n="maybe__adv"/></e>
-    <e lm="abysmally"><i>abysmally</i><par n="maybe__adv"/></e>
-    <e lm="accessorily"><i>accessorily</i><par n="maybe__adv"/></e>
-    <e lm="acoustically"><i>acoustically</i><par n="maybe__adv"/></e>
-    <e lm="aesthetically"><i>aesthetically</i><par n="maybe__adv"/></e>
-    <e lm="agilely"><i>agilely</i><par n="maybe__adv"/></e>
-    <e lm="agreeably"><i>agreeably</i><par n="maybe__adv"/></e>
-    <e lm="amusingly"><i>amusingly</i><par n="maybe__adv"/></e>
-    <e lm="anonymously"><i>anonymously</i><par n="maybe__adv"/></e>
-    <e lm="appallingly"><i>appallingly</i><par n="maybe__adv"/></e>
-    <e lm="authentically"><i>authentically</i><par n="maybe__adv"/></e>
-    <e lm="beguilingly"><i>beguilingly</i><par n="maybe__adv"/></e>
-    <e lm="belatedly"><i>belatedly</i><par n="maybe__adv"/></e>
-    <e lm="biannually"><i>biannually</i><par n="maybe__adv"/></e>
-    <e lm="blankly"><i>blankly</i><par n="maybe__adv"/></e>
-    <e lm="brashly"><i>brashly</i><par n="maybe__adv"/></e>
-    <e lm="brilliantly"><i>brilliantly</i><par n="maybe__adv"/></e>
-    <e lm="capriciously"><i>capriciously</i><par n="maybe__adv"/></e>
-    <e lm="circularly"><i>circularly</i><par n="maybe__adv"/></e>
-    <e lm="contrarily"><i>contrarily</i><par n="maybe__adv"/></e>
-    <e lm="copiously"><i>copiously</i><par n="maybe__adv"/></e>
-    <e lm="correspondingly"><i>correspondingly</i><par n="maybe__adv"/></e>
-    <e lm="determinedly"><i>determinedly</i><par n="maybe__adv"/></e>
-    <e lm="disgracefully"><i>disgracefully</i><par n="maybe__adv"/></e>
-    <e lm="ditto"><i>ditto</i><par n="maybe__adv"/></e>
-    <e lm="dogmatically"><i>dogmatically</i><par n="maybe__adv"/></e>
-    <e lm="dourly"><i>dourly</i><par n="maybe__adv"/></e>
-    <e lm="excitedly"><i>excitedly</i><par n="maybe__adv"/></e>
-    <e lm="exquisitely"><i>exquisitely</i><par n="maybe__adv"/></e>
-    <e lm="fatally"><i>fatally</i><par n="maybe__adv"/></e>
-    <e lm="favorably"><i>favorably</i><par n="maybe__adv"/></e>
-    <e lm="fiscally"><i>fiscally</i><par n="maybe__adv"/></e>
-    <e lm="fortuitously"><i>fortuitously</i><par n="maybe__adv"/></e>
-    <e lm="frontally"><i>frontally</i><par n="maybe__adv"/></e>
-    <e lm="graciously"><i>graciously</i><par n="maybe__adv"/></e>
-    <e lm="grindingly"><i>grindingly</i><par n="maybe__adv"/></e>
-    <e lm="grossly"><i>grossly</i><par n="maybe__adv"/></e>
-    <e lm="harmoniously"><i>harmoniously</i><par n="maybe__adv"/></e>
-    <e lm="ideologically"><i>ideologically</i><par n="maybe__adv"/></e>
-    <e lm="imminently"><i>imminently</i><par n="maybe__adv"/></e>
-    <e lm="incrementally"><i>incrementally</i><par n="maybe__adv"/></e>
-    <e lm="infinitely"><i>infinitely</i><par n="maybe__adv"/></e>
-    <e lm="inordinately"><i>inordinately</i><par n="maybe__adv"/></e>
-    <e lm="inversely"><i>inversely</i><par n="maybe__adv"/></e>
-    <e lm="irrefutably"><i>irrefutably</i><par n="maybe__adv"/></e>
-    <e lm="irresistibly"><i>irresistibly</i><par n="maybe__adv"/></e>
-    <e lm="irretrievably"><i>irretrievably</i><par n="maybe__adv"/></e>
-    <e lm="irrevocably"><i>irrevocably</i><par n="maybe__adv"/></e>
-    <e lm="isolatedly"><i>isolatedly</i><par n="maybe__adv"/></e>
-    <e lm="laconically"><i>laconically</i><par n="maybe__adv"/></e>
-    <e lm="leisurely"><i>leisurely</i><par n="maybe__adv"/></e>
-    <e lm="loyally"><i>loyally</i><par n="maybe__adv"/></e>
-    <e lm="materially"><i>materially</i><par n="maybe__adv"/></e>
-    <e lm="mathematically"><i>mathematically</i><par n="maybe__adv"/></e>
-    <e lm="methodically"><i>methodically</i><par n="maybe__adv"/></e>
-    <e lm="momentarily"><i>momentarily</i><par n="maybe__adv"/></e>
-    <e lm="musically"><i>musically</i><par n="maybe__adv"/></e>
-    <e lm="mutually"><i>mutually</i><par n="maybe__adv"/></e>
-    <e lm="perpendicularly"><i>perpendicularly</i><par n="maybe__adv"/></e>
-    <e lm="precipitously"><i>precipitously</i><par n="maybe__adv"/></e>
-    <e lm="preemptively"><i>preemptively</i><par n="maybe__adv"/></e>
-    <e lm="prematurely"><i>prematurely</i><par n="maybe__adv"/></e>
-    <e lm="profitably"><i>profitably</i><par n="maybe__adv"/></e>
-    <e lm="psychically"><i>psychically</i><par n="maybe__adv"/></e>
-    <e lm="quantitatively"><i>quantitatively</i><par n="maybe__adv"/></e>
-    <e lm="quarterly"><i>quarterly</i><par n="maybe__adv"/></e>
-    <e lm="rationally"><i>rationally</i><par n="maybe__adv"/></e>
-    <e lm="reciprocally"><i>reciprocally</i><par n="maybe__adv"/></e>
-    <e lm="regrettably"><i>regrettably</i><par n="maybe__adv"/></e>
-    <e lm="richly"><i>richly</i><par n="maybe__adv"/></e>
-    <e lm="savagely"><i>savagely</i><par n="maybe__adv"/></e>
-    <e lm="scrupulously"><i>scrupulously</i><par n="maybe__adv"/></e>
-    <e lm="singularly"><i>singularly</i><par n="maybe__adv"/></e>
-    <e lm="statistically"><i>statistically</i><par n="maybe__adv"/></e>
-    <e lm="statutorily"><i>statutorily</i><par n="maybe__adv"/></e>
-    <e lm="symmetrically"><i>symmetrically</i><par n="maybe__adv"/></e>
-    <e lm="tranquilly"><i>tranquilly</i><par n="maybe__adv"/></e>
-    <e lm="transiently"><i>transiently</i><par n="maybe__adv"/></e>
-    <e lm="uncomfortably"><i>uncomfortably</i><par n="maybe__adv"/></e>
-    <e lm="unequally"><i>unequally</i><par n="maybe__adv"/></e>
-    <e lm="vainly"><i>vainly</i><par n="maybe__adv"/></e>
-    <e lm="validly"><i>validly</i><par n="maybe__adv"/></e>
-    <e lm="vividly"><i>vividly</i><par n="maybe__adv"/></e>
-    <e lm="worthily"><i>worthily</i><par n="maybe__adv"/></e> 
+    <e lm="zickzack"><i>zickzack</i><par n="maybe__adv"/></e> 
 
 
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/></e>
