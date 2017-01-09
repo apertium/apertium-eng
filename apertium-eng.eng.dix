@@ -5341,7 +5341,7 @@
     <e lm="briefcase"><i>briefcase</i><par n="house__n"/></e>
     <e lm="briefing"><i>briefing</i><par n="house__n"/></e>
     <e lm="brigade"><i>brigade</i><par n="house__n"/></e>
-    <e lm="brightness"><i>brightness</i><par n="house__n"/></e>
+    <e lm="brightness"><i>brightness</i><par n="access__n"/></e>
     <e lm="brilliance"><i>brilliance</i><par n="house__n"/></e>
     <e lm="brilliant"><i>brilliant</i><par n="house__n"/></e>
     <e lm="brim"><i>brim</i><par n="house__n"/></e>
@@ -9730,7 +9730,7 @@
     <e lm="genre" r="LR"><i>genre</i><par n="house__n"/></e>
     <e lm="gentian"><i>gentian</i><par n="house__n"/></e>
     <e lm="gentleman"><i>gentlem</i><par n="m/an__n"/></e>
-    <e lm="gentleness"><i>gentleness</i><par n="house__n"/></e>
+    <e lm="gentleness"><i>gentleness</i><par n="east__n"/></e>
     <e lm="genus"><i>gen</i><par n="gen/us__n"/></e>
     <e lm="geochemistry"><i>geochemistry</i><par n="east__n"/></e>
     <e lm="geochronology"><i>geochronology</i><par n="east__n"/></e>
@@ -10606,7 +10606,7 @@
     <e lm="hop"><i>hop</i><par n="house__n"/></e>
     <e lm="hop-pole"><i>hop-pole</i><par n="house__n"/></e>
     <e lm="hope"><i>hope</i><par n="house__n"/></e>
-    <e lm="hopelessness"><i>hopelessness</i><par n="house__n"/></e>
+    <e lm="hopelessness"><i>hopelessness</i><par n="east__n"/></e>
     <e lm="hopper"><i>hopper</i><par n="house__n"/></e>
     <e lm="hopscotch"><i>hopscotch</i><par n="access__n"/></e>
     <e lm="horizon"><i>horizon</i><par n="house__n"/></e>
@@ -15720,7 +15720,7 @@
     <e lm="reciprocity"><i>reciprocit</i><par n="bab/y__n"/></e>
     <e lm="recirculation"><i>recirculation</i><par n="house__n"/></e>
     <e lm="recitation"><i>recitation</i><par n="house__n"/></e>
-    <e lm="recklessness"><i>recklessness</i><par n="house__n"/></e>
+    <e lm="recklessness"><i>recklessness</i><par n="east__n"/></e>
     <e lm="recluse"><i>recluse</i><par n="house__n"/></e>
     <e lm="recognition"><i>recognition</i><par n="house__n"/></e>
     <e lm="recombination"><i>recombination</i><par n="house__n"/></e>
@@ -16011,7 +16011,7 @@
     <e lm="response"><i>response</i><par n="house__n"/></e>
     <e lm="responsibility"><i>responsibilit</i><par n="bab/y__n"/></e>
     <e lm="responsible cause"><i>responsible<b/>cause</i><par n="house__n"/></e>
-    <e lm="responsiveness"><i>responsiveness</i><par n="house__n"/></e>
+    <e lm="responsiveness"><i>responsiveness</i><par n="east__n"/></e>
     <e lm="responsory"><i>responsor</i><par n="bab/y__n"/></e>
     <e lm="rest"><i>rest</i><par n="house__n"/></e>
     <e lm="restaurant"><i>restaurant</i><par n="house__n"/></e>
@@ -18679,8 +18679,8 @@
     <e lm="time-book"><i>time-book</i><par n="house__n"/></e>
     <e lm="time-table"><i>time-table</i><par n="house__n"/></e>
     <e lm="timekeeper"><i>timekeeper</i><par n="house__n"/></e>
-    <e lm="timelessness"><i>timelessness</i><par n="access__n"/></e>
-    <e lm="timeliness"><i>timeliness</i><par n="house__n"/></e>
+    <e lm="timelessness"><i>timelessness</i><par n="east__n"/></e>
+    <e lm="timeliness"><i>timeliness</i><par n="east__n"/></e>
     <e lm="timer"><i>timer</i><par n="house__n"/></e>
     <e lm="timetable" c="(GB)"><i>timetable</i><par n="house__n"/></e>
     <e lm="timidity"><i>timidit</i><par n="bab/y__n"/></e>
@@ -20271,7 +20271,7 @@
     <e lm="given"><i>given</i><par n="house__n"/></e>
     <e lm="gunsmith"><i>gunsmith</i><par n="house__n"/></e>
     <e lm="hardcore"><i>hardcore</i><par n="house__n"/></e>
-    <e lm="highness"><i>highness</i><par n="house__n"/></e>
+    <e lm="highness"><i>highness</i><par n="access__n"/></e>
     <e lm="kick-boxing"><i>kick-boxing</i><par n="house__n"/></e>
     <e lm="leveling"><i>leveling</i><par n="house__n"/></e>
     <e lm="lure"><i>lure</i><par n="house__n"/></e>
