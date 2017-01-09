@@ -17482,7 +17482,7 @@
     <e lm="specialism"><i>specialism</i><par n="house__n"/></e>
     <e lm="specialist"><i>specialist</i><par n="house__n"/></e>
     <e lm="speciality" c="(GB)"><i>specialit</i><par n="bab/y__n"/></e>
-    <e lm="specialty" r="LR"><p><l>specialty</l><r>speciality</r></p><par n="house__n"/></e>
+    <e lm="specialty" r="LR"><p><l>specialt</l><r>specialit</r></p><par n="bab/y__n"/></e>
     <e lm="speciation"><i>speciation</i><par n="house__n"/></e>
     <e lm="species"><i>species</i><par n="politics__n"/></e>
     <e lm="species of fish"><i>species</i><par n="politics__n"/><p><l><b/>of<b/>fish</l><r><g><b/>of<b/>fish</g></r></p></e>
@@ -20288,7 +20288,7 @@
     <e lm="benignness"><i>benignness</i><par n="house__n"/></e>
     <e lm="biceps"><i>biceps</i><par n="house__n"/></e>
     <e lm="bioindicator"><i>bioindicator</i><par n="house__n"/></e>
-    <e lm="bipolarity"><i>bipolarity</i><par n="house__n"/></e>
+    <e lm="bipolarity"><i>bipolarit</i><par n="bab/y__n"/></e>
     <e lm="bipolarization"><i>bipolarization</i><par n="house__n"/></e>
     <e lm="bivalve"><i>bivalve</i><par n="house__n"/></e>
     <e lm="blast"><i>blast</i><par n="house__n"/></e>
@@ -20576,7 +20576,7 @@
     <e lm="mystification"><i>mystification</i><par n="house__n"/></e>
     <e lm="naïveté"><i>naïveté</i><par n="house__n"/></e>
     <e lm="nanotechnology"><i>nanotechnolog</i><par n="bab/y__n"/></e>
-    <e lm="nativity"><i>nativity</i><par n="house__n"/></e>
+    <e lm="nativity"><i>nativit</i><par n="bab/y__n"/></e>
     <e lm="naturality"><i>naturalit</i><par n="bab/y__n"/></e>
     <e lm="naturalization"><i>naturalization</i><par n="house__n"/></e>
     <e lm="neocolonialist"><i>neocolonialist</i><par n="house__n"/></e>
@@ -21185,7 +21185,7 @@
     <e lm="hawser"><i>hawser</i><par n="house__n"/></e>
     <e lm="heap"><i>heap</i><par n="house__n"/></e>
     <e lm="housemate"><i>housemate</i><par n="house__n"/></e>
-    <e lm="illegality"><i>illegality</i><par n="house__n"/></e>
+    <e lm="illegality"><i>illegalit</i><par n="bab/y__n"/></e>
     <e lm="jeopardy"><i>jeopard</i><par n="bab/y__n"/></e>
     <e lm="joining"><i>joining</i><par n="house__n"/></e>
     <e lm="layette"><i>layette</i><par n="house__n"/></e>
@@ -29043,7 +29043,6 @@
     <e lm="unitary"><i>unitary</i><par n="expensive__adj"/></e>
     <e lm="united"><i>united</i><par n="expensive__adj"/></e>
     <e lm="universal"><i>universal</i><par n="expensive__adj"/></e>
-    <e lm="university"><i>university</i><par n="expensive__adj"/></e>
     <e lm="univocal"><i>univocal</i><par n="expensive__adj"/></e>
     <e lm="unjust"><i>unjust</i><par n="expensive__adj"/></e>
     <e lm="unjustified"><i>unjustified</i><par n="expensive__adj"/></e>
