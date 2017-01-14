@@ -13,7 +13,7 @@ LIST Prn = prn ;
 LIST Det = det ; 
 LIST Adj = adj ;
 LIST Adv = adv ;
-LIST Pr = p) ;
+LIST Pr = pr ;
 LIST Num = num ;
 LIST Rel = (prn rel) ;
 LIST Ij = ij ;
@@ -52,8 +52,10 @@ REMOVE (preadv) IF (1 (cm)) ;
 
 SELECT Vbmod IF (0 Can) (1 Inf) ;
 
-#Lemmas that are N or V: N if DET/ADJ precedes it or V follows
+#Lemmas that are N or V: N if DET/ADJ/V/PR precedes it or V follows
 
+SELECT N IF (0 N) (0 V) (-1 Pr) ;
+SELECT N IF (0 N) (0 V) (-1 V) ;
 SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
 SELECT N IF (0 N) (0 V) (1 V) ;
@@ -61,7 +63,6 @@ SELECT N IF (0 N) (0 V) (1 V) ;
 #Lemmas that are N or V: V if ADV precedes it or ADV/N/PRN follows
 
 SELECT V IF (0 N) (0 V) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (1 Adv) ;
 SELECT V IF (0 N) (0 V) (1 N) ;
 SELECT V IF (0 N) (0 V) (1 Prn) ;
 
