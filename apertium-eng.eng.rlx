@@ -62,9 +62,9 @@ SELECT N IF (0 N) (0 V) (1 V) ;
 
 #Lemmas that are N or V: V if ADV precedes it or ADV/N/PRN follows
 
-SELECT V IF (0 N) (0 V) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (1 N) ;
-SELECT V IF (0 N) (0 V) (1 Prn) ;
+SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
+SELECT V IF (0 N) (0 V) (-2 Det) (1 N) ;
+SELECT V IF (0 N) (0 V) (-1 Prn) ;
 
 #Lemmas that are N or ADJ: N if ADJ precedes it or V follows
 
