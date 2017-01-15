@@ -66,6 +66,9 @@ SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-2 Det) (1 N) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
 
+#Otherwise, select N
+SELECT N IF (0 N) (0 V) ;
+
 #Lemmas that are N or ADJ: N if ADJ precedes it or V follows
 
 SELECT N IF (0 N) (0 Adj) (-1 Adj) ;
