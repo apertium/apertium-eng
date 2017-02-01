@@ -24732,6 +24732,7 @@
     <e lm="alive"><i>alive</i><par n="handsome/__adj"/></e>
     <e lm="alkaline"><i>alkaline</i><par n="expensive__adj"/></e>
     <e lm="all-day"><i>all-day</i><par n="expensive__adj"/></e>
+    <e lm="all-in-one"><i>all-in-one</i><par n="expensive__adj"/></e>
     <e lm="alleged"><i>alleged</i><par n="expensive__adj"/></e>
     <e lm="allergic"><i>allergic</i><par n="expensive__adj"/></e>
     <e lm="allowed"><i>allowed</i><par n="expensive__adj"/></e>
@@ -27280,9 +27281,11 @@
     <e lm="muddy"><i>mudd</i><par n="happ/y__adj"/></e>
     <e lm="muggy"><i>mugg</i><par n="happ/y__adj"/></e>
     <e lm="mulish"><i>mulish</i><par n="expensive__adj"/></e>
+    <e lm="multi-annual"><i>multi-annual</i><par n="expensive__adj"/></e>
     <e lm="multi-confessional"><i>multi-confessional</i><par n="expensive__adj"/></e>
     <e lm="multi-lingual"><i>multi-lingual</i><par n="expensive__adj"/></e>
     <e lm="multi-purpose"><i>multi-purpose</i><par n="expensive__adj"/></e>
+    <e lm="multi-year"><i>multi-year</i><par n="expensive__adj"/></e>
     <e lm="multicoloured" c="(GB)"><i>multicoloured</i><par n="expensive__adj"/></e>
     <e lm="multicultural"><i>multicultural</i><par n="expensive__adj"/></e>
     <e lm="multifaceted"><i>multifaceted</i><par n="expensive__adj"/></e>
@@ -27296,6 +27299,7 @@
     <e lm="multiplex"><i>multiplex</i><par n="expensive__adj"/></e>
     <e lm="multiplicative"><i>multiplicative</i><par n="expensive__adj"/></e>
     <e lm="multitudinous"><i>multitudinous</i><par n="expensive__adj"/></e>
+    <e lm="multiyear"><i>multiyear</i><par n="expensive__adj"/></e>
     <e lm="mundane"><i>mundane</i><par n="expensive__adj"/></e>
     <e lm="municipal"><i>municipal</i><par n="expensive__adj"/></e>
     <e lm="murky"><i>murk</i><par n="happ/y__adj"/></e>
