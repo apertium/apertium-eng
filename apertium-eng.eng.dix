@@ -7002,7 +7002,7 @@
     <e lm="coupler"><i>coupler</i><par n="house__n"/></e>
     <e lm="coupon"><i>coupon</i><par n="house__n"/></e>
     <e lm="courage"><i>courage</i><par n="house__n"/></e>
-    <e lm="courgette" r="LR"><i>courgette</i><par n="house__n"/></e>
+    <e lm="courgette"><i>courgette</i><par n="house__n"/></e>
     <e lm="courier"><i>courier</i><par n="house__n"/></e>
     <e lm="course"><i>course</i><par n="house__n"/></e>
     <e lm="course for beginners"><i>course</i><par n="house__n"/><p><l><b/>for<b/>beginners</l><r><g><b/>for<b/>beginners</g></r></p></e>
@@ -20327,7 +20327,7 @@
     <e lm="zoology"><i>zoology</i><par n="east__n"/></e>
     <e lm="zoophyte"><i>zoophyte</i><par n="house__n"/></e>
     <e lm="Zoroaster"><par n="Zz"/><i>oroaster</i><par n="east__n"/></e>
-    <e lm="zucchini" r="LR"><p><l>zucchini</l><r>courgette</r></p><par n="house__n"/></e>
+    <e lm="zucchini"><i>zucchini</i><par n="house__n"/></e>
     <e lm="zygote"><i>zygote</i><par n="house__n"/></e>
 
     <!-- TODO: unsorted set of words -->
