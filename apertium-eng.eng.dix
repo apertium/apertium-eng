@@ -20567,7 +20567,6 @@
     <e lm="walkman"><i>walkman</i><par n="house__n"/></e>
     <e lm="wildcat"><i>wildcat</i><par n="house__n"/></e>
     <e lm="boiling"><i>boiling</i><par n="house__n"/></e>
-    <e lm="business"><i>business</i><par n="access__n"/></e>
     <e lm="cactus"><i>cactus</i><par n="house__n"/></e>
     <e lm="complement"><i>complement</i><par n="house__n"/></e>
     <e lm="constant"><i>constant</i><par n="house__n"/></e>
@@ -21073,7 +21072,6 @@
     <e lm="dachshund"><i>dachshund</i><par n="house__n"/></e>
     <e lm="dodgem"><i>dodgem</i><par n="house__n"/></e>
     <e lm="double"><i>double</i><par n="house__n"/></e>
-    <e lm="dryness"><i>dryness</i><par n="access__n"/></e>
     <e lm="duckling"><i>duckling</i><par n="house__n"/></e>
     <e lm="earphone"><i>earphone</i><par n="house__n"/></e>
     <e lm="encirclement"><i>encirclement</i><par n="house__n"/></e>
@@ -21111,7 +21109,6 @@
     <e lm="occupancy"><i>occupanc</i><par n="bab/y__n"/></e>
     <e lm="overlapping"><i>overlapping</i><par n="house__n"/></e>
     <e lm="patentability"><i>patentabilit</i><par n="bab/y__n"/></e>
-    <e lm="pleasantness"><i>pleasantness</i><par n="access__n"/></e>
     <e lm="profiteer"><i>profiteer</i><par n="house__n"/></e>
     <e lm="provisioning"><i>provisioning</i><par n="house__n"/></e>
     <e lm="prude"><i>prude</i><par n="house__n"/></e>
@@ -21229,7 +21226,6 @@
     <e lm="colonizer"><i>colonizer</i><par n="house__n"/></e>
     <e lm="colorist"><i>colorist</i><par n="house__n"/></e>
     <e lm="colt"><i>colt</i><par n="house__n"/></e>
-    <e lm="combativeness"><i>combativeness</i><par n="access__n"/></e>
     <e lm="comet"><i>comet</i><par n="house__n"/></e>
     <e lm="communicability"><i>communicabilit</i><par n="bab/y__n"/></e>
     <e lm="complacency"><i>complacenc</i><par n="bab/y__n"/></e>
@@ -21291,7 +21287,6 @@
     <e lm="dumpster"><i>dumpster</i><par n="house__n"/></e>
     <e lm="dupe"><i>dupe</i><par n="house__n"/></e>
     <e lm="extortioner"><i>extortioner</i><par n="house__n"/></e>
-    <e lm="fairness"><i>fairness</i><par n="access__n"/></e>
     <e lm="fighter-bomber"><i>fighter-bomber</i><par n="house__n"/></e>
     <e lm="foosball"><i>foosball</i><par n="house__n"/></e>
     <e lm="gelding"><i>gelding</i><par n="house__n"/></e>
@@ -21302,7 +21297,6 @@
     <e lm="harpsichord"><i>harpsichord</i><par n="house__n"/></e>
     <e lm="hawser"><i>hawser</i><par n="house__n"/></e>
     <e lm="housemate"><i>housemate</i><par n="house__n"/></e>
-    <e lm="illegality"><i>illegalit</i><par n="bab/y__n"/></e>
     <e lm="jeopardy"><i>jeopard</i><par n="bab/y__n"/></e>
     <e lm="joining"><i>joining</i><par n="house__n"/></e>
     <e lm="layette"><i>layette</i><par n="house__n"/></e>
@@ -23098,7 +23092,6 @@
     <e lm="like"><i>lik</i><par n="liv/e__vblex"/></e>
     <e lm="limit"><i>limit</i><par n="accept__vblex"/></e>
     <e lm="limp"><i>limp</i><par n="accept__vblex"/></e>
-    <e lm="line" c="(US)"><i>lin</i><par n="liv/e__vblex"/></e>
     <e lm="line"><i>lin</i><par n="liv/e__vblex"/></e>
     <e lm="line up"><i>lin</i><par n="liv/e__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="link"><i>link</i><par n="accept__vblex"/></e>
