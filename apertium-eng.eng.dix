@@ -4111,7 +4111,7 @@
     <e lm="Anglicanism"><i>Anglicanism</i><par n="house__n"/></e>
     <e lm="anglicism"><i>anglicism</i><par n="house__n"/></e>
     <e lm="Anglo-American"><i>Anglo-American</i><par n="house__n"/></e>
-    <e lm="Anglo-Saxon"><par n="Aa"/><i>nglo-Saxon</i><par n="house__n"/></e>
+    <e lm="Anglo-Saxon"><i>Anglo-Saxon</i><par n="house__n"/></e>
     <e lm="anglophile"><i>anglophile</i><par n="house__n"/></e>
     <e lm="anglophilia"><i>anglophilia</i><par n="house__n"/></e>
     <e lm="anglophobe"><i>anglophobe</i><par n="house__n"/></e>
@@ -21608,11 +21608,12 @@
     <e lm="amend"><i>amend</i><par n="accept__vblex"/></e>
     <e lm="amnesty"><i>amnest</i><par n="appl/y__vblex"/></e>
     <e lm="amortise" c="(GB)"><i>amortis</i><par n="liv/e__vblex"/></e>
-    <e lm="amortize" c="(US)"><i>amorti</i><par n="authori/se__vblex"/></e>
+    <e lm="amortize" c="(US)"><i>amortiz</i><par n="liv/e__vblex"/></e>
     <e lm="amplify"><i>amplif</i><par n="appl/y__vblex"/></e>
     <e lm="amputate"><i>amputat</i><par n="liv/e__vblex"/></e>
     <e lm="amuse"><i>amus</i><par n="liv/e__vblex"/></e>
     <e lm="anaesthetise" c="(GB)"><i>anaesthetis</i><par n="liv/e__vblex"/></e>
+    <e lm="anaesthetize" c="(US)"><i>anaesthetiz</i><par n="liv/e__vblex"/></e>
     <e lm="analyse" c="(GB)"><i>analys</i><par n="liv/e__vblex"/></e>
     <e lm="anchor"><i>anchor</i><par n="accept__vblex"/></e>
     <e lm="anger"><i>anger</i><par n="accept__vblex"/></e>
@@ -21624,8 +21625,10 @@
     <e lm="annoy"><i>annoy</i><par n="enjoy__vblex"/></e>
     <e lm="anoint"><i>anoint</i><par n="accept__vblex"/></e>
     <e lm="answer"><i>answer</i><par n="accept__vblex"/></e>
-    <e lm="antagonize"><i>antagoniz</i><par n="liv/e__vblex"/></e>
+    <e lm="antagonise" c="(GB)"><i>antagonis</i><par n="liv/e__vblex"/></e>
+    <e lm="antagonize" c="(US)"><i>antagoniz</i><par n="liv/e__vblex"/></e>
     <e lm="anticipate"><i>anticipat</i><par n="liv/e__vblex"/></e>
+    <e lm="apologise" c="(GB)"><i>apologis</i><par n="liv/e__vblex"/></e>
     <e lm="apologize" c="(US)"><i>apologiz</i><par n="liv/e__vblex"/></e>
     <e lm="apostille"><i>apostill</i><par n="liv/e__vblex"/></e>
     <e lm="appal" c="(GB)"><i>appal</i><par n="control__vblex"/></e>
@@ -21686,7 +21689,7 @@
     <e lm="audit"><i>audit</i><par n="accept__vblex"/></e>
     <e lm="augur"><i>augur</i><par n="accept__vblex"/></e>
     <e lm="authorise" c="(GB)"><i>authoris</i><par n="liv/e__vblex"/></e>
-    <e lm="authorize" c="(US)"><i>authori</i><par n="authori/se__vblex"/></e>
+    <e lm="authorize" c="(US)"><i>authoriz</i><par n="liv/e__vblex"/></e>
     <e lm="automate"><i>automat</i><par n="liv/e__vblex"/></e>
     <e lm="avenge"><i>aveng</i><par n="liv/e__vblex"/></e>
     <e lm="average"><i>averag</i><par n="liv/e__vblex"/></e>
@@ -21711,7 +21714,7 @@
     <e lm="bank"><i>bank</i><par n="accept__vblex"/></e>
     <e lm="bankroll"><i>bankroll</i><par n="accept__vblex"/></e>
     <e lm="baptise" c="(GB)"><i>baptis</i><par n="liv/e__vblex"/></e>
-    <e lm="baptize" c="(US)"><i>bapti</i><par n="authori/se__vblex"/></e>
+    <e lm="baptize" c="(US)"><i>baptiz</i><par n="liv/e__vblex"/></e>
     <e lm="barb"><i>barb</i><par n="accept__vblex"/></e>
     <e lm="barbecue"><i>barbecu</i><par n="liv/e__vblex"/></e>
     <e lm="bark"><i>bark</i><par n="accept__vblex"/></e>
@@ -21878,7 +21881,8 @@
     <e lm="capitalise" c="(GB)"><i>capitalis</i><par n="liv/e__vblex"/></e>
     <e lm="capitalize" c="(US)"><i>capitaliz</i><par n="liv/e__vblex"/></e>
     <e lm="capitulate"><i>capitulat</i><par n="liv/e__vblex"/></e>
-    <e lm="caponize"><i>caponiz</i><par n="liv/e__vblex"/></e>
+    <e lm="caponise" c="(GB)"><i>caponis</i><par n="liv/e__vblex"/></e>
+    <e lm="caponize" c="(US)"><i>caponiz</i><par n="liv/e__vblex"/></e>
     <e lm="capsize"><i>capsiz</i><par n="liv/e__vblex"/></e>
     <e lm="captivate"><i>captivat</i><par n="liv/e__vblex"/></e>
     <e lm="capture"><i>captur</i><par n="liv/e__vblex"/></e>
@@ -21896,6 +21900,7 @@
     <e lm="cast"><i>cast</i><par n="cost__vblex"/></e>
     <e lm="castrate"><i>castrat</i><par n="liv/e__vblex"/></e>
     <e lm="catalog" c="(US)"><i>catalog</i><par n="accept__vblex"/></e>
+    <e lm="catalogue" c="(GB)"><i>catalogu</i><par n="liv/e__vblex"/></e>
     <e lm="catalyse" c="(GB)"><i>catalys</i><par n="liv/e__vblex"/></e>
     <e lm="catapult"><i>catapult</i><par n="accept__vblex"/></e>
     <e lm="catch"><i>ca</i><par n="ca/tch__vblex"/></e>
@@ -21905,11 +21910,12 @@
     <e lm="cater"><i>cater</i><par n="accept__vblex"/></e>
     <e lm="cause"><i>caus</i><par n="liv/e__vblex"/></e>
     <e lm="cauterise" c="(GB)"><i>cauteris</i><par n="liv/e__vblex"/></e>
+    <e lm="cauterize" c="(US)"><i>cauteriz</i><par n="liv/e__vblex"/></e>
     <e lm="cease"><i>ceas</i><par n="liv/e__vblex"/></e>
     <e lm="celebrate"><i>celebrat</i><par n="liv/e__vblex"/></e>
     <e lm="cement"><i>cement</i><par n="accept__vblex"/></e>
     <e lm="censor"><i>censor</i><par n="accept__vblex"/></e>
-    <e lm="center"><p><l>center</l><r>centre</r></p><par n="accept__vblex"/></e>
+    <e lm="center" c="(US)"><i>center</i><par n="accept__vblex"/></e>
     <e lm="centralise" c="(GB)"><i>centralis</i><par n="liv/e__vblex"/></e>
     <e lm="centralize" c="(US)"><i>centraliz</i><par n="liv/e__vblex"/></e>
     <e lm="centre" c="(GB)"><i>centr</i><par n="liv/e__vblex"/></e>
@@ -21948,7 +21954,7 @@
     <e lm="circumvent"><i>circumvent</i><par n="accept__vblex"/></e>
     <e lm="cite"><i>cit</i><par n="liv/e__vblex"/></e>
     <e lm="civilise" c="(GB)"><i>civilis</i><par n="liv/e__vblex"/></e>
-    <e lm="civilize" c="(US)"><i>civili</i><par n="authori/se__vblex"/></e>
+    <e lm="civilize" c="(US)"><i>civiliz</i><par n="liv/e__vblex"/></e>
     <e lm="clabber"><i>clabber</i><par n="accept__vblex"/></e>
     <e lm="clack"><i>clack</i><par n="accept__vblex"/></e>
     <e lm="claim"><i>claim</i><par n="accept__vblex"/></e>
@@ -21990,7 +21996,7 @@
     <e lm="collect"><i>collect</i><par n="accept__vblex"/></e>
     <e lm="collude"><i>collud</i><par n="liv/e__vblex"/></e>
     <e lm="colonise" c="(GB)"><i>colonis</i><par n="liv/e__vblex"/></e>
-    <e lm="colonize" c="(US)"><i>coloni</i><par n="authori/se__vblex"/></e>
+    <e lm="colonize" c="(US)"><i>coloniz</i><par n="liv/e__vblex"/></e>
     <e lm="color" c="(US)"><i>color</i><par n="accept__vblex"/></e>
     <e lm="colour" c="(GB)"><i>colour</i><par n="accept__vblex"/></e>
     <e lm="comb"><i>comb</i><par n="accept__vblex"/></e>
@@ -22016,7 +22022,7 @@
     <e lm="commence"><i>commenc</i><par n="liv/e__vblex"/></e>
     <e lm="comment"><i>comment</i><par n="accept__vblex"/></e>
     <e lm="commercialise" c="(GB)"><i>commercialis</i><par n="liv/e__vblex"/></e>
-    <e lm="commercialize" c="(US)"><i>commerciali</i><par n="authori/se__vblex"/></e>
+    <e lm="commercialize" c="(US)"><i>commercializ</i><par n="liv/e__vblex"/></e>
     <e lm="commiserate"><i>commiserat</i><par n="liv/e__vblex"/></e>
     <e lm="commission"><i>commission</i><par n="accept__vblex"/></e>
     <e lm="commit"><i>commit</i><par n="admit__vblex"/></e>
@@ -22053,7 +22059,7 @@
     <e lm="conclude"><i>conclud</i><par n="liv/e__vblex"/></e>
     <e lm="concoct"><i>concoct</i><par n="accept__vblex"/></e>
     <e lm="concretise" c="(GB)"><i>concretis</i><par n="liv/e__vblex"/></e>
-    <e lm="concretize" c="(US)"><i>concreti</i><par n="authori/se__vblex"/></e>
+    <e lm="concretize" c="(US)"><i>concretiz</i><par n="liv/e__vblex"/></e>
     <e lm="concur"><i>concur</i><par n="accept__vblex"/></e>
     <e lm="condemn"><i>condemn</i><par n="accept__vblex"/></e>
     <e lm="condition"><i>condition</i><par n="accept__vblex"/></e>
@@ -22139,7 +22145,8 @@
     <e lm="create"><i>creat</i><par n="liv/e__vblex"/></e>
     <e lm="credit"><i>credit</i><par n="accept__vblex"/></e>
     <e lm="creep"><i>cre</i><par n="ke/ep__vblex"/></e>
-    <e lm="criminalize"><i>criminaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="criminalise" c="(GB)"><i>criminalis</i><par n="liv/e__vblex"/></e>
+    <e lm="criminalize" c="(US)"><i>criminaliz</i><par n="liv/e__vblex"/></e>
     <e lm="crimp"><i>crimp</i><par n="accept__vblex"/></e>
     <e lm="cringe"><i>cring</i><par n="liv/e__vblex"/></e>
     <e lm="criss-cross"><i>criss-cross</i><par n="approach__vblex"/></e>
@@ -22154,7 +22161,7 @@
     <e lm="crush"><i>crush</i><par n="approach__vblex"/></e>
     <e lm="cry"><i>cr</i><par n="appl/y__vblex"/></e>
     <e lm="crystallise" c="(GB)"><i>crystallis</i><par n="liv/e__vblex"/></e>
-    <e lm="crystallize" c="(US)"><i>crystalli</i><par n="authori/se__vblex"/></e>
+    <e lm="crystallize" c="(US)"><i>crystalliz</i><par n="liv/e__vblex"/></e>
     <e lm="cuddle"><i>cuddl</i><par n="liv/e__vblex"/></e>
     <e lm="cuff"><i>cuff</i><par n="accept__vblex"/></e>
     <e lm="cultivate"><i>cultivat</i><par n="liv/e__vblex"/></e>
@@ -22229,12 +22236,12 @@
     <e lm="demonize"><i>demoniz</i><par n="liv/e__vblex"/></e>
     <e lm="demonstrate"><i>demonstrat</i><par n="liv/e__vblex"/></e>
     <e lm="demoralise" c="(GB)"><i>demoralis</i><par n="liv/e__vblex"/></e>
-    <e lm="demoralize" c="(US)"><i>demorali</i><par n="authori/se__vblex"/></e>
+    <e lm="demoralize" c="(US)"><i>demoraliz</i><par n="liv/e__vblex"/></e>
     <e lm="demur"><i>demur</i><par n="accept__vblex"/></e>
     <e lm="denationalise" c="(GB)"><i>denationalis</i><par n="liv/e__vblex"/></e>
-    <e lm="denationalize" c="(US)"><i>denationali</i><par n="authori/se__vblex"/></e>
+    <e lm="denationalize" c="(US)"><i>denationaliz</i><par n="liv/e__vblex"/></e>
     <e lm="denaturalise" c="(GB)"><i>denaturalis</i><par n="liv/e__vblex"/></e>
-    <e lm="denaturalize" c="(US)"><i>denaturali</i><par n="authori/se__vblex"/></e>
+    <e lm="denaturalize" c="(US)"><i>denaturaliz</i><par n="liv/e__vblex"/></e>
     <e lm="denature"><i>denatur</i><par n="liv/e__vblex"/></e>
     <e lm="denigrate"><i>denigrat</i><par n="liv/e__vblex"/></e>
     <e lm="denominate"><i>denominat</i><par n="liv/e__vblex"/></e>
@@ -22512,7 +22519,7 @@
     <e lm="epitomize"><i>epitomiz</i><par n="liv/e__vblex"/></e>
     <e lm="equal"><i>equal</i><par n="control__vblex"/></e>
     <e lm="equalise" c="(GB)"><i>equalis</i><par n="liv/e__vblex"/></e>
-    <e lm="equalize" c="(US)"><i>equali</i><par n="authori/se__vblex"/></e>
+    <e lm="equalize" c="(US)"><i>equaliz</i><par n="liv/e__vblex"/></e>
     <e lm="equate"><i>equat</i><par n="liv/e__vblex"/></e>
     <e lm="equip"><i>equip</i><par n="step__vblex"/></e>
     <e lm="eradicate"><i>eradicat</i><par n="liv/e__vblex"/></e>
@@ -22596,7 +22603,7 @@
     <e lm="fascinate"><i>fascinat</i><par n="liv/e__vblex"/></e>
     <e lm="fasten"><i>fasten</i><par n="accept__vblex"/></e>
     <e lm="fatten"><i>fatten</i><par n="accept__vblex"/></e>
-    <e lm="favor" c="(US)" r="LR"><p><l>favor</l><r>favour</r></p><par n="accept__vblex"/></e>
+    <e lm="favor" c="(US)"><i>favor</i><par n="accept__vblex"/></e>
     <e lm="favour" c="(GB)"><i>favour</i><par n="accept__vblex"/></e>
     <e lm="fear"><i>fear</i><par n="accept__vblex"/></e>
     <e lm="feature"><i>featur</i><par n="liv/e__vblex"/></e>
@@ -22703,7 +22710,7 @@
     <e lm="gash"><i>gash</i><par n="approach__vblex"/></e>
     <e lm="gather"><i>gather</i><par n="accept__vblex"/></e>
     <e lm="generalise" c="(GB)"><i>generalis</i><par n="liv/e__vblex"/></e>
-    <e lm="generalize" c="(US)"><i>generali</i><par n="authori/se__vblex"/></e>
+    <e lm="generalize" c="(US)"><i>generaliz</i><par n="liv/e__vblex"/></e>
     <e lm="generate"><i>generat</i><par n="liv/e__vblex"/></e>
     <e lm="germinate"><i>germinat</i><par n="liv/e__vblex"/></e>
     <e lm="get"><i>g</i><par n="g/et__vblex"/></e>
@@ -22830,7 +22837,7 @@
     <e lm="harass"><i>harass</i><par n="approach__vblex"/></e>
     <e lm="harm"><i>harm</i><par n="accept__vblex"/></e>
     <e lm="harmonise" c="(GB)"><i>harmonis</i><par n="liv/e__vblex"/></e>
-    <e lm="harmonize" c="(US)"><i>harmoni</i><par n="authori/se__vblex"/></e>
+    <e lm="harmonize" c="(US)"><i>harmoniz</i><par n="liv/e__vblex"/></e>
     <e lm="harvest"><i>harvest</i><par n="accept__vblex"/></e>
     <e lm="hassle"><i>hassl</i><par n="liv/e__vblex"/></e>
     <e lm="hasten"><i>hasten</i><par n="accept__vblex"/></e>
@@ -22869,6 +22876,7 @@
     <e lm="hold"><i>h</i><par n="h/old__vblex"/></e>
     <e lm="hollow"><i>holl</i><par n="bl/ow__vblex"/></e>
     <e lm="homogenise" c="(GB)"><i>homogenis</i><par n="liv/e__vblex"/></e>
+    <e lm="homogenize" c="(US)"><i>homogeniz</i><par n="liv/e__vblex"/></e>
     <e lm="homologate"><i>homologat</i><par n="liv/e__vblex"/></e>
     <e lm="honor" c="(US)"><i>honor</i><par n="accept__vblex"/></e>
     <e lm="honour" c="(GB)"><i>honour</i><par n="accept__vblex"/></e>
@@ -22937,6 +22945,7 @@
     <e lm="individualize" c="(US)"><i>individualiz</i><par n="liv/e__vblex"/></e>
     <e lm="induce"><i>induc</i><par n="liv/e__vblex"/></e>
     <e lm="industrialise" c="(GB)"><i>industrialis</i><par n="liv/e__vblex"/></e>
+    <e lm="industrialize" c="(US)"><i>industrializ</i><par n="liv/e__vblex"/></e>
     <e lm="infect"><i>infect</i><par n="accept__vblex"/></e>
     <e lm="infer"><i>infer</i><par n="accept__vblex"/></e>
     <e lm="inflame"><i>inflam</i><par n="liv/e__vblex"/></e>
@@ -22960,7 +22969,7 @@
     <e lm="install"><i>install</i><par n="accept__vblex"/></e>
     <e lm="instill"><i>instill</i><par n="accept__vblex"/></e>
     <e lm="institutionalise" c="(GB)"><i>institutionalis</i><par n="liv/e__vblex"/></e>
-    <e lm="institutionalize" c="(US)"><i>institutionali</i><par n="authori/se__vblex"/></e>
+    <e lm="institutionalize" c="(US)"><i>institutionaliz</i><par n="liv/e__vblex"/></e>
     <e lm="instruct"><i>instruct</i><par n="accept__vblex"/></e>
     <e lm="instrument"><i>instrument</i><par n="accept__vblex"/></e>
     <e lm="insulate"><i>insulat</i><par n="liv/e__vblex"/></e>
@@ -22973,7 +22982,7 @@
     <e lm="interfere"><i>interfer</i><par n="liv/e__vblex"/></e>
     <e lm="interlace"><i>interlac</i><par n="liv/e__vblex"/></e>
     <e lm="internalise" c="(GB)"><i>internalis</i><par n="liv/e__vblex"/></e>
-    <e lm="internalize" c="(US)"><i>internali</i><par n="authori/se__vblex"/></e>
+    <e lm="internalize" c="(US)"><i>internaliz</i><par n="liv/e__vblex"/></e>
     <e lm="interpose"><i>interpos</i><par n="liv/e__vblex"/></e>
     <e lm="interpret"><i>interpret</i><par n="accept__vblex"/></e>
     <e lm="interrogate"><i>interrogat</i><par n="liv/e__vblex"/></e>
@@ -23070,7 +23079,7 @@
     <e lm="leave"><i>le</i><par n="le/ave__vblex"/></e>
     <e lm="leave here"><i>le</i><par n="le/ave__vblex"/><p><l><b/>here</l><r><g><b/>here</g></r></p></e>
     <e lm="legalise" c="(GB)"><i>legalis</i><par n="liv/e__vblex"/></e>
-    <e lm="legalize" c="(US)"><i>legali</i><par n="authori/se__vblex"/></e>
+    <e lm="legalize" c="(US)"><i>legaliz</i><par n="liv/e__vblex"/></e>
     <e lm="legitimate"><i>legitimat</i><par n="liv/e__vblex"/></e>
     <e lm="legitimize" c="(US)"><i>legitimiz</i><par n="liv/e__vblex"/></e>
     <e lm="lend"><i>len</i><par n="ben/d__vblex"/></e>
@@ -23131,7 +23140,7 @@
     <e lm="lure"><i>lur</i><par n="liv/e__vblex"/></e>
     <e lm="madden"><i>madden</i><par n="accept__vblex"/></e>
     <e lm="magnetise" c="(GB)"><i>magnetis</i><par n="liv/e__vblex"/></e>
-    <e lm="magnetize" c="(US)"><i>magneti</i><par n="authori/se__vblex"/></e>
+    <e lm="magnetize" c="(US)"><i>magnetiz</i><par n="liv/e__vblex"/></e>
     <e lm="maintain"><i>maintain</i><par n="accept__vblex"/></e>
     <e lm="make"><i>ma</i><par n="ma/ke__vblex"/></e>
     <e lm="make a mistake"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>a<b/>mistake</l><r><g><b/>a<b/>mistake</g></r></p></e>
@@ -23145,7 +23154,8 @@
     <e lm="manipulate"><i>manipulat</i><par n="liv/e__vblex"/></e>
     <e lm="manoeuvre"><i>manoeuvr</i><par n="liv/e__vblex"/></e>
     <e lm="manufacture"><i>manufactur</i><par n="liv/e__vblex"/></e>
-    <e lm="marginalize"><i>marginaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="marginalise" c="(GB)"><i>marginalis</i><par n="liv/e__vblex"/></e>
+    <e lm="marginalize" c="(US)"><i>marginaliz</i><par n="liv/e__vblex"/></e>
     <e lm="mark" c="(GB)"><i>mark</i><par n="accept__vblex"/></e>
     <e lm="mark up"><i>mark</i><par n="accept__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="marry"><i>marr</i><par n="appl/y__vblex"/></e>
@@ -23154,7 +23164,7 @@
     <e lm="massage"><i>massag</i><par n="liv/e__vblex"/></e>
     <e lm="match"><i>match</i><par n="approach__vblex"/></e>
     <e lm="materialise" c="(GB)"><i>materialis</i><par n="liv/e__vblex"/></e>
-    <e lm="materialize" c="(US)"><i>materiali</i><par n="authori/se__vblex"/></e>
+    <e lm="materialize" c="(US)"><i>materializ</i><par n="liv/e__vblex"/></e>
     <e lm="matter"><i>matter</i><par n="accept__vblex"/></e>
     <e lm="mature"><i>matur</i><par n="liv/e__vblex"/></e>
     <e lm="maximise" c="(GB)"><i>maximis</i><par n="liv/e__vblex"/></e>
@@ -23163,7 +23173,7 @@
     <e lm="meander"><i>meander</i><par n="accept__vblex"/></e>
     <e lm="measure"><i>measur</i><par n="liv/e__vblex"/></e>
     <e lm="mechanise" c="(GB)"><i>mechanis</i><par n="liv/e__vblex"/></e>
-    <e lm="mechanize" c="(US)"><i>mechani</i><par n="authori/se__vblex"/></e>
+    <e lm="mechanize" c="(US)"><i>mechaniz</i><par n="liv/e__vblex"/></e>
     <e lm="meditate"><i>meditat</i><par n="liv/e__vblex"/></e>
     <e lm="meet"><i>me</i><par n="me/et__vblex"/></e>
     <e lm="meet again"><i>me</i><par n="me/et__vblex"/><p><l><b/>again</l><r><g><b/>again</g></r></p></e>
@@ -23230,8 +23240,9 @@
     <e lm="nap"><i>nap</i><par n="step__vblex"/></e>
     <e lm="narrate"><i>narrat</i><par n="liv/e__vblex"/></e>
     <e lm="nasalise" c="(GB)"><i>nasalis</i><par n="liv/e__vblex"/></e>
+    <e lm="nasalize" c="(US)"><i>nasaliz</i><par n="liv/e__vblex"/></e>
     <e lm="nationalise" c="(GB)"><i>nationalis</i><par n="liv/e__vblex"/></e>
-    <e lm="nationalize" c="(US)"><i>nationali</i><par n="authori/se__vblex"/></e>
+    <e lm="nationalize" c="(US)"><i>nationaliz</i><par n="liv/e__vblex"/></e>
     <e lm="necessitate"><i>necessitat</i><par n="liv/e__vblex"/></e>
     <e lm="need"><i>need</i><par n="accept__vblex"/></e>
     <e lm="neglect"><i>neglect</i><par n="accept__vblex"/></e>
@@ -23239,17 +23250,17 @@
     <e lm="neigh"><i>neigh</i><par n="accept__vblex"/></e>
     <e lm="nest"><i>nest</i><par n="accept__vblex"/></e>
     <e lm="neutralise" c="(GB)"><i>neutralis</i><par n="liv/e__vblex"/></e>
-    <e lm="neutralize" c="(US)"><i>neutrali</i><par n="authori/se__vblex"/></e>
+    <e lm="neutralize" c="(US)"><i>neutraliz</i><par n="liv/e__vblex"/></e>
     <e lm="nickname"><i>nicknam</i><par n="liv/e__vblex"/></e>
     <e lm="nix"><i>nix</i><par n="approach__vblex"/></e>
     <e lm="nock"><i>nock</i><par n="accept__vblex"/></e>
     <e lm="nod"><i>nod</i><par n="outbid__vblex"/></e>
     <e lm="nominate"><i>nominat</i><par n="liv/e__vblex"/></e>
     <e lm="normalise" c="(GB)"><i>normalis</i><par n="liv/e__vblex"/></e>
-    <e lm="normalize" c="(US)"><i>normali</i><par n="authori/se__vblex"/></e>
+    <e lm="normalize" c="(US)"><i>normaliz</i><par n="liv/e__vblex"/></e>
     <e lm="nosedive"><i>nosediv</i><par n="liv/e__vblex"/></e>
     <e lm="notarise" c="(GB)"><i>notaris</i><par n="liv/e__vblex"/></e>
-    <e lm="notarize" c="(US)"><i>notari</i><par n="authori/se__vblex"/></e>
+    <e lm="notarize" c="(US)"><i>notariz</i><par n="liv/e__vblex"/></e>
     <e lm="notch"><i>notch</i><par n="approach__vblex"/></e>
     <e lm="note"><i>not</i><par n="liv/e__vblex"/></e>
     <e lm="note down"><i>not</i><par n="liv/e__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
@@ -23288,7 +23299,7 @@
     <e lm="orchestrate"><i>orchestrat</i><par n="liv/e__vblex"/></e>
     <e lm="order"><i>order</i><par n="accept__vblex"/></e>
     <e lm="organise" c="(GB)"><i>organis</i><par n="liv/e__vblex"/></e>
-    <e lm="organize" c="(US)"><i>organi</i><par n="authori/se__vblex"/></e>
+    <e lm="organize" c="(US)"><i>organiz</i><par n="liv/e__vblex"/></e>
     <e lm="originate"><i>originat</i><par n="liv/e__vblex"/></e>
     <e lm="oscillate"><i>oscillat</i><par n="liv/e__vblex"/></e>
     <e lm="outbid"><i>outbid</i><par n="outbid__vblex"/></e>
@@ -23324,7 +23335,7 @@
     <e lm="panic"><i>panic</i><par n="picnic__vblex"/></e>
     <e lm="parade"><i>parad</i><par n="liv/e__vblex"/></e>
     <e lm="paralyse" c="(GB)"><i>paralys</i><par n="liv/e__vblex"/></e>
-    <e lm="paralyze" c="(US)"><i>paraly</i><par n="authori/se__vblex"/></e>
+    <e lm="paralyze" c="(US)"><i>paralyz</i><par n="liv/e__vblex"/></e>
     <e lm="parch"><i>parch</i><par n="approach__vblex"/></e>
     <e lm="pare"><i>par</i><par n="liv/e__vblex"/></e>
     <e lm="park"><i>park</i><par n="accept__vblex"/></e>
@@ -23352,6 +23363,7 @@
     <e lm="peer"><i>peer</i><par n="accept__vblex"/></e>
     <e lm="pelt"><i>pelt</i><par n="accept__vblex"/></e>
     <e lm="penalise" c="(GB)"><i>penalis</i><par n="liv/e__vblex"/></e>
+    <e lm="penalize" c="(US)"><i>penaliz</i><par n="liv/e__vblex"/></e>
     <e lm="penetrate"><i>penetrat</i><par n="liv/e__vblex"/></e>
     <e lm="perceive"><i>perceiv</i><par n="liv/e__vblex"/></e>
     <e lm="perfect"><i>perfect</i><par n="accept__vblex"/></e>
@@ -23408,7 +23420,7 @@
     <e lm="poison"><i>poison</i><par n="accept__vblex"/></e>
     <e lm="poke"><i>pok</i><par n="liv/e__vblex"/></e>
     <e lm="polarise" c="(GB)"><i>polaris</i><par n="liv/e__vblex"/></e>
-    <e lm="polarize" c="(US)"><i>polari</i><par n="authori/se__vblex"/></e>
+    <e lm="polarize" c="(US)"><i>polariz</i><par n="liv/e__vblex"/></e>
     <e lm="polish"><i>polish</i><par n="approach__vblex"/></e>
     <e lm="poll"><i>poll</i><par n="accept__vblex"/></e>
     <e lm="pollinate"><i>pollinat</i><par n="liv/e__vblex"/></e>
@@ -23416,7 +23428,7 @@
     <e lm="ponder"><i>ponder</i><par n="accept__vblex"/></e>
     <e lm="pop"><i>pop</i><par n="step__vblex"/></e>
     <e lm="popularise" c="(GB)"><i>popularis</i><par n="liv/e__vblex"/></e>
-    <e lm="popularize" c="(US)"><i>populari</i><par n="authori/se__vblex"/></e>
+    <e lm="popularize" c="(US)"><i>populariz</i><par n="liv/e__vblex"/></e>
     <e lm="populate"><i>populat</i><par n="liv/e__vblex"/></e>
     <e lm="portend"><i>portend</i><par n="accept__vblex"/></e>
     <e lm="portray"><i>portray</i><par n="enjoy__vblex"/></e>
@@ -23467,7 +23479,7 @@
     <e lm="print"><i>print</i><par n="accept__vblex"/></e>
     <e lm="print out"><i>print</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="prioritise" c="(GB)"><i>prioritis</i><par n="liv/e__vblex"/></e>
-    <e lm="prioritize" c="(US)"><i>prioriti</i><par n="authori/se__vblex"/></e>
+    <e lm="prioritize" c="(US)"><i>prioritiz</i><par n="liv/e__vblex"/></e>
     <e lm="privilege"><i>privileg</i><par n="liv/e__vblex"/></e>
     <e lm="proceed"><i>proceed</i><par n="accept__vblex"/></e>
     <e lm="process"><i>process</i><par n="approach__vblex"/></e>
@@ -23672,7 +23684,7 @@
     <e lm="rent" c="(US)"><i>rent</i><par n="accept__vblex"/></e>
     <e lm="reopen"><i>reopen</i><par n="accept__vblex"/></e>
     <e lm="reorganise" c="(GB)"><i>reorganis</i><par n="liv/e__vblex"/></e>
-    <e lm="reorganize" c="(US)"><i>reorgani</i><par n="authori/se__vblex"/></e>
+    <e lm="reorganize" c="(US)"><i>reorganiz</i><par n="liv/e__vblex"/></e>
     <e lm="repackage"><i>repackag</i><par n="liv/e__vblex"/></e>
     <e lm="repair"><i>repair</i><par n="accept__vblex"/></e>
     <e lm="repeat"><i>repeat</i><par n="accept__vblex"/></e>
@@ -23752,7 +23764,7 @@
     <e lm="revoke"><i>revok</i><par n="liv/e__vblex"/></e>
     <e lm="revolt"><i>revolt</i><par n="accept__vblex"/></e>
     <e lm="revolutionise" c="(GB)"><i>revolutionis</i><par n="liv/e__vblex"/></e>
-    <e lm="revolutionize" c="(US)"><i>revolutioni</i><par n="authori/se__vblex"/></e>
+    <e lm="revolutionize" c="(US)"><i>revolutioniz</i><par n="liv/e__vblex"/></e>
     <e lm="reward"><i>reward</i><par n="accept__vblex"/></e>
     <e lm="rework"><i>rework</i><par n="accept__vblex"/></e>
     <e lm="rewrite"><i>rewr</i><par n="wr/ite__vblex"/></e>
@@ -23807,6 +23819,7 @@
     <e lm="sanitize" c="(US)"><i>sanitiz</i><par n="liv/e__vblex"/></e>
     <e lm="satiate"><i>satiat</i><par n="liv/e__vblex"/></e>
     <e lm="satirise" c="(GB)"><i>satiris</i><par n="liv/e__vblex"/></e>
+    <e lm="satirize" c="(US)"><i>satiriz</i><par n="liv/e__vblex"/></e>
     <e lm="satisfy"><i>satisf</i><par n="appl/y__vblex"/></e>
     <e lm="saturate"><i>saturat</i><par n="liv/e__vblex"/></e>
     <e lm="save"><i>sav</i><par n="liv/e__vblex"/></e>
@@ -23817,12 +23830,13 @@
     <e lm="scamper"><i>scamper</i><par n="accept__vblex"/></e>
     <e lm="scan"><i>scan</i><par n="plan__vblex"/></e>
     <e lm="scandalise" c="(GB)"><i>scandalis</i><par n="liv/e__vblex"/></e>
-    <e lm="scandalize" c="(US)"><i>scandali</i><par n="authori/se__vblex"/></e>
+    <e lm="scandalize" c="(US)"><i>scandaliz</i><par n="liv/e__vblex"/></e>
     <e lm="scare"><i>scar</i><par n="liv/e__vblex"/></e>
     <e lm="scatter"><i>scatter</i><par n="accept__vblex"/></e>
     <e lm="scent"><i>scent</i><par n="accept__vblex"/></e>
     <e lm="schedule" c="(US)"><i>schedul</i><par n="liv/e__vblex"/></e>
     <e lm="schematise" c="(GB)"><i>schematis</i><par n="liv/e__vblex"/></e>
+    <e lm="schematize" c="(US)"><i>schematiz</i><par n="liv/e__vblex"/></e>
     <e lm="scheme"><i>schem</i><par n="liv/e__vblex"/></e>
     <e lm="scold"><i>scold</i><par n="accept__vblex"/></e>
     <e lm="scoot"><i>scoot</i><par n="accept__vblex"/></e>
@@ -23974,7 +23988,7 @@
     <e lm="spawn"><i>spawn</i><par n="accept__vblex"/></e>
     <e lm="speak"><i>sp</i><par n="br/eak__vblex"/></e>
     <e lm="specialise" c="(GB)"><i>specialis</i><par n="liv/e__vblex"/></e>
-    <e lm="specialize" c="(US)"><i>speciali</i><par n="authori/se__vblex"/></e>
+    <e lm="specialize" c="(US)"><i>specializ</i><par n="liv/e__vblex"/></e>
     <e lm="specify"><i>specif</i><par n="appl/y__vblex"/></e>
     <e lm="speckle"><i>speckl</i><par n="liv/e__vblex"/></e>
     <e lm="speculate"><i>speculat</i><par n="liv/e__vblex"/></e>
@@ -24041,7 +24055,8 @@
     <e lm="stew"><i>stew</i><par n="accept__vblex"/></e>
     <e lm="stick"><i>st</i><par n="st/ick__vblex"/></e>
     <e lm="stiffen"><i>stiffen</i><par n="accept__vblex"/></e>
-    <e lm="stigmatize"><i>stigmatiz</i><par n="liv/e__vblex"/></e>
+    <e lm="stigmatise" c="(GB)"><i>stigmatis</i><par n="liv/e__vblex"/></e>
+    <e lm="stigmatize" c="(US)"><i>stigmatiz</i><par n="liv/e__vblex"/></e>
     <e lm="stimulate"><i>stimulat</i><par n="liv/e__vblex"/></e>
     <e lm="sting"><i>st</i><par n="r/ing__vblex"/></e>
     <e lm="stink"><i>st</i><par n="st/ink__vblex"/></e>
@@ -24083,7 +24098,7 @@
     <e lm="subrogate"><i>subrogat</i><par n="liv/e__vblex"/></e>
     <e lm="subscribe"><i>subscrib</i><par n="liv/e__vblex"/></e>
     <e lm="subsidise" c="(GB)"><i>subsidis</i><par n="liv/e__vblex"/></e>
-    <e lm="subsidize" c="(US)"><i>subsidi</i><par n="authori/se__vblex"/></e>
+    <e lm="subsidize" c="(US)"><i>subsidiz</i><par n="liv/e__vblex"/></e>
     <e lm="substitute"><i>substitut</i><par n="liv/e__vblex"/></e>
     <e lm="subtract"><i>subtract</i><par n="accept__vblex"/></e>
     <e lm="subvert"><i>subvert</i><par n="accept__vblex"/></e>
@@ -24136,13 +24151,13 @@
     <e lm="switch"><i>switch</i><par n="approach__vblex"/></e>
     <e lm="swop" c="(GB)"><i>swop</i><par n="step__vblex"/></e>
     <e lm="symbolise" c="(GB)"><i>symbolis</i><par n="liv/e__vblex"/></e>
-    <e lm="symbolize" c="(US)"><i>symboli</i><par n="authori/se__vblex"/></e>
+    <e lm="symbolize" c="(US)"><i>symboliz</i><par n="liv/e__vblex"/></e>
     <e lm="synchronise" c="(GB)"><i>synchronis</i><par n="liv/e__vblex"/></e>
     <e lm="synchronize" c="(US)"><i>synchroniz</i><par n="liv/e__vblex"/></e>
     <e lm="synthesise" c="(GB)"><i>synthesis</i><par n="liv/e__vblex"/></e>
     <e lm="synthesize" c="(US)"><i>synthesiz</i><par n="liv/e__vblex"/></e>
     <e lm="systematise" c="(GB)"><i>systematis</i><par n="liv/e__vblex"/></e>
-    <e lm="systematize" c="(US)"><i>systemati</i><par n="authori/se__vblex"/></e>
+    <e lm="systematize" c="(US)"><i>systematiz</i><par n="liv/e__vblex"/></e>
     <e lm="tackle"><i>tackl</i><par n="liv/e__vblex"/></e>
     <e lm="tag"><i>tag</i><par n="plug__vblex"/></e>
     <e lm="tailor"><i>tailor</i><par n="accept__vblex"/></e>
@@ -24315,7 +24330,7 @@
     <e lm="use"><i>us</i><par n="liv/e__vblex"/></e>
     <e lm="usurp"><i>usurp</i><par n="accept__vblex"/></e>
     <e lm="utilise" c="(GB)"><i>utilis</i><par n="liv/e__vblex"/></e>
-    <e lm="utilize" c="(US)"><i>utili</i><par n="authori/se__vblex"/></e>
+    <e lm="utilize" c="(US)"><i>utiliz</i><par n="liv/e__vblex"/></e>
     <e lm="utter"><i>utter</i><par n="accept__vblex"/></e>
     <e lm="vacillate"><i>vacillat</i><par n="liv/e__vblex"/></e>
     <e lm="validate"><i>validat</i><par n="liv/e__vblex"/></e>
@@ -24333,7 +24348,7 @@
     <e lm="vindicate"><i>vindicat</i><par n="liv/e__vblex"/></e>
     <e lm="visit"><i>visit</i><par n="accept__vblex"/></e>
     <e lm="visualise" c="(GB)"><i>visualis</i><par n="liv/e__vblex"/></e>
-    <e lm="visualize" c="(US)"><i>visuali</i><par n="authori/se__vblex"/></e>
+    <e lm="visualize" c="(US)"><i>visualiz</i><par n="liv/e__vblex"/></e>
     <e lm="vociferate"><i>vociferat</i><par n="liv/e__vblex"/></e>
     <e lm="vomit"><i>vomit</i><par n="accept__vblex"/></e>
     <e lm="vote"><i>vot</i><par n="liv/e__vblex"/></e>
@@ -24961,6 +24976,7 @@
     <e lm="bedridden"><i>bedridden</i><par n="expensive__adj"/></e>
     <e lm="beefy"><i>beef</i><par n="happ/y__adj"/></e>
     <e lm="behavioural" c="(GB)"><i>behavioural</i><par n="expensive__adj"/></e>
+    <e lm="behavioral" c="(US)"><i>behavioral</i><par n="expensive__adj"/></e>
     <e lm="beige"><i>beige</i><par n="nice/__adj"/></e>
     <e lm="Belarusian"><i>Belarusian</i><par n="expensive__adj"/></e>
     <e lm="beleaguered"><i>beleaguered</i><par n="expensive__adj"/></e>
@@ -25516,7 +25532,7 @@
     <e lm="defeatist"><i>defeatist</i><par n="expensive__adj"/></e>
     <e lm="defective"><i>defective</i><par n="expensive__adj"/></e>
     <e lm="defenceless" c="(GB)"><i>defenceless</i><par n="expensive__adj"/></e>
-    <e lm="defenseless"><i>defenseless</i><par n="expensive__adj"/></e>
+    <e lm="defenseless" c="(US)"><i>defenseless</i><par n="expensive__adj"/></e>
     <e lm="defensible"><i>defensible</i><par n="expensive__adj"/></e>
     <e lm="defensive"><i>defensive</i><par n="expensive__adj"/></e>
     <e lm="deferred"><i>deferred</i><par n="expensive__adj"/></e>
@@ -30348,8 +30364,8 @@
     <e lm="defamatorily"><i>defamatorily</i><par n="maybe__adv"/></e>
     <e lm="defeatedly"><i>defeatedly</i><par n="maybe__adv"/></e>
     <e lm="defectingly"><i>defectingly</i><par n="maybe__adv"/></e>
-    <e lm="defencelessly"><i>defencelessly</i><par n="maybe__adv"/></e>
-    <e lm="defenselessly"><i>defenselessly</i><par n="maybe__adv"/></e>
+    <e lm="defencelessly" c="(GB)"><i>defencelessly</i><par n="maybe__adv"/></e>
+    <e lm="defenselessly" c="(US)"><i>defenselessly</i><par n="maybe__adv"/></e>
     <e lm="defensively"><i>defensively</i><par n="maybe__adv"/></e>
     <e lm="deferentially"><i>deferentially</i><par n="maybe__adv"/></e>
     <e lm="defiantly"><i>defiantly</i><par n="maybe__adv"/></e>
@@ -41226,7 +41242,6 @@
     <e lm="Coca-Cola"><i>Coca-Cola</i><par n="Wikipedia__np"/></e>
     <e lm="Espasa"><i>Espasa</i><par n="Linux__np"/></e>
     <e lm="Explorer"><i>Explorer</i><par n="Linux__np"/></e>
-    <e lm="The Beatles"><i>The<b/>Beatles</i><par n="Wikipedia__np"/></e>
     <e lm="Trust"><i>Trust</i><par n="Linux__np"/></e>
     <e lm="Visa"><i>Visa</i><par n="Linux__np"/></e>
     <e lm="Facebook"><i>Facebook</i><par n="Linux__np"/></e>
@@ -41258,6 +41273,7 @@
     <e lm="Social Democratic Alliance"><i>Social<b/>Democratic<b/>Alliance</i><par n="Wikimedia__np"/></e>
     <e lm="Social Democratic Party"><i>Social<b/>Democratic<b/>Party</i><par n="Wikimedia__np"/></e>
     <e lm="Telefónica"><i>Telefónica</i><par n="Linux__np"/></e>
+    <e lm="The Beatles"><i>The<b/>Beatles</i><par n="Wikipedia__np"/></e>
     <e lm="Topkapi"><i>Topkapi</i><par n="Linux__np"/></e>
     <e lm="Tour de France"><i>Tour<b/>de<b/>France</i><par n="Linux__np"/></e>
     <e lm="United Nations"><i>United<b/>Nations</i><par n="United_Nations__np"/></e>
