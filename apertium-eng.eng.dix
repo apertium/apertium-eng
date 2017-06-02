@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 38587
+	Entries: 38648
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -40975,7 +40975,67 @@
 <e lm="Linnaeus">        <i>Linnaeus</i><par n="Smith__np"/></e>
 <e lm="Macintosh">       <i>Macintosh</i><par n="Smith__np"/></e>
 <e lm="Doo">             <i>Doo</i><par n="Smith__np"/></e>
-
+<e lm="Agricola">        <i>Agricola</i><par n="Smith__np"/></e>
+<e lm="Agrippa">         <i>Agrippa</i><par n="Smith__np"/></e>
+<e lm="Agrippina">       <i>Agrippina</i><par n="Smith__np"/></e>
+<e lm="Honorius">        <i>Honorius</i><par n="Smith__np"/></e>
+<e lm="Josephus">        <i>Josephus</i><par n="Smith__np"/></e>
+<e lm="Trajan">          <i>Trajan</i><par n="Smith__np"/></e>
+<e lm="Vespasian">       <i>Vespasian</i><par n="Smith__np"/></e>
+<e lm="Virgil">          <i>Virgil</i><par n="Smith__np"/></e>
+<e lm="Seneca">          <i>Seneca</i><par n="Smith__np"/></e>
+<e lm="Aurelius">        <i>Aurelius</i><par n="Smith__np"/></e>
+<e lm="Aurelian">        <i>Aurelian</i><par n="Smith__np"/></e>
+<e lm="Cicero">          <i>Cicero</i><par n="Smith__np"/></e>
+<e lm="Constantius">     <i>Constantius</i><par n="Smith__np"/></e>
+<e lm="Tacitus">         <i>Tacitus</i><par n="Smith__np"/></e>
+<e lm="Amin">            <i>Amin</i><par n="Smith__np"/></e>
+<e lm="Aquinas">         <i>Aquinas</i><par n="Smith__np"/></e>
+<e lm="Atta">            <i>Atta</i><par n="Smith__np"/></e>
+<e lm="Banach">          <i>Banach</i><par n="Smith__np"/></e>
+<e lm="Barbarossa">      <i>Barbarossa</i><par n="Smith__np"/></e>
+<e lm="Bellini">         <i>Bellini</i><par n="Smith__np"/></e>
+<e lm="Bogart">          <i>Bogart</i><par n="Smith__np"/></e>
+<e lm="Bohr">            <i>Bohr</i><par n="Smith__np"/></e>
+<e lm="Brando">          <i>Brando</i><par n="Smith__np"/></e>
+<e lm="Buchanan">        <i>Buchanan</i><par n="Smith__np"/></e>
+<e lm="Cagney">          <i>Cagney</i><par n="Smith__np"/></e>
+<e lm="Capp">            <i>Capp</i><par n="Smith__np"/></e>
+<e lm="Carey">           <i>Carey</i><par n="Smith__np"/></e>
+<e lm="Carnegie">        <i>Carnegie</i><par n="Smith__np"/></e>
+<e lm="Carr">            <i>Carr</i><par n="Smith__np"/></e>
+<e lm="Cauchy">          <i>Cauchy</i><par n="Smith__np"/></e>
+<e lm="Chaucer">         <i>Chaucer</i><par n="Smith__np"/></e>
+<e lm="Condorcet">       <i>Condorcet</i><par n="Smith__np"/></e>
+<e lm="de Condorcet">    <i>de<b/>Condorcet</i><par n="Smith__np"/></e>
+<e lm="Coolidge">        <i>Coolidge</i><par n="Smith__np"/></e>
+<e lm="Cranmer">         <i>Cranmer</i><par n="Smith__np"/></e>
+<e lm="Crassus">         <i>Crassus</i><par n="Smith__np"/></e>
+<e lm="Crick">           <i>Crick</i><par n="Smith__np"/></e>
+<e lm="Crosby">          <i>Crosby</i><par n="Smith__np"/></e>
+<e lm="Crowley">         <i>Crowley</i><par n="Smith__np"/></e>
+<e lm="Dirac">           <i>Dirac</i><par n="Smith__np"/></e>
+<e lm="Ebert">           <i>Ebert</i><par n="Smith__np"/></e>
+<e lm="Elgar">           <i>Elgar</i><par n="Smith__np"/></e>
+<e lm="Feynman">         <i>Feynman</i><par n="Smith__np"/></e>
+<e lm="Fonda">           <i>Fonda</i><par n="Smith__np"/></e>
+<e lm="Fourier">         <i>Fourier</i><par n="Smith__np"/></e>
+<e lm="Gauss">           <i>Gauss</i><par n="Smith__np"/></e>
+<e lm="Gershwin">        <i>Gershwin</i><par n="Smith__np"/></e>
+<e lm="Giuliani">        <i>Giuliani</i><par n="Smith__np"/></e>
+<e lm="Gladstone">       <i>Gladstone</i><par n="Smith__np"/></e>
+<e lm="Grohl">           <i>Grohl</i><par n="Smith__np"/></e>
+<e lm="Guthrie">         <i>Guthrie</i><par n="Smith__np"/></e>
+<e lm="Haeckel">         <i>Haeckel</i><par n="Smith__np"/></e>
+<e lm="Hank">            <i>Hank</i><par n="Smith__np"/></e>
+<e lm="Hausdorff">       <i>Hausdorff</i><par n="Smith__np"/></e>
+<e lm="Haydn">           <i>Haydn</i><par n="Smith__np"/></e>
+<e lm="Heidegger">       <i>Heidegger</i><par n="Smith__np"/></e>
+<e lm="Henderson">       <i>Henderson</i><par n="Smith__np"/></e>
+<e lm="Hewitt">          <i>Hewitt</i><par n="Smith__np"/></e>
+<e lm="Holbein">         <i>Holbein</i><par n="Smith__np"/></e>
+<e lm="Howe">            <i>Howe</i><par n="Smith__np"/></e>
+<e lm="Husserl">         <i>Husserl</i><par n="Smith__np"/></e>
 
     <!-- locations -->
 
