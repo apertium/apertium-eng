@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 38460
+	Entries: 38587
 	Sdefs: 84
-	Paradigms: 375
+	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -1190,6 +1190,11 @@
 <pardef n="VCR__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="acr"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="SOS__n">
+  <e>       <p><l></l>          <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+  <e>       <p><l>es</l>        <r><s n="n"/><s n="acr"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="BBC__n">
@@ -21517,7 +21522,7 @@
 <e lm="S.O.S.">          <i>S.O.S.</i><par n="BBC__n"/></e>
 <e lm="S.W.">            <i>S.W.</i><par n="BBC__n"/></e>
 <e lm="SAP">             <i>SAP</i><par n="BBC__n"/></e>
-<e lm="SMS">             <i>SMS</i><par n="VCR__n"/></e>
+<e lm="SMS">             <i>SMS</i><par n="SOS__n"/></e>
 <e lm="SPD">             <i>SPD</i><par n="BBC__n"/></e>
 <e lm="SQL">             <i>SQL</i><par n="BBC__n"/></e>
 <e lm="SRAM">            <i>SRAM</i><par n="VCR__n"/></e>
@@ -21541,6 +21546,49 @@
 <e lm="WPC">             <i>WPC</i><par n="BBC__n"/></e>
 <e lm="WT">              <i>WT</i><par n="BBC__n"/></e>
 <e lm="ZDF">             <i>ZDF</i><par n="BBC__n"/></e>
+<e lm="ATP">             <i>ATP</i><par n="BBC__n"/></e>
+<e lm="BIOS">            <i>BIOS</i><par n="SOS__n"/></e>
+<e lm="CDU">             <i>CDU</i><par n="BBC__n"/></e>
+<e lm="DNS">             <i>DNS</i><par n="BBC__n"/></e>
+<e lm="ETA">             <i>ETA</i><par n="BBC__n"/></e>
+<e lm="FARC">            <i>FARC</i><par n="BBC__n"/></e>
+<e lm="FIFA">            <i>FIFA</i><par n="BBC__n"/></e>
+<e lm="GDP">             <i>GDP</i><par n="BBC__n"/></e>
+<e lm="GNU">             <i>GNU</i><par n="BBC__n"/></e>
+<e lm="GPS">             <i>GPS</i><par n="SOS__n"/></e>
+<e lm="GSM">             <i>GSM</i><par n="BBC__n"/></e>
+<e lm="GUI">             <i>GUI</i><par n="VCR__n"/></e>
+<e lm="HBO">             <i>HBO</i><par n="BBC__n"/></e>
+<e lm="HIV">             <i>HIV</i><par n="BBC__n"/></e>
+<e lm="HTML">            <i>HTML</i><par n="BBC__n"/></e>
+<e lm="IMF">             <i>IMF</i><par n="BBC__n"/></e>
+<e lm="ISDN">            <i>ISDN</i><par n="BBC__n"/></e>
+<e lm="ISO">             <i>ISO</i><par n="BBC__n"/></e>
+<e lm="JPEG">            <i>JPEG</i><par n="BBC__n"/></e>
+<e lm="KGB">             <i>KGB</i><par n="BBC__n"/></e>
+<e lm="LAN">             <i>LAN</i><par n="BBC__n"/></e>
+<e lm="LCD">             <i>LCD</i><par n="VCR__n"/></e>
+<e lm="LGBT">            <i>LGBT</i><par n="BBC__n"/></e>
+<e lm="LSD">             <i>LSD</i><par n="BBC__n"/></e>
+<e lm="MIDI">            <i>MIDI</i><par n="BBC__n"/></e>
+<e lm="MPEG">            <i>MPEG</i><par n="BBC__n"/></e>
+<e lm="NATO">            <i>NATO</i><par n="BBC__n"/></e>
+<e lm="NFC">             <i>NFC</i><par n="BBC__n"/></e>
+<e lm="NTSC">            <i>NTSC</i><par n="BBC__n"/></e>
+<e lm="PAL">             <i>PAL</i><par n="BBC__n"/></e>
+<e lm="PDF">             <i>PDF</i><par n="BBC__n"/></e>
+<e lm="PNG">             <i>PNG</i><par n="BBC__n"/></e>
+<e lm="RGB">             <i>RGB</i><par n="BBC__n"/></e>
+<e lm="UNESCO">          <i>UNESCO</i><par n="BBC__n"/></e>
+<e lm="USB">             <i>USB</i><par n="BBC__n"/></e>
+<e lm="WHO">             <i>WHO</i><par n="BBC__n"/></e>
+<e lm="XML">             <i>XML</i><par n="BBC__n"/></e>
+<e lm="LED">             <i>LED</i><par n="VCR__n"/></e>
+<e lm="DJ">              <i>DJ</i><par n="VCR__n"/></e>
+<e lm="CPU">             <i>CPU</i><par n="VCR__n"/></e>
+<e lm="TARDIS">          <i>TARDIS</i><par n="SOS__n"/></e>
+<e lm="WWI">             <i>WWI</i><par n="BBC__n"/></e>
+<e lm="WWII">            <i>WWII</i><par n="BBC__n"/></e>
 
 
     <!-- SECTION: Verbs -->
@@ -40911,6 +40959,22 @@
 <e lm="Wittgenstein">    <i>Wittgenstein</i><par n="Smith__np"/></e>
 <e lm="Woolf">           <i>Woolf</i><par n="Smith__np"/></e>
 <e lm="Zhang">           <i>Zhang</i><par n="Smith__np"/></e>
+<e lm="Caesar">          <i>Caesar</i><par n="Smith__np"/></e>
+<e lm="Cassius">         <i>Cassius</i><par n="Smith__np"/></e>
+<e lm="Doppler">         <i>Doppler</i><par n="Smith__np"/></e>
+<e lm="Euler">           <i>Euler</i><par n="Smith__np"/></e>
+<e lm="Fleetwood">       <i>Fleetwood</i><par n="Smith__np"/></e>
+<e lm="Fleming">         <i>Fleming</i><par n="Smith__np"/></e>
+<e lm="Fresnel">         <i>Fresnel</i><par n="Smith__np"/></e>
+<e lm="Hepburn">         <i>Hepburn</i><par n="Smith__np"/></e>
+<e lm="Himmler">         <i>Himmler</i><par n="Smith__np"/></e>
+<e lm="Kepler">          <i>Kepler</i><par n="Smith__np"/></e>
+<e lm="Khrushchev">      <i>Khrushchev</i><par n="Smith__np"/></e>
+<e lm="Kuiper">          <i>Kuiper</i><par n="Smith__np"/></e>
+<e lm="Leibniz">         <i>Leibniz</i><par n="Smith__np"/></e>
+<e lm="Linnaeus">        <i>Linnaeus</i><par n="Smith__np"/></e>
+<e lm="Macintosh">       <i>Macintosh</i><par n="Smith__np"/></e>
+<e lm="Doo">             <i>Doo</i><par n="Smith__np"/></e>
 
 
     <!-- locations -->
@@ -41735,6 +41799,74 @@
 <e lm="Tampa">           <i>Tampa</i><par n="Barcelona__np"/></e>
 <e lm="Tasmania">        <i>Tasmania</i><par n="Barcelona__np"/></e>
 <e lm="Tbilisi">         <i>Tbilisi</i><par n="Barcelona__np"/></e>
+<e lm="Americas">        <i>Americas</i><par n="United_States__np"/></e>
+<e lm="Via Augusta">     <i>Via<b/>Augusta</i><par n="Barcelona__np"/></e>
+<e lm="The Hague">       <i>The<b/>Hague</i><par n="Barcelona__np"/></e>
+<e lm="Tehran">          <i>Tehran</i><par n="Barcelona__np"/></e>
+<e lm="Thebes">          <i>Thebes</i><par n="Barcelona__np"/></e>
+<e lm="Tibet">           <i>Tibet</i><par n="Barcelona__np"/></e>
+<e lm="Tirana">          <i>Tirana</i><par n="Barcelona__np"/></e>
+<e lm="Toledo">          <i>Toledo</i><par n="Barcelona__np"/></e>
+<e lm="Toulouse">        <i>Toulouse</i><par n="Barcelona__np"/></e>
+<e lm="Transylvania">    <i>Transylvania</i><par n="Barcelona__np"/></e>
+<e lm="Tuscany">         <i>Tuscany</i><par n="Barcelona__np"/></e>
+<e lm="UAE">             <i>UAE</i><par n="United_States__np"/></e>
+<e lm="USSR">            <i>USSR</i><par n="Barcelona__np"/></e>
+<e lm="Uppsala">         <i>Uppsala</i><par n="Barcelona__np"/></e>
+<e lm="Utrecht">         <i>Utrecht</i><par n="Barcelona__np"/></e>
+<e lm="Vatican">         <i>Vatican</i><par n="Barcelona__np"/></e>
+<e lm="Las Vegas">       <i>Las<b/>Vegas</i><par n="Barcelona__np"/></e>
+<e lm="Venice">          <i>Venice</i><par n="Barcelona__np"/></e>
+<e lm="Versailles">      <i>Versailles</i><par n="Barcelona__np"/></e>
+<e lm="Vilnius">         <i>Vilnius</i><par n="Barcelona__np"/></e>
+<e lm="Volga">           <i>Volga</i><par n="Barcelona__np"/></e>
+<e lm="Wallachia">       <i>Wallachia</i><par n="Barcelona__np"/></e>
+<e lm="Weimar">          <i>Weimar</i><par n="Barcelona__np"/></e>
+<e lm="Wellington">      <i>Wellington</i><par n="Barcelona__np"/></e>
+<e lm="Wessex">          <i>Wessex</i><par n="Barcelona__np"/></e>
+<e lm="Westphalia">      <i>Westphalia</i><par n="Barcelona__np"/></e>
+<e lm="Isle of Wight">   <i>Isle<b/>of<b/>Wight</i><par n="Barcelona__np"/></e>
+<e lm="Winchester">      <i>Winchester</i><par n="Barcelona__np"/></e>
+<e lm="Worcester">       <i>Worcester</i><par n="Barcelona__np"/></e>
+<e lm="Wrocław">         <i>Wrocław</i><par n="Barcelona__np"/></e>
+<e lm="Württemberg">     <i>Württemberg</i><par n="Barcelona__np"/></e>
+<e lm="Yerevan">         <i>Yerevan</i><par n="Barcelona__np"/></e>
+<e lm="Zürich">          <i>Zürich</i><par n="Barcelona__np"/></e>
+<e lm="Suez">            <i>Suez</i><par n="Barcelona__np"/></e>
+<e lm="Suffolk">         <i>Suffolk</i><par n="Barcelona__np"/></e>
+<e lm="Alamos">          <i>Alamos</i><par n="Barcelona__np"/></e>
+<e lm="Ballarat">        <i>Ballarat</i><par n="Barcelona__np"/></e>
+<e lm="Essex">           <i>Essex</i><par n="Barcelona__np"/></e>
+<e lm="Euphrates">       <i>Euphrates</i><par n="Barcelona__np"/></e>
+<e lm="Everest">         <i>Everest</i><par n="Barcelona__np"/></e>
+<e lm="Greyhawk">        <i>Greyhawk</i><par n="Barcelona__np"/></e>
+<e lm="Istanbul">        <i>Istanbul</i><par n="Barcelona__np"/></e>
+<e lm="Ithaca">          <i>Ithaca</i><par n="Barcelona__np"/></e>
+<e lm="Kraków">          <i>Kraków</i><par n="Barcelona__np"/></e>
+<e lm="Labrador">        <i>Labrador</i><par n="Barcelona__np"/></e>
+<e lm="Lyon">            <i>Lyon</i><par n="Barcelona__np"/></e>
+<e lm="Limburg">         <i>Limburg</i><par n="Barcelona__np"/></e>
+<e lm="Macau">           <i>Macau</i><par n="Barcelona__np"/></e>
+<e lm="Maharashtra">     <i>Maharashtra</i><par n="Barcelona__np"/></e>
+<e lm="Midlands">        <i>Midlands</i><par n="Barcelona__np"/></e>
+<e lm="Midwest">         <i>Midwest</i><par n="Barcelona__np"/></e>
+<e lm="Milwaukee">       <i>Milwaukee</i><par n="Barcelona__np"/></e>
+<e lm="Monroe">          <i>Monroe</i><par n="Barcelona__np"/></e>
+<e lm="Nevis">           <i>Nevis</i><par n="Barcelona__np"/></e>
+<e lm="Newark">          <i>Newark</i><par n="Barcelona__np"/></e>
+<e lm="Oakland">         <i>Oakland</i><par n="Barcelona__np"/></e>
+<e lm="Orkney">          <i>Orkney</i><par n="Barcelona__np"/></e>
+<e lm="Princeton">       <i>Princeton</i><par n="Barcelona__np"/></e>
+<e lm="Raleigh">         <i>Raleigh</i><par n="Barcelona__np"/></e>
+<e lm="Regensburg">      <i>Regensburg</i><par n="Barcelona__np"/></e>
+<e lm="Rhodes">          <i>Rhodes</i><par n="Barcelona__np"/></e>
+<e lm="Richmond">        <i>Richmond</i><par n="Barcelona__np"/></e>
+<e lm="Salisbury">       <i>Salisbury</i><par n="Barcelona__np"/></e>
+<e lm="Schleswig">       <i>Schleswig</i><par n="Barcelona__np"/></e>
+<e lm="Sinai">           <i>Sinai</i><par n="Barcelona__np"/></e>
+<e lm="Tallinn">         <i>Tallinn</i><par n="Barcelona__np"/></e>
+<e lm="Ulster">          <i>Ulster</i><par n="Barcelona__np"/></e>
+<e lm="Vichy">           <i>Vichy</i><par n="Barcelona__np"/></e>
 
     <!-- organisations -->
 
