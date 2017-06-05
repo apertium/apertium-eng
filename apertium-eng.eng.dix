@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 38769
+	Entries: 38894
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -42114,6 +42114,132 @@
 <e lm="Wikipedia">       <par n="Ww"/><i>ikipedia</i><par n="Wikipedia__np"/></e>
 <e lm="Windows">         <i>Windows</i><par n="Linux__np"/></e>
 <e lm="YouTube">         <i>YouTube</i><par n="Linux__np"/></e>
+
+<e lm="Fleetwood Mac">   <i>Fleetwood<b/>Mac</i><par n="Linux__np"/></e>
+<e lm="ABBA">            <i>ABBA</i><par n="Linux__np"/></e>
+<e lm="Apple Macintosh"> <i>Apple<b/>Macintosh</i><par n="Linux__np"/></e>
+<e lm="Microsoft Windows"><i>Microsoft<b/>Windows</i><par n="Linux__np"/></e>
+<e lm="Microsoft Office"><i>Microsoft<b/>Office</i><par n="Linux__np"/></e>
+<e lm="Microsoft Word">  <i>Microsoft<b/>Word</i><par n="Linux__np"/></e>
+<e lm="Microsoft Excel"> <i>Microsoft<b/>Excel</i><par n="Linux__np"/></e>
+<e lm="Microsoft PowerPoint"><i>Microsoft<b/>PowerPoint</i><par n="Linux__np"/></e>
+<e lm="Microsoft Access"><i>Microsoft<b/>Access</i><par n="Linux__np"/></e>
+<e lm="Microsoft OneNote"><i>Microsoft<b/>OneNote</i><par n="Linux__np"/></e>
+<e lm="Windows 95">      <i>Windows<b/>95</i><par n="Linux__np"/></e>
+<e lm="Windows 98">      <i>Windows<b/>98</i><par n="Linux__np"/></e>
+<e lm="Windows 2000">    <i>Windows<b/>2000</i><par n="Linux__np"/></e>
+<e lm="Windows XP">      <i>Windows<b/>XP</i><par n="Linux__np"/></e>
+<e lm="Windows Vista">   <i>Windows<b/>Vista</i><par n="Linux__np"/></e>
+<e lm="Windows 7">       <i>Windows<b/>7</i><par n="Linux__np"/></e>
+<e lm="Windows 8">       <i>Windows<b/>8</i><par n="Linux__np"/></e>
+<e lm="Windows 8.1">     <i>Windows<b/>8.1</i><par n="Linux__np"/></e>
+<e lm="Windows 10">      <i>Windows<b/>10</i><par n="Linux__np"/></e>
+<e lm="Windows ME">      <i>Windows<b/>ME</i><par n="Linux__np"/></e>
+<e lm="Windows NT">      <i>Windows<b/>NT</i><par n="Linux__np"/></e>
+<e lm="Windows Server">  <i>Windows<b/>Server</i><par n="Linux__np"/></e>
+<e lm="Windows Embedded"><i>Windows<b/>Embedded</i><par n="Linux__np"/></e>
+<e lm="Windows Phone">   <i>Windows<b/>Phone</i><par n="Linux__np"/></e>
+<e lm="Windows Mobile">  <i>Windows<b/>Mobile</i><par n="Linux__np"/></e>
+<e lm="Windows 3.1">     <i>Windows<b/>3.1</i><par n="Linux__np"/></e>
+<e lm="iOS">             <i>iOS</i><par n="Linux__np"/></e>
+<e lm="Adobe">           <i>Adobe</i><par n="Linux__np"/></e>
+<e lm="Adobe Illustrator"><i>Adobe<b/>Illustrator</i><par n="Linux__np"/></e>
+<e lm="Adobe Photoshop"> <i>Adobe<b/>Photoshop</i><par n="Linux__np"/></e>
+<e lm="Amtrak">          <i>Amtrak</i><par n="Linux__np"/></e>
+<e lm="Atari">           <i>Atari</i><par n="Linux__np"/></e>
+<e lm="Audi">            <i>Audi</i><par n="Linux__np"/></e>
+<e lm="Bauhaus">         <i>Bauhaus</i><par n="Linux__np"/></e>
+<e lm="Bayer">           <i>Bayer</i><par n="Linux__np"/></e>
+<e lm="Mercedes-Benz">   <i>Mercedes-Benz</i><par n="Linux__np"/></e>
+<e lm="Chevrolet">       <i>Chevrolet</i><par n="Linux__np"/></e>
+<e lm="Coca-Cola">       <i>Coca-Cola</i><par n="Linux__np"/></e>
+<e lm="Compaq">          <i>Compaq</i><par n="Linux__np"/></e>
+<e lm="Debian">          <i>Debian</i><par n="Linux__np"/></e>
+<e lm="Debian Hamm">     <i>Debian<b/>Hamm</i><par n="Linux__np"/></e>
+<e lm="Debian Slink">    <i>Debian<b/>Slink</i><par n="Linux__np"/></e>
+<e lm="Debian Potato">   <i>Debian<b/>Potato</i><par n="Linux__np"/></e>
+<e lm="Debian Woody">    <i>Debian<b/>Woody</i><par n="Linux__np"/></e>
+<e lm="Debian Sarge">    <i>Debian<b/>Sarge</i><par n="Linux__np"/></e>
+<e lm="Debian Etch">     <i>Debian<b/>Etch</i><par n="Linux__np"/></e>
+<e lm="Debian Lenny">    <i>Debian<b/>Lenny</i><par n="Linux__np"/></e>
+<e lm="Debian Squeeze">  <i>Debian<b/>Squeeze</i><par n="Linux__np"/></e>
+<e lm="Debian Wheezy">   <i>Debian<b/>Wheezy</i><par n="Linux__np"/></e>
+<e lm="Debian Jessie">   <i>Debian<b/>Jessie</i><par n="Linux__np"/></e>
+<e lm="Debian Stretch">  <i>Debian<b/>Stretch</i><par n="Linux__np"/></e>
+<e lm="Delphi">          <i>Delphi</i><par n="Linux__np"/></e>
+<e lm="Deutsche Bank">   <i>Deutsche<b/>Bank</i><par n="Linux__np"/></e>
+<e lm="Deutsche Bahn">   <i>Deutsche<b/>Bahn</i><par n="Linux__np"/></e>
+<e lm="Doctor Who">      <i>Doctor<b/>Who</i><par n="Linux__np"/></e>
+<e lm="Emacs">           <i>Emacs</i><par n="Linux__np"/></e>
+<e lm="Pink Floyd">      <i>Pink<b/>Floyd</i><par n="Linux__np"/></e>
+<e lm="Franz Ferdinand"> <i>Franz<b/>Ferdinand</i><par n="Linux__np"/></e>
+<e lm="Sinn Féin">       <i>Sinn<b/>Féin</i><par n="Wikimedia__np"/></e>
+<e lm="Hewlett-Packard"> <i>Hewlett-Packard</i><par n="Linux__np"/></e>
+<e lm="Honda">           <i>Honda</i><par n="Linux__np"/></e>
+<e lm="Hyundai">         <i>Hyundai</i><par n="Linux__np"/></e>
+<e lm="Iberia">          <i>Iberia</i><par n="Linux__np"/></e>
+<e lm="Jaguar">          <i>Jaguar</i><par n="Linux__np"/></e>
+<e lm="Java">            <i>Java</i><par n="Linux__np"/></e>
+<e lm="JavaScript">      <i>JavaScript</i><par n="Linux__np"/></e>
+<e lm="ThyssenKrupp">    <i>ThyssenKrupp</i><par n="Linux__np"/></e>
+<e lm="LEGO">            <i>LEGO</i><par n="Linux__np"/></e>
+<e lm="Mazda">           <i>Mazda</i><par n="Linux__np"/></e>
+<e lm="Nintendo">        <i>Nintendo</i><par n="Linux__np"/></e>
+<e lm="Nissan">          <i>Nissan</i><par n="Linux__np"/></e>
+<e lm="Nirvana">         <i>Nirvana</i><par n="Linux__np"/></e>
+<e lm="Nokia">           <i>Nokia</i><par n="Linux__np"/></e>
+<e lm="Norton">          <i>Norton</i><par n="Linux__np"/></e>
+<e lm="Opel">            <i>Opel</i><par n="Linux__np"/></e>
+<e lm="Pepsi">           <i>Pepsi</i><par n="Linux__np"/></e>
+<e lm="Sex Pistols">     <i>Sex<b/>Pistols</i><par n="Linux__np"/></e>
+<e lm="Twitter">         <i>Twitter</i><par n="Linux__np"/></e>
+<e lm="PlayStation">     <i>PlayStation</i><par n="Linux__np"/></e>
+<e lm="PlayStation 2">   <i>PlayStation<b/>2</i><par n="Linux__np"/></e>
+<e lm="PlayStation 3">   <i>PlayStation<b/>3</i><par n="Linux__np"/></e>
+<e lm="PlayStation 4">   <i>PlayStation<b/>4</i><par n="Linux__np"/></e>
+<e lm="PlayStation Portable"><i>PlayStation<b/>Portable</i><par n="Linux__np"/></e>
+<e lm="PlayStation Vita"><i>PlayStation<b/>Vita</i><par n="Linux__np"/></e>
+<e lm="Xbox">            <i>Xbox</i><par n="Linux__np"/></e>
+<e lm="Xbox 360">        <i>Xbox<b/>360</i><par n="Linux__np"/></e>
+<e lm="Xbox One">        <i>Xbox<b/>One</i><par n="Linux__np"/></e>
+<e lm="Nintendo Entertainment System"><i>Nintendo<b/>Entertainment<b/>System</i><par n="Linux__np"/></e>
+<e lm="Super Nintendo Entertainment System"><i>Super<b/>Nintendo<b/>Entertainment<b/>System</i><par n="Linux__np"/></e>
+<e lm="Nintendo 64">     <i>Nintendo<b/>64</i><par n="Linux__np"/></e>
+<e lm="GameCube">        <i>GameCube</i><par n="Linux__np"/></e>
+<e lm="Wii">             <i>Wii</i><par n="Linux__np"/></e>
+<e lm="Wii U">           <i>Wii<b/>U</i><par n="Linux__np"/></e>
+<e lm="Nintendo Switch"> <i>Nintendo<b/>Switch</i><par n="Linux__np"/></e>
+<e lm="GameBoy">         <i>GameBoy</i><par n="Linux__np"/></e>
+<e lm="GameBoy Pocket">  <i>GameBoy<b/>Pocket</i><par n="Linux__np"/></e>
+<e lm="GameBoy Color">   <i>GameBoy<b/>Color</i><par n="Linux__np"/></e>
+<e lm="GameBoy Advance"> <i>GameBoy<b/>Advance</i><par n="Linux__np"/></e>
+<e lm="GameBoy Advance SP"><i>GameBoy<b/>Advance<b/>SP</i><par n="Linux__np"/></e>
+<e lm="GameBoy Micro">   <i>GameBoy<b/>Micro</i><par n="Linux__np"/></e>
+<e lm="Nintendo DS">     <i>Nintendo<b/>DS</i><par n="Linux__np"/></e>
+<e lm="Nintendo DS Lite"><i>Nintendo<b/>DS<b/>Lite</i><par n="Linux__np"/></e>
+<e lm="Nintendo DSi">    <i>Nintendo<b/>DSi</i><par n="Linux__np"/></e>
+<e lm="Nintendo DSi XL"> <i>Nintendo<b/>DSi<b/>XL</i><par n="Linux__np"/></e>
+<e lm="Nintendo 3DS">    <i>Nintendo<b/>3DS</i><par n="Linux__np"/></e>
+<e lm="Nintendo 3DS XL"> <i>Nintendo<b/>3DS<b/>XL</i><par n="Linux__np"/></e>
+<e lm="Nintendo 2DS">    <i>Nintendo<b/>2DS</i><par n="Linux__np"/></e>
+<e lm="New Nintendo 2DS"><i>New<b/>Nintendo<b/>2DS</i><par n="Linux__np"/></e>
+<e lm="New Nintendo 3DS"><i>New<b/>Nintendo<b/>3DS</i><par n="Linux__np"/></e>
+<e lm="New Nintendo 3DS XL"><i>New<b/>Nintendo<b/>3DS<b/>XL</i><par n="Linux__np"/></e>
+<e lm="Pokémon">         <i>Pokémon</i><par n="Linux__np"/></e>
+<e lm="Porsche">         <i>Porsche</i><par n="Linux__np"/></e>
+<e lm="PowerPC">         <i>PowerPC</i><par n="Linux__np"/></e>
+<e lm="QuickTime">       <i>QuickTime</i><par n="Linux__np"/></e>
+<e lm="Al Qaeda">        <i>Al<b/>Qaeda</i><par n="Wikimedia__np"/></e>
+<e lm="Renault">         <i>Renault</i><par n="Linux__np"/></e>
+<e lm="SEGA">            <i>SEGA</i><par n="Linux__np"/></e>
+<e lm="Siemens">         <i>Siemens</i><par n="Linux__np"/></e>
+<e lm="Suzuki">          <i>Suzuki</i><par n="Linux__np"/></e>
+<e lm="TeX">             <i>TeX</i><par n="Linux__np"/></e>
+<e lm="LaTeX">           <i>LaTeX</i><par n="Linux__np"/></e>
+<e lm="Toyota">          <i>Toyota</i><par n="Linux__np"/></e>
+<e lm="Volkswagen">      <i>Volkswagen</i><par n="Linux__np"/></e>
+<e lm="Walmart">         <i>Walmart</i><par n="Linux__np"/></e>
+<e lm="WordPerfect">     <i>WordPerfect</i><par n="Linux__np"/></e>
 
 
     <!-- TODO: unsorted set of words  (insert here) -->
