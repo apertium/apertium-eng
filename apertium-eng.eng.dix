@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 38757
+	Entries: 38769
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -13228,7 +13228,7 @@
 <e lm="maximization" c="(US)"><i>maximization</i><par n="house__n"/></e>
 <e lm="maximum">         <i>maxim</i><par n="maxim/um__n"/></e>
 <e lm="maxwell">         <i>maxwell</i><par n="house__n"/></e>
-<e lm="May">             <i>May</i><par n="house__n"/></e>
+<e lm="May">             <par n="Mm"/><i>ay</i><par n="house__n"/></e>
 <e lm="mayfly">          <i>mayfl</i><par n="bab/y__n"/></e>
 <e lm="mayonnaise">      <i>mayonnaise</i><par n="house__n"/></e>
 <e lm="mayor">           <i>mayor</i><par n="house__n"/></e>
@@ -23753,7 +23753,7 @@
 <e lm="reedit">          <i>reedit</i><par n="accept__vblex"/></e>
 <e lm="reelect">         <i>reelect</i><par n="accept__vblex"/></e>
 <e lm="reexamine">       <i>reexamin</i><par n="liv/e__vblex"/></e>
-<e lm="refer">           <i>refer</i><par n="accept__vblex"/></e>
+<e lm="refer">           <i>refer</i><par n="occur__vblex"/></e>
 <e lm="refine">          <i>refin</i><par n="liv/e__vblex"/></e>
 <e lm="reflect">         <i>reflect</i><par n="accept__vblex"/></e>
 <e lm="refold">          <i>refold</i><par n="accept__vblex"/></e>
@@ -41148,6 +41148,9 @@
 
     <!-- locations -->
 
+<e lm="Aachen">          <i>Aachen</i><par n="Barcelona__np"/></e>
+<e lm="Aalen">           <i>Aalen</i><par n="Barcelona__np"/></e>
+<e lm="Aarhus">          <i>Aarhus</i><par n="Barcelona__np"/></e>
 <e lm="Aberdeen">        <i>Aberdeen</i><par n="Barcelona__np"/></e>
 <e lm="Abidjan">         <i>Abidjan</i><par n="Barcelona__np"/></e>
 <e lm="Abyssinia">       <i>Abyssinia</i><par n="Barcelona__np"/></e>
@@ -41158,48 +41161,73 @@
 <e lm="Akranesi">        <i>Akranesi</i><par n="Barcelona__np"/></e>
 <e lm="Akureyri">        <i>Akureyri</i><par n="Barcelona__np"/></e>
 <e lm="Alabama">         <i>Alabama</i><par n="Barcelona__np"/></e>
+<e lm="Alamos">          <i>Alamos</i><par n="Barcelona__np"/></e>
 <e lm="Alaska">          <i>Alaska</i><par n="Barcelona__np"/></e>
 <e lm="Albania">         <i>Albania</i><par n="Barcelona__np"/></e>
+<e lm="Albany">          <i>Albany</i><par n="Barcelona__np"/></e>
 <e lm="Alcatraz">        <i>Alcatraz</i><par n="Barcelona__np"/></e>
 <e lm="Álftanes">        <i>Álftanes</i><par n="Barcelona__np"/></e>
 <e lm="Algeria">         <i>Algeria</i><par n="Barcelona__np"/></e>
+<e lm="Algiers">         <i>Algiers</i><par n="Barcelona__np"/></e>
 <e lm="Alicante">        <i>Alicante</i><par n="Barcelona__np"/></e>
 <e lm="Alsace">          <i>Alsace</i><par n="Barcelona__np"/></e>
 <e lm="Amazonia">        <i>Amazonia</i><par n="Barcelona__np"/></e>
 <e lm="America">         <i>America</i><par n="Barcelona__np"/></e>
+<e lm="Americas">        <i>Americas</i><par n="United_States__np"/></e>
+<e lm="Amman">           <i>Amman</i><par n="Barcelona__np"/></e>
 <e lm="Amsterdam">       <i>Amsterdam</i><par n="Barcelona__np"/></e>
+<e lm="Anatolia">        <i>Anatolia</i><par n="Barcelona__np"/></e>
 <e lm="Andalucia">       <i>Andalucia</i><par n="Barcelona__np"/></e>
+<e lm="Andalusia">       <i>Andalusia</i><par n="Barcelona__np"/></e>
+<e lm="Andhra Pradesh">  <i>Andhra<b/>Pradesh</i><par n="Barcelona__np"/></e>
 <e lm="Andorra">         <i>Andorra</i><par n="Barcelona__np"/></e>
 <e lm="Angola">          <i>Angola</i><par n="Barcelona__np"/></e>
+<e lm="Anjou">           <i>Anjou</i><par n="Barcelona__np"/></e>
 <e lm="Ankara">          <i>Ankara</i><par n="Barcelona__np"/></e>
-<e lm="Antarctic">       <i>Antarctic</i><par n="Barcelona__np"/></e>
 <e lm="Antarctica">      <i>Antarctica</i><par n="Barcelona__np"/></e>
+<e lm="Antarctic">       <i>Antarctic</i><par n="Barcelona__np"/></e>
 <e lm="Antigua and Barbuda"><i>Antigua<b/>and<b/>Barbuda</i><par n="Barcelona__np"/></e>
+<e lm="Antilles">        <i>Antilles</i><par n="United_States__np"/></e>
+<e lm="Antwerp">         <i>Antwerp</i><par n="Barcelona__np"/></e>
 <e lm="Apia">            <i>Apia</i><par n="Barcelona__np"/></e>
 <e lm="Appalachians">    <i>Appalachians</i><par n="Barcelona__np"/></e>
+<e lm="Aquitaine">       <i>Aquitaine</i><par n="Barcelona__np"/></e>
 <e lm="Arabia">          <i>Arabia</i><par n="Barcelona__np"/></e>
 <e lm="Aragon">          <i>Aragon</i><par n="Barcelona__np"/></e>
 <e lm="Arctic">          <i>Arctic</i><par n="Barcelona__np"/></e>
 <e lm="Argentina">       <i>Argentina</i><par n="Barcelona__np"/></e>
 <e lm="Arizona">         <i>Arizona</i><par n="Barcelona__np"/></e>
 <e lm="Arkansas">        <i>Arkansas</i><par n="Mars__np"/></e>
+<e lm="Arlington">       <i>Arlington</i><par n="Barcelona__np"/></e>
 <e lm="Armenia">         <i>Armenia</i><par n="Barcelona__np"/></e>
 <e lm="Aruba">           <i>Aruba</i><par n="Barcelona__np"/></e>
 <e lm="Asia">            <i>Asia</i><par n="Barcelona__np"/></e>
+<e lm="Assyria">         <i>Assyria</i><par n="Barcelona__np"/></e>
 <e lm="Asturias">        <i>Asturias</i><par n="Barcelona__np"/></e>
 <e lm="Athens">          <i>Athens</i><par n="Barcelona__np"/></e>
 <e lm="Atlanta">         <i>Atlanta</i><par n="Barcelona__np"/></e>
 <e lm="Atlantic">        <i>Atlantic</i><par n="Barcelona__np"/></e>
+<e lm="Atlantis">        <i>Atlantis</i><par n="Barcelona__np"/></e>
 <e lm="Auckland">        <i>Auckland</i><par n="Barcelona__np"/></e>
 <e lm="Augsburg">        <i>Augsburg</i><par n="Barcelona__np"/></e>
+<e lm="Auschwitz">       <i>Auschwitz</i><par n="Barcelona__np"/></e>
 <e lm="Australia">       <i>Australia</i><par n="Barcelona__np"/></e>
 <e lm="Austria">         <i>Austria</i><par n="Barcelona__np"/></e>
+<e lm="Avignon">         <i>Avignon</i><par n="Barcelona__np"/></e>
 <e lm="Azerbaijan">      <i>Azerbaijan</i><par n="Barcelona__np"/></e>
 <e lm="Azores">          <i>Azores</i><par n="United_States__np"/></e>
+<e lm="Babylonia">       <i>Babylonia</i><par n="Barcelona__np"/></e>
+<e lm="Babylon">         <i>Babylon</i><par n="Barcelona__np"/></e>
+<e lm="Baden-Baden">     <i>Baden-Baden</i><par n="Barcelona__np"/></e>
 <e lm="Baghdad">         <i>Baghdad</i><par n="Barcelona__np"/></e>
 <e lm="Bahamas">         <i>Bahamas</i><par n="United_States__np"/></e>
 <e lm="Bahrain">         <i>Bahrain</i><par n="Barcelona__np"/></e>
+<e lm="Baku">            <i>Baku</i><par n="Barcelona__np"/></e>
+<e lm="Bali">            <i>Bali</i><par n="Barcelona__np"/></e>
 <e lm="Balkans">         <i>Balkans</i><par n="United_States__np"/></e>
+<e lm="Ballarat">        <i>Ballarat</i><par n="Barcelona__np"/></e>
+<e lm="Balochistan">     <i>Balochistan</i><par n="Barcelona__np"/></e>
+<e lm="Baltic">          <i>Baltic</i><par n="Barcelona__np"/></e>
 <e lm="Baltimore">       <i>Baltimore</i><par n="Barcelona__np"/></e>
 <e lm="Bangkok">         <i>Bangkok</i><par n="Barcelona__np"/></e>
 <e lm="Bangladesh">      <i>Bangladesh</i><par n="Barcelona__np"/></e>
@@ -41209,17 +41237,27 @@
 <e lm="Barcelona">       <i>Barcelona</i><par n="Barcelona__np"/></e>
 <e lm="Basauri">         <i>Basauri</i><par n="Barcelona__np"/></e>
 <e lm="Bavaria">         <i>Bavaria</i><par n="Barcelona__np"/></e>
+<e lm="Bayonne">         <i>Bayonne</i><par n="Barcelona__np"/></e>
+<e lm="Bayreuth">        <i>Bayreuth</i><par n="Barcelona__np"/></e>
+<e lm="Bedford">         <i>Bedford</i><par n="Barcelona__np"/></e>
 <e lm="Beijing">         <i>Beijing</i><par n="Barcelona__np"/></e>
 <e lm="Beirut">          <i>Beirut</i><par n="Barcelona__np"/></e>
+<e lm="Belarus">         <i>Belarus</i><par n="Barcelona__np"/></e>
 <e lm="Belfast">         <i>Belfast</i><par n="Barcelona__np"/></e>
 <e lm="Belgium">         <i>Belgium</i><par n="Barcelona__np"/></e>
 <e lm="Belgrade">        <i>Belgrade</i><par n="Barcelona__np"/></e>
 <e lm="Belize">          <i>Belize</i><par n="Barcelona__np"/></e>
 <e lm="Benin">           <i>Benin</i><par n="Barcelona__np"/></e>
+<e lm="Bentham">         <i>Bentham</i><par n="Barcelona__np"/></e>
+<e lm="Berkeley">        <i>Berkeley</i><par n="Barcelona__np"/></e>
 <e lm="Berlin">          <i>Berlin</i><par n="Barcelona__np"/></e>
 <e lm="Bermuda">         <i>Bermuda</i><par n="Barcelona__np"/></e>
 <e lm="Bermudas">        <i>Bermudas</i><par n="Barcelona__np"/></e>
 <e lm="Berne">           <i>Berne</i><par n="Barcelona__np"/></e>
+<e lm="Bern">            <i>Bern</i><par n="Barcelona__np"/></e>
+<e lm="Bessarabia">      <i>Bessarabia</i><par n="Barcelona__np"/></e>
+<e lm="Bethlehem">       <i>Bethlehem</i><par n="Barcelona__np"/></e>
+<e lm="Beverly Hills">   <i>Beverly<b/>Hills</i><par n="Barcelona__np"/></e>
 <e lm="Bhutan">          <i>Bhutan</i><par n="Barcelona__np"/></e>
 <e lm="Big Ben">         <i>Big<b/>Ben</i><par n="Barcelona__np"/></e>
 <e lm="Birmingham">      <i>Birmingham</i><par n="Barcelona__np"/></e>
@@ -41227,15 +41265,19 @@
 <e lm="Black Forest">    <i>Black<b/>Forest</i><par n="Barcelona__np"/></e>
 <e lm="Blackpool">       <i>Blackpool</i><par n="Barcelona__np"/></e>
 <e lm="Bogota">          <i>Bogota</i><par n="Barcelona__np"/></e>
+<e lm="Bohemia">         <i>Bohemia</i><par n="Barcelona__np"/></e>
 <e lm="Bolivia">         <i>Bolivia</i><par n="Barcelona__np"/></e>
+<e lm="Bollywood">       <i>Bollywood</i><par n="Barcelona__np"/></e>
+<e lm="Bologna">         <i>Bologna</i><par n="Barcelona__np"/></e>
 <e lm="Bombay">          <i>Bombay</i><par n="Barcelona__np"/></e>
 <e lm="Bonn">            <i>Bonn</i><par n="Barcelona__np"/></e>
 <e lm="Bordeaux">        <i>Bordeaux</i><par n="Barcelona__np"/></e>
-<e lm="Bosnia">          <i>Bosnia</i><par n="Barcelona__np"/></e>
 <e lm="Bosnia and Herzegovina"><i>Bosnia<b/>and<b/>Herzegovina</i><par n="Barcelona__np"/></e>
+<e lm="Bosnia">          <i>Bosnia</i><par n="Barcelona__np"/></e>
 <e lm="Boston">          <i>Boston</i><par n="Barcelona__np"/></e>
 <e lm="Botswana">        <i>Botswana</i><par n="Barcelona__np"/></e>
 <e lm="Bournemouth">     <i>Bournemouth</i><par n="Barcelona__np"/></e>
+<e lm="Brandenburg">     <i>Brandenburg</i><par n="Barcelona__np"/></e>
 <e lm="Brasilia">        <i>Brasilia</i><par n="Barcelona__np"/></e>
 <e lm="Brazil">          <i>Brazil</i><par n="Barcelona__np"/></e>
 <e lm="Bremen">          <i>Bremen</i><par n="Barcelona__np"/></e>
@@ -41243,14 +41285,18 @@
 <e lm="Brisbane">        <i>Brisbane</i><par n="Barcelona__np"/></e>
 <e lm="Bristol">         <i>Bristol</i><par n="Barcelona__np"/></e>
 <e lm="Britain">         <i>Britain</i><par n="Barcelona__np"/></e>
+<e lm="Britannia">       <i>Britannia</i><par n="Barcelona__np"/></e>
 <e lm="British Commonwealth"><i>British<b/>Commonwealth</i><par n="Barcelona__np"/></e>
 <e lm="Broadway">        <i>Broadway</i><par n="Barcelona__np"/></e>
 <e lm="Bronx">           <i>Bronx</i><par n="Barcelona__np"/></e>
 <e lm="Brunei">          <i>Brunei</i><par n="Barcelona__np"/></e>
+<e lm="Brunswick">       <i>Brunswick</i><par n="Barcelona__np"/></e>
 <e lm="Brussels">        <i>Brussels</i><par n="Barcelona__np"/></e>
 <e lm="Bucharest">       <i>Bucharest</i><par n="Barcelona__np"/></e>
+<e lm="Buckingham">      <i>Buckingham</i><par n="Barcelona__np"/></e>
 <e lm="Buckingham Palace"><i>Buckingham<b/>Palace</i><par n="Barcelona__np"/></e>
 <e lm="Budapest">        <i>Budapest</i><par n="Barcelona__np"/></e>
+<e lm="Buenos Aires">    <i>Buenos<b/>Aires</i><par n="Barcelona__np"/></e>
 <e lm="Buffalo">         <i>Buffalo</i><par n="Barcelona__np"/></e>
 <e lm="Bukhara">         <par n="Bb"/><i>ukhara</i><par n="Barcelona__np"/></e>
 <e lm="Bulgaria">        <i>Bulgaria</i><par n="Barcelona__np"/></e>
@@ -41259,8 +41305,10 @@
 <e lm="Burma">           <i>Burma</i><par n="Barcelona__np"/></e>
 <e lm="Burundi">         <i>Burundi</i><par n="Barcelona__np"/></e>
 <e lm="Byelorussia">     <i>Byelorussia</i><par n="Barcelona__np"/></e>
+<e lm="Byzantium">       <i>Byzantium</i><par n="Barcelona__np"/></e>
 <e lm="Cabo Verde">      <i>Cabo<b/>Verde</i><par n="Barcelona__np"/></e>
 <e lm="Cairo">           <i>Cairo</i><par n="Barcelona__np"/></e>
+<e lm="Calabria">        <i>Calabria</i><par n="Barcelona__np"/></e>
 <e lm="Calais">          <i>Calais</i><par n="Barcelona__np"/></e>
 <e lm="Calcutta">        <i>Calcutta</i><par n="Barcelona__np"/></e>
 <e lm="Calgary">         <i>Calgary</i><par n="Barcelona__np"/></e>
@@ -41273,85 +41321,121 @@
 <e lm="Canaries">        <i>Canaries</i><par n="United_States__np"/></e>
 <e lm="Canary Islands">  <par n="Cc"/><i>anary<b/>Islands</i><par n="United_States__np"/></e>
 <e lm="Canberra">        <i>Canberra</i><par n="Barcelona__np"/></e>
+<e lm="Cannes">          <i>Cannes</i><par n="Barcelona__np"/></e>
 <e lm="Cantabria">       <i>Cantabria</i><par n="Barcelona__np"/></e>
+<e lm="Canterbury">      <i>Canterbury</i><par n="Barcelona__np"/></e>
 <e lm="Cape Kennedy">    <i>Cape<b/>Kennedy</i><par n="Barcelona__np"/></e>
 <e lm="Cape Verde">      <i>Cape<b/>Verde</i><par n="Barcelona__np"/></e>
 <e lm="Capital Territory"><i>Capital<b/>Territory</i><par n="Barcelona__np"/></e>
+<e lm="Capitol">         <i>Capitol</i><par n="Barcelona__np"/></e>
 <e lm="Caracas">         <i>Caracas</i><par n="Barcelona__np"/></e>
 <e lm="Carcassonne">     <i>Carcassonne</i><par n="Barcelona__np"/></e>
 <e lm="Cardiff">         <i>Cardiff</i><par n="Barcelona__np"/></e>
 <e lm="Caribbean">       <i>Caribbean</i><par n="Barcelona__np"/></e>
 <e lm="Carthage">        <i>Carthage</i><par n="Barcelona__np"/></e>
 <e lm="Casablanca">      <i>Casablanca</i><par n="Barcelona__np"/></e>
+<e lm="Caspian Sea">     <i>Caspian<b/>Sea</i><par n="Barcelona__np"/></e>
 <e lm="Castile and Leon"><par n="Cc"/><i>astile<b/>and<b/>Leon</i><par n="Barcelona__np"/></e>
+<e lm="Castile">         <i>Castile</i><par n="Barcelona__np"/></e>
 <e lm="Catalonia">       <i>Catalonia</i><par n="Barcelona__np"/></e>
-<e lm="Central Africa">  <par n="Cc"/><i>entral<b/>Africa</i><par n="Barcelona__np"/></e>
+<e lm="Caucasus">        <i>Caucasus</i><par n="Barcelona__np"/></e>
+<e lm="Cayman Islands">  <i>Cayman<b/>Islands</i><par n="United_States__np"/></e>
 <e lm="Central African Republic"><i>Central<b/>African<b/>Republic</i><par n="Barcelona__np"/></e>
+<e lm="Central Africa">  <par n="Cc"/><i>entral<b/>Africa</i><par n="Barcelona__np"/></e>
 <e lm="Central America"> <par n="Cc"/><i>entral<b/>America</i><par n="Barcelona__np"/></e>
 <e lm="Central Europe">  <par n="Cc"/><i>entral<b/>Europe</i><par n="Barcelona__np"/></e>
 <e lm="Central Park">    <i>Central<b/>Park</i><par n="Barcelona__np"/></e>
 <e lm="Ceuta">           <i>Ceuta</i><par n="Barcelona__np"/></e>
 <e lm="Ceylon">          <i>Ceylon</i><par n="Barcelona__np"/></e>
 <e lm="Chad">            <i>Chad</i><par n="Barcelona__np"/></e>
+<e lm="Chennai">         <i>Chennai</i><par n="Barcelona__np"/></e>
+<e lm="Cheshire">        <i>Cheshire</i><par n="Barcelona__np"/></e>
+<e lm="Chester">         <i>Chester</i><par n="Barcelona__np"/></e>
 <e lm="Chicago">         <i>Chicago</i><par n="Barcelona__np"/></e>
 <e lm="Chile">           <i>Chile</i><par n="Barcelona__np"/></e>
 <e lm="China">           <i>China</i><par n="Barcelona__np"/></e>
+<e lm="Chinatown">       <i>Chinatown</i><par n="Barcelona__np"/></e>
 <e lm="Christiania">     <i>Christiania</i><par n="Barcelona__np"/></e>
 <e lm="Chuvashia">       <i>Chuvashia</i><par n="Barcelona__np"/></e>
+<e lm="Cincinnati">      <i>Cincinnati</i><par n="Barcelona__np"/></e>
 <e lm="Cleveland">       <i>Cleveland</i><par n="Barcelona__np"/></e>
 <e lm="Cologne">         <i>Cologne</i><par n="Barcelona__np"/></e>
 <e lm="Colombia">        <i>Colombia</i><par n="Barcelona__np"/></e>
 <e lm="Colorado">        <i>Colorado</i><par n="Barcelona__np"/></e>
 <e lm="Columbia">        <i>Columbia</i><par n="Barcelona__np"/></e>
+<e lm="Commonwealth">    <i>Commonwealth</i><par n="Barcelona__np"/></e>
 <e lm="Comoros">         <i>Comoros</i><par n="United_States__np"/></e>
 <e lm="Congo">           <i>Congo</i><par n="Barcelona__np"/></e>
+<e lm="Connecticut">     <i>Connecticut</i><par n="Barcelona__np"/></e>
+<e lm="Constantinople">  <i>Constantinople</i><par n="Barcelona__np"/></e>
 <e lm="Copenhagen">      <i>Copenhagen</i><par n="Barcelona__np"/></e>
+<e lm="Córdoba">         <i>Córdoba</i><par n="Barcelona__np"/></e>
 <e lm="Cork">            <i>Cork</i><par n="Barcelona__np"/></e>
 <e lm="Cornwall">        <i>Cornwall</i><par n="Barcelona__np"/></e>
+<e lm="Corsica">         <i>Corsica</i><par n="Barcelona__np"/></e>
 <e lm="Costa Blanca">    <i>Costa<b/>Blanca</i><par n="Barcelona__np"/></e>
 <e lm="Costa Brava">     <i>Costa<b/>Brava</i><par n="Barcelona__np"/></e>
 <e lm="Costa del Sol">   <i>Costa<b/>del<b/>Sol</i><par n="Barcelona__np"/></e>
 <e lm="Costa Rica">      <i>Costa<b/>Rica</i><par n="Barcelona__np"/></e>
 <e lm="Covent Garden">   <i>Covent<b/>Garden</i><par n="Barcelona__np"/></e>
 <e lm="Coventry">        <i>Coventry</i><par n="Barcelona__np"/></e>
+<e lm="Crete">           <i>Crete</i><par n="Barcelona__np"/></e>
+<e lm="Crimea">          <i>Crimea</i><par n="Barcelona__np"/></e>
 <e lm="Croatia">         <i>Croatia</i><par n="Barcelona__np"/></e>
 <e lm="Cuba">            <i>Cuba</i><par n="Barcelona__np"/></e>
+<e lm="Cumberland">      <i>Cumberland</i><par n="Barcelona__np"/></e>
 <e lm="Cyprus">          <i>Cyprus</i><par n="Barcelona__np"/></e>
-<e lm="Czech Republic">  <i>Czech<b/>Republic</i><par n="Barcelona__np"/></e>
 <e lm="Czechoslovakia">  <i>Czechoslovakia</i><par n="Barcelona__np"/></e>
+<e lm="Czech Republic">  <i>Czech<b/>Republic</i><par n="Barcelona__np"/></e>
 <e lm="Dakar">           <i>Dakar</i><par n="Barcelona__np"/></e>
 <e lm="Dallas">          <i>Dallas</i><par n="Barcelona__np"/></e>
+<e lm="Dalmatia">        <i>Dalmatia</i><par n="Barcelona__np"/></e>
 <e lm="Damascus">        <i>Damascus</i><par n="Barcelona__np"/></e>
 <e lm="Danube">          <i>Danube</i><par n="Barcelona__np"/></e>
+<e lm="Dartmoor">        <i>Dartmoor</i><par n="Barcelona__np"/></e>
+<e lm="Dartmouth">       <i>Dartmouth</i><par n="Barcelona__np"/></e>
 <e lm="Delaware">        <i>Delaware</i><par n="Barcelona__np"/></e>
+<e lm="Delhi">           <i>Delhi</i><par n="Barcelona__np"/></e>
 <e lm="Denmark">         <i>Denmark</i><par n="Barcelona__np"/></e>
 <e lm="Denver">          <i>Denver</i><par n="Barcelona__np"/></e>
 <e lm="Detroit">         <i>Detroit</i><par n="Barcelona__np"/></e>
 <e lm="Djibouti">        <i>Djibouti</i><par n="Barcelona__np"/></e>
 <e lm="Donegal">         <i>Donegal</i><par n="Barcelona__np"/></e>
+<e lm="Dorset">          <i>Dorset</i><par n="Barcelona__np"/></e>
 <e lm="Dover">           <i>Dover</i><par n="Barcelona__np"/></e>
 <e lm="Dresden">         <i>Dresden</i><par n="Barcelona__np"/></e>
+<e lm="Dubai">           <i>Dubai</i><par n="Barcelona__np"/></e>
 <e lm="Dublin">          <i>Dublin</i><par n="Barcelona__np"/></e>
+<e lm="Durham">          <i>Durham</i><par n="Barcelona__np"/></e>
 <e lm="East Africa">     <i>East<b/>Africa</i><par n="Barcelona__np"/></e>
-<e lm="East Timor">      <i>East<b/>Timor</i><par n="Barcelona__np"/></e>
+<e lm="East Anglia">     <i>East<b/>Anglia</i><par n="Barcelona__np"/></e>
 <e lm="Eastern Europe">  <par n="Ee"/><i>astern<b/>Europe</i><par n="Barcelona__np"/></e>
 <e lm="Easthampton">     <i>Easthampton</i><par n="Barcelona__np"/></e>
+<e lm="East Timor">      <i>East<b/>Timor</i><par n="Barcelona__np"/></e>
 <e lm="Ecuador">         <i>Ecuador</i><par n="Barcelona__np"/></e>
 <e lm="Edinburgh">       <i>Edinburgh</i><par n="Barcelona__np"/></e>
 <e lm="Edmonton">        <i>Edmonton</i><par n="Barcelona__np"/></e>
 <e lm="Egypt">           <i>Egypt</i><par n="Barcelona__np"/></e>
+<e lm="Eindhoven">       <i>Eindhoven</i><par n="Barcelona__np"/></e>
+<e lm="Elbe">            <i>Elbe</i><par n="Barcelona__np"/></e>
 <e lm="El Salvador">     <i>El<b/>Salvador</i><par n="Barcelona__np"/></e>
 <e lm="Empire State Building"><i>Empire<b/>State<b/>Building</i><par n="Barcelona__np"/></e>
 <e lm="England">         <i>England</i><par n="Barcelona__np"/></e>
 <e lm="Eritrea">         <i>Eritrea</i><par n="Barcelona__np"/></e>
 <e lm="Essen">           <i>Essen</i><par n="Barcelona__np"/></e>
+<e lm="Essex">           <i>Essex</i><par n="Barcelona__np"/></e>
 <e lm="Estonia">         <i>Estonia</i><par n="Barcelona__np"/></e>
 <e lm="Ethiopia">        <i>Ethiopia</i><par n="Barcelona__np"/></e>
+<e lm="Euphrates">       <i>Euphrates</i><par n="Barcelona__np"/></e>
 <e lm="Eurasia">         <i>Eurasia</i><par n="Barcelona__np"/></e>
-<e lm="Europe">          <i>Europe</i><par n="Barcelona__np"/></e>
 <e lm="European Union">  <i>European<b/>Union</i><par n="Barcelona__np"/></e>
+<e lm="Europe">          <i>Europe</i><par n="Barcelona__np"/></e>
+<e lm="Everest">         <i>Everest</i><par n="Barcelona__np"/></e>
+<e lm="Exeter">          <i>Exeter</i><par n="Barcelona__np"/></e>
 <e lm="Extremadura">     <i>Extremadura</i><par n="Barcelona__np"/></e>
+<e lm="Falkland">        <i>Falkland</i><par n="Barcelona__np"/></e>
 <e lm="Falklands">       <i>Falklands</i><par n="United_States__np"/></e>
+<e lm="Faroe Islands">   <i>Faroe<b/>Islands</i><par n="United_States__np"/></e>
 <e lm="Fifth Avenue">    <i>Fifth<b/>Avenue</i><par n="Barcelona__np"/></e>
 <e lm="Fiji">            <i>Fiji</i><par n="Barcelona__np"/></e>
 <e lm="Finchley">        <i>Finchley</i><par n="Barcelona__np"/></e>
@@ -41362,9 +41446,6 @@
 <e lm="France">          <i>France</i><par n="Barcelona__np"/></e>
 <e lm="Franconia">       <par n="Ff"/><i>ranconia</i><par n="Barcelona__np"/></e>
 <e lm="Frankfurt">       <i>Frankfurt</i><par n="Barcelona__np"/></e>
-<e r="LR" lm="FYR Macedonia"><p><l>FYR<b/>Macedonia</l><r>Macedonia</r></p><par n="Barcelona__np"/></e>
-<e r="LR" lm="FYRM">     <p><l>FYRM</l>      <r>Macedonia</r></p><par n="Barcelona__np"/></e>
-<e r="LR" lm="FYROM">    <p><l>FYROM</l>     <r>Macedonia</r></p><par n="Barcelona__np"/></e>
 <e lm="Gabon">           <i>Gabon</i><par n="Barcelona__np"/></e>
 <e lm="Galicia">         <i>Galicia</i><par n="Barcelona__np"/></e>
 <e lm="Galloway">        <i>Galloway</i><par n="Barcelona__np"/></e>
@@ -41374,37 +41455,57 @@
 <e lm="Gaza Strip">      <i>Gaza<b/>Strip</i><par n="Barcelona__np"/></e>
 <e lm="Geneva">          <i>Geneva</i><par n="Barcelona__np"/></e>
 <e lm="Georgia">         <i>Georgia</i><par n="Barcelona__np"/></e>
+<e lm="Germania">        <i>Germania</i><par n="Barcelona__np"/></e>
 <e lm="Germany">         <i>Germany</i><par n="Barcelona__np"/></e>
+<e lm="Gettysburg">      <i>Gettysburg</i><par n="Barcelona__np"/></e>
 <e lm="Ghana">           <i>Ghana</i><par n="Barcelona__np"/></e>
 <e lm="Gibraltar">       <i>Gibraltar</i><par n="Barcelona__np"/></e>
 <e lm="Girona">          <i>Girona</i><par n="Barcelona__np"/></e>
 <e lm="Glasgow">         <i>Glasgow</i><par n="Barcelona__np"/></e>
+<e lm="Gloucester">      <i>Gloucester</i><par n="Barcelona__np"/></e>
+<e lm="Gloucestershire"> <i>Gloucestershire</i><par n="Barcelona__np"/></e>
+<e lm="Gothenburg">      <i>Gothenburg</i><par n="Barcelona__np"/></e>
 <e lm="Gotland">         <i>Gotland</i><par n="Barcelona__np"/></e>
+<e lm="Göttingen">       <i>Göttingen</i><par n="Barcelona__np"/></e>
+<e lm="Granada">         <i>Granada</i><par n="Barcelona__np"/></e>
 <e lm="Great Britain">   <i>Great<b/>Britain</i><par n="Barcelona__np"/></e>
 <e lm="Greece">          <i>Greece</i><par n="Barcelona__np"/></e>
 <e lm="Greenland">       <i>Greenland</i><par n="Barcelona__np"/></e>
 <e lm="Greenwich">       <i>Greenwich</i><par n="Barcelona__np"/></e>
 <e lm="Grenada">         <i>Grenada</i><par n="Barcelona__np"/></e>
+<e lm="Greyhawk">        <i>Greyhawk</i><par n="Barcelona__np"/></e>
 <e lm="Grindavík">       <i>Grindavík</i><par n="Barcelona__np"/></e>
 <e lm="Guadeloupe">      <i>Guadeloupe</i><par n="Barcelona__np"/></e>
 <e lm="Guam">            <i>Guam</i><par n="Barcelona__np"/></e>
+<e lm="Guangzhou">       <i>Guangzhou</i><par n="Barcelona__np"/></e>
 <e lm="Guatemala">       <i>Guatemala</i><par n="Barcelona__np"/></e>
-<e lm="Guinea">          <i>Guinea</i><par n="Barcelona__np"/></e>
+<e lm="Guernsey">        <i>Guernsey</i><par n="Barcelona__np"/></e>
 <e lm="Guinea-Bissau">   <i>Guinea-Bissau</i><par n="Barcelona__np"/></e>
+<e lm="Guinea">          <i>Guinea</i><par n="Barcelona__np"/></e>
 <e lm="Gulf of Mexico">  <i>Gulf<b/>of<b/>Mexico</i><par n="Barcelona__np"/></e>
 <e lm="Guyana">          <i>Guyana</i><par n="Barcelona__np"/></e>
 <e lm="Haiti">           <i>Haiti</i><par n="Barcelona__np"/></e>
 <e lm="Halle">           <i>Halle</i><par n="Barcelona__np"/></e>
 <e lm="Hamburg">         <i>Hamburg</i><par n="Barcelona__np"/></e>
 <e lm="Hammerstone">     <i>Hammerstone</i><par n="Barcelona__np"/></e>
+<e lm="Hampshire">       <i>Hampshire</i><par n="Barcelona__np"/></e>
+<e lm="Hampton">         <i>Hampton</i><par n="Barcelona__np"/></e>
 <e lm="Hanover">         <i>Hanover</i><par n="Barcelona__np"/></e>
 <e lm="Harlem">          <i>Harlem</i><par n="Barcelona__np"/></e>
+<e lm="Hastings">        <i>Hastings</i><par n="Barcelona__np"/></e>
+<e lm="Hatfield">        <i>Hatfield</i><par n="Barcelona__np"/></e>
 <e lm="Havana">          <i>Havana</i><par n="Barcelona__np"/></e>
 <e lm="Hawaii">          <i>Hawaii</i><par n="Barcelona__np"/></e>
 <e lm="Heathrow">        <i>Heathrow</i><par n="Barcelona__np"/></e>
+<e lm="Hebron">          <i>Hebron</i><par n="Barcelona__np"/></e>
+<e lm="Heidelberg">      <i>Heidelberg</i><par n="Barcelona__np"/></e>
 <e lm="Helsinki">        <i>Helsinki</i><par n="Barcelona__np"/></e>
+<e lm="Herzegovina">     <i>Herzegovina</i><par n="Barcelona__np"/></e>
 <e lm="Hewler">          <i>Hewler</i><par n="Barcelona__np"/></e>
+<e lm="Himalayas">       <i>Himalayas</i><par n="United_States__np"/></e>
 <e lm="Hindu Kush">      <i>Hindu<b/>Kush</i><par n="Barcelona__np"/></e>
+<e lm="Hiroshima">       <i>Hiroshima</i><par n="Barcelona__np"/></e>
+<e lm="Hispania">        <i>Hispania</i><par n="Barcelona__np"/></e>
 <e lm="Hofshreppur">     <i>Hofshreppur</i><par n="Barcelona__np"/></e>
 <e lm="Holland">         <i>Holland</i><par n="Barcelona__np"/></e>
 <e lm="Hollywood">       <i>Hollywood</i><par n="Barcelona__np"/></e>
@@ -41412,14 +41513,18 @@
 <e lm="Holyrood">        <i>Holyrood</i><par n="Barcelona__np"/></e>
 <e lm="Honduras">        <i>Honduras</i><par n="Barcelona__np"/></e>
 <e lm="Hong Kong">       <i>Hong<b/>Kong</i><par n="Barcelona__np"/></e>
+<e lm="Honolulu">        <i>Honolulu</i><par n="Barcelona__np"/></e>
 <e lm="Houston">         <i>Houston</i><par n="Barcelona__np"/></e>
 <e lm="Hungary">         <i>Hungary</i><par n="Barcelona__np"/></e>
 <e lm="Hyde Park">       <i>Hyde<b/>Park</i><par n="Barcelona__np"/></e>
+<e lm="Iberia">          <i>Iberia</i><par n="Barcelona__np"/></e>
 <e lm="Ibiza">           <i>Ibiza</i><par n="Barcelona__np"/></e>
 <e lm="Iceland">         <i>Iceland</i><par n="Barcelona__np"/></e>
 <e lm="Illinois">        <i>Illinois</i><par n="Barcelona__np"/></e>
 <e lm="India">           <i>India</i><par n="Barcelona__np"/></e>
 <e lm="Indiana">         <i>Indiana</i><par n="Barcelona__np"/></e>
+<e lm="Indianapolis">    <i>Indianapolis</i><par n="Barcelona__np"/></e>
+<e lm="Indochina">       <i>Indochina</i><par n="Barcelona__np"/></e>
 <e lm="Indonesia">       <i>Indonesia</i><par n="Barcelona__np"/></e>
 <e lm="Inverness">       <i>Inverness</i><par n="Barcelona__np"/></e>
 <e lm="Iowa">            <i>Iowa</i><par n="Barcelona__np"/></e>
@@ -41427,8 +41532,11 @@
 <e lm="Iraq">            <i>Iraq</i><par n="Barcelona__np"/></e>
 <e lm="Ireland">         <i>Ireland</i><par n="Barcelona__np"/></e>
 <e lm="Islamabad">       <i>Islamabad</i><par n="Barcelona__np"/></e>
+<e lm="Isle of Wight">   <i>Isle<b/>of<b/>Wight</i><par n="Barcelona__np"/></e>
 <e lm="Israel">          <i>Israel</i><par n="Barcelona__np"/></e>
+<e lm="Istanbul">        <i>Istanbul</i><par n="Barcelona__np"/></e>
 <e lm="Italy">           <i>Italy</i><par n="Barcelona__np"/></e>
+<e lm="Ithaca">          <i>Ithaca</i><par n="Barcelona__np"/></e>
 <e lm="Ivory Coast">     <i>Ivory<b/>Coast</i><par n="Barcelona__np"/></e>
 <e lm="Jakarta">         <i>Jakarta</i><par n="Barcelona__np"/></e>
 <e lm="Jamaica">         <i>Jamaica</i><par n="Barcelona__np"/></e>
@@ -41441,49 +41549,73 @@
 <e lm="Jutland">         <i>Jutland</i><par n="Barcelona__np"/></e>
 <e lm="Kabul">           <i>Kabul</i><par n="Barcelona__np"/></e>
 <e lm="Kansas">          <i>Kansas</i><par n="Barcelona__np"/></e>
+<e lm="Karachi">         <i>Karachi</i><par n="Barcelona__np"/></e>
+<e lm="Kashmir">         <i>Kashmir</i><par n="Barcelona__np"/></e>
+<e lm="Kathmandu">       <i>Kathmandu</i><par n="Barcelona__np"/></e>
 <e lm="Kavala">          <i>Kavala</i><par n="Barcelona__np"/></e>
 <e lm="Kazakhstan">      <i>Kazakhstan</i><par n="Barcelona__np"/></e>
 <e lm="Keflavík">        <i>Keflavík</i><par n="Barcelona__np"/></e>
 <e lm="Kentucky">        <i>Kentucky</i><par n="Barcelona__np"/></e>
 <e lm="Kenya">           <i>Kenya</i><par n="Barcelona__np"/></e>
+<e lm="Kiev">            <i>Kiev</i><par n="Barcelona__np"/></e>
+<e lm="Kingston">        <i>Kingston</i><par n="Barcelona__np"/></e>
 <e lm="Kiribati">        <i>Kiribati</i><par n="Barcelona__np"/></e>
 <e lm="Korea">           <i>Korea</i><par n="Barcelona__np"/></e>
 <e lm="Kos">             <i>Kos</i><par n="Barcelona__np"/></e>
 <e lm="Kosovo">          <i>Kosovo</i><par n="Barcelona__np"/></e>
+<e lm="Kraków">          <i>Kraków</i><par n="Barcelona__np"/></e>
+<e lm="Kuala Lumpur">    <i>Kuala<b/>Lumpur</i><par n="Barcelona__np"/></e>
 <e lm="Kurdistan">       <i>Kurdistan</i><par n="Barcelona__np"/></e>
 <e lm="Kuwait">          <i>Kuwait</i><par n="Barcelona__np"/></e>
+<e lm="Kyoto">           <i>Kyoto</i><par n="Barcelona__np"/></e>
 <e lm="Kyrgyzstan">      <i>Kyrgyzstan</i><par n="Barcelona__np"/></e>
+<e lm="Labrador">        <i>Labrador</i><par n="Barcelona__np"/></e>
 <e lm="Lagkadikia">      <i>Lagkadikia</i><par n="Barcelona__np"/></e>
 <e lm="Lake Baikal">     <i>Lake<b/>Baikal</i><par n="Barcelona__np"/></e>
 <e lm="Lake Constance">  <i>Lake<b/>Constance</i><par n="Barcelona__np"/></e>
 <e lm="Lake District">   <i>Lake<b/>District</i><par n="Barcelona__np"/></e>
+<e lm="Lancaster">       <i>Lancaster</i><par n="Barcelona__np"/></e>
 <e lm="Landspítali">     <i>Landspítali</i><par n="Barcelona__np"/></e>
 <e lm="Laos">            <i>Laos</i><par n="Barcelona__np"/></e>
+<e lm="Las Vegas">       <i>Las<b/>Vegas</i><par n="Barcelona__np"/></e>
 <e lm="Latin America">   <i>Latin<b/>America</i><par n="Barcelona__np"/></e>
 <e lm="Latvia">          <i>Latvia</i><par n="Barcelona__np"/></e>
+<e lm="Lausanne">        <i>Lausanne</i><par n="Barcelona__np"/></e>
 <e lm="Lebanon">         <i>Lebanon</i><par n="Barcelona__np"/></e>
 <e lm="Leeds">           <i>Leeds</i><par n="Barcelona__np"/></e>
+<e lm="Leicester">       <i>Leicester</i><par n="Barcelona__np"/></e>
+<e lm="Leipzig">         <i>Leipzig</i><par n="Barcelona__np"/></e>
+<e lm="Leningrad">       <i>Leningrad</i><par n="Barcelona__np"/></e>
 <e lm="Lesotho">         <i>Lesotho</i><par n="Barcelona__np"/></e>
 <e lm="Liberia">         <i>Liberia</i><par n="Barcelona__np"/></e>
 <e lm="Libya">           <i>Libya</i><par n="Barcelona__np"/></e>
 <e lm="Liechtenstein">   <i>Liechtenstein</i><par n="Barcelona__np"/></e>
 <e lm="Lima">            <i>Lima</i><par n="Barcelona__np"/></e>
+<e lm="Limburg">         <i>Limburg</i><par n="Barcelona__np"/></e>
 <e lm="Lisbon">          <i>Lisbon</i><par n="Barcelona__np"/></e>
 <e lm="Lithuania">       <i>Lithuania</i><par n="Barcelona__np"/></e>
 <e lm="Liverpool">       <i>Liverpool</i><par n="Barcelona__np"/></e>
+<e lm="Ljubljana">       <i>Ljubljana</i><par n="Barcelona__np"/></e>
 <e lm="Lleida">          <i>Lleida</i><par n="Barcelona__np"/></e>
 <e lm="Loch Ness">       <i>Loch<b/>Ness</i><par n="Barcelona__np"/></e>
-<e lm="London">          <i>London</i><par n="Barcelona__np"/></e>
 <e lm="London Bridge">   <i>London<b/>Bridge</i><par n="Barcelona__np"/></e>
+<e lm="London">          <i>London</i><par n="Barcelona__np"/></e>
 <e lm="Lorraine">        <i>Lorraine</i><par n="Barcelona__np"/></e>
 <e lm="Los Angeles">     <i>Los<b/>Angeles</i><par n="Barcelona__np"/></e>
 <e lm="Louisiana">       <i>Louisiana</i><par n="Barcelona__np"/></e>
 <e lm="Lower Saxony">    <i>Lower<b/>Saxony</i><par n="Barcelona__np"/></e>
 <e lm="Lucerne">         <i>Lucerne</i><par n="Barcelona__np"/></e>
 <e lm="Luxembourg">      <i>Luxembourg</i><par n="Barcelona__np"/></e>
+<e lm="Lyon">            <i>Lyon</i><par n="Barcelona__np"/></e>
+<e lm="Maastricht">      <i>Maastricht</i><par n="Barcelona__np"/></e>
+<e lm="Macau">           <i>Macau</i><par n="Barcelona__np"/></e>
 <e lm="Macedonia">       <i>Macedonia</i><par n="Barcelona__np"/></e>
 <e lm="Madagascar">      <i>Madagascar</i><par n="Barcelona__np"/></e>
+<e lm="Madeira">         <i>Madeira</i><par n="Barcelona__np"/></e>
 <e lm="Madrid">          <i>Madrid</i><par n="Barcelona__np"/></e>
+<e lm="Magdeburg">       <i>Magdeburg</i><par n="Barcelona__np"/></e>
+<e lm="Maghreb">         <i>Maghreb</i><par n="Barcelona__np"/></e>
+<e lm="Maharashtra">     <i>Maharashtra</i><par n="Barcelona__np"/></e>
 <e lm="Maine">           <i>Maine</i><par n="Barcelona__np"/></e>
 <e lm="Mainz">           <i>Mainz</i><par n="Barcelona__np"/></e>
 <e lm="Majorca">         <i>Majorca</i><par n="Barcelona__np"/></e>
@@ -41497,39 +41629,53 @@
 <e lm="Mallorca">        <i>Mallorca</i><par n="Barcelona__np"/></e>
 <e lm="Malta">           <i>Malta</i><par n="Barcelona__np"/></e>
 <e lm="Manchester">      <i>Manchester</i><par n="Barcelona__np"/></e>
+<e lm="Manchuria">       <i>Manchuria</i><par n="Barcelona__np"/></e>
 <e lm="Manhattan">       <i>Manhattan</i><par n="Barcelona__np"/></e>
+<e lm="Manila">          <i>Manila</i><par n="Barcelona__np"/></e>
 <e lm="Margate">         <i>Margate</i><par n="Barcelona__np"/></e>
-<e lm="Mars">            <i>Mars</i><par n="Barcelona__np"/></e>
+<e lm="Marlborough">     <i>Marlborough</i><par n="Barcelona__np"/></e>
+<e lm="Marseille">       <i>Marseille</i><par n="Barcelona__np"/></e>
 <e lm="Marseilles">      <i>Marseilles</i><par n="Barcelona__np"/></e>
 <e lm="Marshall Islands"><i>Marshall<b/>Islands</i><par n="United_States__np"/></e>
+<e lm="Mars">            <i>Mars</i><par n="Barcelona__np"/></e>
 <e lm="Martinique">      <i>Martinique</i><par n="Barcelona__np"/></e>
 <e lm="Maryland">        <i>Maryland</i><par n="Barcelona__np"/></e>
 <e lm="Massachusetts">   <i>Massachusetts</i><par n="Mars__np"/></e>
 <e lm="Massachussetts">  <i>Massachussetts</i><par n="Barcelona__np"/></e>
 <e lm="Mauritania">      <i>Mauritania</i><par n="Barcelona__np"/></e>
 <e lm="Mauritius">       <i>Mauritius</i><par n="Barcelona__np"/></e>
+<e lm="Mecca">           <i>Mecca</i><par n="Barcelona__np"/></e>
+<e lm="Mecklenburg">     <i>Mecklenburg</i><par n="Barcelona__np"/></e>
+<e lm="Medina">          <i>Medina</i><par n="Barcelona__np"/></e>
 <e lm="Mediterranean">   <i>Mediterranean</i><par n="Barcelona__np"/></e>
 <e lm="Mediterranean Sea"><i>Mediterranean<b/>Sea</i><par n="Barcelona__np"/></e>
 <e lm="Melanesia">       <i>Melanesia</i><par n="Barcelona__np"/></e>
 <e lm="Melbourne">       <i>Melbourne</i><par n="Barcelona__np"/></e>
 <e lm="Melilla">         <i>Melilla</i><par n="Barcelona__np"/></e>
+<e lm="Memphis">         <i>Memphis</i><par n="Barcelona__np"/></e>
 <e lm="Mercury">         <i>Mercury</i><par n="Barcelona__np"/></e>
 <e lm="Mesopotamia">     <i>Mesopotamia</i><par n="Barcelona__np"/></e>
 <e lm="Mexico">          <i>Mexico</i><par n="Barcelona__np"/></e>
 <e lm="Miami">           <i>Miami</i><par n="Barcelona__np"/></e>
 <e lm="Michigan">        <i>Michigan</i><par n="Barcelona__np"/></e>
 <e lm="Micronesia">      <i>Micronesia</i><par n="Barcelona__np"/></e>
+<e lm="Midlands">        <i>Midlands</i><par n="Barcelona__np"/></e>
 <e lm="Midlands">        <i>Midlands</i><par n="United_States__np"/></e>
+<e lm="Midwest">         <i>Midwest</i><par n="Barcelona__np"/></e>
 <e lm="Milan">           <i>Milan</i><par n="Barcelona__np"/></e>
+<e lm="Milwaukee">       <i>Milwaukee</i><par n="Barcelona__np"/></e>
 <e lm="Minneapolis">     <i>Minneapolis</i><par n="Barcelona__np"/></e>
 <e lm="Minnesota">       <i>Minnesota</i><par n="Barcelona__np"/></e>
 <e lm="Mississippi">     <i>Mississippi</i><par n="Barcelona__np"/></e>
 <e lm="Missouri">        <i>Missouri</i><par n="Barcelona__np"/></e>
+<e lm="Moldavia">        <i>Moldavia</i><par n="Barcelona__np"/></e>
 <e lm="Moldova">         <i>Moldova</i><par n="Barcelona__np"/></e>
 <e lm="Monaco">          <i>Monaco</i><par n="Barcelona__np"/></e>
 <e lm="Mongolia">        <i>Mongolia</i><par n="Barcelona__np"/></e>
+<e lm="Monroe">          <i>Monroe</i><par n="Barcelona__np"/></e>
 <e lm="Monrovia">        <i>Monrovia</i><par n="Barcelona__np"/></e>
 <e lm="Montenegro">      <i>Montenegro</i><par n="Barcelona__np"/></e>
+<e lm="Monterey">        <i>Monterey</i><par n="Barcelona__np"/></e>
 <e lm="Montevideo">      <i>Montevideo</i><par n="Barcelona__np"/></e>
 <e lm="Montjuïc">        <i>Montjuïc</i><par n="Barcelona__np"/></e>
 <e lm="Montpellier">     <i>Montpellier</i><par n="Barcelona__np"/></e>
@@ -41541,51 +41687,68 @@
 <e lm="Mumbai">          <i>Mumbai</i><par n="Barcelona__np"/></e>
 <e lm="Munich">          <i>Munich</i><par n="Barcelona__np"/></e>
 <e lm="Murcia">          <i>Murcia</i><par n="Barcelona__np"/></e>
+<e lm="Myanmar">         <i>Myanmar</i><par n="Barcelona__np"/></e>
+<e lm="Nagasaki">        <i>Nagasaki</i><par n="Barcelona__np"/></e>
+<e lm="Nairobi">         <i>Nairobi</i><par n="Barcelona__np"/></e>
 <e lm="Namibia">         <i>Namibia</i><par n="Barcelona__np"/></e>
+<e lm="Nanjing">         <i>Nanjing</i><par n="Barcelona__np"/></e>
+<e lm="Naples">          <i>Naples</i><par n="Barcelona__np"/></e>
+<e lm="Nashville">       <i>Nashville</i><par n="Barcelona__np"/></e>
+<e lm="Nassau">          <i>Nassau</i><par n="Barcelona__np"/></e>
 <e lm="Nauru">           <i>Nauru</i><par n="Barcelona__np"/></e>
 <e lm="Navarra">         <i>Navarra</i><par n="Barcelona__np"/></e>
+<e lm="Navarre">         <i>Navarre</i><par n="Barcelona__np"/></e>
 <e lm="Nazareth">        <i>Nazareth</i><par n="Barcelona__np"/></e>
 <e lm="Nebraska">        <i>Nebraska</i><par n="Barcelona__np"/></e>
 <e lm="Nepal">           <i>Nepal</i><par n="Barcelona__np"/></e>
 <e lm="Neptune">         <i>Neptune</i><par n="Barcelona__np"/></e>
 <e lm="Netherlands">     <par n="Nn"/><i>etherlands</i><par n="Barcelona__np"/></e>
 <e lm="Nevada">          <i>Nevada</i><par n="Barcelona__np"/></e>
+<e lm="Nevis">           <i>Nevis</i><par n="Barcelona__np"/></e>
+<e lm="Newark">          <i>Newark</i><par n="Barcelona__np"/></e>
+<e lm="Newcastle">       <i>Newcastle</i><par n="Barcelona__np"/></e>
 <e lm="New Delhi">       <i>New<b/>Delhi</i><par n="Barcelona__np"/></e>
+<e lm="Newfoundland">    <i>Newfoundland</i><par n="Barcelona__np"/></e>
 <e lm="New Orleans">     <i>New<b/>Orleans</i><par n="Barcelona__np"/></e>
 <e lm="New York">        <i>New<b/>York</i><par n="Barcelona__np"/></e>
 <e lm="New Zealand">     <i>New<b/>Zealand</i><par n="Barcelona__np"/></e>
-<e r="LR" lm="New-Zealand"><i>New-Zealand</i><par n="Barcelona__np"/></e>
-<e lm="Newcastle">       <i>Newcastle</i><par n="Barcelona__np"/></e>
-<e lm="Newfoundland">    <i>Newfoundland</i><par n="Barcelona__np"/></e>
 <e lm="Nicaragua">       <i>Nicaragua</i><par n="Barcelona__np"/></e>
 <e lm="Nice">            <i>Nice</i><par n="Barcelona__np"/></e>
-<e lm="Niger">           <i>Niger</i><par n="Barcelona__np"/></e>
 <e lm="Nigeria">         <i>Nigeria</i><par n="Barcelona__np"/></e>
+<e lm="Niger">           <i>Niger</i><par n="Barcelona__np"/></e>
 <e lm="Nikosea">         <i>Nikosea</i><par n="Barcelona__np"/></e>
 <e lm="Nile">            <i>Nile</i><par n="Barcelona__np"/></e>
 <e lm="Norfolk">         <i>Norfolk</i><par n="Barcelona__np"/></e>
 <e lm="Normandy">        <i>Normandy</i><par n="Barcelona__np"/></e>
 <e lm="North America">   <i>North<b/>America</i><par n="Barcelona__np"/></e>
+<e lm="Northern Europe"> <par n="Nn"/><i>orthern<b/>Europe</i><par n="Barcelona__np"/></e>
 <e lm="North Korea">     <i>North<b/>Korea</i><par n="Barcelona__np"/></e>
+<e lm="North-Korea">     <i>North-Korea</i><par n="Barcelona__np"/></e>
 <e lm="North Pole">      <i>North<b/>Pole</i><par n="Barcelona__np"/></e>
 <e lm="North Sea">       <i>North<b/>Sea</i><par n="Barcelona__np"/></e>
-<e lm="North-Korea">     <i>North-Korea</i><par n="Barcelona__np"/></e>
-<e lm="Northern Europe"> <par n="Nn"/><i>orthern<b/>Europe</i><par n="Barcelona__np"/></e>
+<e lm="Northumbria">     <i>Northumbria</i><par n="Barcelona__np"/></e>
 <e lm="Norway">          <i>Norway</i><par n="Barcelona__np"/></e>
 <e lm="Norwich">         <i>Norwich</i><par n="Barcelona__np"/></e>
 <e lm="Nottingham">      <i>Nottingham</i><par n="Barcelona__np"/></e>
+<e lm="Nova Scotia">     <i>Nova<b/>Scotia</i><par n="Barcelona__np"/></e>
+<e lm="Nuremberg">       <i>Nuremberg</i><par n="Barcelona__np"/></e>
+<e lm="Oakland">         <i>Oakland</i><par n="Barcelona__np"/></e>
 <e lm="Oceania">         <i>Oceania</i><par n="Barcelona__np"/></e>
 <e lm="Ohio">            <i>Ohio</i><par n="Barcelona__np"/></e>
+<e lm="Okinawa">         <i>Okinawa</i><par n="Barcelona__np"/></e>
 <e lm="Oklahoma">        <i>Oklahoma</i><par n="Barcelona__np"/></e>
 <e lm="Oman">            <i>Oman</i><par n="Barcelona__np"/></e>
 <e lm="Ontario">         <i>Ontario</i><par n="Barcelona__np"/></e>
 <e lm="Oregon">          <i>Oregon</i><par n="Barcelona__np"/></e>
+<e lm="Orkney">          <i>Orkney</i><par n="Barcelona__np"/></e>
 <e lm="Oslo">            <i>Oslo</i><par n="Barcelona__np"/></e>
 <e lm="Ostend">          <i>Ostend</i><par n="Barcelona__np"/></e>
 <e lm="Oxford">          <i>Oxford</i><par n="Barcelona__np"/></e>
+<e lm="Pacific">         <i>Pacific</i><par n="Barcelona__np"/></e>
 <e lm="Paddington">      <i>Paddington</i><par n="Barcelona__np"/></e>
 <e lm="Pakistan">        <i>Pakistan</i><par n="Barcelona__np"/></e>
 <e lm="Palau">           <i>Palau</i><par n="Barcelona__np"/></e>
+<e lm="Palermo">         <i>Palermo</i><par n="Barcelona__np"/></e>
 <e lm="Palestine">       <i>Palestine</i><par n="Barcelona__np"/></e>
 <e lm="Panama">          <i>Panama</i><par n="Barcelona__np"/></e>
 <e lm="Papua New Guinea"><i>Papua<b/>New<b/>Guinea</i><par n="Barcelona__np"/></e>
@@ -41594,55 +41757,80 @@
 <e lm="Peking">          <i>Peking</i><par n="Barcelona__np"/></e>
 <e lm="Pennsylvania">    <i>Pennsylvania</i><par n="Barcelona__np"/></e>
 <e lm="Persia">          <i>Persia</i><par n="Barcelona__np"/></e>
+<e lm="Perth">           <i>Perth</i><par n="Barcelona__np"/></e>
 <e lm="Peru">            <i>Peru</i><par n="Barcelona__np"/></e>
 <e lm="Philadelphia">    <i>Philadelphia</i><par n="Barcelona__np"/></e>
 <e lm="Philippines">     <i>Philippines</i><par n="Barcelona__np"/></e>
-<e lm="Piccadilly">      <i>Piccadilly</i><par n="Barcelona__np"/></e>
 <e lm="Piccadilly Circus"><i>Piccadilly<b/>Circus</i><par n="Barcelona__np"/></e>
+<e lm="Piccadilly">      <i>Piccadilly</i><par n="Barcelona__np"/></e>
 <e lm="Pireas">          <i>Pireas</i><par n="Barcelona__np"/></e>
+<e lm="Pisa">            <i>Pisa</i><par n="Barcelona__np"/></e>
 <e lm="Pittsburgh">      <i>Pittsburgh</i><par n="Barcelona__np"/></e>
+<e lm="Plymouth">        <i>Plymouth</i><par n="Barcelona__np"/></e>
 <e lm="Poland">          <i>Poland</i><par n="Barcelona__np"/></e>
+<e lm="Polynesia">       <i>Polynesia</i><par n="Barcelona__np"/></e>
+<e lm="Pomerania">       <i>Pomerania</i><par n="Barcelona__np"/></e>
+<e lm="Pompey">          <i>Pompey</i><par n="Barcelona__np"/></e>
 <e lm="Port-au-Prince">  <i>Port-au-Prince</i><par n="Barcelona__np"/></e>
+<e lm="Portland">        <i>Portland</i><par n="Barcelona__np"/></e>
+<e lm="Porto">           <i>Porto</i><par n="Barcelona__np"/></e>
+<e lm="Portsmouth">      <i>Portsmouth</i><par n="Barcelona__np"/></e>
 <e lm="Portugal">        <i>Portugal</i><par n="Barcelona__np"/></e>
+<e lm="Potsdam">         <i>Potsdam</i><par n="Barcelona__np"/></e>
 <e lm="Pozuelo">         <i>Pozuelo</i><par n="Barcelona__np"/></e>
 <e lm="Prague">          <i>Prague</i><par n="Barcelona__np"/></e>
 <e lm="Pretoria">        <i>Pretoria</i><par n="Barcelona__np"/></e>
+<e lm="Princeton">       <i>Princeton</i><par n="Barcelona__np"/></e>
+<e lm="Provence">        <i>Provence</i><par n="Barcelona__np"/></e>
 <e lm="Prussia">         <i>Prussia</i><par n="Barcelona__np"/></e>
 <e lm="Puerto Rico">     <i>Puerto<b/>Rico</i><par n="Barcelona__np"/></e>
+<e lm="Pyongyang">       <i>Pyongyang</i><par n="Barcelona__np"/></e>
 <e lm="Pyrenees">        <i>Pyrenees</i><par n="United_States__np"/></e>
 <e lm="Qatar">           <i>Qatar</i><par n="Barcelona__np"/></e>
+<e lm="Quebec">          <i>Quebec</i><par n="Barcelona__np"/></e>
 <e lm="Queensland">      <i>Queensland</i><par n="Barcelona__np"/></e>
 <e lm="Rabat">           <i>Rabat</i><par n="Barcelona__np"/></e>
+<e lm="Raleigh">         <i>Raleigh</i><par n="Barcelona__np"/></e>
+<e lm="Regensburg">      <i>Regensburg</i><par n="Barcelona__np"/></e>
 <e lm="Reykjavik">       <i>Reykjavik</i><par n="Barcelona__np"/></e>
 <e lm="Reykjavík">       <i>Reykjavík</i><par n="Barcelona__np"/></e>
 <e lm="Rhine">           <i>Rhine</i><par n="Barcelona__np"/></e>
 <e lm="Rhineland">       <i>Rhineland</i><par n="Barcelona__np"/></e>
 <e lm="Rhodesia">        <i>Rhodesia</i><par n="Barcelona__np"/></e>
+<e lm="Rhodes">          <i>Rhodes</i><par n="Barcelona__np"/></e>
+<e lm="Richmond">        <i>Richmond</i><par n="Barcelona__np"/></e>
 <e lm="Riga">            <i>Riga</i><par n="Barcelona__np"/></e>
+<e lm="Río de Janeiro">  <i>Río<b/>de<b/>Janeiro</i><par n="Barcelona__np"/></e>
 <e lm="Rípurhreppur">    <i>Rípurhreppur</i><par n="Barcelona__np"/></e>
 <e lm="Romania">         <i>Romania</i><par n="Barcelona__np"/></e>
 <e lm="Rome">            <i>Rome</i><par n="Barcelona__np"/></e>
+<e lm="Rotterdam">       <i>Rotterdam</i><par n="Barcelona__np"/></e>
 <e lm="Rouen">           <i>Rouen</i><par n="Barcelona__np"/></e>
 <e lm="Russia">          <i>Russia</i><par n="Barcelona__np"/></e>
 <e lm="Rwanda">          <i>Rwanda</i><par n="Barcelona__np"/></e>
 <e lm="Sabadell">        <i>Sabadell</i><par n="Barcelona__np"/></e>
+<e lm="Sacramento">      <i>Sacramento</i><par n="Barcelona__np"/></e>
 <e lm="Sahara">          <i>Sahara</i><par n="Barcelona__np"/></e>
 <e lm="Saigon">          <i>Saigon</i><par n="Barcelona__np"/></e>
 <e lm="Saint Kitts and Nevis"><i>Saint<b/>Kitts<b/>and<b/>Nevis</i><par n="Barcelona__np"/></e>
 <e lm="Saint Lucia">     <i>Saint<b/>Lucia</i><par n="Barcelona__np"/></e>
+<e lm="Saint Petersburg"><i>Saint<b/>Petersburg</i><par n="Barcelona__np"/></e>
 <e lm="Saint Vincent and the Grenadines"><i>Saint<b/>Vincent<b/>and<b/>the<b/>Grenadines</i><par n="Barcelona__np"/></e>
 <e lm="Salford">         <i>Salford</i><par n="Barcelona__np"/></e>
+<e lm="Salisbury">       <i>Salisbury</i><par n="Barcelona__np"/></e>
 <e lm="Salzburg">        <i>Salzburg</i><par n="Barcelona__np"/></e>
 <e lm="Samoa">           <i>Samoa</i><par n="Barcelona__np"/></e>
+<e lm="Sandford">        <i>Sandford</i><par n="Barcelona__np"/></e>
 <e lm="San Francisco">   <i>San<b/>Francisco</i><par n="Barcelona__np"/></e>
 <e lm="San Marino">      <i>San<b/>Marino</i><par n="Barcelona__np"/></e>
-<e lm="Sandford">        <i>Sandford</i><par n="Barcelona__np"/></e>
 <e lm="São Tomé and Príncipe"><i>São<b/>Tomé<b/>and<b/>Príncipe</i><par n="Barcelona__np"/></e>
+<e lm="Sarajevo">        <i>Sarajevo</i><par n="Barcelona__np"/></e>
 <e lm="Sardinia">        <i>Sardinia</i><par n="Barcelona__np"/></e>
 <e lm="Saturn">          <i>Saturn</i><par n="Barcelona__np"/></e>
 <e lm="Saudi Arabia">    <i>Saudi<b/>Arabia</i><par n="Barcelona__np"/></e>
 <e lm="Saxony">          <i>Saxony</i><par n="Barcelona__np"/></e>
 <e lm="Scandinavia">     <i>Scandinavia</i><par n="Barcelona__np"/></e>
+<e lm="Schleswig">       <i>Schleswig</i><par n="Barcelona__np"/></e>
 <e lm="Scotland">        <i>Scotland</i><par n="Barcelona__np"/></e>
 <e lm="Seattle">         <i>Seattle</i><par n="Barcelona__np"/></e>
 <e lm="Senegal">         <i>Senegal</i><par n="Barcelona__np"/></e>
@@ -41657,27 +41845,34 @@
 <e lm="Siberia">         <i>Siberia</i><par n="Barcelona__np"/></e>
 <e lm="Sicily">          <i>Sicily</i><par n="Barcelona__np"/></e>
 <e lm="Sierra Leone">    <i>Sierra<b/>Leone</i><par n="Barcelona__np"/></e>
+<e lm="Silesia">         <i>Silesia</i><par n="Barcelona__np"/></e>
+<e lm="Sinai">           <i>Sinai</i><par n="Barcelona__np"/></e>
 <e lm="Singapore">       <i>Singapore</i><par n="Barcelona__np"/></e>
+<e lm="Skopje">          <i>Skopje</i><par n="Barcelona__np"/></e>
 <e lm="Slovakia">        <i>Slovakia</i><par n="Barcelona__np"/></e>
 <e lm="Slovenia">        <i>Slovenia</i><par n="Barcelona__np"/></e>
 <e lm="Sofia">           <i>Sofia</i><par n="Barcelona__np"/></e>
 <e lm="Soho">            <i>Soho</i><par n="Barcelona__np"/></e>
 <e lm="Solomon Islands"> <i>Solomon<b/>Islands</i><par n="United_States__np"/></e>
 <e lm="Somalia">         <i>Somalia</i><par n="Barcelona__np"/></e>
+<e lm="Somerset">        <i>Somerset</i><par n="Barcelona__np"/></e>
 <e lm="South Africa">    <i>South<b/>Africa</i><par n="Barcelona__np"/></e>
 <e lm="South America">   <i>South<b/>America</i><par n="Barcelona__np"/></e>
+<e lm="Southampton">     <i>Southampton</i><par n="Barcelona__np"/></e>
+<e lm="Southern Bavaria"><i>Southern<b/>Bavaria</i><par n="Barcelona__np"/></e>
+<e lm="Southern Europe"> <par n="Ss"/><i>outhern<b/>Europe</i><par n="Barcelona__np"/></e>
 <e lm="South Korea">     <i>South<b/>Korea</i><par n="Barcelona__np"/></e>
 <e lm="South-Korea">     <i>South-Korea</i><par n="Barcelona__np"/></e>
 <e lm="South Sudan">     <i>South<b/>Sudan</i><par n="Barcelona__np"/></e>
 <e lm="South Wales">     <i>South<b/>Wales</i><par n="Barcelona__np"/></e>
 <e lm="south-western Iceland"><i>south-western<b/>Iceland</i><par n="Barcelona__np"/></e>
-<e lm="Southampton">     <i>Southampton</i><par n="Barcelona__np"/></e>
-<e lm="Southern Bavaria"><i>Southern<b/>Bavaria</i><par n="Barcelona__np"/></e>
-<e lm="Southern Europe"> <par n="Ss"/><i>outhern<b/>Europe</i><par n="Barcelona__np"/></e>
 <e lm="Soviet Union">    <i>Soviet<b/>Union</i><par n="Barcelona__np"/></e>
 <e lm="Spain">           <i>Spain</i><par n="Barcelona__np"/></e>
 <e lm="Sparta">          <i>Sparta</i><par n="Barcelona__np"/></e>
+<e lm="Springfield">     <i>Springfield</i><par n="Barcelona__np"/></e>
 <e lm="Sri Lanka">       <i>Sri<b/>Lanka</i><par n="Barcelona__np"/></e>
+<e lm="Stalingrad">      <i>Stalingrad</i><par n="Barcelona__np"/></e>
+<e lm="Stanford">        <i>Stanford</i><par n="Barcelona__np"/></e>
 <e lm="Stansbury">       <i>Stansbury</i><par n="Barcelona__np"/></e>
 <e lm="Stockholm">       <i>Stockholm</i><par n="Barcelona__np"/></e>
 <e lm="Stonehenge">      <i>Stonehenge</i><par n="Barcelona__np"/></e>
@@ -41685,19 +41880,32 @@
 <e lm="Stratford-on-Avon"><i>Stratford-on-Avon</i><par n="Barcelona__np"/></e>
 <e lm="Stuttgart">       <i>Stuttgart</i><par n="Barcelona__np"/></e>
 <e lm="Sudan">           <i>Sudan</i><par n="Barcelona__np"/></e>
+<e lm="Suez">            <i>Suez</i><par n="Barcelona__np"/></e>
+<e lm="Suffolk">         <i>Suffolk</i><par n="Barcelona__np"/></e>
+<e lm="Sumatra">         <i>Sumatra</i><par n="Barcelona__np"/></e>
 <e lm="Sunderland">      <i>Sunderland</i><par n="Barcelona__np"/></e>
 <e lm="Suriname">        <i>Suriname</i><par n="Barcelona__np"/></e>
+<e lm="Sussex">          <i>Sussex</i><par n="Barcelona__np"/></e>
+<e lm="Swansea">         <i>Swansea</i><par n="Barcelona__np"/></e>
 <e lm="Swaziland">       <par n="Ss"/><i>waziland</i><par n="Barcelona__np"/></e>
 <e lm="Sweden">          <i>Sweden</i><par n="Barcelona__np"/></e>
 <e lm="Switzerland">     <i>Switzerland</i><par n="Barcelona__np"/></e>
 <e lm="Sydney">          <i>Sydney</i><par n="Barcelona__np"/></e>
+<e lm="Syracuse">        <i>Syracuse</i><par n="Barcelona__np"/></e>
 <e lm="Syria">           <i>Syria</i><par n="Barcelona__np"/></e>
 <e lm="Tabernovce">      <i>Tabernovce</i><par n="Barcelona__np"/></e>
+<e lm="Taipei">          <i>Taipei</i><par n="Barcelona__np"/></e>
 <e lm="Taiwan">          <i>Taiwan</i><par n="Barcelona__np"/></e>
 <e lm="Tajikistan">      <i>Tajikistan</i><par n="Barcelona__np"/></e>
+<e lm="Tallinn">         <i>Tallinn</i><par n="Barcelona__np"/></e>
+<e lm="Tampa">           <i>Tampa</i><par n="Barcelona__np"/></e>
 <e lm="Tanzania">        <i>Tanzania</i><par n="Barcelona__np"/></e>
 <e lm="Tarragona">       <i>Tarragona</i><par n="Barcelona__np"/></e>
+<e lm="Tasmania">        <i>Tasmania</i><par n="Barcelona__np"/></e>
 <e lm="Tatarstan">       <i>Tatarstan</i><par n="Barcelona__np"/></e>
+<e lm="Tbilisi">         <i>Tbilisi</i><par n="Barcelona__np"/></e>
+<e lm="Tehran">          <i>Tehran</i><par n="Barcelona__np"/></e>
+<e lm="Tel Aviv">        <i>Tel<b/>Aviv</i><par n="Barcelona__np"/></e>
 <e lm="Tenerife">        <i>Tenerife</i><par n="Barcelona__np"/></e>
 <e lm="Tennessee">       <i>Tennessee</i><par n="Barcelona__np"/></e>
 <e lm="Texas">           <i>Texas</i><par n="Barcelona__np"/></e>
@@ -41706,85 +41914,115 @@
 <e lm="the Alps">        <i>the<b/>Alps</i><par n="United_States__np"/></e>
 <e lm="the Andes">       <i>the<b/>Andes</i><par n="United_States__np"/></e>
 <e lm="the Balkans">     <i>the<b/>Balkans</i><par n="United_States__np"/></e>
+<e lm="Thebes">          <i>Thebes</i><par n="Barcelona__np"/></e>
+<e lm="The Hague">       <i>The<b/>Hague</i><par n="Barcelona__np"/></e>
 <e lm="the Netherlands"> <i>the<b/>Netherlands</i><par n="United_States__np"/></e>
 <e lm="the Philippines"> <i>the<b/>Philippines</i><par n="United_States__np"/></e>
+<e lm="Thessaloniki">    <i>Thessaloniki</i><par n="Barcelona__np"/></e>
 <e lm="the UK">          <i>the<b/>UK</i><par n="Barcelona__np"/></e>
 <e lm="the United Kingdom"><i>the<b/>United<b/>Kingdom</i><par n="Barcelona__np"/></e>
 <e lm="the United States"><i>the<b/>United<b/>States</i><par n="United_States__np"/></e>
 <e lm="the United States of America"><i>the<b/>United<b/>States<b/>of<b/>America</i><par n="United_States__np"/></e>
-<e lm="Thessaloniki">    <i>Thessaloniki</i><par n="Barcelona__np"/></e>
+<e lm="Tibet">           <i>Tibet</i><par n="Barcelona__np"/></e>
 <e lm="Timor">           <i>Timor</i><par n="Barcelona__np"/></e>
 <e lm="Timor-Leste">     <i>Timor-Leste</i><par n="Barcelona__np"/></e>
+<e lm="Tirana">          <i>Tirana</i><par n="Barcelona__np"/></e>
 <e lm="Togo">            <i>Togo</i><par n="Barcelona__np"/></e>
 <e lm="Tokyo">           <i>Tokyo</i><par n="Barcelona__np"/></e>
+<e lm="Toledo">          <i>Toledo</i><par n="Barcelona__np"/></e>
 <e lm="Tonga">           <i>Tonga</i><par n="Barcelona__np"/></e>
 <e lm="Toronto">         <i>Toronto</i><par n="Barcelona__np"/></e>
+<e lm="Toulouse">        <i>Toulouse</i><par n="Barcelona__np"/></e>
 <e lm="Tower Bridge">    <i>Tower<b/>Bridge</i><par n="Barcelona__np"/></e>
 <e lm="Tower of London"> <i>Tower<b/>of<b/>London</i><par n="Barcelona__np"/></e>
 <e lm="Trafalgar">       <i>Trafalgar</i><par n="Barcelona__np"/></e>
 <e lm="Trafalgar Square"><i>Trafalgar<b/>Square</i><par n="Barcelona__np"/></e>
-<e lm="Tripoli">         <i>Tripoli</i><par n="Barcelona__np"/></e>
+<e lm="Transylvania">    <i>Transylvania</i><par n="Barcelona__np"/></e>
 <e lm="Trinidad and Tobago"><i>Trinidad<b/>and<b/>Tobago</i><par n="Barcelona__np"/></e>
+<e lm="Tripoli">         <i>Tripoli</i><par n="Barcelona__np"/></e>
 <e lm="Tunesia">         <i>Tunesia</i><par n="Barcelona__np"/></e>
-<e lm="Tunis">           <i>Tunis</i><par n="Barcelona__np"/></e>
 <e lm="Tunisia">         <i>Tunisia</i><par n="Barcelona__np"/></e>
+<e lm="Tunis">           <i>Tunis</i><par n="Barcelona__np"/></e>
 <e lm="Turin">           <i>Turin</i><par n="Barcelona__np"/></e>
 <e lm="Turkey">          <i>Turkey</i><par n="Barcelona__np"/></e>
 <e lm="Turkistan">       <i>Turkistan</i><par n="Barcelona__np"/></e>
 <e lm="Turkmenistan">    <i>Turkmenistan</i><par n="Barcelona__np"/></e>
+<e lm="Tuscany">         <i>Tuscany</i><par n="Barcelona__np"/></e>
 <e lm="Tuvalu">          <i>Tuvalu</i><par n="Barcelona__np"/></e>
 <e lm="Tyrol">           <i>Tyrol</i><par n="Barcelona__np"/></e>
+<e lm="UAE">             <i>UAE</i><par n="United_States__np"/></e>
 <e lm="Uganda">          <i>Uganda</i><par n="Barcelona__np"/></e>
-<e lm="UK">              <i>UK</i><par n="Barcelona__np"/></e>
 <e lm="U.K.">            <i>U.K.</i><par n="Barcelona__np"/></e>
+<e lm="UK">              <i>UK</i><par n="Barcelona__np"/></e>
 <e lm="Ukraine">         <i>Ukraine</i><par n="Barcelona__np"/></e>
+<e lm="Ulster">          <i>Ulster</i><par n="Barcelona__np"/></e>
 <e lm="United Arab Emirates"><i>United<b/>Arab<b/>Emirates</i><par n="United_States__np"/></e>
 <e lm="United Kingdom">  <i>United<b/>Kingdom</i><par n="Barcelona__np"/></e>
 <e lm="United States">   <i>United<b/>States</i><par n="United_States__np"/></e>
 <e lm="United States of America"><i>United<b/>States<b/>of<b/>America</i><par n="United_States__np"/></e>
+<e lm="Uppsala">         <i>Uppsala</i><par n="Barcelona__np"/></e>
 <e lm="Uranus">          <i>Uranus</i><par n="Barcelona__np"/></e>
 <e lm="Uruguay">         <i>Uruguay</i><par n="Barcelona__np"/></e>
-<e lm="US">              <i>US</i><par n="United_States__np"/></e>
-<e lm="U.S.">            <i>U.S.</i><par n="United_States__np"/></e>
-<e lm="USA">             <i>USA</i><par n="United_States__np"/></e>
 <e lm="U.S.A.">          <i>U.S.A.</i><par n="United_States__np"/></e>
+<e lm="USA">             <i>USA</i><par n="United_States__np"/></e>
+<e lm="U.S.">            <i>U.S.</i><par n="United_States__np"/></e>
+<e lm="US">              <i>US</i><par n="United_States__np"/></e>
+<e lm="USSR">            <i>USSR</i><par n="Barcelona__np"/></e>
 <e lm="Utah">            <i>Utah</i><par n="Barcelona__np"/></e>
+<e lm="Utrecht">         <i>Utrecht</i><par n="Barcelona__np"/></e>
 <e lm="Uzbekistan">      <i>Uzbekistan</i><par n="Barcelona__np"/></e>
 <e lm="Vancouver">       <i>Vancouver</i><par n="Barcelona__np"/></e>
 <e lm="Vanuatu">         <i>Vanuatu</i><par n="Barcelona__np"/></e>
+<e lm="Vatican">         <i>Vatican</i><par n="Barcelona__np"/></e>
 <e lm="Vaud">            <i>Vaud</i><par n="Barcelona__np"/></e>
 <e lm="Venezuela">       <i>Venezuela</i><par n="Barcelona__np"/></e>
+<e lm="Venice">          <i>Venice</i><par n="Barcelona__np"/></e>
 <e lm="Venus">           <i>Venus</i><par n="Barcelona__np"/></e>
 <e lm="Vermont">         <i>Vermont</i><par n="Barcelona__np"/></e>
+<e lm="Versailles">      <i>Versailles</i><par n="Barcelona__np"/></e>
+<e lm="Via Augusta">     <i>Via<b/>Augusta</i><par n="Barcelona__np"/></e>
+<e lm="Vichy">           <i>Vichy</i><par n="Barcelona__np"/></e>
 <e lm="Vienna">          <i>Vienna</i><par n="Barcelona__np"/></e>
 <e lm="Vietnam">         <i>Vietnam</i><par n="Barcelona__np"/></e>
 <e lm="Vigur">           <i>Vigur</i><par n="Barcelona__np"/></e>
+<e lm="Vilnius">         <i>Vilnius</i><par n="Barcelona__np"/></e>
 <e lm="Vinland">         <i>Vinland</i><par n="Barcelona__np"/></e>
-<e lm="Vitoria">         <i>Vitoria</i><par n="Barcelona__np"/></e>
 <e lm="Vitoria-Gasteiz"> <i>Vitoria-Gasteiz</i><par n="Barcelona__np"/></e>
+<e lm="Vitoria">         <i>Vitoria</i><par n="Barcelona__np"/></e>
+<e lm="Volga">           <i>Volga</i><par n="Barcelona__np"/></e>
 <e lm="Wales">           <i>Wales</i><par n="Barcelona__np"/></e>
+<e lm="Wallachia">       <i>Wallachia</i><par n="Barcelona__np"/></e>
 <e lm="Wall Street">     <i>Wall<b/>Street</i><par n="Barcelona__np"/></e>
 <e lm="Warsaw">          <i>Warsaw</i><par n="Barcelona__np"/></e>
 <e lm="Washington">      <i>Washington</i><par n="Barcelona__np"/></e>
 <e lm="Waterloo">        <i>Waterloo</i><par n="Barcelona__np"/></e>
+<e lm="Weimar">          <i>Weimar</i><par n="Barcelona__np"/></e>
+<e lm="Wellington">      <i>Wellington</i><par n="Barcelona__np"/></e>
 <e lm="Wembley">         <i>Wembley</i><par n="Barcelona__np"/></e>
+<e lm="Wessex">          <i>Wessex</i><par n="Barcelona__np"/></e>
 <e lm="West Africa">     <i>West<b/>Africa</i><par n="Barcelona__np"/></e>
 <e lm="West Bank">       <i>West<b/>Bank</i><par n="Barcelona__np"/></e>
 <e lm="West End">        <i>West<b/>End</i><par n="Barcelona__np"/></e>
-<e lm="West Germany">    <par n="Ww"/><i>est<b/>Germany</i><par n="Barcelona__np"/></e>
 <e lm="Western Europe">  <par n="Ww"/><i>estern<b/>Europe</i><par n="Barcelona__np"/></e>
+<e lm="West Germany">    <par n="Ww"/><i>est<b/>Germany</i><par n="Barcelona__np"/></e>
 <e lm="Westhampton">     <i>Westhampton</i><par n="Barcelona__np"/></e>
 <e lm="Westminster">     <i>Westminster</i><par n="Barcelona__np"/></e>
+<e lm="Westphalia">      <i>Westphalia</i><par n="Barcelona__np"/></e>
 <e lm="Whipsnade">       <i>Whipsnade</i><par n="Barcelona__np"/></e>
 <e lm="Whitehall">       <i>Whitehall</i><par n="Barcelona__np"/></e>
 <e lm="Wimbledon">       <i>Wimbledon</i><par n="Barcelona__np"/></e>
+<e lm="Winchester">      <i>Winchester</i><par n="Barcelona__np"/></e>
 <e lm="Windsor">         <i>Windsor</i><par n="Barcelona__np"/></e>
 <e lm="Wisconsin">       <i>Wisconsin</i><par n="Barcelona__np"/></e>
 <e lm="Wolverhampton">   <i>Wolverhampton</i><par n="Barcelona__np"/></e>
+<e lm="Worcester">       <i>Worcester</i><par n="Barcelona__np"/></e>
+<e lm="Wrocław">         <i>Wrocław</i><par n="Barcelona__np"/></e>
+<e lm="Württemberg">     <i>Württemberg</i><par n="Barcelona__np"/></e>
 <e lm="Wyoming">         <i>Wyoming</i><par n="Barcelona__np"/></e>
 <e lm="Yellowknife">     <i>Yellowknife</i><par n="Barcelona__np"/></e>
 <e lm="Yellowstone">     <i>Yellowstone</i><par n="Barcelona__np"/></e>
 <e lm="Yemen">           <i>Yemen</i><par n="Barcelona__np"/></e>
+<e lm="Yerevan">         <i>Yerevan</i><par n="Barcelona__np"/></e>
 <e lm="York">            <i>York</i><par n="Barcelona__np"/></e>
 <e lm="Yorkshire">       <i>Yorkshire</i><par n="Barcelona__np"/></e>
 <e lm="Yugoslavia">      <i>Yugoslavia</i><par n="Barcelona__np"/></e>
@@ -41792,250 +42030,23 @@
 <e lm="Zealand">         <i>Zealand</i><par n="Barcelona__np"/></e>
 <e lm="Zimbabwe">        <i>Zimbabwe</i><par n="Barcelona__np"/></e>
 <e lm="Zurich">          <i>Zurich</i><par n="Barcelona__np"/></e>
-
-<e lm="Aachen">          <i>Aachen</i><par n="Barcelona__np"/></e>
-<e lm="Aalen">           <i>Aalen</i><par n="Barcelona__np"/></e>
-<e lm="Aarhus">          <i>Aarhus</i><par n="Barcelona__np"/></e>
-<e lm="Buenos Aires">    <i>Buenos<b/>Aires</i><par n="Barcelona__np"/></e>
-<e lm="Albany">          <i>Albany</i><par n="Barcelona__np"/></e>
-<e lm="Algiers">         <i>Algiers</i><par n="Barcelona__np"/></e>
-<e lm="Amman">           <i>Amman</i><par n="Barcelona__np"/></e>
-<e lm="Anatolia">        <i>Anatolia</i><par n="Barcelona__np"/></e>
-<e lm="Andalusia">       <i>Andalusia</i><par n="Barcelona__np"/></e>
-<e lm="Andhra Pradesh">  <i>Andhra<b/>Pradesh</i><par n="Barcelona__np"/></e>
-<e lm="East Anglia">     <i>East<b/>Anglia</i><par n="Barcelona__np"/></e>
-<e lm="Anjou">           <i>Anjou</i><par n="Barcelona__np"/></e>
-<e lm="Antilles">        <i>Antilles</i><par n="United_States__np"/></e>
-<e lm="Antwerp">         <i>Antwerp</i><par n="Barcelona__np"/></e>
-<e lm="Aquitaine">       <i>Aquitaine</i><par n="Barcelona__np"/></e>
-<e lm="Arlington">       <i>Arlington</i><par n="Barcelona__np"/></e>
-<e lm="Assyria">         <i>Assyria</i><par n="Barcelona__np"/></e>
-<e lm="Atlantis">        <i>Atlantis</i><par n="Barcelona__np"/></e>
-<e lm="Auschwitz">       <i>Auschwitz</i><par n="Barcelona__np"/></e>
-<e lm="Avignon">         <i>Avignon</i><par n="Barcelona__np"/></e>
-<e lm="Tel Aviv">        <i>Tel<b/>Aviv</i><par n="Barcelona__np"/></e>
-<e lm="Babylon">         <i>Babylon</i><par n="Barcelona__np"/></e>
-<e lm="Babylonia">       <i>Babylonia</i><par n="Barcelona__np"/></e>
-<e lm="Baden-Baden">     <i>Baden-Baden</i><par n="Barcelona__np"/></e>
-<e lm="Baku">            <i>Baku</i><par n="Barcelona__np"/></e>
-<e lm="Bali">            <i>Bali</i><par n="Barcelona__np"/></e>
-<e lm="Balochistan">     <i>Balochistan</i><par n="Barcelona__np"/></e>
-<e lm="Baltic">          <i>Baltic</i><par n="Barcelona__np"/></e>
-<e lm="Bayonne">         <i>Bayonne</i><par n="Barcelona__np"/></e>
-<e lm="Bayreuth">        <i>Bayreuth</i><par n="Barcelona__np"/></e>
-<e lm="Bedford">         <i>Bedford</i><par n="Barcelona__np"/></e>
-<e lm="Belarus">         <i>Belarus</i><par n="Barcelona__np"/></e>
-<e lm="Bentham">         <i>Bentham</i><par n="Barcelona__np"/></e>
-<e lm="Berkeley">        <i>Berkeley</i><par n="Barcelona__np"/></e>
-<e lm="Bern">            <i>Bern</i><par n="Barcelona__np"/></e>
-<e lm="Bessarabia">      <i>Bessarabia</i><par n="Barcelona__np"/></e>
-<e lm="Bethlehem">       <i>Bethlehem</i><par n="Barcelona__np"/></e>
-<e lm="Beverly Hills">   <i>Beverly<b/>Hills</i><par n="Barcelona__np"/></e>
-<e lm="Bohemia">         <i>Bohemia</i><par n="Barcelona__np"/></e>
-<e lm="Bollywood">       <i>Bollywood</i><par n="Barcelona__np"/></e>
-<e lm="Bologna">         <i>Bologna</i><par n="Barcelona__np"/></e>
-<e lm="Brandenburg">     <i>Brandenburg</i><par n="Barcelona__np"/></e>
-<e lm="Britannia">       <i>Britannia</i><par n="Barcelona__np"/></e>
-<e lm="Brunswick">       <i>Brunswick</i><par n="Barcelona__np"/></e>
-<e lm="Buckingham">      <i>Buckingham</i><par n="Barcelona__np"/></e>
-<e lm="Byzantium">       <i>Byzantium</i><par n="Barcelona__np"/></e>
-<e lm="Calabria">        <i>Calabria</i><par n="Barcelona__np"/></e>
-<e lm="Cannes">          <i>Cannes</i><par n="Barcelona__np"/></e>
-<e lm="Canterbury">      <i>Canterbury</i><par n="Barcelona__np"/></e>
-<e lm="Capitol">         <i>Capitol</i><par n="Barcelona__np"/></e>
-<e lm="Caspian Sea">     <i>Caspian<b/>Sea</i><par n="Barcelona__np"/></e>
-<e lm="Castile">         <i>Castile</i><par n="Barcelona__np"/></e>
-<e lm="Caucasus">        <i>Caucasus</i><par n="Barcelona__np"/></e>
-<e lm="Cayman Islands">  <i>Cayman<b/>Islands</i><par n="United_States__np"/></e>
-<e lm="Chennai">         <i>Chennai</i><par n="Barcelona__np"/></e>
-<e lm="Chester">         <i>Chester</i><par n="Barcelona__np"/></e>
-<e lm="Cheshire">        <i>Cheshire</i><par n="Barcelona__np"/></e>
-<e lm="Chinatown">       <i>Chinatown</i><par n="Barcelona__np"/></e>
-<e lm="Cincinnati">      <i>Cincinnati</i><par n="Barcelona__np"/></e>
-<e lm="Commonwealth">    <i>Commonwealth</i><par n="Barcelona__np"/></e>
-<e lm="Connecticut">     <i>Connecticut</i><par n="Barcelona__np"/></e>
-<e lm="Constantinople">  <i>Constantinople</i><par n="Barcelona__np"/></e>
-<e lm="Corsica">         <i>Corsica</i><par n="Barcelona__np"/></e>
-<e lm="Crete">           <i>Crete</i><par n="Barcelona__np"/></e>
-<e lm="Crimea">          <i>Crimea</i><par n="Barcelona__np"/></e>
-<e lm="Cumberland">      <i>Cumberland</i><par n="Barcelona__np"/></e>
-<e lm="Córdoba">         <i>Córdoba</i><par n="Barcelona__np"/></e>
-<e lm="Dalmatia">        <i>Dalmatia</i><par n="Barcelona__np"/></e>
-<e lm="Dartmoor">        <i>Dartmoor</i><par n="Barcelona__np"/></e>
-<e lm="Dartmouth">       <i>Dartmouth</i><par n="Barcelona__np"/></e>
-<e lm="Delhi">           <i>Delhi</i><par n="Barcelona__np"/></e>
-<e lm="Dorset">          <i>Dorset</i><par n="Barcelona__np"/></e>
-<e lm="Dubai">           <i>Dubai</i><par n="Barcelona__np"/></e>
-<e lm="Durham">          <i>Durham</i><par n="Barcelona__np"/></e>
-<e lm="Eindhoven">       <i>Eindhoven</i><par n="Barcelona__np"/></e>
-<e lm="Elbe">            <i>Elbe</i><par n="Barcelona__np"/></e>
-<e lm="Exeter">          <i>Exeter</i><par n="Barcelona__np"/></e>
-<e lm="Falkland">        <i>Falkland</i><par n="Barcelona__np"/></e>
-<e lm="Faroe Islands">   <i>Faroe<b/>Islands</i><par n="United_States__np"/></e>
-<e lm="Germania">        <i>Germania</i><par n="Barcelona__np"/></e>
-<e lm="Gettysburg">      <i>Gettysburg</i><par n="Barcelona__np"/></e>
-<e lm="Gloucester">      <i>Gloucester</i><par n="Barcelona__np"/></e>
-<e lm="Gloucestershire"> <i>Gloucestershire</i><par n="Barcelona__np"/></e>
-<e lm="Gothenburg">      <i>Gothenburg</i><par n="Barcelona__np"/></e>
-<e lm="Granada">         <i>Granada</i><par n="Barcelona__np"/></e>
-<e lm="Guangzhou">       <i>Guangzhou</i><par n="Barcelona__np"/></e>
-<e lm="Guernsey">        <i>Guernsey</i><par n="Barcelona__np"/></e>
-<e lm="Göttingen">       <i>Göttingen</i><par n="Barcelona__np"/></e>
-<e lm="Hampshire">       <i>Hampshire</i><par n="Barcelona__np"/></e>
-<e lm="Hampton">         <i>Hampton</i><par n="Barcelona__np"/></e>
-<e lm="Hastings">        <i>Hastings</i><par n="Barcelona__np"/></e>
-<e lm="Hatfield">        <i>Hatfield</i><par n="Barcelona__np"/></e>
-<e lm="Hebron">          <i>Hebron</i><par n="Barcelona__np"/></e>
-<e lm="Heidelberg">      <i>Heidelberg</i><par n="Barcelona__np"/></e>
-<e lm="Herzegovina">     <i>Herzegovina</i><par n="Barcelona__np"/></e>
-<e lm="Himalayas">       <i>Himalayas</i><par n="United_States__np"/></e>
-<e lm="Hiroshima">       <i>Hiroshima</i><par n="Barcelona__np"/></e>
-<e lm="Hispania">        <i>Hispania</i><par n="Barcelona__np"/></e>
-<e lm="Honolulu">        <i>Honolulu</i><par n="Barcelona__np"/></e>
-<e lm="Iberia">          <i>Iberia</i><par n="Barcelona__np"/></e>
-<e lm="Indianapolis">    <i>Indianapolis</i><par n="Barcelona__np"/></e>
-<e lm="Indochina">       <i>Indochina</i><par n="Barcelona__np"/></e>
-<e lm="Río de Janeiro">  <i>Río<b/>de<b/>Janeiro</i><par n="Barcelona__np"/></e>
-<e lm="Karachi">         <i>Karachi</i><par n="Barcelona__np"/></e>
-<e lm="Kashmir">         <i>Kashmir</i><par n="Barcelona__np"/></e>
-<e lm="Kathmandu">       <i>Kathmandu</i><par n="Barcelona__np"/></e>
-<e lm="Kiev">            <i>Kiev</i><par n="Barcelona__np"/></e>
-<e lm="Kingston">        <i>Kingston</i><par n="Barcelona__np"/></e>
-<e lm="Kuala Lumpur">    <i>Kuala<b/>Lumpur</i><par n="Barcelona__np"/></e>
-<e lm="Kyoto">           <i>Kyoto</i><par n="Barcelona__np"/></e>
-<e lm="Lancaster">       <i>Lancaster</i><par n="Barcelona__np"/></e>
-<e lm="Lausanne">        <i>Lausanne</i><par n="Barcelona__np"/></e>
-<e lm="Leicester">       <i>Leicester</i><par n="Barcelona__np"/></e>
-<e lm="Leipzig">         <i>Leipzig</i><par n="Barcelona__np"/></e>
-<e lm="Leningrad">       <i>Leningrad</i><par n="Barcelona__np"/></e>
-<e lm="Ljubljana">       <i>Ljubljana</i><par n="Barcelona__np"/></e>
-<e lm="Maastricht">      <i>Maastricht</i><par n="Barcelona__np"/></e>
-<e lm="Madeira">         <i>Madeira</i><par n="Barcelona__np"/></e>
-<e lm="Magdeburg">       <i>Magdeburg</i><par n="Barcelona__np"/></e>
-<e lm="Maghreb">         <i>Maghreb</i><par n="Barcelona__np"/></e>
-<e lm="Manchuria">       <i>Manchuria</i><par n="Barcelona__np"/></e>
-<e lm="Manila">          <i>Manila</i><par n="Barcelona__np"/></e>
-<e lm="Marlborough">     <i>Marlborough</i><par n="Barcelona__np"/></e>
-<e lm="Marseille">       <i>Marseille</i><par n="Barcelona__np"/></e>
-<e lm="Mecca">           <i>Mecca</i><par n="Barcelona__np"/></e>
-<e lm="Mecklenburg">     <i>Mecklenburg</i><par n="Barcelona__np"/></e>
-<e lm="Medina">          <i>Medina</i><par n="Barcelona__np"/></e>
-<e lm="Memphis">         <i>Memphis</i><par n="Barcelona__np"/></e>
-<e lm="Moldavia">        <i>Moldavia</i><par n="Barcelona__np"/></e>
-<e lm="Monterey">        <i>Monterey</i><par n="Barcelona__np"/></e>
-<e lm="Myanmar">         <i>Myanmar</i><par n="Barcelona__np"/></e>
-<e lm="Nagasaki">        <i>Nagasaki</i><par n="Barcelona__np"/></e>
-<e lm="Nairobi">         <i>Nairobi</i><par n="Barcelona__np"/></e>
-<e lm="Nanjing">         <i>Nanjing</i><par n="Barcelona__np"/></e>
-<e lm="Naples">          <i>Naples</i><par n="Barcelona__np"/></e>
-<e lm="Nashville">       <i>Nashville</i><par n="Barcelona__np"/></e>
-<e lm="Nassau">          <i>Nassau</i><par n="Barcelona__np"/></e>
-<e lm="Navarre">         <i>Navarre</i><par n="Barcelona__np"/></e>
-<e lm="Northumbria">     <i>Northumbria</i><par n="Barcelona__np"/></e>
-<e lm="Nuremberg">       <i>Nuremberg</i><par n="Barcelona__np"/></e>
-<e lm="Okinawa">         <i>Okinawa</i><par n="Barcelona__np"/></e>
-<e lm="Pacific">         <i>Pacific</i><par n="Barcelona__np"/></e>
-<e lm="Palermo">         <i>Palermo</i><par n="Barcelona__np"/></e>
-<e lm="Perth">           <i>Perth</i><par n="Barcelona__np"/></e>
-<e lm="Saint Petersburg"><i>Saint<b/>Petersburg</i><par n="Barcelona__np"/></e>
-<e lm="Pisa">            <i>Pisa</i><par n="Barcelona__np"/></e>
-<e lm="Plymouth">        <i>Plymouth</i><par n="Barcelona__np"/></e>
-<e lm="Polynesia">       <i>Polynesia</i><par n="Barcelona__np"/></e>
-<e lm="Pomerania">       <i>Pomerania</i><par n="Barcelona__np"/></e>
-<e lm="Pompey">          <i>Pompey</i><par n="Barcelona__np"/></e>
-<e lm="Portland">        <i>Portland</i><par n="Barcelona__np"/></e>
-<e lm="Porto">           <i>Porto</i><par n="Barcelona__np"/></e>
-<e lm="Portsmouth">      <i>Portsmouth</i><par n="Barcelona__np"/></e>
-<e lm="Potsdam">         <i>Potsdam</i><par n="Barcelona__np"/></e>
-<e lm="Provence">        <i>Provence</i><par n="Barcelona__np"/></e>
-<e lm="Pyongyang">       <i>Pyongyang</i><par n="Barcelona__np"/></e>
-<e lm="Quebec">          <i>Quebec</i><par n="Barcelona__np"/></e>
-<e lm="Rotterdam">       <i>Rotterdam</i><par n="Barcelona__np"/></e>
-<e lm="Sacramento">      <i>Sacramento</i><par n="Barcelona__np"/></e>
-<e lm="Sarajevo">        <i>Sarajevo</i><par n="Barcelona__np"/></e>
-<e lm="Nova Scotia">     <i>Nova<b/>Scotia</i><par n="Barcelona__np"/></e>
-<e lm="Silesia">         <i>Silesia</i><par n="Barcelona__np"/></e>
-<e lm="Skopje">          <i>Skopje</i><par n="Barcelona__np"/></e>
-<e lm="Somerset">        <i>Somerset</i><par n="Barcelona__np"/></e>
-<e lm="Springfield">     <i>Springfield</i><par n="Barcelona__np"/></e>
-<e lm="Stalingrad">      <i>Stalingrad</i><par n="Barcelona__np"/></e>
-<e lm="Stanford">        <i>Stanford</i><par n="Barcelona__np"/></e>
-<e lm="Sumatra">         <i>Sumatra</i><par n="Barcelona__np"/></e>
-<e lm="Sussex">          <i>Sussex</i><par n="Barcelona__np"/></e>
-<e lm="Swansea">         <i>Swansea</i><par n="Barcelona__np"/></e>
-<e lm="Syracuse">        <i>Syracuse</i><par n="Barcelona__np"/></e>
-<e lm="Taipei">          <i>Taipei</i><par n="Barcelona__np"/></e>
-<e lm="Tampa">           <i>Tampa</i><par n="Barcelona__np"/></e>
-<e lm="Tasmania">        <i>Tasmania</i><par n="Barcelona__np"/></e>
-<e lm="Tbilisi">         <i>Tbilisi</i><par n="Barcelona__np"/></e>
-<e lm="Americas">        <i>Americas</i><par n="United_States__np"/></e>
-<e lm="Via Augusta">     <i>Via<b/>Augusta</i><par n="Barcelona__np"/></e>
-<e lm="The Hague">       <i>The<b/>Hague</i><par n="Barcelona__np"/></e>
-<e lm="Tehran">          <i>Tehran</i><par n="Barcelona__np"/></e>
-<e lm="Thebes">          <i>Thebes</i><par n="Barcelona__np"/></e>
-<e lm="Tibet">           <i>Tibet</i><par n="Barcelona__np"/></e>
-<e lm="Tirana">          <i>Tirana</i><par n="Barcelona__np"/></e>
-<e lm="Toledo">          <i>Toledo</i><par n="Barcelona__np"/></e>
-<e lm="Toulouse">        <i>Toulouse</i><par n="Barcelona__np"/></e>
-<e lm="Transylvania">    <i>Transylvania</i><par n="Barcelona__np"/></e>
-<e lm="Tuscany">         <i>Tuscany</i><par n="Barcelona__np"/></e>
-<e lm="UAE">             <i>UAE</i><par n="United_States__np"/></e>
-<e lm="USSR">            <i>USSR</i><par n="Barcelona__np"/></e>
-<e lm="Uppsala">         <i>Uppsala</i><par n="Barcelona__np"/></e>
-<e lm="Utrecht">         <i>Utrecht</i><par n="Barcelona__np"/></e>
-<e lm="Vatican">         <i>Vatican</i><par n="Barcelona__np"/></e>
-<e lm="Las Vegas">       <i>Las<b/>Vegas</i><par n="Barcelona__np"/></e>
-<e lm="Venice">          <i>Venice</i><par n="Barcelona__np"/></e>
-<e lm="Versailles">      <i>Versailles</i><par n="Barcelona__np"/></e>
-<e lm="Vilnius">         <i>Vilnius</i><par n="Barcelona__np"/></e>
-<e lm="Volga">           <i>Volga</i><par n="Barcelona__np"/></e>
-<e lm="Wallachia">       <i>Wallachia</i><par n="Barcelona__np"/></e>
-<e lm="Weimar">          <i>Weimar</i><par n="Barcelona__np"/></e>
-<e lm="Wellington">      <i>Wellington</i><par n="Barcelona__np"/></e>
-<e lm="Wessex">          <i>Wessex</i><par n="Barcelona__np"/></e>
-<e lm="Westphalia">      <i>Westphalia</i><par n="Barcelona__np"/></e>
-<e lm="Isle of Wight">   <i>Isle<b/>of<b/>Wight</i><par n="Barcelona__np"/></e>
-<e lm="Winchester">      <i>Winchester</i><par n="Barcelona__np"/></e>
-<e lm="Worcester">       <i>Worcester</i><par n="Barcelona__np"/></e>
-<e lm="Wrocław">         <i>Wrocław</i><par n="Barcelona__np"/></e>
-<e lm="Württemberg">     <i>Württemberg</i><par n="Barcelona__np"/></e>
-<e lm="Yerevan">         <i>Yerevan</i><par n="Barcelona__np"/></e>
 <e lm="Zürich">          <i>Zürich</i><par n="Barcelona__np"/></e>
-<e lm="Suez">            <i>Suez</i><par n="Barcelona__np"/></e>
-<e lm="Suffolk">         <i>Suffolk</i><par n="Barcelona__np"/></e>
-<e lm="Alamos">          <i>Alamos</i><par n="Barcelona__np"/></e>
-<e lm="Ballarat">        <i>Ballarat</i><par n="Barcelona__np"/></e>
-<e lm="Essex">           <i>Essex</i><par n="Barcelona__np"/></e>
-<e lm="Euphrates">       <i>Euphrates</i><par n="Barcelona__np"/></e>
-<e lm="Everest">         <i>Everest</i><par n="Barcelona__np"/></e>
-<e lm="Greyhawk">        <i>Greyhawk</i><par n="Barcelona__np"/></e>
-<e lm="Istanbul">        <i>Istanbul</i><par n="Barcelona__np"/></e>
-<e lm="Ithaca">          <i>Ithaca</i><par n="Barcelona__np"/></e>
-<e lm="Kraków">          <i>Kraków</i><par n="Barcelona__np"/></e>
-<e lm="Labrador">        <i>Labrador</i><par n="Barcelona__np"/></e>
-<e lm="Lyon">            <i>Lyon</i><par n="Barcelona__np"/></e>
-<e lm="Limburg">         <i>Limburg</i><par n="Barcelona__np"/></e>
-<e lm="Macau">           <i>Macau</i><par n="Barcelona__np"/></e>
-<e lm="Maharashtra">     <i>Maharashtra</i><par n="Barcelona__np"/></e>
-<e lm="Midlands">        <i>Midlands</i><par n="Barcelona__np"/></e>
-<e lm="Midwest">         <i>Midwest</i><par n="Barcelona__np"/></e>
-<e lm="Milwaukee">       <i>Milwaukee</i><par n="Barcelona__np"/></e>
-<e lm="Monroe">          <i>Monroe</i><par n="Barcelona__np"/></e>
-<e lm="Nevis">           <i>Nevis</i><par n="Barcelona__np"/></e>
-<e lm="Newark">          <i>Newark</i><par n="Barcelona__np"/></e>
-<e lm="Oakland">         <i>Oakland</i><par n="Barcelona__np"/></e>
-<e lm="Orkney">          <i>Orkney</i><par n="Barcelona__np"/></e>
-<e lm="Princeton">       <i>Princeton</i><par n="Barcelona__np"/></e>
-<e lm="Raleigh">         <i>Raleigh</i><par n="Barcelona__np"/></e>
-<e lm="Regensburg">      <i>Regensburg</i><par n="Barcelona__np"/></e>
-<e lm="Rhodes">          <i>Rhodes</i><par n="Barcelona__np"/></e>
-<e lm="Richmond">        <i>Richmond</i><par n="Barcelona__np"/></e>
-<e lm="Salisbury">       <i>Salisbury</i><par n="Barcelona__np"/></e>
-<e lm="Schleswig">       <i>Schleswig</i><par n="Barcelona__np"/></e>
-<e lm="Sinai">           <i>Sinai</i><par n="Barcelona__np"/></e>
-<e lm="Tallinn">         <i>Tallinn</i><par n="Barcelona__np"/></e>
-<e lm="Ulster">          <i>Ulster</i><par n="Barcelona__np"/></e>
-<e lm="Vichy">           <i>Vichy</i><par n="Barcelona__np"/></e>
+<e r="LR" lm="New-Zealand"><i>New-Zealand</i><par n="Barcelona__np"/></e>
+<e r="LR" lm="FYR Macedonia"><p><l>FYR<b/>Macedonia</l><r>Macedonia</r></p><par n="Barcelona__np"/></e>
+<e r="LR" lm="FYRM">     <p><l>FYRM</l>      <r>Macedonia</r></p><par n="Barcelona__np"/></e>
+<e r="LR" lm="FYROM">    <p><l>FYROM</l>     <r>Macedonia</r></p><par n="Barcelona__np"/></e>
+<e lm="Ephesus">         <i>Ephesus</i><par n="Barcelona__np"/></e>
+<e lm="Adriatic Sea">    <i>Adriatic<b/>Sea</i><par n="Barcelona__np"/></e>
+<e lm="Cagliari">        <i>Cagliari</i><par n="Barcelona__np"/></e>
+<e lm="Canary Wharf">    <i>Canary<b/>Wharf</i><par n="Barcelona__np"/></e>
+<e lm="Epirus">          <i>Epirus</i><par n="Barcelona__np"/></e>
+<e lm="Santa Fe">        <i>Santa<b/>Fe</i><par n="Barcelona__np"/></e>
+<e lm="Lombardy">        <i>Lombardy</i><par n="Barcelona__np"/></e>
+<e lm="Notre-Dame">      <i>Notre-Dame</i><par n="Barcelona__np"/></e>
+<e lm="Olympia">         <i>Olympia</i><par n="Barcelona__np"/></e>
+<e lm="Shetland Islands"><i>Shetland<b/>Islands</i><par n="United_States__np"/></e>
+<e lm="Aegean Sea">      <i>Aegean<b/>Sea</i><par n="Barcelona__np"/></e>
+<e lm="Java">            <i>Java</i><par n="Barcelona__np"/></e>
 
     <!-- organisations -->
 
