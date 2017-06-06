@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 39122
+	Entries: 39160
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -29886,6 +29886,44 @@
 <e lm="zoological">      <i>zoological</i><par n="expensive__adj"/></e>
 <e lm="zygomatic">       <i>zygomatic</i><par n="expensive__adj"/></e>
 
+<e lm="renowned">        <i>renowned</i><par n="expensive__adj"/></e>
+<e lm="unrelated">       <i>unrelated</i><par n="expensive__adj"/></e>
+<e lm="unprecedented">   <i>unprecedented</i><par n="expensive__adj"/></e>
+<e lm="armored">         <i>armored</i><par n="expensive__adj"/></e>
+<e lm="armoured">        <i>armoured</i><par n="expensive__adj"/></e>
+<e lm="manned">          <i>manned</i><par n="expensive__adj"/></e>
+<e lm="unmanned">        <i>unmanned</i><par n="expensive__adj"/></e>
+<e lm="unwanted">        <i>unwanted</i><par n="expensive__adj"/></e>
+<e lm="unpublished">     <i>unpublished</i><par n="expensive__adj"/></e>
+<e lm="famed">           <i>famed</i><par n="expensive__adj"/></e>
+<e lm="talented">        <i>talented</i><par n="expensive__adj"/></e>
+<e lm="flawed">          <i>flawed</i><par n="expensive__adj"/></e>
+<e lm="impaired">        <i>impaired</i><par n="expensive__adj"/></e>
+<e lm="unmarried">       <i>unmarried</i><par n="expensive__adj"/></e>
+<e lm="uninhabited">     <i>uninhabited</i><par n="expensive__adj"/></e>
+<e lm="unused">          <i>unused</i><par n="expensive__adj"/></e>
+<e lm="walled">          <i>walled</i><par n="expensive__adj"/></e>
+<e lm="waged">           <i>waged</i><par n="expensive__adj"/></e>
+<e lm="landlocked">      <i>landlocked</i><par n="expensive__adj"/></e>
+<e lm="unaffected">      <i>unaffected</i><par n="expensive__adj"/></e>
+<e lm="unreleased">      <i>unreleased</i><par n="expensive__adj"/></e>
+<e lm="unspecified">     <i>unspecified</i><par n="expensive__adj"/></e>
+<e lm="one-wheeled">     <i>one-wheeled</i><par n="expensive__adj"/></e>
+<e lm="two-wheeled">     <i>two-wheeled</i><par n="expensive__adj"/></e>
+<e lm="three-wheeled">   <i>three-wheeled</i><par n="expensive__adj"/></e>
+<e lm="four-wheeled">    <i>four-wheeled</i><par n="expensive__adj"/></e>
+<e lm="twin-engined">    <i>twin-engined</i><par n="expensive__adj"/></e>
+<e lm="four-engined">    <i>four-engined</i><par n="expensive__adj"/></e>
+<e lm="able-bodied">     <i>able-bodied</i><par n="expensive__adj"/></e>
+<e lm="well-bodied">     <i>well-bodied</i><par n="expensive__adj"/></e>
+<e lm="reputed">         <i>reputed</i><par n="expensive__adj"/></e>
+<e lm="wicked">          <i>wicked</i><par n="expensive__adj"/></e>
+<e lm="unauthorized">    <i>unauthorized</i><par n="expensive__adj"/></e>
+<e lm="unpaved">         <i>unpaved</i><par n="expensive__adj"/></e>
+<e lm="unarmed">         <i>unarmed</i><par n="expensive__adj"/></e>
+<e lm="themed">          <i>themed</i><par n="expensive__adj"/></e>
+<e lm="unresolved">      <i>unresolved</i><par n="expensive__adj"/></e>
+<e lm="aforementioned">  <i>aforementioned</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
