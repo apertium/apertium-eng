@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 39160
+	Entries: 39189
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -32345,6 +32345,35 @@
 <e lm="yesterday evening"><i>yesterday<b/>evening</i><par n="maybe__adv"/></e>
 <e lm="yesterday morning"><i>yesterday<b/>morning</i><par n="maybe__adv"/></e>
 <e lm="yet again">       <i>yet<b/>again</i><par n="maybe__adv"/></e>
+<e lm="poorly">          <i>poorly</i><par n="maybe__adv"/></e>
+<e lm="famously">        <i>famously</i><par n="maybe__adv"/></e>
+<e lm="loosely">         <i>loosely</i><par n="maybe__adv"/></e>
+<e lm="prominently">     <i>prominently</i><par n="maybe__adv"/></e>
+<e lm="arguably">        <i>arguably</i><par n="maybe__adv"/></e>
+<e lm="posthumously">    <i>posthumously</i><par n="maybe__adv"/></e>
+<e lm="popularly">       <i>popularly</i><par n="maybe__adv"/></e>
+<e lm="unsuccessfully">  <i>unsuccessfully</i><par n="maybe__adv"/></e>
+<e lm="importantly">     <i>importantly</i><par n="maybe__adv"/></e>
+<e lm="inherently">      <i>inherently</i><par n="maybe__adv"/></e>
+<e lm="randomly">        <i>randomly</i><par n="maybe__adv"/></e>
+<e lm="forcibly">        <i>forcibly</i><par n="maybe__adv"/></e>
+<e lm="uniformly">       <i>uniformly</i><par n="maybe__adv"/></e>
+<e lm="colloquially">    <i>colloquially</i><par n="maybe__adv"/></e>
+<e lm="vastly">          <i>vastly</i><par n="maybe__adv"/></e>
+<e lm="ostensibly">      <i>ostensibly</i><par n="maybe__adv"/></e>
+<e lm="interchangeably"> <i>interchangeably</i><par n="maybe__adv"/></e>
+<e lm="implicitly">      <i>implicitly</i><par n="maybe__adv"/></e>
+<e lm="overly">          <i>overly</i><par n="maybe__adv"/></e>
+<e lm="sparsely">        <i>sparsely</i><par n="maybe__adv"/></e>
+<e lm="scientifically">  <i>scientifically</i><par n="maybe__adv"/></e>
+<e lm="linearly">        <i>linearly</i><par n="maybe__adv"/></e>
+<e lm="intensely">       <i>intensely</i><par n="maybe__adv"/></e>
+<e lm="weakly">          <i>weakly</i><par n="maybe__adv"/></e>
+<e lm="alternately">     <i>alternately</i><par n="maybe__adv"/></e>
+<e lm="racially">        <i>racially</i><par n="maybe__adv"/></e>
+<e lm="erroneously">     <i>erroneously</i><par n="maybe__adv"/></e>
+<e lm="structurally">    <i>structurally</i><par n="maybe__adv"/></e>
+<e lm="inadvertently">   <i>inadvertently</i><par n="maybe__adv"/></e>
 
 
     <!-- SECTION: Preadverbs -->
