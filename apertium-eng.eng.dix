@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 39189
+	Entries: 39309
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -7333,6 +7333,7 @@
 <e lm="county">          <i>count</i><par n="bab/y__n"/></e>
 <e lm="coup">            <i>coup</i><par n="house__n"/></e>
 <e lm="coup de grâce">   <i>coup</i><par n="house__n"/><p><l><b/>de<b/>grâce</l><r><g><b/>de<b/>grâce</g></r></p></e>
+<e lm="coup d'état">     <i>coup</i><par n="house__n"/><p><l><b/>d'état</l><r><g><b/>d'état</g></r></p></e>
 <e lm="couple">          <i>couple</i><par n="house__n"/></e>
 <e lm="coupler">         <i>coupler</i><par n="house__n"/></e>
 <e lm="coupon">          <i>coupon</i><par n="house__n"/></e>
@@ -21405,6 +21406,101 @@
 <e lm="zucchini">        <i>zucchini</i><par n="house__n"/></e>
 <e lm="zwieback" c="(US)"><i>zwieback</i><par n="house__n"/></e>
 <e lm="zygote">          <i>zygote</i><par n="house__n"/></e>
+<e lm="acupuncture">     <i>acupuncture</i><par n="house__n"/></e>
+<e lm="adulthood">       <i>adulthood</i><par n="house__n"/></e>
+<e lm="advocacy">        <i>advocac</i><par n="bab/y__n"/></e>
+<e lm="aether">          <i>aether</i><par n="house__n"/></e>
+<e lm="affiliation">     <i>affiliation</i><par n="house__n"/></e>
+<e lm="afterlife">       <i>afterlife</i><par n="house__n"/></e>
+<e lm="aftermath">       <i>aftermath</i><par n="house__n"/></e>
+<e lm="aggression">      <i>aggression</i><par n="house__n"/></e>
+<e lm="airflow">         <i>airflow</i><par n="house__n"/></e>
+<e lm="airspace">        <i>airspace</i><par n="house__n"/></e>
+<e lm="ambient">         <i>ambient</i><par n="house__n"/></e>
+<e lm="anime">           <i>anime</i><par n="house__n"/></e>
+<e lm="anthrax">         <i>anthrax</i><par n="east__n"/></e>
+<e lm="archaeologist">   <i>archaeologist</i><par n="house__n"/></e>
+<e lm="armor">           <i>armor</i><par n="house__n"/></e>
+<e lm="arthritis">       <i>arthritis</i><par n="east__n"/></e>
+<e lm="artefact">        <i>artefact</i><par n="house__n"/></e>
+<e lm="audition">        <i>audition</i><par n="house__n"/></e>
+<e lm="auditory">        <i>auditor</i><par n="bab/y__n"/></e>
+<e lm="authenticity">    <i>authenticit</i><par n="bab/y__n"/></e>
+<e lm="authorship">      <i>authorship</i><par n="house__n"/></e>
+<e lm="backbone">        <i>backbone</i><par n="house__n"/></e>
+<e lm="bacteria">        <i>bacterium</i><par n="staff__n"/></e>
+<e lm="ballad">          <i>ballad</i><par n="house__n"/></e>
+<e lm="bamboo">          <i>bamboo</i><par n="house__n"/></e>
+<e lm="behavior">        <i>behavior</i><par n="house__n"/></e>
+<e lm="bulk">            <i>bulk</i><par n="house__n"/></e>
+<e lm="caliber">         <i>caliber</i><par n="house__n"/></e>
+<e lm="cannabis">        <i>cannabis</i><par n="access__n"/></e>
+<e lm="cargo">           <i>cargo</i><par n="house__n"/></e>
+<e lm="cathode">         <i>cathode</i><par n="house__n"/></e>
+<e lm="chant">           <i>chant</i><par n="house__n"/></e>
+<e lm="chariot">         <i>chariot</i><par n="house__n"/></e>
+<e lm="chloroplast">     <i>chloroplast</i><par n="house__n"/></e>
+<e lm="cocoa">           <i>cocoa</i><par n="house__n"/></e>
+<e lm="collegiate">      <i>collegiate</i><par n="house__n"/></e>
+<e lm="colonist">        <i>colonist</i><par n="house__n"/></e>
+<e lm="colonization">    <i>colonization</i><par n="house__n"/></e>
+<e lm="commissioner">    <i>commissioner</i><par n="house__n"/></e>
+<e lm="communion">       <i>communion</i><par n="house__n"/></e>
+<e lm="conduction">      <i>conduction</i><par n="house__n"/></e>
+<e lm="conscience">      <i>conscience</i><par n="house__n"/></e>
+<e lm="conscription">    <i>conscription</i><par n="house__n"/></e>
+<e lm="constraint">      <i>constraint</i><par n="house__n"/></e>
+<e lm="contamination">   <i>contamination</i><par n="house__n"/></e>
+<e lm="contraction">     <i>contraction</i><par n="house__n"/></e>
+<e lm="converter">       <i>converter</i><par n="house__n"/></e>
+<e lm="cord">            <i>cord</i><par n="house__n"/></e>
+<e lm="correctness">     <i>correctness</i><par n="access__n"/></e>
+<e lm="corrosion">       <i>corrosion</i><par n="house__n"/></e>
+<e lm="cortex">          <i>cort</i><par n="ind/ex__n"/></e>
+<e lm="cuisine">         <i>cuisine</i><par n="house__n"/></e>
+<e lm="cytoplasm">       <i>cytoplasm</i><par n="house__n"/></e>
+<e lm="daytime">         <i>daytime</i><par n="house__n"/></e>
+<e lm="deadline">        <i>deadline</i><par n="house__n"/></e>
+<e lm="debris">          <i>debris</i><par n="east__n"/></e>
+<e lm="dedication">      <i>dedication</i><par n="house__n"/></e>
+<e lm="defendant">       <i>defendant</i><par n="house__n"/></e>
+<e lm="dementia">        <i>dementia</i><par n="east__n"/></e>
+<e lm="depiction">       <i>depiction</i><par n="house__n"/></e>
+<e lm="developer">       <i>developer</i><par n="house__n"/></e>
+<e lm="diacritic">       <i>diacritic</i><par n="house__n"/></e>
+<e lm="diffraction">     <i>diffraction</i><par n="house__n"/></e>
+<e lm="diphthong">       <i>diphthong</i><par n="house__n"/></e>
+<e lm="displacement">    <i>displacement</i><par n="house__n"/></e>
+<e lm="disruption">      <i>disruption</i><par n="house__n"/></e>
+<e lm="dough">           <i>dough</i><par n="house__n"/></e>
+<e lm="efficacy">        <i>efficac</i><par n="bab/y__n"/></e>
+<e lm="emergence">       <i>emergence</i><par n="house__n"/></e>
+<e lm="emitter">         <i>emitter</i><par n="house__n"/></e>
+<e lm="endurance">       <i>endurance</i><par n="house__n"/></e>
+<e lm="enlightenment">   <i>enlightenment</i><par n="house__n"/></e>
+<e lm="enzyme">          <i>enzyme</i><par n="house__n"/></e>
+<e lm="epistemology">    <i>epistemolog</i><par n="bab/y__n"/></e>
+<e lm="epithet">         <i>epithet</i><par n="house__n"/></e>
+<e lm="estimation">      <i>estimation</i><par n="house__n"/></e>
+<e lm="estrogen">        <i>estrogen</i><par n="house__n"/></e>
+<e lm="generalization">  <i>generalization</i><par n="house__n"/></e>
+<e lm="friction">        <i>friction</i><par n="house__n"/></e>
+<e lm="habitation">      <i>habitation</i><par n="house__n"/></e>
+<e lm="injunction">      <i>injunction</i><par n="house__n"/></e>
+<e lm="inscription">     <i>inscription</i><par n="house__n"/></e>
+<e lm="liberalization">  <i>liberalization</i><par n="house__n"/></e>
+<e lm="manifestation">   <i>manifestation</i><par n="house__n"/></e>
+<e lm="permutation">     <i>permutation</i><par n="house__n"/></e>
+<e lm="polarization">    <i>polarization</i><par n="house__n"/></e>
+<e lm="precession">      <i>precession</i><par n="house__n"/></e>
+<e lm="precision">       <i>precision</i><par n="house__n"/></e>
+<e lm="predation">       <i>predation</i><par n="house__n"/></e>
+<e lm="privatization">   <i>privatization</i><par n="house__n"/></e>
+<e lm="quantization">    <i>quantization</i><par n="house__n"/></e>
+<e lm="recursion">       <i>recursion</i><par n="house__n"/></e>
+<e lm="reparation">      <i>reparation</i><par n="house__n"/></e>
+<e lm="suppression">     <i>suppression</i><par n="house__n"/></e>
+<e lm="synchronization"> <i>synchronization</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -29924,6 +30020,30 @@
 <e lm="themed">          <i>themed</i><par n="expensive__adj"/></e>
 <e lm="unresolved">      <i>unresolved</i><par n="expensive__adj"/></e>
 <e lm="aforementioned">  <i>aforementioned</i><par n="expensive__adj"/></e>
+<e lm="associative">     <i>associative</i><par n="expensive__adj"/></e>
+<e lm="authoritative">   <i>authoritative</i><par n="expensive__adj"/></e>
+<e lm="commutative">     <i>commutative</i><par n="expensive__adj"/></e>
+<e lm="conductive">      <i>conductive</i><par n="expensive__adj"/></e>
+<e lm="constructive">    <i>constructive</i><par n="expensive__adj"/></e>
+<e lm="cursive">         <i>cursive</i><par n="expensive__adj"/></e>
+<e lm="dative">          <i>dative</i><par n="expensive__adj"/></e>
+<e lm="accusative">      <i>accusative</i><par n="expensive__adj"/></e>
+<e lm="definitive">      <i>definitive</i><par n="expensive__adj"/></e>
+<e lm="depressive">      <i>depressive</i><par n="expensive__adj"/></e>
+<e lm="derivative">      <i>derivative</i><par n="expensive__adj"/></e>
+<e lm="expansive">       <i>expansive</i><par n="expensive__adj"/></e>
+<e lm="inclusive">       <i>inclusive</i><par n="expensive__adj"/></e>
+<e lm="indicative">      <i>indicative</i><par n="expensive__adj"/></e>
+<e lm="inductive">       <i>inductive</i><par n="expensive__adj"/></e>
+<e lm="pervasive">       <i>pervasive</i><par n="expensive__adj"/></e>
+<e lm="projective">      <i>projective</i><par n="expensive__adj"/></e>
+<e lm="qualitative">     <i>qualitative</i><par n="expensive__adj"/></e>
+<e lm="quantitative">    <i>quantitative</i><par n="expensive__adj"/></e>
+<e lm="reactive">        <i>reactive</i><par n="expensive__adj"/></e>
+<e lm="recursive">       <i>recursive</i><par n="expensive__adj"/></e>
+<e lm="reflective">      <i>reflective</i><par n="expensive__adj"/></e>
+<e lm="refractive">      <i>refractive</i><par n="expensive__adj"/></e>
+<e lm="reproductive">    <i>reproductive</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
