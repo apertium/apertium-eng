@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 39936
+	Entries: 40087
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21501,6 +21501,108 @@
 <e lm="reparation">      <i>reparation</i><par n="house__n"/></e>
 <e lm="suppression">     <i>suppression</i><par n="house__n"/></e>
 <e lm="synchronization"> <i>synchronization</i><par n="house__n"/></e>
+<e lm="watershed">       <i>watershed</i><par n="house__n"/></e>
+<e lm="airframe">        <i>airframe</i><par n="house__n"/></e>
+<e lm="apoptosis">       <i>apoptos</i><par n="analys/is__n"/></e>
+<e lm="artwork">         <i>artwork</i><par n="house__n"/></e>
+<e lm="avoidance">       <i>avoidance</i><par n="house__n"/></e>
+<e lm="benzodiazepine">  <i>benzodiazepine</i><par n="house__n"/></e>
+<e lm="carbohydrate">    <i>carbohydrate</i><par n="house__n"/></e>
+<e lm="cardinality">     <i>cardinalit</i><par n="bab/y__n"/></e>
+<e lm="circuitry">       <i>circuitr</i><par n="bab/y__n"/></e>
+<e lm="clade">           <i>clade</i><par n="house__n"/></e>
+<e lm="bass clef">       <i>bass<b/>clef</i><par n="house__n"/></e>
+<e lm="treble clef">     <i>treble<b/>clef</i><par n="house__n"/></e>
+<e lm="continuum">       <i>continuum</i><par n="house__n"/></e>
+<e lm="critique">        <i>critique</i><par n="house__n"/></e>
+<e lm="crossover">       <i>crossover</i><par n="house__n"/></e>
+<e lm="duchy">           <i>duch</i><par n="bab/y__n"/></e>
+<e lm="dwelling">        <i>dwelling</i><par n="house__n"/></e>
+<e lm="ensemble">        <i>ensemble</i><par n="house__n"/></e>
+<e lm="eukaryote">       <i>eukaryote</i><par n="house__n"/></e>
+<e lm="excerpt">         <i>excerpt</i><par n="house__n"/></e>
+<e lm="fandom">          <i>fandom</i><par n="house__n"/></e>
+<e lm="farmland">        <i>farmland</i><par n="house__n"/></e>
+<e lm="footage">         <i>footage</i><par n="house__n"/></e>
+<e lm="formalism">       <i>formalism</i><par n="house__n"/></e>
+<e lm="gameplay">        <i>gameplay</i><par n="house__n"/></e>
+<e lm="garrison">        <i>garrison</i><par n="house__n"/></e>
+<e lm="gentry">          <i>gentr</i><par n="bab/y__n"/></e>
+<e lm="gradient">        <i>gradient</i><par n="house__n"/></e>
+<e lm="groundwater">     <i>groundwater</i><par n="east__n"/></e>
+<e lm="harbor">          <i>harbor</i><par n="house__n"/></e>
+<e lm="hippie">          <i>hippie</i><par n="house__n"/></e>
+<e lm="hoax">            <i>hoax</i><par n="access__n"/></e>
+<e lm="humankind">       <i>humankind</i><par n="house__n"/></e>
+<e lm="hydroxide">       <i>hydroxide</i><par n="house__n"/></e>
+<e lm="iconography">     <i>iconograph</i><par n="bab/y__n"/></e>
+<e lm="jaguar">          <i>jaguar</i><par n="house__n"/></e>
+<e lm="judiciary">       <i>judiciar</i><par n="bab/y__n"/></e>
+<e lm="kanji">           <i>kanji</i><par n="house__n"/></e>
+<e lm="latency">         <i>latenc</i><par n="bab/y__n"/></e>
+<e lm="launcher">        <i>launcher</i><par n="house__n"/></e>
+<e lm="layout">          <i>layout</i><par n="house__n"/></e>
+<e lm="leakage">         <i>leakage</i><par n="house__n"/></e>
+<e lm="leopard">         <i>leopard</i><par n="house__n"/></e>
+<e lm="liaison">         <i>liaison</i><par n="house__n"/></e>
+<e lm="lifespan">        <i>lifespan</i><par n="house__n"/></e>
+<e lm="ligand">          <i>ligand</i><par n="house__n"/></e>
+<e lm="likelihood">      <i>likelihood</i><par n="house__n"/></e>
+<e lm="loanword">        <i>loanword</i><par n="house__n"/></e>
+<e lm="maiden voyage">   <i>maiden<b/>voyage</i><par n="house__n"/></e>
+<e lm="maple">           <i>maple</i><par n="house__n"/></e>
+<e lm="mascot">          <i>mascot</i><par n="house__n"/></e>
+<e lm="mentor">          <i>mentor</i><par n="house__n"/></e>
+<e lm="mesh">            <i>mesh</i><par n="access__n"/></e>
+<e lm="metadata">        <i>metadata</i><par n="politics__n"/></e>
+<e lm="moose">           <i>moose</i><par n="house__n"/></e>
+<e lm="mural">           <i>mural</i><par n="house__n"/></e>
+<e lm="neurotransmitter"><i>neurotransmitter</i><par n="house__n"/></e>
+<e lm="neutrino">        <i>neutrino</i><par n="house__n"/></e>
+<e lm="nozzle">          <i>nozzle</i><par n="house__n"/></e>
+<e lm="orbiter">         <i>orbiter</i><par n="house__n"/></e>
+<e lm="orthography">     <i>orthograph</i><par n="bab/y__n"/></e>
+<e lm="oscillation">     <i>oscillation</i><par n="house__n"/></e>
+<e lm="outlet">          <i>outlet</i><par n="house__n"/></e>
+<e lm="palette">         <i>palette</i><par n="house__n"/></e>
+<e lm="papacy">          <i>papac</i><par n="bab/y__n"/></e>
+<e lm="parabola">        <i>parabola</i><par n="house__n"/></e>
+<e lm="parser">          <i>parser</i><par n="house__n"/></e>
+<e lm="pathway">         <i>pathway</i><par n="house__n"/></e>
+<e lm="payload">         <i>payload</i><par n="house__n"/></e>
+<e lm="petroleum">       <i>petroleum</i><par n="house__n"/></e>
+<e lm="pH">              <i>pH</i><par n="house__n"/></e>
+<e lm="plaque">          <i>plaque</i><par n="house__n"/></e>
+<e lm="pontificate">     <i>pontificate</i><par n="house__n"/></e>
+<e lm="portrayal">       <i>portrayal</i><par n="house__n"/></e>
+<e lm="positron">        <i>positron</i><par n="house__n"/></e>
+<e lm="preacher">        <i>preacher</i><par n="house__n"/></e>
+<e lm="preface">         <i>preface</i><par n="house__n"/></e>
+<e lm="quark">           <i>quark</i><par n="house__n"/></e>
+<e lm="quarterback">     <i>quarterback</i><par n="house__n"/></e>
+<e lm="quotient">        <i>quotient</i><par n="house__n"/></e>
+<e lm="redshift">        <i>redshift</i><par n="house__n"/></e>
+<e lm="regent">          <i>regent</i><par n="house__n"/></e>
+<e lm="reservoir">       <i>reservoir</i><par n="house__n"/></e>
+<e lm="rotor">           <i>rotor</i><par n="house__n"/></e>
+<e lm="router">          <i>router</i><par n="house__n"/></e>
+<e lm="samurai">         <i>samurai</i><par n="house__n"/></e>
+<e lm="seawater">        <i>seawater</i><par n="house__n"/></e>
+<e lm="seizure">         <i>seizure</i><par n="house__n"/></e>
+<e lm="sewage">          <i>sewage</i><par n="house__n"/></e>
+<e lm="sharia">          <i>sharia</i><par n="house__n"/></e>
+<e lm="solstice">        <i>solstice</i><par n="house__n"/></e>
+<e lm="solubility">      <i>solubilit</i><par n="bab/y__n"/></e>
+<e lm="sonar">           <i>sonar</i><par n="house__n"/></e>
+<e lm="soundtrack">      <i>soundtrack</i><par n="house__n"/></e>
+<e lm="squad">           <i>squad</i><par n="house__n"/></e>
+<e lm="squadron">        <i>squadron</i><par n="house__n"/></e>
+<e lm="subcontinent">    <i>subcontinent</i><par n="house__n"/></e>
+<e lm="subculture">      <i>subculture</i><par n="house__n"/></e>
+<e lm="subgenre">        <i>subgenre</i><par n="house__n"/></e>
+<e lm="subspace">        <i>subspace</i><par n="house__n"/></e>
+<e lm="substrate">       <i>substrate</i><par n="house__n"/></e>
+<e lm="superhero">       <i>superhero</i><par n="access__n"/></e>
 
     <!-- Acronyms -->
 
@@ -43080,6 +43182,55 @@
 <e lm="Oxfordshire">     <i>Oxfordshire</i><par n="Barcelona__np"/></e>
 <e lm="Padua">           <i>Padua</i><par n="Barcelona__np"/></e>
 <e lm="Palmyra">         <i>Palmyra</i><par n="Barcelona__np"/></e>
+<e lm="Zaragoza">        <i>Zaragoza</i><par n="Barcelona__np"/></e>
+<e lm="Zagreb">          <i>Zagreb</i><par n="Barcelona__np"/></e>
+<e lm="Yucatán">         <i>Yucatán</i><par n="Barcelona__np"/></e>
+<e lm="Yosemite">        <i>Yosemite</i><par n="Barcelona__np"/></e>
+<e lm="Worcestershire">  <i>Worcestershire</i><par n="Barcelona__np"/></e>
+<e lm="Wiltshire">       <i>Wiltshire</i><par n="Barcelona__np"/></e>
+<e lm="Wiesbaden">       <i>Wiesbaden</i><par n="Barcelona__np"/></e>
+<e lm="Warwickshire">    <i>Warwickshire</i><par n="Barcelona__np"/></e>
+<e lm="Wallonia">        <i>Wallonia</i><par n="Barcelona__np"/></e>
+<e lm="Veneto">          <i>Veneto</i><par n="Barcelona__np"/></e>
+<e lm="Tuscan">          <i>Tuscan</i><par n="Barcelona__np"/></e>
+<e lm="Tübingen">        <i>Tübingen</i><par n="Barcelona__np"/></e>
+<e lm="Trondheim">       <i>Trondheim</i><par n="Barcelona__np"/></e>
+<e lm="Trieste">         <i>Trieste</i><par n="Barcelona__np"/></e>
+<e lm="Treblinka">       <i>Treblinka</i><par n="Barcelona__np"/></e>
+<e lm="Tottenham">       <i>Tottenham</i><par n="Barcelona__np"/></e>
+<e lm="Tokelau">         <i>Tokelau</i><par n="Barcelona__np"/></e>
+<e lm="Tigris">          <i>Tigris</i><par n="Barcelona__np"/></e>
+<e lm="Tiber">           <i>Tiber</i><par n="Barcelona__np"/></e>
+<e lm="Tanganyika">      <i>Tanganyika</i><par n="Barcelona__np"/></e>
+<e lm="Tahiti">          <i>Tahiti</i><par n="Barcelona__np"/></e>
+<e lm="Swabia">          <i>Swabia</i><par n="Barcelona__np"/></e>
+<e lm="Svalbard">        <i>Svalbard</i><par n="Barcelona__np"/></e>
+<e lm="Sudetenland">     <i>Sudetenland</i><par n="Barcelona__np"/></e>
+<e lm="Stratford">       <i>Stratford</i><par n="Barcelona__np"/></e>
+<e lm="Stamford">        <i>Stamford</i><par n="Barcelona__np"/></e>
+<e lm="Somaliland">      <i>Somaliland</i><par n="Barcelona__np"/></e>
+<e lm="Siena">           <i>Siena</i><par n="Barcelona__np"/></e>
+<e lm="Sichuan">         <i>Sichuan</i><par n="Barcelona__np"/></e>
+<e lm="Siam">            <i>Siam</i><par n="Barcelona__np"/></e>
+<e lm="Shrewsbury">      <i>Shrewsbury</i><par n="Barcelona__np"/></e>
+<e lm="Sherwood">        <i>Sherwood</i><par n="Barcelona__np"/></e>
+<e lm="Severn">          <i>Severn</i><par n="Barcelona__np"/></e>
+<e lm="Seine">           <i>Seine</i><par n="Barcelona__np"/></e>
+<e lm="Ruhr">            <i>Ruhr</i><par n="Barcelona__np"/></e>
+<e lm="Rhône">           <i>Rhône</i><par n="Barcelona__np"/></e>
+<e lm="Réunion">         <i>Réunion</i><par n="Barcelona__np"/></e>
+<e lm="Rennes">          <i>Rennes</i><par n="Barcelona__np"/></e>
+<e lm="Reims">           <i>Reims</i><par n="Barcelona__np"/></e>
+<e lm="Quito">           <i>Quito</i><par n="Barcelona__np"/></e>
+<e lm="Pompeii">         <i>Pompeii</i><par n="Barcelona__np"/></e>
+<e lm="Poitiers">        <i>Poitiers</i><par n="Barcelona__np"/></e>
+<e lm="Petrograd">       <i>Petrograd</i><par n="Barcelona__np"/></e>
+<e lm="Peloponnese">     <i>Peloponnese</i><par n="Barcelona__np"/></e>
+<e lm="Pangaea">         <i>Pangaea</i><par n="Barcelona__np"/></e>
+<e lm="Novgorod">        <i>Novgorod</i><par n="Barcelona__np"/></e>
+<e lm="Mycenae">         <i>Mycenae</i><par n="Barcelona__np"/></e>
+<e lm="Miletus">         <i>Miletus</i><par n="Barcelona__np"/></e>
+<e lm="Mekong">          <i>Mekong</i><par n="Barcelona__np"/></e>
 
     <!-- organisations -->
 
