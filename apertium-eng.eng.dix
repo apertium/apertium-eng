@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 40597
+	Entries: 40779
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21713,6 +21713,87 @@
 <e lm="zucchini">        <i>zucchini</i><par n="house__n"/></e>
 <e lm="zwieback" c="(US)"><i>zwieback</i><par n="house__n"/></e>
 <e lm="zygote">          <i>zygote</i><par n="house__n"/></e>
+
+<e lm="accountability">  <i>accountabilit</i><par n="bab/y__n"/></e>
+<e lm="adhesive">        <i>adhesive</i><par n="house__n"/></e>
+<e lm="airfoil">         <i>airfoil</i><par n="house__n"/></e>
+<e lm="airplay">         <i>airplay</i><par n="house__n"/></e>
+<e lm="ailment">         <i>ailment</i><par n="house__n"/></e>
+<e lm="abalone">         <i>abalone</i><par n="house__n"/></e>
+<e lm="amenity">         <i>amenit</i><par n="bab/y__n"/></e>
+<e lm="app">             <i>app</i><par n="house__n"/></e>
+<e lm="avail">           <i>avail</i><par n="house__n"/></e>
+<e lm="biopic">          <i>biopic</i><par n="house__n"/></e>
+<e lm="capacitance">     <i>capacitance</i><par n="house__n"/></e>
+<e lm="captioning">      <i>captioning</i><par n="house__n"/></e>
+<e lm="compactness">     <i>compactness</i><par n="access__n"/></e>
+<e lm="consulship">      <i>consulship</i><par n="house__n"/></e>
+<e lm="courthouse">      <i>courthouse</i><par n="house__n"/></e>
+<e lm="curling">         <i>curling</i><par n="house__n"/></e>
+<e lm="depot">           <i>depot</i><par n="house__n"/></e>
+<e lm="dragoon">         <i>dragoon</i><par n="house__n"/></e>
+<e lm="drawback">        <i>drawback</i><par n="house__n"/></e>
+<e lm="enamel">          <i>enamel</i><par n="house__n"/></e>
+<e lm="figurine">        <i>figurine</i><par n="house__n"/></e>
+<e lm="firmware">        <i>firmware</i><par n="house__n"/></e>
+<e lm="foliage">         <i>foliage</i><par n="house__n"/></e>
+<e lm="fugue">           <i>fugue</i><par n="house__n"/></e>
+<e lm="genesis">         <i>genes</i><par n="analys/is__n"/></e>
+<e lm="groom">           <i>groom</i><par n="house__n"/></e>
+<e lm="heredity">        <i>heredit</i><par n="bab/y__n"/></e>
+<e lm="heritability">    <i>heritabilit</i><par n="bab/y__n"/></e>
+<e lm="humanoid">        <i>humanoid</i><par n="house__n"/></e>
+<e lm="hypertext">       <i>hypertext</i><par n="house__n"/></e>
+<e lm="lacrosse">        <i>lacrosse</i><par n="house__n"/></e>
+<e lm="lobe">            <i>lobe</i><par n="house__n"/></e>
+<e lm="multiverse">      <i>multiverse</i><par n="house__n"/></e>
+<e lm="nigger">          <i>nigger</i><par n="house__n"/></e>
+<e lm="ninja">           <i>ninja</i><par n="house__n"/></e>
+<e lm="operetta">        <i>operetta</i><par n="house__n"/></e>
+<e lm="opioid">          <i>opioid</i><par n="house__n"/></e>
+<e lm="ordnance">        <i>ordnance</i><par n="house__n"/></e>
+<e lm="overlordship">    <i>overlordship</i><par n="house__n"/></e>
+<e lm="overture">        <i>overture</i><par n="house__n"/></e>
+<e lm="peerage">         <i>peerage</i><par n="house__n"/></e>
+<e lm="phonograph">      <i>phonograph</i><par n="house__n"/></e>
+<e lm="phosphor">        <i>phosphor</i><par n="house__n"/></e>
+<e lm="phylogeny">       <i>phylogen</i><par n="bab/y__n"/></e>
+<e lm="phylum">          <i>phylum</i><par n="house__n"/></e>
+<e lm="physicalism">     <i>physicalism</i><par n="house__n"/></e>
+<e lm="pinyin">          <i>pinyin</i><par n="house__n"/></e>
+<e lm="plaza">           <i>plaza</i><par n="house__n"/></e>
+<e lm="plume">           <i>plume</i><par n="house__n"/></e>
+<e lm="polytope">        <i>polytope</i><par n="house__n"/></e>
+<e lm="pontiff">         <i>pontiff</i><par n="house__n"/></e>
+<e lm="pore">            <i>pore</i><par n="house__n"/></e>
+<e lm="portability">     <i>portabilit</i><par n="bab/y__n"/></e>
+<e lm="prequel">         <i>prequel</i><par n="house__n"/></e>
+<e lm="projector">       <i>projector</i><par n="house__n"/></e>
+<e lm="protégé">         <i>protégé</i><par n="house__n"/></e>
+<e lm="radiocarbon">     <i>radiocarbon</i><par n="house__n"/></e>
+<e lm="randomness">      <i>randomness</i><par n="access__n"/></e>
+<e lm="rarity">          <i>rarit</i><par n="bab/y__n"/></e>
+<e lm="rediscovery">     <i>rediscover</i><par n="bab/y__n"/></e>
+<e lm="registry">        <i>registr</i><par n="bab/y__n"/></e>
+<e lm="remembrance">     <i>remembrance</i><par n="house__n"/></e>
+<e lm="requisite">       <i>requisite</i><par n="house__n"/></e>
+<e lm="resistivity">     <i>resistivit</i><par n="bab/y__n"/></e>
+<e lm="saltwater">       <i>saltwater</i><par n="house__n"/></e>
+<e lm="scoreboard">      <i>scoreboard</i><par n="house__n"/></e>
+<e lm="sensibility">     <i>sensibilit</i><par n="bab/y__n"/></e>
+<e lm="shareware">       <i>shareware</i><par n="house__n"/></e>
+<e lm="shogunate">       <i>shogunate</i><par n="house__n"/></e>
+<e lm="smartphone">      <i>smartphone</i><par n="house__n"/></e>
+<e lm="sonata">          <i>sonata</i><par n="house__n"/></e>
+<e lm="soy">             <i>soy</i><par n="house__n"/></e>
+<e lm="spyware">         <i>spyware</i><par n="house__n"/></e>
+<e lm="subsystem">       <i>subsystem</i><par n="house__n"/></e>
+<e lm="superconductivity"><i>superconductivit</i><par n="bab/y__n"/></e>
+<e lm="supercontinent">  <i>supercontinent</i><par n="house__n"/></e>
+<e lm="suspense">        <i>suspense</i><par n="house__n"/></e>
+<e lm="taiko">           <i>taiko</i><par n="house__n"/></e>
+<e lm="taxon">           <i>taxon</i><par n="house__n"/></e>
+<e lm="triad">           <i>triad</i><par n="house__n"/></e>
     
     <!-- Acronyms -->
 
@@ -43928,6 +44009,108 @@
 <e lm="Xbox">            <i>Xbox</i><par n="Linux__np"/></e>
 <e lm="Xbox One">        <i>Xbox<b/>One</i><par n="Linux__np"/></e>
 <e lm="YouTube">         <i>YouTube</i><par n="Linux__np"/></e>
+<e lm="Activision">      <i>Activision</i><par n="Linux__np"/></e>
+<e lm="AllMusic">        <i>AllMusic</i><par n="Linux__np"/></e>
+<e lm="Amstrad">         <i>Amstrad</i><par n="Linux__np"/></e>
+<e lm="Athlon">          <i>Athlon</i><par n="Linux__np"/></e>
+<e lm="Bethesda Softworks"><i>Bethesda<b/>Softworks</i><par n="Linux__np"/></e>
+<e lm="Blizzard Entertainment"><i>Blizzard<b/>Entertainment</i><par n="Linux__np"/></e>
+<e lm="Bombardier">      <i>Bombardier</i><par n="Linux__np"/></e>
+<e lm="Budweiser">       <i>Budweiser</i><par n="Linux__np"/></e>
+<e lm="Digimon">         <i>Digimon</i><par n="Linux__np"/></e>
+<e lm="DirectX">         <i>DirectX</i><par n="Linux__np"/></e>
+<e lm="SEGA Dreamcast">  <i>SEGA<b/>Dreamcast</i><par n="Linux__np"/></e>
+<e lm="Dreamcast">       <i>Dreamcast</i><par n="Linux__np"/></e>
+<e lm="DreamWorks">      <i>DreamWorks</i><par n="Linux__np"/></e>
+<e lm="Ducati">          <i>Ducati</i><par n="Linux__np"/></e>
+<e lm="EA">              <i>EA</i><par n="Linux__np"/></e>
+<e lm="Electronic Arts"> <i>Electronic<b/>Arts</i><par n="Linux__np"/></e>
+<e lm="Mozilla Firefox"> <i>Mozilla<b/>Firefox</i><par n="Linux__np"/></e>
+<e lm="GIMP">            <i>GIMP</i><par n="Linux__np"/></e>
+<e lm="GmbH">            <i>GmbH</i><par n="Linux__np"/></e>
+<e lm="Metro-Goldwyn-Mayer"><i>Metro-Goldwyn-Mayer</i><par n="Linux__np"/></e>
+<e lm="Hasbro">          <i>Hasbro</i><par n="Linux__np"/></e>
+<e lm="HyperCard">       <i>HyperCard</i><par n="Linux__np"/></e>
+<e lm="Infocom">         <i>Infocom</i><par n="Linux__np"/></e>
+<e lm="Interpol">        <i>Interpol</i><par n="Linux__np"/></e>
+<e lm="KFC">             <i>KFC</i><par n="Linux__np"/></e>
+<e lm="Kentucky Fried Chicken"><i>Kentucky<b/>Fried<b/>Chicken</i><par n="Linux__np"/></e>
+<e lm="Kodak">           <i>Kodak</i><par n="Linux__np"/></e>
+<e lm="Kraft">           <i>Kraft</i><par n="Linux__np"/></e>
+<e lm="Kraftwerk">       <i>Kraftwerk</i><par n="Linux__np"/></e>
+<e lm="Lamborghini">     <i>Lamborghini</i><par n="Linux__np"/></e>
+<e lm="LucasArts">       <i>LucasArts</i><par n="Linux__np"/></e>
+<e lm="Lucasfilm">       <i>Lucasfilm</i><par n="Linux__np"/></e>
+<e lm="Sun Microsystems"><i>Sun<b/>Microsystems</i><par n="Linux__np"/></e>
+<e lm="Moritz">          <i>Moritz</i><par n="Linux__np"/></e>
+<e lm="Motörhead">       <i>Motörhead</i><par n="Linux__np"/></e>
+<e lm="Napster">         <i>Napster</i><par n="Linux__np"/></e>
+<e lm="Nickelodeon">     <i>Nickelodeon</i><par n="Linux__np"/></e>
+<e lm="OpenGL">          <i>OpenGL</i><par n="Linux__np"/></e>
+<e lm="OpenVMS">         <i>OpenVMS</i><par n="Linux__np"/></e>
+<e lm="Opus Dei">        <i>Opus<b/>Dei</i><par n="Linux__np"/></e>
+<e lm="Otis">            <i>Otis</i><par n="Linux__np"/></e>
+<e lm="Pegasus Airlines"><i>Pegasus<b/>Airlines</i><par n="Linux__np"/></e>
+<e lm="Pentium">         <i>Pentium</i><par n="Linux__np"/></e>
+<e lm="Photoshop">       <i>Photoshop</i><par n="Linux__np"/></e>
+<e lm="Segway">          <i>Segway</i><par n="Linux__np"/></e>
+<e lm="SimCity">         <i>SimCity</i><par n="Linux__np"/></e>
+<e lm="Slackware">       <i>Slackware</i><par n="Linux__np"/></e>
+<e lm="Taito">           <i>Taito</i><par n="Linux__np"/></e>
+<e lm="Tetris">          <i>Tetris</i><par n="Linux__np"/></e>
+<e lm="TiVo">            <i>TiVo</i><par n="Linux__np"/></e>
+<e lm="Volvo">           <i>Volvo</i><par n="Linux__np"/></e>
+<e lm="Wolfenstein">     <i>Wolfenstein</i><par n="Linux__np"/></e>
+<e lm="WordStar">        <i>WordStar</i><par n="Linux__np"/></e>
+<e lm="Yahoo">           <i>Yahoo</i><par n="Linux__np"/></e>
+<e lm="Yamaha">          <i>Yamaha</i><par n="Linux__np"/></e>
+<e lm="Bluetooth">       <i>Bluetooth</i><par n="Linux__np"/></e>
+<e lm="Chrono">          <i>Chrono</i><par n="Linux__np"/></e>
+<e lm="Chrono Trigger">  <i>Chrono<b/>Trigger</i><par n="Linux__np"/></e>
+<e lm="Kingdom Hearts">  <i>Kingdom<b/>Hearts</i><par n="Linux__np"/></e>
+<e lm="Commodore">       <i>Commodore</i><par n="Linux__np"/></e>
+<e lm="Dodge">           <i>Dodge</i><par n="Linux__np"/></e>
+<e lm="Hezbollah">       <i>Hezbollah</i><par n="Wikimedia__np"/></e>
+<e lm="Intel">           <i>Intel</i><par n="Linux__np"/></e>
+<e lm="Mitsubishi">      <i>Mitsubishi</i><par n="Linux__np"/></e>
+<e lm="Motorola">        <i>Motorola</i><par n="Linux__np"/></e>
+<e lm="Phillips">        <i>Phillips</i><par n="Linux__np"/></e>
+<e lm="Solaris">         <i>Solaris</i><par n="Linux__np"/></e>
+<e lm="Unicode">         <i>Unicode</i><par n="Linux__np"/></e>
+<e lm="Xerox">           <i>Xerox</i><par n="Linux__np"/></e>
+<e lm="Wrigley">         <i>Wrigley</i><par n="Linux__np"/></e>
+<e lm="Willkie Farr &amp; Gallagher"><i>Willkie<b/>Farr<b/>&amp;<b/>Gallagher</i><par n="Linux__np"/></e>
+<e lm="Telstra">         <i>Telstra</i><par n="Linux__np"/></e>
+<e lm="Tandy">           <i>Tandy</i><par n="Linux__np"/></e>
+<e lm="Sony">            <i>Sony</i><par n="Linux__np"/></e>
+<e lm="Land Rover">      <i>Land<b/>Rover</i><par n="Linux__np"/></e>
+<e lm="Northrop Grumman"><i>Northrop<b/>Grumman</i><par n="Linux__np"/></e>
+<e lm="Northrop">        <i>Northrop</i><par n="Linux__np"/></e>
+<e lm="Nike">            <i>Nike</i><par n="Linux__np"/></e>
+<e lm="Moody's">         <i>Moody's</i><par n="Linux__np"/></e>
+<e lm="Kuomintang">      <i>Kuomintang</i><par n="Linux__np"/></e>
+<e lm="Bosch">           <i>Bosch</i><par n="Linux__np"/></e>
+<e lm="Cartier">         <i>Cartier</i><par n="Linux__np"/></e>
+<e lm="Carver">          <i>Carver</i><par n="Linux__np"/></e>
+<e lm="Cessna">          <i>Cessna</i><par n="Linux__np"/></e>
+<e lm="Tesla">           <i>Tesla</i><par n="Linux__np"/></e>
+<e lm="Cisco">           <i>Cisco</i><par n="Linux__np"/></e>
+<e lm="Cochrane">        <i>Cochrane</i><par n="Linux__np"/></e>
+<e lm="Coldcut">         <i>Coldcut</i><par n="Linux__np"/></e>
+<e lm="Datsun">          <i>Datsun</i><par n="Linux__np"/></e>
+<e lm="Dell">            <i>Dell</i><par n="Linux__np"/></e>
+<e lm="Erlang">          <i>Erlang</i><par n="Linux__np"/></e>
+<e lm="Exxon">           <i>Exxon</i><par n="Linux__np"/></e>
+<e lm="Gallup">          <i>Gallup</i><par n="Linux__np"/></e>
+<e lm="Haganah">         <i>Haganah</i><par n="Wikimedia__np"/></e>
+<e lm="Haskell">         <i>Haskell</i><par n="Linux__np"/></e>
+<e lm="Samsung">         <i>Samsung</i><par n="Linux__np"/></e>
+<e lm="Mattel">          <i>Mattel</i><par n="Linux__np"/></e>
+<e lm="Instagram">       <i>Instagram</i><par n="Linux__np"/></e>
+<e lm="Xbox One X">      <i>Xbox<b/>One<b/>X</i><par n="Linux__np"/></e>
+<e lm="iPad">            <i>iPad</i><par n="Linux__np"/></e>
+<e lm="iPhone">          <i>iPhone</i><par n="Linux__np"/></e>
+<e lm="iTunes">          <i>iTunes</i><par n="Linux__np"/></e>
 
     <!-- TODO: unsorted set of words  (insert here) -->
 
