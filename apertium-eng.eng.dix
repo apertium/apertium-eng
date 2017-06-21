@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 41790
+	Entries: 41873
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21848,6 +21848,89 @@
 <e lm="hyperthyroidism"> <i>hyperthyroidism</i><par n="house__n"/></e>
 <e lm="hype">            <i>hype</i><par n="house__n"/></e>
 <e lm="traversal">       <i>traversal</i><par n="house__n"/></e>
+<e lm="homeostasis">     <i>homeostas</i><par n="analys/is__n"/></e>
+<e lm="hotspot">         <i>hotspot</i><par n="house__n"/></e>
+<e lm="hydronium">       <i>hydronium</i><par n="house__n"/></e>
+<e lm="hyphen">          <i>hyphen</i><par n="house__n"/></e>
+<e lm="hysteresis">      <i>hysteres</i><par n="analys/is__n"/></e>
+<e lm="impediment">      <i>impediment</i><par n="house__n"/></e>
+<e lm="impresario">      <i>impresario</i><par n="house__n"/></e>
+<e lm="ingenuity">       <i>ingenuit</i><par n="bab/y__n"/></e>
+<e lm="intelligentsia">  <i>intelligentsia</i><par n="house__n"/></e>
+<e lm="ironclad">        <i>ironclad</i><par n="house__n"/></e>
+<e lm="kimono">          <i>kimono</i><par n="house__n"/></e>
+<e lm="koto">            <i>koto</i><par n="house__n"/></e>
+<e lm="krill">           <i>krill</i><par n="house__n"/></e>
+<e lm="kurtosis">        <i>kurtos</i><par n="analys/is__n"/></e>
+<e lm="lawrencium">      <i>lawrencium</i><par n="house__n"/></e>
+<e lm="legalization">    <i>legalization</i><par n="house__n"/></e>
+<e lm="lifecycle">       <i>lifecycle</i><par n="house__n"/></e>
+<e lm="ligature">        <i>ligature</i><par n="house__n"/></e>
+<e lm="lymphedema">      <i>lymphedema</i><par n="house__n"/></e>
+<e lm="magnetron">       <i>magnetron</i><par n="house__n"/></e>
+<e lm="malfunction">     <i>malfunction</i><par n="house__n"/></e>
+<e lm="medulla">         <i>medulla</i><par n="house__n"/></e>
+<e lm="megafauna">       <i>megafauna</i><par n="house__n"/></e>
+<e lm="melee">           <i>melee</i><par n="house__n"/></e>
+<e lm="mercantilism">    <i>mercantilism</i><par n="house__n"/></e>
+<e lm="methamphetamine"> <i>methamphetamine</i><par n="house__n"/></e>
+<e lm="nanoparticle">    <i>nanoparticle</i><par n="house__n"/></e>
+<e lm="nanotube">        <i>nanotube</i><par n="house__n"/></e>
+<e lm="necrosis">        <i>necros</i><par n="analys/is__n"/></e>
+<e lm="nexus">           <i>nexus</i><par n="house__n"/></e>
+<e lm="nonviolence">     <i>nonviolence</i><par n="house__n"/></e>
+<e lm="olivine">         <i>olivine</i><par n="house__n"/></e>
+<e lm="otaku">           <i>otaku</i><par n="house__n"/></e>
+<e lm="paleontology">    <i>paleontolog</i><par n="bab/y__n"/></e>
+<e lm="paraffin">        <i>paraffin</i><par n="house__n"/></e>
+<e lm="parallelogram">   <i>parallelogram</i><par n="house__n"/></e>
+<e lm="photosphere">     <i>photosphere</i><par n="house__n"/></e>
+<e lm="phrenology">      <i>phrenolog</i><par n="bab/y__n"/></e>
+<e lm="pituitary">       <i>pituitar</i><par n="bab/y__n"/></e>
+<e lm="polka">           <i>polka</i><par n="house__n"/></e>
+<e lm="pyrimidine">      <i>pyrimidine</i><par n="house__n"/></e>
+<e lm="ramen">           <i>ramen</i><par n="house__n"/></e>
+<e lm="refutation">      <i>refutation</i><par n="house__n"/></e>
+<e lm="religiosity">     <i>religiosit</i><par n="bab/y__n"/></e>
+<e lm="ruble">           <i>ruble</i><par n="house__n"/></e>
+<e lm="scalability">     <i>scalabilit</i><par n="bab/y__n"/></e>
+<e lm="sewer">           <i>sewer</i><par n="house__n"/></e>
+<e lm="softball">        <i>softball</i><par n="house__n"/></e>
+<e lm="splendor">        <i>splendor</i><par n="house__n"/></e>
+<e lm="squat">           <i>squat</i><par n="house__n"/></e>
+<e lm="stamina">         <i>stamina</i><par n="house__n"/></e>
+<e lm="steamship">       <i>steamship</i><par n="house__n"/></e>
+<e lm="sterilization">   <i>sterilization</i><par n="house__n"/></e>
+<e lm="stethoscope">     <i>stethoscope</i><par n="house__n"/></e>
+<e lm="subconscious">    <i>subconscious</i><par n="access__n"/></e>
+<e lm="sublimation">     <i>sublimation</i><par n="house__n"/></e>
+<e lm="survivability">   <i>survivabilit</i><par n="bab/y__n"/></e>
+<e lm="swarm">           <i>swarm</i><par n="house__n"/></e>
+<e lm="syllabary">       <i>syllabar</i><par n="bab/y__n"/></e>
+<e lm="teleportation">   <i>teleportation</i><par n="house__n"/></e>
+<e lm="terracotta">      <i>terracotta</i><par n="house__n"/></e>
+<e lm="tetrahedra">      <i>tetrahedra</i><par n="house__n"/></e>
+<e lm="tetroxide">       <i>tetroxide</i><par n="house__n"/></e>
+<e lm="theremin">        <i>theremin</i><par n="house__n"/></e>
+<e lm="trioxide">        <i>trioxide</i><par n="house__n"/></e>
+<e lm="triphosphate">    <i>triphosphate</i><par n="house__n"/></e>
+<e lm="trusteeship">     <i>trusteeship</i><par n="house__n"/></e>
+<e lm="veracity">        <i>veracit</i><par n="bab/y__n"/></e>
+<e lm="virtualization">  <i>virtualization</i><par n="house__n"/></e>
+<e lm="voivodeship">     <i>voivodeship</i><par n="house__n"/></e>
+<e lm="volcanism">       <i>volcanism</i><par n="house__n"/></e>
+<e lm="wastewater">      <i>wastewater</i><par n="house__n"/></e>
+<e lm="confederacy">     <i>confederac</i><par n="bab/y__n"/></e>
+<e lm="desperation">     <i>desperation</i><par n="house__n"/></e>
+<e lm="dioxin">          <i>dioxin</i><par n="house__n"/></e>
+<e lm="eloquence">       <i>eloquence</i><par n="house__n"/></e>
+<e lm="epoxy resin">     <i>epoxy<b/>resin</i><par n="house__n"/></e>
+<e lm="fibrosis">        <i>fibros</i><par n="analys/is__n"/></e>
+<e lm="filesystem">      <i>filesystem</i><par n="house__n"/></e>
+<e lm="gearbox">         <i>gearbox</i><par n="access__n"/></e>
+<e lm="hangar">          <i>hangar</i><par n="house__n"/></e>
+<e lm="hassium">         <i>hassium</i><par n="house__n"/></e>
+<e lm="historicity">     <i>historicit</i><par n="bab/y__n"/></e>
     
     <!-- Acronyms -->
 
