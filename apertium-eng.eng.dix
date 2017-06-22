@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 41873
+	Entries: 41903
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21931,6 +21931,36 @@
 <e lm="hangar">          <i>hangar</i><par n="house__n"/></e>
 <e lm="hassium">         <i>hassium</i><par n="house__n"/></e>
 <e lm="historicity">     <i>historicit</i><par n="bab/y__n"/></e>
+<e lm="yoga">            <i>yoga</i><par n="house__n"/></e>
+<e lm="workforce">       <i>workforce</i><par n="house__n"/></e>
+<e lm="waveform">        <i>waveform</i><par n="house__n"/></e>
+<e lm="weaponry">        <i>weaponr</i><par n="bab/y__n"/></e>
+<e lm="villain">         <i>villain</i><par n="house__n"/></e>
+<e lm="vector">          <i>vector</i><par n="house__n"/></e>
+<e lm="valence">         <i>valence</i><par n="house__n"/></e>
+<e lm="urea">            <i>urea</i><par n="house__n"/></e>
+<e lm="underworld">      <i>underworld</i><par n="house__n"/></e>
+<e lm="turnout">         <i>turnout</i><par n="house__n"/></e>
+<e lm="tutor">           <i>tutor</i><par n="house__n"/></e>
+<e lm="tract">           <i>tract</i><par n="house__n"/></e>
+<e lm="trail">           <i>trail</i><par n="house__n"/></e>
+<e lm="trait">           <i>trait</i><par n="house__n"/></e>
+<e lm="timeline">        <i>timeline</i><par n="house__n"/></e>
+<e lm="titular">         <i>titular</i><par n="house__n"/></e>
+<e lm="thriller">        <i>thriller</i><par n="house__n"/></e>
+<e lm="theorist">        <i>theorist</i><par n="house__n"/></e>
+<e lm="theorem">         <i>theorem</i><par n="house__n"/></e>
+<e lm="tariff">          <i>tariff</i><par n="house__n"/></e>
+<e lm="takeover">        <i>takeover</i><par n="house__n"/></e>
+<e lm="synod">           <i>synod</i><par n="house__n"/></e>
+<e lm="suzerainty">      <i>suzeraint</i><par n="bab/y__n"/></e>
+<e lm="sultan">          <i>sultan</i><par n="house__n"/></e>
+<e lm="sulfate">         <i>sulfate</i><par n="house__n"/></e>
+<e lm="sulfide">         <i>sulfide</i><par n="house__n"/></e>
+<e lm="sandstone">       <i>sandstone</i><par n="house__n"/></e>
+<e lm="remnant">         <i>remnant</i><par n="house__n"/></e>
+<e lm="migrant">         <i>migrant</i><par n="house__n"/></e>
+<e lm="lingua franca">   <i>lingua<b/>franca</i><par n="house__n"/></e>
     
     <!-- Acronyms -->
 
