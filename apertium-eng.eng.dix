@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 42042
+	Entries: 42090
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -45080,6 +45080,54 @@
 <e lm="Avon">            <i>Avon</i><par n="Barcelona__np"/></e>
 <e lm="Apulia">          <i>Apulia</i><par n="Barcelona__np"/></e>
 <e lm="Allegheny">       <i>Allegheny</i><par n="Barcelona__np"/></e>
+<e lm="Zhao">            <i>Zhao</i><par n="Barcelona__np"/></e>
+<e lm="Yunnan">          <i>Yunnan</i><par n="Barcelona__np"/></e>
+<e lm="Yan">             <i>Yan</i><par n="Barcelona__np"/></e>
+<e lm="Xinjiang">        <i>Xinjiang</i><par n="Barcelona__np"/></e>
+<e lm="Wonderland">      <i>Wonderland</i><par n="Barcelona__np"/></e>
+<e lm="Willamette">      <i>Willamette</i><par n="Barcelona__np"/></e>
+<e lm="Whitehorse">      <i>Whitehorse</i><par n="Barcelona__np"/></e>
+<e lm="Wheeler">         <i>Wheeler</i><par n="Barcelona__np"/></e>
+<e lm="Westchester">     <i>Westchester</i><par n="Barcelona__np"/></e>
+<e lm="Wentworth">       <i>Wentworth</i><par n="Barcelona__np"/></e>
+<e lm="Watergate">       <i>Watergate</i><par n="Barcelona__np"/></e>
+<e lm="Walton">          <i>Walton</i><par n="Barcelona__np"/></e>
+<e lm="Wakefield">       <i>Wakefield</i><par n="Barcelona__np"/></e>
+<e lm="Villeneuve-d'Ascq"><i>Villeneuve-d'Ascq</i><par n="Barcelona__np"/></e>
+<e lm="Vic">             <i>Vic</i><par n="Barcelona__np"/></e>
+<e lm="Vaughan">         <i>Vaughan</i><par n="Barcelona__np"/></e>
+<e lm="Valhalla">        <i>Valhalla</i><par n="Barcelona__np"/></e>
+<e lm="Urals">           <i>Urals</i><par n="United_States__np"/></e>
+<e lm="Tyne">            <i>Tyne</i><par n="Barcelona__np"/></e>
+<e lm="Turku">           <i>Turku</i><par n="Barcelona__np"/></e>
+<e lm="Turkestan">       <i>Turkestan</i><par n="Barcelona__np"/></e>
+<e lm="Truro">           <i>Truro</i><par n="Barcelona__np"/></e>
+<e lm="Transnistria">    <i>Transnistria</i><par n="Barcelona__np"/></e>
+<e lm="Tilburg">         <i>Tilburg</i><par n="Barcelona__np"/></e>
+<e lm="Ticonderoga">     <i>Ticonderoga</i><par n="Barcelona__np"/></e>
+<e lm="Thessaly">        <i>Thessaly</i><par n="Barcelona__np"/></e>
+<e lm="Teton Range">     <i>Teton<b/>Range</i><par n="Barcelona__np"/></e>
+<e lm="Cinque Terre">    <i>Cinque<b/>Terre</i><par n="Barcelona__np"/></e>
+<e lm="Tenochtitlan">    <i>Tenochtitlan</i><par n="Barcelona__np"/></e>
+<e lm="Tashkent">        <i>Tashkent</i><par n="Barcelona__np"/></e>
+<e lm="Tartu">           <i>Tartu</i><par n="Barcelona__np"/></e>
+<e lm="Szczecin">        <i>Szczecin</i><par n="Barcelona__np"/></e>
+<e lm="Sutton">          <i>Sutton</i><par n="Barcelona__np"/></e>
+<e lm="Sutter">          <i>Sutter</i><par n="Barcelona__np"/></e>
+<e lm="Sumner">          <i>Sumner</i><par n="Barcelona__np"/></e>
+<e lm="Sulawesi">        <i>Sulawesi</i><par n="Barcelona__np"/></e>
+<e lm="Styria">          <i>Styria</i><par n="Barcelona__np"/></e>
+<e lm="Stafford">        <i>Stafford</i><par n="Barcelona__np"/></e>
+<e lm="Sosa">            <i>Sosa</i><par n="Barcelona__np"/></e>
+<e lm="Sidon">           <i>Sidon</i><par n="Barcelona__np"/></e>
+<e lm="Shiraz">          <i>Shiraz</i><par n="Barcelona__np"/></e>
+<e lm="Seward">          <i>Seward</i><par n="Barcelona__np"/></e>
+<e lm="Samaria">         <i>Samaria</i><par n="Barcelona__np"/></e>
+<e lm="Salamis">         <i>Salamis</i><par n="Barcelona__np"/></e>
+<e lm="Rockville">       <i>Rockville</i><par n="Barcelona__np"/></e>
+<e lm="Ringworld">       <i>Ringworld</i><par n="Barcelona__np"/></e>
+<e lm="Reggio Emilia">   <i>Reggio<b/>Emilia</i><par n="Barcelona__np"/></e>
+<e lm="Reggio Calabria"> <i>Reggio<b/>Calabria</i><par n="Barcelona__np"/></e>
     
     <!-- organisations -->
 
