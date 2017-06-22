@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 41903
+	Entries: 41992
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -31075,6 +31075,95 @@
 <e lm="sickly">          <i>sickly</i><par n="expensive__adj"/></e>
 <e lm="stately">         <i>stately</i><par n="expensive__adj"/></e>
 <e lm="broadleaf">       <i>broadleaf</i><par n="expensive__adj"/></e>
+<e lm="void">            <i>void</i><par n="expensive__adj"/></e>
+<e lm="wireless">        <i>wireless</i><par n="expensive__adj"/></e>
+<e lm="voiceless">       <i>voiceless</i><par n="expensive__adj"/></e>
+<e lm="vibrant">         <i>vibrant</i><par n="expensive__adj"/></e>
+<e lm="vague">           <i>vague</i><par n="expensive__adj"/></e>
+<e lm="urinary">         <i>urinary</i><par n="expensive__adj"/></e>
+<e lm="unlawful">        <i>unlawful</i><par n="expensive__adj"/></e>
+<e lm="unfamiliar">      <i>unfamiliar</i><par n="expensive__adj"/></e>
+<e lm="unicameral">      <i>unicameral</i><par n="expensive__adj"/></e>
+<e lm="trigonometric">   <i>trigonometric</i><par n="expensive__adj"/></e>
+<e lm="transgender">     <i>transgender</i><par n="expensive__adj"/></e>
+<e lm="tolerant">        <i>tolerant</i><par n="expensive__adj"/></e>
+<e lm="tight">           <i>tight</i><par n="long/__adj"/></e>
+<e lm="theoretic">       <i>theoretic</i><par n="expensive__adj"/></e>
+<e lm="tectonic">        <i>tectonic</i><par n="expensive__adj"/></e>
+<e lm="taxonomic">       <i>taxonomic</i><par n="expensive__adj"/></e>
+<e lm="systemic">        <i>systemic</i><par n="expensive__adj"/></e>
+<e lm="symmetric">       <i>symmetric</i><par n="expensive__adj"/></e>
+<e lm="synchronous">     <i>synchronous</i><par n="expensive__adj"/></e>
+<e lm="sulfuric">        <i>sulfuric</i><par n="expensive__adj"/></e>
+<e lm="sonic">           <i>sonic</i><par n="expensive__adj"/></e>
+<e lm="societal">        <i>societal</i><par n="expensive__adj"/></e>
+<e lm="resonant">        <i>resonant</i><par n="expensive__adj"/></e>
+<e lm="rabbinic">        <i>rabbinic</i><par n="expensive__adj"/></e>
+<e lm="postwar">         <i>postwar</i><par n="expensive__adj"/></e>
+<e lm="postseason">      <i>postseason</i><par n="expensive__adj"/></e>
+<e lm="populous">        <i>populous</i><par n="expensive__adj"/></e>
+<e lm="portable">        <i>portable</i><par n="expensive__adj"/></e>
+<e lm="plausible">       <i>plausible</i><par n="expensive__adj"/></e>
+<e lm="parasitic">       <i>parasitic</i><par n="expensive__adj"/></e>
+<e lm="orthodox">        <i>orthodox</i><par n="expensive__adj"/></e>
+<e lm="optic">           <i>optic</i><par n="expensive__adj"/></e>
+<e lm="optimal">         <i>optimal</i><par n="expensive__adj"/></e>
+<e lm="null">            <i>null</i><par n="expensive__adj"/></e>
+<e lm="nomadic">         <i>nomadic</i><par n="expensive__adj"/></e>
+<e lm="negligible">      <i>negligible</i><par n="expensive__adj"/></e>
+<e lm="lone">            <i>lone</i><par n="nice/__adj"/></e>
+<e lm="libertarian">     <i>libertarian</i><par n="expensive__adj"/></e>
+<e lm="infamous">        <i>infamous</i><par n="expensive__adj"/></e>
+<e lm="igneous">         <i>igneous</i><par n="expensive__adj"/></e>
+<e lm="bodily">          <i>bodily</i><par n="expensive__adj"/></e>
+<e lm="barbed">          <i>barbed</i><par n="expensive__adj"/></e>
+<e lm="chambered">       <i>chambered</i><par n="expensive__adj"/></e>
+<e lm="concerted">       <i>concerted</i><par n="expensive__adj"/></e>
+<e lm="dotted">          <i>dotted</i><par n="expensive__adj"/></e>
+<e lm="full-fledged">    <i>full-fledged</i><par n="expensive__adj"/></e>
+<e lm="short-haired">    <i>short-haired</i><par n="expensive__adj"/></e>
+<e lm="fair-haired">     <i>fair-haired</i><par n="expensive__adj"/></e>
+<e lm="chicken-hearted"> <i>chicken-hearted</i><par n="expensive__adj"/></e>
+<e lm="lion-hearted">    <i>lion-hearted</i><par n="expensive__adj"/></e>
+<e lm="soft-hearted">    <i>soft-hearted</i><par n="expensive__adj"/></e>
+<e lm="cold-hearted">    <i>cold-hearted</i><par n="expensive__adj"/></e>
+<e lm="horned">          <i>horned</i><par n="expensive__adj"/></e>
+<e lm="one-legged">      <i>one-legged</i><par n="expensive__adj"/></e>
+<e lm="three-legged">    <i>three-legged</i><par n="expensive__adj"/></e>
+<e lm="four-legged">     <i>four-legged</i><par n="expensive__adj"/></e>
+<e lm="nested">          <i>nested</i><par n="expensive__adj"/></e>
+<e lm="normed">          <i>normed</i><par n="expensive__adj"/></e>
+<e lm="patterned">       <i>patterned</i><par n="expensive__adj"/></e>
+<e lm="singled out">     <i>singled<b/>out</i><par n="expensive__adj"/></e>
+<e lm="light-skinned">   <i>light-skinned</i><par n="expensive__adj"/></e>
+<e lm="dark-skinned">    <i>dark-skinned</i><par n="expensive__adj"/></e>
+<e lm="open-sourced">    <i>open-sourced</i><par n="expensive__adj"/></e>
+<e lm="spirited">        <i>spirited</i><par n="expensive__adj"/></e>
+<e lm="staffed">         <i>staffed</i><par n="expensive__adj"/></e>
+<e lm="stringed">        <i>stringed</i><par n="expensive__adj"/></e>
+<e lm="pigeon-toed">     <i>pigeon-toed</i><par n="expensive__adj"/></e>
+<e lm="biased">          <i>biased</i><par n="expensive__adj"/></e>
+<e lm="unbiased">        <i>unbiased</i><par n="expensive__adj"/></e>
+<e lm="unbounded">       <i>unbounded</i><par n="expensive__adj"/></e>
+<e lm="uncredited">      <i>uncredited</i><par n="expensive__adj"/></e>
+<e lm="undefeated">      <i>undefeated</i><par n="expensive__adj"/></e>
+<e lm="undefined">       <i>undefined</i><par n="expensive__adj"/></e>
+<e lm="undeveloped">     <i>undeveloped</i><par n="expensive__adj"/></e>
+<e lm="undisclosed">     <i>undisclosed</i><par n="expensive__adj"/></e>
+<e lm="undisputed">      <i>undisputed</i><par n="expensive__adj"/></e>
+<e lm="undocumented">    <i>undocumented</i><par n="expensive__adj"/></e>
+<e lm="unexplained">     <i>unexplained</i><par n="expensive__adj"/></e>
+<e lm="unidentified">    <i>unidentified</i><par n="expensive__adj"/></e>
+<e lm="unincorporated">  <i>unincorporated</i><par n="expensive__adj"/></e>
+<e lm="unintended">      <i>unintended</i><par n="expensive__adj"/></e>
+<e lm="unlicensed">      <i>unlicensed</i><par n="expensive__adj"/></e>
+<e lm="unopposed">       <i>unopposed</i><par n="expensive__adj"/></e>
+<e lm="unprepared">      <i>unprepared</i><par n="expensive__adj"/></e>
+<e lm="unrestricted">    <i>unrestricted</i><par n="expensive__adj"/></e>
+<e lm="untouched">       <i>untouched</i><par n="expensive__adj"/></e>
+<e lm="winged">          <i>winged</i><par n="expensive__adj"/></e>
+<e lm="wooded">          <i>wooded</i><par n="expensive__adj"/></e>
+<e lm="proprietary">     <i>proprietary</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
