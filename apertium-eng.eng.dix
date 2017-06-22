@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 41992
+	Entries: 42042
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -43599,6 +43599,56 @@
 <e lm="Humayun">         <i>Humayun</i><par n="Smith__np"/></e>
 <e lm="Borgia">          <i>Borgia</i><par n="Smith__np"/></e>
 <e lm="Abe">             <i>Abe</i><par n="Smith__np"/></e>
+<e lm="Zubaydah">        <i>Zubaydah</i><par n="Smith__np"/></e>
+<e lm="Zhu">             <i>Zhu</i><par n="Smith__np"/></e>
+<e lm="Yeager">          <i>Yeager</i><par n="Smith__np"/></e>
+<e lm="Gallienus">       <i>Gallienus</i><par n="Smith__np"/></e>
+<e lm="Xiaoping">        <i>Xiaoping</i><par n="Smith__np"/></e>
+<e lm="Jinping">         <i>Jinping</i><par n="Smith__np"/></e>
+<e lm="Wordsworth">      <i>Wordsworth</i><par n="Smith__np"/></e>
+<e lm="Woodward">        <i>Woodward</i><par n="Smith__np"/></e>
+<e lm="Wolsey">          <i>Wolsey</i><par n="Smith__np"/></e>
+<e lm="Wilkes">          <i>Wilkes</i><par n="Smith__np"/></e>
+<e lm="Wigner">          <i>Wigner</i><par n="Smith__np"/></e>
+<e lm="Wiener">          <i>Wiener</i><par n="Smith__np"/></e>
+<e lm="Whittle">         <i>Whittle</i><par n="Smith__np"/></e>
+<e lm="Whitefield">      <i>Whitefield</i><par n="Smith__np"/></e>
+<e lm="Wheeler">         <i>Wheeler</i><par n="Smith__np"/></e>
+<e lm="Westwood">        <i>Westwood</i><par n="Smith__np"/></e>
+<e lm="Welch">           <i>Welch</i><par n="Smith__np"/></e>
+<e lm="Ware">            <i>Ware</i><par n="Smith__np"/></e>
+<e lm="Wallach">         <i>Wallach</i><par n="Smith__np"/></e>
+<e lm="Voight">          <i>Voight</i><par n="Smith__np"/></e>
+<e lm="Vitruvius">       <i>Vitruvius</i><par n="Smith__np"/></e>
+<e lm="Visconti">        <i>Visconti</i><par n="Smith__np"/></e>
+<e lm="Villon">          <i>Villon</i><par n="Smith__np"/></e>
+<e lm="Vesalius">        <i>Vesalius</i><par n="Smith__np"/></e>
+<e lm="Vaughan">         <i>Vaughan</i><par n="Smith__np"/></e>
+<e lm="Valois">          <i>Valois</i><par n="Smith__np"/></e>
+<e lm="Updike">          <i>Updike</i><par n="Smith__np"/></e>
+<e lm="Ulam">            <i>Ulam</i><par n="Smith__np"/></e>
+<e lm="Tyndale">         <i>Tyndale</i><par n="Smith__np"/></e>
+<e lm="Tork">            <i>Tork</i><par n="Smith__np"/></e>
+<e lm="Terence">         <i>Terence</i><par n="Smith__np"/></e>
+<e lm="Talleyrand-Périgord"><i>Talleyrand-Périgord</i><par n="Smith__np"/></e>
+<e lm="Sulu">            <i>Sulu</i><par n="Smith__np"/></e>
+<e lm="Sulla">           <i>Sulla</i><par n="Smith__np"/></e>
+<e lm="Solanas">         <i>Solanas</i><par n="Smith__np"/></e>
+<e lm="Silva">           <i>Silva</i><par n="Smith__np"/></e>
+<e lm="da Silva">        <i>da<b/>Silva</i><par n="Smith__np"/></e>
+<e lm="Shockley">        <i>Shockley</i><par n="Smith__np"/></e>
+<e lm="Shearer">         <i>Shearer</i><par n="Smith__np"/></e>
+<e lm="Servius">         <i>Servius</i><par n="Smith__np"/></e>
+<e lm="Searle">          <i>Searle</i><par n="Smith__np"/></e>
+<e lm="Seaborg">         <i>Seaborg</i><par n="Smith__np"/></e>
+<e lm="Scipio">          <i>Scipio</i><par n="Smith__np"/></e>
+<e lm="Schwartz">        <i>Schwartz</i><par n="Smith__np"/></e>
+<e lm="Sassoon">         <i>Sassoon</i><par n="Smith__np"/></e>
+<e lm="Salieri">         <i>Salieri</i><par n="Smith__np"/></e>
+<e lm="Ruskin">          <i>Ruskin</i><par n="Smith__np"/></e>
+<e lm="Rumi">            <i>Rumi</i><par n="Smith__np"/></e>
+<e lm="Rowland">         <i>Rowland</i><par n="Smith__np"/></e>
+<e lm="Rickover">        <i>Rickover</i><par n="Smith__np"/></e>
 
     <!-- locations -->
 
