@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 42090
+	Entries: 42123
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21961,6 +21961,39 @@
 <e lm="remnant">         <i>remnant</i><par n="house__n"/></e>
 <e lm="migrant">         <i>migrant</i><par n="house__n"/></e>
 <e lm="lingua franca">   <i>lingua<b/>franca</i><par n="house__n"/></e>
+<e lm="microcode">       <i>microcode</i><par n="house__n"/></e>
+<e lm="modafinil">       <i>modafinil</i><par n="house__n"/></e>
+<e lm="monoamine">       <i>monoamine</i><par n="house__n"/></e>
+<e lm="monograph">       <i>monograph</i><par n="house__n"/></e>
+<e lm="montage">         <i>montage</i><par n="house__n"/></e>
+<e lm="morphism">        <i>morphism</i><par n="house__n"/></e>
+<e lm="openness">        <i>openness</i><par n="access__n"/></e>
+<e lm="parsing">         <i>parsing</i><par n="house__n"/></e>
+<e lm="pandemic">        <i>pandemic</i><par n="house__n"/></e>
+<e lm="oxidase">         <i>oxidase</i><par n="house__n"/></e>
+<e lm="profiling">       <i>profiling</i><par n="house__n"/></e>
+<e lm="pterosaur">       <i>pterosaur</i><par n="house__n"/></e>
+<e lm="pyridine">        <i>pyridine</i><par n="house__n"/></e>
+<e lm="readership">      <i>readership</i><par n="house__n"/></e>
+<e lm="righteousness">   <i>righteousness</i><par n="access__n"/></e>
+<e lm="shaman">          <i>shaman</i><par n="house__n"/></e>
+<e lm="sorghum">         <i>sorghum</i><par n="house__n"/></e>
+<e lm="submachine gun">  <i>submachine<b/>gun</i><par n="house__n"/></e>
+<e lm="subunit">         <i>subunit</i><par n="house__n"/></e>
+<e lm="sugarcane">       <i>sugarcane</i><par n="house__n"/></e>
+<e lm="swamp">           <i>swamp</i><par n="house__n"/></e>
+<e lm="taiga">           <i>taiga</i><par n="house__n"/></e>
+<e lm="teleprinter">     <i>teleprinter</i><par n="house__n"/></e>
+<e lm="tutelage">        <i>tutelage</i><par n="house__n"/></e>
+<e lm="typhus">          <i>typhus</i><par n="access__n"/></e>
+<e lm="vine">            <i>vine</i><par n="house__n"/></e>
+<e lm="chipset">         <i>chipset</i><par n="house__n"/></e>
+<e lm="codec">           <i>codec</i><par n="house__n"/></e>
+<e lm="deacon">          <i>deacon</i><par n="house__n"/></e>
+<e lm="encoder">         <i>encoder</i><par n="house__n"/></e>
+<e lm="euphonium">       <i>euphonium</i><par n="house__n"/></e>
+<e lm="flare">           <i>flare</i><par n="house__n"/></e>
+<e lm="glyph">           <i>glyph</i><par n="house__n"/></e>
     
     <!-- Acronyms -->
 
