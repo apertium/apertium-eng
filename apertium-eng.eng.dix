@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 42123
+	Entries: 42185
 	Sdefs: 84
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -33895,6 +33895,68 @@
 <e lm="twenty-seventh">  <i>twenty-seventh</i><par n="second__adj"/></e>
 <e lm="twenty-sixth">    <i>twenty-sixth</i><par n="second__adj"/></e>
 <e lm="twenty-third">    <i>twenty-third</i><par n="second__adj"/></e>
+<e lm="twenty-fourth">   <i>twenty-fourth</i><par n="second__adj"/></e>
+<e lm="thirty-second">   <i>thirty-second</i><par n="second__adj"/></e>
+<e lm="thirty-third">    <i>thirty-third</i><par n="second__adj"/></e>
+<e lm="thirty-fourth">   <i>thirty-fourth</i><par n="second__adj"/></e>
+<e lm="thirty-fifth">    <i>thirty-fifth</i><par n="second__adj"/></e>
+<e lm="thirty-sixth">    <i>thirty-sixth</i><par n="second__adj"/></e>
+<e lm="thirty-seventh">  <i>thirty-seventh</i><par n="second__adj"/></e>
+<e lm="thirty-eighth">   <i>thirty-eighth</i><par n="second__adj"/></e>
+<e lm="thirty-ninth">    <i>thirty-ninth</i><par n="second__adj"/></e>
+<e lm="forty-first">     <i>forty-first</i><par n="second__adj"/></e>
+<e lm="forty-second">    <i>forty-second</i><par n="second__adj"/></e>
+<e lm="forty-fourth">    <i>forty-fourth</i><par n="second__adj"/></e>
+<e lm="forty-fifth">     <i>forty-fifth</i><par n="second__adj"/></e>
+<e lm="forty-sixth">     <i>forty-sixth</i><par n="second__adj"/></e>
+<e lm="forty-seventh">   <i>forty-seventh</i><par n="second__adj"/></e>
+<e lm="forty-eighth">    <i>forty-eighth</i><par n="second__adj"/></e>
+<e lm="forty-ninth">     <i>forty-ninth</i><par n="second__adj"/></e>
+<e lm="fifty-first">     <i>fifty-first</i><par n="second__adj"/></e>
+<e lm="fifty-second">    <i>fifty-second</i><par n="second__adj"/></e>
+<e lm="fifty-third">     <i>fifty-third</i><par n="second__adj"/></e>
+<e lm="fifty-fourth">    <i>fifty-fourth</i><par n="second__adj"/></e>
+<e lm="fifty-fifth">     <i>fifty-fifth</i><par n="second__adj"/></e>
+<e lm="fifty-sixth">     <i>fifty-sixth</i><par n="second__adj"/></e>
+<e lm="fifty-seventh">   <i>fifty-seventh</i><par n="second__adj"/></e>
+<e lm="fifty-eighth">    <i>fifty-eighth</i><par n="second__adj"/></e>
+<e lm="fifty-ninth">     <i>fifty-ninth</i><par n="second__adj"/></e>
+<e lm="sixty-first">     <i>sixty-first</i><par n="second__adj"/></e>
+<e lm="sixty-second">    <i>sixty-second</i><par n="second__adj"/></e>
+<e lm="sixty-third">     <i>sixty-third</i><par n="second__adj"/></e>
+<e lm="sixty-fourth">    <i>sixty-fourth</i><par n="second__adj"/></e>
+<e lm="sixty-fifth">     <i>sixty-fifth</i><par n="second__adj"/></e>
+<e lm="sixty-sixth">     <i>sixty-sixth</i><par n="second__adj"/></e>
+<e lm="sixty-seventh">   <i>sixty-seventh</i><par n="second__adj"/></e>
+<e lm="sixty-eighth">    <i>sixty-eighth</i><par n="second__adj"/></e>
+<e lm="sixty-ninth">     <i>sixty-ninth</i><par n="second__adj"/></e>
+<e lm="seventy-first">   <i>seventy-first</i><par n="second__adj"/></e>
+<e lm="seventy-second">  <i>seventy-second</i><par n="second__adj"/></e>
+<e lm="seventy-third">   <i>seventy-third</i><par n="second__adj"/></e>
+<e lm="seventy-fourth">  <i>seventy-fourth</i><par n="second__adj"/></e>
+<e lm="seventy-fifth">   <i>seventy-fifth</i><par n="second__adj"/></e>
+<e lm="seventy-sixth">   <i>seventy-sixth</i><par n="second__adj"/></e>
+<e lm="seventy-seventh"> <i>seventy-seventh</i><par n="second__adj"/></e>
+<e lm="seventy-eighth">  <i>seventy-eighth</i><par n="second__adj"/></e>
+<e lm="seventy-ninth">   <i>seventy-ninth</i><par n="second__adj"/></e>
+<e lm="eighty-first">    <i>eighty-first</i><par n="second__adj"/></e>
+<e lm="eighty-second">   <i>eighty-second</i><par n="second__adj"/></e>
+<e lm="eighty-third">    <i>eighty-third</i><par n="second__adj"/></e>
+<e lm="eighty-fourth">   <i>eighty-fourth</i><par n="second__adj"/></e>
+<e lm="eighty-fifth">    <i>eighty-fifth</i><par n="second__adj"/></e>
+<e lm="eighty-sixth">    <i>eighty-sixth</i><par n="second__adj"/></e>
+<e lm="eighty-seventh">  <i>eighty-seventh</i><par n="second__adj"/></e>
+<e lm="eighty-eighth">   <i>eighty-eighth</i><par n="second__adj"/></e>
+<e lm="eighty-ninth">    <i>eighty-ninth</i><par n="second__adj"/></e>
+<e lm="ninety-first">    <i>ninety-first</i><par n="second__adj"/></e>
+<e lm="ninety-second">   <i>ninety-second</i><par n="second__adj"/></e>
+<e lm="ninety-third">    <i>ninety-third</i><par n="second__adj"/></e>
+<e lm="ninety-fourth">   <i>ninety-fourth</i><par n="second__adj"/></e>
+<e lm="ninety-fifth">    <i>ninety-fifth</i><par n="second__adj"/></e>
+<e lm="ninety-sixth">    <i>ninety-sixth</i><par n="second__adj"/></e>
+<e lm="ninety-seventh">  <i>ninety-seventh</i><par n="second__adj"/></e>
+<e lm="ninety-eighth">   <i>ninety-eighth</i><par n="second__adj"/></e>
+<e lm="ninety-ninth">    <i>ninety-ninth</i><par n="second__adj"/></e>
 
 
     <!-- SECTION: Interjections -->
