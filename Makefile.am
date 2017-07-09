@@ -7,10 +7,18 @@ VERSION=0.1.0
 LANG1=eng
 BASENAME=apertium-$(LANG1)
 
-TARGETS_COMMON = $(LANG1).automorf.bin \
-	$(LANG1).autogen.bin $(LANG1).autopgen.bin \
-	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
-	$(LANG1).rlx.bin
+VAR1=#keep empty
+VAR2=_US
+
+TARGETS_COMMON =						\
+		$(LANG1)$(VAR1).automorf.bin			\
+		$(LANG1)$(VAR1).automorf.att.gz \
+		$(LANG1)$(VAR1).autogen.bin			 \
+		$(LANG1)$(VAR1).autogen.att.gz		  \
+		$(LANG1)$(VAR1).autopgen.bin			\
+		$(LANG1)$(VAR1).rlx.bin				 \
+		$(LANG1)$(VAR2).autogen.bin			 \
+		$(LANG1)$(VAR2).autopgen.bin			
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
 @ap_include@
@@ -19,9 +27,13 @@ TARGETS_COMMON = $(LANG1).automorf.bin \
 ## English transducer
 ###############################################################################
 
-$(LANG1).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
-	apertium-validate-dictionary $<
-	lt-comp rl $< $@ $(BASENAME).$(LANG1).acx
+$(LANG1)$(VAR1).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
+		apertium-validate-dictionary $<
+		lt-comp -v eng rl $< $@ $(BASENAME).$(LANG1).acx
+
+$(LANG1)$(VAR2).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
+		apertium-validate-dictionary $<
+		lt-comp -v eng_US rl $< $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $<
@@ -33,8 +45,12 @@ $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
 $(LANG1).automorf.att.gz: $(LANG1).automorf.bin
 	lt-print $< | gzip -9 -c -n > $@
 
-$(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
-	lt-comp lr $< $@
+$(LANG1)$(VAR1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+		lt-comp -a eng lr $< $@
+
+$(LANG1)$(VAR2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+		lt-comp -a eng_US lr $< $@
+
 
 ###############################################################################
 ## Disambiguation rules

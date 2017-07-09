@@ -303,32 +303,6 @@
   <e r="LR"><p><l>ue</l>        <r>ü</r></p></e>
 </pardef>
 
-<pardef n="o_ou">
-  <e c="en_GB, en_CA, en_ZA, en_IE"><p><l>ou</l><r>ou</r></p></e>
-  <e c="en_US"><p><l>o</l>      <r>ou</r></p></e>
-</pardef>
-
-<pardef n="z_s">
-  <e c="en_GB, en_ZA, en_IE"><p><l>z</l><r>s</r></p></e>
-  <e>       <i>s</i></e>
-</pardef>
-
-<pardef n="e_ae">
-  <e c="en_GB, en_ZA, en_IE, en_CA"><p><l>ae</l><r>ae</r></p></e>
-  <e c="en_US"><p><l>e</l>      <r>ae</r></p></e>
-</pardef>
-
-<pardef n="l_ll">
-  <e c="en_GB, en_ZA, en_IE, en_CA"><p><l>ll</l><r>ll</r></p></e>
-  <e c="en_US"><p><l>l</l>      <r>ll</r></p></e>
-</pardef>
-
-<pardef n="e_oe">
-  <e c="en_GB, en_ZA, en_IE, en_CA"><p><l>oe</l><r>oe</r></p></e>
-  <e c="en_US"><p><l>e</l>      <r>oe</r></p></e>
-</pardef>
-
-
 <pardef n="/I__prn">
   <e>       <p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>I</l>         <r>I<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -6851,14 +6825,14 @@
 <e lm="colophon">        <i>colophon</i><par n="house__n"/></e>
 <e lm="colophony">       <i>colophon</i><par n="bab/y__n"/></e>
 <e lm="coloration">      <i>coloration</i><par n="house__n"/></e>
-<e lm="color" c="(US)">  <i>color</i><par n="house__n"/></e>
 <e lm="colorimeter" c="(US)"><i>colorimeter</i><par n="house__n"/></e>
 <e lm="colorimetry" c="(US)"><i>colorimetr</i><par n="bab/y__n"/></e>
 <e lm="colorist" c="(US)"><i>colorist</i><par n="house__n"/></e>
 <e lm="colossus">        <i>colossus</i><par n="access__n"/></e>
 <e lm="colostrum">       <i>colostrum</i><par n="east__n"/></e>
 <e lm="colour brochure" c="(GB)"><i>colour<b/>brochure</i><par n="house__n"/></e>
-<e lm="colour" c="(GB)"> <i>colour</i><par n="house__n"/></e>
+<e lm="colour" v="eng">  <i>colour</i><par n="house__n"/></e>
+<e lm="color" v="eng_US"><p><l>color</l><r>colour</r></p><par n="house__n"/></e>
 <e lm="coloured pencil" c="(GB)"><i>coloured<b/>pencil</i><par n="house__n"/></e>
 <e lm="colour film" c="(GB)"><i>colour<b/>film</i><par n="house__n"/></e>
 <e lm="colouring" c="(GB)"><i>colouring</i><par n="east__n"/></e>
@@ -27101,7 +27075,8 @@
 <e lm="enabled">         <i>enabled</i><par n="expensive__adj"/></e>
 <e lm="enchanting">      <i>enchanting</i><par n="expensive__adj"/></e>
 <e lm="enclitic">        <i>enclitic</i><par n="expensive__adj"/></e>
-<e lm="encyclopedic">    <i>encyclop</i><par n="e_ae"/><i>dic</i><par n="expensive__adj"/></e>
+<e lm="encyclopaedic" v="eng"><i>encyclopaedic</i><par n="expensive__adj"/></e>
+<e lm="encyclopedic" v="eng_US"><p><l>encyclopedic</l><r>encyclopaedic</r></p><par n="expensive__adj"/></e>
 <e lm="endangered">      <i>endangered</i><par n="expensive__adj"/></e>
 <e lm="endearing">       <i>endearing</i><par n="expensive__adj"/></e>
 <e lm="endemic">         <i>endemic</i><par n="expensive__adj"/></e>
@@ -27507,8 +27482,8 @@
 <e lm="given">           <i>given</i><par n="expensive__adj"/></e>
 <e lm="glacial">         <i>glacial</i><par n="expensive__adj"/></e>
 <e lm="glad">            <i>glad</i><par n="glad/__adj"/></e>
-<e lm="glamorous">       <i>glam</i><par n="o_ou"/><i>rous</i><par n="expensive__adj"/></e>
-<e lm="glamourous" c="(US)"><i>glamourous</i><par n="expensive__adj"/></e>
+<e lm="glamourous" v="eng"><i>glamourous</i><par n="expensive__adj"/></e>
+<e lm="glamourous" v="eng_US"><p><l>glamorous</l><r>glamourous</r></p><par n="expensive__adj"/></e>
 <e lm="glandular">       <i>glandular</i><par n="expensive__adj"/></e>
 <e lm="glass-roofed">    <i>glass-roofed</i><par n="expensive__adj"/></e>
 <e lm="glassy">          <i>glassy</i><par n="expensive__adj"/></e>
