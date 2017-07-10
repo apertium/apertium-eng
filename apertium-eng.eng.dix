@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 44555
+	Entries: 44616
 	Sdefs: 84
 	Paradigms: 373
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -25667,6 +25667,67 @@
 <e lm="yield">           <i>yield</i><par n="accept__vblex"/></e>
 <e lm="yoke">            <i>yok</i><par n="liv/e__vblex"/></e>
 <e lm="zone">            <i>zon</i><par n="liv/e__vblex"/></e>
+<e lm="archive">         <i>archiv</i><par n="liv/e__vblex"/></e>
+<e lm="aspire">          <i>aspir</i><par n="liv/e__vblex"/></e>
+<e lm="authenticate">    <i>authenticat</i><par n="liv/e__vblex"/></e>
+<e lm="barrel">          <i>barrel</i><par n="control__vblex"/></e>
+<e lm="batter">          <i>batter</i><par n="accept__vblex"/></e>
+<e lm="beatify">         <i>beatif</i><par n="appl/y__vblex"/></e>
+<e lm="blockade">        <i>blockad</i><par n="liv/e__vblex"/></e>
+<e lm="bolt">            <i>bolt</i><par n="accept__vblex"/></e>
+<e lm="boom">            <i>boom</i><par n="accept__vblex"/></e>
+<e lm="bootstrap">       <i>bootstrap</i><par n="step__vblex"/></e>
+<e lm="bridge">          <i>bridg</i><par n="liv/e__vblex"/></e>
+<e lm="captain">         <i>captain</i><par n="accept__vblex"/></e>
+<e lm="channel">         <i>channel</i><par n="control__vblex"/></e>
+<e lm="chronicle">       <i>chronicl</i><par n="liv/e__vblex"/></e>
+<e lm="conceptualize">   <i>conceptualiz</i><par n="liv/e__vblex"/></e>
+<e lm="congregate">      <i>congregat</i><par n="liv/e__vblex"/></e>
+<e lm="conform">         <i>conform</i><par n="accept__vblex"/></e>
+<e lm="corroborate">     <i>corroborat</i><par n="liv/e__vblex"/></e>
+<e lm="curate">          <i>curat</i><par n="liv/e__vblex"/></e>
+<e lm="decrypt">         <i>decrypt</i><par n="accept__vblex"/></e>
+<e lm="deactivate">      <i>deactivat</i><par n="liv/e__vblex"/></e>
+<e lm="deviate">         <i>deviat</i><par n="liv/e__vblex"/></e>
+<e lm="dilapidate">      <i>dilapidat</i><par n="liv/e__vblex"/></e>
+<e lm="disenfranchise">  <i>disenfranchis</i><par n="liv/e__vblex"/></e>
+<e lm="dismount">        <i>dismount</i><par n="accept__vblex"/></e>
+<e lm="dissect">         <i>dissect</i><par n="accept__vblex"/></e>
+<e lm="dissuade">        <i>dissuad</i><par n="liv/e__vblex"/></e>
+<e lm="emboss">          <i>emboss</i><par n="approach__vblex"/></e>
+<e lm="encapsulate">     <i>encapsulat</i><par n="liv/e__vblex"/></e>
+<e lm="endeavour">       <i>endeavour</i><par n="accept__vblex"/></e>
+<e lm="eschew">          <i>eschew</i><par n="accept__vblex"/></e>
+<e lm="exhume">          <i>exhum</i><par n="liv/e__vblex"/></e>
+<e lm="fertilize">       <i>fertiliz</i><par n="liv/e__vblex"/></e>
+<e lm="flash">           <i>flash</i><par n="approach__vblex"/></e>
+<e lm="flock">           <i>flock</i><par n="accept__vblex"/></e>
+<e lm="forfeit">         <i>forfeit</i><par n="accept__vblex"/></e>
+<e lm="fossilize">       <i>fossiliz</i><par n="liv/e__vblex"/></e>
+<e lm="garrison">        <i>garrison</i><par n="accept__vblex"/></e>
+<e lm="hydrolyze">       <i>hydrolyz</i><par n="liv/e__vblex"/></e>
+<e lm="infest">          <i>infest</i><par n="accept__vblex"/></e>
+<e lm="insult">          <i>insult</i><par n="accept__vblex"/></e>
+<e lm="jam">             <i>jam</i><par n="program__vblex"/></e>
+<e lm="magnify">         <i>magnif</i><par n="appl/y__vblex"/></e>
+<e lm="minimise">        <i>minimis</i><par n="liv/e__vblex"/></e>
+<e lm="outlive">         <i>outliv</i><par n="liv/e__vblex"/></e>
+<e lm="oxygenate">       <i>oxygenat</i><par n="liv/e__vblex"/></e>
+<e lm="reassert">        <i>reassert</i><par n="accept__vblex"/></e>
+<e lm="recede">          <i>reced</i><par n="liv/e__vblex"/></e>
+<e lm="rebuff">          <i>rebuff</i><par n="accept__vblex"/></e>
+<e lm="relaunch">        <i>relaunch</i><par n="accept__vblex"/></e>
+<e lm="replenish">       <i>replenish</i><par n="accept__vblex"/></e>
+<e lm="seclude">         <i>seclud</i><par n="liv/e__vblex"/></e>
+<e lm="segment">         <i>segment</i><par n="accept__vblex"/></e>
+<e lm="shipwreck">       <i>shipwreck</i><par n="accept__vblex"/></e>
+<e lm="stagnate">        <i>stagnat</i><par n="liv/e__vblex"/></e>
+<e lm="stratif">         <i>stratify</i><par n="appl/y__vblex"/></e>
+<e lm="stud">            <i>stud</i><par n="bed__vblex"/></e>
+<e lm="terrif">          <i>terrify</i><par n="appl/y__vblex"/></e>
+<e lm="toss">            <i>toss</i><par n="approach__vblex"/></e>
+<e lm="transpose">       <i>transpos</i><par n="liv/e__vblex"/></e>
+<e lm="weave">           <i>w</i><par n="w/eave__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
