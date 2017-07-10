@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 44616
+	Entries: 44668
 	Sdefs: 84
 	Paradigms: 373
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -47945,6 +47945,58 @@
 <e lm="iPad">            <i>iPad</i><par n="Linux__np"/></e>
 <e lm="iPhone">          <i>iPhone</i><par n="Linux__np"/></e>
 <e lm="iTunes">          <i>iTunes</i><par n="Linux__np"/></e>
+<e lm="MySQL">           <i>MySQL</i><par n="Linux__np"/></e>
+<e lm="Netflix">         <i>Netflix</i><par n="Linux__np"/></e>
+<e lm="NeXTSTEP">        <i>NeXTSTEP</i><par n="Linux__np"/></e>
+<e lm="Nvidia">          <i>Nvidia</i><par n="Linux__np"/></e>
+<e lm="Peugeot">         <i>Peugeot</i><par n="Linux__np"/></e>
+<e lm="Rammstein">       <i>Rammstein</i><par n="Linux__np"/></e>
+<e lm="RuneQuest">       <i>RuneQuest</i><par n="Linux__np"/></e>
+<e lm="Scania">          <i>Scania</i><par n="Linux__np"/></e>
+<e lm="Scrabble">        <i>Scrabble</i><par n="Linux__np"/></e>
+<e lm="StarCraft">       <i>StarCraft</i><par n="Linux__np"/></e>
+<e lm="Toshiba">         <i>Toshiba</i><par n="Linux__np"/></e>
+<e lm="Valve">           <i>Valve</i><par n="Linux__np"/></e>
+<e lm="Verizon">         <i>Verizon</i><par n="Linux__np"/></e>
+<e lm="VisiCalc">        <i>VisiCalc</i><par n="Linux__np"/></e>
+<e lm="Vodafone">        <i>Vodafone</i><par n="Linux__np"/></e>
+<e lm="AmigaOS">         <i>AmigaOS</i><par n="Linux__np"/></e>
+<e lm="AppleTalk">       <i>AppleTalk</i><par n="Linux__np"/></e>
+<e lm="Stella Artois">   <i>Stella<b/>Artois</i><par n="Linux__np"/></e>
+<e lm="AutoCAD">         <i>AutoCAD</i><par n="Linux__np"/></e>
+<e lm="Bandai">          <i>Bandai</i><par n="Linux__np"/></e>
+<e lm="BeOS">            <i>BeOS</i><par n="Linux__np"/></e>
+<e lm="ClearType">       <i>ClearType</i><par n="Linux__np"/></e>
+<e lm="Technicolor">     <i>Technicolor</i><par n="Linux__np"/></e>
+<e lm="TrueType">        <i>TrueType</i><par n="Linux__np"/></e>
+<e lm="MasterCard">      <i>MasterCard</i><par n="Linux__np"/></e>
+<e lm="Zork">            <i>Zork</i><par n="Linux__np"/></e>
+<e lm="Vogue">           <i>Vogue</i><par n="Linux__np"/></e>
+<e lm="Viacom">          <i>Viacom</i><par n="Linux__np"/></e>
+<e lm="Usenet">          <i>Usenet</i><par n="Linux__np"/></e>
+<e lm="Seward">          <i>Seward</i><par n="Linux__np"/></e>
+<e lm="Selig">           <i>Selig</i><par n="Linux__np"/></e>
+<e lm="Denny's">         <i>Denny's</i><par n="Linux__np"/></e>
+<e lm="Depeche Mode">    <i>Depeche<b/>Mode</i><par n="Linux__np"/></e>
+<e lm="DocBook">         <i>DocBook</i><par n="Linux__np"/></e>
+<e lm="Dolby">           <i>Dolby</i><par n="Linux__np"/></e>
+<e lm="Square Enix">     <i>Square<b/>Enix</i><par n="Linux__np"/></e>
+<e lm="Squaresoft">      <i>Squaresoft</i><par n="Linux__np"/></e>
+<e lm="Enix">            <i>Enix</i><par n="Linux__np"/></e>
+<e lm="EverQuest">       <i>EverQuest</i><par n="Linux__np"/></e>
+<e lm="Famicom">         <i>Famicom</i><par n="Linux__np"/></e>
+<e lm="FedEx">           <i>FedEx</i><par n="Linux__np"/></e>
+<e lm="FreeBSD">         <i>FreeBSD</i><par n="Linux__np"/></e>
+<e lm="Freenet">         <i>Freenet</i><par n="Linux__np"/></e>
+<e lm="GNOME">           <i>GNOME</i><par n="Linux__np"/></e>
+<e lm="Hitachi">         <i>Hitachi</i><par n="Linux__np"/></e>
+<e lm="iPod">            <i>iPod</i><par n="Linux__np"/></e>
+<e lm="LG">              <i>LG</i><par n="Linux__np"/></e>
+<e lm="LimeWire">        <i>LimeWire</i><par n="Linux__np"/></e>
+<e lm="Lufthansa">       <i>Lufthansa</i><par n="Linux__np"/></e>
+<e lm="Magnavox">        <i>Magnavox</i><par n="Linux__np"/></e>
+<e lm="TfL">             <i>TfL</i><par n="Linux__np"/></e>
+<e lm="Transport for London"><i>Transport<b/>for<b/>London</i><par n="Linux__np"/></e>
 
     <!-- TODO: unsorted set of words  (insert here) -->
 
