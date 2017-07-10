@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 44474
+	Entries: 44555
 	Sdefs: 84
-	Paradigms: 378
+	Paradigms: 373
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -6832,7 +6832,7 @@
 <e lm="colostrum">       <i>colostrum</i><par n="east__n"/></e>
 <e lm="colour brochure" c="(GB)"><i>colour<b/>brochure</i><par n="house__n"/></e>
 <e lm="colour" v="eng">  <i>colour</i><par n="house__n"/></e>
-<e lm="color" v="eng_US"><p><l>color</l><r>colour</r></p><par n="house__n"/></e>
+<e lm="color" v="eng_US"><p><l>color</l>     <r>colour</r></p><par n="house__n"/></e>
 <e lm="coloured pencil" c="(GB)"><i>coloured<b/>pencil</i><par n="house__n"/></e>
 <e lm="colour film" c="(GB)"><i>colour<b/>film</i><par n="house__n"/></e>
 <e lm="colouring" c="(GB)"><i>colouring</i><par n="east__n"/></e>
@@ -31344,6 +31344,86 @@
 <e lm="rheumatoid">      <i>rheumatoid</i><par n="expensive__adj"/></e>
 <e lm="scandalous">      <i>scandalous</i><par n="expensive__adj"/></e>
 <e lm="sexist">          <i>sexist</i><par n="expensive__adj"/></e>
+<e lm="abstracted">      <i>abstracted</i><par n="expensive__adj"/></e>
+<e lm="aground">         <i>aground</i><par n="expensive__adj"/></e>
+<e lm="amazed">          <i>amazed</i><par n="expensive__adj"/></e>
+<e lm="assorted">        <i>assorted</i><par n="expensive__adj"/></e>
+<e lm="bastard">         <i>bastard</i><par n="expensive__adj"/></e>
+<e lm="long-bladed">     <i>long-bladed</i><par n="expensive__adj"/></e>
+<e lm="short-bladed">    <i>short-bladed</i><par n="expensive__adj"/></e>
+<e lm="boating">         <i>boating</i><par n="expensive__adj"/></e>
+<e lm="boolean">         <i>boolean</i><par n="expensive__adj"/></e>
+<e lm="brackish">        <i>brackish</i><par n="expensive__adj"/></e>
+<e lm="chilled">         <i>chilled</i><par n="expensive__adj"/></e>
+<e lm="circadian">       <i>circadian</i><par n="expensive__adj"/></e>
+<e lm="circumcised">     <i>circumcised</i><par n="expensive__adj"/></e>
+<e lm="clouded">         <i>clouded</i><par n="expensive__adj"/></e>
+<e lm="compassionate">   <i>compassionate</i><par n="expensive__adj"/></e>
+<e lm="congested">       <i>congested</i><par n="expensive__adj"/></e>
+<e lm="coniferous">      <i>coniferous</i><par n="expensive__adj"/></e>
+<e lm="courageous">      <i>courageous</i><par n="expensive__adj"/></e>
+<e lm="damned">          <i>damned</i><par n="expensive__adj"/></e>
+<e lm="diffused">        <i>diffused</i><par n="expensive__adj"/></e>
+<e lm="disenchanted">    <i>disenchanted</i><par n="expensive__adj"/></e>
+<e lm="disused">         <i>disused</i><par n="expensive__adj"/></e>
+<e lm="domed">           <i>domed</i><par n="expensive__adj"/></e>
+<e lm="enforceable">     <i>enforceable</i><par n="expensive__adj"/></e>
+<e lm="exalted">         <i>exalted</i><par n="expensive__adj"/></e>
+<e lm="flightless">      <i>flightless</i><par n="expensive__adj"/></e>
+<e lm="grieving">        <i>grieving</i><par n="expensive__adj"/></e>
+<e lm="homemade">        <i>homemade</i><par n="expensive__adj"/></e>
+<e lm="interfaith">      <i>interfaith</i><par n="expensive__adj"/></e>
+<e lm="laminated">       <i>laminated</i><par n="expensive__adj"/></e>
+<e lm="landless">        <i>landless</i><par n="expensive__adj"/></e>
+<e lm="lofty">           <i>loft</i><par n="happ/y__adj"/></e>
+<e lm="multiparty">      <i>multiparty</i><par n="expensive__adj"/></e>
+<e lm="nonstandard">     <i>nonstandard</i><par n="expensive__adj"/></e>
+<e lm="nonpartisan">     <i>nonpartisan</i><par n="expensive__adj"/></e>
+<e lm="overcrowded">     <i>overcrowded</i><par n="expensive__adj"/></e>
+<e lm="payable">         <i>payable</i><par n="expensive__adj"/></e>
+<e lm="perfective">      <i>perfective</i><par n="expensive__adj"/></e>
+<e lm="plosive">         <i>plosive</i><par n="expensive__adj"/></e>
+<e lm="preemptive">      <i>preemptive</i><par n="expensive__adj"/></e>
+<e lm="prudent">         <i>prudent</i><par n="expensive__adj"/></e>
+<e lm="repulsive">       <i>repulsive</i><par n="expensive__adj"/></e>
+<e lm="retaliatory">     <i>retaliatory</i><par n="expensive__adj"/></e>
+<e lm="sparkling">       <i>sparkling</i><par n="expensive__adj"/></e>
+<e lm="speedy">          <i>speed</i><par n="happ/y__adj"/></e>
+<e lm="sturdy">          <i>sturd</i><par n="happ/y__adj"/></e>
+<e lm="submissive">      <i>submissive</i><par n="expensive__adj"/></e>
+<e lm="supervisory">     <i>supervisory</i><par n="expensive__adj"/></e>
+<e lm="superstitious">   <i>superstitious</i><par n="expensive__adj"/></e>
+<e lm="swampy">          <i>swamp</i><par n="happ/y__adj"/></e>
+<e lm="terrifying">      <i>terrifying</i><par n="expensive__adj"/></e>
+<e lm="timeless">        <i>timeless</i><par n="expensive__adj"/></e>
+<e lm="voluminous">      <i>voluminous</i><par n="expensive__adj"/></e>
+<e lm="Acadian">         <i>Acadian</i><par n="expensive__adj"/></e>
+<e lm="Aleutian">        <i>Aleutian</i><par n="expensive__adj"/></e>
+<e lm="Amazonian">       <i>Amazonian</i><par n="expensive__adj"/></e>
+<e lm="anglophone">      <i>anglophone</i><par n="expensive__adj"/></e>
+<e lm="Archimedean">     <i>Archimedean</i><par n="expensive__adj"/></e>
+<e lm="Augustinian">     <i>Augustinian</i><par n="expensive__adj"/></e>
+<e lm="Australasian">    <i>Australasian</i><par n="expensive__adj"/></e>
+<e lm="Brythonic">       <i>Brythonic</i><par n="expensive__adj"/></e>
+<e lm="Caledonian">      <i>Caledonian</i><par n="expensive__adj"/></e>
+<e lm="Chadian">         <i>Chadian</i><par n="expensive__adj"/></e>
+<e lm="Copernican">      <i>Copernican</i><par n="expensive__adj"/></e>
+<e lm="Danubian">        <i>Danubian</i><par n="expensive__adj"/></e>
+<e lm="Dalmatian">       <i>Dalmatian</i><par n="expensive__adj"/></e>
+<e lm="Edwardian">       <i>Edwardian</i><par n="expensive__adj"/></e>
+<e lm="francophone">     <i>francophone</i><par n="expensive__adj"/></e>
+<e lm="Gardnerian">      <i>Gardnerian</i><par n="expensive__adj"/></e>
+<e lm="Hanoverian">      <i>Hanoverian</i><par n="expensive__adj"/></e>
+<e lm="Jacobian">        <i>Jacobian</i><par n="expensive__adj"/></e>
+<e lm="kabbalistic">     <i>kabbalistic</i><par n="expensive__adj"/></e>
+<e lm="Lancastrian">     <i>Lancastrian</i><par n="expensive__adj"/></e>
+<e lm="Levantine">       <i>Levantine</i><par n="expensive__adj"/></e>
+<e lm="Magellanic">      <i>Magellanic</i><par n="expensive__adj"/></e>
+<e lm="Mesoamerican">    <i>Mesoamerican</i><par n="expensive__adj"/></e>
+<e lm="Mississippian">   <i>Mississippian</i><par n="expensive__adj"/></e>
+<e lm="Neptunian">       <i>Neptunian</i><par n="expensive__adj"/></e>
+<e lm="Nestorian">       <i>Nestorian</i><par n="expensive__adj"/></e>
+<e lm="Northumbrian">    <i>Northumbrian</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
