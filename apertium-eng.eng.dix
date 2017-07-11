@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 44694
+	Entries: 44697
 	Sdefs: 84
-	Paradigms: 373
+	Paradigms: 374
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -596,6 +596,12 @@
   <e>       <p><l></l>          <r><s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="what__det">
+  <e>       <p><l></l>          <r><s n="det"/><s n="itg"/><s n="sp"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l></l>          <r><s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="prpos__det">
@@ -3455,6 +3461,9 @@
 <e lm="too many">        <i>too<b/>many</i><par n="many__det"/></e>
 <e lm="too much">        <i>too<b/>much</i><par n="much__det"/></e>
 <e lm="various">         <i>various</i><par n="several__det"/></e>
+<e lm="what">            <i>what</i><par n="what__det"/></e>
+<e lm="which">           <i>which</i><par n="what__det"/></e>
+<e lm="whose">           <i>whose</i><par n="what__det"/></e>
 
 <e lm="my">              <i>my</i><par n="her__det"/></e>
 <e lm="your">            <i>your</i><par n="her__det"/></e>
@@ -22073,40 +22082,39 @@
 <e lm="reflectivity">    <i>reflectivit</i><par n="bab/y__n"/></e>
 <e lm="reductionism">    <i>reductionism</i><par n="house__n"/></e>
 <e lm="revitalization">  <i>revitalization</i><par n="house__n"/></e>
-<e lm="Ainu">            <i>Ainu</i><par n="east__n"/></e>
-<e lm="Akkadian">        <i>Akkadian</i><par n="east__n"/></e>
+<e lm="Ainu">            <i>Ainu</i><par n="politics__n"/></e>
+<e lm="Akkadian">        <i>Akkadian</i><par n="house__n"/></e>
 <e lm="Arabic">          <i>Arabic</i><par n="east__n"/></e>
-<e lm="Aztec">           <i>Aztec</i><par n="east__n"/></e>
-<e lm="Bengali">         <i>Bengali</i><par n="east__n"/></e>
-<e lm="Burmese">         <i>Burmese</i><par n="east__n"/></e>
-<e lm="Cantonese">       <i>Cantonese</i><par n="east__n"/></e>
-<e lm="Croatian">        <i>Croatian</i><par n="east__n"/></e>
-<e lm="Estonian">        <i>Estonian</i><par n="east__n"/></e>
-<e lm="Etruscan">        <i>Etruscan</i><par n="east__n"/></e>
+<e lm="Aztec">           <i>Aztec</i><par n="house__n"/></e>
+<e lm="Bengali">         <i>Bengali</i><par n="house__n"/></e>
+<e lm="Burmese">         <i>Burmese</i><par n="politics__n"/></e>
+<e lm="Cantonese">       <i>Cantonese</i><par n="politics__n"/></e>
+<e lm="Croatian">        <i>Croatian</i><par n="house__n"/></e>
+<e lm="Estonian">        <i>Estonian</i><par n="house__n"/></e>
+<e lm="Etruscan">        <i>Etruscan</i><par n="house__n"/></e>
 <e lm="Irish Gaelic">    <i>Irish<b/>Gaelic</i><par n="east__n"/></e>
 <e lm="Scots Gaelic">    <i>Scots<b/>Gaelic</i><par n="east__n"/></e>
-<e lm="Georgian">        <i>Georgian</i><par n="east__n"/></e>
-<e lm="Hawaiian">        <i>Hawaiian</i><par n="east__n"/></e>
+<e lm="Georgian">        <i>Georgian</i><par n="house__n"/></e>
+<e lm="Hawaiian">        <i>Hawaiian</i><par n="house__n"/></e>
 <e lm="Hindi">           <i>Hindi</i><par n="east__n"/></e>
-<e lm="Hittite">         <i>Hittite</i><par n="east__n"/></e>
-<e lm="Indonesian">      <i>Indonesian</i><par n="east__n"/></e>
-<e lm="Lombard">         <i>Lombard</i><par n="east__n"/></e>
-<e lm="Macedonian">      <i>Macedonian</i><par n="east__n"/></e>
-<e lm="Malaysian">       <i>Malaysian</i><par n="east__n"/></e>
-<e lm="Manx">            <i>Manx</i><par n="east__n"/></e>
-<e lm="Mongolian">       <i>Mongolian</i><par n="east__n"/></e>
-<e lm="Polish">          <i>Polish</i><par n="east__n"/></e>
-<e lm="Prussian">        <i>Prussian</i><par n="east__n"/></e>
+<e lm="Hittite">         <i>Hittite</i><par n="house__n"/></e>
+<e lm="Indonesian">      <i>Indonesian</i><par n="house__n"/></e>
+<e lm="Lombard">         <i>Lombard</i><par n="house__n"/></e>
+<e lm="Macedonian">      <i>Macedonian</i><par n="house__n"/></e>
+<e lm="Malaysian">       <i>Malaysian</i><par n="house__n"/></e>
+<e lm="Manx">            <i>Manx</i><par n="access__n"/></e>
+<e lm="Mongolian">       <i>Mongolian</i><par n="house__n"/></e>
+<e lm="Prussian">        <i>Prussian</i><par n="house__n"/></e>
 <e lm="Romansh">         <i>Romansh</i><par n="east__n"/></e>
-<e lm="Sardinian">       <i>Sardinian</i><par n="east__n"/></e>
-<e lm="Serbian">         <i>Serbian</i><par n="east__n"/></e>
-<e lm="Sicilian">        <i>Sicilian</i><par n="east__n"/></e>
-<e lm="Silesian">        <i>Silesian</i><par n="east__n"/></e>
-<e lm="Sinhalese">       <i>Sinhalese</i><par n="east__n"/></e>
-<e lm="Slovak">          <i>Slovak</i><par n="east__n"/></e>
-<e lm="Slovene">         <i>Slovene</i><par n="east__n"/></e>
-<e lm="Slovenian">       <i>Slovenian</i><par n="east__n"/></e>
-<e lm="Tibetan">         <i>Tibetan</i><par n="east__n"/></e>
+<e lm="Sardinian">       <i>Sardinian</i><par n="house__n"/></e>
+<e lm="Serbian">         <i>Serbian</i><par n="house__n"/></e>
+<e lm="Sicilian">        <i>Sicilian</i><par n="house__n"/></e>
+<e lm="Silesian">        <i>Silesian</i><par n="house__n"/></e>
+<e lm="Sinhalese">       <i>Sinhalese</i><par n="politics__n"/></e>
+<e lm="Slovak">          <i>Slovak</i><par n="house__n"/></e>
+<e lm="Slovene">         <i>Slovene</i><par n="house__n"/></e>
+<e lm="Slovenian">       <i>Slovenian</i><par n="house__n"/></e>
+<e lm="Tibetan">         <i>Tibetan</i><par n="house__n"/></e>
 <e lm="Urdu">            <i>Urdu</i><par n="east__n"/></e>
     
     <!-- Acronyms -->
