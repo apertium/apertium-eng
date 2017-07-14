@@ -21179,6 +21179,7 @@
 <e lm="uranium">         <i>uranium</i><par n="house__n"/></e>
 <e lm="uranium plant">   <i>uranium<b/>plant</i><par n="house__n"/></e>
 <e lm="urban area">      <i>urban<b/>area</i><par n="house__n"/></e>
+<e lm="urban commoner">  <i>urban<b/>commoner</i><par n="house__n"/></e> <!-- Use/MT -->
 <e lm="urbanisation" c="(GB)"><i>urbanisation</i><par n="house__n"/></e>
 <e lm="urbanism">        <i>urbanism</i><par n="house__n"/></e>
 <e lm="urbanity">        <i>urbanit</i><par n="bab/y__n"/></e>
