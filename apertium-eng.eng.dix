@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 45426
+	Entries: 45445
 	Sdefs: 84
-	Paradigms: 374
+	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -723,6 +723,14 @@
   <e r="RL"><p><l></l>          <r><s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l></l>          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+</pardef>
+
+<pardef n="how_many__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="how_much__prn">
+  <e>       <p><l></l>          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r></p></e>
 </pardef>
 
 <pardef n="whose__prn">
@@ -3375,6 +3383,7 @@
 <e lm="the one who">     <i>the<b/>one<b/>who</i><par n="what__prn_rel"/></e>
 <e lm="the ones that">   <i>the<b/>ones<b/>that</i><par n="those_who__prn_rel"/></e>
 <e lm="the ones who">    <i>the<b/>ones<b/>who</i><par n="those_who__prn_rel"/></e>
+<e lm="the other">       <i>the<b/>other</i><par n="the_other__prn"/></e>
 <e lm="this">            <i>th</i><par n="th/is__prn"/></e>
 <e lm="this">            <i>this</i><par n="that__prn_rel"/></e>
 <e lm="those that">      <i>those<b/>that</i><par n="those_who__prn_rel"/></e>
@@ -3390,6 +3399,12 @@
 <e lm="who">             <i>who</i><par n="that__prn_rel"/></e>
 <e lm="whom">            <i>whom</i><par n="that__prn_rel"/></e>
 <e lm="whose">           <i>whose</i><par n="whose__prn"/></e>
+<e lm="another">         <i>another</i><par n="everyone__prn"/></e>
+<e lm="a few">           <i>a<b/>few</i><par n="both__prn"/></e>
+<e lm="whoever">         <i>whoever</i><par n="everyone__prn"/></e>
+<e lm="too many">        <i>too<b/>many</i><par n="both__prn"/></e>
+<e lm="how many">        <i>how<b/>many</i><par n="how_many__prn"/></e>
+<e lm="how much">        <i>how<b/>much</i><par n="how_much__prn"/></e>
 
 
 <e r="RL" lm="I">        <i></i><par n="/I__prn"/></e>
@@ -3440,6 +3455,7 @@
 <e lm="fewer">           <i>fewer</i><par n="many__det"/></e>
 <e lm="less">            <i>less</i><par n="much__det"/></e>
 <e lm="lots of">         <i>lots<b/>of</i><par n="enough__det"/></e>
+<e lm="little">          <i>little</i><par n="much__det"/></e>
 <e lm="many">            <i>many</i><par n="many__det"/></e>
 <e lm="more">            <i>more</i><par n="enough__det"/></e>
 <e lm="more than half of"><i>more<b/>than<b/>half<b/>of</i><par n="enough__det"/></e>
@@ -3454,6 +3470,7 @@
 <e lm="so much">         <i>so<b/>much</i><par n="much__det"/></e>
 <e lm="some">            <i>some</i><par n="enough__det"/></e>
 <e lm="such">            <i>such</i><par n="other__det"/></e>
+<e lm="such a">          <i>such<b/>a</i><par n="another__det"/></e>
 <e lm="that">            <i>th</i><par n="th/at__det"/></e>
 <e lm="the">             <i>the</i><par n="the__det"/></e>
 <e lm="the same">        <i>the<b/>same</i><par n="other__det"/></e>
@@ -36416,6 +36433,16 @@
 <e lm="fourteenth">      <i>fourteenth</i><par n="second__adj"/></e>
 <e lm="fourth">          <i>fourth</i><par n="second__adj"/></e>
 <e lm="hundredth">       <i>hundredth</i><par n="second__adj"/></e>
+<e lm="one hundredth">   <i>one<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="two hundredth">   <i>two<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="three hundredth"> <i>three<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="four hundredth">  <i>four<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="five hundredth">  <i>five<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="six hundredth">   <i>six<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="seven hundredth"> <i>seven<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="eight hundredth"> <i>eight<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="nine hundredth">  <i>nine<g></g>hundredth</i><par n="second__adj"/></e>
+<e lm="millionth">       <i>millionth</i><par n="second__adj"/></e>
 <e lm="last">            <i>last</i><par n="second__adj"/></e>
 <e lm="nineteenth">      <i>nineteenth</i><par n="second__adj"/></e>
 <e lm="ninetieth">       <i>ninetieth</i><par n="second__adj"/></e>
