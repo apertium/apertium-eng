@@ -262,7 +262,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^accused/accuse<vblex><pp>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^avoid/avoid<vblex><inf>$
 ^punishment/punishment<n><sg>$
 ^by/by<pr>$
@@ -297,7 +297,7 @@
 ^this/this<prn><tn><mf><sg>$ 
 ^,/,<cm>$ 
 ^he/prpers<prn><subj><p3><m><sg>$ 
-^could/can<vaux><past>$ 
+^could/can<vbmod><past>$ 
 ^prove/prove<vblex><inf>$ 
 ^his/his<det><pos><sp>$ 
 ^innocence/innocence<n><sg>$ 
@@ -411,7 +411,7 @@
 ^Empire/Empire<n><sg>$
 ^and/and<cnjcoo>$
 ^Anglo-Norman/Anglo-Norman<adj>$
-^England/England<np><loc><sg>$
+^England/England<np><top><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^11th/11<num><ord>$
@@ -458,7 +458,7 @@
 ^takes/take<vblex><pri><p3><sg>$
 ^hold/hold<n><sg>$
 ^in/in<pr>$
-^Scandinavia/Scandinavia<np><loc><sg>$
+^Scandinavia/Scandinavia<np><top><sg>$
 ^slightly/slightly<adv>$
 ^later/later<adv>$
 ^,/,<cm>$
@@ -475,13 +475,13 @@
 ^,/,<cm>$
 ^Consolidation/Consolidation<n><sg>$
 ^of/of<pr>$
-^Sweden/Sweden<np><loc><sg>$
+^Sweden/Sweden<np><top><sg>$
 ^,/,<cm>$
 ^Civil/Civil<adj>$
 ^war/war<n><sg>$
 ^era/era<n><sg>$
 ^in/in<pr>$
-^Norway/Norway<np><loc><sg>$
+^Norway/Norway<np><top><sg>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^by/by<pr>$
@@ -545,7 +545,7 @@
 ^federalist/federalist<adj>$
 ^organisation/organisation<n><sg>$
 ^of/of<pr>$
-^Switzerland/Switzerland<np><loc><sg>$
+^Switzerland/Switzerland<np><top><sg>$
 ^,/,<cm>$
 ^where/where<rel><adv>$ 
 ^cantonal/cantonal<adj>$

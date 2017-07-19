@@ -308,7 +308,7 @@
 ^./.<sent>$
 
 ^They/prpers<prn><subj><p3><mf><pl>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^held/hold<vblex><pp>$
 ^with/with<pr>$
@@ -718,7 +718,7 @@
 ^spiral/spiral<n><sg>$
 ^until/until<pr>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^chop/chop<n><sg>$
 ^the/the<det><def><sp>$
 ^top/top<n><sg>$

@@ -268,7 +268,7 @@
 ^Croatian/croatian<adj>$ 
 ^area/area<n><sg>$ 
 ^of/of<pr>$
-^Meðimurje/Meðimurje<np><loc><sg>$ 
+^Meðimurje/Meðimurje<np><top><sg>$ 
 ^and/and<cnjcoo>$ 
 ^the/the<det><def><sp>$ 
 ^Slovene/*Slovene$ 
@@ -377,7 +377,7 @@
 ^,/,<cm>$ 
 ^German/German<adj>$ 
 ^forces/force<n><pl>/force<vblex><pri><p3><sg>$ 
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^hang/hang<vblex><inf>$  
 ^or/or<cnjcoo>$ 
 ^shoot/shoot<vblex><inf>$ 

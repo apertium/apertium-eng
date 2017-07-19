@@ -1178,7 +1178,7 @@ visiting/visiting<adj>$
 ^that/that<cnjsub>$
 ^neither/neither<adv>$
 ^side/side<n><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^agree to/agree<vblex><inf># to$
 ^a/a<det><ind><sg>$
 ^voter/voter<n><sg>$

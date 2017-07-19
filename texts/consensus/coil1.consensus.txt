@@ -60,7 +60,7 @@
 ^disruptive/*disruptive$ 
 ^Tesla/Tesla<np><cog><sg>$ 
 ^coil/coil<n><sg>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^be/be<vbser><inf>$ 
 ^significantly/significantly<adv>$ 
 ^greater/great<adj><sint><comp>$ 
@@ -158,7 +158,7 @@
 ^designed/design<vblex><pp>$ 
 ^Tesla/Tesla<np><cog><sg>$ 
 ^coil/coil<n><sg>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^transfer/transfer<vblex><inf>$
 ^over/over<pr>$ 
 ^85%/85%<num><percent>$ 
@@ -338,7 +338,7 @@
 " 
 ^so that/so that<cnjadv>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$ 
-^will/will<vaux><inf>$ 
+^will/will<vbmod><pres>$ 
 ^resonate/*resonate$ 
 ^at/at<pr>$ 
 ^the same/the same<det><ind><sp>$
@@ -379,7 +379,7 @@
 ^transformer/transformer<n><sg>$ 
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
-^may/may<vaux><inf>$ 
+^may/may<vbmod><inf>$ 
 ^couple/couple<n><sg>$ 
 ^97%/97%<num><percent>$ 
 + 
@@ -605,7 +605,7 @@
 ^of/of<pr>$ 
 ^a/a<det><ind><sg>$ 
 ^DRSSTC/*DRSSTC$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^be/be<vbser><inf>$ 
 ^comparable/comparable<adj>$ 
 ^to/to<pr>$ 
@@ -629,7 +629,7 @@
 ^input/input<n><sg>$ 
 ^power/power<n><sg>$ 
 ^)/)<rpar>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^be/be<vbser><inf>$ 
 ^significantly/significantly<adv>$ 
 ^greater/great<adj><sint><comp>$ 
@@ -705,7 +705,7 @@
 ^./.<sent>$
 
 ^This/This<prn><tn><mf><sg>$
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^induce/induce<vblex><inf>$ 
 ^corona/*corona$ 
 ^discharges/discharge<n><pl>$ 
@@ -796,7 +796,7 @@
 ^the/the<det><def><sp>$ 
 ^HV/*HV$ 
 ^transformer/transformer<n><sg>$ 
-^must/must<vaux><inf>$ 
+^must/must<vbmod><pres>$ 
 ^be/be<vbser><inf>$ 
 ^of/of<pr>$ 
 ^a/a<det><ind><sg>$ 
@@ -824,7 +824,7 @@
 ^high/high<adj><sint>$ 
 ^voltage/voltage<n><sg>$ 
 ^transformer/transformer<n><sg>$ 
-^must/must<vaux><inf>$ 
+^must/must<vbmod><pres>$ 
 ^use/use<vblex><inf>$ 
 ^an/a<det><ind><sg>$ 
 ^external/external<adj>$ 
@@ -1037,7 +1037,7 @@
 ^coils/coil<n><pl>$ 
 ^and/and<cnjcoo>$ 
 ^magnifiers/*magnifiers$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^deliver/deliver<vblex><inf>$ 
 ^dangerous/dangerous<adj>$ 
 ^levels/level<n><pl>$ 
@@ -1048,7 +1048,7 @@
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
 ^they/prpers<prn><subj><p3><mf><pl>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^also/also<adv>$ 
 ^develop/develop<vblex><inf>$ 
 ^significantly/significantly<adv>$ 
@@ -1073,7 +1073,7 @@
 ^,/,<cm>$ 
 ^large/large<adj><sint>$ 
 ^systems/system<n><pl>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^deliver/deliver<vblex><inf>$ 
 ^higher/high<adj><sint><comp>$ 
 ^energy/energy<n><sg>$ 
@@ -1132,7 +1132,7 @@
 ^current/current<n><sg>$
 ^electric/electric<adj>$ 
 ^shock/shock<n><sg>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^cause/cause<vblex><inf>$ 
 ^involuntary/involuntary<adj>$ 
 ^spasms/*spasms$ 
@@ -1141,7 +1141,7 @@
 ^muscle/muscle<n><sg>$ 
 ^groups/group<n><pl>$ 
 ^and/and<cnjcoo>$ 
-^may/may<vaux><inf>$ 
+^may/may<vbmod><inf>$ 
 ^induce/induce<vblex><inf>$ 
 ^life/life<n><sg>$
 ^-/-<guio>$
@@ -1163,7 +1163,7 @@
 ^state/state<n><sg>$
 ^Tesla/Tesla<n><sg>$ 
 ^coils/coil<n><pl>$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^deliver/deliver<vblex><inf>$ 
 ^RF/*RF$ 
 ^currents/current<n><pl>$ 
@@ -1191,7 +1191,7 @@
 ^an/a<det><ind><sg>$ 
 ^RF/*RF$ 
 ^arc/*arc$ 
-^can/can<vaux><pres>$ 
+^can/can<vbmod><pres>$ 
 ^carbonise/*carbonise$ 
 ^flesh/flesh<n><sg>$ 
 ^,/,<cm>$ 
@@ -1206,7 +1206,7 @@
 ^RF/*RF$ 
 ^burn/burn<n><sg>$ 
 ^that/that<rel><an><mf><sp>$ 
-^may/may<vaux><inf>$ 
+^may/may<vbmod><inf>$ 
 ^take/take<vblex><inf>$ 
 ^months/month<n><pl>$ 
 ^to/to<pr>$ 

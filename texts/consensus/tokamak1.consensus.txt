@@ -43,7 +43,7 @@
 ^a/a<det><ind><sg>$
 ^helical/*helical$
 ^field/field<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^generated/generate<vblex><pp>$
 ^by/by<pr>$
@@ -162,7 +162,7 @@
 ^no/no<det><ind><sp>$
 ^solid/solid<adj><sint>$
 ^material/material<n><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^withstand/*withstand$
 ^the/the<det><def><sp>$
 ^extremely/extremely<adv>$
@@ -250,7 +250,7 @@
 ^international/international<adj>$
 ^scientific/scientific<adj>$
 ^collaboration/collaboration<n><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^take/take<vblex><inf>$
 ^place/place<n><sg>$
 ^./.<sent>$
@@ -267,7 +267,7 @@
 ^Kurchatov/*Kurchatov$
 ^Institute/institute<n><sg>$
 ^,/,<cm>$
-^Moscow/Moscow<np><loc><sg>$
+^Moscow/Moscow<np><top><sg>$
 ^by/by<pr>$
 ^a/a<det><ind><sg>$
 ^group/group<n><sg>$
@@ -426,7 +426,7 @@
 ^the/the<det><def><sp>$
 ^hot/hot<adj><sint>$
 ^plasma/plasma<n><sg>$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^confined/confine<vblex><pp>$
 ^in/in<pr>$
@@ -437,7 +437,7 @@
 ^or/or<cnjcoo>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^rapidly/rapidly<adv>$
 ^cool/cool<vblex><inf>$
 ^./.<sent>$
@@ -538,7 +538,7 @@
 ^./.<sent>$
 
 ^This/this<prn><tn><mf><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^understood/understand<vblex><pp>$
 ^by/by<pr>$
@@ -640,7 +640,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^viewed/view<vblex><pp>$
 ^as/as<pr>$
@@ -677,7 +677,7 @@
 ^outside/outside<n><sg>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^cannot/can<vaux><pres>+not<adv>$
+^cannot/can<vbmod><pres>+not<adv>$
 ^prevent/prevent<vblex><inf>$
 ^this/this<det><dem><sg>$
 ^expansion/expansion<n><sg>$
@@ -707,7 +707,7 @@
 ^field/field<n><sg>$
 ^,/,<cm>$
 ^there/there<adv>$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^a/a<det><ind><sg>$
 ^twist/twist<n><sg>$
@@ -753,7 +753,7 @@
 ^a/a<det><ind><sg>$
 ^flux/*flux$
 ^surface/surface<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
@@ -775,7 +775,7 @@
 ^the/the<det><def><sp>$
 ^torus/*torus$
 ^and/and<cnjcoo>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^drift/drift<vblex><inf>$
 ^to/to<pr>$
 ^other/other<det><ind><sp>$
@@ -800,7 +800,7 @@
 ^the/the<det><def><sp>$
 ^flux/*flux$
 ^surface/surface<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
@@ -1114,7 +1114,7 @@
 ^of/of<pr>$
 ^major/major<adj>$
 ^disruptions/disruption<n><pl>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^definitively/definitively<adv>$
 ^damage/damage<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -1139,7 +1139,7 @@
 ^the/the<det><def><sp>$
 ^energy/energy<n><sg>$
 ^generated/generate<vblex><pp>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^serve/serve<vblex><inf>$
 ^to/to<pr>$
 ^maintain/maintain<vblex><inf>$
@@ -1174,7 +1174,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^have/have<vbhaver><inf>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
@@ -1280,7 +1280,7 @@
 ^:/:<sent>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^viewed/view<vblex><pp>$
 ^as/as<pr>$
@@ -1322,7 +1322,7 @@
 ^./.<sent>$
 
 ^Tokamaks/*Tokamaks$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^therefore/therefore<adv>$
 ^either/either<cnjcoo>$
 ^operate/operate<vblex><inf>$
@@ -1449,7 +1449,7 @@
 ^additional/additional<adj>$
 ^heating/heat<vblex><subs>$
 ^methods/method<n><pl>$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^used/use<vblex><pp>$
 ^./.<sent>$
@@ -1526,7 +1526,7 @@
 
 ^A/a<det><ind><sg>$
 ^gas/gas<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^heated/heat<vblex><pp>$
 ^by/by<pr>$
@@ -1652,7 +1652,7 @@
 ^,/,<cm>$
 ^their/their<det><pos><sp>$
 ^energy/energy<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^transferred/transfer<vblex><pp>$
 ^to/to<pr>$
@@ -1804,7 +1804,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^tokamak/*tokamak$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^cooled/cool<vblex><pp>$
 ^because/because<cnjadv>$

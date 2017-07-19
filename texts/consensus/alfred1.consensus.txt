@@ -64,7 +64,7 @@
 "
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^indicate/indicate<vblex><inf>$
 ^a/a<det><ind><sg>$
 ^position/position<n><sg>$
@@ -114,7 +114,7 @@
 ^a/a<det><ind><sg>$
 ^disputed/disputed<adj>$
 ^succession/succession<n><sg>$
-^should/should<vaux><inf>$
+^should/shall<vbmod><past>$
 ^Æthelred/*Æthelred$
 ^fall/fall<vblex><inf>$
 ^in/in<pr>$
@@ -292,7 +292,7 @@
 ^existing/exist<vblex><pprs>$
 ^system/system<n><sg>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^not/not<adv>$
 ^assemble/assemble<vblex><inf>$
 ^forces/force<n><pl>$
@@ -361,7 +361,7 @@
 ^army/army<n><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^build/build<vblex><inf>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^./.<sent>$
@@ -375,7 +375,7 @@
 ^sea/sea<n><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^counter/counter<vblex><inf>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^with/with<pr>$
@@ -484,7 +484,7 @@
 ^his/his<det><pos><sp>$
 ^burhs/*burhs$
 ^alone/alone<adv>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^have/have<vbhaver><inf>$
 ^afforded/afford<vblex><pp>$
 ^a/a<det><ind><sg>$

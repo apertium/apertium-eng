@@ -44,7 +44,7 @@
 ^that/that<rel><an><mf><sp>$
 ^fatigue/fatigue<n><sg>$
 ^failure/failure<n><sg>$
-^will/will<vaux><pres>$
+^will/will<vbmod><pres>$
 ^eventually/eventually<adv>$
 ^occur/occur<vblex><inf>$
 ^under/under<pr>$
@@ -59,7 +59,7 @@
 ^implies/imply<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^engineers/engineer<n><pl>$
-^must/must<vaux><pres>$
+^must/must<vbmod><pres>$
 ^assess/assess<vblex><inf>$
 ^these/this<det><dem><pl>$
 ^loads/load<n><pl>$
@@ -90,7 +90,7 @@
 ^unlike/unlike<adj>$
 ^steel/steel<n><sg>$
 ^,/,<cm>$
-^will/will<vaux><pres>$
+^will/will<vbmod><pres>$
 ^melt/melt<vblex><inf>$
 ^without/without<adv>$
 ^first/first<adv>$
@@ -177,7 +177,7 @@
 ^Controlled/Control<vblex><pp>$
 ^stress/stress<n><sg>$
 ^relief/relief<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^done/do<vblex><pp>$
 ^during/during<pr>$

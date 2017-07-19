@@ -1,7 +1,7 @@
 ^The/The<det><def><sp>$
-^United States/United States<np><loc><pl>$
+^United States/United States<np><top><pl>$
 ^of/of<pr>$
-^America/America<np><loc><sg>$
+^America/America<np><top><sg>$
 ^'s/'s<gen>$
 ^intentions/intention<n><pl>$
 ^to/to<pr>$
@@ -11,7 +11,7 @@
 ^(/(<lpar>$
 ^especially/especially<adv>$
 ^the/the<det><def><sp>$
-^Panama/Panama<np><loc><sg>$
+^Panama/Panama<np><top><sg>$
 ^Canal/Canal<n><sg>$
 ^construction/construction<n><sg>$
 ^and/and<cnjcoo>$
@@ -25,7 +25,7 @@
 ^the/the<det><def><sp>$
 ^Department/Department<n><sg>$
 ^of/of<pr>$
-^Panama/Panama<np><loc><sg>$
+^Panama/Panama<np><top><sg>$
 ^in/in<pr>$
 ^1903/1903<num>$
 ^and/and<cnjcoo>$
@@ -38,9 +38,9 @@
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
-^United States/United States<np><loc><pl>$
+^United States/United States<np><top><pl>$
 ^paid/pay<vblex><past>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^\$/\$<mon>$^25,000/25,000<num>$^,/,<cm>$^000/000<num>$
 ^in/in<pr>$
 ^1921/1921<num>$
@@ -64,12 +64,12 @@
 ^the/the<det><def><sp>$
 ^creation/creation<n><sg>$
 ^of/of<pr>$
-^Panama/Panama<np><loc><sg>$
+^Panama/Panama<np><top><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^recognised/recognise<vblex><past>$
-^Panama/Panama<np><loc><sg>$
+^Panama/Panama<np><top><sg>$
 ^under/under<pr>$
 ^the/the<det><def><sp>$
 ^terms/term<n><pl>$
@@ -80,7 +80,7 @@
 ^Treaty/Treaty<n><sg>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^engulfed/*engulfed$
 ^in/in<pr>$
@@ -90,7 +90,7 @@
 ^Long/Long<adj><sint>$
 ^War/War<n><sg>$
 ^with/with<pr>$
-^Peru/Peru<np><loc><sg>$
+^Peru/Peru<np><top><sg>$
 ^over/over<pr>$
 ^a/a<det><ind><sg>$
 ^territorial/territorial<adj>$
@@ -108,7 +108,7 @@
 ^Soon/Soon<adv>$
 ^after/after<adv>$
 ^,/,<cm>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^achieved/achieve<vblex><past>$
 ^some/some<det><qnt><sp>$
 ^degree/degree<n><sg>$
@@ -207,7 +207,7 @@
 ^Colombians/Colombian<n><pl>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^entered/enter<vblex><past>$
 ^the/the<det><def><sp>$
 ^Korean/korean<adj>$
@@ -221,7 +221,7 @@
 ^President/President<n><sg>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^the/the<det><def><sp>$
 ^only/only<adj>$
@@ -243,9 +243,9 @@
 ^ally/ally<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^United States/United States<np><loc><pl>$
+^United States/United States<np><top><pl>$
 ^,/,<cm>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
  ^'s/'s<gen>$
 ^mission/mission<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -301,7 +301,7 @@
 ^the/the<det><def><sp>$
 ^President/President<n><sg>$
 ^of/of<pr>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^in/in<pr>$
 ^a/a<det><ind><sg>$
 ^coup d'état/coup<n><sg># d'état$
@@ -346,7 +346,7 @@
 ^a/a<det><ind><sg>$
 ^coalition/coalition<n><sg>$
 ^which/which<rel><an><mf><sp>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^jointly/jointly<adv>$
 ^govern/govern<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -359,7 +359,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^presidency/presidency<n><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^alternate/alternate<vblex><inf>$
 ^between/between<pr>$
 ^conservatives/*conservatives$
@@ -375,7 +375,7 @@
 ^the/the<det><def><sp>$
 ^two/two<num><sp>$
 ^parties/party<n><pl>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^have/have<vblex><inf>$
 ^parity/parity<n><sg>$
 ^in/in<pr>$
@@ -511,7 +511,7 @@
 ^The/The<det><def><sp>$
 ^conflict/conflict<n><sg>$
 ^in/in<pr>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^takes place/take<vblex><pri><p3><sg># place$
 ^mainly/mainly<adv>$
 ^in/in<pr>$
@@ -528,9 +528,9 @@
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
-^United States/United States<np><loc><pl>$
+^United States/United States<np><top><pl>$
 ^of/of<pr>$
-^America/America<np><loc><sg>$
+^America/America<np><top><sg>$
 ^has/have<vbhaver><pri><p3><sg>$
 ^been/be<vbser><pp>$
 ^heavily/heavily<adv>$
@@ -548,7 +548,7 @@
 ^early/early<adj><sint>$
 ^1960/1960<num>$^s/*s$
 ^the/the<det><def><sp>$
-^U.S./U.S.<np><loc><sg>$
+^U.S./U.S.<np><top><sg>$
 ^government/government<n><sg>$
 ^pushed/push<vblex><past>$
 ^the/the<det><def><sp>$
@@ -561,7 +561,7 @@
 ^communities/community<n><pl>$
 ^in/in<pr>$
 ^rural/rural<adj>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^./.<sent>$
 
 ^This/This<prn><tn><mf><sg>$
@@ -569,7 +569,7 @@
 ^part/part<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^U.S./U.S.<np><loc><sg>$
+^U.S./U.S.<np><top><sg>$
 ^fight/fight<n><sg>$
 ^against/against<pr>$
 ^communism/communism<n><sg>$
@@ -670,7 +670,7 @@
 ^dominated/dominate<vblex><pp>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^achieved/achieve<vblex><past>$
 ^a/a<det><ind><sg>$
 ^great/great<adj><sint>$
@@ -690,7 +690,7 @@
 ^to/to<pr>$
 ^announce/announce<vblex><inf>$
 ^that/that<cnjsub>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^no longer/no longer<adv>$
 ^the/the<det><def><sp>$
@@ -738,7 +738,7 @@
 ^the/the<det><def><sp>$
 ^Republic/Republic<n><sg>$
 ^of/of<pr>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^managed/manage<vblex><past>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
@@ -749,7 +749,7 @@
 ^Peace/Peace<n><sg>$
 ^process/process<n><sg>$
 ^in/in<pr>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^,/,<cm>$
 ^2012/2012<num>$
 ^refers/refer<vblex><pri><p3><sg>$
@@ -788,7 +788,7 @@
 ^groups/group<n><pl>$
 ^meet/meet<vblex><pres>$
 ^in/in<pr>$
-^Cuba/Cuba<np><loc><sg>$
+^Cuba/Cuba<np><top><sg>$
 ^./.<sent>$
 
 ^As/As<pr>$
@@ -819,7 +819,7 @@
 ^conflict/conflict<n><sg>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^shows/show<vblex><pri><p3><sg>$
 ^modest/modest<adj>$
 ^progress/progress<n><sg>$
@@ -843,7 +843,7 @@
 ^international/international<adj>$
 ^relations/relation<n><pl>$
 ^,/,<cm>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^has/have<vbhaver><pri><p3><sg>$
 ^moved/move<vblex><pp>$
 ^from/from<pr>$
@@ -853,7 +853,7 @@
 ^tense/tense<adj>$
 ^animosity/animosity<n><sg>$
 ^with/with<pr>$
-^Venezuela/Venezuela<np><loc><sg>$
+^Venezuela/Venezuela<np><top><sg>$
 ^,/,<cm>$
 ^towards/towards<pr>$
 ^a/a<det><ind><sg>$
@@ -865,7 +865,7 @@
 ^integration/integration<n><sg>$
 ^./.<sent>$
 
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^has/have<vbhaver><pri><p3><sg>$
 ^also/also<adv>$
 ^won/win<vblex><pp>$
@@ -881,7 +881,7 @@
 ^./.<sent>$
 
 ^Today/Today<adv>$
-^Colombia/Colombia<np><loc><sg>$
+^Colombia/Colombia<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^the/the<det><def><sp>$
 ^third/third<det><ord><sp>$
@@ -890,7 +890,7 @@
 ^producer/producer<n><sg>$
 ^in/in<pr>$
 ^South/South<adj><sint>$
-^America/America<np><loc><sg>$
+^America/America<np><top><sg>$
 ^and/and<cnjcoo>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^is/be<vbser><pri><p3><sg>$
@@ -899,8 +899,8 @@
 ^by/by<pr>$
 ^2012/2012<num>$
 ^,/,<cm>$
-^Colombia/Colombia<np><loc><sg>$
-^will/will<vaux><inf>$
+^Colombia/Colombia<np><top><sg>$
+^will/will<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^producing/produce<vblex><ger>$
 ^a million/a million<num><sp>$
@@ -1012,7 +1012,7 @@
 ^net/net<adj>$
 ^worth/worth<n><sg>$
 ^exceeding/exceed<vblex><pprs>$
-^US/US<np><loc><sg>$
+^US/US<np><top><sg>$
 ^\$/\$<mon>$
 ^1/1<num>$
 ^billion/billion<num><sp>$

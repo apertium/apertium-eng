@@ -74,15 +74,15 @@
 ^is/be<vbser><pri><p3><sg>$
 ^today/today<adv>$
 ^southern/southern<adj>$
-^Russia/Russia<np><loc><sg>$
+^Russia/Russia<np><top><sg>$
 ^,/,<cm>$
 ^western/western<adj>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^,/,<cm>$
 ^eastern/eastern<adj>$
-^Ukraine/Ukraine<np><loc><sg>$
+^Ukraine/Ukraine<np><top><sg>$
 ^,/,<cm>$
-^Azerbaijan/Azerbaijan<np><loc><sg>$
+^Azerbaijan/Azerbaijan<np><top><sg>$
 ^,/,<cm>$
 ^large/large<adj><sint>$
 ^portions/portion<n><pl>$
@@ -100,7 +100,7 @@
 ^,/,<cm>$
 ^parts/part<n><pl>$
 ^of/of<pr>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Crimea/*Crimea$
@@ -219,7 +219,7 @@
 ^rule/rule<n><sg>$
 ^-/-<guio>$
 ^Volga/*Volga$
-^Bulgaria/Bulgaria<np><loc><sg>$
+^Bulgaria/Bulgaria<np><top><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
@@ -392,7 +392,7 @@
 ^He/Prpers<prn><subj><p3><m><sg>$
 ^fled/flee<vblex><past>$
 ^to/to<pr>$
-^Bulgaria/Bulgaria<np><loc><sg>$
+^Bulgaria/Bulgaria<np><top><sg>$
 ^,/,<cm>$
 ^whose/whose<rel><aa><mf><sp>$
 ^Khan/*Khan$
@@ -504,7 +504,7 @@
 ^(/(<lpar>$
 ^Leo IV/Leo IV<np><ant><m><sg>$
 ^)/)<rpar>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^be/be<vbser><inf>$
 ^better/good<adj><sint><comp>$
 ^known/know<vblex><pp>$
@@ -541,7 +541,7 @@
 ^ideas/idea<n><pl>$
 ^imported/import<vblex><pp>$
 ^from/from<pr>$
-^China/China<np><loc><sg>$
+^China/China<np><top><sg>$
 ^,/,<cm>$
 ^notably/notably<adv>$
 ^that/that<prn><tn><mf><sg>$
@@ -722,7 +722,7 @@
 ^./.<sent>$
 
 ^It/Prpers<prn><subj><p3><nt><sg>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^have/have<vbhaver><inf>$
 ^occurred/occur<vblex><pp>$
 ^as/as<pr>$
@@ -987,7 +987,7 @@
 ^Babung/*Babung$
 ^,/,<cm>$
 ^in/in<pr>$
-^Iran/Iran<np><loc><sg>$
+^Iran/Iran<np><top><sg>$
 ^;/;<sent>$
 ^he/prpers<prn><subj><p3><m><sg>$
 ^gave/give<vblex><past>$
@@ -1001,7 +1001,7 @@
 ^in/in<pr>$
 ^his/his<det><pos><sp>$
 ^capital/capital<n><sg>$
-^should/should<vaux><inf>$
+^should/shall<vbmod><past>$
 ^be/be<vbser><inf>$
 ^broken/break<vblex><pp>$
 ^off/off<adv>$
@@ -1017,7 +1017,7 @@
 ^declared/declare<vblex><past>$
 ^that/that<cnjsub>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^have/have<vbhaver><inf>$
 ^destroyed/destroy<vblex><pp>$
 ^the/the<det><def><sp>$
@@ -1031,7 +1031,7 @@
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
 ^Muslims/Muslim<n><pl>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^in/in<pr>$
 ^turn/turn<n><sg>$
 ^destroy/destroy<vblex><inf>$
@@ -1191,7 +1191,7 @@
 ^ruler/ruler<n><sg>$
 ^;/;<sent>$
 ^this/this<prn><tn><mf><sg>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^,/,<cm>$
 ^however/however<adv>$
 ^,/,<cm>$
@@ -1311,7 +1311,7 @@
 ^Khazar/*Khazar$
 ^dual/dual<adj>$
 ^kingship/*kingship$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^have/have<vbhaver><inf>$
 ^influenced/influence<vblex><pp>$
 ^other/other<det><ind><sp>$
@@ -1482,7 +1482,7 @@
 ^and/and<cnjcoo>$
 ^some/some<det><qnt><sp>$
 ^settlements/settlement<n><pl>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^have/have<vbhaver><inf>$
 ^remained/remain<vblex><pp>$
 ^./.<sent>$

@@ -64,7 +64,7 @@
 ^assumed/assume<vblex><past>$ 
 ^power/power<n><sg>$ 
 ^in/in<pr>$ 
-^Moscow/Moscow<np><loc><sg>$ 
+^Moscow/Moscow<np><top><sg>$ 
 ^,/,<cm>$ 
 ^there/there<adv>$ 
 ^was/be<vbser><past><p3><sg>$ 
@@ -227,13 +227,13 @@
 ^southern/southern<adj>$ 
 ^Kyrgyzstan/*Kyrgyzstan$ 
 ^and/and<cnjcoo>$ 
-^China/China<np><loc><sg>$ 
+^China/China<np><top><sg>$ 
 ^before/before<cnjadv>$ 
 ^extending/extend<vblex><subs>$ 
 ^farther/far<adj><sint><comp>$ 
 ^east/east<n><sg>$ 
 ^into/into<pr>$ 
-^China/China<np><loc><sg>$  
+^China/China<np><top><sg>$  
 ^'s/'s<gen>$ 
 ^Xinjiang/*Xinjiang$ 
 ^Uygur/*Uygur$ 
@@ -684,7 +684,7 @@
 ^exports/export<n><pl>$
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
-^US/US<np><loc><sg>$ 
+^US/US<np><top><sg>$ 
 ^totalled/*totalled$ 
 ^$/$<mon>$
 ^54.2/54.2<num>$ 
@@ -708,7 +708,7 @@
 ^products/product<n><pl>$ 
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
-^US/US<np><loc><sg>$ 
+^US/US<np><top><sg>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$ 
@@ -737,7 +737,7 @@
 ^meat/meat<n><sg>$ 
 ^from/from<pr>$ 
 ^the/the<det><def><sp>$ 
-^US/US<np><loc><sg>$ 
+^US/US<np><top><sg>$ 
 ^./.<sent>$
 
 ^The/The<det><def><sp>$ 
@@ -783,7 +783,7 @@
 ^reforms/reform<n><pl>$ 
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
-^will/will<vaux><inf>$ 
+^will/will<vbmod><pres>$ 
 ^encourage/encourage<vblex><inf>$ 
 ^long/long<adj><sint>$
 ^-/-<guio>$
@@ -903,7 +903,7 @@
 ^'s/'s<gen>$ 
 ^Republic/Republic<n><sg>$ 
 ^of/of<pr>$ 
-^China/China<np><loc><sg>$ 
+^China/China<np><top><sg>$ 
 ^./.<sent>$
 
 ^Frequent/Frequent<adj>$ 

@@ -34,7 +34,7 @@
 ^notion/notion<n><sg>$
 ^that/that<cnjsub>$
 ^matter/matter<n><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^be/be<vbser><inf>$
 ^divided/divide<vblex><pp>$
 ^into/into<pr>$
@@ -51,9 +51,9 @@
 ^concept/concept<n><sg>$
 ^in/in<pr>$
 ^ancient/ancient<adj>$
-^Greece/Greece<np><loc><sg>$
+^Greece/Greece<np><top><sg>$
 ^and/and<cnjcoo>$
-^India/India<np><loc><sg>$
+^India/India<np><top><sg>$
 ^and/and<cnjcoo>$
 ^entered/enter<vblex><past>$
 ^the/the<det><def><sp>$
@@ -134,7 +134,7 @@
 ^an/a<det><ind><sg>$
 ^orbiting/orbit<vblex><pprs>$
 ^charge/charge<n><sg>$
-^should/should<vaux><inf>$
+^should/shall<vbmod><past>$
 ^steadily/steadily<adv>$
 ^lose/lose<vblex><inf>$
 ^energy/energy<n><sg>$
@@ -164,7 +164,7 @@
 ^the/the<det><def><sp>$
 ^planetary/planetary<adj>$
 ^model/model<n><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^not/not<adv>$
 ^explain/explain<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -190,7 +190,7 @@
 ^./.<sent>$
 
 ^It/Prpers<prn><subj><p3><nt><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^only/only<adv>$
 ^predict/predict<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -200,7 +200,7 @@
 ^hydrogen/hydrogen<n><sg>$
 ^;/;<sent>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^couldn't/can<vaux><past>+not<adv>$
+^couldn't/can<vbmod><past>+not<adv>$
 ^predict/predict<vblex><inf>$
 ^those/that<prn><tn><mf><pl>$
 ^of/of<pr>$
@@ -227,7 +227,7 @@
 ^Bohr/Bohr<np><cog><sg>$ 
 ^'s/'s<gen>$
 ^model/model<n><sg>$
-^couldn't/can<vaux><past>+not<adv>$
+^couldn't/can<vbmod><past>+not<adv>$
 ^explain/explain<vblex><inf>$
 ^./.<sent>$
 
@@ -263,7 +263,7 @@
 ^and/and<cnjcoo>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^still/still<adv>$
-^couldn't/can<vaux><past>+not<adv>$
+^couldn't/can<vbmod><past>+not<adv>$
 ^explain/explain<vblex><inf>$
 ^more/more<adv>$
 ^complex/complex<adj>$
@@ -341,7 +341,7 @@
 
 ^An/A<det><ind><sg>$
 ^electron/electron<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^potentially/potentially<adv>$
 ^be/be<vbser><inf>$
 ^found/find<vblex><pp>$

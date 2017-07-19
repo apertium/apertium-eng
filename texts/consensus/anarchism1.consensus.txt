@@ -45,7 +45,7 @@
 ^Anarchists/Anarchist<n><pl>$
 ^in/in<pr>$
 ^central/central<adj>$
-^Russia/Russia<np><loc><sg>$
+^Russia/Russia<np><top><sg>$
 ^were/be<vbser><past>$
 ^either/either<cnjcoo>$
 ^imprisoned/imprison<vblex><pp>$
@@ -82,7 +82,7 @@
 ^Insurrectionary/*Insurrectionary$
 ^Army/Army<n><sg>$
 ^of/of<pr>$
-^Ukraine/Ukraine<np><loc><sg>$
+^Ukraine/Ukraine<np><top><sg>$
 ^led/lead<vblex><pp>$
 ^by/by<pr>$
 ^Nestor/Nestor<np><ant><m><sg>$
@@ -154,7 +154,7 @@
 ^France/France<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^US/US<np><loc><sg>$
+^US/US<np><top><sg>$
 ^,/,<cm>$
 ^for example/for example<adv>$
 ^,/,<cm>$
@@ -274,7 +274,7 @@
 ^took/take<vblex><past>$
 ^control/control<n><sg>$
 ^of/of<pr>$
-^Barcelona/Barcelona<np><loc><sg>$
+^Barcelona/Barcelona<np><top><sg>$
 ^and/and<cnjcoo>$
 ^of/of<pr>$
 ^large/large<adj><sint>$
@@ -366,7 +366,7 @@
 ^the/the<det><def><sp>$
 ^democratic/democratic<adj>$
 ^process/process<n><sg>$
-^may/may<vaux><pres>$
+^may/may<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^sharply/sharply<adv>$
 ^criticised/criticise<vblex><pp>$

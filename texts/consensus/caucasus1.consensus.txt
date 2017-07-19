@@ -27,12 +27,12 @@
 ^-/-<guio>$
 ^Soviet/soviet<adj>$
 ^states/state<n><pl>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^,/,<cm>$
-^Armenia/Armenia<np><loc><sg>$
+^Armenia/Armenia<np><top><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^Azerbaijan/Azerbaijan<np><loc><sg>$
+^Azerbaijan/Azerbaijan<np><top><sg>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -56,7 +56,7 @@
 ^,/,<cm>$
 ^Kabardino-Balkaria/*Kabardino-Balkaria$
 ^,/,<cm>$
-^North Ossetia/North Ossetia<np><loc><sg>$
+^North Ossetia/North Ossetia<np><top><sg>$
 ^,/,<cm>$
 ^Ingushetia/*Ingushetia$
 ^,/,<cm>$
@@ -118,9 +118,9 @@
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
 ^included/include<vblex><past>$
-^Armenia/Armenia<np><loc><sg>$
+^Armenia/Armenia<np><top><sg>$
 ^,/,<cm>$
-^Albania/Albania<np><loc><sg>$
+^Albania/Albania<np><top><sg>$
 ^,/,<cm>$
 ^Colchis/*Colchis$
 ^and/and<cnjcoo>$
@@ -170,7 +170,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^go through/go<vblex><inf># through$
 ^two/two<num><sp>$
 ^other/other<det><ind><sp>$
@@ -182,9 +182,9 @@
 ^the/the<det><def><sp>$
 ^rivalry/rivalry<n><sg>$
 ^between/between<pr>$
-^Persia/Persia<np><loc><sg>$
+^Persia/Persia<np><top><sg>$
 ^and/and<cnjcoo>$
-^Rome/Rome<np><loc><sg>$
+^Rome/Rome<np><top><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^later/later<adv>$
@@ -192,7 +192,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^latter/latter<adj>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^invade/invade<vblex><inf>$
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
@@ -213,9 +213,9 @@
 ^However/However<adv>$
 ^,/,<cm>$
 ^because/because<cnjadv>$
-^Armenia/Armenia<np><loc><sg>$
+^Armenia/Armenia<np><top><sg>$
 ^and/and<cnjcoo>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^had/have<vbhaver><past>$
 ^become/become<vblex><pp>$
 ^Christian/christian<adj>$
@@ -233,7 +233,7 @@
 ^Islamic/islamic<adj>$
 ^conquest/conquest<n><sg>$
 ^of/of<pr>$
-^Persia/Persia<np><loc><sg>$
+^Persia/Persia<np><top><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^region/region<n><sg>$
@@ -246,12 +246,12 @@
 ^Arabs/Arab<n><pl>$
 ^./.<sent>$
 
-^Armenia/Armenia<np><loc><sg>$
+^Armenia/Armenia<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^majority/majority<n><sg>$
 ^of/of<pr>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^maintained/maintain<vblex><past>$
 ^Christianity/Christianity<n><sg>$
 ^and/and<cnjcoo>$
@@ -268,7 +268,7 @@
 
 ^The/The<det><def><sp>$
 ^region/region<n><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^later/later<adv>$
 ^be/be<vbser><inf>$
 ^conquered/conquer<vblex><pp>$
@@ -289,13 +289,13 @@
 ^,/,<cm>$
 ^once again/once again<adv>$
 ^,/,<cm>$
-^Persia/Persia<np><loc><sg>$
+^Persia/Persia<np><top><sg>$
 ^,/,<cm>$
 ^until/until<pr>$
 ^its/its<det><pos><sp>$
 ^conquest/conquest<n><sg>$
 ^by/by<pr>$
-^Russia/Russia<np><loc><sg>$
+^Russia/Russia<np><top><sg>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -385,7 +385,7 @@
 ^en masse/en masse<adv>$
 ^to/to<pr>$
 ^Central/Central<adj>$
-^Asia/Asia<np><loc><sg>$
+^Asia/Asia<np><top><sg>$
 ^and/and<cnjcoo>$
 ^Siberia/*Siberia$
 ^./.<sent>$
@@ -398,11 +398,11 @@
 ^Soviet/soviet<adj>$
 ^Union/Union<n><sg>$
 ^,/,<cm>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^,/,<cm>$
-^Azerbaijan/Azerbaijan<np><loc><sg>$
+^Azerbaijan/Azerbaijan<np><top><sg>$
 ^and/and<cnjcoo>$
-^Armenia/Armenia<np><loc><sg>$
+^Armenia/Armenia<np><top><sg>$
 ^became/become<vblex><past>$
 ^independent/independent<adj>$
 ^in/in<pr>$
@@ -452,7 +452,7 @@
 ^independent/independent<adj>$
 ^state/state<n><sg>$
 ^–/–<guio>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^./.<sent>$
 
 ^Others/Others<prn><tn><mf><pl>$
@@ -518,7 +518,7 @@
 ^autonomous/autonomous<adj>$
 ^republic/republic<n><sg>$
 ^within/within<pr>$
-^Georgia/Georgia<np><loc><sg>$
+^Georgia/Georgia<np><top><sg>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$

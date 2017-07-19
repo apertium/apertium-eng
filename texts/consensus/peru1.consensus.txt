@@ -360,7 +360,7 @@
 ^in/in<pr>$ 
 ^1531/1531<num>$ 
 ^,/,<cm>$ 
-^Peru/Peru<np><loc><sg>$  
+^Peru/Peru<np><top><sg>$  
 ^'s/'s<gen>$
 ^territory/territory<n><sg>$ 
 ^was/be<vbser><past><p3><sg>$ 
@@ -390,10 +390,10 @@
 ^stretching/stretch<vblex><ger>$ 
 ^from/from<pr>$ 
 ^northern/northern<adj>$ 
-^Ecuador/Ecuador<np><loc><sg>$ 
+^Ecuador/Ecuador<np><top><sg>$ 
 ^to/to<pr>$ 
 ^central/central<adj>$ 
-^Chile/Chile<np><loc><sg>$ 
+^Chile/Chile<np><top><sg>$ 
 ^./.<sent>$
 
 ^At/At<pr>$ 
@@ -609,7 +609,7 @@
 ^the/the<det><def><sp>$ 
 ^foundation/foundation<n><sg>$ 
 ^of/of<pr>$ 
-^Lima/Lima<np><loc><sg>$ 
+^Lima/Lima<np><top><sg>$ 
 ^in/in<pr>$ 
 ^January/January<n><sg>$ 
 ^1535/1535<num>$ 
@@ -649,7 +649,7 @@
 ^was/be<vbser><past><p3><sg>$ 
 ^forwarded/forward<vblex><pp>$ 
 ^to/to<pr>$ 
-^Seville/Seville<np><loc><sg>$ 
+^Seville/Seville<np><top><sg>$ 
 ^in return/in return<adv>$ 
 ^for/for<pr>$ 
 ^converting/convert<vblex><subs>$ 
@@ -669,13 +669,13 @@
 ^the/the<det><def><sp>$ 
 ^king/king<n><sg>$ 
 ^of/of<pr>$ 
-^Spain/Spain<np><loc><sg>$ 
+^Spain/Spain<np><top><sg>$ 
 ^./.<sent>$
 
 ^As/As<pr>$ 
 ^governor/governor<n><sg>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^,/,<cm>$ 
 ^Pizarro/Pizarro<np><cog><sg>$ 
 ^used/use<vblex><past>$ 
@@ -711,7 +711,7 @@
 ^indigenous/*indigenous$ 
 ^inhabitants/inhabitant<n><pl>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^were/be<vbser><past>$ 
 ^now/now<adv>$ 
 ^expected/expect<vblex><pp>$ 
@@ -771,7 +771,7 @@
 ^the/the<det><def><sp>$ 
 ^Viceroyalty/Viceroyalty<n><sg>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^(/(<lpar>$ 
 ^in/in<pr>$ 
 ^Spanish/Spanish<n><sg>$ 
@@ -791,16 +791,16 @@
 ^-/-<guio>$
 ^ruled/rule<vblex><pp>$ 
 ^South/South<adj><sint>$ 
-^America/America<np><loc><sg>$ 
+^America/America<np><top><sg>$ 
 ^./.<sent>$ 
 
-^Colombia/Colombia<np><loc><sg>$ 
+^Colombia/Colombia<np><top><sg>$ 
 ^,/,<cm>$ 
-^Ecuador/Ecuador<np><loc><sg>$ 
+^Ecuador/Ecuador<np><top><sg>$ 
 ^,/,<cm>$ 
 ^Panamá/*Panamá$ 
 ^and/and<cnjcoo>$ 
-^Venezuela/Venezuela<np><loc><sg>$ 
+^Venezuela/Venezuela<np><top><sg>$ 
 ^were/be<vbser><past>$ 
 ^split/split<vblex><pp>$ 
 ^off/off<adv>$ 
@@ -809,7 +809,7 @@
 ^Viceroyalty/Viceroyalty<n><sg>$ 
 ^of/of<pr>$ 
 ^New/New<adj><sint>$ 
-^Granada/Granada<np><loc><sg>$ 
+^Granada/Granada<np><top><sg>$ 
 ^(/(<lpar>$ 
 ^in/in<pr>$ 
 ^Spanish/Spanish<n><sg>$ 
@@ -817,20 +817,20 @@
 ^Virreinato/*Virreinato$ 
 ^de/*de$ 
 ^Nueva/*Nueva$ 
-^Granada/Granada<np><loc><sg>$ 
+^Granada/Granada<np><top><sg>$ 
 ^)/)<rpar>$ 
 ^in/in<pr>$ 
 ^1717/1717<num>$ 
 ^;/;<sent>$ 
 ^and/and<cnjcoo>$ 
-^Argentina/Argentina<np><loc><sg>$ 
+^Argentina/Argentina<np><top><sg>$ 
 ^,/,<cm>$ 
-^Bolivia/Bolivia<np><loc><sg>$ 
+^Bolivia/Bolivia<np><top><sg>$ 
 ^,/,<cm>$ 
-^Paraguay/Paraguay<np><loc><sg>$ 
+^Paraguay/Paraguay<np><top><sg>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
-^Uruguay/Uruguay<np><loc><sg>$ 
+^Uruguay/Uruguay<np><top><sg>$ 
 ^were/be<vbser><past>$ 
 ^set up/set<vblex><sep><pp># up$ 
 ^as/as<pr>$ 
@@ -853,7 +853,7 @@
 ^Viceroyalties/Viceroyalty<n><pl>$ 
 ^of/of<pr>$ 
 ^New/New<adj><sint>$ 
-^Granada/Granada<np><loc><sg>$ 
+^Granada/Granada<np><top><sg>$ 
 ^and/and<cnjcoo>$ 
 ^Rio/*Rio$ 
 ^de/*de$ 
@@ -874,11 +874,11 @@
 ^commercial/commercial<adj>$ 
 ^center/centre<n><sg>$ 
 ^from/from<pr>$ 
-^Lima/Lima<np><loc><sg>$ 
+^Lima/Lima<np><top><sg>$ 
 ^to/to<pr>$ 
-^Caracas/Caracas<np><loc><sg>$ 
+^Caracas/Caracas<np><top><sg>$ 
 ^and/and<cnjcoo>$ 
-^Buenos Aires/Buenos Aires<np><loc><sg>$ 
+^Buenos Aires/Buenos Aires<np><top><sg>$ 
 ^,/,<cm>$ 
 ^and/and<cnjcoo>$ 
 ^the/the<det><def><sp>$ 
@@ -896,7 +896,7 @@
 ^the/the<det><def><sp>$ 
 ^Viceroyalty/Viceroyalty<n><sg>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^./.<sent>$
 
 ^The/The<det><def><sp>$ 
@@ -996,7 +996,7 @@
 ^throughout/throughout<pr>$ 
 ^the/the<det><def><sp>$ 
 ^Spanish/spanish<adj>$ 
-^America/America<np><loc><sg>$ 
+^America/America<np><top><sg>$ 
 ^./.<sent>$
 
 ^In contrast/In contrast<adv>$ 
@@ -1010,7 +1010,7 @@
 ^mostly/mostly<adv>$ 
 ^loyal/loyal<adj>$ 
 ^to/to<pr>$ 
-^Spain/Spain<np><loc><sg>$
+^Spain/Spain<np><top><sg>$
 ^,/,<cm>$ 
 ^which/which<rel><an><mf><sp>$ 
 ^accounts/account<vblex><pri><p3><sg>$
@@ -1021,7 +1021,7 @@
 ^the/the<det><def><sp>$ 
 ^Viceroyalty/Viceroyalty<n><sg>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^became/become<vblex><past>$ 
 ^the/the<det><def><sp>$ 
 ^last/last<det><ord><sp>$ 
@@ -1032,7 +1032,7 @@
 ^dominion/*dominion$ 
 ^in/in<pr>$ 
 ^South/South<adj><sint>$ 
-^America/America<np><loc><sg>$ 
+^America/America<np><top><sg>$ 
 ^./.<sent>$
 
 ^After/After<pr>$ 
@@ -1096,7 +1096,7 @@
 ^Socialist/Socialist<adj>$ 
 ^Party/Party<n><sg>$ 
 ^of/of<pr>$ 
-^Peru/Peru<np><loc><sg>$ 
+^Peru/Peru<np><top><sg>$ 
 ^,/,<cm>$ 
 ^later/later<adv>$ 
 ^the/the<det><def><sp>$ 
@@ -1398,7 +1398,7 @@
 ^1960/1960<num>$ 
 ^)/)<rpar>$ 
 ^and/and<cnjcoo>$ 
-^Peru/Peru<np><loc><sg>$  
+^Peru/Peru<np><top><sg>$  
 ^'s/'s<gen>$ 
 ^Gross/Gross<adj><sint>$ 
 ^Domestic/Domestic<adj>$ 
@@ -1590,7 +1590,7 @@
 ^Japanese/japanese<adj>$ 
 ^embassy/embassy<n><sg>$ 
 ^in/in<pr>$ 
-^Lima/Lima<np><loc><sg>$ 
+^Lima/Lima<np><top><sg>$ 
 ^,/,<cm>$ 
 ^taking/take<vblex><ger>$ 
 ^72/72<num>$ 
@@ -1640,7 +1640,7 @@
 ^chief/chief<n><sg>$ 
 ^Vladimiro/Vladimiro<np><ant><m><sg>$ 
 ^Montesinos/Montesinos<np><cog><sg>$ 
-^may/may<vaux><inf>$ 
+^may/may<vbmod><inf>$ 
 ^have/have<vbhaver><inf>$ 
 ^ordered/order<vblex><pp>$ 
 ^the/the<det><def><sp>$ 
@@ -1695,7 +1695,7 @@
 ^./.<sent>$
 
 ^Alejandro/Alejandro<np><ant><m><sg>$ 
-^Toledo/Toledo<np><loc><sg>$ 
+^Toledo/Toledo<np><top><sg>$ 
 ^(/(<lpar>$ 
 ^who/who<rel><an><mf><sp>$ 
 ^led/lead<vblex><past>$ 

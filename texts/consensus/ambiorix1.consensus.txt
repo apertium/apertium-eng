@@ -613,7 +613,7 @@
 ^almighty/almighty<adj>$
 ^Roman/Roman<adj>$
 ^republic/republic<n><sg>$
-^couldn't/can<vaux><past>+not<adv>$
+^couldn't/can<vbmod><past>+not<adv>$
 ^be/be<vbser><inf>$
 ^beaten/beat<vblex><pp>$
 ^so/so<preadv>$

@@ -176,7 +176,7 @@
 ^republic/republic<n><sg>$
 ^control/control<n><sg>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$ 
 ^'s/'s<gen>$
 ^enormous/enormous<adj>$
 ^mineral/mineral<adj>$
@@ -214,7 +214,7 @@
 ^,/,<cm>$
 ^to/to<pr>$
 ^develop/develop<vblex><inf>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$ 
 ^'s/'s<gen>$
 ^Tengiz/*Tengiz$
 ^oil/oil<n><sg>$
@@ -238,7 +238,7 @@
 ^'s/'s<gen>$
 ^insistence/insistence<n><sg>$
 ^,/,<cm>$
-^Moscow/Moscow<np><loc><sg>$
+^Moscow/Moscow<np><top><sg>$
 ^surrendered/surrender<vblex><past>$
 ^control/control<n><sg>$
 ^of/of<pr>$
@@ -299,7 +299,7 @@
 ^together/together<adj>$
 ^./.<sent>$
 
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^has/have<vbhaver><pri><p3><sg>$
 ^followed/follow<vblex><pp>$
 ^the same/the same<det><ind><sp>$
@@ -326,7 +326,7 @@
 ^completely/completely<adv>$
 ^dominated/dominate<vblex><pp>$
 ^by/by<pr>$
-^Moscow/Moscow<np><loc><sg>$
+^Moscow/Moscow<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Communist/Communist<adj>$
@@ -341,7 +341,7 @@
 ^until/until<pr>$
 ^1991/1991<num>$
 ^,/,<cm>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^retained/retain<vblex><past>$
 ^the/the<det><def><sp>$
 ^basic/basic<adj>$
@@ -376,7 +376,7 @@
 ^Communist/Communist<adj>$
 ^Party/Party<n><sg>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^(/(<lpar>$
 ^CPK/*CPK$
 ^)/)<rpar>$
@@ -503,7 +503,7 @@
 ^topographical/topographical<adj>$
 ^variation/variation<n><sg>$
 ^within/within<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -573,7 +573,7 @@
 ^metres above sea level/metre<n><pl># above sea level$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$ 
 ^'s/'s<gen>$
 ^Caspian/*Caspian$
 ^shore/shore<n><sg>$
@@ -613,7 +613,7 @@
 ^source/source<n><sg>$
 ^for/for<pr>$
 ^most of/most<prn><tn><mf><pl>+of<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$ 
 ^'s/'s<gen>$
 ^rivers/river<n><pl>$
 ^and/and<cnjcoo>$
@@ -651,11 +651,11 @@
 ^of which/of<pr>+which<rel><nn><mf><sp>$
 ^flow/flow<n><sg>$
 ^through/through<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^,/,<cm>$
 ^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$ 
 ^'s/'s<gen>$
 ^rivers/river<n><pl>$
 ^and/and<cnjcoo>$
@@ -690,7 +690,7 @@
 ^central/central<adj>$
 ^and/and<cnjcoo>$
 ^southern/southern<adj>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^./.<sent>$
 
 ^Many/Many<det><qnt><pl>$
@@ -744,7 +744,7 @@
 ^lie/lie<vblex><pres>$
 ^partially/partially<adv>$
 ^within/within<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^./.<sent>$
 
 ^After/After<pr>$
@@ -759,7 +759,7 @@
 ^German/german<adj>$
 ^population/population<n><sg>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><loc><sg>$
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^proceeded/proceed<vblex><past>$
 ^to/to<pr>$
 ^emigrate/emigrate<vblex><inf>$
@@ -769,7 +769,7 @@
 ^1990s/1990s<num>$
 ^,/,<cm>$
 ^as/as<cnjadv>$
-^Germany/Germany<np><loc><sg>$
+^Germany/Germany<np><top><sg>$
 ^is/be<vbser><pri><p3><sg>$
 ^willing/willing<adj>$
 ^to/to<pr>$
@@ -790,7 +790,7 @@
 ^to/to<pr>$
 ^repatriate/repatriate<vblex><inf>$
 ^to/to<pr>$
-^Greece/Greece<np><loc><sg>$
+^Greece/Greece<np><top><sg>$
 ^,/,<cm>$
 ^so/so<preadv>$
 ^did/do<vbdo><past>$
@@ -798,7 +798,7 @@
 ^Russians/Russian<n><pl>$
 ^move/move<vblex><inf>$
 ^to/to<pr>$
-^Russia/Russia<np><loc><sg>$
+^Russia/Russia<np><top><sg>$
 ^./.<sent>$
 
 ^Some/Some<det><qnt><sp>$

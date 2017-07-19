@@ -214,7 +214,7 @@
 ^Fountain/Fountain<n><sg>$
 ^'s/'s<gen>$
 ^water/water<n><sg>$
-^must/must<vaux><pres>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^drunk/drink<vblex><pp>$
 ^simultaneously/simultaneously<adv>$
@@ -283,7 +283,7 @@
 ^him/prpers<prn><obj><p3><m><sg>$
 ^so/so<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^navigate/*navigate$
 ^to/to<pr>$
 ^the/the<det><def><sp>$

@@ -276,7 +276,7 @@
 ^stipulated/stipulate<vblex><past>$ 
 ^that/that<cnjsub>$ 
 ^Vietnam/Vietnam<np><top><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^be/be<vbser><inf>$ 
 ^reunited/reunite<vblex><pp>$ 
 ^after/after<pr>$ 

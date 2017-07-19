@@ -249,7 +249,7 @@
 
 ^The/The<det><def><sp>$
 ^story/story<n><sg>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^be/be<vbser><inf>$
 ^summarised/*summarised$
 ^as/as<cnjadv>$
@@ -309,7 +309,7 @@
 ^Faust/Faust<np><cog><sg>$
 ^:/:<sent>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^serve/serve<vblex><inf>$
 ^Faust/Faust<np><cog><sg>$
 ^with/with<pr>$
@@ -333,14 +333,14 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Devil/Devil<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^claim/claim<vblex><inf>$
 ^Faust/Faust<np><cog><sg>$
 ^'s/'s<gen>$
 ^soul/soul<n><sg>$
 ^and/and<cnjcoo>$
 ^Faust/Faust<np><cog><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^eternally/*eternally$
 ^damned/damned<adj>$
@@ -487,7 +487,7 @@
 ^believes/believe<vblex><pri><p3><sg>$
 ^his/his<det><pos><sp>$
 ^sins/sin<n><pl>$
-^cannot/can<vaux><pres>+not<adv>$
+^cannot/can<vbmod><pres>+not<adv>$
 ^be/be<vbser><inf>$
 ^forgiven/forgive<vblex><pp>$
 ^;/;<sent>$
@@ -736,7 +736,7 @@
 ^which/which<rel><an><mf><sp>$
 ^point/point<n><sg>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^take/take<vblex><inf>$
 ^his/his<det><pos><sp>$
 ^soul/soul<n><sg>$
@@ -755,7 +755,7 @@
 ^this/this<det><dem><sg>$
 ^happy/happy<adj><sint>$
 ^zenith/zenith<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^never/never<adv>$
 ^come/come<vblex><inf>$
 ^./.<sent>$
@@ -966,7 +966,7 @@
 ^that/that<cnjsub>$
 ^this/this<det><dem><sg>$
 ^grace/grace<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^only/only<adv>$
 ^occur/occur<vblex><inf>$
 ^because/because<cnjadv>$
@@ -1036,7 +1036,7 @@
 ^death/death<n><sg>$
 ^that/that<cnjsub>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^be/be<vbser><inf>$
 ^consigned/consign<vblex><pp>$
 ^to/to<pr>$

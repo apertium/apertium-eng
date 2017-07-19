@@ -403,7 +403,7 @@
 ^stated/state<vblex><pp>$ 
 ^that/that<cnjsub>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^revive/revive<vblex><inf>$ 
 ^the/the<det><def><sp>$ 
 ^claim/claim<n><sg>$ 
@@ -517,7 +517,7 @@
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^unless/unless<cnjadv>$ 
 ^Guatemala/Guatemala<np><top><sg>$ 
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^firmly/firmly<adv>$ 
 ^prove/prove<vblex><inf>$ 
 ^the/the<det><def><sp>$ 
@@ -544,7 +544,7 @@
 ^by/by<pr>$ 
 ^the/the<det><def><sp>$ 
 ^UK/UK<np><top><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^not/not<adv>$ 
 ^excuse/excuse<vblex><inf>$ 
 ^Guatemala/Guatemala<np><top><sg>$  
@@ -617,7 +617,7 @@
 ^through/through<pr>$ 
 ^which/which<rel><an><mf><sp>$ 
 ^Guatemala/Guatemala<np><top><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^give up/give<vblex><sep><inf># up$
 ^its/its<det><pos><sp>$ 
 ^territorial/territorial<adj>$ 
@@ -652,7 +652,7 @@
 ^Guatemala/Guatemala<np><top><sg>$ 
 ^said/say<vblex><past>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^repudiate/repudiate<vblex><inf>$
 ^the/the<det><def><sp>$ 
 ^treaty/treaty<n><sg>$ 
@@ -1116,7 +1116,7 @@
 ^,/,<cm>$ 
 ^that/that<cnjsub>$ 
 ^Belize/Belize<np><top><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^have/have<vbhaver><inf>$ 
 ^become/become<vblex><pp>$ 
 ^more/more<adv>$ 

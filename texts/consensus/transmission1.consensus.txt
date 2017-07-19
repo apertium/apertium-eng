@@ -166,7 +166,7 @@
 ^so that/so that<cnjadv>$
 ^the/the<det><def><sp>$
 ^gear/gear<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^shifted/shift<vblex><pp>$
 ^without/without<pr>$
@@ -335,7 +335,7 @@
 ^so/so<cnjadv>$
 ^the/the<det><def><sp>$
 ^transmission/transmission<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^offer/offer<vblex><inf>$
 ^both/both<cnjcoo>$
 ^a/a<det><ind><sg>$
@@ -520,7 +520,7 @@
 ^so/so<cnjadv>$
 ^the/the<det><def><sp>$
 ^gears/gear<n><pl>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^be/be<vbser><inf>$
 ^spinning/spin<vblex><ger>$
 ^at/at<pr>$
@@ -535,7 +535,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^teeth/tooth<n><pl>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^refuse/refuse<vblex><inf>$
 ^to/to<pr>$
 ^mesh/mesh<vblex><inf>$
@@ -615,7 +615,7 @@
 ^particular/particular<adj>$
 ^gear/gear<n><sg>$
 ^combination/combination<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^only/only<adv>$
 ^be/be<vbser><inf>$
 ^engaged/engage<vblex><pp>$
@@ -789,7 +789,7 @@
 
 ^Other/other<det><ind><sp>$
 ^drivers/driver<n><pl>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^depress/depress<vblex><inf>$
 ^(/(<lpar>$
 ^disengage/disengage<vblex><inf>$
@@ -1175,7 +1175,7 @@
 ^on/on<pr>$
 ^one/one<num><sg>$
 ^shaft/shaft<n><sg>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^freely/freely<adv>$
 ^rotate/rotate<vblex><inf>$
 ^or/or<cnjcoo>$
@@ -1288,7 +1288,7 @@
 ^so that/so that<cnjadv>$
 ^one/one<num><sg>$
 ^collar/collar<n><sg>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^be/be<vbser><inf>$
 ^permitted/permit<vblex><pp>$
 ^to/to<pr>$
@@ -1754,7 +1754,7 @@
 ^to/to<pr>$
 ^bridge/bridge<vblex><inf>$
 ^what/what<rel><nn><mf><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^otherwise/otherwise<adv>$
 ^be/be<vbser><inf>$
 ^two/two<num><sp>$

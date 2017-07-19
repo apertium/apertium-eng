@@ -60,7 +60,7 @@
 ^machine/machine<n><sg>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^considered/consider<vblex><pp>$
 ^a/a<det><ind><sg>$
@@ -158,7 +158,7 @@
 ^electromechanical/electromechanical<adj>$
 ^machine/machine<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^find/find<vblex><inf>$
 ^settings/setting<n><pl>$
 ^for/for<pr>$
@@ -896,7 +896,7 @@
 ^I/prpers<prn><subj><p1><mf><sg>$
 ^hope/hope<vblex><pres>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^not/not<adv>$
 ^fall/fall<vblex><inf>$
 ^between/between<pr>$
@@ -913,7 +913,7 @@
 ^school/school<n><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^aim/aim<vblex><inf>$
 ^at/at<pr>$
 ^becoming/become<vblex><subs>$
@@ -1097,7 +1097,7 @@
 ^human/human<adj>$
 ^brain/brain<n><sg>$
 ^,/,<cm>$
-^must/must<vaux><inf>$
+^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
 ^materialistic/materialistic<adj>$
 ^,/,<cm>$
@@ -1293,7 +1293,7 @@
 ^some/some<det><qnt><sp>$
 ^such/such<det><ind><sp>$
 ^machine/machine<n><sg>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^be/be<vbser><inf>$
 ^capable/capable<adj>$
 ^of/of<pr>$
@@ -1352,7 +1352,7 @@
 ^given/give<vblex><pp>$
 ^Turing/Turing<np><cog><sg>$
 ^machine/machine<n><sg>$
-^will/will<vaux><inf>$
+^will/will<vbmod><pres>$
 ^ever/ever<adv>$
 ^halt/halt<vblex><inf>$
 ^./.<sent>$
@@ -1429,7 +1429,7 @@
 ^such/such<det><ind><sp>$
 ^a/a<det><ind><sg>$
 ^machine/machine<n><sg>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^perform/perform<vblex><inf>$
 ^the/the<det><def><sp>$
 ^tasks/task<n><pl>$
@@ -1593,7 +1593,7 @@
 ^of/of<pr>$
 ^problems/problem<n><pl>$
 ^that/that<rel><an><mf><sp>$
-^cannot/can<vaux><pres>+not<adv>$
+^cannot/can<vbmod><pres>+not<adv>$
 ^be/be<vbser><inf>$
 ^solved/solve<vblex><pp>$
 ^by/by<pr>$

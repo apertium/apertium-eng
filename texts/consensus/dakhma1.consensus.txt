@@ -409,7 +409,7 @@
 ^wind/wind<n><sg>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^can/can<vaux><pres>$
+^can/can<vbmod><pres>$
 ^take/take<vblex><inf>$
 ^as/as<pr>$
 ^long/long<adj><sint>$
@@ -469,7 +469,7 @@
 ^The/the<det><def><sp>$
 ^ritual/ritual<adj>/ritual<n><sg>$
 ^precinct/*precinct$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^be/be<vbser><inf>$
 ^entered/enter<vblex><pp>$
 ^only/only<adv>$
@@ -559,7 +559,7 @@
 ^Zoroastrian/Zoroastrian<adj>$
 ^priest/priest<n><sg>$
 ^but/but<cnjcoo>$
-^may/may<vaux><inf>$
+^may/may<vbmod><inf>$
 ^not/not<adv>$
 ^have/have<vbhaver><inf>$
 ^meant/mean<vblex><pp>$
@@ -622,7 +622,7 @@
 ^through/through<pr>$
 ^ritual/ritual<adj>$
 ^exposure/exposure<n><sg>$
-^cannot/can<vaux><pres>+not<adv>$
+^cannot/can<vbmod><pres>+not<adv>$
 ^be/be<vbser><inf>$
 ^assumed/assume<vblex><pp>$
 ^:/:<sent>$
@@ -665,7 +665,7 @@
 ^until/until<pr>$
 ^the/the<det><def><sp>$
 ^bones/bone<n><pl>$
-^could/can<vaux><past>$
+^could/can<vbmod><past>$
 ^be/be<vbser><inf>$
 ^collected/collect<vblex><pp>$
 ^./.<sent>$
@@ -1080,7 +1080,7 @@
 ^birds/bird<n><pl>$
 ^with/with<pr>$
 ^what/what<prn><itg><m><sp>$
-^would/would<vaux><inf>$
+^would/will<vbmod><past>$
 ^otherwise/*otherwise$
 ^be/be<vbser><inf>$
 ^destroyed/destroy<vblex><pp>$

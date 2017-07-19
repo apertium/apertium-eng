@@ -24,7 +24,7 @@
 ^led/lead<vblex><past>$ 
 ^organisations/organisation<n><pl>$ 
 ^such as/such as<pr>$ 
-^Northern Ireland/Northern Ireland<np><loc><sg>$ 
+^Northern Ireland/Northern Ireland<np><top><sg>$ 
 ^Civil/Civil<adj>$ 
 ^Rights/Right<n><pl>$ 
 ^Association/Association<n><sg>$ 
@@ -70,7 +70,7 @@
 ^of/of<pr>$ 
 ^violence/violence<n><sg>$ 
 ^across/across<pr>$ 
-^Northern Ireland/Northern Ireland<np><loc><sg>$ 
+^Northern Ireland/Northern Ireland<np><top><sg>$ 
 ^,/,<cm>$ 
 ^internment/internment<n><sg>$ 
 ^without/without<pr>$ 
@@ -119,7 +119,7 @@
 ^was/be<vbser><past><p3><sg>$ 
 ^disorder/disorder<n><sg>$ 
 ^across/across<pr>$ 
-^Northern Ireland/Northern Ireland<np><loc><sg>$ 
+^Northern Ireland/Northern Ireland<np><top><sg>$ 
 ^following/follow<vblex><ger>$ 
 ^the/the<det><def><sp>$ 
 ^introduction/introduction<n><sg>$ 
@@ -219,7 +219,7 @@
 ^also/also<adv>$ 
 ^increased/increase<vblex><past>$ 
 ^across/across<pr>$ 
-^Northern Ireland/Northern Ireland<np><loc><sg>$ 
+^Northern Ireland/Northern Ireland<np><top><sg>$ 
 ^with/with<pr>$ 
 ^thirty/thirty<num><sp>$ 
 ^British/British<adj>$
@@ -449,7 +449,7 @@
 ^Land/Land<n><sg>$ 
 ^Forces/Force<n><pl>$ 
 ^in/in<pr>$ 
-^Northern Ireland/Northern Ireland<np><loc><sg>$ 
+^Northern Ireland/Northern Ireland<np><top><sg>$ 
 ^,/,<cm>$ 
 ^ordered/order<vblex><past>$ 
 ^that/that<cnjsub>$ 
@@ -463,7 +463,7 @@
 ^1/1<num>$ 
 ^PARA/*PARA$ 
 ^)/)<rpar>$ 
-^should/should<vaux><inf>$ 
+^should/shall<vbmod><past>$ 
 ^travel/travel<vblex><inf>$ 
 ^to/to<pr>$ 
 ^Derry/*Derry$ 

@@ -128,7 +128,7 @@
 ^new/new<adj><sint>$ 
 ^strategy/strategy<n><sg>$ 
 ^that/that<rel><an><mf><sp>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^take/take<vblex><inf>$ 
 ^the/the<det><def><sp>$ 
 ^case/case<n><sg>$ 
@@ -151,7 +151,7 @@
 ^support/support<n><sg>$ 
 ^,/,<cm>$ 
 ^it/prpers<prn><subj><p3><nt><sg>$
-^could/can<vaux><past>$ 
+^could/can<vbmod><past>$ 
 ^strengthen/strengthen<vblex><inf>$ 
 ^its/its<det><pos><sp>$ 
 ^position/position<n><sg>$ 
@@ -335,7 +335,7 @@
 ^indicated/indicate<vblex><past>$ 
 ^that/that<cnjsub>$ 
 ^Mexico/Mexico<np><top><sg>$ 
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^appeal/appeal<vblex><inf>$ 
 ^to/to<pr>$ 
 ^the/the<det><def><sp>$ 
@@ -458,7 +458,7 @@
 ^hope/hope<n><sg>$ 
 ^that/that<cnjsub>$ 
 ^it/prpers<prn><obj><p3><nt><sg>$
-^would/would<vaux><inf>$ 
+^would/will<vbmod><past>$ 
 ^retain/retain<vblex><inf>$ 
 ^United States/United States<np><top><pl>$ 
 ^backing/back<vblex><subs>$ 
@@ -660,7 +660,7 @@
 ^,/,<cm>$ 
 ^the/the<det><def><sp>$ 
 ^opposition/opposition<n><sg>$ 
-^could/can<vaux><past>$ 
+^could/can<vbmod><past>$ 
 ^offer/offer<vblex><inf>$ 
 ^no/no<det><ind><sp>$ 
 ^real/real<adj>$ 
@@ -767,7 +767,7 @@
 ^thought/think<vblex><pp>$ 
 ^that/that<cnjsub>$
 ^Guatemala/Guatemala<np><top><sg>$ 
-^might/might<vaux><inf>$ 
+^might/might<vbmod><inf>$ 
 ^take advantage of/take<vblex><inf># advantage of$ 
 ^the/the<det><def><sp>$ 
 ^Falklands/Falklands<np><top><pl>$ 

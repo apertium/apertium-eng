@@ -416,7 +416,7 @@
 ^the/the<det><def><sp>$ 
 ^votes/vote<n><pl>$ 
 ^cast/cast<vblex><pp>$ 
-^should/should<vaux><inf>$ 
+^should/shall<vbmod><past>$ 
 ^be/be<vbser><inf>$ 
 ^sufficient/sufficient<adj>$ 
 ^./.<sent>$
