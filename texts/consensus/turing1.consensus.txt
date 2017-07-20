@@ -74,7 +74,7 @@
 ^./.<sent>$
 
 ^Turing/Turing<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^widely/widely<adv>$
 ^considered/consider<vblex><pp>$
 ^to/to<pr>$
@@ -478,11 +478,11 @@
 ^baronet/baronet<n><sg>$
 ^./.<sent>$
 ^Julius/Julius<np><ant><m><sg>$
-^'s/'s<gen>/be<vbser><pri><p3><sg>$
+^'s/'s<gen>/be<vbser><pres><p3><sg>$
 ^wife/wife<n><sg>$
 ^,/,<cm>$
 ^Alan/Alan<np><ant><m><sg>$
-^'s/'s<gen>/be<vbser><pri><p3><sg>$
+^'s/'s<gen>/be<vbser><pres><p3><sg>$
 ^mother/mother<n><sg>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>/be<vbser><past><p1><sg>$
@@ -725,7 +725,7 @@
 
 ^The/the<det><def><sp>$
 ^location/location<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^also/also<adv>$
 ^marked/mark<vblex><pp>$
 ^with/with<pr>$
@@ -905,7 +905,7 @@
 ^./.<sent>$
 ^If/if<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^to/to<pr>$
 ^stay/stay<vblex><inf>$
 ^at/at<pr>$
@@ -921,7 +921,7 @@
 ^./.<sent>$
 ^If/if<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
 ^solely/solely<adv>$
@@ -930,7 +930,7 @@
 ^Specialist/specialist<n><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^wasting/waste<vblex><ger>$
 ^his/his<det><pos><sp>$
 ^time/time<n><sg>$
@@ -1334,14 +1334,14 @@
 ^for/for<pr>$
 ^Turing/Turing<np><cog><sg>$
 ^machines/machine<n><pl>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^undecidable/undecidable<adj>$
 ^:/:<sent>$
 ^in/in<pr>$
 ^general/general<adj>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
 ^possible/possible<adj>$
 ^to/to<pr>$
@@ -1388,7 +1388,7 @@
 ^Turing/Turing<np><cog><sg>$
 ^'s/'s<gen>$
 ^approach/approach<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^considerably/considerably<adv>$
 ^more/more<preadv>$
 ^accessible/accessible<adj>$
@@ -1444,14 +1444,14 @@
 ^words/word<n><pl>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^provably/provably<adv>$
 ^capable/capable<adj>$
 ^of/of<pr>$
 ^computing/compute<vblex><subs>$
 ^anything/anything<prn><tn><m><sg>$
 ^that/that<rel><an><mf><sp>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^computable/computable<adj>$
 ^./.<sent>$
 
@@ -1459,7 +1459,7 @@
 ^effect/effect<n><sg>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^programmable/programmable<adj>$
 ^./.<sent>$
 
@@ -1639,7 +1639,7 @@
 ^view/view<n><sg>$
 ^that/that<cnjsub>$
 ^mathematics/mathematics<n><sg>$
-^does/do<vbdo><pri><p3><sg>$
+^does/do<vbdo><pres><p3><sg>$
 ^not/not<adv>$
 ^discover/discover<vblex><inf>$
 ^any/any<det><ind><sp>$
@@ -1647,7 +1647,7 @@
 ^truths/truth<n><pl>$
 ^but/but<cnjcoo>$
 ^rather/rather<adv>$
-^invents/invent<vblex><pri><p3><sg>$
+^invents/invent<vblex><pres><p3><sg>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^./.<sent>$
 

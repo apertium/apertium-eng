@@ -71,7 +71,7 @@
 ^much/much<det><qnt><sg>$
 ^of/of<pr>$
 ^what/what<rel><nn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^today/today<adv>$
 ^southern/southern<adj>$
 ^Russia/Russia<np><top><sg>$
@@ -109,7 +109,7 @@
 ^Early/Early<adj><sint>$
 ^Khazar/*Khazar$
 ^history/history<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^intimately/intimately<adv>$
 ^tied/tie<vblex><pp>$
 ^with/with<pr>$
@@ -590,7 +590,7 @@
 ^clearly/clearly<adv>$
 ^lost/lose<vblex><pp>$
 ^the/the<det><def><sp>$
-^god/god<n><sg>$ 
+^god/god<n><sg>$
 ^'s/'s<gen>$
 ^favour/favour<n><sg>$
 ^and/and<cnjcoo>$
@@ -716,7 +716,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^conversion/conversion<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^hotly/*hotly$
 ^contested/contest<vblex><pp>$
 ^./.<sent>$
@@ -743,7 +743,7 @@
 ^discovered/discover<vblex><pp>$
 ^numismatic/*numismatic$
 ^evidence/evidence<n><sg>$
-^suggests/suggest<vblex><pri><p3><sg>$
+^suggests/suggest<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^Judaism/Judaism<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -756,7 +756,7 @@
 ^830/830<num>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^though/though<cnjadv>$ 
+^though/though<cnjadv>$
 ^St./*St.$
 ^Cyril/*Cyril$
 ^(/(<lpar>$
@@ -824,7 +824,7 @@
 ^named/name<vblex><pp>$
 ^Bulan/*Bulan$
 ^which/which<rel><an><mf><sp>$
-^means/mean<vblex><pri><p3><sg>$
+^means/mean<vblex><pres><p3><sg>$
 "
 ^elk/elk<n><sg>$
 "
@@ -885,7 +885,7 @@
 "
 ^;/;<sent>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^therefore/therefore<adv>$
 ^unlikely/unlikely<adj>$
 ^that/that<cnjsub>$
@@ -965,7 +965,7 @@
 
 ^Ibn/*Ibn$
 ^Fadlan/*Fadlan$
-^relates/relate<vblex><pri><p3><sg>$
+^relates/relate<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^around/around<pr>$
 ^920/920<num>$
@@ -1100,7 +1100,7 @@
 ^Saint/Saint<n><sg>$
 ^Cyril/*Cyril$
 ^,/,<cm>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^said/say<vblex><pp>$
 ^to/to<pr>$
 ^have/have<vbhaver><inf>$
@@ -1143,7 +1143,7 @@
 ^royal court/royal court<n><sg>$
 ^./.<sent>$
 
-^Both/Both<cnjcoo>$ 
+^Both/Both<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Khagan/*Khagan$
 ^and/and<cnjcoo>$
@@ -1156,7 +1156,7 @@
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
-^Khagan/*Khagan$ 
+^Khagan/*Khagan$
 ^'s/'s<gen>$
 ^palace/palace<n><sg>$
 ^,/,<cm>$
@@ -1208,7 +1208,7 @@
 ^,/,<cm>$
 ^King/King<n><sg>$
 ^Joseph/Joseph<np><ant><m><sg>$
-^identifies/identify<vblex><pri><p3><sg>$
+^identifies/identify<vblex><pres><p3><sg>$
 ^himself/himself<prn><ref><p3><m><sg>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
@@ -1217,7 +1217,7 @@
 ^the/the<det><def><sp>$
 ^Khazars/*Khazars$
 ^and/and<cnjcoo>$
-^makes/make<vblex><pri><p3><sg>$
+^makes/make<vblex><pres><p3><sg>$
 ^no/no<det><ind><sp>$
 ^reference/reference<n><sg>$
 ^to/to<pr>$
@@ -1226,7 +1226,7 @@
 ^./.<sent>$
 
 ^It/Prpers<prn><subj><p3><nt><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^disputed/disputed<adj>$
 ^whether/whether<cnjadv>$
@@ -1259,7 +1259,7 @@
 ^,/,<cm>$
 ^king/king<n><sg>$
 ^Joseph/Joseph<np><ant><m><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^identified/identify<vblex><pp>$
 ^as/as<pr>$
 ^not/not<adv>$
@@ -1269,7 +1269,7 @@
 ^A/A<det><ind><sg>$
 ^third/third<det><ord><sp>$
 ^option/option<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
@@ -1527,7 +1527,7 @@
 ^The/The<det><def><sp>$
 ^ninth/ninth<det><ord><sp>$
 ^century/century<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^sometimes/sometimes<adv>$
 ^known/know<vblex><pp>$
 ^as/as<pr>$
@@ -1586,7 +1586,7 @@
 ^It/Prpers<prn><subj><p3><nt><sg>$
 ^enjoyed/enjoy<vblex><past>$
 ^a/a<det><ind><sg>$
-^brief/brief<adj>$ 
+^brief/brief<adj>$
 ^revival/revival<n><sg>$
 ^under/under<pr>$
 ^the/the<det><def><sp>$

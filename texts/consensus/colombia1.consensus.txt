@@ -477,7 +477,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^suffered from/suffer<vblex><pp># from$
 ^an/a<det><ind><sg>$
 ^asymmetric/asymmetric<adj>$
@@ -512,7 +512,7 @@
 ^conflict/conflict<n><sg>$
 ^in/in<pr>$
 ^Colombia/Colombia<np><top><sg>$
-^takes place/take<vblex><pri><p3><sg># place$
+^takes place/take<vblex><pres><p3><sg># place$
 ^mainly/mainly<adv>$
 ^in/in<pr>$
 ^remote/remote<adj>$
@@ -531,7 +531,7 @@
 ^United States/United States<np><top><pl>$
 ^of/of<pr>$
 ^America/America<np><top><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^heavily/heavily<adv>$
 ^involved/involve<vblex><pp>$
@@ -691,7 +691,7 @@
 ^announce/announce<vblex><inf>$
 ^that/that<cnjsub>$
 ^Colombia/Colombia<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^no longer/no longer<adv>$
 ^the/the<det><def><sp>$
 ^world/world<n><sg>$
@@ -752,7 +752,7 @@
 ^Colombia/Colombia<np><top><sg>$
 ^,/,<cm>$
 ^2012/2012<num>$
-^refers/refer<vblex><pri><p3><sg>$
+^refers/refer<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^dialogue/dialogue<n><sg>$
@@ -820,7 +820,7 @@
 ^./.<sent>$
 
 ^Colombia/Colombia<np><top><sg>$
-^shows/show<vblex><pri><p3><sg>$
+^shows/show<vblex><pres><p3><sg>$
 ^modest/modest<adj>$
 ^progress/progress<n><sg>$
 ^in/in<pr>$
@@ -844,7 +844,7 @@
 ^relations/relation<n><pl>$
 ^,/,<cm>$
 ^Colombia/Colombia<np><top><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^moved/move<vblex><pp>$
 ^from/from<pr>$
 ^a/a<det><ind><sg>$
@@ -866,7 +866,7 @@
 ^./.<sent>$
 
 ^Colombia/Colombia<np><top><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^also/also<adv>$
 ^won/win<vblex><pp>$
 ^a/a<det><ind><sg>$
@@ -882,7 +882,7 @@
 
 ^Today/Today<adv>$
 ^Colombia/Colombia<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^third/third<det><ord><sp>$
 ^largest/large<adj><sint><sup>$
@@ -893,7 +893,7 @@
 ^America/America<np><top><sg>$
 ^and/and<cnjcoo>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^estimated/estimate<vblex><pp>$
 ^that/that<cnjsub>$
 ^by/by<pr>$
@@ -993,7 +993,7 @@
 ^Recent/Recent<adj>$
 ^economic/economic<adj>$
 ^growth/growth<n><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^led/lead<vblex><pp>$
 ^to/to<pr>$
 ^a/a<det><ind><sg>$

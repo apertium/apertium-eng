@@ -5,7 +5,7 @@
 ^,/,<cm>$
 ^atomic/atomic<adj>$
 ^theory/theory<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^theory/theory<n><sg>$
 ^of/of<pr>$
@@ -15,10 +15,10 @@
 ^matter/matter<n><sg>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^states/state<vblex><pri><p3><sg>$
+^states/state<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^matter/matter<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^composed/compose<vblex><pp>$
 ^of/of<pr>$
 ^discrete/discrete<adj>$
@@ -98,7 +98,7 @@
 
 ^The/The<det><def><sp>$
 ^first/first<det><ord><sp>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^,/,<cm>$
 ^unlike/unlike<pr>$
@@ -117,7 +117,7 @@
 ^accelerating/accelerate<vblex><pprs>$
 ^electric/electric<adj>$
 ^charge/charge<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^known/know<vblex><pp>$
 ^to/to<pr>$
 ^emit/emit<vblex><inf>$
@@ -181,7 +181,7 @@
 ^observed/observe<vblex><pp>$
 ^./.<sent>$
 
-^Bohr/Bohr<np><cog><sg>$ 
+^Bohr/Bohr<np><cog><sg>$
 ^'s/'s<gen>$
 ^model/model<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -224,7 +224,7 @@
 ^were/be<vbser><past>$
 ^observed/observe<vblex><pp>$
 ^which/which<rel><an><mf><sp>$
-^Bohr/Bohr<np><cog><sg>$ 
+^Bohr/Bohr<np><cog><sg>$
 ^'s/'s<gen>$
 ^model/model<n><sg>$
 ^couldn't/can<vbmod><past>+not<adv>$
@@ -277,10 +277,10 @@
 ^electrons/electron<n><pl>$
 ^as/as<pr>$
 ^waveforms/*waveforms$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^mathematically/mathematically<adv>$
 ^impossible/impossible<adj>$
 ^to/to<pr>$
@@ -305,7 +305,7 @@
 
 ^This/This<prn><tn><mf><sg>$
 ^invalidated/invalidate<vblex><pp>$
-^Bohr/Bohr<np><cog><sg>$ 
+^Bohr/Bohr<np><cog><sg>$
 ^'s/'s<gen>$
 ^model/model<n><sg>$
 ^,/,<cm>$
@@ -325,7 +325,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^atom/atom<n><sg>$
-^describes/describe<vblex><pri><p3><sg>$
+^describes/describe<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^positions/position<n><pl>$
 ^of/of<pr>$
@@ -354,12 +354,12 @@
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^,/,<cm>$
-^depending on/depend<vblex><sep><ger># on$ 
+^depending on/depend<vblex><sep><ger># on$
 ^its/its<det><pos><sp>$
 ^energy/energy<n><sg>$
 ^level/level<n><sg>$
 ^,/,<cm>$
-^tends/tend<vblex><pri><p3><sg>$
+^tends/tend<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^exist/exist<vblex><inf>$
 ^more/more<adv>$
@@ -375,7 +375,7 @@
 ^;/;<sent>$
 ^this/this<det><dem><sg>$
 ^pattern/pattern<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^referred/refer<vblex><pp>$
 ^to/to<pr>$
 ^as/as<pr>$

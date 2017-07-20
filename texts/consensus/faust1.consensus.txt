@@ -1,5 +1,5 @@
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^protagonist/protagonist<n><sg>$
 ^of/of<pr>$
@@ -19,7 +19,7 @@
 ^his/his<det><pos><sp>$
 ^life/life<n><sg>$
 ^who/who<rel><an><mf><sp>$
-^makes/make<vblex><pri><p3><sg>$
+^makes/make<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^pact/pact<n><sg>$
 ^with/with<pr>$
@@ -40,7 +40,7 @@
 ^The/The<det><def><sp>$
 ^Faust/Faust<np><cog><sg>$
 ^legend/legend<n><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^the/the<det><def><sp>$
 ^basis/basis<n><sg>$
@@ -76,7 +76,7 @@
 ^an/a<det><ind><sg>$
 ^ambitious/ambitious<adj>$
 ^person/person<n><sg>$
-^surrenders/surrender<vblex><pri><p3><sg>$
+^surrenders/surrender<vblex><pres><p3><sg>$
 ^moral/moral<adj>$
 ^integrity/integrity<n><sg>$
 ^in order to/in order to<pr>$
@@ -112,12 +112,12 @@
 ^out of/out of<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^—/—<guio>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^irrevocably/*irrevocably$
 ^damned/damned<adj>$
 ^because/because<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^prefers/prefer<vblex><pri><p3><sg>$
+^prefers/prefer<vblex><pres><p3><sg>$
 ^human/human<adj>$
 ^to/to<pr>$
 ^divine/divine<adj>$
@@ -228,12 +228,12 @@
 ^later/later<adv>$
 ^,/,<cm>$
 ^Faust/Faust<np><cog><sg>$
-^becomes/become<vblex><pri><p3><sg>$
+^becomes/become<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^dissatisfied/dissatisfied<adj>$
 ^intellectual/intellectual<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^yearns/yearn<vblex><pri><p3><sg>$
+^yearns/yearn<vblex><pres><p3><sg>$
 ^for/for<pr>$
 "
 ^more than/more than<pr>$
@@ -253,17 +253,17 @@
 ^be/be<vbser><inf>$
 ^summarised/*summarised$
 ^as/as<cnjadv>$
-^follows/follow<vblex><pri><p3><sg>$
+^follows/follow<vblex><pres><p3><sg>$
 ^:/:<sent>$
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^bored/bore<vblex><pp>$
 ^and/and<cnjcoo>$
 ^disappointed/disappoint<vblex><pp>$
 ^./.<sent>$
 
 ^He/Prpers<prn><subj><p3><m><sg>$
-^decides/decide<vblex><pri><p3><sg>$
+^decides/decide<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^call/call<vblex><inf>$
 ^on/on<adv>$
@@ -299,10 +299,10 @@
 ^,/,<cm>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
 ^,/,<cm>$
-^appears/appear<vblex><pri><p3><sg>$
+^appears/appear<vblex><pres><p3><sg>$
 ^./.<sent>$
 ^He/Prpers<prn><subj><p3><m><sg>$
-^makes/make<vblex><pri><p3><sg>$
+^makes/make<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^bargain/bargain<n><sg>$
 ^with/with<pr>$
@@ -354,7 +354,7 @@
 ^the/the<det><def><sp>$
 ^early/early<adj><sint>$
 ^tales/tale<n><pl>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^24/24<num>$
 ^years/year<n><pl>$
 ^—/—<guio>$
@@ -378,7 +378,7 @@
 ^bargain/bargain<n><sg>$
 ^,/,<cm>$
 ^Faust/Faust<np><cog><sg>$
-^makes/make<vblex><pri><p3><sg>$
+^makes/make<vblex><pres><p3><sg>$
 ^use/use<n><sg>$
 ^of/of<pr>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
@@ -400,7 +400,7 @@
 ^drama/drama<n><sg>$
 ^,/,<cm>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
-^helps/help<vblex><pri><p3><sg>$
+^helps/help<vblex><pres><p3><sg>$
 ^him/prpers<prn><obj><p3><m><sg>$
 ^to/to<pr>$
 ^seduce/seduce<vblex><inf>$
@@ -416,7 +416,7 @@
 ^,/,<cm>$
 ^whose/whose<rel><aa><mf><sp>$
 ^life/life<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^ultimately/ultimately<adv>$
 ^destroyed/destroy<vblex><pp>$
 ^./.<sent>$
@@ -426,7 +426,7 @@
 ^Gretchen/Gretchen<np><ant><f><sg>$
 ^'s/'s<gen>$
 ^innocence/innocence<n><sg>$
-^saves/save<vblex><pri><p3><sg>$
+^saves/save<vblex><pres><p3><sg>$
 ^her/prpers<prn><obj><p3><f><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -434,7 +434,7 @@
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^she/prpers<prn><subj><p3><f><sg>$
-^enters/enter<vblex><pri><p3><sg>$
+^enters/enter<vblex><pres><p3><sg>$
 ^Heaven/Heaven<n><sg>$
 ^./.<sent>$
 
@@ -444,7 +444,7 @@
 ^rendition/*rendition$
 ^,/,<cm>$
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^saved/save<vblex><pp>$
 ^by/by<pr>$
 ^God/God<n><sg>$
@@ -480,11 +480,11 @@
 ^tales/tale<n><pl>$
 ^,/,<cm>$
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^irrevocably/*irrevocably$
 ^corrupted/corrupt<vblex><pp>$
 ^and/and<cnjcoo>$
-^believes/believe<vblex><pri><p3><sg>$
+^believes/believe<vblex><pres><p3><sg>$
 ^his/his<det><pos><sp>$
 ^sins/sin<n><pl>$
 ^cannot/can<vbmod><pres>+not<adv>$
@@ -494,11 +494,11 @@
 ^when/when<cnjadv>$
 ^the/the<det><def><sp>$
 ^term/term<n><sg>$
-^ends/end<vblex><pri><p3><sg>$
+^ends/end<vblex><pres><p3><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Devil/Devil<n><sg>$
-^carries/carry<vblex><pri><p3><sg>$
+^carries/carry<vblex><pres><p3><sg>$
 ^him/prpers<prn><obj><p3><m><sg>$
 ^off/off<adv>$
 ^to/to<pr>$
@@ -511,7 +511,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^legend/legend<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^play/play<n><sg>$
 ^Faust/Faust<np><cog><sg>$
@@ -532,7 +532,7 @@
 ^Goethe/Goethe<np><cog><sg>$
 ^'s/'s<gen>$
 ^Faust/Faust<np><cog><sg>$
-^complicates/complicate<vblex><pri><p3><sg>$
+^complicates/complicate<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^simple/simple<adj><sint>$
 ^Christian/christian<adj>$
@@ -560,14 +560,14 @@
 ^closet/closet<n><sg>$
 ^drama/drama<n><sg>$
 "
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^epic/epic<n><sg>$
 ^in/in<pr>$
 ^scope/scope<n><sg>$
 ^./.<sent>$
 
 ^It/Prpers<prn><subj><p3><nt><sg>$
-^gathers/gather<vblex><pri><p3><sg>$
+^gathers/gather<vblex><pres><p3><sg>$
 ^together/together<adj>$
 ^references/reference<n><pl>$
 ^from/from<pr>$
@@ -621,7 +621,7 @@
 ^his/his<det><pos><sp>$
 ^death/death<n><sg>$
 ^,/,<cm>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^recognised/recognise<vblex><pp>$
 ^as/as<pr>$
 ^a/a<det><ind><sg>$
@@ -634,7 +634,7 @@
 
 ^The/The<det><def><sp>$
 ^story/story<n><sg>$
-^concerns/concern<vblex><pri><p3><sg>$
+^concerns/concern<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^fate/fate<n><sg>$
 ^of/of<pr>$
@@ -678,7 +678,7 @@
 ^life/life<n><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^attracts/attract<vblex><pri><p3><sg>$
+^attracts/attract<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^attention/attention<n><sg>$
 ^of/of<pr>$
@@ -691,7 +691,7 @@
 ^)/)<rpar>$
 ^,/,<cm>$
 ^who/who<rel><an><mf><sp>$
-^agrees/agree<vblex><pri><p3><sg>$
+^agrees/agree<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^serve/serve<vblex><inf>$
 ^Faust/Faust<np><cog><sg>$
@@ -699,7 +699,7 @@
 ^the/the<det><def><sp>$
 ^moment/moment<n><sg>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^attains/attain<vblex><pri><p3><sg>$
+^attains/attain<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^zenith/zenith<n><sg>$
 ^of/of<pr>$
@@ -709,7 +709,7 @@
 ^such/such<det><ind><sp>$
 ^that/that<cnjsub>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^cries/cry<vblex><pri><p3><sg>$
+^cries/cry<vblex><pres><p3><sg>$
 ^out/out<adv>$
 ^to/to<pr>$
 ^that/that<det><dem><sg>$
@@ -719,7 +719,7 @@
 ^stay/stay<vblex><imp>$
 ^,/,<cm>$
 ^thou/thou<prn><subj><p2><mf><sg>$
-^art/be<vblex><pri><p2><sg>$
+^art/be<vblex><pres><p2><sg>$
 ^so/so<preadv>$
 ^beautiful/beautiful<adj>$
 ^!/!<sent>$
@@ -743,7 +743,7 @@
 ^./.<sent>$
 
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^pleased/please<vblex><pp>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
@@ -751,7 +751,7 @@
 ^,/,<cm>$
 ^as/as<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^believes/believe<vblex><pri><p3><sg>$
+^believes/believe<vblex><pres><p3><sg>$
 ^this/this<det><dem><sg>$
 ^happy/happy<adj><sint>$
 ^zenith/zenith<n><sg>$
@@ -766,10 +766,10 @@
 ^part/part<n><sg>$
 ^,/,<cm>$
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
-^leads/lead<n><pl>/lead<vblex><pri><p3><sg>$
+^leads/lead<n><pl>/lead<vblex><pres><p3><sg>$
 ^Faust/Faust<np><cog><sg>$
 ^through/through<pr>$
-^experiences/experience<n><pl>/experience<vblex><pri><p3><sg>$
+^experiences/experience<n><pl>/experience<vblex><pres><p3><sg>$
 ^that/that<rel><an><mf><sp>$
 ^culminate/culminate<vblex><pres>$
 ^in/in<pr>$
@@ -806,7 +806,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^story/story<n><sg>$
-^ends/end<vblex><pri><p3><sg>$
+^ends/end<vblex><pres><p3><sg>$
 ^in/in<pr>$
 ^tragedy/tragedy<n><sg>$
 ^for/for<pr>$
@@ -814,11 +814,11 @@
 ^,/,<cm>$
 ^as/as<cnjadv>$
 ^Gretchen/Gretchen<np><ant><f><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^saved/save<vblex><pp>$
 ^but/but<cnjcoo>$
 ^Faust/Faust<np><cog><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^left/leave<vblex><pp>$
 ^to/to<pr>$
 ^grieve/grieve<vblex><inf>$
@@ -829,7 +829,7 @@
 ^The/The<det><def><sp>$
 ^second/second<det><ord><sp>$
 ^part/part<n><sg>$
-^begins/begin<vblex><pri><p3><sg>$
+^begins/begin<vblex><pres><p3><sg>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^spirits/spirit<n><pl>$
@@ -846,7 +846,7 @@
 ^mankind/mankind<n><sg>$
 ^)/)<rpar>$
 ^and/and<cnjcoo>$
-^progresses/progress<vblex><pri><p3><sg>$
+^progresses/progress<vblex><pres><p3><sg>$
 ^into/into<pr>$
 ^allegorical/allegorical<adj>$
 ^poetry/poetry<n><sg>$
@@ -901,7 +901,7 @@
 ^nature/nature<n><sg>$
 ^,/,<cm>$
 ^Faust/Faust<np><cog><sg>$
-^experiences/experience<vblex><pri><p3><sg>$
+^experiences/experience<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^singular/singular<adj>$
 ^moment/moment<n><sg>$
@@ -910,7 +910,7 @@
 ^./.<sent>$
 
 ^Mephistopheles/Mephistopheles<np><ant><m><sg>$
-^tries/try<vblex><pri><p3><sg>$
+^tries/try<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^seize/seize<vblex><inf>$
 ^Faust/Faust<np><cog><sg>$
@@ -918,7 +918,7 @@
 ^soul/soul<n><sg>$
 ^when/when<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
-^dies/die<vblex><pri><p3><sg>$
+^dies/die<vblex><pres><p3><sg>$
 ^after/after<pr>$
 ^this/this<det><dem><sg>/this<prn><tn><mf><sg>$
 ^moment/moment<n><sg>$
@@ -926,7 +926,7 @@
 ^happiness/happiness<n><sg>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^frustrated/frustrate<vblex><pp>$
 ^and/and<cnjcoo>$
 ^enraged/*enraged$
@@ -943,13 +943,13 @@
 ^Though/Though<cnjadv>$
 ^this/this<det><dem><sg>$
 ^grace/grace<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^truly/truly<adv>$
 ^'/'<apos>$
 ^gratuitous/*gratuitous$
 ^'/'<apos>$
 ^and/and<cnjcoo>$
-^does/do<vbdo><pri><p3><sg>$
+^does/do<vbdo><pres><p3><sg>$
 ^not/not<adv>$
 ^condone/condone<vblex><inf>$
 ^Faust/Faust<np><cog><sg>$
@@ -989,7 +989,7 @@
 ^The/The<det><def><sp>$
 ^final/final<adj>$
 ^scene/scene<n><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^Faust/Faust<np><cog><sg>$
 ^'s/'s<gen>$
 ^soul/soul<n><sg>$
@@ -1021,7 +1021,7 @@
 
 ^The/The<det><def><sp>$
 ^Goddess/Goddess<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^thus/thus<adv>$
 ^victorious/victorious<adj>$
 ^over/over<pr>$

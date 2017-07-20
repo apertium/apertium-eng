@@ -1,5 +1,5 @@
 ^Derbent/Derbent<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^city/city<n><sg>$
 ^in/in<pr>$
@@ -24,7 +24,7 @@
 ^./.<sent>$
 
 ^It/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^southernmost/*southernmost$
 ^city/city<n><sg>$
@@ -33,7 +33,7 @@
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^second/second<det><ord><sp>$
 ^most/most<det><qnt><sp>$
@@ -44,7 +44,7 @@
 ^./.<sent>$
 
 ^Derbent/Derbent<np><top><sg>$
-^occupies/occupy<vblex><pri><p3><sg>$
+^occupies/occupy<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^very/very<preadv>$
 ^narrow/narrow<adj><sint>$
@@ -95,7 +95,7 @@
 ^Alexander/Alexander<np><ant><m><sg>$
 ^,/,<cm>$
 ^Derbent/Derbent<np><top><sg>$
-^claims/claim<vblex><pri><p3><sg>$
+^claims/claim<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
 ^the/the<det><def><sp>$
@@ -124,13 +124,13 @@
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^Caucasus/*Caucasus$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^understood/understand<vblex><pp>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^Derbent/Derbent<np><top><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^archaeological/archaeological<adj>$
 ^structures/structure<n><pl>$
 ^over/over<adv>$
@@ -210,11 +210,11 @@
 ^name/name<n><sg>$
 ^in/in<pr>$
 ^Persian/Persian<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^Darband/*Darband$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^means/mean<vblex><pri><p3><sg>$
+^means/mean<vblex><pres><p3><sg>$
 "
 ^closed/close<vblex><pp>$
 ^gates/gate<n><pl>$
@@ -222,7 +222,7 @@
 ^./.<sent>$
 
 ^Derbent/Derbent<np><top><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^an/a<det><ind><sg>$
 ^important/important<adj>$
 ^strategic/strategic<adj>$
@@ -233,7 +233,7 @@
 ^:/:<sent>$
 ^the/the<det><def><sp>$
 ^city/city<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^situated/situate<vblex><pp>$
 ^on/on<pr>$
 ^a/a<det><ind><sg>$
@@ -302,7 +302,7 @@
 ^the/the<det><def><sp>$
 ^Derbent/Derbent<np><top><sg>$
 ^area/area<n><sg>$
-^dates/date<vblex><pri><p3><sg>$
+^dates/date<vblex><pres><p3><sg>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
 ^8th/8<num><ord>$
@@ -340,7 +340,7 @@
 ^Caucasian/*Caucasian$
 ^Albania/Albania<np><top><sg>$
 ^and/and<cnjcoo>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^traditionally/traditionally<adv>$
 ^identified/identify<vblex><pp>$
 ^with/with<pr>$
@@ -352,7 +352,7 @@
 ^The/the<det><def><sp>$
 ^modern/modern<adj>$
 ^name/name<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^Persian/persian<adj>$
 ^word/word<n><sg>$
@@ -1087,7 +1087,7 @@
 
 ^The/the<det><def><sp>$
 ^city/city<n><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^well-preserved/well-preserved<adj>$
 ^citadel/citadel<n><sg>$
@@ -1143,7 +1143,7 @@
 ^The/the<det><def><sp>$
 ^oldest/old<adj><sint><sup>$
 ^mosque/mosque<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^Juma/*Juma$
 ^Mosque/mosque<n><sg>$
@@ -1158,7 +1158,7 @@
 ^basilica/basilica<n><sg>$
 ^;/;<sent>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^15th/15<num><ord>$
 ^-/-<guio>$
@@ -1190,7 +1190,7 @@
 ^The/the<det><def><sp>$
 ^modern/modern<adj>$
 ^city/city<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^built/build<vblex><pp>$
 ^near/near<pr>$
 ^the/the<det><def><sp>$
@@ -1224,7 +1224,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 ^Derbent/Derbent<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^well/well<adv>$
 ^served/serve<vblex><pp>$
 ^by/by<pr>$
@@ -1258,7 +1258,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^town/town<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^monument/monument<n><sg>$
 ^of/of<pr>$
@@ -1377,7 +1377,7 @@
 ^divisions/division<n><pl>$
 ^,/,<cm>$
 ^Derbent/Derbent<np><top><sg>$
-^serves/serve<vblex><pri><p3><sg>$
+^serves/serve<vblex><pres><p3><sg>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
 ^administrative/administrative<adj>$
@@ -1389,7 +1389,7 @@
 ^even/even<adv>$
 ^though/though<cnjadv>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
 ^a/a<det><ind><sg>$
 ^part/part<n><sg>$
@@ -1403,7 +1403,7 @@
 ^division/division<n><sg>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^incorporated/incorporate<vblex><pp>$
 ^separately/separately<adv>$
 ^as/as<pr>$
@@ -1435,7 +1435,7 @@
 ^City/city<n><sg>$
 ^of/of<pr>$
 ^Derbent/Derbent<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^incorporated/incorporate<vblex><pp>$
 ^as/as<pr>$
 ^Derbent/Derbent<np><top><sg>$
@@ -1445,7 +1445,7 @@
 
 ^The/the<det><def><sp>$
 ^city/city<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^home/home<n><sg>$
 ^to/to<pr>$
 ^machine/machine<n><sg>$
@@ -1468,7 +1468,7 @@
 ^./.<sent>$
 
 ^It/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^production/production<n><sg>$
 ^centre/centre<n><sg>$
@@ -1480,12 +1480,12 @@
 ^The/the<det><def><sp>$
 ^education/education<n><sg>$
 ^infrastructure/infrastructure<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^fairly/fairly<preadv>$
 ^extensive/extensive<adj>$
 ^;/;<sent>$
 ^there/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^university/university<n><sg>$
 ^as/as<preadv>$
@@ -1506,7 +1506,7 @@
 ^from/from<pr>$
 ^the/the<det><def><sp>$
 ^city/city<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^holiday/holiday<n><sg>$
 ^complex/complex<n><sg>$

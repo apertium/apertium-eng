@@ -1,7 +1,7 @@
 ^Aluminium/Aluminium<n><sg>$
 ^alloys/alloy<n><pl>$
 ^with/with<pr>$
-^a/a<det><ind><sg>$ 
+^a/a<det><ind><sg>$
 ^wide/wide<adj><sint>$
 ^range/range<n><sg>$
 ^of/of<pr>$
@@ -66,7 +66,7 @@
 ^and/and<cnjcoo>$
 ^design/design<vblex><inf>$
 ^for/for<pr>$
-^a/a<det><ind><sg>$ 
+^a/a<det><ind><sg>$
 ^fixed/fixed<adj>$
 ^life/life<n><sg>$
 ^rather than/rather than<cnjcoo>$
@@ -82,7 +82,7 @@
 ^are/be<vbser><pres>$
 ^complicated/complicate<vblex><pp>$
 ^by/by<pr>$
-^the/the<det><def><sp>$ 
+^the/the<det><def><sp>$
 ^fact/fact<n><sg>$
 ^that/that<cnjsub>$
 ^aluminium/aluminium<n><sg>$
@@ -236,7 +236,7 @@
 ^./.<sent>$
 
 ^In/In<pr>$
-^the/the<det><def><sp>$ 
+^the/the<det><def><sp>$
 ^1960s/1960s<n><pl>$
 ^aluminium/aluminium<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -254,7 +254,7 @@
 ^electrical/electrical<adj>$
 ^wiring/*wiring$
 ^in/in<pr>$
-^the/the<det><def><sp>$ 
+^the/the<det><def><sp>$
 ^United States/United States<np><top><pl>$
 ^,/,<cm>$
 ^even though/even though<cnjadv>$
@@ -271,7 +271,7 @@
 ^./.<sent>$
 
 ^In/In<pr>$
-^some/some<det><qnt><sp>$ 
+^some/some<det><qnt><sp>$
 ^cases/case<n><pl>$
 ^the/the<det><def><sp>$
 ^greater/great<adj><sint><comp>$
@@ -290,7 +290,7 @@
 ^contract/contract<vblex><inf>$
 ^relative/relative<adj>$
 ^to/to<pr>$
-^the/the<det><def><sp>$ 
+^the/the<det><def><sp>$
 ^dissimilar/*dissimilar$
 ^metal/metal<n><sg>$
 ^screw/screw<n><sg>$
@@ -317,7 +317,7 @@
 ^pressure/pressure<n><sg>$
 ^(/(<lpar>$
 ^to/to<pr>$
-^a/a<det><ind><sg>$ 
+^a/a<det><ind><sg>$
 ^greater/great<adj><sint><comp>$
 ^degree/degree<n><sg>$
 ^as/as<cnjsub>$
@@ -335,9 +335,9 @@
 ^Finally/Finally<adv>$
 ^,/,<cm>$
 ^Galvanic/*Galvanic$
-^corrosion/*corrosion$ 
+^corrosion/*corrosion$
 ^from/from<pr>$
-^the/the<det><def><sp>$ 
+^the/the<det><def><sp>$
 ^dissimilar/*dissimilar$
 ^metals/metal<n><pl>$
 ^increased/increase<vblex><past>$
@@ -351,7 +351,7 @@
 
 ^All/All<prn><qnt><mf><sp>$
 ^of/of<pr>$
-^this/this<prn><dem><mf><sg>$ 
+^this/this<prn><dem><mf><sg>$
 ^resulted/result<vblex><past>$
 ^in/in<pr>$
 ^overheated/*overheated$
@@ -473,7 +473,7 @@
 ^aluminium/aluminium<n><sg>$
 ^wire/wire<n><sg>$
 ^to/to<pr>$
-^a/a<det><ind><sg>$ 
+^a/a<det><ind><sg>$
 ^short/short<adj><sint>$
 ^"/parquote<quot>$
 ^pigtail/*pigtail$

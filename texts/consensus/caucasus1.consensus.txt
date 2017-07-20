@@ -1,6 +1,6 @@
 ^The/The<det><def><sp>$
 ^Caucasus/*Caucasus$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^one/one<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^the most/the most<det><qnt><sp>$
@@ -98,7 +98,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Caucasus/*Caucasus$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^known/know<vblex><pp>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
@@ -507,13 +507,13 @@
 ^Abkhazia/*Abkhazia$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^de facto/de facto<adj>$
 ^independent/independent<adj>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^de jure/de jure<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^an/a<det><ind><sg>$
 ^autonomous/autonomous<adj>$
 ^republic/republic<n><sg>$
@@ -523,7 +523,7 @@
 
 ^The/The<det><def><sp>$
 ^Caucasus/*Caucasus$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^many/many<det><qnt><pl>$
 ^economically/economically<adv>$
 ^important/important<adj>$

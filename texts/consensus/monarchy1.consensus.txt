@@ -4,7 +4,7 @@
 ^uniting/unite<vblex><pprs>$
 ^Germanic/germanic<adj>$
 ^societies/society<n><pl>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^kingship/kingship<n><sg>$
 ^,/,<cm>$
 ^in/in<pr>$
@@ -45,23 +45,23 @@
 ^candidates/candidate<n><pl>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
-^family/family<n><sg>$ 
-^(/(<lpar>$ 
-^OE/*OE$ 
-^cynn/*cynn$ 
-^)/)<rpar>$ 
-^tracing/trace<vblex><pprs>$ 
-^their/their<det><pos><sp>$ 
-^ancestry/ancestry<n><sg>$ 
-^to/to<pr>$ 
-^the/the<det><def><sp>$ 
-^tribe/tribe<n><sg>$  
-^'s/'s<gen>$ 
-^divine/divine<adj>$ 
-^or/or<cnjcoo>$ 
-^semi-divine/semi-divine<adj>$ 
-^founder/founder<n><sg>$ 
-^./.<sent>$ 
+^family/family<n><sg>$
+^(/(<lpar>$
+^OE/*OE$
+^cynn/*cynn$
+^)/)<rpar>$
+^tracing/trace<vblex><pprs>$
+^their/their<det><pos><sp>$
+^ancestry/ancestry<n><sg>$
+^to/to<pr>$
+^the/the<det><def><sp>$
+^tribe/tribe<n><sg>$
+^'s/'s<gen>$
+^divine/divine<adj>$
+^or/or<cnjcoo>$
+^semi-divine/semi-divine<adj>$
+^founder/founder<n><sg>$
+^./.<sent>$
 
 ^Free/Free<adj><sint>$
 ^women/woman<n><pl>$
@@ -98,28 +98,28 @@
 ^due/due<adj>$
 ^for/for<pr>$
 ^the/the<det><def><sp>$
-^killing/kill<vblex><subs>$ 
-^or/or<cnjcoo>$ 
-^injuring/injure<vblex><subs>$ 
-^of/of<pr>$ 
-^a/a<det><ind><sg>$ 
-^woman/woman<n><sg>$ 
-^is/be<vbser><pri><p3><sg>$ 
-^notably/notably<adv>$ 
-^set/set<vblex><pp>$ 
-^at/at<pr>$ 
-^twice/twice<adv>$ 
-^that/that<prn><tn><mf><sg>$ 
-^of/of<pr>$ 
-^a/a<det><ind><sg>$ 
-^man/man<n><sg>$ 
-^of/of<pr>$ 
-^the same/the same<det><ind><sp>$ 
-^rank/rank<n><sg>$ 
-^in/in<pr>$ 
-^Alemannic/*Alemannic$ 
-^law/law<n><sg>$ 
-^./.<sent>$ 
+^killing/kill<vblex><subs>$
+^or/or<cnjcoo>$
+^injuring/injure<vblex><subs>$
+^of/of<pr>$
+^a/a<det><ind><sg>$
+^woman/woman<n><sg>$
+^is/be<vbser><pres><p3><sg>$
+^notably/notably<adv>$
+^set/set<vblex><pp>$
+^at/at<pr>$
+^twice/twice<adv>$
+^that/that<prn><tn><mf><sg>$
+^of/of<pr>$
+^a/a<det><ind><sg>$
+^man/man<n><sg>$
+^of/of<pr>$
+^the same/the same<det><ind><sp>$
+^rank/rank<n><sg>$
+^in/in<pr>$
+^Alemannic/*Alemannic$
+^law/law<n><sg>$
+^./.<sent>$
 
 ^All/All<predet><sp>$
 ^freemen/freemen<n><pl>$
@@ -268,7 +268,7 @@
 ^by/by<pr>$
 ^presenting/present<vblex><ger>$
 ^a/a<det><ind><sg>$
-^fixed/fixed<adj>$ 
+^fixed/fixed<adj>$
 ^number/number<n><sg>$
 ^of/of<pr>$
 ^free/free<adj><sint>$
@@ -276,7 +276,7 @@
 ^(/(<lpar>$
 ^their/their<det><pos><sp>$
 ^number/number<n><sg>$
-^depending on/depend<vblex><sep><ger># on$ 
+^depending on/depend<vblex><sep><ger># on$
 ^the/the<det><def><sp>$
 ^severity/severity<n><sg>$
 ^of/of<pr>$
@@ -293,20 +293,20 @@
 ^innocence/innocence<n><sg>$
 ^./.<sent>$
 
-^Failing/Fail<vblex><ger>$ 
-^this/this<prn><tn><mf><sg>$ 
-^,/,<cm>$ 
-^he/prpers<prn><subj><p3><m><sg>$ 
-^could/can<vbmod><past>$ 
-^prove/prove<vblex><inf>$ 
-^his/his<det><pos><sp>$ 
-^innocence/innocence<n><sg>$ 
-^in/in<pr>$ 
-^a/a<det><ind><sg>$ 
-^trial/trial<n><sg>$ 
-^by/by<pr>$ 
-^combat/combat<n><sg>$ 
-^./.<sent>$ 
+^Failing/Fail<vblex><ger>$
+^this/this<prn><tn><mf><sg>$
+^,/,<cm>$
+^he/prpers<prn><subj><p3><m><sg>$
+^could/can<vbmod><past>$
+^prove/prove<vblex><inf>$
+^his/his<det><pos><sp>$
+^innocence/innocence<n><sg>$
+^in/in<pr>$
+^a/a<det><ind><sg>$
+^trial/trial<n><sg>$
+^by/by<pr>$
+^combat/combat<n><sg>$
+^./.<sent>$
 
 ^Corporal/Corporal<adj>$
 ^or/or<cnjcoo>$
@@ -314,7 +314,7 @@
 ^for/for<pr>$
 ^free/free<adj><sint>$
 ^men/man<n><pl>$
-^does/do<vbdo><pri><p3><sg>$
+^does/do<vbdo><pres><p3><sg>$
 ^not/not<adv>$
 ^figure/figure<vblex><inf>$
 ^in/in<pr>$
@@ -325,7 +325,7 @@
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^banishment/banishment<n><sg>$
-^appears/appear<vblex><pri><p3><sg>$
+^appears/appear<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
 ^the most/the<det><def><sp>+most<preadv>$
@@ -335,9 +335,9 @@
 ^officially/officially<adv>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$ 
-^reflects/reflect<vblex><pri><p3><sg>$
-^that/that<cnjsub>$ 
+^This/This<prn><tn><mf><sg>$
+^reflects/reflect<vblex><pres><p3><sg>$
+^that/that<cnjsub>$
 ^Germanic/germanic<adj>$
 ^tribal/tribal<adj>$
 ^law/law<n><sg>$
@@ -350,7 +350,7 @@
 ^exacting/exacting<vblex><ger>$
 ^revenge/revenge<n><sg>$
 ^,/,<cm>$
-^which/which<rel><an><mf><sp>$ 
+^which/which<rel><an><mf><sp>$
 ^was left/be<vblex><past><p3><sg># left$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
@@ -387,7 +387,7 @@
 ^Traditional/Traditional<adj>$
 ^Germanic/germanic<adj>$
 ^society/society<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^gradually/gradually<adv>$
 ^replaced/replace<vblex><pp>$
 ^by/by<pr>$
@@ -397,7 +397,7 @@
 ^estates/estate<n><pl>$
 ^and/and<cnjcoo>$
 ^feudalism/feudalism<n><sg>$
-^characteristic/characteristic<adj>$ 
+^characteristic/characteristic<adj>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^High/High<adj><sint>$
@@ -424,21 +424,21 @@
 ^of/of<pr>$
 ^Roman/Roman<adj>$
 ^law/law<n><sg>$
-^as/as<pr>$ 
+^as/as<pr>$
 ^an/a<det><ind><sg>$
 ^indirect/indirect<adj>$
 ^result/result<n><sg>$
 ^of/of<pr>$
 ^Christianisation/Christianisation<np><sg>$
 ^,/,<cm>$
-^but/but<cnjcoo>$ 
+^but/but<cnjcoo>$
 ^also/also<adv>$
 ^because/because<cnjadv>$
 ^political/political<adj>$
 ^structures/structure<n><pl>$
 ^had/have<vbhaver><past>$
 ^grown/grow<vblex><pp>$
-^too/too<adv>$ 
+^too/too<adv>$
 ^large/large<adj><sint>$
 ^for/for<pr>$
 ^the/the<det><def><sp>$
@@ -455,7 +455,7 @@
 ^of/of<pr>$
 ^political/political<adj>$
 ^centralisation/centralisation<n><sg>$
-^takes/take<vblex><pri><p3><sg>$
+^takes/take<vblex><pres><p3><sg>$
 ^hold/hold<n><sg>$
 ^in/in<pr>$
 ^Scandinavia/Scandinavia<np><top><sg>$
@@ -512,7 +512,7 @@
 ^nevertheless/nevertheless<adv>$
 ^remained/remain<vblex><past>$
 ^in effect/in effect<adv>$
-^throughout/throughout<pr>$ 
+^throughout/throughout<pr>$
 ^the/the<det><def><sp>$
 ^Middle/Middle<adj>$
 ^Ages/Age<n><pl>$
@@ -535,7 +535,7 @@
 ^Court/Court<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^beginning/begin<vblex><pprs>$ 
+^beginning/begin<vblex><pprs>$
 ^German/german<adj>$
 ^Renaissance/Renaissance<n><sg>$
 ^./.<sent>$
@@ -547,7 +547,7 @@
 ^of/of<pr>$
 ^Switzerland/Switzerland<np><top><sg>$
 ^,/,<cm>$
-^where/where<rel><adv>$ 
+^where/where<rel><adv>$
 ^cantonal/cantonal<adj>$
 ^structures/structure<n><pl>$
 ^remained/remain<vblex><past>$

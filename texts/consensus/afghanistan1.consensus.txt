@@ -1,4 +1,4 @@
-^Politics/Politics<n><sg>$
+^Politics/politics<n><sg>$
 ^in/in<pr>$
 ^Afghanistan/Afghanistan<np><top><sg>$
 ^has/have<vbhaver><pres><p3><sg>$
@@ -17,7 +17,7 @@
 ^power/power<n><sg>$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^exception/exception<n><sg>$
 ^of/of<pr>$
@@ -47,15 +47,15 @@
 ^,/,<cm>$
 ^republic/republic<n><sg>$
 ^,/,<cm>$
-^theocracy/*theocracy$
+^theocracy/theocracy<n><sg>$
 ^and/and<cnjcoo>$
 ^communist/communist<adj>$
 ^state/state<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^constitution/constitution<n><sg>$
-^ratified/ratify<vblex><past>$
+^ratified/ratify<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
 ^2003/2003<num>$
@@ -84,7 +84,7 @@
 ^currently/currently<adv>$
 ^led/lead<vblex><pp>$
 ^by/by<pr>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^Hamid/Hamid<np><ant><m><sg>$
 ^Karzai/Karzai<np><cog><sg>$
 ^,/,<cm>$
@@ -96,7 +96,7 @@
 ^2004/2004<num>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^current/current<adj>$
 ^parliament/parliament<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -105,7 +105,7 @@
 ^2005/2005<num>$
 ^./.<sent>$
 
-^Among/Among<pr>$
+^Among/among<pr>$
 ^the/the<det><def><sp>$
 ^elected/elect<vblex><pp>$
 ^officials/official<n><pl>$
@@ -146,7 +146,7 @@
 ^constitution/constitution<n><sg>$
 ^./.<sent>$
 
-^This/This<prn><dem><mf><sg>$
+^This/this<prn><dem><mf><sg>$
 ^made/make<vblex><past>$
 ^Afghanistan/Afghanistan<np><top><sg>$
 ^,/,<cm>$
@@ -154,7 +154,7 @@
 ^known/known<adj>$
 ^under/under<pr>$
 ^the/the<det><def><sp>$
-^Taliban/Taliban<adj>$
+^Taliban/Taliban<n><pl>$
 ^for/for<pr>$
 ^its/its<det><pos><sp>$
 ^oppression/oppression<n><sg>$
@@ -173,7 +173,7 @@
 ^representation/representation<n><sg>$
 ^./.<sent>$
 
-^Construction/Construction<n><sg>$
+^Construction/construction<n><sg>$
 ^for/for<pr>$
 ^a/a<det><ind><sg>$
 ^new/new<adj><sint>$
@@ -188,7 +188,7 @@
 ^2005/2005<num>$
 ^./.<sent>$
 
-^Although/Although<cnjsub>$
+^Although/although<cnjadv>$
 ^literacy/literacy<n><sg>$
 ^levels/level<n><pl>$
 ^are/be<vbser><pres>$
@@ -226,7 +226,7 @@
 ^culture/culture<n><sg>$
 ^./.<sent>$
 
-^Poetry/Poetry<n><sg>$
+^Poetry/poetry<n><sg>$
 ^has/have<vbhaver><pres><p3><sg>$
 ^always/always<adv>$
 ^been/be<vbser><pp>$
@@ -235,7 +235,7 @@
 ^the/the<det><def><sp>$
 ^major/major<adj>$
 ^educational/educational<adj>$
-^pillars/*pillars$
+^pillars/pillar<n><pl>$
 ^in/in<pr>$
 ^Iran/Iran<np><top><sg>$
 ^and/and<cnjcoo>$
@@ -253,7 +253,7 @@
 ^culture/culture<n><sg>$
 ^./.<sent>$
 
-^Almost/Almost<adv>$
+^Almost/almost<adv>$
 ^every/every<det><ind><sg>$
 ^homeowner/*homeowner$
 ^owns/own<vblex><pres><p3><sg>$
@@ -275,7 +275,7 @@
 ^often/often<adv>$
 ^./.<sent>$
 
-^Many/Many<prn><ind><mf><pl>$
+^Many/many<prn><ind><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^famous/famous<adj>$
@@ -298,7 +298,7 @@
 ^Afghanistan/Afghanistan<np><top><sg>$
 ^./.<sent>$
 
-^They/Prpers<prn><subj><p3><mf><pl>$
+^They/prpers<prn><subj><p3><mf><pl>$
 ^were/be<vbser><past>$
 ^mostly/mostly<adv>$
 ^also/also<adv>$
@@ -319,7 +319,7 @@
 ^astronomy/astronomy<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^addition/addition<n><sg>$
 ^to/to<pr>$
 ^poets/poet<n><pl>$
@@ -329,7 +329,7 @@
 ^numerous/numerous<adj>$
 ^Persian/Persian<adj>$
 ^scientists/scientist<n><pl>$
-^were born/be# born<vbser><past>$
+^were born/be<vblex><past># born$
 ^or/or<cnjcoo>$
 ^worked/work<vblex><past>$
 ^in/in<pr>$

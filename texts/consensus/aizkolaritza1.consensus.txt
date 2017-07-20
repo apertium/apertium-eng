@@ -1,5 +1,5 @@
 ^Aizkolaritza/*Aizkolaritza$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^Basque/basque<adj>$
 ^name/name<n><sg>$
@@ -53,7 +53,7 @@
 ^teams/team<n><pl>$
 ^competing/compete<vblex><pprs>$
 ^against/against<pr>$
-^each/each<det><ind><sg>$
+^each/each<prn><ind><mf><sg>$
 ^other/other<det><ind><sp>$
 ^./.<sent>$
 
@@ -63,7 +63,7 @@
 ^trunk/trunk<n><sg>$
 ^are/be<vbser><pres>$
 ^usually/usually<adv>$
-^beech/*beech$
+^beech/beech<n><sg>$
 ^without/without<pr>$
 ^visible/visible<adj>$
 ^knots/knot<n><pl>$
@@ -165,7 +165,7 @@
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
-^axes/axe<n><sg>$
+^axes/axe<n><pl>$
 ^are/be<vbser><pres>$
 ^between/between<pr>$
 ^2.4/2.4<num>$
@@ -180,7 +180,7 @@
 ^and/and<cnjcoo>$
 ^each/each<det><ind><sg>$
 ^aizkolari/*aizkolari$
-^uses/use<vblex><pri><p3><sg>$
+^uses/use<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^number/number<n><sg>$
 ^of/of<pr>$
@@ -204,7 +204,7 @@
 ^where/where<rel><adv>$
 ^one/one<num><sg>$
 ^aizkolari/*aizkolari$
-^stands/stand<vblex><pri><p3><sg>$
+^stands/stand<vblex><pres><p3><sg>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
 ^log/log<n><sg>$
@@ -260,10 +260,10 @@
 ^relieve/relieve<vblex><pres>$
 ^the/the<det><def><sp>$
 ^other/other<det><ind><sp>$
-^once/once<adv>$
+^once/once<cnjadv>$
 ^a/a<det><ind><sg>$
 ^trunk/trunk<n><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^chopped/*chopped$
 ^through/through<pr>$
@@ -271,7 +271,7 @@
 
 ^The/the<det><def><sp>$
 ^focus/focus<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^more/more<adv>$
 ^on/on<pr>$
 ^stamina/*stamina$
@@ -284,7 +284,7 @@
 ^-/-<guio>$
 ^chopping/*chopping$
 ^events/event<n><pl>$
-^outside/outside<n><sg>$
+^outside/outside<pr>$
 ^the/the<det><def><sp>$
 ^Basque/basque<adj>$
 ^Country/country<n><sg>$
@@ -326,11 +326,11 @@
 ^in/in<pr>$
 ^Spanish/Spanish<n><sg>$
 ^)/)<rpar>$
-^holds/hold<vblex><pri><p3><sg>$
+^holds/hold<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^towel/towel<n><sg>$
 ^and/and<cnjcoo>$
-^brings/bring<vblex><pri><p3><sg>$
+^brings/bring<vblex><pres><p3><sg>$
 ^new/new<adj><sint>$
 ^axes/axe<n><pl>$
 ^./.<sent>$
@@ -341,7 +341,7 @@
 ^in/in<pr>$
 ^Spanish/Spanish<n><sg>$
 ^)/)<rpar>$
-^checks/check<vblex><pri><p3><sg>$
+^checks/check<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^two/two<num><sp>$
 ^halves/half<n><pl>$
@@ -360,11 +360,11 @@
 ^connected/connect<vblex><pp>$
 ^)/)<rpar>$
 ^,/,<cm>$
-^dictates/dictate<vblex><pri><p3><sg>$
+^dictates/dictate<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^rhythm/rhythm<n><sg>$
 ^and/and<cnjcoo>$
-^indicates/indicate<vblex><pri><p3><sg>$
+^indicates/indicate<vblex><pres><p3><sg>$
 ^where/where<rel><adv>$
 ^best/good<adj><sint><sup>$
 ^to/to<pr>$
@@ -394,7 +394,7 @@
 ^a/a<det><ind><sg>$
 ^wager/*wager$
 ^to/to<pr>$
-^chop/chop<n><sg>$
+^chop/chop<vblex><inf>$
 ^six/six<num><sp>$
 ^110/110<num>$
 ^ontza/*ontza$
@@ -518,7 +518,7 @@
 ^modern/modern<adj>$
 ^day/day<n><sg>$
 ^competition/competition<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^probably/probably<adv>$
 ^the/the<det><def><sp>$
 ^Urrezko/*Urrezko$
@@ -542,7 +542,7 @@
 ^Country/country<n><sg>$
 ^compete/compete<vblex><pres>$
 ^against/against<pr>$
-^each/each<det><ind><sg>$
+^each/each<prn><ind><mf><sg>$
 ^other/other<det><ind><sp>$
 ^individually/individually<adv>$
 ^or/or<cnjcoo>$
@@ -555,7 +555,7 @@
 ^several/several<det><ind><pl>$
 ^categories/category<n><pl>$
 ^,/,<cm>$
-^including/include<vblex><pprs>$
+^including/include<vblex><ger>$
 ^two/two<num><sp>$
 ^junior/junior<n><sg>$
 ^competitions/competition<n><pl>$
@@ -598,7 +598,7 @@
 ^1997/1997<num>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^held/hold<vblex><pp>$
 ^annually/annually<adv>$
@@ -661,7 +661,7 @@
 ^are/be<vbser><pres>$
 ^required/require<vblex><pp>$
 ^to/to<pr>$
-^chop/chop<n><sg>$
+^chop/chop<vblex><inf>$
 ^a/a<det><ind><sg>$
 ^vertical/vertical<adj>$
 ^tree/tree<n><sg>$
@@ -679,7 +679,7 @@
 ^./.<sent>$
 
 ^This/this<prn><tn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^achieved/achieve<vblex><pp>$
 ^by/by<pr>$
 ^chopping/*chopping$
@@ -691,14 +691,14 @@
 ^which/which<rel><an><mf><sp>$
 ^the/the<det><def><sp>$
 ^aizkolari/*aizkolari$
-^inserts/insert<vblex><pri><p3><sg>$
+^inserts/insert<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^plank/*plank$
 ^./.<sent>$
 
 ^He/prpers<prn><subj><p3><m><sg>$
 ^then/then<adv>$
-^stands/stand<vblex><pri><p3><sg>$
+^stands/stand<vblex><pres><p3><sg>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
 ^plank/*plank$
@@ -716,18 +716,18 @@
 ^in/in<pr>$
 ^a/a<det><ind><sg>$
 ^spiral/spiral<n><sg>$
-^until/until<pr>$
+^until/until<cnjadv>$
 ^he/prpers<prn><subj><p3><m><sg>$
 ^can/can<vbmod><pres>$
-^chop/chop<n><sg>$
+^chop/chop<vblex><inf>$
 ^the/the<det><def><sp>$
-^top/top<n><sg>$
+^top/top<adj>$
 ^section/section<n><sg>$
 ^./.<sent>$
 ^The/the<det><def><sp>$
 ^trunks/trunk<n><pl>$
 ^are/be<vbser><pres>$
-^up/up<adv>$
+^up/up<pr>$
 ^to/to<pr>$
 ^6/6<num>$
 ^m/m<abbr>$
@@ -737,16 +737,16 @@
 ^no/no<det><ind><sp>$
 ^safety/safety<n><sg>$
 ^equipment/equipment<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^used/use<vblex><pp>$
-^up/up<adv>$ 
+^up/up<pr>$
 ^to/to<pr>$
 ^that/that<det><dem><sg>$
 ^height/height<n><sg>$
 ^./.<sent>$
 
 ^There/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^another/another<det><ind><sg>$
 ^variation/variation<n><sg>$
 ^combining/combine<vblex><pprs>$
@@ -761,11 +761,11 @@
 ^Traditionally/traditionally<adv>$
 ^a/a<det><ind><sg>$
 ^male/male<n><sg>$
-^dominated/dominate<vblex><past>$
+^dominated/dominate<vblex><pp>$
 ^sport/sport<n><sg>$
 ^,/,<cm>$
 ^women/woman<n><pl>$
-^have/have<vbhaver><inf>$
+^have/have<vblex><pres>$
 ^begun/begin<vblex><pp>$
 ^to/to<pr>$
 ^take/take<vblex><inf>$
@@ -776,7 +776,7 @@
 ^in/in<pr>$
 ^recent/recent<adj>$
 ^years/year<n><pl>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^they/prpers<prn><subj><p3><mf><pl>$
 ^have/have<vblex><pres>$
 ^in/in<pr>$
@@ -803,7 +803,7 @@
 ^as/as<pr>$
 ^a/a<det><ind><sg>$
 ^profession/profession<n><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^long/long<adj><sint>$
 ^tradition/tradition<n><sg>$
@@ -812,7 +812,7 @@
 ^Basque/basque<adj>$
 ^Country/country<n><sg>$
 ^and/and<cnjcoo>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^recorded/record<vblex><pp>$
 ^since/since<pr>$
@@ -881,7 +881,7 @@
 ^the/the<det><def><sp>$
 ^mound/*mound$
 ^for/for<pr>$
-^burning/burn<vblex><subs>$
+^burning/burn<vblex><ger>$
 ^charcoal/*charcoal$
 ^./.<sent>$
 
@@ -938,7 +938,7 @@
 ^areas/area<n><pl>$
 ^of/of<pr>$
 ^woodland/woodland<n><sg>$
-^being/be<vbser><pprs>$
+^being/be<vbser><ger>$
 ^cut/cut<vblex><pp>$
 ^down/down<adv>$
 ^./.<sent>$
@@ -956,7 +956,7 @@
 ^famed/*famed$
 ^for/for<pr>$
 ^their/their<det><pos><sp>$
-^top/top<n><sg>$
+^top/top<adj>$
 ^wood/wood<n><sg>$
 ^-/-<guio>$
 ^cutters/cutter<n><pl>$
@@ -966,7 +966,7 @@
 ^be/be<vbser><inf>$
 ^those/that<prn><tn><mf><pl>$
 ^that/that<rel><an><mf><sp>$
-^have/have<vbhaver><inf>$
+^have/have<vbhaver><pres>$
 ^safeguarded/*safeguarded$
 ^the/the<det><def><sp>$
 ^wealth/wealth<n><sg>$
@@ -975,7 +975,7 @@
 ^forests/forest<n><pl>$
 ^./.<sent>$
 
-^As/as<pr>$
+^As/as<cnjadv>$
 ^popular/popular<adj>$
 ^competitions/competition<n><pl>$
 ^they/prpers<prn><subj><p3><mf><pl>$
@@ -1050,12 +1050,12 @@
 ^early/early<adj><sint>$
 ^competitions/competition<n><pl>$
 ^where/where<rel><adv>$
-^known/know<vblex><pp>$
-^as/as<preadv>$
+^known/know<adj>$
+^as/as<pr>$
 ^fiestas/*fiestas$
 ^Euskaras/*Euskaras$
 "
-^Basque/basque<adj>$
+^Basque/Basque<adj>$
 ^fiestas/*fiestas$
 "
 ^./.<sent>$

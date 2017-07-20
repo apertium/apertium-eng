@@ -1,6 +1,6 @@
 ^A/a<det><ind><sg>$
 ^tokamak/*tokamak$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^device/device<n><sg>$
 ^using/use<vblex><pprs>$
@@ -24,7 +24,7 @@
 ^stable/stable<adj>$
 ^plasma/plasma<n><sg>$
 ^equilibrium/equilibrium<n><sg>$
-^requires/require<vblex><pri><p3><sg>$
+^requires/require<vblex><pres><p3><sg>$
 ^magnetic/magnetic<adj>$
 ^field/field<n><sg>$
 ^lines/line<n><pl>$
@@ -82,7 +82,7 @@
 ^the/the<det><def><sp>$
 ^toroidal/*toroidal$
 ^field/field<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^produced/produce<vblex><pp>$
 ^by/by<pr>$
 ^electromagnets/electromagnet<n><pl>$
@@ -95,7 +95,7 @@
 ^the/the<det><def><sp>$
 ^poloidal/*poloidal$
 ^field/field<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^result/result<n><sg>$
 ^of/of<pr>$
@@ -104,7 +104,7 @@
 ^electric/electric<adj>$
 ^current/current<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^flows/flow<vblex><pri><p3><sg>$
+^flows/flow<vblex><pres><p3><sg>$
 ^inside/inside<pr>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
@@ -112,7 +112,7 @@
 
 ^This/this<det><dem><sg>$
 ^current/current<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^induced/induce<vblex><pp>$
 ^inside/inside<pr>$
 ^the/the<det><def><sp>$
@@ -127,7 +127,7 @@
 
 ^The/the<det><def><sp>$
 ^tokamak/*tokamak$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^one/one<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^several/several<det><ind><pl>$
@@ -138,7 +138,7 @@
 ^devices/device<n><pl>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^one/one<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -525,7 +525,7 @@
 ^of/of<pr>$
 ^symmetry/symmetry<n><sg>$
 ^,/,<cm>$
-^confines/confine<vblex><pri><p3><sg>$
+^confines/confine<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^plasma/plasma<n><sg>$
 ^hardly/hardly<adv>$
@@ -573,7 +573,7 @@
 ^a/a<det><ind><sg>$
 ^toroidal/*toroidal$
 ^field/field<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^curved/curve<vblex><pp>$
 ^and/and<cnjcoo>$
 ^decreases/decrease<n><pl>$
@@ -607,7 +607,7 @@
 ^The/the<det><def><sp>$
 ^charge/charge<n><sg>$
 ^separation/separation<n><sg>$
-^leads/lead<vblex><pri><p3><sg>$
+^leads/lead<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^an/a<det><ind><sg>$
 ^electric/electric<adj>$
@@ -664,7 +664,7 @@
 ^a/a<det><ind><sg>$
 ^force/force<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^tends/tend<vblex><pri><p3><sg>$
+^tends/tend<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^expand/expand<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -686,7 +686,7 @@
 ^The/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^simply/simply<adv>$
-^slips/slip<vblex><pri><p3><sg>$
+^slips/slip<vblex><pres><p3><sg>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^field/field<n><sg>$
@@ -734,7 +734,7 @@
 ^,/,<cm>$
 ^if/if<cnjadv>$
 ^there/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^sufficient/sufficient<adj>$
 ^symmetry/symmetry<n><sg>$
 ^in/in<pr>$
@@ -826,7 +826,7 @@
 ^the/the<det><def><sp>$
 ^outward/*outward$
 ^drift/drift<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^compensated/compensate<vblex><pp>$
 ^by/by<pr>$
 ^an/a<det><ind><sg>$
@@ -839,7 +839,7 @@
 ^surface/surface<n><sg>$
 ^,/,<cm>$
 ^there/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^macroscopic/macroscopic<adj>$
 ^equilibrium/equilibrium<n><sg>$
@@ -861,7 +861,7 @@
 ^the/the<det><def><sp>$
 ^field/field<n><sg>$
 ^lines/line<n><pl>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
 ^electric/electric<adj>$
@@ -877,14 +877,14 @@
 ^torus/*torus$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
-^tends/tend<vblex><pri><p3><sg>$
+^tends/tend<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^cause/cause<vblex><inf>$
 ^the/the<det><def><sp>$
 ^outward/*outward$
 ^drift/drift<n><sg>$
 ^,/,<cm>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^shorted/*shorted$
 ^out/out<adv>$
 ^because/because<cnjadv>$
@@ -904,7 +904,7 @@
 ^When/when<cnjadv>$
 ^the/the<det><def><sp>$
 ^problem/problem<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^considered/consider<vblex><pp>$
 ^even/even<adv>$
 ^more/more<adv>$
@@ -928,7 +928,7 @@
 ^the/the<det><def><sp>$
 ^magnetic/magnetic<adj>$
 ^field/field<n><sg>$
-^arises/arise<vblex><pri><p3><sg>$
+^arises/arise<vblex><pres><p3><sg>$
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
@@ -943,12 +943,12 @@
 ^the/the<det><def><sp>$
 ^vertical/vertical<adj>$
 ^field/field<n><sg>$
-^provides/provide<vblex><pri><p3><sg>$
+^provides/provide<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^inward/*inward$
 ^force/force<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^holds/hold<vblex><pri><p3><sg>$
+^holds/hold<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^torus/*torus$
@@ -963,7 +963,7 @@
 ^large/large<adj><sint>$
 ^toroidal/*toroidal$
 ^current/current<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^established/establish<vblex><pp>$
 ^(/(<lpar>$
 ^15/15<num>$
@@ -971,7 +971,7 @@
 ^in/in<pr>$
 ^ITER/*ITER$
 ^)/)<rpar>$
-^suffers/suffer<vblex><pri><p3><sg>$
+^suffers/suffer<vblex><pres><p3><sg>$
 ^from/from<pr>$
 ^a/a<det><ind><sg>$
 ^fundamental/fundamental<adj>$
@@ -986,7 +986,7 @@
 ^of/of<pr>$
 ^magnetohydrodynamical/*magnetohydrodynamical$
 ^instabilities/*instabilities$
-^leads/lead<vblex><pri><p3><sg>$
+^leads/lead<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^a/a<det><ind><sg>$
 ^dramatic/dramatic<adj>$
@@ -1025,7 +1025,7 @@
 ^loss/loss<n><sg>$
 ^of/of<pr>$
 ^confinement/confinement<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^finally/finally<adv>$
 ^obtained/obtain<vblex><pp>$
 ^./.<sent>$
@@ -1034,7 +1034,7 @@
 ^very/very<preadv>$
 ^high/high<adj><sint>$
 ^energy/energy<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^deposited/deposit<vblex><pp>$
 ^on/on<pr>$
 ^small/small<adj><sint>$
@@ -1043,7 +1043,7 @@
 
 ^This/this<det><dem><sg>$
 ^phenomenon/phenomenon<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^called/call<vblex><pp>$
 ^a/a<det><ind><sg>$
 ^major/major<adj>$
@@ -1058,7 +1058,7 @@
 ^in/in<pr>$
 ^running/run<vblex><pprs>$
 ^tokamaks/*tokamaks$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^always/always<adv>$
 ^been/be<vbser><pp>$
 ^rather/rather<adv>$
@@ -1088,7 +1088,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^damage/damage<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^often/often<adv>$
 ^large/large<adj><sint>$
 ^but/but<cnjcoo>$
@@ -1102,7 +1102,7 @@
 ^tokamak/*tokamak$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^expected/expect<vblex><pp>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
@@ -1209,7 +1209,7 @@
 ^insufficient/insufficient<adj>$
 ^fusion/fusion<n><sg>$
 ^energy/energy<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^produced/produce<vblex><pp>$
 ^to/to<pr>$
 ^maintain/maintain<vblex><inf>$
@@ -1221,13 +1221,13 @@
 ^Since/since<adv>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^an/a<det><ind><sg>$
 ^electrical/electrical<adj>$
 ^conductor/conductor<n><sg>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^possible/possible<adj>$
 ^to/to<pr>$
 ^heat/heat<vblex><inf>$
@@ -1247,11 +1247,11 @@
 ^induced/induce<vblex><pp>$
 ^current/current<n><sg>$
 ^that/that<rel><an><mf><sp>$
-^heats/heat<vblex><pri><p3><sg>$
+^heats/heat<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^usually/usually<adv>$
-^provides/provide<vblex><pri><p3><sg>$
+^provides/provide<vblex><pres><p3><sg>$
 ^most/most<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -1261,7 +1261,7 @@
 
 ^The/the<det><def><sp>$
 ^current/current<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^induced/induce<vblex><pp>$
 ^by/by<pr>$
 ^slowly/slowly<adv>$
@@ -1293,14 +1293,14 @@
 ^./.<sent>$
 
 ^This/this<prn><tn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^inherently/*inherently$
 ^a/a<det><ind><sg>$
 ^pulsed/*pulsed$
 ^process/process<n><sg>$
 ^because/because<cnjadv>$
 ^there/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^limit/limit<n><sg>$
 ^to/to<pr>$
@@ -1348,7 +1348,7 @@
 ^the/the<det><def><sp>$
 ^induced/induce<vblex><pp>$
 ^current/current<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^called/call<vblex><pp>$
 ^ohmic/ohmic<adj>$
 ^(/(<lpar>$
@@ -1358,14 +1358,14 @@
 ^heating/heating<n><sg>$
 ^;/;<sent>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^same/same<adj>$
 ^kind/kind<n><sg>$
 ^of/of<pr>$
 ^heating/heat<vblex><subs>$
 ^that/that<rel><an><mf><sp>$
-^occurs/occur<vblex><pri><p3><sg>$
+^occurs/occur<vblex><pres><p3><sg>$
 ^in/in<pr>$
 ^an/a<det><ind><sg>$
 ^electric/electric<adj>$
@@ -1381,7 +1381,7 @@
 ^The/the<det><def><sp>$
 ^heat/heat<n><sg>$
 ^generated/generate<vblex><pp>$
-^depends/depend<vblex><pri><p3><sg>$
+^depends/depend<vblex><pres><p3><sg>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
 ^resistance/resistance<n><sg>$
@@ -1406,7 +1406,7 @@
 ^of/of<pr>$
 ^heated/heat<vblex><pp>$
 ^plasma/plasma<n><sg>$
-^rises/rise<vblex><pri><p3><sg>$
+^rises/rise<vblex><pres><p3><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^resistance/resistance<n><sg>$
@@ -1414,13 +1414,13 @@
 ^and/and<cnjcoo>$
 ^ohmic/ohmic<adj>$
 ^heating/heat<vblex><subs>$
-^becomes/become<vblex><pri><p3><sg>$
+^becomes/become<vblex><pres><p3><sg>$
 ^less/less<adv>$
 ^effective/effective<adj>$
 ^./.<sent>$
 
 ^It/prpers<prn><subj><p3><nt><sg>$
-^appears/appear<vblex><pri><p3><sg>$
+^appears/appear<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
 ^maximum/maximum<adj>$
@@ -1433,7 +1433,7 @@
 ^in/in<pr>$
 ^a/a<det><ind><sg>$
 ^tokamak/*tokamak$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^20-30/20-30<num>$
 ^million/million<num><sp>$
 ^degrees/degree<n><pl>$
@@ -1458,7 +1458,7 @@
 ^-/-<guio>$
 ^beam/beam<n><sg>$
 ^injection/injection<n><sg>$
-^involves/involve<vblex><pri><p3><sg>$
+^involves/involve<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^introduction/introduction<n><sg>$
 ^of/of<pr>$
@@ -1544,11 +1544,11 @@
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
 ^plasma/plasma<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^increased/increase<vblex><pp>$
 ^if/if<cnjadv>$
 ^it/prpers<prn><subj><p3><nt><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^compressed/compress<vblex><pp>$
 ^rapidly/rapidly<adv>$
 ^by/by<pr>$
@@ -1565,7 +1565,7 @@
 ^system/system<n><sg>$
 ^this/this<det><dem><sg>$
 ^compression/compression<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^achieved/achieve<vblex><pp>$
 ^simply/simply<adv>$
 ^by/by<pr>$
@@ -1590,7 +1590,7 @@
 ^Since/since<adv>$
 ^plasma/plasma<n><sg>$
 ^compression/compression<n><sg>$
-^brings/bring<vblex><pri><p3><sg>$
+^brings/bring<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^ions/ion<n><pl>$
 ^closer/close<adj><sint><comp>$
@@ -1598,7 +1598,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^process/process<n><sg>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^additional/additional<adj>$
 ^benefit/benefit<n><sg>$
@@ -1702,7 +1702,7 @@
 
 ^This/this<det><dem><sg>$
 ^energy/energy<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^usually/usually<adv>$
 ^transferred/transfer<vblex><pp>$
 ^by/by<pr>$
@@ -1764,7 +1764,7 @@
 ^./.<sent>$
 
 ^This/this<prn><tn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^large/large<adj><sint>$
 ^advantage/advantage<n><sg>$
@@ -1788,12 +1788,12 @@
 ^stream/stream<n><sg>$
 ^;/;<sent>$
 ^this/this<prn><tn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^how/how<adv><itg>$
 ^the/the<det><def><sp>$
 ^fusion/fusion<n><sg>$
 ^reactor/reactor<n><sg>$
-^generates/generate<vblex><pri><p3><sg>$
+^generates/generate<vblex><pres><p3><sg>$
 ^usable/usable<adj>$
 ^energy/energy<n><sg>$
 ^./.<sent>$
@@ -1825,7 +1825,7 @@
 ^A/a<det><ind><sg>$
 ^cryogenic/cryogenic<adj>$
 ^system/system<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^used/use<vblex><pp>$
 ^to/to<pr>$
 ^prevent/prevent<vblex><inf>$

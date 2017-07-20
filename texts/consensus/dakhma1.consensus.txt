@@ -18,7 +18,7 @@
 ^in/in<pr>$
 ^English/English<n><sg>$
 ^,/,<cm>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^circular/circular<adj>$
 ^,/,<cm>$
@@ -43,7 +43,7 @@
 ^type/type<n><sg>$
 ^of/of<pr>$
 ^construction/construction<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
 ^specified/specify<vblex><pp>$
 ^by/by<pr>$
@@ -84,13 +84,13 @@
 ^the/the<det><def><sp>$
 ^word/word<n><sg>$
 ^astodan/*astodan$
-^appears/appear<vblex><pri><p3><sg>$
+^appears/appear<vblex><pres><p3><sg>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^today/today<adv>$
 ^that/that<det><dem><sg>$
 ^word/word<n><sg>$
-^denotes/denote<vblex><pri><p3><sg>$
+^denotes/denote<vblex><pres><p3><sg>$
 ^an/a<det><ind><sg>$
 ^ossuary/*ossuary$
 ^./.<sent>$
@@ -107,7 +107,7 @@
 ^the/the<det><def><sp>$
 ^technical/technical<adj>$
 ^term/term<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^deme/*deme$
 ^or/or<cnjcoo>$
 ^dema/*dema$
@@ -138,7 +138,7 @@
 ^The/the<det><def><sp>$
 ^word/word<n><sg>$
 ^dagdah/*dagdah$
-^appears/appear<vblex><pri><p3><sg>$
+^appears/appear<vblex><pres><p3><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^texts/text<n><pl>$
@@ -171,7 +171,7 @@
 ^of/of<pr>$
 ^Silence/silence<n><sg>$
 "
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^neologism/neologism<n><sg>$
 ^attributed/attribute<vblex><pp>$
@@ -197,7 +197,7 @@
 
 ^Zoroastrian/Zoroastrian<adj>$
 ^tradition/tradition<n><sg>$
-^considers/consider<vblex><pri><p3><sg>$
+^considers/consider<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^dead/dead<adj>$
 ^body/body<n><sg>$
@@ -258,7 +258,7 @@
 ^demons/demon<n><pl>$
 "
 ^)/)<rpar>$
-^has/have<vblex><pri><p3><sg>$
+^has/have<vblex><pres><p3><sg>$
 ^rules/rule<n><pl>$
 ^for/for<pr>$
 ^disposing/dispose<vblex><subs>$
@@ -327,7 +327,7 @@
 ^concomitant/concomitant<adj>$
 ^evils/evil<n><pl>$
 ^.../...<sent>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^most/most<preadv>$
 ^effectually/*effectually$
 ^prevented/prevent<vblex><pp>$
@@ -364,7 +364,7 @@
 
 ^The/the<det><def><sp>$
 ^roof/roof<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^divided/divide<vblex><pp>$
 ^into/into<pr>$
 ^three/three<num><sp>$
@@ -450,7 +450,7 @@
 ^run-off/run-off<adj>$
 ^rainwater/*rainwater$
 ^—/—<guio>$
-^runs/run<vblex><pri><p3><sg>$
+^runs/run<vblex><pres><p3><sg>$
 ^through/through<pr>$
 ^multiple/multiple<adj>$
 ^coal/coal<n><sg>$
@@ -506,14 +506,14 @@
 ^to/to<pr>$
 ^ritual/ritual<adj>$
 ^exposure/exposure<n><sg>$
-^comes/come<vblex><pri><p3><sg>$
+^comes/come<vblex><pres><p3><sg>$
 ^from/from<pr>$
 ^Herodotus/Herodotus<np><ant><m><sg>$
 ^,/,<cm>$
 ^where/where<rel><adv>$
 ^the/the<det><def><sp>$
 ^historiographer/historiographer<n><sg>$
-^describes/describe<vblex><pri><p3><sg>$
+^describes/describe<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^rites/rite<n><pl>$
 ^to/to<pr>$
@@ -609,7 +609,7 @@
 ^4th/4<num><ord>$
 ^centuries/century<n><pl>$
 ^BCE/*BCE$
-^indicates/indicate<vblex><pri><p3><sg>$
+^indicates/indicate<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^bones/bone<n><pl>$
 ^were/be<vbser><past>$
@@ -683,7 +683,7 @@
 ^)/)<rpar>$
 ^,/,<cm>$
 ^Zoroaster/*Zoroaster$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^himself/himself<prn><ref><p3><m><sg>$
 ^interred/*interred$
 ^in/in<pr>$
@@ -704,7 +704,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^dead/dead<adj>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^attested/attest<vblex><pp>$
 ^from/from<pr>$
 ^earliest/early<adj><sint><sup>$
@@ -761,7 +761,7 @@
 ^use/use<n><sg>$
 ^of/of<pr>$
 ^towers/tower<n><pl>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^first/first<adv>$
 ^attested/attest<vblex><pp>$
 ^in/in<pr>$
@@ -844,7 +844,7 @@
 
 ^Since/since<adv>/since<pr>$
 ^Islam/*Islam$
-^considers/consider<vblex><pri><p3><sg>$
+^considers/consider<vblex><pres><p3><sg>$
 ^unnecessary/unnecessary<adj>$
 ^dissection/dissection<n><sg>$
 ^of/of<pr>$
@@ -968,7 +968,7 @@
 ^Ghassr-e Firouezh/*Ghassr-e Firouezh$
 ^(/(<lpar>$
 ^Firouzeh/*Firouzeh$
-^'s/'s<gen>/be<vbser><pri><p3><sg>$
+^'s/'s<gen>/be<vbser><pres><p3><sg>$
 ^Palace/palace<n><sg>$
 ^)/)<rpar>$
 ^./.<sent>$
@@ -1062,14 +1062,14 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^dead/dead<adj>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^additionally/additionally<adv>$
 ^considered/consider<vblex><pp>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
 ^an/a<det><ind><sg>$
 ^individual/individual<n><sg>$
-^'s/'s<gen>/be<vbser><pri><p3><sg>$
+^'s/'s<gen>/be<vbser><pres><p3><sg>$
 ^final/final<adj>$
 ^act/act<n><sg>$
 ^of/of<pr>$
@@ -1225,7 +1225,7 @@
 ^no/no<det><ind><sp>$
 ^other/other<det><ind><sp>$
 ^method/method<n><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^proven/prove<vblex><pp>$
 ^fully/fully<adv>$
 ^effective/effective<adj>$
@@ -1239,7 +1239,7 @@
 ^Towers/tower<n><pl>$
 ^of/of<pr>$
 ^Silence/silence<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^much/much<adv>$
 ^debated/debate<vblex><pp>$
@@ -1324,16 +1324,16 @@
 ^"/"<quot>$
 ^,/,<cm>$
 ^that/that<prn><tn><mf><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^,/,<cm>$
 ^where/where<rel><adv>$
 ^one/one<num><sg>$
 ^parent/parent<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^Parsi/Parsi<n><sg>$
 ^and/and<cnjcoo>$
 ^the other/the other<prn><def><sp>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
 ^./.<sent>$

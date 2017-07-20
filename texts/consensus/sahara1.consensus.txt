@@ -762,7 +762,7 @@ visiting/visiting<adj>$
 ^referendum/referendum<n><sg>$
 ^but/but<cnjcoo>$
 ^likewise/likewise<adv>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^hitherto/hitherto<adv>$
 ^not/not<adv>$
 ^had/have<vblex><pp>$
@@ -788,12 +788,12 @@ visiting/visiting<adj>$
 ^At the heart of/At the heart of<pr>$
 ^the/the<det><def><sp>$
 ^dispute/dispute<n><sg>$
-^lies/lie<vblex><pres>$   
+^lies/lie<vblex><pres>$
 ^the/the<det><def><sp>$
 ^question/question<n><sg>$
 ^of/of<pr>$
 ^who/who<prn><itg><m><sp>$
-^qualifies/qualify<vblex><pri><p3><sg>$
+^qualifies/qualify<vblex><pres><p3><sg>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
 ^registered/register<vblex><pp>$
@@ -812,11 +812,11 @@ visiting/visiting<adj>$
 ^2000/2000<num>$
 ^,/,<cm>$
 ^Morocco/Morocco<np><top><sg>$
-^considers/consider<vblex><pri><p3><sg>$
+^considers/consider<vblex><pres><p3><sg>$
 ^that/that<cnjsub>$
 ^since/since<adv>$
 ^there/there<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^no/no<det><ind><sp>$
 ^agreement/agreement<n><sg>$
 ^on/on<pr>$
@@ -827,7 +827,7 @@ visiting/visiting<adj>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
 ^referendum/referendum<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
 ^possible/possible<adj>$
 ^./.<sent>$
@@ -855,7 +855,7 @@ visiting/visiting<adj>$
 ^problem/problem<n><sg>$
 ^of/of<pr>$
 ^who/who<prn><itg><m><sp>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^qualified/qualified<adj>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
@@ -870,7 +870,7 @@ visiting/visiting<adj>$
 ^sides/side<n><pl>$
 ^blame/blame<vblex><pres>$
 ^each/each<prn><tn><m><sg>$
-^other/other<det><ind><sp>$          
+^other/other<det><ind><sp>$
 ^for/for<pr>$
 ^the/the<det><def><sp>$
 ^stalling/stall<vblex><subs>$
@@ -881,7 +881,7 @@ visiting/visiting<adj>$
 
 ^The/The<det><def><sp>$
 ^Polisario/*Polisario$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^insisted/insist<vblex><pp>$
 ^on/on<pr>$
 ^only/only<adv>$
@@ -903,7 +903,7 @@ visiting/visiting<adj>$
 ^,/,<cm>$
 ^while/while<cnjadv>$
 ^Morocco/Morocco<np><top><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^insisted/insist<vblex><pp>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
@@ -922,7 +922,7 @@ visiting/visiting<adj>$
 ^Sahrawi/*Sahrawi$
 ^tribes/tribe<n><pl>$
 ^which/which<rel><an><mf><sp>$
-^escape/escape<vblex><pres>$ 
+^escape/escape<vblex><pres>$
 ^from/from<pr>$
 ^Spanish/spanish<adj>$
 ^invasion/invasion<n><sg>$
@@ -1090,7 +1090,7 @@ visiting/visiting<adj>$
 ^number/number<n><sg>$
 ^of/of<pr>$
 ^voters/voter<n><pl>$
-^does/do<vbdo><pri><p3><sg>$
+^does/do<vbdo><pres><p3><sg>$
 ^not/not<adv>$
 ^rise/rise<vblex><inf>$
 ^significantly/significantly<adv>$

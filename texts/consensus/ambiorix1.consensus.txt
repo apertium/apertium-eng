@@ -26,7 +26,7 @@
 ^where/where<rel><adv>$
 ^modern/modern<adj>$
 ^Belgium/Belgium<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^located/locate<vblex><pp>$
 ^./.<sent>$
 

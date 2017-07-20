@@ -4,13 +4,13 @@
 ^president/president<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^the/the<det><def><sp>$
-^FLN/*FLN$
+^FLN/FLN<n><acr><sp>$
 ^leader/leader<n><sg>$
 ^Ahmed/Ahmed<np><ant><m><sg>$
 ^Ben Bella/Ben Bella<np><cog><sg>$
 ^./.<sent>$
 
-^He/Prpers<prn><subj><p3><m><sg>$
+^He/prpers<prn><subj><p3><m><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^overthrown/*overthrown$
 ^by/by<pr>$
@@ -18,7 +18,7 @@
 ^former/former<adj>$
 ^ally/ally<n><sg>$
 ^and/and<cnjcoo>$
-^defence/defence<adj>$
+^defence/defence<n><sg>$
 ^minister/minister<n><sg>$
 ^,/,<cm>$
 ^Houari/*Houari$
@@ -27,7 +27,7 @@
 ^1965/1965<num>$
 ^./.<sent>$
 
-^Under/Under<pr>$
+^Under/under<pr>$
 ^Ben/Ben<np><ant><m><sg>$
 ^Bella/Bella<np><ant><f><sg>$
 ^the/the<det><def><sp>$
@@ -50,7 +50,7 @@
 ^government/government<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^Boumédienne/*Boumédienne$
 ^relied/rely<vblex><past>$
@@ -74,7 +74,7 @@
 ^role/role<n><sg>$
 ^./.<sent>$
 
-^Agriculture/Agriculture<n><sg>$
+^Agriculture/agriculture<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^collectivised/*collectivised$
 ^,/,<cm>$
@@ -86,14 +86,14 @@
 ^launched/launch<vblex><pp>$
 ^./.<sent>$
 
-^Oil/Oil<n><sg>$
+^Oil/oil<n><sg>$
 ^extraction/extraction<n><sg>$
 ^facilities/facility<n><pl>$
 ^were/be<vbser><past>$
 ^nationalised/nationalise<vblex><pp>$
 ^./.<sent>$
 
-^This/This<prn><dem><mf><sg>$
+^This/this<prn><dem><mf><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^especially/especially<adv>$
 ^beneficial/beneficial<adj>$
@@ -107,14 +107,14 @@
 ^crisis/crisis<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Algerian/Algerian<adj>$
 ^economy/economy<n><sg>$
 ^became/become<vblex><past>$
 ^increasingly/increasingly<adv>$
-^dependent/*dependent$
+^dependent/dependent<adj>$
 ^on/on<pr>$
 ^oil/oil<n><sg>$
 ^which/which<rel><an><mf><sp>$
@@ -127,13 +127,12 @@
 ^collapsed/collapse<vblex><past>$
 ^during/during<pr>$
 ^the/the<det><def><sp>$
-^1980/1980<num>$
-^s/s<n><sg>$
+^1980s/1980s<num>$
 ^oil/oil<n><sg>$
 ^glut/*glut$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^foreign/foreign<adj>$
 ^policy/policy<n><sg>$
 ^,/,<cm>$
@@ -160,7 +159,7 @@
 ^hostile/hostile<adj>$
 ^relations/relation<n><pl>$
 ^with/with<pr>$
-^each/each<det><ind><sg>$
+^each/each<prn><ind><mf><sg>$
 ^other/other<det><ind><sp>$
 ^ever/ever<adv>$
 ^since/since<pr>$
@@ -169,7 +168,7 @@
 ^independence/independence<n><sg>$
 ^./.<sent>$
 
-^Reasons/Reason<n><pl>$
+^Reasons/reason<n><pl>$
 ^for/for<pr>$
 ^this/this<prn><dem><mf><sg>$
 ^include/include<vblex><pres>$
@@ -187,8 +186,8 @@
 ^led/lead<vblex><past>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
-^Sand/Sand<n><sg>$
-^War/War<n><sg>$
+^Sand/sand<n><sg>$
+^War/war<n><sg>$
 ^in/in<pr>$
 ^1963/1963<num>$
 ^)/)<rpar>$
@@ -222,7 +221,7 @@
 ^Tindouf/*Tindouf$
 ^./.<sent>$
 
-^Within/Within<pr>$
+^Within/within<pr>$
 ^Algeria/Algeria<np><top><sg>$
 ^,/,<cm>$
 ^dissent/dissent<n><sg>$
@@ -247,7 +246,7 @@
 ^other/other<det><ind><sp>$
 ^than/than<pr>$
 ^the/the<det><def><sp>$
-^FLN/*FLN$
+^FLN/FLN<n><acr><sp>$
 ^was/be<vbser><past><p3><sg>$
 ^cemented/cement<vblex><pp>$
 ^in/in<pr>$
@@ -293,7 +292,7 @@
 ^widespread/widespread<adj>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^modernisation/modernisation<n><sg>$
 ^drive/drive<n><sg>$
 ^brought/bring<vblex><past>$
@@ -304,17 +303,17 @@
 ^Algeria/Algeria<np><top><sg>$
 ^./.<sent>$
 
-^Village/Village<adj>$
+^Village/village<n><sg>$
 ^traditions/tradition<n><pl>$
 ^underwent/undergo<vblex><past>$
 ^significant/significant<adj>$
 ^change/change<n><sg>$
-^as/as<cnjsub>$
+^as/as<cnjadv>$
 ^urbanisation/urbanisation<n><sg>$
 ^increased/increase<vblex><past>$
 ^./.<sent>$
 
-^New/New<adj><sint>$
+^New/new<adj><sint>$
 ^industries/industry<n><pl>$
 ^emerged/emerge<vblex><past>$
 ^and/and<cnjcoo>$
@@ -325,7 +324,7 @@
 ^reduced/reduce<vblex><pp>$
 ^./.<sent>$
 
-^Education/Education<n><sg>$
+^Education/education<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^extended/extend<vblex><pp>$
 ^nationwide/*nationwide$
@@ -343,7 +342,7 @@
 ^60%/60%<num>$
 ^./.<sent>$
 
-^There/There<adv>$
+^There/there<adv>$
 ^was/be<vbser><past><p3><sg>$
 ^a/a<det><ind><sg>$
 ^dramatic/dramatic<adj>$
@@ -361,7 +360,7 @@
 ^mother/mother<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^issue/issue<n><sg>$
 ^of/of<pr>$
 ^Amazigh/*Amazigh$
@@ -393,7 +392,7 @@
 ^Kabyle/*Kabyle$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^government/government<n><sg>$
 ^responded/*responded$
 ^with/with<pr>$
@@ -410,7 +409,7 @@
 ^national/national<adj>$
 ^language/language<n><sg>$
 ^and/and<cnjcoo>$
-^teaching/teach<vblex><subs>$
+^teaching/teach<vblex><ger>$
 ^it/prpers<prn><obj><p3><nt><sg>$
 ^in/in<pr>$
 ^schools/school<n><pl>$

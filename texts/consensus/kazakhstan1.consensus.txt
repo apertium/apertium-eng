@@ -176,7 +176,7 @@
 ^republic/republic<n><sg>$
 ^control/control<n><sg>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><top><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^'s/'s<gen>$
 ^enormous/enormous<adj>$
 ^mineral/mineral<adj>$
@@ -214,7 +214,7 @@
 ^,/,<cm>$
 ^to/to<pr>$
 ^develop/develop<vblex><inf>$
-^Kazakhstan/Kazakhstan<np><top><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^'s/'s<gen>$
 ^Tengiz/*Tengiz$
 ^oil/oil<n><sg>$
@@ -234,7 +234,7 @@
 ^./.<sent>$
 
 ^At/At<pr>$
-^Nazarbayev/*Nazarbayev$ 
+^Nazarbayev/*Nazarbayev$
 ^'s/'s<gen>$
 ^insistence/insistence<n><sg>$
 ^,/,<cm>$
@@ -243,7 +243,7 @@
 ^control/control<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^republic/republic<n><sg>$ 
+^republic/republic<n><sg>$
 ^'s/'s<gen>$
 ^mineral/mineral<adj>$
 ^resources/resource<n><pl>$
@@ -252,7 +252,7 @@
 ^1991/1991<num>$
 ^./.<sent>$
 
-^Gorbachev/*Gorbachev$ 
+^Gorbachev/*Gorbachev$
 ^'s/'s<gen>$
 ^authority/authority<n><sg>$
 ^crumbled/crumble<vblex><past>$
@@ -300,7 +300,7 @@
 ^./.<sent>$
 
 ^Kazakhstan/Kazakhstan<np><top><sg>$
-^has/have<vbhaver><pri><p3><sg>$
+^has/have<vbhaver><pres><p3><sg>$
 ^followed/follow<vblex><pp>$
 ^the same/the same<det><ind><sp>$
 ^general/general<adj>$
@@ -498,7 +498,7 @@
 ^./.<sent>$
 
 ^There/There<adv>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^considerable/considerable<adj>$
 ^topographical/topographical<adj>$
 ^variation/variation<n><sg>$
@@ -509,7 +509,7 @@
 ^The/The<det><def><sp>$
 ^highest/high<adj><sint><sup>$
 ^point/point<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^top/top<n><sg>$
 ^of/of<pr>$
@@ -538,7 +538,7 @@
 ^the/the<det><def><sp>$
 ^lowest/low<adj><sint><sup>$
 ^point/point<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^bottom/bottom<n><sg>$
 ^of/of<pr>$
@@ -564,7 +564,7 @@
 ^Most of/Most<prn><tn><mf><pl>+of<pr>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
-^lies/lie<vblex><pri><p3><sg>$
+^lies/lie<vblex><pres><p3><sg>$
 ^at/at<pr>$
 ^between/between<pr>$
 ^200/200<num>$
@@ -573,11 +573,11 @@
 ^metres above sea level/metre<n><pl># above sea level$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
-^Kazakhstan/Kazakhstan<np><top><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^'s/'s<gen>$
 ^Caspian/*Caspian$
 ^shore/shore<n><sg>$
-^includes/include<vblex><pri><p3><sg>$
+^includes/include<vblex><pres><p3><sg>$
 ^some/some<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -608,12 +608,12 @@
 ^and/and<cnjcoo>$
 ^their/their<det><pos><sp>$
 ^run-off/run-off<n><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^source/source<n><sg>$
 ^for/for<pr>$
 ^most of/most<prn><tn><mf><pl>+of<pr>$
-^Kazakhstan/Kazakhstan<np><top><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^'s/'s<gen>$
 ^rivers/river<n><pl>$
 ^and/and<cnjcoo>$
@@ -655,7 +655,7 @@
 ^,/,<cm>$
 ^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$
-^Kazakhstan/Kazakhstan<np><top><sg>$ 
+^Kazakhstan/Kazakhstan<np><top><sg>$
 ^'s/'s<gen>$
 ^rivers/river<n><pl>$
 ^and/and<cnjcoo>$
@@ -770,7 +770,7 @@
 ^,/,<cm>$
 ^as/as<cnjadv>$
 ^Germany/Germany<np><top><sg>$
-^is/be<vbser><pri><p3><sg>$
+^is/be<vbser><pres><p3><sg>$
 ^willing/willing<adj>$
 ^to/to<pr>$
 ^repatriate/repatriate<vblex><inf>$
