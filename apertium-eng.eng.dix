@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 46266
+	Entries: 46265
 	Sdefs: 83
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -286,8 +286,7 @@
 </pardef>
 
 <pardef n="'s__gen">
-  <e>       <p><l>'s</l>          <r><s n="gen"/></r></p></e>
-  <e r="LR"><p><l>'</l>           <r><s n="gen"/></r></p></e>
+  <e>       <p><l></l>        <r><s n="gen"/></r></p></e>
 </pardef>
 
 
@@ -3436,7 +3435,8 @@
 
   <section id="main" type="standard">
 
-<e lm="'s genitive">              <i></i><par n="'s__gen"/></e>
+<e lm="'s">     <i>'s</i><par n="'s__gen"/></e>
+<e lm="'s">     <p><l>'</l>        <r>'s<s n="gen"/></r></p></e>
 
 <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
 <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
