@@ -25,6 +25,7 @@ LIST Vbdo = vbdo ;
 LIST Vbaux = vaux ;
 LIST Vbmod = vbmod ;
 LIST Gen = gen ;
+LIST Apos = apos ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 
 LIST Sg = sg ;
@@ -102,7 +103,8 @@ REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 
-# Saxon genitive (single apostrophe without s)
+# Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
-REMOVE Gen IF (NOT -1 ("<.*s>"r)) ;
+REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
+SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
 
