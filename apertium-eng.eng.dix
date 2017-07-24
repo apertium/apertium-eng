@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 46263
+	Entries: 46266
 	Sdefs: 83
 	Paradigms: 376
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -286,7 +286,8 @@
 </pardef>
 
 <pardef n="'s__gen">
-  <e>       <p><l></l>          <r><s n="gen"/></r></p></e>
+  <e>       <p><l>'s</l>          <r><s n="gen"/></r></p></e>
+  <e r="LR"><p><l>'</l>           <r><s n="gen"/></r></p></e>
 </pardef>
 
 
@@ -852,16 +853,20 @@
 
 <pardef n="east__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="/pants__n">
   <e>       <p><l>pants</l>     <r>pants<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>pants'</l>    <r>pants<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>pairs<b/>of<b/>pants</l><r>pants<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>pairs<b/>of<b/>pants'</l><r>pants<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="personnel__n">
       <!-- same as politics__n -->
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="politics__n">
@@ -872,238 +877,287 @@
 	  - use personnel_n  if the noun is used only with a verb in plural
       -->
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Dutch__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="drachma__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>e</l>         <r><s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>i</l>         <r><s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>s'</l>        <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>e's</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="house__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>s'</l>        <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="access__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="bab/y__n">
   <e>       <p><l>y</l>         <r>y<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>y's</l>       <r>y<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>y's</l>       <r>y<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ies</l>       <r>y<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ies'</l>      <r>y<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>ies'</l>      <r>y<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ys</l>        <r>y<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ys'</l>       <r>y<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="analys/is__n">
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>is'</l>       <r>is<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>is's</l>      <r>is<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r>is<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>es'</l>       <r>is<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r>is<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="maxim/um__n">
       <!-- cf. moment/um -->
   <e>       <p><l>um</l>        <r>um<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>um's</l>      <r>um<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>a</l>         <r>um<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ums'</l>      <r>um<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r>um<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ums</l>       <r>um<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="moment/um__n">
       <!-- cf. maxim/um -->
   <e>       <p><l>um</l>        <r>um<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>um's</l>      <r>um<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ums</l>       <r>um<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ums'</l>      <r>um<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>ums'</l>      <r>um<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>a</l>         <r>um<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="bacteri/um__n">
   <e>       <p><l>um</l>        <r>um<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>um's</l>      <r>um<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>a</l>         <r>um<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r>um<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="mon/ey__n">
   <e>       <p><l>ey</l>        <r>ey<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ey's</l>      <r>ey<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>eys</l>       <r>ey<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>eys'</l>      <r>ey<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>eys'</l>      <r>ey<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ies</l>       <r>ey<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ies'</l>      <r>ey<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="m/an__n">
   <e>       <p><l>an</l>        <r>an<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>an's</l>      <r>an<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>an's</l>      <r>an<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>en</l>        <r>an<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>en's</l>      <r>an<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>en's</l>      <r>an<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="bass__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
+  <e r="LR"><p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>es'</l>       <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="bus__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>es'</l>       <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ses</l>       <r><s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ses'</l>      <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="wol/f__n">
   <e>       <p><l>f</l>         <r>f<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>f's</l>       <r>f<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ves</l>       <r>f<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ves'</l>      <r>f<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>fs</l>        <r>f<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="li/fe__n">
   <e>       <p><l>fe</l>        <r>fe<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>fe's</l>      <r>fe<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>fe's</l>      <r>fe<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ves</l>       <r>fe<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ves'</l>      <r>fe<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="p/erson__n">
   <e>       <p><l>erson</l>     <r>erson<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>erson's</l>   <r>erson<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>erson's</l>   <r>erson<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ersons</l>    <r>erson<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ersons'</l>   <r>erson<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>ersons'</l>   <r>erson<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>eople</l>     <r>erson<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="staff__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="child__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ren</l>       <r><s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ren's</l>     <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>ren's</l>     <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="m/ouse__n">
   <e>       <p><l>ouse</l>      <r>ouse<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ouse's</l>    <r>ouse<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ice</l>       <r>ouse<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ice's</l>     <r>ouse<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="f/oot__n">
   <e>       <p><l>oot</l>       <r>oot<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>oot's</l>     <r>oot<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>eet</l>       <r>oot<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>eet's</l>     <r>oot<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>oot</l>       <r>oot<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="br/other__n">
   <e>       <p><l>other</l>     <r>other<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>other's</l>   <r>other<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>other's</l>   <r>other<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>others</l>    <r>other<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>others'</l>   <r>other<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>others'</l>   <r>other<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ethren</l>    <r>other<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="larva__n">
       <!-- cf. aorta -->
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>e</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>e's</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="aorta__n">
       <!-- cf. larva -->
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>e</l>         <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="lir/a__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r>a<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>e</l>         <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>e's</l>       <r>a<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="novell/a__n">
   <e>       <p><l>a</l>         <r>a<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r>a<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>as</l>        <r>a<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>as'</l>       <r>a<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>e</l>         <r>a<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="ind/ex__n">
   <e>       <p><l>ex</l>        <r>ex<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ex's</l>      <r>ex<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>exes</l>      <r>ex<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>exes'</l>     <r>ex<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ices</l>      <r>ex<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="appendi/x__n">
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>x's</l>       <r>x<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ces</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ces'</l>      <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>xes</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="laryn/x__n">
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>x's</l>       <r>x<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ges</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ges'</l>      <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>xes</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="equino/x__n">
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>x's</l>       <r>x<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>xes</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>xes'</l>      <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ctes</l>      <r>x<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="criteri/on__n">
   <e>       <p><l>on</l>        <r>on<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>on's</l>      <r>on<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>a</l>         <r>on<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r>on<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ons</l>       <r>on<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="ox__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>en</l>        <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>en's</l>      <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="quiz__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>zes</l>       <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>zes'</l>      <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="schema__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ta</l>        <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="modul/us__n">
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>i</l>         <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>i's</l>       <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="stimul/us__n">
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>i</l>         <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>i's</l>       <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>us</l>        <r>us<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="cact/us__n">
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>i</l>         <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>i's</l>       <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>us</l>        <r>us<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>uses</l>      <r>us<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
@@ -1111,66 +1165,87 @@
 <pardef n="gen/us__n">
       <!-- cf. op/us__n -->
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>era</l>       <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>era's</l>     <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>uses</l>      <r>us<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="op/us__n">
       <!-- cf. gen/us__n -->
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>era</l>       <r>us<s n="n"/><s n="pl"/></r></p></e>
   <e>       <p><l>uses</l>      <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>uses'</l>     <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="corp/us__n">
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us's</l>      <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ora</l>       <r>us<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ora's</l>     <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>uses</l>      <r>us<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="tableau__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>x</l>         <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="t/ooth__n">
   <e>       <p><l>ooth</l>      <r>ooth<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ooth's</l>    <r>ooth<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>eeth</l>      <r>ooth<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>eeth's</l>    <r>ooth<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="g/oose__n">
   <e>       <p><l>oose</l>      <r>oose<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>oose's</l>    <r>oose<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>eese</l>      <r>oose<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>eese's</l>    <r>oose<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="dilettant/e__n">
   <e>       <p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>e's</l>       <r>e<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>i's</l>       <r>e<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>es</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="kibbutz__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>im</l>        <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>im's</l>      <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="librett/o__n">
   <e>       <p><l>o</l>         <r>o<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>o's</l>       <r>o<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>os</l>        <r>o<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>os'</l>       <r>o<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>i</l>         <r>o<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="pen/ny__n">
   <e>       <p><l>ny</l>        <r>ny<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>ny's</l>      <r>ny<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ce</l>        <r>ny<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ce's</l>      <r>ny<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>nies</l>      <r>ny<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="phalan/x__n">
   <e>       <p><l>x</l>         <r>x<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>x's</l>       <r>x<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ges</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ges'</l>      <r>x<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>xes</l>       <r>x<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
@@ -1178,7 +1253,9 @@
       <!-- cf. tornado__n  -->
       <!-- according to google book ngram viewer, -OS is more frequent than -OES -->
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
@@ -1186,83 +1263,99 @@
       <!-- cf. archipelago__n -->
       <!-- according to google book ngram viewer, -OES is more frequent than -OS -->
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="zebra__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="VCR__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="acr"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="acr"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="acr"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="SOS__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="acr"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="n"/><s n="acr"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="n"/><s n="acr"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="BBC__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="acr"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="alms__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>'</l>         <r><s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="host__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>s'</l>        <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="m"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ess</l>       <r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ess'</l>      <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>ess'</l>      <r><s n="n"/><s n="f"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>esses</l>     <r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  <e>       <p><l>esses'</l>    <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>esses'</l>    <r><s n="n"/><s n="f"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="pol/is__n">
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="sg"/></r></p></e>
-  <e>       <p><l>is'</l>       <r>is<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>is'</l>       <r>is<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>eis</l>       <r>is<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>eis'</l>      <r>is<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>eis'</l>      <r>is<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>es</l>        <r>is<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>es'</l>       <r>is<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="ephemeri/s__n">
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>des</l>       <r>s<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>des'</l>      <r>s<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>ses</l>       <r>s<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>des'</l>      <r>s<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="glan/s__n">
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>des</l>       <r>s<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>des'</l>      <r>s<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="lim/es__n">
   <e>       <p><l>es</l>        <r>es<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r>es<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ites</l>      <r>es<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>ites'</l>     <r>es<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="cyclop/s__n">
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r>s<s n="n"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>es</l>        <r>s<s n="n"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ses</l>       <r>s<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="calcul/us__n">
   <e>       <p><l>us</l>        <r>us<s n="n"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>us'</l>       <r>us<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>uses</l>      <r>us<s n="n"/><s n="pl"/></r></p></e>
-  <e>       <p><l>uses'</l>     <r>us<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>uses'</l>     <r>us<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
   <e r="LR"><p><l>i</l>         <r>us<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
@@ -1278,85 +1371,95 @@
 
 <pardef n="United_Nations__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="org"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Wikimedia__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="org"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="org"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Barcelona__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="top"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="United_States__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="pl"/></r></p></e>
-  <e>       <p><l>'</l>         <r><s n="np"/><s n="top"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="top"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="James__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>'</l>         <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Mark__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Mary__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="np"/><s n="ant"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="ant"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Smith__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
-  <e>       <p><l>s'</l>        <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="np"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Ifans__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="cog"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l></l>          <r><s n="np"/><s n="cog"/><s n="cog"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="cog"/><s n="cog"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="cog"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="cog"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Wikipedia__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="al"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="np"/><s n="al"/><s n="pl"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="np"/><s n="al"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Linux__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="al"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Mars__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>'</l>         <r><s n="np"/><s n="top"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="top"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Ova__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="m"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>a</l>         <r><s n="np"/><s n="cog"/><s n="f"/><s n="sg"/></r></p></e>
+  <e r="RL"><p><l>a's</l>       <r><s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>s</l>         <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>s'</l>        <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>s'</l>        <r><s n="np"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Bush__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
-  <e>       <p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>es'</l>       <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="np"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Gauss__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>'</l>         <r><s n="np"/><s n="cog"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="cog"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>es'</l>       <r><s n="np"/><s n="cog"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e r="RL"><p><l>es'</l>       <r><s n="np"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 
@@ -3333,7 +3436,7 @@
 
   <section id="main" type="standard">
 
-<e lm="'s">              <i>'s</i><par n="'s__gen"/></e>
+<e lm="'s genitive">              <i></i><par n="'s__gen"/></e>
 
 <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
 <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
@@ -49688,6 +49791,8 @@
 <e lm="you're">          <p><l>you're</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
 <e lm="you've">          <p><l>you've</l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
 <e lm="you've got">      <p><l>you've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+<e r="LR" lm="'s">       <p><l>'s</l>        <r>be<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+<e r="LR" lm="'s">       <p><l>'s</l>        <r>have<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
 
   </section>
   <section id="final" type="inconditional">
