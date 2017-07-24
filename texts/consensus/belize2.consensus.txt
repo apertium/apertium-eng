@@ -1,4 +1,4 @@
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^series/series<n><sg>$
 ^of/of<pr>$
 ^meetings/meeting<n><pl>$
@@ -39,8 +39,8 @@
 ^border/border<n><sg>$
 ^./.<sent>$
 
-^Talks/Talk<n><pl>$
-^resumed/*resumed$
+^Talks/talk<n><pl>$
+^resumed/resume<vblex><past>$
 ^between/between<pr>$
 ^1973/1973<num>$
 ^,/,<cm>$
@@ -51,7 +51,7 @@
 ^1975/1975<num>$
 ^when/when<cnjadv>$
 ^tensions/tension<n><pl>$
-^flared/flared<adj>$
+^flared/*flared$
 ^./.<sent>$
 
 ^Guatemala/Guatemala<np><top><sg>$
@@ -66,7 +66,7 @@
 ^Britain/Britain<np><top><sg>$
 ^responded/respond<vblex><past>$
 ^by/by<pr>$
-^deploying/deploy<vblex><subs>$
+^deploying/deploy<vblex><ger>$
 ^troops/troop<n><pl>$
 ^,/,<cm>$
 ^along with/along with<pr>$
@@ -85,7 +85,7 @@
 ^a/a<det><ind><sg>$
 ^frigate/frigate<n><sg>$
 ^,/,<cm>$
-^after/after<pr>$
+^after/after<cnjadv>$
 ^which/which<rel><an><mf><sp>$
 ^tensions/tension<n><pl>$
 ^were/be<vbser><past>$
@@ -103,6 +103,7 @@
 ^their/their<det><pos><sp>$
 ^homes/home<n><pl>$
 ^./.<sent>$
+
 ^At this point/At this point<cnjadv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -113,7 +114,7 @@
 ^,/,<cm>$
 ^frustrated/frustrate<vblex><pp>$
 ^at/at<pr>$
-^dealing with/deal<vblex><subs># with$
+^dealing with/deal<vblex><ger># with$
 ^the/the<det><def><sp>$
 ^military/military<adj>$
 ^-/-<guio>$
@@ -218,7 +219,7 @@
 ^power/power<n><sg>$
 ^./.<sent>$
 
-^Between/Between<pr>$
+^Between/between<pr>$
 ^1975/1975<num>$
 ^and/and<cnjcoo>$
 ^1981/1981<num>$
@@ -239,7 +240,7 @@
 ^of/of<pr>$
 ^Commonwealth/*Commonwealth$
 ^of/of<pr>$
-^Nations/Nation<n><pl>$
+^Nations/nation<n><pl>$
 ^governments/government<n><pl>$
 ^in/in<pr>$
 ^Jamaica/Jamaica<np><top><sg>$
@@ -251,7 +252,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Nonaligned/*Nonaligned$
-^Movement/Movement<n><sg>$
+^Movement/movement<n><sg>$
 ^in/in<pr>$
 ^Peru/Peru<np><top><sg>$
 ^,/,<cm>$
@@ -266,12 +267,12 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^support/support<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Nonaligned/*Nonaligned$
-^Movement/Movement<n><sg>$
+^Movement/movement<n><sg>$
 ^proved/prove<vblex><past>$
 ^crucial/crucial<adj>$
 ^and/and<cnjcoo>$
@@ -324,9 +325,9 @@
 ^integrity/integrity<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^outgoing/*outgoing$
-^Mexican/mexican<adj>$
+^Mexican/Mexican<adj>$
 ^president/president<n><sg>$
 ^,/,<cm>$
 ^Luis/Luis<np><ant><m><sg>$
@@ -339,8 +340,8 @@
 ^appeal/appeal<vblex><inf>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
-^Security/Security<n><sg>$
-^Council/Council<n><sg>$
+^Security/security<n><sg>$
+^Council/council<n><sg>$
 ^to/to<pr>$
 ^prevent/prevent<vblex><inf>$
 ^Guatemala/Guatemala<np><top><sg>$
@@ -356,7 +357,7 @@
 ^area/area<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1977/1977<num>$
 ^,/,<cm>$
 ^Guatemala/Guatemala<np><top><sg>$
@@ -370,10 +371,10 @@
 ^was/be<vbser><past><p3><sg>$
 ^deterred/deter<vblex><pp>$
 ^from/from<pr>$
-^invading/invade<vblex><subs>$
+^invading/invade<vblex><ger>$
 ^,/,<cm>$
 ^especially/especially<adv>$
-^since/since<adv>$
+^since/since<cnjadv>$
 ^British/british<adj>$
 ^fighter jets/fighter jet<n><pl>$
 ^had/have<vbhaver><past>$
@@ -385,7 +386,7 @@
 ^there/there<adv>$
 ^./.<sent>$
 
-^From/From<pr>$
+^From/from<pr>$
 ^1977/1977<num>$
 ^onward/*onward$
 ^,/,<cm>$
@@ -432,7 +433,7 @@
 ^Belize/Belize<np><top><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^each/each<prn><tn><m><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -461,10 +462,10 @@
 ^would/will<vbmod><past>$
 ^retain/retain<vblex><inf>$
 ^United States/United States<np><top><pl>$
-^backing/back<vblex><subs>$
+^backing/backing<n><sg>$
 ^./.<sent>$
 
-^Finally/Finally<adv>$
+^Finally/finally<adv>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^November/November<n><sg>$
@@ -519,7 +520,7 @@
 ^Belize/Belize<np><top><sg>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^also/also<adv>$
 ^called/call<vblex><past>$
 ^on/on<pr>$
@@ -532,7 +533,7 @@
 ^assistance/assistance<n><sg>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^last/last<det><ord><sp>$
 ^attempt/attempt<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -550,7 +551,7 @@
 ^Belize/Belize<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Belizean/*Belizean$
 ^representatives/representative<n><pl>$
 ^to/to<pr>$
@@ -566,9 +567,9 @@
 ^,/,<cm>$
 ^called/call<vblex><pp>$
 ^the/the<det><def><sp>$
-^Heads/Head<n><pl>$
+^Heads/head<n><pl>$
 ^of/of<pr>$
-^Agreement/Agreement<n><sg>$
+^Agreement/agreement<n><sg>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
 ^initialled/*initialled$
@@ -578,7 +579,7 @@
 ^1981/1981<num>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^when/when<cnjadv>$
 ^far/far<adv>$
@@ -608,7 +609,7 @@
 ^negotiations/negotiation<n><pl>$
 ^./.<sent>$
 
-^Meanwhile/Meanwhile<adv>$
+^Meanwhile/meanwhile<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^opposition/opposition<n><sg>$
@@ -620,12 +621,12 @@
 ^demonstrations/demonstration<n><pl>$
 ^against/against<pr>$
 ^the/the<det><def><sp>$
-^Heads/Head<n><pl>$
+^Heads/head<n><pl>$
 ^of/of<pr>$
-^Agreement/Agreement<n><sg>$
+^Agreement/agreement<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^demonstrations/demonstration<n><pl>$
 ^resulted/result<vblex><past>$
 ^in/in<pr>$
@@ -656,7 +657,7 @@
 ^declared/declare<vblex><pp>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^opposition/opposition<n><sg>$
@@ -667,7 +668,7 @@
 ^alternatives/alternative<n><pl>$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^prospect/prospect<n><sg>$
 ^of/of<pr>$
@@ -684,7 +685,7 @@
 ^fell/fall<vblex><past>$
 ^./.<sent>$
 
-^Independence/Independence<n><sg>$
+^Independence/independence<n><sg>$
 ^came/come<vblex><past>$
 ^to/to<pr>$
 ^Belize/Belize<np><top><sg>$
@@ -748,7 +749,7 @@
 ^Force/Force<n><sg>$
 ^./.<sent>$
 
-^There/There<adv>$
+^There/there<adv>$
 ^was/be<vbser><past><p3><sg>$
 ^a/a<det><ind><sg>$
 ^serious/serious<adj>$
@@ -782,7 +783,7 @@
 ^materialised/materialise<vblex><pp>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1994/1994<num>$
 ^,/,<cm>$
 ^three/three<num><sp>$

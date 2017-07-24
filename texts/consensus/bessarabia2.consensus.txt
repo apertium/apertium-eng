@@ -1,4 +1,4 @@
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^main/main<adj>$
 ^dynasty/dynasty<n><sg>$
 ^of/of<pr>$
@@ -17,7 +17,7 @@
 ^originated/originate<vblex><past>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^15th century/15th century<n><sg>$
 ^,/,<cm>$
@@ -77,7 +77,7 @@
 ^Hungarians/*Hungarians$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^Poles/Pole_person<n><pl>$
+^Poles/Pole<n><pl>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^while/while<cnjadv>$
@@ -105,11 +105,11 @@
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^battlefield/*battlefield$
-^honouring/*honouring$
+^honouring/honour<vblex><ger>$
 ^Christianity/Christianity<n><sg>$
 ^./.<sent>$
 
-^Many/Many<prn><tn><mf><pl>$
+^Many/many<prn><qnt><mf><pl>$
 ^of/of<pr>$
 ^these/this<det><dem><pl>$
 ^battlefields/*battlefields$
@@ -133,7 +133,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Between/Between<pr>$
+^Between/between<pr>$
 ^1711/1711<num>$
 ^and/and<cnjcoo>$
 ^1812/1812<num>$
@@ -150,13 +150,13 @@
 ^its/its<det><pos><sp>$
 ^wars/war<n><pl>$
 ^against/against<pr>$
-^Ottoman/*Ottoman$
+^Ottoman/Ottoman<adj>$
 ^and/and<cnjcoo>$
 ^Austrian/austrian<adj>$
-^Empires/Empire<n><pl>$
+^Empires/empire<n><pl>$
 ^./.<sent>$
 
-^Between/Between<pr>$
+^Between/between<pr>$
 ^1812/1812<num>$
 ^and/and<cnjcoo>$
 ^1846/1846<num>$
@@ -170,7 +170,7 @@
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^via/via<pr>$
 ^the/the<det><def><sp>$
 ^River/River<n><sg>$
@@ -194,7 +194,7 @@
 
 ^Turkic/*Turkic$
 ^-/-<guio>$
-^speaking/speak<vblex><pprs>$
+^speaking/speak<vblex><ger>$
 ^tribes/tribe<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -204,7 +204,7 @@
 ^inhabited/inhabit<vblex><past>$
 ^the/the<det><def><sp>$
 ^Budjak/*Budjak$
-^Region/Region<n><sg>$
+^Region/region<n><sg>$
 ^of/of<pr>$
 ^southern/southern<adj>$
 ^Bessarabia/*Bessarabia$
@@ -224,9 +224,9 @@
 ^1812/1812<num>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^the/the<det><def><sp>$
-^Treaty/Treaty<n><sg>$
+^Treaty/treaty<n><sg>$
 ^of/of<pr>$
 ^Adrianople/*Adrianople$
 ^that/that<rel><an><mf><sp>$
@@ -235,7 +235,7 @@
 ^Russo/*Russo$
 ^-/-<guio>$
 ^Turkish/turkish<adj>$
-^War/War<n><sg>$
+^War/war<n><sg>$
 ^of/of<pr>$
 ^1828/1828<num>$
 ^-/-<guio>$
@@ -256,14 +256,14 @@
 ^At the end of/At the end of<pr>$
 ^the/the<det><def><sp>$
 ^Crimean/*Crimean$
-^War/War<n><sg>$
+^War/war<n><sg>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^1856/1856<num>$
 ^,/,<cm>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
-^Treaty/Treaty<n><sg>$
+^Treaty/treaty<n><sg>$
 ^of/of<pr>$
 ^Paris/Paris<np><top><sg>$
 ^,/,<cm>$
@@ -280,7 +280,7 @@
 ^causing/cause<vblex><ger>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^to/to<pr>$
 ^lose/lose<vblex><inf>$
 ^access/access<n><sg>$
@@ -290,14 +290,14 @@
 ^river/river<n><sg>$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^the/the<det><def><sp>$
 ^1905/1905<num>$
 ^Russian/russian<adj>$
-^Revolution/Revolution<n><sg>$
+^Revolution/revolution<n><sg>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
-^Romanian/Romanian<n><sg>$
+^Romanian/Romanian<adj>$
 ^nationalist/nationalist<adj>$
 ^movement/movement<n><sg>$
 ^started/start<vblex><past>$
@@ -307,7 +307,7 @@
 ^Bessarabia/*Bessarabia$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^chaos/chaos<n><sg>$
 ^brought/bring<vblex><pp>$
@@ -320,8 +320,8 @@
 ^1917/1917<num>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
-^National/National<adj>$
-^Council/Council<n><sg>$
+^National/national<adj>$
+^Council/council<n><sg>$
 ^(/(<lpar>$
 ^Sfatul/*Sfatul$
 ^Ţării/*Ţării$
@@ -359,7 +359,7 @@
 ^where/where<rel><adv>$
 ^Moldovans/*Moldovans$
 ^and/and<cnjcoo>$
-^Romanians/*Romanians$
+^Romanians/Romanian<n><pl>$
 ^accounted/*accounted$
 ^for/for<pr>$
 ^less than/less than<pr>$
@@ -375,7 +375,7 @@
 ^Ukrainian/ukrainian<adj>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^the/the<det><def><sp>$
 ^11th/11<num><ord>$
 ^May/May<n><sg>$
@@ -385,8 +385,8 @@
 ^the/the<det><def><sp>$
 ^Bessarabian/*Bessarabian$
 ^Soviet/soviet<adj>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^proclaimed/proclaim<vblex><pp>$
 ^as/as<pr>$
@@ -395,7 +395,7 @@
 ^part/part<n><sg>$
 ^of/of<pr>$
 ^Russian/russian<adj>$
-^SFSR/*SFSR$
+^SFSR/SFSR<n><acr><sp>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^was/be<vbser><past><p3><sg>$
@@ -412,15 +412,15 @@
 ^September/September<n><sg>$
 ^1919/1919<num>$
 ^(/(<lpar>$
-^see/see<vblex><inf>$
+^see/see<vblex><imp>$
 ^Polish/polish<adj>$
 ^-/-<guio>$
 ^Soviet/soviet<adj>$
-^War/War<n><sg>$
+^War/war<n><sg>$
 ^)/)<rpar>$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^the/the<det><def><sp>$
 ^victory/victory<n><sg>$
 ^of/of<pr>$
@@ -429,12 +429,12 @@
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
-^Civil/Civil<adj>$
-^War/War<n><sg>$
+^Civil/civil<adj>$
+^War/war<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Ukrainian/ukrainian<adj>$
-^SSR/*SSR$
+^SSR/SSR<n><acr><sp>$
 ^was/be<vbser><past><p3><sg>$
 ^created/create<vblex><pp>$
 ^in/in<pr>$
@@ -445,10 +445,10 @@
 ^1924/1924<num>$
 ^the/the<det><def><sp>$
 ^Moldovan/*Moldovan$
-^Autonomous/Autonomous<adj>$
+^Autonomous/autonomous<adj>$
 ^Soviet/soviet<adj>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^established/establish<vblex><pp>$
 ^on/on<pr>$
@@ -468,7 +468,7 @@
 ^where/where<rel><adv>$
 ^Moldovans/*Moldovans$
 ^and/and<cnjcoo>$
-^Romanians/*Romanians$
+^Romanians/Romanian<n><pl>$
 ^accounted/*accounted$
 ^for/for<pr>$
 ^less than/less than<pr>$
@@ -491,8 +491,8 @@
 ^the/the<det><def><sp>$
 ^Moldavian/*Moldavian$
 ^Soviet/soviet<adj>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^established/establish<vblex><pp>$
 ^on/on<pr>$
@@ -511,7 +511,7 @@
 ^the/the<det><def><sp>$
 ^former/former<adj>$
 ^Moldavian/*Moldavian$
-^ASSR/*ASSR$
+^ASSR/ASSR<n><acr><sp>$
 ^./.<sent>$
 
 ^Bessarabia/*Bessarabia$
@@ -520,7 +520,7 @@
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^Moldavian/*Moldavian$
-^SSR/*SSR$
+^SSR/SSR<n><acr><sp>$
 ^(/(<lpar>$
 ^70%/70%<num><percent>$
 ^of/of<pr>$
@@ -535,7 +535,7 @@
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Ukrainian/ukrainian<adj>$
-^SSR/*SSR$
+^SSR/SSR<n><acr><sp>$
 ^./.<sent>$
 
 ^Bessarabia/*Bessarabia$
@@ -604,10 +604,10 @@
 ^were/be<vbser><past>$
 ^accused/accuse<vblex><pp>$
 ^of/of<pr>$
-^supporting/support<vblex><subs>$
+^supporting/support<vblex><ger>$
 ^the/the<det><def><sp>$
 ^deposed/depose<vblex><pp>$
-^Romanian/Romanian<n><sg>$
+^Romanian/Romanian<adj>$
 ^administration/administration<n><sg>$
 ^,/,<cm>$
 ^were/be<vbser><past>$
@@ -620,7 +620,7 @@
 ^Kazakhstan/Kazakhstan<np><top><sg>$
 ^./.<sent>$
 
-^Between/Between<pr>$
+^Between/between<pr>$
 ^September/September<n><sg>$
 ^and/and<cnjcoo>$
 ^November/November<n><sg>$
@@ -645,7 +645,7 @@
 ^agreement/agreement<n><sg>$
 ^./.<sent>$
 
-^Fearing/Fear<vblex><ger>$
+^Fearing/fear<vblex><ger>$
 ^Soviet/soviet<adj>$
 ^oppression/oppression<n><sg>$
 ^,/,<cm>$
@@ -658,7 +658,7 @@
 ^agreed/agree<vblex><past>$
 ^./.<sent>$
 
-^Most of/Most<prn><tn><mf><pl>+of<pr>$
+^Most of/most<prn><tn><mf><pl>+of<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^were/be<vbser><past>$
 ^resettled/*resettled$
@@ -670,13 +670,13 @@
 ^territories/territory<n><pl>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^June/June<n><sg>$
 ^22/22<num>$
 ^,/,<cm>$
 ^1941/1941<num>$
 ^the/the<det><def><sp>$
-^Axis/Axis<adj>$
+^Axis/Axis<n><sg>$
 ^invasion/invasion<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -684,11 +684,11 @@
 ^Union/Union<n><sg>$
 ^commenced/commence<vblex><past>$
 ^with/with<pr>$
-^Operation/Operation<n><sg>$
+^Operation/operation<n><sg>$
 ^Barbarossa/*Barbarossa$
 ^./.<sent>$
 
-^Between/Between<pr>$
+^Between/between<pr>$
 ^June/June<n><sg>$
 ^22/22<num>$
 ^and/and<cnjcoo>$
@@ -711,7 +711,7 @@
 ^Bukovina/*Bukovina$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Soviets/*Soviets$
 ^employed/employ<vblex><past>$
 ^scorched/*scorched$
@@ -738,7 +738,7 @@
 ^railway/railway<n><sg>$
 ^./.<sent>$
 
-^At the end/At the end<adv>$
+^At the end/at the end<adv>$
 ^of/of<pr>$
 ^July/July<n><sg>$
 ^,/,<cm>$
@@ -754,11 +754,11 @@
 ^was/be<vbser><past><p3><sg>$
 ^once again/once again<adv>$
 ^under/under<pr>$
-^Romanian/Romanian<n><sg>$
+^Romanian/Romanian<adj>$
 ^control/control<n><sg>$
 ^./.<sent>$
 
-^As/As<cnjadv>$
+^As/as<cnjadv>$
 ^the/the<det><def><sp>$
 ^military operation/military operation<n><sg>$
 ^was still in/be<vblex><past><p3><sg># still in$
@@ -768,7 +768,7 @@
 ^were/be<vbser><past>$
 ^cases/case<n><pl>$
 ^of/of<pr>$
-^Romanian/Romanian<n><sg>$
+^Romanian/Romanian<adj>$
 ^troops/troop<n><pl>$
 "
 ^taking/take<vblex><ger>$
@@ -803,7 +803,7 @@
 ^supposed/supposed<adj>$
 ^cause/cause<n><sg>$
 ^for/for<pr>$
-^murdering/murder<vblex><subs>$
+^murdering/murder<vblex><ger>$
 ^Jews/*Jews$
 ^was/be<vbser><past><p3><sg>$
 ^that/that<cnjsub>$
@@ -819,12 +819,12 @@
 ^liberation/*liberation$
 ^./.<sent>$
 
-^At the same time/At the same time<adv>$
+^At the same time/at the same time<adv>$
 ^the/the<det><def><sp>$
 ^notorious/notorious<adj>$
-^SS/*SS$
+^SS/SS<n><acr><sp>$
 ^Einsatzgruppe/*Einsatzgruppe$
-^D/D<num><mf><sg>$
+^D/*D$
 ^,/,<cm>$
 ^operating/operate<vblex><pprs>$
 ^in/in<pr>$
@@ -834,7 +834,7 @@
 ^the/the<det><def><sp>$
 ^German/german<adj>$
 ^11th/11<num><ord>$
-^Army/Army<n><sg>$
+^Army/army<n><sg>$
 ^,/,<cm>$
 ^committed/commit<vblex><past>$
 ^summary/summary<n><sg>$
@@ -851,13 +851,13 @@
 ^,/,<cm>$
 ^saboteurs/*saboteurs$
 ^,/,<cm>$
-^Communists/Communist<n><pl>$
+^Communists/communist<n><pl>$
 ^,/,<cm>$
 ^or/or<cnjcoo>$
 ^under/under<pr>$
 ^no/no<det><ind><sp>$
 ^pretext/pretext<n><sg>$
-^whatsoever/whatsoever<prn><tn><m><sg>$
+^whatsoever/*whatsoever$
 ^./.<sent>$
 
 ^That/That<det><dem><sg>$
@@ -874,7 +874,7 @@
 ^did/do<vbdo><past>$
 ^not/not<adv>$
 ^flee/flee<vblex><inf>$
-^before/before<pr>$
+^before/before<cnjadv>$
 ^the/the<det><def><sp>$
 ^retreat/retreat<n><sg>$
 ^of/of<pr>$
@@ -904,7 +904,7 @@
 ^death/death<n><sg>$
 ^marches/march<n><pl>$
 ^into/into<pr>$
-^Romanian/Romanian<n><sg>$
+^Romanian/Romanian<adj>$
 ^-/-<guio>$
 ^occupied/occupy<vblex><pp>$
 ^Transnistria/*Transnistria$
@@ -912,14 +912,14 @@
 ^where/where<rel><adv>$
 ^the/the<det><def><sp>$
 "
-^Final/Final<adj>$
-^Solution/Solution<n><sg>$
+^Final/final<adj>$
+^Solution/solution<n><sg>$
 "
 ^was/be<vbser><past><p3><sg>$
 ^applied/apply<vblex><pp>$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^three/three<num><sp>$
 ^years/year<n><pl>$
 ^of/of<pr>$
@@ -954,8 +954,8 @@
 ^3,400,000/3,400,000<num>$
 ^-/-<guio>$
 ^strong/strong<adj><sint>$
-^Red/Red<adj>$
-^Army/Army<n><sg>$
+^Red/red<adj>$
+^Army/army<n><sg>$
 ^began/begin<vblex><past>$
 ^a/a<det><ind><sg>$
 ^major/major<adj>$
@@ -965,10 +965,10 @@
 ^Jassy/*Jassy$
 ^-/-<guio>$
 ^Kishinev/*Kishinev$
-^Operation/Operation<n><sg>$
+^Operation/operation<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Soviet/soviet<adj>$
 ^armies/army<n><pl>$
 ^overran/overrun<vblex><past>$
@@ -984,7 +984,7 @@
 ^days/day<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^pocket/pocket<n><sg>$
 ^battles/battle<n><pl>$
 ^at/at<pr>$
@@ -994,7 +994,7 @@
 ^the/the<det><def><sp>$
 ^German/german<adj>$
 ^6th/6<num><ord>$
-^Army/Army<n><sg>$
+^Army/army<n><sg>$
 ^of/of<pr>$
 ^ca./*ca.$
 ^650,000/650,000<num>$
@@ -1004,15 +1004,15 @@
 ^reformed/reform<vblex><pp>$
 ^after/after<pr>$
 ^the/the<det><def><sp>$
-^Battle/Battle<n><sg>$
+^Battle/battle<n><sg>$
 ^of/of<pr>$
 ^Stalingrad/*Stalingrad$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
-^obliterated/*obliterated$
+^obliterated/obliterate<vblex><pp>$
 ^./.<sent>$
 
-^Simultaneously/Simultaneously<adv>$
+^Simultaneously/simultaneously<adv>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^success/success<n><sg>$
@@ -1034,7 +1034,7 @@
 ^sides/side<n><pl>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^the/the<det><def><sp>$
 ^23rd/23<num><ord>$
 ^August/August<n><sg>$
@@ -1042,7 +1042,7 @@
 ^1944/1944<num>$
 ^,/,<cm>$
 ^Marshal/Marshal<n><sg>$
-^Ion/Ion<n><sg>$
+^Ion/Ion<np><ant><m><sg>$
 ^Antonescu/*Antonescu$
 ^was/be<vbser><past><p3><sg>$
 ^arrested/arrest<vblex><pp>$
@@ -1059,7 +1059,7 @@
 ^Soviets/*Soviets$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Soviet/soviet<adj>$
 ^Union/Union<n><sg>$
 ^regained/regain<vblex><past>$
@@ -1076,7 +1076,7 @@
 ^Romania/Romania<np><top><sg>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^1947/1947<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -1098,7 +1098,7 @@
 ^Moscow/Moscow<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Soviet/soviet<adj>$
 ^occupation/occupation<n><sg>$
 ^of/of<pr>$
@@ -1133,7 +1133,7 @@
 ^Union/Union<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^December/December<n><sg>$
 ^1971/1971<num>$
 ^,/,<cm>$
@@ -1142,22 +1142,22 @@
 ^informative/informative<adj>$
 ^note/note<n><sg>$
 ^from/from<pr>$
-^Ion/Ion<n><sg>$
+^Ion/Ion<np><ant><m><sg>$
 ^Stănescu/*Stănescu$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Council/Council<n><sg>$
+^Council/council<n><sg>$
 ^of/of<pr>$
-^State/State<adj>$
-^Security/Security<n><sg>$
+^State/state<adj>$
+^Security/security<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Romanian/Romanian<n><sg>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Romanian/Romanian<adj>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^,/,<cm>$
 ^to/to<pr>$
 ^Yuri/*Yuri$
@@ -1166,7 +1166,7 @@
 ^the/the<det><def><sp>$
 ^chief/chief<n><sg>$
 ^of/of<pr>$
-^KGB/*KGB$
+^KGB/KGB<n><acr><sp>$
 ^,/,<cm>$
 ^three/three<num><sp>$
 ^of/of<pr>$
@@ -1174,9 +1174,9 @@
 ^leaders/leader<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^National/National<adj>$
-^Patriotic/Patriotic<adj>$
-^Front/Front<n><sg>$
+^National/national<adj>$
+^Patriotic/patriotic<adj>$
+^Front/front<n><sg>$
 ^,/,<cm>$
 ^Alexandru/*Alexandru$
 ^Usatiuc/*Usatiuc$
@@ -1222,7 +1222,7 @@
 ^terms/term<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1990/1990<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -1232,7 +1232,7 @@
 ^were/be<vbser><past>$
 ^held/hold<vblex><pp>$
 ^for/for<pr>$
-^Parliament/Parliament<n><sg>$
+^Parliament/parliament<n><sg>$
 ^,/,<cm>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
@@ -1240,11 +1240,11 @@
 ^Popular Front/Popular front<n><sg>$
 ^all/all<prn><tn><mf><sp>$
 ^but/but<pr>$
-^winning/win<vblex><subs>$
+^winning/win<vblex><ger>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^government/government<n><sg>$
 ^led/lead<vblex><pp>$
 ^by/by<pr>$
@@ -1263,25 +1263,25 @@
 ^formed/form<vblex><pp>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Moldavian/*Moldavian$
-^SSR/*SSR$
+^SSR/SSR<n><acr><sp>$
 ^became/become<vblex><past>$
-^SSR/*SSR$
-^Moldova/*Moldova$
+^SSR/SSR<n><acr><sp>$
+^Moldova/Moldova<np><top><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^later/later<adv>$
 ^the/the<det><def><sp>$
-^Republic/Republic<n><sg>$
+^Republic/republic<n><sg>$
 ^of/of<pr>$
-^Moldova/*Moldova$
+^Moldova/Moldova<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^Republic/Republic<n><sg>$
+^The/the<det><def><sp>$
+^Republic/republic<n><sg>$
 ^of/of<pr>$
-^Moldova/*Moldova$
+^Moldova/Moldova<np><top><sg>$
 ^became/become<vblex><past>$
 ^independent/independent<adj>$
 ^in/in<pr>$

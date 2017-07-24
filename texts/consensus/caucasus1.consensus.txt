@@ -1,4 +1,4 @@
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Caucasus/*Caucasus$
 ^is/be<vbser><pres><p3><sg>$
 ^one/one<prn><tn><mf><sg>$
@@ -13,7 +13,7 @@
 ^Earth/Earth<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^nation/nation<n><sg>$
 ^states/state<n><pl>$
 ^that/that<rel><an><mf><sp>$
@@ -35,7 +35,7 @@
 ^Azerbaijan/Azerbaijan<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Russian/russian<adj>$
 ^divisions/division<n><pl>$
 ^include/include<vblex><pres>$
@@ -66,7 +66,7 @@
 ^Dagestan/*Dagestan$
 ^./.<sent>$
 
-^Three/Three<num><sp>$
+^Three/three<num><sp>$
 ^territories/territory<n><pl>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -92,7 +92,7 @@
 ^South Ossetia/*South Ossetia$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^northern/northern<adj>$
 ^portion/portion<n><sg>$
 ^of/of<pr>$
@@ -112,7 +112,7 @@
 ^Transcaucasus/*Transcaucasus$
 ^./.<sent>$
 
-^Ancient/Ancient<adj>$
+^Ancient/ancient<adj>$
 ^kingdoms/kingdom<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -142,14 +142,14 @@
 ^Media/Media<n><sg>$
 ^,/,<cm>$
 ^Achaemenid/*Achaemenid$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^,/,<cm>$
 ^Parthian/*Parthian$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^Sassanid/*Sassanid$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^./.<sent>$
 
 ^By/By<pr>$
@@ -178,7 +178,7 @@
 ^transformations/transformation<n><pl>$
 ^./.<sent>$
 
-^Owing to/Owing to<pr>$
+^Owing to/owing to<pr>$
 ^the/the<det><def><sp>$
 ^rivalry/rivalry<n><sg>$
 ^between/between<pr>$
@@ -210,7 +210,7 @@
 ^region/region<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^because/because<cnjadv>$
 ^Armenia/Armenia<np><top><sg>$
@@ -228,7 +228,7 @@
 ^Zoroastrianism/*Zoroastrianism$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^Islamic/islamic<adj>$
 ^conquest/conquest<n><sg>$
@@ -259,14 +259,14 @@
 ^king/king<n><sg>$
 ^David/David<np><ant><m><sg>$
 ^the/the<det><def><sp>$
-^Builder/Builder<n><sg>$
+^Builder/builder<n><sg>$
 ^drove/drive<vblex><past>$
 ^the/the<det><def><sp>$
 ^Muslims/Muslim<n><pl>$
 ^out/out<adv>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^region/region<n><sg>$
 ^would/will<vbmod><past>$
 ^later/later<adv>$
@@ -298,7 +298,7 @@
 ^Russia/Russia<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^region/region<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^unified/unify<vblex><pp>$
@@ -311,13 +311,13 @@
 ^during/during<pr>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
-^Civil/Civil<adj>$
-^War/War<n><sg>$
+^Civil/civil<adj>$
+^War/war<n><sg>$
 ^(/(<lpar>$
 ^Transcaucasian/*Transcaucasian$
-^Democratic/Democratic<adj>$
-^Federative/Federative<adj>$
-^Republic/Republic<n><sg>$
+^Democratic/democratic<adj>$
+^Federative/federative<adj>$
+^Republic/republic<n><sg>$
 ^)/)<rpar>$
 ^from/from<pr>$
 ^9/9<num>$
@@ -335,7 +335,7 @@
 ^rule/rule<n><sg>$
 ^(/(<lpar>$
 ^Transcaucasian/*Transcaucasian$
-^SFSR/*SFSR$
+^SFSR/SFSR<n><acr><sp>$
 ^)/)<rpar>$
 ^from/from<pr>$
 ^12/12<num>$
@@ -347,7 +347,7 @@
 ^1936/1936<num>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^1940s/1940s<num>$
 ^,/,<cm>$
@@ -357,7 +357,7 @@
 ^Ingush/*Ingush$
 ^(/(<lpar>$
 ^480,000/480,000<num>$
-^altogether/*altogether$
+^altogether/altogether<adv>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^along with/along with<pr>$
@@ -396,7 +396,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^,/,<cm>$
 ^Georgia/Georgia<np><top><sg>$
 ^,/,<cm>$
@@ -455,7 +455,7 @@
 ^Georgia/Georgia<np><top><sg>$
 ^./.<sent>$
 
-^Others/Others<prn><tn><mf><pl>$
+^Others/others<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^those/that<det><dem><pl>$
 ^peoples/peoples<n><pl>$
@@ -521,7 +521,7 @@
 ^Georgia/Georgia<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Caucasus/*Caucasus$
 ^has/have<vblex><pres><p3><sg>$
 ^many/many<det><qnt><pl>$

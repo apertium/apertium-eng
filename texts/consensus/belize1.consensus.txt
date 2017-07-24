@@ -50,7 +50,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^1961/1961<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -65,7 +65,7 @@
 ^independent/independent<adj>$
 ^./.<sent>$
 
-^From/From<pr>$
+^From/from<pr>$
 ^1964/1964<num>$
 ^the/the<det><def><sp>$
 ^UK/UK<np><top><sg>$
@@ -90,7 +90,7 @@
 ^service/service<n><sg>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^1/1<num>$
 ^June/June<n><sg>$
 ^1973/1973<num>$
@@ -109,7 +109,7 @@
 ^independence/independence<n><sg>$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^1975/1975<num>$
 ^the/the<det><def><sp>$
 ^UK/UK<np><top><sg>$
@@ -131,7 +131,7 @@
 ^international/international<adj>$
 ^diplomacy/diplomacy<n><sg>$
 ^even/even<adv>$
-^before/before<pr>$
+^before/before<cnjadv>$
 ^the/the<det><def><sp>$
 ^area/area<n><sg>$
 ^became/become<vblex><past>$
@@ -140,7 +140,7 @@
 ^nation/nation<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^stalemate/stalemate<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -174,7 +174,7 @@
 ^./.<sent>$
 
 ^Even/Even<adv>$
-^after/after<pr>$
+^after/after<cnjadv>$
 ^Belize/Belize<np><top><sg>$
 ^became/become<vblex><past>$
 ^independent/independent<adj>$
@@ -191,7 +191,7 @@
 ^./.<sent>$
 
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^territorial/territorial<adj>$
 ^dispute/dispute<n><sg>$
 ^'s/'s<gen>$
@@ -227,9 +227,9 @@
 ^area/area<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^1786/1786<num>$
-^Convention/Convention<n><sg>$
+^Convention/convention<n><sg>$
 ^of/of<pr>$
 ^London/London<np><top><sg>$
 ^,/,<cm>$
@@ -253,7 +253,7 @@
 ^1798/1798<num>$
 ^./.<sent>$
 
-^Subsequent/Subsequent<adj>$
+^Subsequent/subsequent<adj>$
 ^treaties/treaty<n><pl>$
 ^between/between<pr>$
 ^Britain/Britain<np><top><sg>$
@@ -267,7 +267,7 @@
 ^settlement/settlement<n><sg>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^the/the<det><def><sp>$
 ^time/time<n><sg>$
 ^Spain/Spain<np><top><sg>$
@@ -295,7 +295,7 @@
 ^unsystematically/*unsystematically$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^the/the<det><def><sp>$
 ^1830s/1830s<num>$
 ^,/,<cm>$
@@ -316,7 +316,7 @@
 ^./.<sent>$
 
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^independent/independent<adj>$
 ^republics/republic<n><pl>$
 ^that/that<rel><an><mf><sp>$
@@ -325,7 +325,7 @@
 ^the/the<det><def><sp>$
 ^disintegrating/disintegrate<vblex><pprs>$
 ^Spanish/spanish<adj>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^1820s/1820s<num>$
@@ -343,7 +343,7 @@
 ^area/area<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^UK/UK<np><top><sg>$
 ^,/,<cm>$
 ^however/however<adv>$
@@ -354,7 +354,7 @@
 ^doctrine/doctrine<n><sg>$
 ^./.<sent>$
 
-^Based/Base<vblex><pp>$
+^Based/base<vblex><pp>$
 ^on/on<pr>$
 ^this/this<det><dem><sg>$
 ^doctrine/doctrine<n><sg>$
@@ -378,7 +378,7 @@
 ^of/of<pr>$
 ^British/British<adj>$
 ^Honduras/Honduras<np><top><sg>$
-^north/north<adj><sint>$
+^north/north<adv>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Sibun/*Sibun$
@@ -396,7 +396,7 @@
 ^1893/1893<num>$
 ^./.<sent>$
 
-^Since then/Since then<adv>$
+^Since then/since then<adv>$
 ^,/,<cm>$
 ^Mexico/Mexico<np><top><sg>$
 ^has/have<vbhaver><pres><p3><sg>$
@@ -422,7 +422,7 @@
 ^nation/nation<n><sg>$
 ^./.<sent>$
 
-^Still/Still<adv>$
+^Still/still<adv>$
 ^,/,<cm>$
 ^Mexico/Mexico<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -439,7 +439,7 @@
 ^./.<sent>$
 
 
-^At/At<pr>$
+^At/at<pr>$
 ^the/the<det><def><sp>$
 ^centre/centre<n><sg>$
 ^of/of<pr>$
@@ -500,8 +500,8 @@
 ^,/,<cm>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
-^International/International<adj>$
-^Court/Court<n><sg>$
+^International/international<adj>$
+^Court/court<n><sg>$
 ^of/of<pr>$
 ^Justice/Justice<n><sg>$
 ^'s/'s<gen>$
@@ -549,7 +549,7 @@
 ^excuse/excuse<vblex><inf>$
 ^Guatemala/Guatemala<np><top><sg>$
 ^'s/'s<gen>$
-^breaches/breach<vblex><pres><p3><sg>$
+^breaches/breach<n><pl>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^UK/UK<np><top><sg>$
@@ -557,7 +557,7 @@
 ^made/make<vblex><past>$
 "
 ^material/material<adj>$
-^breaches/breach<vblex><pres><p3><sg>$
+^breaches/breach<n><pl>$
 ^,/,<cm>$
 "
 ^that/that<cnjsub>$
@@ -667,7 +667,7 @@
 ^threat/threat<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^dispute/dispute<n><sg>$
 ^appeared/appear<vblex><past>$
 ^to/to<pr>$
@@ -709,9 +709,9 @@
 ^short/short<adj><sint>$
 ^-/-<guio>$
 ^lived/live<vblex><pp>$
-^Central/Central<adj>$
+^Central/central<adj>$
 ^American/american<adj>$
-^Federation/Federation<n><sg>$
+^Federation/federation<n><sg>$
 ^(/(<lpar>$
 ^1821/1821<num>$
 ^–/–<guio>$
@@ -746,7 +746,7 @@
 ^sovereignty/sovereignty<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^its/its<det><pos><sp>$
 ^constitution/constitution<n><sg>$
 ^of/of<pr>$
@@ -790,7 +790,7 @@
 ^instead/instead<adv>$
 ^relying/rely<vblex><ger>$
 ^on/on<pr>$
-^Anglo/Anglo$
+^Anglo/*Anglo$
 ^-/-<guio>$
 ^Spanish/spanish<adj>$
 ^treaties/treaty<n><pl>$
@@ -801,7 +801,7 @@
 ^./.<sent>$
 
 
-^In/In<pr>$
+^In/in<pr>$
 ^February/February<n><sg>$
 ^1948/1948<num>$
 ^,/,<cm>$
@@ -811,7 +811,7 @@
 ^invade/invade<vblex><inf>$
 ^and/and<cnjcoo>$
 ^forcibly/*forcibly$
-^annexe/annexe<n><sg>$
+^annexe/*annexe$
 ^the/the<det><def><sp>$
 ^territory/territory<n><sg>$
 ^,/,<cm>$
@@ -827,10 +827,10 @@
 ^2nd/2<num><ord>$
 ^Battalion/*Battalion$
 ^Gloucestershire/*Gloucestershire$
-^Regiment/Regiment<n><sg>$
+^Regiment/regiment<n><sg>$
 ^./.<sent>$
 
-^One/One<num><sg>$
+^One/one<num><sg>$
 ^company/company<n><sg>$
 ^deployed/deploy<vblex><past>$
 ^to/to<pr>$
@@ -859,7 +859,7 @@
 ^City/City<n><sg>$
 ^./.<sent>$
 
-^Since/Since<pr>$
+^Since/since<pr>$
 ^1954/1954<num>$
 ^a/a<det><ind><sg>$
 ^succession/succession<n><sg>$
@@ -902,7 +902,7 @@
 ^posture/posture<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1957/1957<num>$
 ^,/,<cm>$
 ^responding/respond<vblex><ger>$
@@ -918,7 +918,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Worcesteshire/*Worcesteshire$
-^Regiment/Regiment<n><sg>$
+^Regiment/regiment<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^deployed/deploy<vblex><pp>$
 ^,/,<cm>$
@@ -933,7 +933,7 @@
 ^leaving/leave<vblex><ger>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^21/21<num>$
 ^January/January<n><sg>$
 ^1958/1958<num>$
@@ -971,7 +971,7 @@
 ^flag/flag<n><sg>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^British/british<adj>$
 ^platoon/*platoon$
 ^was/be<vbser><past><p3><sg>$
@@ -983,7 +983,7 @@
 ^with/with<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^,/,<cm>$
-^before/before<pr>$
+^before/before<cnjadv>$
 ^arresting/arrest<vblex><ger>$
 ^some/some<det><qnt><sp>$
 ^20/20<num>$
@@ -991,7 +991,7 @@
 ^./.<sent>$
 
 
-^Negotiations/Negotiation<n><pl>$
+^Negotiations/negotiation<n><pl>$
 ^between/between<pr>$
 ^Britain/Britain<np><top><sg>$
 ^and/and<cnjcoo>$
@@ -1023,7 +1023,7 @@
 ^invitation/invitation<n><sg>$
 ^from/from<pr>$
 ^Guatemalan/guatemalan<adj>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^Ydígoras/*Ydígoras$
 ^Fuentes/*Fuentes$
 ^to/to<pr>$
@@ -1051,7 +1051,7 @@
 ^independence/independence<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1963/1963<num>$
 ^Guatemala/Guatemala<np><top><sg>$
 ^broke/break<vblex><past>$
@@ -1065,7 +1065,7 @@
 ^Britain/Britain<np><top><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1965/1965<num>$
 ^Britain/Britain<np><top><sg>$
 ^and/and<cnjcoo>$
@@ -1088,7 +1088,7 @@
 ^dispute/dispute<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^lawyer/lawyer<n><sg>$
 ^'s/'s<gen>$
 ^draft/draft<n><sg>$
