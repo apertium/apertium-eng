@@ -2,7 +2,7 @@
 ^participated/participate<vblex><past>$
 ^alongside/alongside<pr>$
 ^the/the<det><def><sp>$
-^Bolsheviks/*Bolsheviks$
+^Bolsheviks/bolshevik<n><pl>$
 ^in/in<pr>$
 ^both/both<cnjcoo>$
 ^February/February<n><sg>$
@@ -15,13 +15,14 @@
 ^initially/initially<adv>$
 ^supporting/support<vblex><ger>$
 ^the/the<det><def><sp>$
-^Bolshevik/*Bolshevik$
+^Bolshevik/bolshevik<n><sg>$
 ^coup/coup<n><sg>$
 ^./.<sent>$
-^However/However<adv>$
+
+^However/however<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Bolsheviks/*Bolsheviks$
+^Bolsheviks/bolshevik<n><pl>$
 ^soon/soon<adv>$
 ^turned/turn<vblex><past>$
 ^against/against<pr>$
@@ -42,7 +43,8 @@
 ^Kronstadt/*Kronstadt$
 ^rebellion/rebellion<n><sg>$
 ^./.<sent>$
-^Anarchists/Anarchist<n><pl>$
+
+^Anarchists/anarchist<n><pl>$
 ^in/in<pr>$
 ^central/central<adj>$
 ^Russia/Russia<np><top><sg>$
@@ -56,9 +58,10 @@
 ^joined/join<vblex><past>$
 ^the/the<det><def><sp>$
 ^victorious/victorious<adj>$
-^Bolsheviks/*Bolsheviks$
+^Bolsheviks/bolshevik<n><pl>$
 ^./.<sent>$
-^In/In<pr>$
+
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^Ukraine/Ukraine<np><top><sg>$
 ^,/,<cm>$
@@ -73,14 +76,14 @@
 ^and/and<cnjcoo>$
 ^then/then<cnjadv>$
 ^the/the<det><def><sp>$
-^Bolsheviks/*Bolsheviks$
-^as/as<pr>$
+^Bolsheviks/bolshevik<n><pl>$
+^as/as<cnjadv>$
 ^part/part<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Revolutionary/Revolutionary<adj>$
+^Revolutionary/revolutionary<adj>$
 ^Insurrectionary/*Insurrectionary$
-^Army/Army<n><sg>$
+^Army/army<n><sg>$
 ^of/of<pr>$
 ^Ukraine/Ukraine<np><top><sg>$
 ^led/lead<vblex><pp>$
@@ -104,15 +107,16 @@
 ^of/of<pr>$
 ^months/month<n><pl>$
 ^./.<sent>$
+
 ^The/The<det><def><sp>$
 ^victory/victory<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Bolsheviks/*Bolsheviks$
+^Bolsheviks/bolshevik<n><pl>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^October/October<n><sg>$
-^Revolution/Revolution<n><sg>$
+^Revolution/revolution<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^resulting/resulting<adj>$
@@ -127,6 +131,7 @@
 ^movements/movement<n><pl>$
 ^internationally/internationally<adv>$
 ^./.<sent>$
+
 ^Many/many<det><qnt><pl>$
 ^workers/worker<n><pl>$
 ^and/and<cnjcoo>$
@@ -167,7 +172,7 @@
 ^movements/movement<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^CGT/*CGT$
+^CGT/CGT<n><acr><sp>$
 ^and/and<cnjcoo>$
 ^IWW/IWW<n><acr><sg>$
 ^left/leave<vblex><past>$
@@ -179,11 +184,12 @@
 ^Communist/Communist<adj>$
 ^International/International<adj>$
 ^./.<sent>$
+
 ^In/In<pr>$
 ^Spain/Spain<np><top><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^CNT/*CNT$
+^CNT/CNT<n><acr><sp>$
 ^initially/initially<adv>$
 ^refused/refuse<vblex><past>$
 ^to/to<pr>$
@@ -196,7 +202,7 @@
 ^and/and<cnjcoo>$
 ^abstention/abstention<n><sg>$
 ^by/by<pr>$
-^CNT/*CNT$
+^CNT/CNT<n><acr><sp>$
 ^supporters/supporter<n><pl>$
 ^led/lead<vblex><past>$
 ^to/to<pr>$
@@ -206,7 +212,8 @@
 ^election/election<n><sg>$
 ^victory/victory<n><sg>$
 ^./.<sent>$
-^But/But<pr>$
+
+^But/but<cnjcoo>$
 ^in/in<pr>$
 ^1936/1936<num>$
 ^,/,<cm>$
@@ -226,6 +233,7 @@
 ^to/to<pr>$
 ^power/power<n><sg>$
 ^./.<sent>$
+
 ^Months/Month<n><pl>$
 ^later/later<adv>$
 ^,/,<cm>$
@@ -249,7 +257,8 @@
 ^1939/1939<num>$
 ^)/)<rpar>$
 ^./.<sent>$
-^In/In<pr>$
+
+^In/in<pr>$
 ^response/response<n><sg>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
@@ -288,7 +297,8 @@
 ^the/the<det><def><sp>$
 ^land/land<n><sg>$
 ^./.<sent>$
-^But/But<cnjcoo>$
+
+^But/but<cnjcoo>$
 ^even/even<adv>$
 ^before/before<pr>$
 ^the/the<det><def><sp>$
@@ -325,7 +335,8 @@
 ^the/the<det><def><sp>$
 ^Soviet Union/Soviet<np><top><g>$
 ^./.<sent>$
-^According to/According to<pr>$
+
+^According to/according to<pr>$
 ^George/George<np><ant><m><sg>$
 ^Orwell/*Orwell$
 ^and/and<cnjcoo>$
@@ -348,7 +359,8 @@
 ^and/and<cnjcoo>$
 ^anarchists/anarchist<n><pl>$
 ^./.<sent>$
-^Phenomena/*Phenomena$
+
+^Phenomena/phenomenon<n><pl>$
 ^such as/such as<pr>$
 ^civilisation/civilisation<n><sg>$
 ^,/,<cm>$

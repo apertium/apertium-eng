@@ -1,4 +1,4 @@
-^In/In<pr>$
+^In/in<pr>$
 ^chemistry/chemistry<n><sg>$
 ^and/and<cnjcoo>$
 ^physics/physics<n><sg>$
@@ -27,7 +27,7 @@
 ^atoms/atom<n><pl>$
 ^,/,<cm>$
 ^as/as<cnjadv>$
-^opposed/oppose<adj><pp>$
+^opposed/oppose<vblex><pp>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^obsolete/obsolete<adj>$
@@ -44,7 +44,7 @@
 ^quantity/quantity<n><sg>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^began/begin<vblex><past>$
 ^as a/as a<pr>$
 ^philosophical/philosophical<adj>$
@@ -75,7 +75,7 @@
 ^matter/matter<n><sg>$
 ^did/do<vbdo><past>$
 ^indeed/indeed<adv>$
-^behave/*behave$
+^behave/behave<vblex><inf>$
 ^as if/as if<cnjadv>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^were/be<vbser><past>$
@@ -84,7 +84,7 @@
 ^particles/particle<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^planetary/planetary<adj>$
 ^model/model<n><sg>$
 ^of/of<pr>$
@@ -96,7 +96,7 @@
 ^shortcomings/shortcoming<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^first/first<det><ord><sp>$
 ^is/be<vbser><pres><p3><sg>$
 ^that/that<cnjsub>$
@@ -114,7 +114,7 @@
 ^./.<sent>$
 
 ^An/A<det><ind><sg>$
-^accelerating/accelerate<vblex><pprs>$
+^accelerating/accelerating<adj>$
 ^electric/electric<adj>$
 ^charge/charge<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
@@ -139,7 +139,7 @@
 ^lose/lose<vblex><inf>$
 ^energy/energy<n><sg>$
 ^and/and<cnjcoo>$
-^spiral/spiral<n><sg>$
+^spiral/spiral<vblex><inf>$
 ^towards/towards<pr>$
 ^the/the<det><def><sp>$
 ^nucleus/nucleus<n><sg>$
@@ -156,7 +156,7 @@
 ^second/second<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^second/second<det><ord><sp>$
 ^problem/problem<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -189,7 +189,7 @@
 ^perfect/perfect<adj>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^could/can<vbmod><past>$
 ^only/only<adv>$
 ^predict/predict<vblex><inf>$
@@ -208,7 +208,7 @@
 ^atoms/atom<n><pl>$
 ^./.<sent>$
 
-^Worse/Bad<adj><sint><comp>$
+^Worse/bad<adj><sint><comp>$
 ^still/still<adv>$
 ^,/,<cm>$
 ^as/as<cnjadv>$
@@ -231,7 +231,7 @@
 ^explain/explain<vblex><inf>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1916/1916<num>$
 ^,/,<cm>$
 ^Arnold/Arnold<np><ant><m><sg>$
@@ -270,10 +270,10 @@
 ^atoms/atom<n><pl>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^consequence/consequence<n><sg>$
 ^of/of<pr>$
-^describing/describe<vblex><subs>$
+^describing/describe<vblex><ger>$
 ^electrons/electron<n><pl>$
 ^as/as<pr>$
 ^waveforms/*waveforms$
@@ -303,7 +303,7 @@
 ^principle/principle<n><sg>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$
+^This/this<prn><tn><mf><sg>$
 ^invalidated/invalidate<vblex><pp>$
 ^Bohr/Bohr<np><cog><sg>$
 ^'s/'s<gen>$
@@ -319,7 +319,7 @@
 ^orbits/orbit<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^modern/modern<adj>$
 ^model/model<n><sg>$
 ^of/of<pr>$
@@ -339,7 +339,7 @@
 ^probabilities/probability<n><pl>$
 ^./.<sent>$
 
-^An/A<det><ind><sg>$
+^An/a<det><ind><sg>$
 ^electron/electron<n><sg>$
 ^can/can<vbmod><pres>$
 ^potentially/potentially<adv>$

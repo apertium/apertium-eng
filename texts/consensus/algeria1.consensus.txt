@@ -28,8 +28,7 @@
 ^./.<sent>$
 
 ^Under/under<pr>$
-^Ben/Ben<np><ant><m><sg>$
-^Bella/Bella<np><ant><f><sg>$
+^Ben Bella/Ben Bella<np><cog><sg>$
 ^the/the<det><def><sp>$
 ^government/government<n><sg>$
 ^had/have<vbhaver><past>$

@@ -1,4 +1,4 @@
-^From/From<pr>$
+^From/from<pr>$
 ^the/the<det><def><sp>$
 ^belief/belief<n><sg>$
 ^in/in<pr>$
@@ -11,10 +11,10 @@
 ^the/the<det><def><sp>$
 ^practice/practice<n><sg>$
 ^of/of<pr>$
-^offering/offer<vblex><subs>$
+^offering/offer<vblex><ger>$
 ^food/food<n><sg>$
 ^,/,<cm>$
-^lighting/light<vblex><subs>$
+^lighting/light<vblex><ger>$
 ^fires/fire<n><pl>$
 ^,/,<cm>$
 ^etc./etc.<adv>$
@@ -44,7 +44,8 @@
 ^ancestor/ancestor<n><sg>$
 ^worship/worship<n><sg>$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^simple/simple<adj><sint>$
 ^offering/offering<n><sg>$
 ^of/of<pr>$
@@ -64,6 +65,7 @@
 ^of/of<pr>$
 ^sacrifice/sacrifice<n><sg>$
 ^./.<sent>$
+
 ^Even/Even<adv>$
 ^where/where<rel><adv>$
 ^ancestor/ancestor<n><sg>$
@@ -138,7 +140,8 @@
 ^the/the<det><def><sp>$
 ^soul/soul<n><sg>$
 ^./.<sent>$
-^But/But<cnjcoo>$
+
+^But/but<cnjcoo>$
 ^all/all<prn><tn><mf><sp>$
 ^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
@@ -156,7 +159,8 @@
 ^the/the<det><def><sp>$
 ^dead/dead<adj>$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^soul/soul<n><sg>$
 ^may/may<vbmod><inf>$
 ^return/return<vblex><inf>$
@@ -165,7 +169,7 @@
 ^its/its<det><pos><sp>$
 ^death/death<n><sg>$
 ^by/by<pr>$
-^helping/help<vblex><subs>$
+^helping/help<vblex><ger>$
 ^to/to<pr>$
 ^discover/discover<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -178,6 +182,7 @@
 ^for/for<pr>$
 ^itself/itself<prn><ref><p3><nt><sg>$
 ^./.<sent>$
+
 ^There/There<adv>$
 ^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
@@ -204,8 +209,9 @@
 ^haunted/haunted<adj>$
 ^spot/spot<n><sg>$
 ^./.<sent>$
+
 ^In/In<pr>$
-^Malay/malay<adj>$
+^Malay/Malay<adj>$
 ^folklore/folklore<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -228,6 +234,7 @@
 ^of/of<pr>$
 ^human beings/human being<n><pl>$
 ^./.<sent>$
+
 ^People/Person<n><pl>$
 ^resort to/resort<vblex><pres># to$
 ^magical/magical<adj>$
@@ -235,7 +242,7 @@
 ^religious/religious<adj>$
 ^means/means<n><pl>$
 ^of/of<pr>$
-^repelling/repel<vblex><subs>$
+^repelling/repel<vblex><ger>$
 ^spiritual/spiritual<adj>$
 ^dangers/danger<n><pl>$
 ^from/from<pr>$
@@ -243,7 +250,8 @@
 ^malignant/malignant<adj>$
 ^spirits/spirit<n><pl>$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^practice/practice<n><sg>$
 ^of/of<pr>$
 ^head/head<n><sg>$
@@ -272,7 +280,7 @@
 ^the/the<det><def><sp>$
 ^nemesis/*nemesis$
 ^of/of<pr>$
-^one/one<prn><tn><mf><pl>$
+^one/one<prn><tn><mf><sg>$
 ^'s/'s<gen>$
 ^being/being<n><sg>$
 ^,/,<cm>$
@@ -289,7 +297,8 @@
 ^slain/*slain$
 ^bodies/body<n><pl>$
 ^./.<sent>$
-^After/After<pr>$
+
+^After/after<cnjadv>$
 ^the/the<det><def><sp>$
 ^spirit/spirit<n><sg>$
 ^transmigrates/*transmigrates$
@@ -311,7 +320,8 @@
 ^exact/exact<adj>$
 ^revenge/revenge<n><sg>$
 ^./.<sent>$
-^However/However<adv>$
+
+^However/however<adv>$
 ^,/,<cm>$
 ^many/many<det><qnt><pl>$
 ^mythologies/mythology<n><pl>$
@@ -334,7 +344,8 @@
 ^entirely/entirely<adv>$
 ^absent/absent<adj>$
 ^./.<sent>$
-^Stories/Story<n><pl>$
+
+^Stories/story<n><pl>$
 ^of/of<pr>$
 ^transformation/transformation<n><sg>$
 ^,/,<cm>$
@@ -358,7 +369,8 @@
 ^animistic/*animistic$
 ^basis/basis<n><sg>$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^term/term<n><sg>$
 "
 ^animism/animism<n><sg>$
@@ -372,9 +384,10 @@
 ^philosophical/philosophical<adj>$
 ^systems/system<n><pl>$
 ^./.<sent>$
-^It/Prpers<prn><subj><p3><nt><sg>$
-^is used to/be<vblex><pres><p3><sg># used to$
-^describe/describe<vblex><inf>$
+
+^It/prpers<prn><subj><p3><nt><sg>$
+^is used to/be<vblex><pri><p3><sg># used to$
+^describe/describe<vblex><pres>$
 ^Aristotle/Aristotle<np><ant><m><sg>$
 ^'s/'s<gen>$
 ^view/view<n><sg>$
@@ -393,7 +406,8 @@
 ^and/and<cnjcoo>$
 ^Scholastics/*Scholastics$
 ^./.<sent>$
-^On the other hand/On the other hand<adv>$
+
+^On the other hand/on the other hand<adv>$
 ^monadology/*monadology$
 ^(/(<lpar>$
 ^Leibniz/Leibniz<np><cog><sg>$
@@ -404,7 +418,8 @@
 ^termed/term<vblex><pp>$
 ^animistic/*animistic$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^name/name<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^most/most<det><qnt><sp>$
@@ -472,11 +487,12 @@
 ^guides/guide<vblex><pres><p3><sg>$
 ^energy/energy<n><sg>$
 ^without/without<pr>$
-^altering/alter<vblex><subs>$
+^altering/alter<vblex><ger>$
 ^its/its<det><pos><sp>$
 ^amount/amount<n><sg>$
 ^./.<sent>$
-^An/A<det><ind><sg>$
+
+^An/a<det><ind><sg>$
 ^entirely/entirely<adv>$
 ^different/different<adj>$
 ^class/class<n><sg>$
@@ -507,7 +523,8 @@
 ^and/and<cnjcoo>$
 ^others/others<prn><tn><mf><pl>$
 ^./.<sent>$
-^There/There<adv>$
+
+^There/there<adv>$
 ^are/be<vbser><pres>$
 ^some/some<det><qnt><sp>$
 ^Hindu/*Hindu$
@@ -518,7 +535,8 @@
 ^considered/consider<vblex><pp>$
 ^animist/*animist$
 ^./.<sent>$
-^The/The<det><def><sp>$
+
+^The/the<det><def><sp>$
 ^coastal/coastal<adj>$
 ^Karnataka/*Karnataka$
 ^has/have<vblex><pres><p3><sg>$
@@ -526,7 +544,7 @@
 ^different/different<adj>$
 ^tradition/tradition<n><sg>$
 ^of/of<pr>$
-^praying/pray<vblex><subs>$
+^praying/pray<vblex><ger>$
 ^the/the<det><def><sp>$
 ^spirits/spirit<n><pl>$
 ^for/for<pr>$

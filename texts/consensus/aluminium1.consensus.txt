@@ -1,4 +1,4 @@
-^Aluminium/Aluminium<n><sg>$
+^Aluminium/aluminium<n><sg>$
 ^alloys/alloy<n><pl>$
 ^with/with<pr>$
 ^a/a<det><ind><sg>$
@@ -13,7 +13,7 @@
 ^structures/structure<n><pl>$
 ^./.<sent>$
 
-^One/One<num><sg>$
+^One/one<num><sg>$
 ^important/important<adj>$
 ^structural/structural<adj>$
 ^limitation/limitation<n><sg>$
@@ -75,7 +75,7 @@
 ^life/life<n><sg>$
 ^./.<sent>$
 
-^Workshop/Workshop<n><sg>$
+^Workshop/workshop<n><sg>$
 ^procedures/procedure<n><pl>$
 ^involving/involve<vblex><pprs>$
 ^heating/heating<n><sg>$
@@ -98,7 +98,7 @@
 ^red/red<adj><sint>$
 ^./.<sent>$
 
-^Forming/Form<vblex><pprs>$
+^Forming/form<vblex><ger>$
 ^operations/operation<n><pl>$
 ^where/where<rel><adv>$
 ^a/a<det><ind><sg>$
@@ -125,7 +125,7 @@
 ^melting/melt<vblex><subs>$
 ^./.<sent>$
 
-^Aluminium/Aluminium<n><sg>$
+^Aluminium/aluminium<n><sg>$
 ^alloys/alloy<n><pl>$
 ^,/,<cm>$
 ^like/like<pr>$
@@ -143,13 +143,12 @@
 ^heating/heat<vblex><subs>$
 ^operations/operation<n><pl>$
 ^such as/such as<pr>$
-^such as/such as<adv>$
-^welding/*welding$
+^welding/welding<n><sg>$
 ^and/and<cnjcoo>$
 ^casting/casting<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^problem/problem<n><sg>$
 ^with/with<pr>$
 ^aluminium/aluminium<n><sg>$
@@ -163,7 +162,7 @@
 ^which/which<rel><an><mf><sp>$
 ^make/make<vblex><pres>$
 ^them/prpers<prn><obj><p3><mf><pl>$
-^more/more<det><qnt><sp>$
+^more/more<preadv>$
 ^susceptible/susceptible<adj>$
 ^to/to<pr>$
 ^distortions/distortion<n><pl>$
@@ -174,7 +173,7 @@
 ^relief/relief<n><sg>$
 ^./.<sent>$
 
-^Controlled/Control<vblex><pp>$
+^Controlled/control<vblex><pp>$
 ^stress/stress<n><sg>$
 ^relief/relief<n><sg>$
 ^can/can<vbmod><pres>$
@@ -185,7 +184,7 @@
 ^by/by<pr>$
 ^heat/heat<n><sg>$
 ^-/-<guio>$
-^treating/treat<vblex><subs>$
+^treating/treat<vblex><ger>$
 ^the/the<det><def><sp>$
 ^parts/part<n><pl>$
 ^in/in<pr>$
@@ -204,7 +203,7 @@
 ^stresses/stress<n><pl>$
 ^./.<sent>$
 
-^Compared/Compare<vblex><pp>$
+^Compared/compare<vblex><pp>$
 ^to/to<pr>$
 ^copper/copper<n><sg>$
 ^,/,<cm>$
@@ -225,7 +224,7 @@
 ^weight/weight<n><sg>$
 ^./.<sent>$
 
-^Traditionally/Traditionally<adv>$
+^Traditionally/traditionally<adv>$
 ^copper/copper<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^used/use<vblex><pp>$
@@ -235,7 +234,7 @@
 ^material/material<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^1960s/1960s<n><pl>$
 ^aluminium/aluminium<n><sg>$
@@ -258,8 +257,8 @@
 ^United States/United States<np><top><pl>$
 ^,/,<cm>$
 ^even though/even though<cnjadv>$
-^many/many<prn><ind><mf><pl>$
-^fixtures/*fixtures$
+^many/many<det><qnt><mf><pl>$
+^fixtures/fixtures<n><pl>$
 ^had/have<vbhaver><past>$
 ^not/not<adv>$
 ^been/be<vbser><pp>$
@@ -302,7 +301,7 @@
 ^connection/connection<n><sg>$
 ^./.<sent>$
 
-^Also/Also<adv>$
+^Also/also<adv>$
 ^,/,<cm>$
 ^pure/pure<adj><sint>$
 ^aluminium/aluminium<n><sg>$
@@ -310,7 +309,7 @@
 ^a/a<det><ind><sg>$
 ^tendency/tendency<n><sg>$
 ^to/to<pr>$
-^creep/*creep$
+^creep/creep<vblex><inf>$
 ^under/under<pr>$
 ^steady/steady<adj><sint>$
 ^sustained/sustain<vblex><pp>$
@@ -332,10 +331,10 @@
 ^connection/connection<n><sg>$
 ^./.<sent>$
 
-^Finally/Finally<adv>$
+^Finally/finally<adv>$
 ^,/,<cm>$
-^Galvanic/*Galvanic$
-^corrosion/*corrosion$
+^Galvanic/galvanic<adj>$
+^corrosion/corrosion<n><sg>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
 ^dissimilar/*dissimilar$
@@ -349,14 +348,14 @@
 ^connection/connection<n><sg>$
 ^./.<sent>$
 
-^All/All<prn><qnt><mf><sp>$
+^All/all<prn><qnt><mf><sp>$
 ^of/of<pr>$
 ^this/this<prn><dem><mf><sg>$
 ^resulted/result<vblex><past>$
 ^in/in<pr>$
-^overheated/*overheated$
+^overheated/overheat<vblex><pp>$
 ^and/and<cnjcoo>$
-^loose/*loose$
+^loose/loose<adj><sint>$
 ^connections/connection<n><pl>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
@@ -367,17 +366,17 @@
 ^fires/fire<n><pl>$
 ^./.<sent>$
 
-^Builders/Builder<n><pl>$
+^Builders/builder<n><pl>$
 ^then/then<cnjadv>$
 ^became/become<vblex><past>$
-^wary/*wary$
+^wary/wary<adj><sint>$
 ^of/of<pr>$
 ^using/use<vblex><ger>$
 ^the/the<det><def><sp>$
 ^wire/wire<n><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
-^many/many<prn><ind><mf><pl>$
+^many/many<det><qnt><mf><pl>$
 ^jurisdictions/jurisdiction<n><pl>$
 ^outlawed/*outlawed$
 ^its/its<prn><pos><mf><sp>$
@@ -390,12 +389,12 @@
 ^new/new<adj><sint>$
 ^construction/construction<n><sg>$
 ^./.<sent>$
-^Eventually/Eventually<adv>$
+^Eventually/eventually<adv>$
 ^,/,<cm>$
 ^newer/new<adj><sint><comp>$
 ^fixtures/*fixtures$
 ^were/be<vbser><past>$
-^introduced/introduce<vblex><past>$
+^introduced/introduce<vblex><pp>$
 ^with/with<pr>$
 ^connections/connection<n><pl>$
 ^designed/design<vblex><pp>$
@@ -406,7 +405,7 @@
 ^overheating/overheating<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^first/first<adj><ord>$
 ^generation/generation<n><sg>$
 ^fixtures/*fixtures$
@@ -421,7 +420,7 @@
 ^were/be<vbser><past>$
 ^ultimately/ultimately<adv>$
 ^found/find<vblex><pp>$
-^suitable/*suitable$
+^suitable/suitable<adj>$
 ^only/only<adv>$
 ^for/for<pr>$
 ^copper-clad/copper-clad<adj>$
@@ -452,7 +451,7 @@
 ^wire/wire<n><sg>$
 ^./.<sent>$
 
-^To/To<pr>$
+^To/to<pr>$
 ^adapt/adapt<vblex><inf>$
 ^older/old<adj><sint><comp>$
 ^assemblies/assembly<n><pl>$
@@ -467,7 +466,7 @@
 ^properly/properly<adv>$
 ^-/-<guio>$
 ^done/done<adj>$
-^crimp/crimp<vblex><inf>$
+^crimp/crimp<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^aluminium/aluminium<n><sg>$
@@ -483,7 +482,7 @@
 ^wire/wire<n><sg>$
 ^./.<sent>$
 
-^Today/Today<adv>$
+^Today/today<adv>$
 ^,/,<cm>$
 ^new/new<adj><sint>$
 ^alloys/alloy<n><pl>$

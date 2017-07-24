@@ -31,7 +31,7 @@
 ^./.<sent>$
 
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^19th/19<num><ord>$
 ^century/century<n><sg>$
@@ -48,7 +48,7 @@
 ^Julius/Julius<np><ant><m><sg>$
 ^Caesar/*Caesar$
 ^,/,<cm>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^written/write<vblex><pp>$
 ^in/in<pr>$
 ^Caesar/*Caesar$
@@ -59,7 +59,7 @@
 ^Gallico/*Gallico$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^57/57<num>$
 ^BC/*BC$
 ^Julius/Julius<np><ant><m><sg>$
@@ -85,7 +85,7 @@
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^Rhine/*Rhine$
-^River/River<n><sg>$
+^River/river<n><sg>$
 ^;/;<sent>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
@@ -100,7 +100,7 @@
 ^./.<sent>$
 
 
-^There/There<adv>$
+^There/there<adv>$
 ^were/be<vbser><past>$
 ^several/several<det><ind><pl>$
 ^tribes/tribe<n><pl>$
@@ -116,7 +116,7 @@
 ^./.<sent>$
 
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Eburones/*Eburones$
 ^were/be<vbser><past>$
 ^ruled/rule<vblex><pp>$
@@ -127,7 +127,7 @@
 ^./.<sent>$
 
 
-^In/In<pr>$
+^In/in<pr>$
 ^54/54<num>$
 ^BC/*BC$
 ^Caesar/*Caesar$
@@ -212,7 +212,7 @@
 ^Eburones/*Eburones$
 ^./.<sent>$
 
-^Because/Because<cnjadv>$
+^Because/because<cnjadv>$
 ^a/a<det><ind><sg>$
 ^drought/drought<n><sg>$
 ^had/have<vbhaver><past>$
@@ -290,7 +290,7 @@
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^to/to<pr>$
 ^flee/flee<vblex><inf>$
-^as/as<pr>$
+^as/as<cnjsub>$
 ^a/a<det><ind><sg>$
 ^large/large<adj><sint>$
 ^Germanic/germanic<adj>$
@@ -304,7 +304,7 @@
 ^./.<sent>$
 
 
-^Trusting/Trust<vblex><ger>$
+^Trusting/trust<vblex><ger>$
 ^Ambiorix/*Ambiorix$
 ^,/,<cm>$
 ^Sabinus/*Sabinus$
@@ -319,7 +319,7 @@
 ^./.<sent>$
 
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^short/short<adj><sint>$
 ^distance/distance<n><sg>$
 ^from/from<pr>$
@@ -338,7 +338,7 @@
 ^massacred/*massacred$
 ^./.<sent>$
 
-^Elsewhere/Elsewhere<adv>$
+^Elsewhere/elsewhere<adv>$
 ^,/,<cm>$
 ^another/another<det><ind><sg>$
 ^Roman/Roman<adj>$
@@ -360,7 +360,7 @@
 ^./.<sent>$
 
 
-^Leading/Lead<vblex><ger>$
+^Leading/lead<vblex><pprs>$
 ^a/a<det><ind><sg>$
 ^coalition/coalition<n><sg>$
 ^of/of<pr>$
@@ -418,7 +418,7 @@
 ^./.<sent>$
 
 
-^As/As<pr>$
+^As/as<cnjadv>$
 ^they/prpers<prn><subj><p3><mf><pl>$
 ^approached/approach<vblex><past>$
 ^the/the<det><def><sp>$
@@ -486,7 +486,7 @@
 ^./.<sent>$
 
 
-^Later/Later<adv>$
+^Later/later<adv>$
 ^,/,<cm>$
 ^Caesar/*Caesar$
  ^'s/'s<gen>$
@@ -501,10 +501,10 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^men/man<n><pl>$
-^wounded/wound<vblex><pp>$
+^wounded/wound<vblex><adj>$
 ^./.<sent>$
 
-^Meanwhile/Meanwhile<adv>$
+^Meanwhile/meanwhile<adv>$
 ^,/,<cm>$
 ^Indutiomarus/*Indutiomarus$
 ^,/,<cm>$
@@ -598,7 +598,7 @@
 ^./.<sent>$
 
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^very/very<preadv>$
 ^important/important<adj>$
@@ -621,7 +621,7 @@
 ^./.<sent>$
 
 
-^After all/After all<adv>$
+^After all/after all<adv>$
 ^,/,<cm>$
 ^Ambiorix/*Ambiorix$
 ^had/have<vbhaver><past>$
@@ -632,11 +632,11 @@
 ^legion/legion<n><sg>$
 ^and/and<cnjcoo>$
 ^five/five<num><sp>$
-^cohorts/*cohorts$
+^cohorts/cohort<n><pl>$
 ^./.<sent>$
 
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^Belgic/*Belgic$
 ^attack/attack<n><sg>$
 ^on/on<pr>$
@@ -649,7 +649,7 @@
 ^orator/orator<n><sg>$
 ^)/)<rpar>$
 ^,/,<cm>$
-^then/then<adv>$
+^then/then<cnjadv>$
 ^stationed/*stationed$
 ^with/with<pr>$
 ^a/a<det><ind><sg>$
@@ -696,7 +696,7 @@
 ^./.<sent>$
 
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^tribes/tribe<n><pl>$
 ^were/be<vbser><past>$
 ^slaughtered/*slaughtered$
@@ -710,7 +710,7 @@
 ^./.<sent>$
 
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Eburones/*Eburones$
 ^were/be<vbser><past>$
 ^history/history<n><sg>$
@@ -720,7 +720,7 @@
 ^./.<sent>$
 
 
-^According/According<pr>$
+^According/according<pr>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^writer/writer<n><sg>$
