@@ -3436,7 +3436,7 @@
   <section id="main" type="standard">
 
 <e lm="'s">     <i>'s</i><par n="'s__gen"/></e>
-<e lm="'s">     <p><l>'</l>        <r>'s<s n="gen"/></r></p></e>
+<e r="LR">      <p><l>'</l>        <r>'s<s n="gen"/></r></p></e>
 
 <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
 <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
