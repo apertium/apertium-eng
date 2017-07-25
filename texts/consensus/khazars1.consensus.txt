@@ -1,4 +1,4 @@
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^7th century CE/7th century CE<n><sg>$
 ^,/,<cm>$
@@ -10,15 +10,15 @@
 ^Khaganate/*Khaganate$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^Northern/Northern<adj>$
+^Northern/northern<adj>$
 ^Caucasus/*Caucasus$
 ^along/along<pr>$
 ^the/the<det><def><sp>$
 ^Caspian/*Caspian$
-^Sea/Sea<n><sg>$
+^Sea/sea<n><sg>$
 ^./.<sent>$
 
-^Although/Although<cnjadv>$
+^Although/although<cnjadv>$
 ^the/the<det><def><sp>$
 ^Khazars/*Khazars$
 ^were/be<vbser><past>$
@@ -37,7 +37,7 @@
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^Byzantine/byzantine<adj>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^and/and<cnjcoo>$
 ^successive/successive<adj>$
 ^Islamic/islamic<adj>$
@@ -58,7 +58,7 @@
 ^religion/religion<n><sg>$
 ^./.<sent>$
 
-^At/At<pr>$
+^At/at<pr>$
 ^their/their<det><pos><sp>$
 ^height/height<n><sg>$
 ^,/,<cm>$
@@ -88,7 +88,7 @@
 ^portions/portion<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Northern/Northern<adj>$
+^Northern/northern<adj>$
 ^Caucasus/*Caucasus$
 ^(/(<lpar>$
 ^Circassia/*Circassia$
@@ -132,7 +132,7 @@
 ^CE/*CE$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^collapse/collapse<n><sg>$
 ^of/of<pr>$
@@ -193,7 +193,7 @@
 ^empire/empire<n><sg>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^670/670<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -231,7 +231,7 @@
 ^River/River<n><sg>$
 ^./.<sent>$
 
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^7th and 8th centuries/7th and 8th centuries<n><pl>$
 ^the/the<det><def><sp>$
@@ -261,7 +261,7 @@
 ^Caucasus/*Caucasus$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^first/first<det><ord><sp>$
 ^war/war<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -311,7 +311,7 @@
 ^troops/troop<n><pl>$
 ^./.<sent>$
 
-^They/Prpers<prn><subj><p3><mf><pl>$
+^They/prpers<prn><subj><p3><mf><pl>$
 ^are/be<vbser><pres>$
 ^also/also<adv>$
 ^known/know<vblex><pp>$
@@ -322,7 +322,7 @@
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^Byzantine/byzantine<adj>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^during/during<pr>$
 ^at least/at least<adv>$
 ^part/part<n><sg>$
@@ -332,7 +332,7 @@
 ^century/century<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^704/704<num>$
 ^or/or<cnjcoo>$
 ^705/705<num>$
@@ -359,7 +359,7 @@
 ^Busir/*Busir$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^aid/aid<n><sg>$
 ^of/of<pr>$
@@ -404,7 +404,7 @@
 ^throne/throne<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Khazars/*Khazars$
 ^later/later<adv>$
 ^provided/provide<vblex><past>$
@@ -422,11 +422,11 @@
 ^in/in<pr>$
 ^711/711<num>$
 ^as/as<cnjadv>$
-^Emperor/Emperor<n><sg>$
+^Emperor/emperor<n><sg>$
 ^Philippicus/*Philippicus$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Byzantine/byzantine<adj>$
 ^emperor/emperor<n><sg>$
 ^Leo III/Leo III<np><ant><m><sg>$
@@ -498,7 +498,7 @@
 ^tzitzakion/*tzitzakion$
 ^./.<sent>$
 
-^Their/Their<det><pos><sp>$
+^Their/their<det><pos><sp>$
 ^son/son<n><sg>$
 ^Leo/Leo<np><ant><m><sg>$
 ^(/(<lpar>$
@@ -516,7 +516,7 @@
 "
 ^./.<sent>$
 
-^Originally/Originally<adv>$
+^Originally/originally<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Khazars/*Khazars$
@@ -547,12 +547,12 @@
 ^that/that<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Mandate/Mandate<n><sg>$
+^Mandate/mandate<n><sg>$
 ^of/of<pr>$
 ^Heaven/Heaven<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Ashina/*Ashina$
 ^clan/clan<n><sg>$
 ^were/be<vbser><past>$
@@ -582,7 +582,7 @@
 ^Turks/*Turks$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^kaghan/*kaghan$
 ^who/who<rel><an><mf><sp>$
 ^failed/fail<vblex><past>$
@@ -632,7 +632,7 @@
 ^religions/religion<n><pl>$
 ^./.<sent>$
 
-^Essays/Essay<n><pl>$
+^Essays/essay<n><pl>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^Kuzari/*Kuzari$
@@ -683,7 +683,7 @@
 ^empire/empire<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^between/between<pr>$
-^growing/grow<vblex><pprs>$
+^growing/grow<vblex><ger>$
 ^populations/population<n><pl>$
 ^,/,<cm>$
 ^Muslims/Muslim<n><pl>$
@@ -697,7 +697,7 @@
 ^west/west<n><sg>$
 ^./.<sent>$
 
-^Both/Both<det><ind><pl>$
+^Both/both<det><ind><pl>$
 ^religions/religion<n><pl>$
 ^recognised/recognise<vblex><past>$
 ^Judaism/Judaism<n><sg>$
@@ -710,7 +710,7 @@
 ^respect/respect<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^exact/exact<adj>$
 ^date/date<n><sg>$
 ^of/of<pr>$
@@ -739,7 +739,7 @@
 ^800s/800s<num>$
 ^./.<sent>$
 
-^Recently/Recently<adv>$
+^Recently/recently<adv>$
 ^discovered/discover<vblex><pp>$
 ^numismatic/*numismatic$
 ^evidence/evidence<n><sg>$
@@ -797,7 +797,7 @@
 ^name/name<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^rabbi/*rabbi$
+^rabbi/rabbi<n><sg>$
 ^who/who<rel><an><mf><sp>$
 ^oversaw/*oversaw$
 ^the/the<det><def><sp>$
@@ -815,7 +815,7 @@
 ^Sangari/*Sangari$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^first/first<det><ord><sp>$
 ^Jewish/jewish<adj>$
 ^Khazar/*Khazar$
@@ -850,7 +850,7 @@
 ^Judaism/Judaism<n><sg>$
 ^,/,<cm>$
 ^inviting/invite<vblex><ger>$
-^rabbis/*rabbis$
+^rabbis/rabbi<n><pl>$
 ^into/into<pr>$
 ^the/the<det><def><sp>$
 ^kingdom/kingdom<n><sg>$
@@ -903,7 +903,7 @@
 ^proposed/propose<vblex><pp>$
 ^./.<sent>$
 
-^Likewise/Likewise<adv>$
+^Likewise/likewise<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Khazar/*Khazar$
@@ -912,7 +912,7 @@
 ^themselves/themselves<prn><ref><p3><mf><pl>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
-^protectors/*protectors$
+^protectors/protector<n><pl>$
 ^of/of<pr>$
 ^international/international<adj>$
 ^Jewry/*Jewry$
@@ -934,7 +934,7 @@
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Spanish/spanish<adj>$
-^rabbi/*rabbi$
+^rabbi/rabbi<n><sg>$
 ^Hasdai/*Hasdai$
 ^ibn/*ibn$
 ^Shaprut/*Shaprut$
@@ -944,7 +944,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^They/Prpers<prn><subj><p3><mf><pl>$
+^They/prpers<prn><subj><p3><mf><pl>$
 ^were/be<vbser><past>$
 ^known/know<vblex><pp>$
 ^to/to<pr>$
@@ -1043,7 +1043,7 @@
 ^lands/land<n><pl>$
 ^./.<sent>$
 
-^Similarly/Similarly<adv>$
+^Similarly/similarly<adv>$
 ^,/,<cm>$
 ^during/during<pr>$
 ^the/the<det><def><sp>$
@@ -1060,7 +1060,7 @@
 ^government/government<n><sg>$
 ^retaliated/*retaliated$
 ^by/by<pr>$
-^attacking/attack<vblex><subs>$
+^attacking/attack<vblex><ger>$
 ^Byzantine/byzantine<adj>$
 ^interests/interest<n><pl>$
 ^in/in<pr>$
@@ -1068,7 +1068,7 @@
 ^Crimea/*Crimea$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^Greek/greek<adj>$
 ^Orthodox/orthodox<adj>$
 ^bishop/bishop<n><sg>$
@@ -1078,18 +1078,18 @@
 ^Atil/*Atil$
 ^and/and<cnjcoo>$
 ^was/be<vbser><past><p3><sg>$
-^subject/subject<n><sg>$
+^subject/subject<adj>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^authority/authority<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Metropolitan/Metropolitan<adj>$
+^Metropolitan/metropolitan<adj>$
 ^of/of<pr>$
 ^Doros/*Doros$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 "
 ^apostle/apostle<n><sg>$
 ^of/of<pr>$
@@ -1110,7 +1110,7 @@
 ^of/of<pr>$
 ^Khazars/*Khazars$
 ^without/without<pr>$
-^enduring/endure<vblex><subs>$
+^enduring/enduring<adj>$
 ^results/result<n><pl>$
 ^./.<sent>$
 
@@ -1127,7 +1127,7 @@
 ^mosques/mosque<n><pl>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^Muslim/muslim<adj>$
 ^officer/officer<n><sg>$
 ^,/,<cm>$
@@ -1155,7 +1155,7 @@
 ^Itil/*Itil$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Khagan/*Khagan$
 ^'s/'s<gen>$
 ^palace/palace<n><sg>$
@@ -1174,7 +1174,7 @@
 ^River/River<n><sg>$
 ^./.<sent>$
 
-^He/Prpers<prn><subj><p3><m><sg>$
+^He/prpers<prn><subj><p3><m><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^reported/report<vblex><pp>$
 ^to/to<pr>$
@@ -1191,7 +1191,7 @@
 ^ruler/ruler<n><sg>$
 ^;/;<sent>$
 ^this/this<prn><tn><mf><sg>$
-^may/may<vbmod><inf>$
+^may/may<vbmod><pres>$
 ^,/,<cm>$
 ^however/however<adv>$
 ^,/,<cm>$
@@ -1201,10 +1201,10 @@
 ^exaggeration/exaggeration<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^Khazar/*Khazar$
-^Correspondence/Correspondence<n><sg>$
+^Correspondence/correspondence<n><sg>$
 ^,/,<cm>$
 ^King/King<n><sg>$
 ^Joseph/Joseph<np><ant><m><sg>$
@@ -1250,12 +1250,12 @@
 ^probable/probable<adj>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^according to/according to<pr>$
 ^the/the<det><def><sp>$
 ^Schechter/*Schechter$
-^Letter/Letter<n><sg>$
+^Letter/letter<n><sg>$
 ^,/,<cm>$
 ^king/king<n><sg>$
 ^Joseph/Joseph<np><ant><m><sg>$
@@ -1266,7 +1266,7 @@
 ^Khagan/*Khagan$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^third/third<det><ord><sp>$
 ^option/option<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
@@ -1276,7 +1276,7 @@
 ^time/time<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Correspondence/Correspondence<n><sg>$
+^Correspondence/correspondence<n><sg>$
 ^(/(<lpar>$
 ^c./*c.$
 ^950/950<num>$
@@ -1307,7 +1307,7 @@
 ^or vice versa/or vice versa<adv>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Khazar/*Khazar$
 ^dual/dual<adj>$
 ^kingship/*kingship$
@@ -1354,14 +1354,14 @@
 ^and/and<cnjcoo>$
 ^commanded/command<vblex><pp>$
 ^by/by<pr>$
-^subordinate/subordinate<vblex><inf>$
+^subordinate/subordinate<adj>$
 ^officers/officer<n><pl>$
 ^known/known<adj>$
 ^as/as<pr>$
 ^tarkhans/*tarkhans$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Khazar/*Khazar$
 ^Khaganate/*Khaganate$
 ^was/be<vbser><past><p3><sg>$
@@ -1376,7 +1376,7 @@
 ^state/state<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Khazar/*Khazar$
 ^heartland/*heartland$
 ^was/be<vbser><past><p3><sg>$
@@ -1395,7 +1395,7 @@
 ^Derbent/*Derbent$
 ^./.<sent>$
 
-^In addition/In addition<adv>$
+^In addition/in addition<adv>$
 ^,/,<cm>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
@@ -1417,7 +1417,7 @@
 ^Sea/Sea<n><sg>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^800/800<num>$
 ^Khazar/*Khazar$
 ^holdings/holding<n><pl>$
@@ -1451,16 +1451,16 @@
 ^sphere/sphere<n><sg>$
 ^of/of<pr>$
 ^influence/influence<n><sg>$
-^extending/extend<vblex><pprs>$
+^extending/extend<vblex><ger>$
 ^well/well<adv>$
-^east/east<n><sg>$
+^east/east<adv>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Aral/*Aral$
 ^)/)<rpar>$
 ^./.<sent>$
 
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^Khazar/*Khazar$
 ^-/-<guio>$
@@ -1487,7 +1487,7 @@
 ^remained/remain<vblex><pp>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Pechenegs/*Pechenegs$
 ^;/;<sent>$
 ^the/the<det><def><sp>$
@@ -1520,11 +1520,11 @@
 ^various/various<det><ind><pl>$
 ^early/early<adj><sint>$
 ^Rus/*Rus$
-^'/'<apos>$
+^'/'<gen>$
 ^polities/*polities$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^ninth/ninth<det><ord><sp>$
 ^century/century<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
@@ -1557,7 +1557,7 @@
 ^contacts/contact<n><pl>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -1611,10 +1611,10 @@
 ^wars/war<n><pl>$
 ^against/against<pr>$
 ^Rus/*Rus$
-^invaders/*invaders$
+^invaders/invader<n><pl>$
 ^./.<sent>$
 
-^From the beginning/From the beginning<adv>$
+^From the beginning/from the beginning<adv>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^tenth/tenth<det><ord><sp>$

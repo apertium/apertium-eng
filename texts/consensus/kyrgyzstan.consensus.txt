@@ -1,4 +1,4 @@
-^In/In<pr>$
+^In/in<pr>$
 ^June/June<n><sg>$
 ^1990/1990<num>$
 ^,/,<cm>$
@@ -41,7 +41,7 @@
 ^introduced/introduce<vblex><pp>$
 ^./.<sent>$
 
-^Order/Order<n><sg>$
+^Order/order<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^not/not<adv>$
 ^restored/restore<vblex><pp>$
@@ -77,7 +77,7 @@
 ^Kyrgyzstan/*Kyrgyzstan$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^the/the<det><def><sp>$
 ^coup/coup<n><sg>$
 ^collapsed/collapse<vblex><past>$
@@ -87,7 +87,7 @@
 ^,/,<cm>$
 ^Akayev/*Akayev$
 ^and/and<cnjcoo>$
-^Vice President/Vice president<n><sg>$
+^Vice President/vice president<n><sg>$
 ^German/German<np><ant><m><sg>$
 ^Kuznetsov/*Kuznetsov$
 ^announced/announce<vblex><past>$
@@ -95,14 +95,14 @@
 ^resignations/resignation<n><pl>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
-^Communist/Communist<adj>$
-^Party/Party<n><sg>$
+^Communist/communist<adj>$
+^Party/party<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^(/(<lpar>$
-^CPSU/*CPSU$
+^CPSU/CPSU<n><acr><sp>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
@@ -114,15 +114,15 @@
 ^resigned/resign<vblex><past>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$
+^This/this<prn><tn><mf><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^followed/follow<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
-^Supreme/Supreme<adj>$
+^Supreme/supreme<adj>$
 ^Soviet/soviet<adj>$
 ^vote/vote<n><sg>$
-^declaring/declare<vblex><pprs>$
+^declaring/declare<vblex><ger>$
 ^independence/independence<n><sg>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
@@ -147,7 +147,7 @@
 ^1991/1991<num>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^December/December<n><sg>$
 ^2001/2001<num>$
 ^,/,<cm>$
@@ -165,7 +165,7 @@
 ^status/status<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^terrain/terrain<n><sg>$
 ^of/of<pr>$
 ^Kyrgyzstan/*Kyrgyzstan$
@@ -191,7 +191,7 @@
 ^territory/territory<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Alay/*Alay$
 ^range/range<n><sg>$
 ^portion/portion<n><sg>$
@@ -229,7 +229,7 @@
 ^and/and<cnjcoo>$
 ^China/China<np><top><sg>$
 ^before/before<cnjadv>$
-^extending/extend<vblex><subs>$
+^extending/extend<vblex><ger>$
 ^farther/far<adj><sint><comp>$
 ^east/east<n><sg>$
 ^into/into<pr>$
@@ -237,8 +237,8 @@
 ^'s/'s<gen>$
 ^Xinjiang/*Xinjiang$
 ^Uygur/*Uygur$
-^Autonomous/Autonomous<adj>$
-^Region/Region<n><sg>$
+^Autonomous/autonomous<adj>$
+^Region/region<n><sg>$
 ^./.<sent>$
 
 ^Kyrgyzstan/*Kyrgyzstan$
@@ -254,7 +254,7 @@
 ^7,439/7,439<num>$
 ^metres/metre<n><pl>$
 ^at/at<pr>$
-^Peak/Peak<n><sg>$
+^Peak/peak<n><sg>$
 ^Jengish/*Jengish$
 ^Chokusu/*Chokusu$
 ^to/to<pr>$
@@ -268,7 +268,7 @@
 ^Osh/*Osh$
 ^./.<sent>$
 
-^Almost/Almost<adv>$
+^Almost/almost<adv>$
 ^90%/90%<num><percent>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -279,10 +279,10 @@
 ^metres above sea level/metre<n><pl># above sea level$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^towns/town<n><pl>$
 ^,/,<cm>$
-^wastewater/*wastewater$
+^wastewater/wastewater<n><sg>$
 ^collection/collection<n><sg>$
 ^provides/provide<vblex><pres><p3><sg>$
 ^about/about<pr>$
@@ -292,7 +292,7 @@
 ^water supply/water supply<n><sg>$
 ^./.<sent>$
 
-^Although/Although<cnjadv>$
+^Although/although<cnjadv>$
 ^towns/town<n><pl>$
 ^have/have<vblex><pres>$
 ^biological/biological<adj>$
@@ -310,7 +310,7 @@
 ^ineffective/ineffective<adj>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^major/major<adj>$
 ^sources/source<n><pl>$
 ^of/of<pr>$
@@ -360,9 +360,9 @@
 ^Kara/Kara<np><ant><f><sg>$
 ^-/-<guio>$
 ^Balta/*Balta$
-^Uranium/Uranium<n><sg>$
-^Recovery/Recovery<n><sg>$
-^Plant/Plant<n><sg>$
+^Uranium/uranium<n><sg>$
+^Recovery/recovery<n><sg>$
+^Plant/plant<n><sg>$
 ^;/;<sent>$
 ^the/the<det><def><sp>$
 ^Min/*Min$
@@ -375,15 +375,15 @@
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Kyrgyz/*Kyrgyz$
-^Mining/Mining<adj>$
+^Mining/mining<adj>$
 ^and/and<cnjcoo>$
-^Metallurgy/Metallurgy<n><sg>$
-^Plant/Plant<n><sg>$
+^Metallurgy/metallurgy<n><sg>$
+^Plant/plant<n><sg>$
 ^at/at<pr>$
 ^Orlovka/*Orlovka$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^name/name<n><sg>$
 ^Kyrgyz/*Kyrgyz$
 ^,/,<cm>$
@@ -436,7 +436,7 @@
 ^Kyrgyzstan/*Kyrgyzstan$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^first/first<det><ord><sp>$
 ^years/year<n><pl>$
@@ -446,7 +446,7 @@
 ^full/full<adj><sint>$
 ^independence/independence<n><sg>$
 ^,/,<cm>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^Askar/*Askar$
 ^Akayev/*Akayev$
 ^appeared/appear<vblex><past>$
@@ -458,11 +458,11 @@
 ^process/process<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^despite/despite<pr>$
 ^the/the<det><def><sp>$
-^backing/back<vblex><subs>$
+^backing/backing<n><sg>$
 ^of/of<pr>$
 ^major/major<adj>$
 ^Western/Western<adj>$
@@ -472,7 +472,7 @@
 ^the/the<det><def><sp>$
 ^International Monetary Fund/International Monetary Fund<np><al><sg>$
 ^(/(<lpar>$
-^IMF/*IMF$
+^IMF/IMF<n><acr><sp>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^Kyrgyzstan/*Kyrgyzstan$
@@ -485,7 +485,7 @@
 ^outset/outset<n><sg>$
 ^./.<sent>$
 
-^These/This<prn><tn><mf><pl>$
+^These/this<prn><tn><mf><pl>$
 ^came/come<vblex><past>$
 ^mainly/mainly<adv>$
 ^as a result of/as a result of<pr>$
@@ -511,7 +511,7 @@
 ^market economy/market economy<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1993/1993<num>$
 ^,/,<cm>$
 ^allegations/allegation<n><pl>$
@@ -522,7 +522,7 @@
 ^'s/'s<gen>$
 ^closest/close<adj><sint><sup>$
 ^political/political<adj>$
-^associates/associate<vblex><pres><p3><sg>$
+^associates/associate<n><pl>$
 ^blossomed/*blossomed$
 ^into/into<pr>$
 ^a/a<det><ind><sg>$
@@ -530,14 +530,14 @@
 ^scandal/scandal<n><sg>$
 ^./.<sent>$
 
-^One/One<prn><tn><mf><sg>$
+^One/one<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^those/that<prn><tn><mf><pl>$
 ^accused/accuse<vblex><pp>$
 ^of/of<pr>$
 ^improprieties/impropriety<n><pl>$
 ^was/be<vbser><past><p3><sg>$
-^Vice President/Vice president<n><sg>$
+^Vice President/vice president<n><sg>$
 ^Feliks/*Feliks$
 ^Kulov/*Kulov$
 ^,/,<cm>$
@@ -577,7 +577,7 @@
 ^one/one<prn><tn><mf><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^January/January<n><sg>$
 ^1994/1994<num>$
 ^,/,<cm>$
@@ -613,7 +613,7 @@
 ^overwhelmingly/*overwhelmingly$
 ^to/to<pr>$
 ^other/other<det><ind><sp>$
-^CIS/*CIS$
+^CIS/CIS<n><acr><sp>$
 ^countries/country<n><pl>$
 ^,/,<cm>$
 ^are/be<vbser><pres>$
@@ -638,7 +638,7 @@
 ^goods/good<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^turn/turn<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -650,7 +650,7 @@
 ^Soviet/soviet<adj>$
 ^states/state<n><pl>$
 ^for/for<pr>$
-^petroleum/*petroleum$
+^petroleum/petroleum<n><sg>$
 ^and/and<cnjcoo>$
 ^natural/natural<adj>$
 ^gas/gas<n><sg>$
@@ -677,7 +677,7 @@
 ^materials/material<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1999/1999<num>$
 ^,/,<cm>$
 ^Kyrgyz/*Kyrgyz$
@@ -740,7 +740,7 @@
 ^US/US<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Kyrgyzstan/*Kyrgyzstan$
 ^Government/Government<n><sg>$
 ^has/have<vbhaver><pres><p3><sg>$
@@ -760,14 +760,14 @@
 ^tax/tax<n><sg>$
 ^./.<sent>$
 
-^Overall/Overall<adv>$
+^Overall/overall<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^government/government<n><sg>$
 ^appears/appear<vblex><pres><p3><sg>$
 ^committed/committed<adj>$
 ^to/to<pr>$
-^transferring/transfer<vblex><subs>$
+^transferring/transfer<vblex><ger>$
 ^to/to<pr>$
 ^a/a<det><ind><sg>$
 ^free/free<adj><sint>$
@@ -800,7 +800,7 @@
 ^accession/accession<n><sg>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
-^WTO/*WTO$
+^WTO/WTO<n><acr><sp>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
 ^20th/20<num><ord>$
@@ -809,13 +809,13 @@
 ^1998/1998<num>$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^support/support<n><sg>$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
 ^Asian/asian<adj>$
-^Development/Development<n><sg>$
-^Bank/Bank<n><sg>$
+^Development/development<n><sg>$
+^Bank/bank<n><sg>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
 ^major/major<adj>$
@@ -835,7 +835,7 @@
 ^completed/complete<vblex><pp>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$
+^This/this<prn><tn><mf><sg>$
 ^considerably/considerably<adv>$
 ^eases/ease<vblex><pres><p3><sg>$
 ^communication/communication<n><sg>$
@@ -851,14 +851,14 @@
 ^--/--<guio>$
 ^the/the<det><def><sp>$
 ^Chui/*Chui$
-^Valley/Valley<n><sg>$
+^Valley/valley<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^north/north<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^Fergana/*Fergana$
-^Valley/Valley<n><sg>$
+^Valley/valley<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^South/South<n><sg>$
@@ -879,13 +879,13 @@
 ^into/into<pr>$
 ^the/the<det><def><sp>$
 ^Talas/*Talas$
-^Valley/Valley<n><sg>$
+^Valley/valley<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^northwest/northwest<n><sg>$
 ^./.<sent>$
 
-^Plans/Plan<n><pl>$
+^Plans/plan<n><pl>$
 ^are/be<vbser><pres>$
 ^now/now<adv>$
 ^being/be<vbser><ger>$
@@ -906,14 +906,14 @@
 ^China/China<np><top><sg>$
 ^./.<sent>$
 
-^Frequent/Frequent<adj>$
+^Frequent/frequent<adj>$
 ^bus/bus<n><sg>$
 ^and/and<cnjcoo>$
 ^,/,<cm>$
-^more/more<det><qnt><sp>$
+^more/more<preadv>$
 ^commonly/commonly<adv>$
 ^,/,<cm>$
-^minibus/*minibus$
+^minibus/minibus<n><sg>$
 ^,/,<cm>$
 ^services/service<n><pl>$
 ^connect/connect<vblex><pres>$
@@ -923,7 +923,7 @@
 ^cities/city<n><pl>$
 ^./.<sent>$
 
-^Minibuses/*Minibuses$
+^Minibuses/minibus<n><pl>$
 ^provide/provide<vblex><pres>$
 ^public/public<adj>$
 ^transit/*transit$
@@ -933,7 +933,7 @@
 ^between/between<pr>$
 ^cities/city<n><pl>$
 ^to/to<pr>$
-^neighbouring/*neighbouring$
+^neighbouring/neighbouring<adj>$
 ^villages/village<n><pl>$
 ^./.<sent>$
 

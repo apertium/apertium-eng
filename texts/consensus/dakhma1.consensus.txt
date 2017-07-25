@@ -26,7 +26,7 @@
 ^structure/structure<n><sg>$
 ^used/use<vblex><pp>$
 ^by/by<pr>$
-^Zoroastrians/Zoroastrian<adj>s$
+^Zoroastrians/*Zoroastrians$
 ^for/for<pr>$
 ^exposure/exposure<n><sg>$
 ^of/of<pr>$
@@ -143,7 +143,7 @@
 ^the/the<det><def><sp>$
 ^texts/text<n><pl>$
 ^of/of<pr>$
-^both/both<cnjcoo>$
+^both/both<det><ind><pl>$
 ^India/India<np><top><sg>$
 ^and/and<cnjcoo>$
 ^Iran/Iran<np><top><sg>$
@@ -210,7 +210,7 @@
 ^and/and<cnjcoo>$
 ^nail/nail<n><sg>$
 ^-/-<guio>$
-^trimmings/*trimmings$
+^trimmings/trimming<n><pl>$
 ^—/—<guio>$
 ^to/to<pr>$
 ^be/be<vbser><inf>$
@@ -220,7 +220,7 @@
 ^,/,<cm>$
 ^i.e./i.e.<adv>$
 ^potential/potential<adj>$
-^pollutants/*pollutants$
+^pollutants/pollutant<n><pl>$
 ^./.<sent>$
 
 ^Specifically/specifically<adv>$
@@ -261,7 +261,7 @@
 ^has/have<vblex><pres><p3><sg>$
 ^rules/rule<n><pl>$
 ^for/for<pr>$
-^disposing/dispose<vblex><subs>$
+^disposing/dispose<vblex><ger>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^dead/dead<adj>$
@@ -282,7 +282,7 @@
 ^or/or<cnjcoo>$
 ^fire/fire<n><sg>$
 ^(/(<lpar>$
-^see/see<vblex><inf>/see<vblex><pres>$
+^see/see<vblex><imp>$
 ^Zam/*Zam$
 ^and/and<cnjcoo>$
 ^Atar/*Atar$
@@ -317,7 +317,7 @@
 ^birds/bird<n><pl>$
 ^./.<sent>$
 
-^Thus/thus<adv>/thus<cnjadv>$
+^Thus/thus<cnjadv>$
 ^,/,<cm>$
 "
 ^putrefaction/*putrefaction$
@@ -467,7 +467,7 @@
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
-^ritual/ritual<adj>/ritual<n><sg>$
+^ritual<n><sg>$
 ^precinct/*precinct$
 ^may/may<vbmod><inf>$
 ^be/be<vbser><inf>$
@@ -494,7 +494,7 @@
 ^)/)<rpar>$
 ^of/of<pr>$
 ^potential/potential<adj>$
-^pollutants/*pollutants$
+^pollutants/pollutant<n><pl>$
 ^(/(<lpar>$
 ^nasa/*nasa$^-/-<guio>$
 ^)/)<rpar>$
@@ -526,7 +526,7 @@
 ^vaguely/*vaguely$
 "
 ^that/that<cnjsub>$
-^these/this<det><dem><pl>$
+^these/this<prn><dem><pl>$
 ^first/first<det><ord><sp>$
 ^occurred/occur<vblex><past>$
 ^after/after<cnjadv>$
@@ -559,7 +559,7 @@
 ^Zoroastrian/Zoroastrian<adj>$
 ^priest/priest<n><sg>$
 ^but/but<cnjcoo>$
-^may/may<vbmod><inf>$
+^may/may<vbmod><pres>$
 ^not/not<adv>$
 ^have/have<vbhaver><inf>$
 ^meant/mean<vblex><pp>$
@@ -703,7 +703,7 @@
 ^exposure/exposure<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^dead/dead<adj>$
+^dead/dead<n><pl>$
 ^is/be<vbser><pres><p3><sg>$
 ^attested/attest<vblex><pp>$
 ^from/from<pr>$
@@ -788,7 +788,7 @@
 ^in/in<pr>$
 ^desert/desert<n><sg>$
 ^locations/location<n><pl>$
-^far/far<adj><sint>$
+^far/far<adv>$
 ^from/from<pr>$
 ^population/population<n><sg>$
 ^centres/centre<n><pl>$
@@ -802,7 +802,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Iranian/iranian<adj>$
-^Zoroastrians/Zoroastrian<adj>s$
+^Zoroastrians/*Zoroastrians$
 ^gradually/gradually<adv>$
 ^discontinued/discontinue<vblex><past>$
 ^their/their<det><pos><sp>$
@@ -842,7 +842,7 @@
 ^school/school<n><sg>$
 ^./.<sent>$
 
-^Since/since<adv>/since<pr>$
+^Since/since<cnjadv>$
 ^Islam/*Islam$
 ^considers/consider<vblex><pres><p3><sg>$
 ^unnecessary/unnecessary<adj>$
@@ -851,7 +851,7 @@
 ^corpses/corpse<n><pl>$
 ^as/as<pr>$
 ^a/a<det><ind><sg>$
-^form/form<n><sg>/form<vblex><inf>/form<vblex><pres>$
+^form/form<n><sg>$
 ^of/of<pr>$
 ^mutilation/mutilation<n><sg>$
 ^,/,<cm>$
@@ -924,7 +924,7 @@
 ^many/many<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Zoroastrians/Zoroastrian<adj>s$
+^Zoroastrians/*Zoroastrians$
 ^themselves/themselves<prn><ref><p3><mf><pl>$
 ^found/find<vblex><past>$
 ^the/the<det><def><sp>$
@@ -961,7 +961,7 @@
 ^cemetery/cemetery<n><sg>$
 ^some/some<det><qnt><sp>$
 ^10/10<num>$
-^km/km<n><sg>/km<n><pl>$
+^km/km<n><pl>$
 ^from/from<pr>$
 ^Tehran/Tehran<np><top><sg>$
 ^at/at<pr>$
@@ -1003,7 +1003,7 @@
 ^cemeteries/cemetery<n><pl>$
 ^,/,<cm>$
 ^orthodox/*orthodox$
-^Zoroastrians/Zoroastrian<adj>s$
+^Zoroastrians/*Zoroastrians$
 ^continued/continue<vblex><past>$
 ^to/to<pr>$
 ^maintain/maintain<vblex><inf>$
@@ -1061,7 +1061,7 @@
 ^exposure/exposure<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^dead/dead<adj>$
+^dead/dead<n><pl>$
 ^is/be<vbser><pres><p3><sg>$
 ^additionally/additionally<adv>$
 ^considered/consider<vblex><pp>$
@@ -1069,19 +1069,19 @@
 ^be/be<vbser><inf>$
 ^an/a<det><ind><sg>$
 ^individual/individual<n><sg>$
-^'s/'s<gen>/be<vbser><pres><p3><sg>$
+^'s/'s<gen>$
 ^final/final<adj>$
 ^act/act<n><sg>$
 ^of/of<pr>$
 ^charity/charity<n><sg>$
 ^,/,<cm>$
-^providing/provide<vblex><pprs>$
+^providing/provide<vblex><ger>$
 ^the/the<det><def><sp>$
 ^birds/bird<n><pl>$
 ^with/with<pr>$
 ^what/what<prn><itg><m><sp>$
 ^would/will<vbmod><past>$
-^otherwise/*otherwise$
+^otherwise/otherwise<adv>$
 ^be/be<vbser><inf>$
 ^destroyed/destroy<vblex><pp>$
 ^./.<sent>$
@@ -1267,7 +1267,7 @@
 ^associations/association<n><pl>$
 ^(/(<lpar>$
 ^usually/usually<adv>$
-^having/have<vblex><pprs>$
+^having/have<vblex><ger>$
 ^five/five<num><sp>$
 ^priests/priest<n><pl>$
 ^on/on<pr>$

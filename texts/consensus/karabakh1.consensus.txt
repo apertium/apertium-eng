@@ -1,4 +1,4 @@
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/Soviet<adj>$
 ^period/period<n><sg>$
@@ -12,7 +12,7 @@
 ^peacefully/peacefully<adv>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^when/when<cnjsub>$
 ^Mikhail/Mikhail<np><ant><m><sg>$
@@ -21,9 +21,9 @@
 ^the/the<det><def><sp>$
 ^policies/policy<n><pl>$
 ^of/of<pr>$
-^Glasnost/*Glasnost$
+^Glasnost/glasnost<n><sg>$
 ^and/and<cnjcoo>$
-^Perestroika/*Perestroika$
+^Perestroika/perestroika<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^majority/majority<n><sg>$
@@ -48,7 +48,7 @@
 ^Armenian/Armenian<adj>$
 ^SSR/SSR<n><acr><sg>$
 ^./.<sent>$
-^In/In<pr>$
+^In/in<pr>$
 ^1988/1988<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -68,7 +68,7 @@
 ^Armenian/Armenian<adj>$
 ^massacres/massacre<n><pl>$
 ^and/and<cnjcoo>$
-^pogroms/*pogroms$
+^pogroms/pogrom<n><pl>$
 ^in/in<pr>$
 ^Azerbaijan/Azerbaijan<np><top><sg>$
 ^resulted/result<vblex><past>$
@@ -84,7 +84,7 @@
 ^War/War<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^violence/violence<n><sg>$
 ^resulted/result<vblex><past>$
 ^in/in<pr>$
@@ -186,7 +186,7 @@
 ^year/year<n><sg>$
 ^./.<sent>$
 
-^Since/Since<pr>$
+^Since/since<pr>$
 ^1997/1997<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -202,7 +202,7 @@
 ^as a/as a<pr>$
 ^framework/framework<n><sg>$
 ^for/for<pr>$
-^resolving/resolve<vblex><subs>$
+^resolving/resolve<vblex><ger>$
 ^the/the<det><def><sp>$
 ^conflict/conflict<n><sg>$
 ^./.<sent>$
@@ -224,7 +224,7 @@
 ^1999/1999<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Presidents/President<n><pl>$
+^Presidents/president<n><pl>$
 ^of/of<pr>$
 ^Azerbaijan/Azerbaijan<np><top><sg>$
 ^and/and<cnjcoo>$
@@ -260,7 +260,7 @@
 ^negotiations/negotiation<n><pl>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
-^Presidents/President<n><pl>$
+^Presidents/president<n><pl>$
 ^in/in<pr>$
 ^Key West/Key West<np><top><sg>$
 ^,/,<cm>$
@@ -311,7 +311,7 @@
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^two/two<num><sp>$
-^Presidents/President<n><pl>$
+^Presidents/president<n><pl>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^hope/hope<n><sg>$

@@ -53,7 +53,7 @@
 ^primary/primary<adj>$
 ^,/,<cm>$
 ^gateway/gateway<n><sg>$
-^crossing/cross<vblex><pprs>$
+^crossing/crossing<n><sg>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^Eurasian/*Eurasian$
@@ -291,7 +291,7 @@
 ^over/over<pr>$
 ^the/the<det><def><sp>$
 ^Darial/*Darial$
-^Gorge/*Gorge$
+^Gorge/gorge<n><sg>$
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
@@ -375,7 +375,7 @@
 ^5th/5<num><ord>$
 ^or/or<cnjcoo>$
 ^the/the<det><def><sp>$
-^beginning/begin<vblex><subs>$
+^beginning/beginning<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^6th/6<num><ord>$
@@ -404,7 +404,7 @@
 ^metre/metre<n><sg>$
 ^(/(<lpar>$
 ^66/66<num>$
-^ft/*ft$
+^ft/ft<n><acr><pl>$
 ^)/)<rpar>$
 ^high/high<adj><sint>$
 ^walls/wall<n><pl>$
@@ -460,11 +460,11 @@
 ^a/a<det><ind><sg>$
 ^view/view<n><sg>$
 ^to/to<pr>$
-^constructing/construct<vblex><subs>$
+^constructing/construct<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^great/great<adj><sint>$
 ^edifice/edifice<n><sg>$
-^stretching/stretch<vblex><pprs>$
+^stretching/stretch<vblex><ger>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^Caucasus/*Caucasus$
@@ -503,7 +503,7 @@
 ^important/important<adj>$
 ^centre/centre<n><sg>$
 ^for/for<pr>$
-^spreading/spread<vblex><subs>$
+^spreading/spread<vblex><ger>$
 ^the/the<det><def><sp>$
 ^Christian/christian<adj>$
 ^faith/faith<n><sg>$
@@ -557,7 +557,7 @@
 ^the/the<det><def><sp>$
 ^city/city<n><sg>$
 ^was/be<vbser><past><p3><sg>$
-^retaken/*retaken$
+^retaken/retake<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
 ^Persians/Persian<n><pl>$
@@ -635,7 +635,7 @@
 ^the/the<det><def><sp>$
 ^pass/pass<n><sg>$
 ^from/from<pr>$
-^invaders/*invaders$
+^invaders/invader<n><pl>$
 ^;/;<sent>$
 ^as/as<cnjadv>$
 ^Arab/arab<adj>$
@@ -717,7 +717,7 @@
 ^there/there<adv>$
 ^—/—<guio>$
 ^massive/massive<adj>$
-^forts/*forts$
+^forts/fort<n><pl>$
 ^,/,<cm>$
 ^garrison/*garrison$
 ^towns/town<n><pl>$
@@ -769,7 +769,7 @@
 ^with/with<pr>$
 ^a/a<det><ind><sg>$
 ^population/population<n><sg>$
-^exceeding/exceed<vblex><pprs>$
+^exceeding/exceed<vblex><ger>$
 ^50,000/50,000<num>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
@@ -1069,7 +1069,7 @@
 ^The/the<det><def><sp>$
 ^walls/wall<n><pl>$
 ^,/,<cm>$
-^reaching/reach<vblex><pprs>$
+^reaching/reach<vblex><ger>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^sea/sea<n><sg>$
@@ -1120,7 +1120,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^old/old<adj><sint>$
-^cemeteries/*cemeteries$
+^cemeteries/cemetery<n><pl>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^caravanserai/*caravanserai$
@@ -1297,7 +1297,7 @@
 ^long/long<adj><sint>$
 ^)/)<rpar>$
 ^,/,<cm>$
-^otherwise/*otherwise$
+^otherwise/otherwise<adv>$
 ^known/know<vblex><pp>$
 ^as/as<pr>$
 ^Alexander/Alexander<np><ant><m><sg>$
@@ -1337,7 +1337,7 @@
 ^m/*m$
 ^(/(<lpar>$
 ^29/29<num>$
-^ft/*ft$
+^ft/ft<n><acr><pl>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
@@ -1346,7 +1346,7 @@
 ^m/*m$
 ^(/(<lpar>$
 ^10/10<num>$
-^ft/*ft$
+^ft/ft<n><acr><pl>$
 ^)/)<rpar>$
 ^thick/thick<adj><sint>$
 ^and/and<cnjcoo>$

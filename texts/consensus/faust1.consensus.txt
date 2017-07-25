@@ -127,7 +127,7 @@
 ^he/prpers<prn><subj><p3><m><sg>$
 ^laid/lay<vblex><past>$
 ^the/the<det><def><sp>$
-^Holy/Holy<adj><sint>$
+^Holy/holy<adj><sint>$
 ^Scriptures/*Scriptures$
 ^behind/behind<pr>$
 ^the/the<det><def><sp>$
@@ -143,7 +143,7 @@
 ^called/call<vblex><pp>$
 ^doctor/doctor<n><sg>$
 ^of/of<pr>$
-^Theology/Theology<n><sg>$
+^Theology/theology<n><sg>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^preferred/prefer<vblex><past>$
@@ -152,11 +152,11 @@
 ^styled/*styled$
 ^doctor/doctor<n><sg>$
 ^of/of<pr>$
-^Medicine/Medicine<n><sg>$
+^Medicine/medicine<n><sg>$
 "
 ^./.<sent>$
 
-^Plays/Play<n><pl>$
+^Plays/play<n><pl>$
 ^and/and<cnjcoo>$
 ^comic/comic<n><sg>$
 ^puppet/puppet<n><sg>$
@@ -187,7 +187,7 @@
 ^fun/fun<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^story/story<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^popularised/popularise<vblex><pp>$
@@ -207,15 +207,15 @@
 ^his/his<det><pos><sp>$
 ^play/play<n><sg>$
 ^,/,<cm>$
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Tragical/*Tragical$
-^History/History<n><sg>$
+^History/history<n><sg>$
 ^of/of<pr>$
 ^Doctor/Doctor<n><sg>$
-^Faustus/Faust<np><cog><sg>us$
+^Faustus/Faustus<np><cog><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^Goethe/Goethe<np><cog><sg>$
 ^'s/'s<gen>$
 ^reworking/*reworking$
@@ -247,7 +247,7 @@
 ^life/life<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^story/story<n><sg>$
 ^may/may<vbmod><inf>$
 ^be/be<vbser><inf>$
@@ -289,7 +289,7 @@
 ^world/world<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^response/response<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -346,7 +346,7 @@
 ^damned/damned<adj>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^term/term<n><sg>$
 ^usually/usually<adv>$
 ^stipulated/stipulate<vblex><pp>$
@@ -370,7 +370,7 @@
 ^day/day<n><sg>$
 ^./.<sent>$
 
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^term/term<n><sg>$
 ^of/of<pr>$
@@ -421,7 +421,7 @@
 ^destroyed/destroy<vblex><pp>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^Gretchen/Gretchen<np><ant><f><sg>$
 ^'s/'s<gen>$
@@ -438,7 +438,7 @@
 ^Heaven/Heaven<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^Goethe/Goethe<np><cog><sg>$
 ^'s/'s<gen>$
 ^rendition/*rendition$
@@ -472,7 +472,7 @@
 ^Feminine/Feminine<adj>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -505,7 +505,7 @@
 ^Hell/Hell<n><sg>$
 ^./.<sent>$
 
-^An/A<det><ind><sg>$
+^An/a<det><ind><sg>$
 ^important/important<adj>$
 ^version/version<n><sg>$
 ^of/of<pr>$
@@ -571,7 +571,7 @@
 ^together/together<adj>$
 ^references/reference<n><pl>$
 ^from/from<pr>$
-^Christian/christian<adj>$
+^Christian/Christian<adj>$
 ^,/,<cm>$
 ^medieval/medieval<adj>$
 ^,/,<cm>$
@@ -587,7 +587,7 @@
 ^literature/literature<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^composition/composition<n><sg>$
 ^and/and<cnjcoo>$
 ^refinement/refinement<n><sg>$
@@ -612,7 +612,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^final/final<adj>$
 ^version/version<n><sg>$
 ^,/,<cm>$
@@ -632,7 +632,7 @@
 ^literature/literature<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^story/story<n><sg>$
 ^concerns/concern<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
@@ -760,7 +760,7 @@
 ^come/come<vblex><inf>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^first/first<det><ord><sp>$
 ^part/part<n><sg>$
@@ -769,7 +769,7 @@
 ^leads/lead<n><pl>/lead<vblex><pres><p3><sg>$
 ^Faust/Faust<np><cog><sg>$
 ^through/through<pr>$
-^experiences/experience<n><pl>/experience<vblex><pres><p3><sg>$
+^experiences/experience<n><pl>$
 ^that/that<rel><an><mf><sp>$
 ^culminate/culminate<vblex><pres>$
 ^in/in<pr>$
@@ -826,7 +826,7 @@
 ^shame/shame<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^second/second<det><ord><sp>$
 ^part/part<n><sg>$
 ^begins/begin<vblex><pres><p3><sg>$
@@ -836,7 +836,7 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^earth/earth<n><sg>$
-^forgiving/forgive<vblex><pprs>$
+^forgiving/forgive<vblex><ger>$
 ^Faust/Faust<np><cog><sg>$
 ^(/(<lpar>$
 ^and/and<cnjcoo>$
@@ -886,12 +886,12 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Finally/Finally<adv>$
+^Finally/finally<adv>$
 ^,/,<cm>$
 ^having/have<vbhaver><ger>$
 ^succeeded/succeed<vblex><pp>$
 ^in/in<pr>$
-^taming/tame<vblex><subs>$
+^taming/tame<vblex><ger>$
 ^the/the<det><def><sp>$
 ^very/very<adj>$
 ^forces/force<n><pl>$
@@ -986,7 +986,7 @@
 ^Gretchen/Gretchen<np><ant><f><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^final/final<adj>$
 ^scene/scene<n><sg>$
 ^has/have<vblex><pres><p3><sg>$

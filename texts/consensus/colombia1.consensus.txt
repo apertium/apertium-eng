@@ -47,7 +47,7 @@
 ^,/,<cm>$
 ^seven/seven<num><sp>$
 ^years/year<n><pl>$
-^after/after<pr>$
+^after/after<cnjadv>$
 ^completion/completion<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -77,7 +77,7 @@
 ^the/the<det><def><sp>$
 ^Thomson/Thomson<np><cog><sg>$
 ^Urrutia/*Urrutia$
-^Treaty/Treaty<n><sg>$
+^Treaty/treaty<n><sg>$
 ^./.<sent>$
 
 ^Colombia/Colombia<np><top><sg>$
@@ -85,7 +85,7 @@
 ^engulfed/*engulfed$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^Year/Year<n><sg>$
+^Year/year<n><sg>$
 ^-/-<guio>$
 ^Long/Long<adj><sint>$
 ^War/War<n><sg>$
@@ -95,7 +95,7 @@
 ^a/a<det><ind><sg>$
 ^territorial/territorial<adj>$
 ^dispute/dispute<n><sg>$
-^involving/involve<vblex><pprs>$
+^involving/involve<vblex><ger>$
 ^the/the<det><def><sp>$
 ^Amazonas/*Amazonas$
 ^department/department<n><sg>$
@@ -128,13 +128,11 @@
 ^between/between<pr>$
 ^the/the<det><def><sp>$
 ^late/late<adj><sint>$
-^1940/1940<num>$
-^s/*s$
+^1940s/1940s<num>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^early/early<adj><sint>$
-^1950/1950<num>$
-^s/*s$
+^1950s/1950s<num>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
 ^period/period<n><sg>$
@@ -148,7 +146,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Its/Its<det><pos><sp>$
+^Its/its<det><pos><sp>$
 ^cause/cause<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^mainly/mainly<adv>$
@@ -180,7 +178,7 @@
 ^1948/1948<num>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^ensuing/*ensuing$
 ^riots/riot<n><pl>$
 ^in/in<pr>$
@@ -266,7 +264,7 @@
 ^peninsula/peninsula<n><sg>$
 ^./.<sent>$
 
-^Particularly/Particularly<adv>$
+^Particularly/particularly<adv>$
 ^important/important<adj>$
 ^was/be<vbser><past><p3><sg>$
 ^the/the<det><def><sp>$
@@ -277,11 +275,11 @@
 ^Colombian/colombian<adj>$
 ^troops/troop<n><pl>$
 ^at/at<pr>$
-^Old/Old<adj><sint>$
+^Old/old<adj><sint>$
 ^Baldy/*Baldy$
 ^./.<sent>$
 
-^From/From<pr>$
+^From/from<pr>$
 ^1953/1953<num>$
 ^to/to<pr>$
 ^1964/1964<num>$
@@ -299,7 +297,7 @@
 ^Rojas/Rojas<np><cog><sg>$
 ^deposed/depose<vblex><past>$
 ^the/the<det><def><sp>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^of/of<pr>$
 ^Colombia/Colombia<np><top><sg>$
 ^in/in<pr>$
@@ -326,13 +324,13 @@
 
 ^After/After<pr>$
 ^Rojas/Rojas<np><cog><sg>$
-^'/'<apos>$
+^'/'<gen>$
 ^deposition/deposition<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Colombian/colombian<adj>$
-^Conservative/Conservative<adj>$
-^Party/Party<n><sg>$
+^Conservative/conservative<adj>$
+^Party/party<n><sg>$
 ^and/and<cnjcoo>$
 ^Colombian/colombian<adj>$
 ^Liberal/Liberal<adj>$
@@ -353,7 +351,7 @@
 ^country/country<n><sg>$
 ^./.<sent>$
 
-^Under/Under<pr>$
+^Under/under<pr>$
 ^the/the<det><def><sp>$
 ^deal/deal<n><sg>$
 ^,/,<cm>$
@@ -376,7 +374,7 @@
 ^two/two<num><sp>$
 ^parties/party<n><pl>$
 ^would/will<vbmod><past>$
-^have/have<vblex><inf>$
+^have/have<vbhaver><inf>$
 ^parity/parity<n><sg>$
 ^in/in<pr>$
 ^all/all<predet><sp>$
@@ -413,7 +411,7 @@
 ^Progress/Progress<n><sg>$
 ^./.<sent>$
 
-^In the end/In the end<adv>$
+^In the end/in the end<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^contradictions/contradiction<n><pl>$
@@ -422,7 +420,7 @@
 ^successive/successive<adj>$
 ^Liberal/Liberal<adj>$
 ^and/and<cnjcoo>$
-^Conservative/Conservative<adj>$
+^Conservative/conservative<adj>$
 ^administration/administration<n><sg>$
 ^made/make<vblex><past>$
 ^the/the<det><def><sp>$
@@ -431,7 +429,7 @@
 ^mixed/mixed<adj>$
 ^./.<sent>$
 
-^Despite/Despite<pr>$
+^Despite/despite<pr>$
 ^the/the<det><def><sp>$
 ^progress/progress<n><sg>$
 ^in/in<pr>$
@@ -455,13 +453,13 @@
 ^the/the<det><def><sp>$
 ^FARC/FARC<n><acr><sg>$
 ^,/,<cm>$
-^ELN/*ELN$
+^ELN/ELN<n><acr><sp>$
 ^,/,<cm>$
-^EPL/*EPL$
+^EPL/EPL<n><acr><sp>$
 ^,/,<cm>$
-^MAQL/*MAQL$
+^MAQL/MAQL<n><acr><sp>$
 ^and/and<cnjcoo>$
-^M/M<num><mf><sg>$^-/-<guio>$^19/19<num>$
+^M/*M$
 ^to/to<pr>$
 ^fight/fight<vblex><inf>$
 ^the/the<det><def><sp>$
@@ -471,9 +469,9 @@
 ^apparatus/apparatus<n><sg>$
 ^./.<sent>$
 
-^Since/Since<pr>$
+^Since/since<pr>$
 ^the/the<det><def><sp>$
-^1960/1960<num>$^s/*s$
+^1960s/1960s<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
@@ -491,7 +489,7 @@
 ^government/government<n><sg>$
 ^forces/force<n><pl>$
 ^,/,<cm>$
-^left-wing/left-wing<n><sg>$
+^left-wing/left-wing<adj>$
 ^guerrilla/guerrilla<n><sg>$
 ^groups/group<n><pl>$
 ^and/and<cnjcoo>$
@@ -499,7 +497,7 @@
 ^paramilitaries/*paramilitaries$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^conflict/conflict<n><sg>$
 ^escalated/*escalated$
 ^in/in<pr>$
@@ -508,7 +506,7 @@
 ^s/*s$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^conflict/conflict<n><sg>$
 ^in/in<pr>$
 ^Colombia/Colombia<np><top><sg>$
@@ -546,7 +544,7 @@
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^early/early<adj><sint>$
-^1960/1960<num>$^s/*s$
+^1960s/1960s<num>$
 ^the/the<det><def><sp>$
 ^U.S./U.S.<np><top><sg>$
 ^government/government<n><sg>$
@@ -575,19 +573,19 @@
 ^communism/communism<n><sg>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^4/4<num>$
 ^July/July<n><sg>$
 ^1991/1991<num>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
 ^new/new<adj><sint>$
-^Constitution/Constitution<n><sg>$
+^Constitution/constitution<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^promulgated/*promulgated$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^changes/change<n><pl>$
 ^generated/generate<vblex><pp>$
 ^by/by<pr>$
@@ -603,7 +601,7 @@
 ^society/society<n><sg>$
 ^./.<sent>$
 
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^presidency/presidency<n><sg>$
 ^of/of<pr>$
@@ -635,7 +633,7 @@
 ^improved/improve<vblex><past>$
 ^./.<sent>$
 
-^Since/Since<pr>$
+^Since/since<pr>$
 ^2002/2002<num>$
 ^the/the<det><def><sp>$
 ^violence/violence<n><sg>$
@@ -647,7 +645,7 @@
 ^paramilitary/*paramilitary$
 ^groups/group<n><pl>$
 ^demobilising/*demobilising$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^part/part<n><sg>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
@@ -684,7 +682,7 @@
 ^House/House<n><sg>$
 ^drug/drug<n><sg>$
 ^czar/*czar$
-^R/*R$^./.<sent>$
+^R/*R$
 ^Gil/Gil<np><ant><m><sg>$
 ^Kerlikowske/*Kerlikowske$
 ^to/to<pr>$
@@ -702,7 +700,7 @@
 ^cocaine/cocaine<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^February/February<n><sg>$
 ^2008/2008<num>$
 ^,/,<cm>$
@@ -718,7 +716,7 @@
 ^26,648/26,648<num>$
 ^FARC/FARC<n><acr><sg>$
 ^and/and<cnjcoo>$
-^ELN/*ELN$
+^ELN/ELN<n><acr><sp>$
 ^combatants/*combatants$
 ^have/have<vbhaver><pres>$
 ^decided/decide<vblex><pp>$
@@ -765,7 +763,7 @@
 ^of/of<pr>$
 ^FARC/FARC<n><acr><sg>$
 ^-/-<guio>$
-^EP/*EP$
+^EP/EP<n><acr><sp>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^aim/aim<n><sg>$
@@ -780,7 +778,7 @@
 ^conflict/conflict<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Colombian/colombian<adj>$
 ^government/government<n><sg>$
 ^and/and<cnjcoo>$
@@ -800,7 +798,7 @@
 ^talks/talk<n><pl>$
 ^have/have<vbhaver><pres>$
 ^represented/represent<vblex><pp>$
-^breakthroughs/*breakthroughs$
+^breakthroughs/breakthrough<n><pl>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -834,10 +832,10 @@
 ^as/as<cnjadv>$
 ^expressed/express<vblex><pp>$
 ^by/by<pr>$
-^HRW/*HRW$
+^HRW/HRW<n><acr><sp>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^terms/term<n><pl>$
 ^of/of<pr>$
 ^international/international<adj>$
@@ -873,8 +871,8 @@
 ^seat/seat<n><sg>$
 ^on/on<pr>$
 ^the/the<det><def><sp>$
-^Security/Security<n><sg>$
-^Council/Council<n><sg>$
+^Security/security<n><sg>$
+^Council/council<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^UN/UN<n><acr><sg>$
@@ -909,13 +907,13 @@
 ^day/day<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^2012/2012<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^National/National<adj>$
-^Administrative/Administrative<adj>$
-^Department/Department<n><sg>$
+^National/national<adj>$
+^Administrative/administrative<adj>$
+^Department/department<n><sg>$
 ^of/of<pr>$
 ^Statistics/Statistics<n><pl>$
 ^(/(<lpar>$
@@ -940,7 +938,7 @@
 ^poverty/poverty<n><sg>$
 ^./.<sent>$
 
-^More than/More than<pr>$
+^More than/more than<pr>$
 ^1.2/1.2<num>$
 ^million/million<num><sp>$
 ^Colombians/Colombian<n><pl>$
@@ -951,7 +949,7 @@
 ^poverty/poverty<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^2012/2012<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -974,7 +972,7 @@
 ^fiber/fibre<n><sg>$
 ^optic/*optic$
 ^and/and<cnjcoo>$
-^broadband/broadband<adj>$
+^broadband/broadband<n><sg>$
 ^coverage/coverage<n><sg>$
 ^across/across<pr>$
 ^the/the<det><def><sp>$
@@ -990,7 +988,7 @@
 ^divide/divide<n><sg>$
 ^./.<sent>$
 
-^Recent/Recent<adj>$
+^Recent/recent<adj>$
 ^economic/economic<adj>$
 ^growth/growth<n><sg>$
 ^has/have<vbhaver><pres><p3><sg>$

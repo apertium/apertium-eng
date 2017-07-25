@@ -1,9 +1,9 @@
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Kyrgyz/*Kyrgyz$
-^Autonomous/Autonomous<adj>$
+^Autonomous/autonomous<adj>$
 ^Soviet/soviet<adj>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^set up/set<vblex><sep><pp># up$
 ^in/in<pr>$
@@ -13,10 +13,10 @@
 ^renamed/rename<vblex><pp>$
 ^the/the<det><def><sp>$
 ^Kazakh/*Kazakh$
-^Autonomous/Autonomous<adj>$
+^Autonomous/autonomous<adj>$
 ^Soviet/soviet<adj>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^in/in<pr>$
 ^1925/1925<num>$
 ^when/when<cnjadv>$
@@ -30,7 +30,7 @@
 ^Kyrgyz/*Kyrgyz$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Russian/russian<adj>$
 ^Empire/Empire<n><sg>$
 ^recognised/recognise<vblex><past>$
@@ -69,8 +69,8 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^In/In<pr>$
-^keeping/keep<vblex><subs>$
+^In/in<pr>$
+^keeping/keep<vblex><ger>$
 ^with/with<pr>$
 ^practices/practice<n><pl>$
 ^in/in<pr>$
@@ -107,7 +107,7 @@
 ^republic/republic<n><sg>$
 ^./.<sent>$
 
-^In contrast/In contrast<adv>$
+^In contrast/in contrast<adv>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^presidents/president<n><pl>$
@@ -146,7 +146,7 @@
 ^1991/1991<num>$
 ^./.<sent>$
 
-^He/Prpers<prn><subj><p3><m><sg>$
+^He/prpers<prn><subj><p3><m><sg>$
 ^took/take<vblex><past>$
 ^this/this<det><dem><sg>$
 ^position/position<n><sg>$
@@ -164,7 +164,7 @@
 ^separation/separation<n><sg>$
 ^./.<sent>$
 
-^At the same time/At the same time<adv>$
+^At the same time/at the same time<adv>$
 ^,/,<cm>$
 ^however/however<adv>$
 ^,/,<cm>$
@@ -233,7 +233,7 @@
 ^complete/complete<adj>$
 ^./.<sent>$
 
-^At/At<pr>$
+^At/at<pr>$
 ^Nazarbayev/*Nazarbayev$
 ^'s/'s<gen>$
 ^insistence/insistence<n><sg>$
@@ -310,12 +310,12 @@
 ^the/the<det><def><sp>$
 ^other/other<det><ind><sp>$
 ^four/four<num><sp>$
-^Central/Central<adj>$
+^Central/central<adj>$
 ^Asian/asian<adj>$
 ^states/state<n><pl>$
 ^./.<sent>$
 
-^After/After<cnjadv>$
+^After/after<cnjadv>$
 ^declaring/declare<vblex><ger>$
 ^independence/independence<n><sg>$
 ^from/from<pr>$
@@ -329,14 +329,14 @@
 ^Moscow/Moscow<np><top><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^Communist/Communist<adj>$
-^Party/Party<n><sg>$
+^Communist/communist<adj>$
+^Party/party<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^(/(<lpar>$
-^CPSU/*CPSU$
+^CPSU/CPSU<n><acr><sp>$
 ^)/)<rpar>$
 ^until/until<pr>$
 ^1991/1991<num>$
@@ -373,12 +373,12 @@
 ^secretary/secretary<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Communist/Communist<adj>$
-^Party/Party<n><sg>$
+^Communist/communist<adj>$
+^Party/party<n><sg>$
 ^of/of<pr>$
 ^Kazakhstan/Kazakhstan<np><top><sg>$
 ^(/(<lpar>$
-^CPK/*CPK$
+^CPK/CPK<n><acr><sp>$
 ^)/)<rpar>$
 ^beginning/begin<vblex><ger>$
 ^in/in<pr>$
@@ -413,7 +413,7 @@
 ^position/position<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^constitution/constitution<n><sg>$
 ^of/of<pr>$
 ^1993/1993<num>$
@@ -422,9 +422,9 @@
 ^prime minister/prime minister<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^Council/Council<n><sg>$
+^Council/council<n><sg>$
 ^of/of<pr>$
-^Ministers/Minister<n><pl>$
+^Ministers/minister<n><pl>$
 ^responsible/responsible<adj>$
 ^solely/solely<adv>$
 ^to/to<pr>$
@@ -442,7 +442,7 @@
 ^relationship/relationship<n><sg>$
 ^./.<sent>$
 
-^Furthermore/Furthermore<adv>$
+^Furthermore/furthermore<adv>$
 ^,/,<cm>$
 ^opposition/opposition<n><sg>$
 ^parties/party<n><pl>$
@@ -467,7 +467,7 @@
 ^substantial/substantial<adj>$
 ^popularity/popularity<n><sg>$
 ^by/by<pr>$
-^limiting/limit<vblex><subs>$
+^limiting/limit<vblex><ger>$
 ^the/the<det><def><sp>$
 ^economic/economic<adj>$
 ^shock/shock<n><sg>$
@@ -479,10 +479,10 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^and/and<cnjcoo>$
 ^by/by<pr>$
-^maintaining/maintain<vblex><subs>$
+^maintaining/maintain<vblex><ger>$
 ^ethnic/ethnic<adj>$
 ^harmony/harmony<n><sg>$
 ^in/in<pr>$
@@ -558,10 +558,10 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Caspian/*Caspian$
-^Sea/Sea<n><sg>$
+^Sea/sea<n><sg>$
 ^./.<sent>$
 
-^Most of/Most<prn><tn><mf><pl>+of<pr>$
+^Most of/most<prn><tn><mf><pl>+of<pr>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
 ^lies/lie<vblex><pres><p3><sg>$
@@ -620,7 +620,7 @@
 ^streams/stream<n><pl>$
 ^./.<sent>$
 
-^Except for/Except for<pr>$
+^Except for/except for<pr>$
 ^the/the<det><def><sp>$
 ^Tobol/*Tobol$
 ^,/,<cm>$
@@ -677,7 +677,7 @@
 ^such as/such as<pr>$
 ^the/the<det><def><sp>$
 ^Caspian/*Caspian$
-^Sea/Sea<n><sg>$
+^Sea/sea<n><sg>$
 ^or/or<cnjcoo>$
 ^simply/simply<adv>$
 ^disappear/disappear<vblex><pres>$
@@ -708,14 +708,14 @@
 ^summer/summer<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^three/three<num><sp>$
 ^largest/large<adj><sint><sup>$
 ^bodies/body<n><pl>$
 ^of/of<pr>$
 ^water/water<n><sg>$
 ^are/be<vbser><pres>$
-^Lake/Lake<n><sg>$
+^Lake/lake<n><sg>$
 ^Balkhash/*Balkhash$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
@@ -723,7 +723,7 @@
 ^fresh/fresh<adj><sint>$
 ^,/,<cm>$
 ^partially/partially<adv>$
-^saline/*saline$
+^saline/saline<adj>$
 ^lake/lake<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -753,10 +753,10 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^German/german<adj>$
+^German/German<adj>$
 ^population/population<n><sg>$
 ^of/of<pr>$
 ^Kazakhstan/Kazakhstan<np><top><sg>$
@@ -777,7 +777,7 @@
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^./.<sent>$
 
-^Also/Also<adv>$
+^Also/also<adv>$
 ^much/much<det><qnt><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$

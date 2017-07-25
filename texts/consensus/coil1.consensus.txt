@@ -20,13 +20,13 @@
 ^transformer/transformer<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^a/a<det><ind><sg>$
 ^conventional/conventional<adj>$
 ^transformer/transformer<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^windings/*windings$
+^windings/winding<n><pl>$
 ^are/be<vbser><pres>$
 ^very/very<preadv>$
 ^tightly/tightly<adv>$
@@ -47,10 +47,10 @@
 ^turns/turn<n><pl>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^windings/*windings$
+^windings/winding<n><pl>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^voltage/voltage<n><sg>$
@@ -84,7 +84,7 @@
 ^inductances/inductance<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^coil/coil<n><sg>$
 ^transfers/transfer<vblex><pres><p3><sg>$
 ^energy/energy<n><sg>$
@@ -108,11 +108,11 @@
 ^a/a<det><ind><sg>$
 ^number/number<n><sg>$
 ^of/of<pr>$
-^RF/*RF$
+^RF/RF<n><acr><sp>$
 ^cycles/cycle<n><pl>$
 ^./.<sent>$
 
-^As/As<cnjadv>$
+^As/as<cnjadv>$
 ^the/the<det><def><sp>$
 ^primary/primary<adj>$
 ^energy/energy<n><sg>$
@@ -127,7 +127,7 @@
 ^output/output<n><sg>$
 ^voltage/voltage<n><sg>$
 ^increases/increase<vblex><pres><p3><sg>$
-^until/until<pr>$
+^until/until<cnjadv>$
 ^all/all<prn><tn><mf><sp>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -183,7 +183,7 @@
 ^enthusiasts/enthusiast<n><pl>$
 ^usually/usually<adv>$
 ^build/build<vblex><pres>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coils/coil<n><pl>$
 ^that/that<rel><an><mf><sp>$
 ^are/be<vbser><pres>$
@@ -191,7 +191,7 @@
 ^to/to<pr>$
 ^some/some<prn><tn><mf><pl>$
 ^of/of<pr>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^'s/'s<gen>$
 "
 ^later/late<adj><sint><comp>$
@@ -213,7 +213,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^series/series<n><sg>$
-^LC/LC<num><mf><sg>$
+^LC/LC<n><acr><sp>$
 ^(/(<lpar>$
 ^inductance/inductance<n><sg>$
 ^-/-<guio>$
@@ -237,7 +237,7 @@
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
-^LC/LC<num><mf><sg>$
+^LC/LC<n><acr><sp>$
 ^circuit/circuit<n><sg>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
@@ -250,7 +250,7 @@
 ^coil/coil<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^toroid/*toroid$
+^toroid/toroid<n><sg>$
 ^./.<sent>$
 
 ^In/In<pr>$
@@ -261,7 +261,7 @@
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
-^LC/LC<num><mf><sg>$
+^LC/LC<n><acr><sp>$
 ^circuit/circuit<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^composed/compose<vblex><pp>$
@@ -282,7 +282,7 @@
 ^coil/coil<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^helical/*helical$
 ^coil/coil<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -290,10 +290,10 @@
 ^connected/connect<vblex><pp>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
-^toroid/*toroid$
+^toroid/toroid<n><sg>$
 ^./.<sent>$
 
-^Most/Most<det><qnt><sp>$
+^Most/most<det><qnt><sp>$
 ^modern/modern<adj>$
 ^coils/coil<n><pl>$
 ^use/use<vblex><pres>$
@@ -304,8 +304,8 @@
 ^coil/coil<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^toroid/*toroid$
+^The/the<det><def><sp>$
+^toroid/toroid<n><sg>$
 ^actually/actually<adv>$
 ^forms/form<vblex><pres><p3><sg>$
 ^one/one<num><sg>$
@@ -328,9 +328,9 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^primary/primary<adj>$
-^LC/LC<num><mf><sg>$
+^LC/LC<n><acr><sp>$
 ^circuit/circuit<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 "
@@ -346,11 +346,11 @@
 ^as/as<pr>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
-^LC/LC<num><mf><sg>$
+^LC/LC<n><acr><sp>$
 ^circuit/circuit<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^primary/primary<adj>$
 ^and/and<cnjcoo>$
 ^secondary/secondary<adj>$
@@ -371,7 +371,7 @@
 ^transformer/transformer<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^unlike/unlike<pr>$
 ^a/a<det><ind><sg>$
@@ -388,13 +388,13 @@
 ^magnetic/magnetic<adj>$
 ^fields/field<n><pl>$
 ^between/between<pr>$
-^windings/*windings$
+^windings/winding<n><pl>$
 ^,/,<cm>$
 ^a/a<det><ind><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coil/coil<n><sg>$
 ^'s/'s<gen>$
-^windings/*windings$
+^windings/winding<n><pl>$
 ^are/be<vbser><pres>$
 "
 ^loosely/*loosely$
@@ -407,7 +407,7 @@
 ^and/and<cnjcoo>$
 ^secondary/secondary<adj>$
 ^typically/typically<adv>$
-^sharing/share<vblex><pprs>$
+^sharing/share<vblex><ger>$
 ^only/only<adv>$
 ^10/10<num>$
 ^–/–<guio>$
@@ -422,7 +422,7 @@
 ^Earlier/Early<adj><sint><comp>$
 ^oil/oil<n><sg>$
 ^insulated/*insulated$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coils/coil<n><pl>$
 ^needed/need<vblex><past>$
 ^large/large<adj><sint>$
@@ -441,7 +441,7 @@
 
 ^Later/Late<adj><sint><comp>$
 ^version/version<n><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coils/coil<n><pl>$
 ^spread/spread<vblex><past>$
 ^their/their<det><pos><sp>$
@@ -465,13 +465,13 @@
 ^air/air<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^a/a<det><ind><sg>$
 ^Doubly/Doubly<adv>$
 ^Resonant/Resonant<adj>$
 ^Solid/Solid<adj><sint>$
 ^State/State<n><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^Coil/Coil<n><sg>$
 ^(/(<lpar>$
 ^DRSSTC/*DRSSTC$
@@ -482,7 +482,7 @@
 ^switching/switch<vblex><subs>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^SSTC/*SSTC$
+^SSTC/SSTC<n><acr><sp>$
 ^is/be<vbser><pres><p3><sg>$
 ^combined/combine<vblex><pp>$
 ^with/with<pr>$
@@ -495,25 +495,25 @@
 ^spark/spark<n><sg>$
 ^-/-<guio>$
 ^gap/gap<n><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coil/coil<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^resonant/resonant<adj>$
 ^primary/primary<adj>$
 ^circuit/circuit<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^formed/form<vblex><pp>$
 ^by/by<pr>$
-^connecting/connect<vblex><subs>$
+^connecting/connect<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^capacitor/*capacitor$
 ^in series/in series<adv>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^primary/primary<adj>$
-^winding/*winding$
+^winding/winding<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^coil/coil<n><sg>$
@@ -538,7 +538,7 @@
 ^circuit/circuit<n><sg>$
 ^./.<sent>$
 
-^Because of/Because of<pr>$
+^Because of/because of<pr>$
 ^the/the<det><def><sp>$
 ^additional/additional<adj>$
 ^resonant/resonant<adj>$
@@ -549,13 +549,13 @@
 ^and/and<cnjcoo>$
 ^one/one<num><sg>$
 ^adaptive/*adaptive$
-^tuning/tune<vblex><subs>$
+^tuning/tuning<n><sg>$
 ^adjustment/adjustment<n><sg>$
 ^are/be<vbser><pres>$
 ^necessary/necessary<adj>$
 ^./.<sent>$
 
-^Also/Also<adv>$
+^Also/also<adv>$
 ^,/,<cm>$
 ^an/a<det><ind><sg>$
 ^interrupter/*interrupter$
@@ -601,7 +601,7 @@
 ^characteristics/characteristic<n><pl>$
 ^./.<sent>$
 
-^Performance/Performance<n><sg>$
+^Performance/performance<n><sg>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
 ^DRSSTC/*DRSSTC$
@@ -637,7 +637,7 @@
 ^a/a<det><ind><sg>$
 ^spark/spark<n><sg>$
 ^gap/gap<n><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coil/coil<n><sg>$
 ^operating/operate<vblex><pprs>$
 ^at/at<pr>$
@@ -646,7 +646,7 @@
 ^power/power<n><sg>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
@@ -669,7 +669,7 @@
 ^oscillations/*oscillations$
 ^from/from<pr>$
 "
-^backing/back<vblex><subs>$
+^backing/back<vblex><ger>$
 ^up/up<pr>$
 "
 ^into/into<pr>$
@@ -678,7 +678,7 @@
 ^transformer/transformer<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^alternate/alternate<adj>$
 ^circuit/circuit<n><sg>$
@@ -701,7 +701,7 @@
 ^supply/supply<n><sg>$
 ^transformer/transformer<n><sg>$
 ^'s/'s<gen>$
-^winding/*winding$
+^winding/winding<n><sg>$
 ^./.<sent>$
 
 ^This/This<prn><tn><mf><sg>$
@@ -723,7 +723,7 @@
 ^./.<sent>$
 
 ^Experienced/Experience<vblex><pp>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coil/coil<n><sg>$
 ^builders/builder<n><pl>$
 ^almost/almost<adv>$
@@ -745,7 +745,7 @@
 ^and/and<cnjcoo>$
 ^capacitor/*capacitor$
 ^(/(<lpar>$
-^RC/*RC$
+^RC/RC<n><acr><sp>$
 ^)/)<rpar>$
 ^networks/network<n><pl>$
 ^)/)<rpar>$
@@ -775,10 +775,10 @@
 ^fragile/fragile<adj>$
 ^high/high<adj><sint>$
 ^voltage/voltage<n><sg>$
-^windings/*windings$
+^windings/winding<n><pl>$
 ^,/,<cm>$
 ^such as/such as<pr>$
-^Neon/Neon<n><sg>$
+^Neon/neon<n><sg>$
 ^-/-<guio>$
 ^sign/sign<n><sg>$
 ^transformers/transformer<n><pl>$
@@ -787,14 +787,14 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Regardless/Regardless<adv>$
+^Regardless/regardless<adv>$
 ^of which/of<pr>+which<rel><nn><mf><sp>$
 ^configuration/configuration<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^used/use<vblex><pp>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^HV/*HV$
+^HV/HV<n><acr><sp>$
 ^transformer/transformer<n><sg>$
 ^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
@@ -814,7 +814,7 @@
 ^inductance/inductance<n><sg>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^normal/normal<adj>$
 ^(/(<lpar>$
 ^low/low<adj><sint>$
@@ -831,7 +831,7 @@
 ^limiter/limiter<n><sg>$
 ^(/(<lpar>$
 ^sometimes/sometimes<adv>$
-^called/call<vblex><past>$
+^called/call<vblex><pp>$
 ^a/a<det><ind><sg>$
 ^ballast/ballast<n><sg>$
 ^)/)<rpar>$
@@ -860,7 +860,7 @@
 ^level/level<n><sg>$
 ^./.<sent>$
 
-^As/As<cnjadv>
+^As/as<cnjadv>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
 ^coil/coil<n><sg>$
@@ -915,10 +915,10 @@
 ^outward/*outward$
 ^from/from<pr>$
 ^the/the<det><def><sp>$
-^toroid/*toroid$
+^toroid/toroid<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^within/within<pr>$
 ^the/the<det><def><sp>$
@@ -934,11 +934,11 @@
 ^and/and<cnjcoo>$
 ^is/be<vbser><pres><p3><sg>$
 ^considerably/considerably<adv>$
-^more/more<det><qnt><sp>$
+^more/more<preadv>$
 ^conductive/conductive<adj>$
 ^./.<sent>$
 
-^In fact/In fact<adv>$
+^In fact/in fact<adv>$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^has/have<vblex><pres><p3><sg>$
@@ -952,11 +952,11 @@
 ^arc/*arc$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^leader/leader<n><sg>$
-^tapers/*tapers$
+^tapers/taper<vblex><pres><p3><sg>$
 ^and/and<cnjcoo>$
-^branches/branch<n><pl>$
+^branches/branch<vblex><pres><p3><sg>$
 ^into/into<pr>$
 ^thousands/thousand<n><pl>$
 ^of/of<pr>$
@@ -972,7 +972,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^streamers/*streamers$
 ^look like/look<vblex><pres># like$
 ^a/a<det><ind><sg>$
@@ -985,7 +985,7 @@
 ^ends/end<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^more/more<det><qnt><sp>$
+^more/more<preadv>$
 ^luminous/luminous<adj>$
 ^leaders/leader<n><pl>$
 ^,/,<cm>$
@@ -1002,7 +1002,7 @@
 ^the/the<det><def><sp>$
 ^leaders/leader<n><pl>$
 ^and/and<cnjcoo>$
-^toroid/*toroid$
+^toroid/toroid<n><sg>$
 ^to/to<pr>$
 ^nearby/nearby<adj>$
 ^space/space<adj>$
@@ -1010,7 +1010,7 @@
 ^regions/region<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^displacement/displacement<n><sg>$
 ^currents/current<n><pl>$
 ^from/from<pr>$
@@ -1066,7 +1066,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Because of/Because of<pr>$
+^Because of/because of<pr>$
 ^the/the<det><def><sp>$
 ^higher/high<adj><sint><comp>$
 ^voltages/voltage<n><pl>$
@@ -1092,11 +1092,11 @@
 ^terminals/terminal<n><pl>$
 ^./.<sent>$
 
-^Doubling/Double<vblex><subs>$
+^Doubling/double<vblex><ger>$
 ^the/the<det><def><sp>$
 ^output/output<n><sg>$
 ^voltage/voltage<n><sg>$
-^quadruples/quadruple<n><pl>$
+^quadruples/quadruple<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^electrostatic/electrostatic<adj>$
 ^energy/energy<n><sg>$
@@ -1109,7 +1109,7 @@
 ^capacitance/*capacitance$
 ^./.<sent>$
 
-^If/If<cnjadv>$
+^If/if<cnjadv>$
 ^an/a<det><ind><sg>$
 ^unwary/*unwary$
 ^experimenter/*experimenter$
@@ -1153,7 +1153,7 @@
 ^arrest/arrest<n><sg>$
 ^./.<sent>$
 
-^Even/Even<adv>$
+^Even/Even<np><ant><m><sg>$
 ^lower/low<adj><sint><comp>$
 ^power/power<n><sg>$
 ^vacuum/*vacuum$
@@ -1161,17 +1161,17 @@
 ^or/or<cnjcoo>$
 ^solid/solid<adj><sint>$
 ^state/state<n><sg>$
-^Tesla/Tesla<n><sg>$
+^Tesla/Tesla<np><cog><sg>$
 ^coils/coil<n><pl>$
 ^can/can<vbmod><pres>$
 ^deliver/deliver<vblex><inf>$
-^RF/*RF$
+^RF/RF<n><acr><sp>$
 ^currents/current<n><pl>$
 ^that/that<rel><an><mf><sp>
 ^are/be<vbser><pres>$
 ^capable/capable<adj>$
 ^of/of<pr>$
-^causing/cause<vblex><subs>$
+^causing/cause<vblex><ger>$
 ^temporary/temporary<adj>$
 ^internal/internal<adj>$
 ^tissue/tissue<n><sg>$
@@ -1186,13 +1186,13 @@
 ^heating/heating<n><sg>$
 ^./.<sent>$
 
-^In addition/In addition<adv>$
+^In addition/in addition<adv>$
 ^,/,<cm>$
 ^an/a<det><ind><sg>$
-^RF/*RF$
+^RF/RF<n><acr><sp>$
 ^arc/*arc$
 ^can/can<vbmod><pres>$
-^carbonise/*carbonise$
+^carbonise/carbonise<vblex><inf>$
 ^flesh/flesh<n><sg>$
 ^,/,<cm>$
 ^causing/cause<vblex><ger>$
@@ -1203,7 +1203,7 @@
 ^bone/bone<n><sg>$
 ^-/-<guio>$
 ^deep/deep<adj><sint>$
-^RF/*RF$
+^RF/RF<n><acr><sp>$
 ^burn/burn<n><sg>$
 ^that/that<rel><an><mf><sp>$
 ^may/may<vbmod><inf>$
@@ -1231,7 +1231,7 @@
 ^systems/system<n><pl>$
 ^./.<sent>$
 
-^Professionals/Professional<n><pl>$
+^Professionals/professional<n><pl>$
 ^usually/usually<adv>$
 ^use/use<vblex><pres>$
 ^other/other<det><ind><sp>$
@@ -1251,7 +1251,7 @@
 ^dangerous/dangerous<adj>$
 ^currents/current<n><pl>$
 ^from/from<pr>$
-^entering/enter<vblex><subs>$
+^entering/enter<vblex><ger>$
 ^their/their<det><pos><sp>$
 ^body/body<n><sg>$
 ^./.<sent>$
