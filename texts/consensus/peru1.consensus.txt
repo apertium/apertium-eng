@@ -1,4 +1,4 @@
-^Some/Some<prn><tn><mf><pl>$
+^Some/some<prn><tn><mf><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^oldest/old<adj><sint><sup>$
@@ -19,7 +19,7 @@
 ^and/and<cnjcoo>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^highland/highland<adj>$
+^highland/highland<n><sg>$
 ^province/province<n><sg>$
 ^of/of<pr>$
 ^Callejón/*Callejón$
@@ -27,7 +27,7 @@
 ^Huaylas/*Huaylas$
 ^./.<sent>$
 
-^Over/Over<pr>$
+^Over/over<pr>$
 ^the/the<det><def><sp>$
 ^following/following<adj>$
 ^three thousand/three thousand<num><sp>$
@@ -39,7 +39,7 @@
 ^nomadic/nomadic<adj>$
 ^lifestyles/lifestyle<n><pl>$
 ^to/to<pr>$
-^cultivating/cultivate<vblex><subs>$
+^cultivating/cultivate<vblex><ger>$
 ^land/land<n><sg>$
 ^,/,<cm>$
 ^as/as<cnjadv>$
@@ -57,7 +57,7 @@
 ^demonstrates/demonstrate<vblex><pres><p3><sg>$
 ^./.<sent>$
 
-^Cultivation/*Cultivation$
+^Cultivation/cultivation<n><sg>$
 ^of/of<pr>$
 ^plants/plant<n><pl>$
 ^such as/such as<pr>$
@@ -84,7 +84,7 @@
 ^llama/llama<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^alpaca/*alpaca$
+^alpaca/alpaca<n><sg>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
@@ -114,7 +114,7 @@
 ^advanced/advance<adj>$
 ^techniques/technique<n><pl>$
 ^of/of<pr>$
-^cultivation/*cultivation$
+^cultivation/cultivation<n><sg>$
 ^,/,<cm>$
 ^gold/gold<n><sg>$
 ^and/and<cnjcoo>$
@@ -129,7 +129,7 @@
 ^knitting/knit<vblex><subs>$
 ^./.<sent>$
 
-^Around/Around<pr>$
+^Around/around<pr>$
 ^700/700<num>$
 ^BC/*BC$
 ^,/,<cm>$
@@ -152,7 +152,7 @@
 ^civilisation/civilisation<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^empire/empire<n><sg>$
 ^originated/originate<vblex><past>$
 ^from/from<pr>$
@@ -214,7 +214,7 @@
 ^Cuzco/*Cuzco$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^empire/empire<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^divided/divide<vblex><pp>$
@@ -232,7 +232,7 @@
 ^Collasuyo/*Collasuyo$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Tahuantinsuyo/*Tahuantinsuyo$
 ^was/be<vbser><past><p3><sg>$
 ^organised/organise<vblex><pp>$
@@ -252,7 +252,7 @@
 ^Inca/Inca<n><sg>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^also/also<adv>$
 ^supported/support<vblex><pp>$
@@ -269,7 +269,7 @@
 ^land/land<n><sg>$
 ^./.<sent>$
 
-^In fact/In fact<adv>$
+^In fact/in fact<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Inca/Inca<adj>$
@@ -281,7 +281,7 @@
 ^ambitious/ambitious<adj>$
 ^and/and<cnjcoo>$
 ^audacious/audacious<adj>$
-^civilising/civilise<vblex><pprs>$
+^civilising/civilise<vblex><subs>$
 ^project/project<n><sg>$
 ^,/,<cm>$
 ^based/base<vblex><pp>$
@@ -310,7 +310,7 @@
 ^essential/essential<adj>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^empire/empire<n><sg>$
 ^,/,<cm>$
 ^being/be<vbser><ger>$
@@ -345,7 +345,7 @@
 ^relayed/*relayed$
 ^information/information<n><sg>$
 ^from/from<pr>$
-^anywhere/*anywhere$
+^anywhere/anywhere<adv>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^empire/empire<n><sg>$
@@ -374,7 +374,7 @@
 ^civilisation/civilisation<n><sg>$
 ^./.<sent>$
 
-^Centered/Centre<vblex><pp>$
+^Centered/centre<vblex><pp>$
 ^at/at<pr>$
 ^Cuzco/*Cuzco$
 ^,/,<cm>$
@@ -421,7 +421,7 @@
 ^Atahualpa/Atahualpa<np><ant><m><sg>$
 ^./.<sent>$
 
-^Taking advantage of/Take<vblex><ger># advantage of$
+^Taking advantage of/take<vblex><ger># advantage of$
 ^this/this<prn><tn><mf><sg>$
 ^,/,<cm>$
 ^Pizarro/Pizarro<np><cog><sg>$
@@ -430,7 +430,7 @@
 ^coup d'état/coup<n><sg># d'état$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^November/November<n><sg>$
 ^16/16<num>$
 ^,/,<cm>$
@@ -447,7 +447,7 @@
 ^Cajamarca/*Cajamarca$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Spanish/Spanish<n><sg>$
+^Spanish/Spanish<n><pl>$
 ^in/in<pr>$
 ^a/a<det><ind><sg>$
 ^surprise/surprise<n><sg>$
@@ -458,7 +458,7 @@
 ^Atahualpa/Atahualpa<np><ant><m><sg>$
 ^during/during<pr>$
 ^the/the<det><def><sp>$
-^Battle/Battle<n><sg>$
+^Battle/battle<n><sg>$
 ^of/of<pr>$
 ^Cajamarca/*Cajamarca$
 ^,/,<cm>$
@@ -485,7 +485,7 @@
 ^killed/kill<vblex><pp>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Spanish/Spanish<n><sg>$
+^Spanish/Spanish<n><pl>$
 ^tried/try<vblex><past>$
 ^and/and<cnjcoo>$
 ^convicted/convict<vblex><past>$
@@ -500,7 +500,7 @@
 ^strangulation/*strangulation$
 ^./.<sent>$
 
-^Establishing/Establish<vblex><ger>$
+^Establishing/establish<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^stable/stable<adj>$
 ^colonial/colonial<adj>$
@@ -512,7 +512,7 @@
 ^time/time<n><sg>$
 ^by/by<pr>$
 ^native/native<adj>$
-^revolts/revolt<vblex><pres><p3><sg>$
+^revolts/revolt<n><pl>$
 ^and/and<cnjcoo>$
 ^bands/band<n><pl>$
 ^of/of<pr>$
@@ -546,13 +546,13 @@
 ^victorious/victorious<adj>$
 ^at/at<pr>$
 ^the/the<det><def><sp>$
-^Battle/Battle<n><sg>$
+^Battle/battle<n><sg>$
 ^of/of<pr>$
 ^Las/*Las$
 ^Salinas/*Salinas$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1541/1541<num>$
 ^,/,<cm>$
 ^Pizarro/Pizarro<np><cog><sg>$
@@ -588,7 +588,7 @@
 ^war/war<n><sg>$
 ^./.<sent>$
 
-^Despite/Despite<pr>$
+^Despite/despite<pr>$
 ^this/this<prn><tn><mf><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -601,7 +601,7 @@
 ^process/process<n><sg>$
 ^./.<sent>$
 
-^Its/Its<det><pos><sp>$
+^Its/its<det><pos><sp>$
 ^most/most<det><qnt><sp>$
 ^significant/significant<adj>$
 ^milestone/milestone<n><sg>$
@@ -625,7 +625,7 @@
 ^organised/organise<vblex><pp>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^new/new<adj><sint>$
 ^rulers/ruler<n><pl>$
 ^instituted/*instituted$
@@ -652,14 +652,14 @@
 ^Seville/Seville<np><top><sg>$
 ^in return/in return<adv>$
 ^for/for<pr>$
-^converting/convert<vblex><subs>$
+^converting/convert<vblex><ger>$
 ^the/the<det><def><sp>$
 ^natives/native<n><pl>$
 ^to/to<pr>$
 ^Christianity/Christianity<n><sg>$
 ^./.<sent>$
 
-^Title/Title<n><sg>$
+^Title/title<n><sg>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^land/land<n><sg>$
@@ -707,7 +707,7 @@
 ^structure/structure<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^indigenous/*indigenous$
 ^inhabitants/inhabitant<n><pl>$
 ^of/of<pr>$
@@ -730,16 +730,16 @@
 ^landlords/landlord<n><pl>$
 ^./.<sent>$
 
-^Resistance/Resistance<n><sg>$
+^Resistance/resistance<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^punished/punish<vblex><pp>$
 ^severely/severely<adv>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^necessity/*necessity$
 ^of/of<pr>$
-^consolidating/consolidate<vblex><subs>$
+^consolidating/consolidate<vblex><ger>$
 ^Spanish/spanish<adj>$
 ^royal/royal<adj>$
 ^authority/authority<n><sg>$
@@ -753,15 +753,15 @@
 ^creation/creation<n><sg>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
-^Real/Real<adj>$
+^Real/*Real$
 ^Audiencia/*Audiencia$
 ^(/(<lpar>$
-^Royal/Royal<adj>$
-^Audience/Audience<n><sg>$
+^Royal/royal<adj>$
+^Audience/audience<n><sg>$
 ^)/)<rpar>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^following/following<adj>$
 ^year/year<n><sg>$
 ^,/,<cm>$
@@ -804,7 +804,7 @@
 ^were/be<vbser><past>$
 ^split/split<vblex><pp>$
 ^off/off<adv>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^the/the<det><def><sp>$
 ^Viceroyalty/Viceroyalty<n><sg>$
 ^of/of<pr>$
@@ -846,7 +846,7 @@
 ^1776/1776<num>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^creation/creation<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -899,7 +899,7 @@
 ^Peru/Peru<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^economic/economic<adj>$
 ^crisis/crisis<n><sg>$
 ^favoured/favour<vblex><past>$
@@ -915,7 +915,8 @@
 ^This/This<det><dem><sg>$
 ^rebellion/rebellion<n><sg>$
 ^was/be<vbser><past><p3><sg>$
-^headed by/headed by<adv>$
+^headed/head<vblex><pp>$
+^by/by<pr>$
 ^Túpac/*Túpac$
 ^Amaru/*Amaru$
 ^II/II<num><mf><sg>$
@@ -931,19 +932,19 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Iberian/iberian<adj>$
-^Peninsula/Peninsula<n><sg>$
+^Peninsula/peninsula<n><sg>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^degradation/degradation<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Royal/Royal<adj>$
+^Royal/royal<adj>$
 ^power/power<n><sg>$
 ^took place/take<vblex><past># place$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^Creole/Creole<adj>$
+^The/the<det><def><sp>$
+^Creole/creole<adj>$
 ^rebellion/rebellion<n><sg>$
 ^of/of<pr>$
 ^Huánuco/*Huánuco$
@@ -971,7 +972,7 @@
 ^sanctioned/sanction<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
-^Constitution/Constitution<n><sg>$
+^Constitution/constitution<n><sg>$
 ^of/of<pr>$
 ^Cadiz/*Cadiz$
 ^of/of<pr>$
@@ -999,7 +1000,7 @@
 ^America/America<np><top><sg>$
 ^./.<sent>$
 
-^In contrast/In contrast<adv>$
+^In contrast/in contrast<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Criollo/*Criollo$
@@ -1035,7 +1036,7 @@
 ^America/America<np><top><sg>$
 ^./.<sent>$
 
-^After/After<pr>$
+^After/after<cnjadv>$
 ^the/the<det><def><sp>$
 ^world-wide/world-wide<adj>$
 ^crisis/crisis<n><sg>$
@@ -1050,8 +1051,8 @@
 ^another/another<prn><tn><m><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^APRA/*APRA$
+^The/the<det><def><sp>$
+^APRA/APRA<n><acr><sp>$
 ^party/party<n><sg>$
 ^had/have<vblex><past>$
 ^the/the<det><def><sp>$
@@ -1071,7 +1072,7 @@
 ^successful/successful<adj>$
 ^./.<sent>$
 
-^This/This<prn><tn><mf><sg>$
+^This/this<prn><tn><mf><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^a/a<det><ind><sg>$
 ^nationalistic/*nationalistic$
@@ -1081,7 +1082,8 @@
 ^and/and<cnjcoo>$
 ^anti-imperialist/anti-imperialist<adj>$
 ^,/,<cm>$
-^headed by/headed by<adv>$
+^headed/head<vblex><pp>$
+^by/by<pr>$
 ^Victor/Victor<np><ant><m><sg>$
 ^Raul/Raul<np><ant><m><sg>$
 ^Haya/*Haya$
@@ -1092,17 +1094,17 @@
 ^1924/1924<num>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^Socialist/Socialist<adj>$
-^Party/Party<n><sg>$
+^The/the<det><def><sp>$
+^Socialist/socialist<adj>$
+^Party/party<n><sg>$
 ^of/of<pr>$
 ^Peru/Peru<np><top><sg>$
 ^,/,<cm>$
 ^later/later<adv>$
 ^the/the<det><def><sp>$
 ^Peruvian/peruvian<adj>$
-^Communist/Communist<adj>$
-^Party/Party<n><sg>$
+^Communist/communist<adj>$
+^Party/party<n><sg>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
 ^created/create<vblex><pp>$
@@ -1119,7 +1121,7 @@
 ^Mariategui/*Mariategui$
 ^./.<sent>$
 
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^Bustamante/*Bustamante$
 ^y/*y$
 ^Rivero/*Rivero$
@@ -1127,7 +1129,7 @@
 ^to/to<pr>$
 ^create/create<vblex><inf>$
 ^a/a<det><ind><sg>$
-^more/more<det><qnt><sp>$
+^more/more<preadv>$
 ^democratic/democratic<adj>$
 ^government/government<n><sg>$
 ^by/by<pr>$
@@ -1142,20 +1144,20 @@
 ^oligarchy/oligarchy<n><sg>$
 ^./.<sent>$
 
-^Elected/Elect<vblex><pp>$
+^Elected/elect<vblex><pp>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^cooperation/cooperation<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^APRA/*APRA$
+^APRA/APRA<n><acr><sp>$
 ^,/,<cm>$
 ^conflict/conflict<n><sg>$
 ^soon/soon<adv>$
 ^arose/arise<vblex><past>$
 ^between/between<pr>$
 ^the/the<det><def><sp>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^and/and<cnjcoo>$
 ^Haya/*Haya$
 ^de/*de$
@@ -1163,12 +1165,12 @@
 ^Torre/*Torre$
 ^./.<sent>$
 
-^Without/Without<pr>$
+^Without/without<pr>$
 ^the/the<det><def><sp>$
 ^support/support<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^APRA/*APRA$
+^APRA/APRA<n><acr><sp>$
 ^party/party<n><sg>$
 ^,/,<cm>$
 ^Bustamante/*Bustamante$
@@ -1181,8 +1183,8 @@
 ^limited/limit<vblex><pp>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
-^President/President<n><sg>$
+^The/the<det><def><sp>$
+^President/president<n><sg>$
 ^disbanded/*disbanded$
 ^his/his<det><pos><sp>$
 ^Aprista/*Aprista$
@@ -1197,10 +1199,10 @@
 ^one/one<prn><tn><mf><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1948/1948<num>$
 ^,/,<cm>$
-^Minister/Minister<n><sg>$
+^Minister/minister<n><sg>$
 ^Manuel/Manuel<np><ant><m><sg>$
 ^A./*A.$
 ^Odría/*Odría$
@@ -1218,7 +1220,7 @@
 ^to/to<pr>$
 ^ban/ban<vblex><inf>$
 ^the/the<det><def><sp>$
-^APRA/*APRA$
+^APRA/APRA<n><acr><sp>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^when/when<cnjadv>$
@@ -1232,7 +1234,7 @@
 ^post/post<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^a/a<det><ind><sg>$
 ^military/military<adj>$
 ^coup/coup<n><sg>$
@@ -1250,12 +1252,12 @@
 ^president/president<n><sg>$
 ^./.<sent>$
 
-^He/Prpers<prn><subj><p3><m><sg>$
+^He/prpers<prn><subj><p3><m><sg>$
 ^came/come<vblex><past>$
 ^down/down<adv>$
 ^hard/hard<adj><sint>$
 ^on/on<pr>$
-^APRA/*APRA$
+^APRA/APRA<n><acr><sp>$
 ^,/,<cm>$
 ^momentarily/*momentarily$
 ^pleasing/please<vblex><ger>$
@@ -1303,7 +1305,7 @@
 ^policies/policy<n><pl>$
 ^./.<sent>$
 
-^At the same time/At the same time<adv>$
+^At the same time/at the same time<adv>$
 ^,/,<cm>$
 ^however/however<adv>$
 ^,/,<cm>$
@@ -1321,7 +1323,7 @@
 ^régime/*régime$
 ^./.<sent>$
 
-^Owing to/Owing to<pr>$
+^Owing to/owing to<pr>$
 ^such/such<det><ind><sp>$
 ^chronic/chronic<adj>$
 ^inflation/inflation<n><sg>$
@@ -1376,7 +1378,7 @@
 ^old/old<adj><sint>$
 ^soles/sole<n><pl>$
 ^./.<sent>$
-^During/During<pr>$
+^During/during<pr>$
 ^his/his<det><pos><sp>$
 ^administration/administration<n><sg>$
 ^,/,<cm>$
@@ -1407,7 +1409,7 @@
 ^20%/20%<num><percent>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^the/the<det><def><sp>$
 ^end/end<n><sg>$
 ^of/of<pr>$
@@ -1439,8 +1441,8 @@
 ^Sendero/*Sendero$
 ^Luminoso/*Luminoso$
 ^(/(<lpar>$
-^Shining/Shine<vblex><pprs>$
-^Path/Path<n><sg>$
+^Shining/shining<adj>$
+^Path/path<n><sg>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
@@ -1496,14 +1498,14 @@
 ^:/:<sent>$
 ^the/the<det><def><sp>$
 ^Barrios/*Barrios$
-^Altos/Alto<n><pl>$
+^Altos/*Altos$
 ^massacre/massacre<n><sg>$
 ^and/and<cnjcoo>$
 ^La/*La$
 ^Cantuta/*Cantuta$
 ^massacre/massacre<n><sg>$
 ^by/by<pr>$
-^Government/Government<n><sg>$
+^Government/government<n><sg>$
 ^paramilitary/*paramilitary$
 ^groups/group<n><pl>$
 ^,/,<cm>$
@@ -1516,8 +1518,8 @@
 ^Frecuencia/*Frecuencia$
 ^Latina/*Latina$
 ^by/by<pr>$
-^Shining/Shine<vblex><pprs>$
-^Path/Path<n><sg>$
+^Shining/shine<vblex><ger>$
+^Path/path<n><sg>$
 ^./.<sent>$
 
 ^Those/That<det><dem><pl>$
@@ -1542,7 +1544,7 @@
 ^violence/violence<n><sg>$
 ^./.<sent>$
 
-^With/With<pr>$
+^With/with<pr>$
 ^the/the<det><def><sp>$
 ^capture/capture<n><sg>$
 ^of/of<pr>$
@@ -1559,8 +1561,8 @@
 ^1992/1992<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Shining/Shine<vblex><pprs>$
-^Path/Path<n><sg>$
+^Shining/shine<vblex><ger>$
+^Path/path<n><sg>$
 ^received/receive<vblex><past>$
 ^a/a<det><ind><sg>$
 ^severe/severe<adj>$
@@ -1572,7 +1574,7 @@
 ^organisation/organisation<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^December/December<n><sg>$
 ^1996/1996<num>$
 ^,/,<cm>$
@@ -1583,7 +1585,7 @@
 ^belonging/belong<vblex><pprs>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
-^MRTA/*MRTA$
+^MRTA/MRTA<n><acr><sp>$
 ^took/take<vblex><past>$
 ^over/over<pr>$
 ^the/the<det><def><sp>$
@@ -1598,7 +1600,7 @@
 ^hostage/hostage<n><sg>$
 ^./.<sent>$
 
-^Military/Military<adj>$
+^Military/military<adj>$
 ^commandos/commando<n><pl>$
 ^stormed/*stormed$
 ^the/the<det><def><sp>$
@@ -1627,7 +1629,7 @@
 ^commandos/commando<n><pl>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^later/later<adv>$
 ^emerged/emerge<vblex><past>$
 ^,/,<cm>$
@@ -1651,12 +1653,12 @@
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^rebels/rebel<vblex><pres><p3><sg>$
-^after/after<pr>$
+^after/after<cnjadv>$
 ^they/prpers<prn><subj><p3><mf><pl>$
 ^surrendered/surrender<vblex><past>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^caretaker/*caretaker$
 ^government/government<n><sg>$
 ^presided/*presided$
@@ -1668,7 +1670,7 @@
 ^the/the<det><def><sp>$
 ^responsibility/responsibility<n><sg>$
 ^of/of<pr>$
-^conducting/conduct<vblex><subs>$
+^conducting/conduct<vblex><ger>$
 ^new/new<adj><sint>$
 ^presidential/presidential<adj>$
 ^and/and<cnjcoo>$
@@ -1676,7 +1678,7 @@
 ^elections/election<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^elections/election<n><pl>$
 ^were/be<vbser><past>$
 ^held/hold<vblex><pp>$
@@ -1695,7 +1697,7 @@
 ^./.<sent>$
 
 ^Alejandro/Alejandro<np><ant><m><sg>$
-^Toledo/Toledo<np><top><sg>$
+^Toledo/*Toledo$
 ^(/(<lpar>$
 ^who/who<rel><an><mf><sp>$
 ^led/lead<vblex><past>$
@@ -1706,7 +1708,7 @@
 ^)/)<rpar>$
 ^defeated/defeat<vblex><past>$
 ^former/former<adj>$
-^President/President<n><sg>$
+^President/president<n><sg>$
 ^Alan/Alan<np><ant><m><sg>$
 ^García/García<np><cog><sg>$
 ^./.<sent>$

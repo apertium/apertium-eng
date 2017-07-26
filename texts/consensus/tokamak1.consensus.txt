@@ -3,7 +3,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^a/a<det><ind><sg>$
 ^device/device<n><sg>$
-^using/use<vblex><pprs>$
+^using/use<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^magnetic/magnetic<adj>$
 ^field/field<n><sg>$
@@ -19,7 +19,7 @@
 ^torus/*torus$
 ^./.<sent>$
 
-^Achieving/achieve<vblex><subs>$
+^Achieving/achieve<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^stable/stable<adj>$
 ^plasma/plasma<n><sg>$
@@ -145,7 +145,7 @@
 ^most-researched/most-researched<adj>$
 ^candidates/candidate<n><pl>$
 ^for/for<pr>$
-^producing/produce<vblex><subs>$
+^producing/produce<vblex><ger>$
 ^controlled/control<vblex><pp>$
 ^thermonuclear/thermonuclear<adj>$
 ^fusion/fusion<n><sg>$
@@ -158,7 +158,7 @@
 ^used/use<vblex><pp>$
 ^for/for<pr>$
 ^confinement/confinement<n><sg>$
-^since/since<adv>$
+^since/since<cnjadv>$
 ^no/no<det><ind><sp>$
 ^solid/solid<adj><sint>$
 ^material/material<n><sg>$
@@ -323,7 +323,7 @@
 ^at/at<pr>$
 ^the/the<det><def><sp>$
 ^third/third<det><ord><sp>$
-^IAEA/*IAEA$
+^IAEA/IAEA<n><acr><sp>$
 ^International/international<adj>$
 ^Conference/conference<n><sg>$
 ^on/on<pr>$
@@ -371,16 +371,16 @@
 ^were/be<vbser><past>$
 ^far/far<adv>$
 ^from/from<pr>$
-^reaching/reach<vblex><subs>$
+^reaching/reach<vblex><ger>$
 ^that/that<det><dem><sg>$
 ^benchmark/*benchmark$
 ^;/;<sent>$
 ^they/prpers<prn><subj><p3><mf><pl>$
 ^remained/remain<vblex><past>$
 ^suspicious/suspicious<adj>$
-^until/until<pr>$
+^until/until<cnjadv>$
 ^laser/laser<n><sg>$
-^scattering/scatter<n><sg>$
+^scattering/scatter<vblex><subs>$
 ^tests/test<n><pl>$
 ^confirmed/confirm<vblex><past>$
 ^the/the<det><def><sp>$
@@ -542,7 +542,7 @@
 ^be/be<vbser><inf>$
 ^understood/understand<vblex><pp>$
 ^by/by<pr>$
-^looking/look<vblex><subs>$
+^looking/look<vblex><ger>$
 ^at/at<pr>$
 ^the/the<det><def><sp>$
 ^orbits/orbit<n><pl>$
@@ -555,7 +555,7 @@
 ^particles/particle<n><pl>$
 ^not/not<adv>$
 ^only/only<adv>$
-^spiral/spiral<n><sg>$
+^spiral/spiral<vblex><pres>$
 ^around/around<pr>$
 ^the/the<det><def><sp>$
 ^field/field<n><sg>$
@@ -569,7 +569,7 @@
 ^field/field<n><sg>$
 ^./.<sent>$
 
-^Since/since<adv>$
+^Since/since<cnjadv>$
 ^a/a<det><ind><sg>$
 ^toroidal/*toroidal$
 ^field/field<n><sg>$
@@ -674,7 +674,7 @@
 ^The/the<det><def><sp>$
 ^magnetic/magnetic<adj>$
 ^field/field<n><sg>$
-^outside/outside<n><sg>$
+^outside/outside<pr>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^cannot/can<vbmod><pres>+not<adv>$
@@ -857,7 +857,7 @@
 ^the/the<det><def><sp>$
 ^effect/effect<n><sg>$
 ^of/of<pr>$
-^twisting/twist<vblex><subs>$
+^twisting/twist<vblex><ger>$
 ^the/the<det><def><sp>$
 ^field/field<n><sg>$
 ^lines/line<n><pl>$
@@ -969,7 +969,7 @@
 ^15/15<num>$
 ^Mega-amps/*Mega-amps$
 ^in/in<pr>$
-^ITER/*ITER$
+^ITER/ITER<n><acr><sp>$
 ^)/)<rpar>$
 ^suffers/suffer<vblex><pres><p3><sg>$
 ^from/from<pr>$
@@ -1098,7 +1098,7 @@
 
 ^In/in<pr>$
 ^the/the<det><def><sp>$
-^ITER/*ITER$
+^ITER/ITER<n><acr><sp>$
 ^tokamak/*tokamak$
 ^,/,<cm>$
 ^it/prpers<prn><subj><p3><nt><sg>$
@@ -1146,7 +1146,7 @@
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^temperature/temperature<n><sg>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^fresh/fresh<adj><sint>$
 ^deuterium/deuterium<n><sg>$
 ^and/and<cnjcoo>$
@@ -1194,7 +1194,8 @@
 ^million/million<num><sp>$
 ^degrees/degree<n><pl>$
 ^Celsius/*Celsius$
-^)/)<rpar>$^./.<sent>$
+^)/)<rpar>$
+^./.<sent>$
 ^In/in<pr>$
 ^current/current<n><sg>$
 ^tokamak/*tokamak$
@@ -1218,7 +1219,7 @@
 ^temperature/temperature<n><sg>$
 ^./.<sent>$
 
-^Since/since<adv>$
+^Since/since<cnjadv>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
@@ -1234,7 +1235,7 @@
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^by/by<pr>$
-^inducing/induce<vblex><subs>$
+^inducing/induce<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^current/current<n><sg>$
 ^through/through<pr>$
@@ -1265,13 +1266,13 @@
 ^induced/induce<vblex><pp>$
 ^by/by<pr>$
 ^slowly/slowly<adv>$
-^increasing/increase<vblex><subs>$
+^increasing/increase<vblex><ger>$
 ^the/the<det><def><sp>$
 ^current/current<n><sg>$
 ^through/through<pr>$
 ^an/a<det><ind><sg>$
 ^electromagnetic/electromagnetic<adj>$
-^winding/*winding$
+^winding/winding<n><sg>$
 ^linked/link<vblex><pp>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
@@ -1286,7 +1287,7 @@
 ^as/as<pr>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
-^winding/*winding$
+^winding/winding<n><sg>$
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
 ^transformer/transformer<n><sg>$
@@ -1342,7 +1343,7 @@
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^caused/cause<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
@@ -1363,7 +1364,7 @@
 ^same/same<adj>$
 ^kind/kind<n><sg>$
 ^of/of<pr>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^that/that<rel><an><mf><sp>$
 ^occurs/occur<vblex><pres><p3><sg>$
 ^in/in<pr>$
@@ -1413,7 +1414,7 @@
 ^decreases/decrease<n><pl>$
 ^and/and<cnjcoo>$
 ^ohmic/ohmic<adj>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^becomes/become<vblex><pres><p3><sg>$
 ^less/less<adv>$
 ^effective/effective<adj>$
@@ -1429,7 +1430,7 @@
 ^attainable/attainable<adj>$
 ^by/by<pr>$
 ^ohmic/ohmic<adj>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^in/in<pr>$
 ^a/a<det><ind><sg>$
 ^tokamak/*tokamak$
@@ -1447,7 +1448,7 @@
 ^temperatures/temperature<n><pl>$
 ^,/,<cm>$
 ^additional/additional<adj>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^methods/method<n><pl>$
 ^must/must<vbmod><pres>$
 ^be/be<vbser><inf>$
@@ -1569,7 +1570,7 @@
 ^achieved/achieve<vblex><pp>$
 ^simply/simply<adv>$
 ^by/by<pr>$
-^moving/move<vblex><subs>$
+^moving/move<vblex><ger>$
 ^the/the<det><def><sp>$
 ^plasma/plasma<n><sg>$
 ^into/into<pr>$
@@ -1587,7 +1588,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^Since/since<adv>$
+^Since/since<cnjadv>$
 ^plasma/plasma<n><sg>$
 ^compression/compression<n><sg>$
 ^brings/bring<vblex><pres><p3><sg>$
@@ -1603,7 +1604,7 @@
 ^additional/additional<adj>$
 ^benefit/benefit<n><sg>$
 ^of/of<pr>$
-^facilitating/facilitate<vblex><subs>$
+^facilitating/facilitate<vblex><ger>$
 ^attainment/attainment<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -1629,9 +1630,9 @@
 ^by/by<pr>$
 ^gyrotrons/*gyrotrons$
 ^or/or<cnjcoo>$
-^klystrons/*klystrons$
+^klystrons/klystron<n><pl>$
 ^)/)<rpar>$
-^outside/outside<n><sg>$
+^outside/outside<pr>$
 ^the/the<det><def><sp>$
 ^torus/*torus$
 ^./.<sent>$
@@ -1666,7 +1667,7 @@
 ^which/which<rel><an><mf><sp>$
 ^in/in<pr>$
 ^turn/turn<n><sg>$
-^collide/*collide$
+^collide/collide<vblex><pres>$
 ^with/with<pr>$
 ^other/other<det><ind><sp>$
 ^plasma/plasma<n><sg>$
@@ -1685,19 +1686,19 @@
 ^Various/various<det><ind><pl>$
 ^techniques/technique<n><pl>$
 ^exist/exist<vblex><pres>$
-^including/include<vblex><pprs>$
+^including/include<vblex><ger>$
 ^electron/electron<n><sg>$
-^cyclotron/*cyclotron$
+^cyclotron/cyclotron<n><sg>$
 ^resonance/resonance<n><sg>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^(/(<lpar>$
-^ECRH/*ECRH$
+^ECRH/ECRH<n><acr><sp>$
 ^)/)<rpar>$
 ^and/and<cnjcoo>$
 ^ion/ion<n><sg>$
-^cyclotron/*cyclotron$
+^cyclotron/cyclotron<n><sg>$
 ^resonance/resonance<n><sg>$
-^heating/heat<vblex><subs>$
+^heating/heating<n><sg>$
 ^./.<sent>$
 
 ^This/this<det><dem><sg>$
@@ -1771,7 +1772,7 @@
 ^of/of<pr>$
 ^tokamak/*tokamak$
 ^reactors/reactor<n><pl>$
-^since/since<adv>$
+^since/since<cnjadv>$
 ^these/this<det><dem><pl>$
 ^freed/free<vblex><pp>$
 ^neutrons/neutron<n><pl>$
@@ -1846,7 +1847,7 @@
 ^are/be<vbser><pres>$
 ^used/use<vblex><pp>$
 ^as/as<pr>$
-^refrigerants/*refrigerants$
+^refrigerants/refrigerant<n><pl>$
 ^./.<sent>$
 
 ^Ceramic/ceramic<adj>$

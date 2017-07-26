@@ -50,7 +50,7 @@
 ^some/some<det><qnt><sp>$
 ^types/type<n><pl>$
 ^of/of<pr>$
-^racing/race<vblex><pprs>$
+^racing/racing<adj>$
 ^cars/car<n><pl>$
 ^,/,<cm>$
 ^only/only<adv>$
@@ -207,7 +207,7 @@
 ^are/be<vbser><pres>$
 ^selectable/selectable<adj>$
 ^by/by<pr>$
-^locking/lock<vblex><subs>$
+^locking/lock<vblex><ger>$
 ^selected/select<vblex><pp>$
 ^gear/gear<n><sg>$
 ^pairs/pair<n><pl>$
@@ -230,7 +230,7 @@
 ^(/(<lpar>$
 ^planetary/planetary<adj>$
 ^)/)<rpar>$
-^gearing/*gearing$
+^gearing/gearing<n><sg>$
 ^controlled/control<vblex><pp>$
 ^by/by<pr>$
 ^brake/brake<n><sg>$
@@ -264,7 +264,7 @@
 ^./.<sent>$
 
 ^A/a<det><ind><sg>$
-^manual/manual<adj>/manual<n><sg>$
+^manual/manual<adj>$
 ^-/-<guio>$
 ^style/style<n><sg>$
 ^transmission/transmission<n><sg>$
@@ -377,7 +377,7 @@
 ^an/a<det><ind><sg>$
 ^accident/accident<n><sg>$
 ^of/of<pr>$
-^combining/combine<vblex><subs>$
+^combining/combine<vblex><ger>$
 ^gear/gear<n><sg>$
 ^sets/set<n><pl>$
 ^,/,<cm>$
@@ -412,7 +412,7 @@
 ^a/a<det><ind><sg>$
 ^way/way<n><sg>$
 ^of/of<pr>$
-^distinguishing/distinguish<vblex><subs>$
+^distinguishing/distinguish<vblex><ger>$
 ^between/between<pr>$
 ^automatic/automatic<adj>$
 ^or/or<cnjcoo>$
@@ -476,7 +476,7 @@
 ^of/of<pr>$
 ^transmission/transmission<n><sg>$
 ^offered/offer<vblex><pp>$
-^multiple/multiple<adj>/multiple<n><sg>$
+^multiple/multiple<adj>$
 ^gear/gear<n><sg>$
 ^ratios/ratio<n><pl>$
 ^and/and<cnjcoo>$
@@ -496,14 +496,14 @@
 ^by/by<pr>$
 ^sliding/sliding<adj>$
 ^them/prpers<prn><obj><p3><mf><pl>$
-^on/on<adv>/on<pr>$
+^on/on<pr>$
 ^their/their<det><pos><sp>$
 ^shafts/shaft<n><pl>$
 ^(/(<lpar>$
 ^hence/hence<cnjadv>$
 ^the/the<det><def><sp>$
 ^phrase/phrase<n><sg>$
-^shifting/shift<vblex><subs>$
+^shifting/shift<vblex><ger>$
 ^gears/gear<n><pl>$
 ^)/)<rpar>$
 ^,/,<cm>$
@@ -515,7 +515,7 @@
 ^throttle/throttle<n><sg>$
 ^manipulation/manipulation<n><sg>$
 ^when/when<cnjadv>$
-^shifting/shift<vblex><subs>$
+^shifting/shift<vblex><ger>$
 ^,/,<cm>$
 ^so/so<cnjadv>$
 ^the/the<det><def><sp>$
@@ -529,7 +529,7 @@
 ^same/same<adj>$
 ^speed/speed<n><sg>$
 ^when/when<cnjadv>$
-^engaged/engage<vblex><past>$
+^engaged/engage<vblex><pp>$
 ^;/;<sent>$
 ^otherwise/otherwise<adv>$
 ^,/,<cm>$
@@ -558,12 +558,12 @@
 ^the/the<det><def><sp>$
 ^difficulty/difficulty<n><sg>$
 ^in/in<pr>$
-^changing/change<vblex><subs>$
+^changing/change<vblex><ger>$
 ^gears/gear<n><pl>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
 ^loud/loud<adj><sint>$
-^grinding/grind<vblex><pprs>$
+^grinding/grind<vblex><ger>$
 ^sound/sound<n><sg>$
 ^that/that<rel><an><mf><sp>$
 ^often/often<adv>$
@@ -596,7 +596,7 @@
 "
 ^synchro-mesh/synchro-mesh<n><sg>$
 "
-^being/be<vbser><pprs>$
+^being/be<vbser><ger>$
 ^a/a<det><ind><sg>$
 ^further/far<adj><sint><comp>$
 ^refinement/refinement<n><sg>$
@@ -741,7 +741,7 @@
 ^match/match<vblex><inf>$
 ^speeds/speed<n><pl>$
 ^for/for<pr>$
-^engaging/engage<vblex><subs>$
+^engaging/engage<vblex><ger>$
 ^the/the<det><def><sp>$
 ^next/next<adv>$
 ^lower/low<adj><sint><comp>$
@@ -773,7 +773,7 @@
 ^clutch/clutch<n><sg>$
 ^only/only<adv>$
 ^for/for<pr>$
-^starting/start<vblex><subs>$
+^starting/start<vblex><ger>$
 ^from/from<pr>$
 ^a/a<det><ind><sg>$
 ^stop/stop<n><sg>$
@@ -1031,10 +1031,10 @@
 ^lorries/lorry<n><pl>$
 ^usually/usually<adv>$
 ^have/have<vblex><pres>$
-^synchronised/synchronise<vblex><past>/synchronise<vblex><pp>$
+^synchronised/synchronise<vblex><pp>$
 ^transmissions/transmission<n><pl>$
 ^,/,<cm>$
-^allowing/allow<vblex><pprs>$
+^allowing/allow<vblex><ger>$
 ^untrained/untrained<adj>$
 ^personnel/personnel<n><pl>$
 ^to/to<pr>$
@@ -1087,7 +1087,7 @@
 ^transmissions/transmission<n><pl>$
 ^:/:<sent>$
 ^their/their<det><pos><sp>$
-^low/low<adv>/low<adj><sint>$
+^low/low<adj><sint>$
 ^gear/gear<n><sg>$
 ^inertias/inertia<n><pl>$
 ^and/and<cnjcoo>$
@@ -1095,7 +1095,7 @@
 ^strengths/strength<n><pl>$
 ^mean/mean<vblex><pres>$
 ^that/that<cnjsub>$
-^forcing/force<vblex><subs>$
+^forcing/force<vblex><ger>$
 ^the/the<det><def><sp>$
 ^gears/gear<n><pl>$
 ^to/to<pr>$
@@ -1103,7 +1103,7 @@
 ^speed/speed<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^not/not<adv>$
-^damaging/damage<vblex><pprs>$
+^damaging/damaging<adj>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
@@ -1135,7 +1135,7 @@
 ^not/not<adv>$
 ^conducive/conducive<adj>$
 ^to/to<pr>$
-^having/have<vblex><subs>$
+^having/have<vblex><ger>$
 ^the/the<det><def><sp>$
 ^long/long<adj><sint>$
 ^shift/shift<n><sg>$
@@ -1180,7 +1180,7 @@
 ^rotate/rotate<vblex><inf>$
 ^or/or<cnjcoo>$
 ^be/be<vbser><inf>$
-^locked/lock<vblex><past>/lock<vblex><pp>$
+^locked/lock<vblex><pp>$
 ^to/to<pr>$
 ^the/the<det><def><sp>$
 ^shaft/shaft<n><sg>$
@@ -1216,7 +1216,7 @@
 ^or/or<cnjcoo>$
 ^dogs/dog<n><pl>$
 ^)/)<rpar>$
-^on/on<adv>/on<pr>$
+^on/on<pr>$
 ^its/its<det><pos><sp>$
 ^inner/inner<adj>$
 ^surface/surface<n><sg>$
@@ -1226,7 +1226,7 @@
 ^rings/ring<n><pl>$
 ^with/with<pr>$
 ^teeth/tooth<n><pl>$
-^on/on<adv>/on<pr>$
+^on/on<pr>$
 ^their/their<det><pos><sp>$
 ^outer/outer<adj>$
 ^circumference/circumference<n><sg>$
@@ -1277,7 +1277,7 @@
 ^manipulates/manipulate<vblex><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^collars/collar<n><pl>$
-^using/use<vblex><pprs>$
+^using/use<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^set/set<n><sg>$
 ^of/of<pr>$
@@ -1331,7 +1331,7 @@
 ^two/two<num><sp>$
 ^gears/gear<n><pl>$
 ^;/;<sent>$
-^sliding/slide<vblex><subs>$
+^sliding/slide<vblex><ger>$
 ^in/in<pr>$
 ^one/one<num><sg>$
 ^direction/direction<n><sg>$
@@ -1370,7 +1370,7 @@
 ^the/the<det><def><sp>$
 ^gear/gear<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
-^engaged/engage<vblex><past>/engage<vblex><pp>$
+^engaged/engage<vblex><pp>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^collar/collar<n><sg>$
@@ -1408,7 +1408,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^prevented/prevent<vblex><pp>$
 ^from/from<pr>$
-^bridging/bridge<vblex><subs>$
+^bridging/bridge<vblex><ger>$
 ^the/the<det><def><sp>$
 ^locking/lock<vblex><pprs>$
 ^rings/ring<n><pl>$
@@ -1457,7 +1457,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^prevented/prevent<vblex><pp>$
 ^from/from<pr>$
-^engaging/engage<vblex><subs>$
+^engaging/engage<vblex><ger>$
 ^./.<sent>$
 
 ^The/the<det><def><sp>$
@@ -1574,7 +1574,7 @@
 ^most/most<det><qnt><sp>$
 ^cars/car<n><pl>$
 ^,/,<cm>$
-^requiring/require<vblex><pprs>$
+^requiring/require<vblex><ger>$
 ^only/only<predet><sp>$
 ^a/a<det><ind><sg>$
 ^single/single<adj>$
@@ -1713,7 +1713,7 @@
 ^automotive/automotive<adj>$
 ^transmission/transmission<n><sg>$
 ^and/and<cnjcoo>$
-^changing/change<vblex><subs>$
+^changing/change<vblex><ger>$
 ^gears/gear<n><pl>$
 ^into/into<pr>$
 ^reverse/reverse<adj>$
@@ -1731,7 +1731,7 @@
 ^particularly/particularly<adv>$
 ^at/at<pr>$
 ^high/high<adj><sint>$
-^forward/forward<n><sg>$
+^forward/forward<adj>$
 ^speed/speed<n><sg>$
 ^./.<sent>$
 
@@ -1741,7 +1741,7 @@
 ^usual/usual<adj>$
 ^method/method<n><sg>$
 ^of/of<pr>$
-^providing/provide<vblex><subs>$
+^providing/provide<vblex><ger>$
 ^reverse/reverse<adj>$
 ^,/,<cm>$
 ^with/with<pr>$
@@ -1759,7 +1759,7 @@
 ^be/be<vbser><inf>$
 ^two/two<num><sp>$
 ^mismatched/mismatch<vblex><pp>$
-^forward/forward<n><sg>$
+^forward/forward<adj>$
 ^gears/gear<n><pl>$
 ^,/,<cm>$
 ^is/be<vbser><pres><p3><sg>$

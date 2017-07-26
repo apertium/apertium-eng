@@ -1,4 +1,4 @@
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^late/late<adj><sint>$
 ^1960s/1960s<num>$
@@ -12,7 +12,7 @@
 ^electoral/electoral<adj>$
 ^boundaries/boundary<n><pl>$
 ^,/,<cm>$
-^voting/vote<vblex><pprs>$
+^voting/vote<vblex><ger>$
 ^rights/right<n><pl>$
 ^,/,<cm>$
 ^and/and<cnjcoo>$
@@ -29,7 +29,7 @@
 ^Rights/Right<n><pl>$
 ^Association/Association<n><sg>$
 ^(/(<lpar>$
-^NICRA/*NICRA$
+^NICRA/NICRA<n><acr><sp>$
 ^)/)<rpar>$
 ^to/to<pr>$
 ^mount/mount<vblex><inf>$
@@ -42,7 +42,7 @@
 ^change/change<n><sg>$
 ^./.<sent>$
 
-^While/While<cnjadv>$
+^While/while<cnjadv>$
 ^initially/initially<adv>$
 ^welcomed/welcome<vblex><pp>$
 ^by/by<pr>$
@@ -57,12 +57,12 @@
 ^them/prpers<prn><obj><p3><mf><pl>$
 ^and/and<cnjcoo>$
 ^the/the<det><def><sp>$
-^Army/Army<n><sg>$
+^Army/army<n><sg>$
 ^soon/soon<adv>$
 ^deteriorated/deteriorate<vblex><past>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^response/response<n><sg>$
 ^to/to<pr>$
 ^escalating/*escalating$
@@ -83,7 +83,7 @@
 ^1971/1971<num>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^a/a<det><ind><sg>$
 ^quid pro quo/quid pro quo<adv>$
 ^gesture/gesture<n><sg>$
@@ -104,7 +104,7 @@
 ^by/by<pr>$
 ^the/the<det><def><sp>$
 ^Apprentice/*Apprentice$
-^Boys/Boy<n><pl>$
+^Boys/boy<n><pl>$
 ^of/of<pr>$
 ^Derry/*Derry$
 ^which/which<rel><an><mf><sp>$
@@ -115,7 +115,7 @@
 ^August/August<n><sg>$
 ^./.<sent>$
 
-^There/There<adv>$
+^There/there<adv>$
 ^was/be<vbser><past><p3><sg>$
 ^disorder/disorder<n><sg>$
 ^across/across<pr>$
@@ -138,7 +138,7 @@
 ^rioting/riot<vblex><subs>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^10/10<num>$
 ^August/August<n><sg>$
 ^Bombardier/*Bombardier$
@@ -153,8 +153,8 @@
 ^killed/kill<vblex><pp>$
 ^by/by<pr>$
 ^the/the<det><def><sp>$
-^Provisional/Provisional<adj>$
-^IRA/*IRA$
+^Provisional/provisional<adj>$
+^IRA/IRA<n><acr><sp>$
 ^in/in<pr>$
 ^Derry/*Derry$
 ^,/,<cm>$
@@ -171,7 +171,7 @@
 ^estate/estate<n><sg>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^further/further<adv>$
 ^six/six<num><sp>$
 ^soldiers/soldier<n><pl>$
@@ -213,8 +213,8 @@
 ^in return/in return<adv>$
 ^./.<sent>$
 
-^Provisional/Provisional<adj>$
-^IRA/*IRA$
+^Provisional/provisional<adj>$
+^IRA/IRA<n><acr><sp>$
 ^activity/activity<n><sg>$
 ^also/also<adv>$
 ^increased/increase<vblex><past>$
@@ -251,11 +251,11 @@
 
 ^Both/Both<cnjcoo>$
 ^the/the<det><def><sp>$
-^Official/Official<adj>$
-^IRA/*IRA$
+^Official/official<adj>$
+^IRA/IRA<n><acr><sp>$
 ^and/and<cnjcoo>$
-^Provisional/Provisional<adj>$
-^IRA/*IRA$
+^Provisional/provisional<adj>$
+^IRA/IRA<n><acr><sp>$
 ^had/have<vbhaver><past>$
 ^established/establish<vblex><pp>$
 "
@@ -269,7 +269,7 @@
 ^British/British<adj>$
 ^Army/Army<n><sg>$
 ^and/and<cnjcoo>$
-^RUC/*RUC$
+^RUC/RUC<n><acr><sp>$
 ^in/in<pr>$
 ^Derry/*Derry$
 ^through/through<pr>$
@@ -279,7 +279,7 @@
 ^barricades/barricade<n><pl>$
 ^./.<sent>$
 
-^By/By<pr>$
+^By/by<pr>$
 ^the/the<det><def><sp>$
 ^end/end<n><sg>$
 ^of/of<pr>$
@@ -318,7 +318,7 @@
 ^vehicles/vehicle<n><pl>$
 ^./.<sent>$
 
-^IRA/*IRA$
+^IRA/IRA<n><acr><sp>$
 ^members/member<n><pl>$
 ^openly/openly<adv>$
 ^mounted/mount<vblex><past>$
@@ -378,10 +378,10 @@
 ^businesses/business<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^January/January<n><sg>$
 ^1972/1972<num>$
-^NICRA/*NICRA$
+^NICRA/NICRA<n><acr><sp>$
 ^intended/intend<vblex><past>$
 ^,/,<cm>$
 ^despite/despite<pr>$
@@ -400,7 +400,7 @@
 ^internment/internment<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^authorities/authority<n><pl>$
 ^who/who<rel><an><mf><sp>$
 ^knew/know<vblex><past>$
@@ -427,7 +427,7 @@
 ^stop/stop<vblex><inf>$
 ^it/prpers<prn><obj><p3><nt><sg>$
 ^from/from<pr>$
-^reaching/reach<vblex><subs>$
+^reaching/reach<vblex><ger>$
 ^Guildhall/*Guildhall$
 ^Square/Square<n><sg>$
 ^,/,<cm>$
@@ -446,8 +446,8 @@
 ^then/then<adv>$
 ^Commander/Commander<n><sg>$
 ^of/of<pr>$
-^Land/Land<n><sg>$
-^Forces/Force<n><pl>$
+^Land/land<n><sg>$
+^Forces/force<n><pl>$
 ^in/in<pr>$
 ^Northern Ireland/Northern Ireland<np><top><sg>$
 ^,/,<cm>$
@@ -457,11 +457,11 @@
 ^Battalion/*Battalion$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Parachute/Parachute<n><sg>$
-^Regiment/Regiment<n><sg>$
+^Parachute/parachute<n><sg>$
+^Regiment/regiment<n><sg>$
 ^(/(<lpar>$
 ^1/1<num>$
-^PARA/*PARA$
+^PARA/PARA<n><acr><sp>$
 ^)/)<rpar>$
 ^should/shall<vbmod><past>$
 ^travel/travel<vblex><inf>$
@@ -478,7 +478,7 @@
 ^./.<sent>$
 
 ^1/1<num>$
-^PARA/*PARA$
+^PARA/PARA<n><acr><sp>$
 ^arrived/arrive<vblex><past>$
 ^in/in<pr>$
 ^Derry/*Derry$

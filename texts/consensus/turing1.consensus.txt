@@ -30,7 +30,7 @@
 ^./.<sent>$
 
 ^He/prpers<prn><subj><p3><m><sg>$
-^was/be<vbser><past><p3><sg>/be<vbser><past><p1><sg>$
+^was/be<vbser><past><p3><sg>$
 ^highly/highly<adv>$
 ^influential/influential<adj>$
 ^in/in<pr>$
@@ -131,7 +131,7 @@
 ^section/section<n><sg>$
 ^responsible/responsible<adj>$
 ^for/for<pr>$
-^German/german<adj>$
+^German/German<adj>$
 ^naval/naval<adj>$
 ^cryptanalysis/cryptanalysis<n><sg>$
 ^./.<sent>$
@@ -143,11 +143,11 @@
 ^of/of<pr>$
 ^techniques/technique<n><pl>$
 ^for/for<pr>$
-^breaking/break<vblex><subs>$
-^German/german<adj>$
+^breaking/break<vblex><ger>$
+^German/German<adj>$
 ^cyphers/cypher<n><pl>$
 ^,/,<cm>$
-^including/include<vblex><pprs>$
+^including/include<vblex><ger>$
 ^the/the<det><def><sp>$
 ^method/method<n><sg>$
 ^of/of<pr>$
@@ -366,7 +366,7 @@
 ^for/for<pr>$
 "
 ^the/the<det><def><sp>$
-^appalling/appal<vblex><pprs>$
+^appalling/appalling<adj>$
 ^way/way<n><sg>$
 ^he/prpers<prn><subj><p3><m><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -427,7 +427,7 @@
 ^Civil/civil<adj>$
 ^Service/service<n><sg>$
 ^(/(<lpar>$
-^ICS/*ICS$
+^ICS/ICS<n><acr><sp>$
 ^)/)<rpar>$
 ^at/at<pr>$
 ^Chhatrapur/Chhatrapur<np><top><sg>$
@@ -546,7 +546,7 @@
 ^work/work<n><sg>$
 ^with/with<pr>$
 ^the/the<det><def><sp>$
-^ICS/*ICS$
+^ICS/ICS<n><acr><sp>$
 ^brought/bring<vblex><past>$
 ^the/the<det><def><sp>$
 ^family/family<n><sg>$
@@ -686,7 +686,7 @@
 ^./.<sent>$
 
 ^Very/very<preadv>$
-^early/early<adj><sint>$
+^early/early<adv>$
 ^in/in<pr>$
 ^life/life<n><sg>$
 ^,/,<cm>$
@@ -916,7 +916,7 @@
 ^must/must<vbmod><pres>$
 ^aim/aim<vblex><inf>$
 ^at/at<pr>$
-^becoming/become<vblex><subs>$
+^becoming/become<vblex><ger>$
 ^educated/educate<vblex><pp>$
 ^./.<sent>$
 ^If/if<cnjadv>$
@@ -956,13 +956,13 @@
 ^he/prpers<prn><subj><p3><m><sg>$
 ^loved/love<vblex><past>$
 ^,/,<cm>$
-^solving/solve<vblex><subs>$
+^solving/solve<vblex><ger>$
 ^advanced/advance<vblex><pp>$
 ^problems/problem<n><pl>$
 ^in/in<pr>$
 ^1927/1927<num>$
 ^without/without<pr>$
-^having/have<vbhaver><subs>$
+^having/have<vblex><ger>$
 ^studied/study<vblex><pp>$
 ^even/even<adv>$
 ^elementary/elementary<adj>$
@@ -989,7 +989,7 @@
 ^grasp/grasp<vblex><inf>$
 ^it/prpers<prn><obj><p3><nt><sg>$
 ^,/,<cm>$
-^but/but<cnjcoo>/but<pr>$
+^but/but<cnjcoo>$
 ^he/prpers<prn><subj><p3><m><sg>$
 ^extrapolated/extrapolate<vblex><past>$
 ^Einstein/Einstein<np><cog><sg>$
@@ -1089,7 +1089,7 @@
 ^all/all<predet><sp>$
 ^phenomena/phenomenon<n><pl>$
 ^,/,<cm>$
-^including/include<vblex><pprs>$
+^including/include<vblex><ger>$
 ^the/the<det><def><sp>$
 ^workings/workings<n><pl>$
 ^of/of<pr>$
@@ -1204,7 +1204,7 @@
 ^In/in<pr>$
 ^1928/1928<num>$
 ^,/,<cm>$
-^German/german<adj>$
+^German/German<adj>$
 ^mathematician/mathematician<n><sg>$
 ^David/David<np><ant><m><sg>$
 ^Hilbert/Hilbert<np><cog><sg>$
@@ -1297,7 +1297,7 @@
 ^be/be<vbser><inf>$
 ^capable/capable<adj>$
 ^of/of<pr>$
-^performing/perform<vblex><subs>$
+^performing/perform<vblex><ger>$
 ^any/any<det><ind><sp>$
 ^conceivable/conceivable<adj>$
 ^mathematical/mathematical<adj>$
@@ -1326,7 +1326,7 @@
 ^Entscheidungsproblem/Entscheidungsproblem<n><sg>$
 ^by/by<pr>$
 ^first/first<adv>$
-^showing/show<vblex><subs>$
+^showing/show<vblex><ger>$
 ^that/that<cnjsub>$
 ^the/the<det><def><sp>$
 ^halting/halt<vblex><subs>$
@@ -1370,7 +1370,7 @@
 ^'s/'s<gen>$
 ^equivalent/equivalent<adj>$
 ^proof/proof<n><sg>$
-^using/use<vblex><pprs>$
+^using/use<vblex><ger>$
 ^his/his<det><pos><sp>$
 ^lambda/lambda<n><sg>$
 ^calculus/calculus<n><sg>$
@@ -1448,7 +1448,7 @@
 ^provably/provably<adv>$
 ^capable/capable<adj>$
 ^of/of<pr>$
-^computing/compute<vblex><subs>$
+^computing/compute<vblex><ger>$
 ^anything/anything<prn><tn><m><sg>$
 ^that/that<rel><an><mf><sp>$
 ^is/be<vbser><pres><p3><sg>$
@@ -1587,7 +1587,7 @@
 ^so-called/so-called<adj>$
 ^oracles/oracle<n><pl>$
 ^,/,<cm>$
-^allowing/allow<vblex><pprs>$
+^allowing/allow<vblex><ger>$
 ^a/a<det><ind><sg>$
 ^study/study<n><sg>$
 ^of/of<pr>$

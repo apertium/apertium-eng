@@ -1,4 +1,4 @@
-^In/In<pr>$
+^In/in<pr>$
 ^1941/1941<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
@@ -51,7 +51,7 @@
 ^of/of<pr>$
 ^its/its<det><pos><sp>$
 ^puppet/puppet<n><sg>$
-^Empire/Empire<n><sg>$
+^Empire/empire<n><sg>$
 ^of/of<pr>$
 ^Vietnam/Vietnam<np><top><sg>$
 ^in/in<pr>$
@@ -78,12 +78,12 @@
 ^September/September<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the same/the same<det><ind><sp>$
 ^year/year<n><sg>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Provisional/Provisional<adj>$
+^Provisional/provisional<adj>$
 ^French/french<adj>$
 ^Republic/Republic<n><sg>$
 ^sent/send<vblex><past>$
@@ -92,7 +92,7 @@
 ^Far/Far<adj><sint>$
 ^East/East<n><sg>$
 ^Expeditionary/*Expeditionary$
-^Corps/Corps<n><sg>$
+^Corps/corps<n><sg>$
 ^to/to<pr>$
 ^restore/restore<vblex><inf>$
 ^colonial/colonial<adj>$
@@ -125,7 +125,7 @@
 ^1954/1954<num>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^defeat/defeat<n><sg>$
 ^of/of<pr>$
 ^French/french<adj>$
@@ -135,7 +135,7 @@
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^1954/1954<num>$
-^Battle/Battle<n><sg>$
+^Battle/battle<n><sg>$
 ^of/of<pr>$
 ^Dien/*Dien$
 ^Bien/*Bien$
@@ -156,10 +156,10 @@
 ^the/the<det><def><sp>$
 ^subsequent/subsequent<adj>$
 ^Geneva/Geneva<np><ant><f><sg>$
-^Conference/Conference<n><sg>$
+^Conference/conference<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^colonial/colonial<adj>$
 ^administration/administration<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -172,7 +172,7 @@
 ^under/under<pr>$
 ^the/the<det><def><sp>$
 ^Geneva/Geneva<np><ant><f><sg>$
-^Accords/Accord<n><pl>$
+^Accords/accord<n><pl>$
 ^of/of<pr>$
 ^1954/1954<num>$
 ^,/,<cm>$
@@ -193,10 +193,10 @@
 ^the/the<det><def><sp>$
 ^Vietnamese/vietnamese<adj>$
 ^Demilitarised/*Demilitarised$
-^Zone/Zone<n><sg>$
+^Zone/zone<n><sg>$
 ^./.<sent>$
 
-^Two/Two<num><sp>$
+^Two/two<num><sp>$
 ^states/state<n><pl>$
 ^formed/form<vblex><past>$
 ^after/after<pr>$
@@ -227,7 +227,7 @@
 ^south/south<n><sg>$
 ^./.<sent>$
 
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^300/300<num>$
 ^-/-<guio>$
 ^day/day<n><sg>$
@@ -257,7 +257,7 @@
 ^communists/communist<n><pl>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^partition/partition<n><sg>$
 ^of/of<pr>$
 ^Vietnam/Vietnam<np><top><sg>$
@@ -270,7 +270,7 @@
 ^by/by<pr>$
 ^the/the<det><def><sp>$
 ^Geneva/Geneva<np><ant><f><sg>$
-^Accords/Accord<n><pl>$
+^Accords/accord<n><pl>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
 ^stipulated/stipulate<vblex><past>$
@@ -285,7 +285,7 @@
 ^1956/1956<num>$
 ^./.<sent>$
 
-^However/However<adv>$
+^However/however<adv>$
 ^,/,<cm>$
 ^in/in<pr>$
 ^1955/1955<num>$
@@ -322,12 +322,12 @@
 ^president/president<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Republic/Republic<n><sg>$
+^Republic/republic<n><sg>$
 ^of/of<pr>$
 ^Vietnam/Vietnam<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^pro/*pro$
 ^-/-<guio>$
 ^Hanoi/Hanoi<np><top><sg>$
@@ -348,7 +348,7 @@
 ^government/government<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^North/North<n><sg>$
 ^,/,<cm>$
@@ -381,14 +381,14 @@
 ^purges/purge<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1960/1960<num>$
 ^and/and<cnjcoo>$
 ^1962/1962<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^Soviet/soviet<adj>$
-^Union/Union<n><sg>$
+^Union/union<n><sg>$
 ^and/and<cnjcoo>$
 ^North/North<adj><sint>$
 ^Vietnam/Vietnam<np><top><sg>$
@@ -396,13 +396,13 @@
 ^treaties/treaty<n><pl>$
 ^providing/provide<vblex><pprs>$
 ^for/for<pr>$
-^further/far<adj><sint><comp>$
+^further/further<adv>$
 ^Soviet/soviet<adj>$
 ^military/military<adj>$
 ^support/support<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^South/South<n><sg>$
 ^,/,<cm>$
@@ -423,7 +423,7 @@
 ^thousands/thousand<n><pl>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^1963/1963<num>$
 ^,/,<cm>$
 ^Buddhist/buddhist<adj>$
@@ -473,7 +473,7 @@
 ^assassinated/assassinate<vblex><pp>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^Diem/*Diem$
 ^era/era<n><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -607,7 +607,7 @@
 ^campaign/campaign<n><sg>$
 ^./.<sent>$
 
-^Meanwhile/Meanwhile<adv>$
+^Meanwhile/meanwhile<adv>$
 ^,/,<cm>$
 ^China/China<np><top><sg>$
 ^and/and<cnjcoo>$
@@ -627,9 +627,9 @@
 ^advisers/adviser<n><pl>$
 ^./.<sent>$
 
-^Communist/Communist<adj>$
+^Communist/communist<adj>$
 ^forces/force<n><pl>$
-^supplying/supply<vblex><ger>$
+^supplying/supply<vblex><pprs>$
 ^the/the<det><def><sp>$
 ^Vietcong/*Vietcong$
 ^carried/carry<vblex><past>$
@@ -647,7 +647,7 @@
 ^Laos/Laos<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^communists/communist<n><pl>$
 ^attacked/attack<vblex><past>$
 ^South/South<adj><sint>$
@@ -660,7 +660,7 @@
 ^Offensive/Offensive<n><sg>$
 ^./.<sent>$
 
-^Although/Although<cnjadv>$
+^Although/although<cnjadv>$
 ^the/the<det><def><sp>$
 ^campaign/campaign<n><sg>$
 ^failed/fail<vblex><past>$
@@ -682,7 +682,7 @@
 ^war/war<n><sg>$
 ^./.<sent>$
 
-^Facing/Face<vblex><ger>$
+^Facing/face<vblex><ger>$
 ^an/a<det><ind><sg>$
 ^increasing/increase<vblex><pprs>$
 ^casualty/*casualty$
@@ -703,7 +703,7 @@
 ^the/the<det><def><sp>$
 ^US/US<np><top><sg>$
 ^began/begin<vblex><past>$
-^withdrawing/withdraw<vblex><subs>$
+^withdrawing/withdraw<vblex><ger>$
 ^from/from<pr>$
 ^ground/ground<n><sg>$
 ^combat/combat<n><sg>$
@@ -751,7 +751,7 @@
 ^1973/1973<num>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^December/December<n><sg>$
 ^1974/1974<num>$
 ^,/,<cm>$
@@ -770,10 +770,10 @@
 ^scale/scale<n><sg>$
 ^offensive/offensive<n><sg>$
 ^,/,<cm>$
-^culminating/culminate<vblex><pprs>$
+^culminating/culminate<vblex><ger>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
-^Fall/Fall<n><sg>$
+^Fall/fall<n><sg>$
 ^of/of<pr>$
 ^Saigon/Saigon<np><top><sg>$
 ^on/on<pr>$
@@ -800,12 +800,12 @@
 ^Vietnam/Vietnam<np><top><sg>$
 ^./.<sent>$
 
-^On/On<pr>$
+^On/on<pr>$
 ^2/2<num>$
 ^July/July<n><sg>$
 ^1976/1976<num>$
 ^,/,<cm>$
-^North/North<adj><sint>$
+^North/north<adj><sint>$
 ^and/and<cnjcoo>$
 ^South/South<adj><sint>$
 ^Vietnam/Vietnam<np><top><sg>$
@@ -814,13 +814,13 @@
 ^to/to<pr>$
 ^form/form<vblex><inf>$
 ^the/the<det><def><sp>$
-^Socialist/Socialist<adj>$
-^Republic/Republic<n><sg>$
+^Socialist/socialist<adj>$
+^Republic/republic<n><sg>$
 ^of/of<pr>$
 ^Vietnam/Vietnam<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^war/war<n><sg>$
 ^left/leave<vblex><past>$
 ^Vietnam/Vietnam<np><top><sg>$
@@ -831,7 +831,7 @@
 ^total/total<adj>$
 ^death/death<n><sg>$
 ^toll/toll<n><sg>$
-^standing/stand<vblex><subs>$
+^standing/stand<vblex><ger>$
 ^at/at<pr>$
 ^between/between<pr>$
 ^800,000/800,000<num>$

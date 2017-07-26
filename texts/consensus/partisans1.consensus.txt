@@ -1,10 +1,10 @@
-^On/On<pr>$
+^On/on<pr>$
 ^6/6<num>$
 ^April/April<n><sg>$
 ^1941/1941<num>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Kingdom/Kingdom<n><sg>$
+^Kingdom/kingdom<n><sg>$
 ^of/of<pr>$
 ^Yugoslavia/Yugoslavia<np><top><sg>$
 ^was/be<vbser><past><p3><sg>$
@@ -19,7 +19,7 @@
 ^,/,<cm>$
 ^primarily/primarily<adv>$
 ^by/by<pr>$
-^German/german<adj>$
+^German/German<adj>$
 ^forces/force<n><pl>$
 ^but/but<cnjcoo>$
 ^including/include<vblex><ger>$
@@ -32,7 +32,7 @@
 ^as well/as well<adv>$
 ^./.<sent>$
 
-^During/During<pr>$
+^During/during<pr>$
 ^the/the<det><def><sp>$
 ^invasion/invasion<n><sg>$
 ^,/,<cm>$
@@ -44,7 +44,7 @@
 ^Luftwaffe/*Luftwaffe$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^invasion/invasion<n><sg>$
 ^lasted/last<vblex><past>$
 ^little/little<adv>$
@@ -67,8 +67,8 @@
 ^April/April<n><sg>$
 ^./.<sent>$
 
-^Besides/Besides<adv>$
-^being/be<vbser><subs>$
+^Besides/Besides<cnjadv>$
+^being/be<vbser><ger>$
 ^hopelessly/hopelessly<adv>$
 ^ill/ill<adj><sint>$
 ^-/-<guio>$
@@ -98,7 +98,7 @@
 ^available/available<adj>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^terms/term<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -107,7 +107,7 @@
 ^extremely/extremely<adv>$
 ^severe/severe<adj>$
 ^,/,<cm>$
-^as/as<pr>$
+^as/as<cnjadv>$
 ^the/the<det><def><sp>$
 ^Axis/Axis<n><sg>$
 ^proceeded/proceed<vblex><past>$
@@ -146,7 +146,7 @@
 ^of/of<pr>$
 ^Croatia/Croatia<np><top><sg>$
 ^(/(<lpar>$
-^NDH/*NDH$
+^NDH/NDH<n><acr><sp>$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
@@ -186,7 +186,7 @@
 ^annexed/annex<vblex><past>$
 ^and/and<cnjcoo>$
 ^renamed/rename<vblex><pp>$
-^Province/Province<n><sg>$
+^Province/province<n><sg>$
 ^of/of<pr>$
 ^Ljubljana/*Ljubljana$
 ^)/)<rpar>$
@@ -211,7 +211,7 @@
 ^)/)<rpar>$
 ^./.<sent>$
 
-^It/Prpers<prn><subj><p3><nt><sg>$
+^It/prpers<prn><subj><p3><nt><sg>$
 ^also/also<adv>$
 ^gained/gain<vblex><past>$
 ^control/control<n><sg>$
@@ -237,7 +237,7 @@
 ^,/,<cm>$
 ^though/though<cnjadv>$
 ^wielding/wield<vblex><ger>$
-^little/little<adv>$
+^little/little<det><qnt><sg>$
 ^real/real<adj>$
 ^power/power<n><sg>$
 ^within/within<pr>$
@@ -265,7 +265,7 @@
 ^and/and<cnjcoo>$
 ^annexed/annex<vblex><past>$
 ^the/the<det><def><sp>$
-^Croatian/croatian<adj>$
+^Croatian/Croatian<adj>$
 ^area/area<n><sg>$
 ^of/of<pr>$
 ^Meðimurje/Meðimurje<np><top><sg>$
@@ -297,7 +297,7 @@
 ^Kosovo/Kosovo<np><top><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^dissolution/dissolution<n><sg>$
 ^of/of<pr>$
 ^Yugoslavia/Yugoslavia<np><top><sg>$
@@ -306,7 +306,7 @@
 ^creation/creation<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^NDH/*NDH$
+^NDH/NDH<n><acr><sp>$
 ^,/,<cm>$
 ^Independent/Independent<adj>$
 ^State/State<n><sg>$
@@ -370,13 +370,13 @@
 ^survival/survival<n><sg>$
 ^./.<sent>$
 
-^Early/Early<adv>$
+^Early/early<adv>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^occupation/occupation<n><sg>$
 ^,/,<cm>$
 ^German/German<adj>$
-^forces/force<n><pl>/force<vblex><pres><p3><sg>$
+^forces/force<n><pl>$
 ^would/will<vbmod><past>$
 ^hang/hang<vblex><inf>$
 ^or/or<cnjcoo>$
@@ -403,7 +403,7 @@
 ^killed/kill<vblex><pp>$
 ^./.<sent>$
 
-^Furthermore/Furthermore<adv>$
+^Furthermore/furthermore<adv>$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
 ^country/country<n><sg>$
@@ -414,7 +414,7 @@
 ^law and order/law and order<n><sg>$
 ^,/,<cm>$
 ^with/with<pr>$
-^collaborationist/*collaborationist$
+^collaborationist/collaborationist<adj>$
 ^militias/militia<n><pl>$
 ^roaming/roam<vblex><ger>$
 ^the/the<det><def><sp>$
@@ -424,7 +424,7 @@
 ^population/population<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^government/government<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
@@ -463,7 +463,7 @@
 ^army/army<n><sg>$
 ^./.<sent>$
 
-^Amid/Amid<pr>$
+^Amid/amid<pr>$
 ^the/the<det><def><sp>$
 ^relative/relative<adj>$
 ^chaos/chaos<n><sg>$
@@ -471,8 +471,8 @@
 ^ensued/*ensued$
 ^,/,<cm>$
 ^the/the<det><def><sp>$
-^Communist/Communist<adj>$
-^Party/Party<n><sg>$
+^Communist/communist<adj>$
+^Party/party<n><sg>$
 ^of/of<pr>$
 ^Yugoslavia/Yugoslavia<np><top><sg>$
 ^moved/move<vblex><past>$
@@ -495,7 +495,7 @@
 ^uprising/uprising<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^party/party<n><sg>$
 ^,/,<cm>$
 ^led/lead<vblex><pp>$
@@ -506,7 +506,7 @@
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
 ^banned/ban<vblex><pp>$
-^after/after<adv>$
+^after/after<cnjadv>$
 ^its/its<det><pos><sp>$
 ^significant/significant<adj>$
 ^success/success<n><sg>$
@@ -515,7 +515,7 @@
 ^post/post<n><sg>$
 ^-/-<guio>$
 ^World War I/World War I<np><al><sg>$
-^Yugoslav/Yugoslav<n><sg>$
+^Yugoslav/yugoslav<adj>$
 ^elections/election<n><pl>$
 ^and/and<cnjcoo>$
 ^operated/operate<vblex><past>$

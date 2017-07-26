@@ -1,4 +1,4 @@
-^A/A<det><ind><sg>$
+^A/a<det><ind><sg>$
 ^main/main<adj>$
 ^element/element<n><sg>$
 ^uniting/unite<vblex><pprs>$
@@ -50,7 +50,7 @@
 ^OE/*OE$
 ^cynn/*cynn$
 ^)/)<rpar>$
-^tracing/trace<vblex><pprs>$
+^tracing/trace<vblex><ger>$
 ^their/their<det><pos><sp>$
 ^ancestry/ancestry<n><sg>$
 ^to/to<pr>$
@@ -63,7 +63,7 @@
 ^founder/founder<n><sg>$
 ^./.<sent>$
 
-^Free/Free<adj><sint>$
+^Free/free<adj><sint>$
 ^women/woman<n><pl>$
 ^did/do<vbdo><past>$
 ^not/not<adv>$
@@ -145,7 +145,7 @@
 ^law/law<n><sg>$
 ^./.<sent>$
 
-^The/The<det><def><sp>$
+^The/the<det><def><sp>$
 ^king/king<n><sg>$
 ^was/be<vbser><past><p3><sg>$
 ^bound/bind<vblex><pp>$
@@ -219,7 +219,7 @@
 ^society/society<n><sg>$
 ^,/,<cm>$
 ^usually/usually<adv>$
-^setting/set<vblex><subs>$
+^setting/set<vblex><ger>$
 ^the/the<det><def><sp>$
 ^weregilds/weregilds<n><pl>$
 ^of/of<pr>$
@@ -234,7 +234,7 @@
 ^that/that<prn><tn><mf><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^existing/exist<vblex><pprs>$
+^existing/existing<adj>$
 ^hierarchy/hierarchy<n><sg>$
 ^of/of<pr>$
 ^nobility/nobility<n><sg>$
@@ -252,7 +252,7 @@
 ^king/king<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^case/case<n><sg>$
 ^of/of<pr>$
@@ -289,11 +289,11 @@
 ^an/a<det><ind><sg>$
 ^oath/oath<n><sg>$
 ^on/on<pr>$
-^his/his<prn><pos><mf><sp>$
+^his/his<det><pos><sp>$
 ^innocence/innocence<n><sg>$
 ^./.<sent>$
 
-^Failing/Fail<vblex><ger>$
+^Failing/fail<vblex><ger>$
 ^this/this<prn><tn><mf><sg>$
 ^,/,<cm>$
 ^he/prpers<prn><subj><p3><m><sg>$
@@ -308,7 +308,7 @@
 ^combat/combat<n><sg>$
 ^./.<sent>$
 
-^Corporal/Corporal<adj>$
+^Corporal/corporal<adj>$
 ^or/or<cnjcoo>$
 ^capital punishment/capital punishment<n><sg>$
 ^for/for<pr>$
@@ -370,7 +370,7 @@
 ^fairly/fairly<preadv>$
 ^as/as<cnjadv>$
 ^possible/possible<adj>$
-^once/once<adv>$
+^once/once<cnjadv>$
 ^an/a<det><ind><sg>$
 ^involved/involve<vblex><pp>$
 ^party/party<n><sg>$
@@ -384,7 +384,7 @@
 ^assembly/assembly<n><sg>$
 ^./.<sent>$
 
-^Traditional/Traditional<adj>$
+^Traditional/traditional<adj>$
 ^Germanic/germanic<adj>$
 ^society/society<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
@@ -429,7 +429,7 @@
 ^indirect/indirect<adj>$
 ^result/result<n><sg>$
 ^of/of<pr>$
-^Christianisation/Christianisation<np><sg>$
+^Christianisation/Christianisation<n><sg>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^also/also<adv>$
@@ -450,7 +450,7 @@
 ^society/society<n><sg>$
 ^./.<sent>$
 
-^The same/The same<det><ind><sp>$
+^The same/the same<det><ind><sp>$
 ^effect/effect<n><sg>$
 ^of/of<pr>$
 ^political/political<adj>$
@@ -468,16 +468,16 @@
 ^to/to<pr>$
 ^13th century/13th century<n><sg>$
 ^(/(<lpar>$
-^Age/Age<n><sg>$
+^Age/age<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
 ^Sturlungs/Sturlungs<np><pl>$
 ^,/,<cm>$
-^Consolidation/Consolidation<n><sg>$
+^Consolidation/consolidation<n><sg>$
 ^of/of<pr>$
 ^Sweden/Sweden<np><top><sg>$
 ^,/,<cm>$
-^Civil/Civil<adj>$
+^Civil/civil<adj>$
 ^war/war<n><sg>$
 ^era/era<n><sg>$
 ^in/in<pr>$
@@ -498,7 +498,7 @@
 ^Union/Union<n><sg>$
 ^./.<sent>$
 
-^Elements/Element<n><pl>$
+^Elements/element<n><pl>$
 ^of/of<pr>$
 ^tribal/tribal<adj>$
 ^law/law<n><sg>$
@@ -530,17 +530,17 @@
 ^establishment/establishment<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Imperial/Imperial<adj>$
-^Chamber/Chamber<n><sg>$
-^Court/Court<n><sg>$
+^Imperial/imperial<adj>$
+^Chamber/chamber<n><sg>$
+^Court/court<n><sg>$
 ^in/in<pr>$
 ^the/the<det><def><sp>$
 ^beginning/begin<vblex><pprs>$
-^German/german<adj>$
+^German/German<adj>$
 ^Renaissance/Renaissance<n><sg>$
 ^./.<sent>$
 
-^In/In<pr>$
+^In/in<pr>$
 ^the/the<det><def><sp>$
 ^federalist/federalist<adj>$
 ^organisation/organisation<n><sg>$
@@ -569,7 +569,7 @@
 ^Landsgemeinde/Landsgemeinde<n><sg>$
 ^,/,<cm>$
 ^albeit/albeit<cnjcoo>$
-^subject/subject<n><sg>$
+^subject/subject<adj>$
 ^to/to<pr>$
 ^federal/federal<adj>$
 ^law/law<n><sg>$
