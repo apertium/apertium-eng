@@ -80,7 +80,7 @@
     </def-label>
     <def-label name="DETQNT_ORD" closed="true"><!--Poden anar precedits dels altres tipus de determinant -->
       <tags-item tags="det.qnt.*"/>
-      <tags-item tags="det.ord.*"/>
+      <tags-item tags="adj.ord"/>
     </def-label>
 
     <!--<def-label name="DETITG">
@@ -171,17 +171,17 @@
       <tags-item tags="vblex.pres"/>
       <tags-item tags="vblex.sep.pres"/>
       <tags-item tags="vbser.pres"/>
-      <tags-item tags="vblex.pri.*"/>
-      <tags-item tags="vblex.sep.pri.*"/>
-      <tags-item tags="vbser.pri.*"/>
+      <tags-item tags="vblex.pres.*"/>
+      <tags-item tags="vblex.sep.pres.*"/>
+      <tags-item tags="vbser.pres.*"/>
     </def-label>
     <def-label name="VHAVEPRES" closed="true">
       <tags-item tags="vbhaver.pres"/>
-      <tags-item tags="vbhaver.pri.*"/>
+      <tags-item tags="vbhaver.pres.*"/>
     </def-label>
     <def-label name="VMODPRES" closed="true">
       <tags-item tags="vbmod.pres"/>
-      <tags-item tags="vbmod.pri.*"/>
+      <tags-item tags="vbmod.pres.*"/>
     </def-label>
 
     <def-label name="VAUX" closed="true">
@@ -189,13 +189,20 @@
       <tags-item tags="vaux.pres"/>
       <tags-item tags="vaux.past"/>
       <!-- <tags-item tags="vbdo.pres"/>
-	   <tags-item tags="vbdo.pri.*"/>
+	   <tags-item tags="vbdo.pres.*"/>
 	   <tags-item tags="vbdo.past"/>  -->
+    </def-label>
+
+    <def-label name="VMOD" closed="true">
+      <tags-item tags="vbmod.inf"/>
+      <tags-item tags="vbmod.pres"/>
+      <tags-item tags="vbmod.pres.*"/>
+      <tags-item tags="vbmod.past"/>
     </def-label>
 
     <def-label name="VDO" closed="true">
       <tags-item tags="vbdo.pres"/>
-      <tags-item tags="vbdo.pri.*"/>
+      <tags-item tags="vbdo.pres.*"/>
       <tags-item tags="vbdo.past"/>
     </def-label>
 
@@ -779,6 +786,80 @@
     <label-sequence>
       <label-item label="VERBS_DISCURS"/>
       <label-item label="DETQNT_ORD"/>
+    </label-sequence>
+
+
+    <label-sequence>
+      <label-item label="VLEX"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VSER"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VHAVE"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VDO"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VAUX"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VMOD"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PRNALTRES"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PREP"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PREDET"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="INTERJ"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="ADJ"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="ADV"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PREADV"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="PREADV"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="NUM"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="RELAN"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="RELNN"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="RELADV"/>
+      <label-item label="GEN"/>
     </label-sequence>
 
   </forbid>
