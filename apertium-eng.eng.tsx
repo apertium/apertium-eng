@@ -113,6 +113,10 @@
     </def-label>
     <def-label name="NPALTRES">
       <tags-item tags="np.al.*"/>
+      <tags-item tags="np.org.*"/>
+    </def-label>
+    <def-label name="ABBR">
+      <tags-item tags="abbr"/>
     </def-label>
     <def-label name="PREDET" closed="true">
       <tags-item tags="predet.*"/>
@@ -187,6 +191,7 @@
     <def-label name="VAUX" closed="true">
       <tags-item tags="vaux.inf"/>
       <tags-item tags="vaux.pres"/>
+      <tags-item tags="vaux.pres.*"/>
       <tags-item tags="vaux.past"/>
       <!-- <tags-item tags="vbdo.pres"/>
 	   <tags-item tags="vbdo.pres.*"/>
