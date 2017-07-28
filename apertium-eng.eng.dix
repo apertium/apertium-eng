@@ -25973,6 +25973,7 @@
 <e lm="providing">       <i>providing</i><par n="that__cnjsub"/></e>
 <e lm="rather than">     <i>rather<b/>than</i><par n="that__cnjsub"/></e>
 <e lm="since">           <i>since</i><par n="that__cnjsub"/></e>
+<e lm="ever since">      <i>ever<b/>since</i><par n="that__cnjsub"/></e>
 <e lm="so that">         <i>so<b/>that</i><par n="that__cnjsub"/></e>
 <e lm="such that">       <i>such<b/>that</i><par n="that__cnjsub"/></e>
 <e lm="than">            <i>than</i><par n="that__cnjsub"/></e>
@@ -26075,10 +26076,13 @@
 <e lm="in addition to">  <i>in<b/>addition<b/>to</i><par n="at__pr"/></e>
 <e lm="in compliance with"><i>in<b/>compliance<b/>with</i><par n="at__pr"/></e>
 <e lm="in front of">     <i>in<b/>front<b/>of</i><par n="at__pr"/></e>
+<e lm="in time">         <p><l>in<b/>time</l><r>in<s n="pr"/><j/>time<s n="n"/><s n="sg"/></r></p></e>
 <e lm="in regard to">    <i>in<b/>regard<b/>to</i><par n="at__pr"/></e>
 <e lm="in relation to">  <i>in<b/>relation<b/>to</i><par n="at__pr"/></e>
 <e lm="in respect of">   <i>in<b/>respect<b/>of</i><par n="at__pr"/></e>
 <e lm="in spite of">     <i>in<b/>spite<b/>of</i><par n="at__pr"/></e>
+<e lm="in the future">   <p><l>in<b/>the<b/>future</l><r>in<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>future<s n="adj"/></r></p></e>
+<e lm="in the world">   <p><l>in<b/>the<b/>world</l><r>in<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>world<s n="adj"/></r></p></e>
 <e lm="in view of">      <i>in<b/>view<b/>of</i><par n="at__pr"/></e>
 <e lm="inside">          <i>inside</i><par n="at__pr"/></e>
 <e lm="instead of">      <i>instead<b/>of</i><par n="at__pr"/></e>
@@ -26100,6 +26104,7 @@
 <e lm="right in front of"><i>right<b/>in<b/>front<b/>of</i><par n="at__pr"/></e>
 <e lm="round">           <i>round</i><par n="at__pr"/></e>
 <e lm="since">           <i>since</i><par n="at__pr"/></e>
+<e lm="ever since">      <i>ever<b/>since</i><par n="at__pr"/></e>
 <e lm="so as to">        <i>so<b/>as<b/>to</i><par n="at__pr"/></e>
 <e lm="straight through"><i>straight<b/>through</i><par n="at__pr"/></e>
 <e lm="such as">         <i>such<b/>as</i><par n="at__pr"/></e>
@@ -26670,6 +26675,7 @@
 <e lm="biennial">        <i>biennial</i><par n="expensive__adj"/></e>
 <e lm="big-hearted">     <i>big-hearted</i><par n="expensive__adj"/></e>
 <e lm="big">             <i>big</i><par n="big/__adj"/></e>
+<e lm="bi-hemispherical"><i>bi-hemispherical</i><par n="expensive__adj"/></e>
 <e lm="bijective">       <i>bijective</i><par n="expensive__adj"/></e>
 <e lm="bilabial">        <i>bilabial</i><par n="expensive__adj"/></e>
 <e lm="bilateral">       <i>bilateral</i><par n="expensive__adj"/></e>
@@ -28977,6 +28983,7 @@
 <e lm="leery">           <i>leer</i><par n="happ/y__adj"/></e>
 <e lm="left-handed">     <i>left-handed</i><par n="expensive__adj"/></e>
 <e lm="left-hand">       <i>left-hand</i><par n="expensive__adj"/></e>
+<e lm="left-wing">       <i>left-wing</i><par n="expensive__adj"/></e>
 <e lm="lefthand">        <i>lefthand</i><par n="expensive__adj"/></e>
 <e lm="left">            <i>left</i><par n="expensive__adj"/></e>
 <e lm="legal">           <i>legal</i><par n="expensive__adj"/></e>
@@ -30457,6 +30464,7 @@
 <e lm="righteous">       <i>righteous</i><par n="expensive__adj"/></e>
 <e lm="right-handed">    <i>right-handed</i><par n="expensive__adj"/></e>
 <e lm="right-hand">      <i>right-hand</i><par n="expensive__adj"/></e>
+<e lm="right-wing">      <i>right-wing</i><par n="expensive__adj"/></e>
 <e lm="right">           <i>right</i><par n="common/__adj"/></e>
 <e lm="rightist">        <i>rightist</i><par n="expensive__adj"/></e>
 <e lm="rigid">           <i>rigid</i><par n="expensive__adj"/></e>
@@ -31783,6 +31791,7 @@
 <e lm="valuable">        <i>valuable</i><par n="expensive__adj"/></e>
 <e lm="valueless">       <i>valueless</i><par n="expensive__adj"/></e>
 <e lm="valvular">        <i>valvular</i><par n="expensive__adj"/></e>
+<e lm="vampire-like">    <i>vampire-like</i><par n="expensive__adj"/></e>
 <e lm="vandalic">        <i>vandalic</i><par n="expensive__adj"/></e>
 <e lm="vanished">        <i>vanished</i><par n="expensive__adj"/></e>
 <e lm="vaporous">        <i>vaporous</i><par n="expensive__adj"/></e>
@@ -32396,7 +32405,6 @@
 <e lm="as a consequence"><i>as<b/>a<b/>consequence</i><par n="maybe__adv"/></e>
 <e lm="as a favor">      <i>as<b/>a<b/>favor</i><par n="maybe__adv"/></e>
 <e lm="as a general rule"><i>as<b/>a<b/>general<b/>rule</i><par n="maybe__adv"/></e>
-<e lm="as a">            <i>as<b/>a</i><par n="maybe__adv"/></e>
 <e lm="as a last resort"><i>as<b/>a<b/>last<b/>resort</i><par n="maybe__adv"/></e>
 <e lm="as a matter of course"><i>as<b/>a<b/>matter<b/>of<b/>course</i><par n="maybe__adv"/></e>
 <e lm="as a matter of fact"><i>as<b/>a<b/>matter<b/>of<b/>fact</i><par n="maybe__adv"/></e>
@@ -34719,7 +34727,6 @@
 <e lm="less and less often"><i>less<b/>and<b/>less<b/>often</i><par n="maybe__adv"/></e>
 <e lm="less">            <i>less</i><par n="maybe__adv"/></e>
 <e lm="less than ever">  <i>less<b/>than<b/>ever</i><par n="maybe__adv"/></e>
-<e lm="less than">       <i>less<b/>than</i><par n="maybe__adv"/></e> <!-- tæpur -->
 <e lm="lewdly">          <i>lewdly</i><par n="maybe__adv"/></e>
 <e lm="lexically">       <i>lexically</i><par n="maybe__adv"/></e>
 <e lm="liberally">       <i>liberally</i><par n="maybe__adv"/></e>
@@ -34784,7 +34791,6 @@
 <e lm="magnificently">   <i>magnificently</i><par n="maybe__adv"/></e>
 <e lm="mainly">          <i>mainly</i><par n="maybe__adv"/></e>
 <e lm="majestically">    <i>majestically</i><par n="maybe__adv"/></e>
-<e lm="make sure">       <i>make<b/>sure</i><par n="maybe__adv"/></e>
 <e lm="maliciously">     <i>maliciously</i><par n="maybe__adv"/></e>
 <e lm="mandatorily">     <i>mandatorily</i><par n="maybe__adv"/></e>
 <e lm="manifestly">      <i>manifestly</i><par n="maybe__adv"/></e>
@@ -35046,7 +35052,6 @@
 <e lm="of the same mind"><i>of<b/>the<b/>same<b/>mind</i><par n="maybe__adv"/></e>
 <e lm="of this kind">    <i>of<b/>this<b/>kind</i><par n="maybe__adv"/></e>
 <e lm="of uncertain age"><i>of<b/>uncertain<b/>age</i><par n="maybe__adv"/></e>
-<e lm="of which">        <i>of<b/>which</i><par n="maybe__adv"/></e>
 <e lm="of your own free will"><i>of<b/>your<b/>own<b/>free<b/>will</i><par n="maybe__adv"/></e>
 <e lm="okay">            <i>okay</i><par n="maybe__adv"/></e>
 <e lm="on a case by case basis"><i>on<b/>a<b/>case<b/>by<b/>case<b/>basis</i><par n="maybe__adv"/></e>
@@ -45260,6 +45265,7 @@
 <e lm="Beltrí">          <i>Beltrí</i><par n="Smith__np"/></e>
 <e lm="Belval">          <i>Belval</i><par n="Smith__np"/></e>
 <e lm="Belzile">         <i>Belzile</i><par n="Smith__np"/></e>
+<e lm="Ben Bella">       <i>Ben<b/>Bella</i><par n="Smith__np"/></e>
 <e lm="Benaiges">        <i>Benaiges</i><par n="Gauss__np"/></e>
 <e lm="Benaigés">        <i>Benaigés</i><par n="Gauss__np"/></e>
 <e lm="Benali">          <i>Benali</i><par n="Smith__np"/></e>
@@ -51098,6 +51104,7 @@
 <e lm="Franz Ferdinand"> <i>Franz<b/>Ferdinand</i><par n="Linux__np"/></e>
 <e lm="FreeBSD">         <i>FreeBSD</i><par n="Linux__np"/></e>
 <e lm="Freenet">         <i>Freenet</i><par n="Linux__np"/></e>
+<e lm="Front Polisario"> <i>Front<b/>Polisario</i><par n="Wikimedia__np"/></e>
 <e lm="Gallup">          <i>Gallup</i><par n="Linux__np"/></e>
 <e lm="GameBoy Advance"> <i>GameBoy<b/>Advance</i><par n="Linux__np"/></e>
 <e lm="GameBoy Advance SP"><i>GameBoy<b/>Advance<b/>SP</i><par n="Linux__np"/></e>
