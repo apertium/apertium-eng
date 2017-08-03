@@ -193,9 +193,10 @@
       <tags-item tags="vaux.pres"/>
       <tags-item tags="vaux.pres.*"/>
       <tags-item tags="vaux.past"/>
-      <!-- <tags-item tags="vbdo.pres"/>
-	   <tags-item tags="vbdo.pres.*"/>
-	   <tags-item tags="vbdo.past"/>  -->
+      <tags-item tags="vbdo.inf"/>
+      <tags-item tags="vbdo.pres"/>
+      <tags-item tags="vbdo.pres.*"/>
+      <tags-item tags="vbdo.past"/>
     </def-label>
 
     <def-label name="VMOD" closed="true">
@@ -243,10 +244,10 @@
       <tags-item tags="vbser.*"/>
     </def-label>
     <def-label name="RELAN" closed="true">
-      <tags-item tags="rel.an.*"/>
+      <tags-item tags="prn.rel.an.*"/>
     </def-label>
     <def-label name="RELNN" closed="true">
-      <tags-item tags="rel.nn.*"/>
+      <tags-item tags="prn.rel.nn.*"/>
     </def-label>
     <def-label name="RELADV" closed="true">
       <tags-item tags="rel.adv"/>
@@ -819,10 +820,6 @@
       <label-item label="GEN"/>
     </label-sequence>
     <label-sequence>
-      <label-item label="PRNALTRES"/>
-      <label-item label="GEN"/>
-    </label-sequence>
-    <label-sequence>
       <label-item label="PREP"/>
       <label-item label="GEN"/>
     </label-sequence>
@@ -848,6 +845,10 @@
     </label-sequence>
     <label-sequence>
       <label-item label="PREADV"/>
+      <label-item label="GEN"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="INTNOM"/>
       <label-item label="GEN"/>
     </label-sequence>
     <label-sequence>
