@@ -573,6 +573,10 @@
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
 </pardef>
 
+<pardef n="whose__det">
+  <e>       <p><l></l>          <r><s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
+</pardef>
+
 <pardef n="th/is__det">
   <e>       <p><l>is</l>        <r>is<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
   <e>       <p><l>ese</l>       <r>is<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
@@ -3441,7 +3445,7 @@
 <e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
 <e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
 <e lm="possessive pronoun"><i></i><par n="prpos__prn"/></e>
-<e lm="possessive determinter"><i></i><par n="prpos__det"/></e>
+<e lm="possessive determiner"><i></i><par n="prpos__det"/></e>
 <e r="RL" lm="prdem__prn"><i></i><par n="prdem__prn"/></e>
 <e r="RL" lm="perspos__prn"><i></i><par n="perspos__prn"/></e>
 
@@ -3555,6 +3559,7 @@
 <e lm="every">           <i>every</i><par n="another__det"/></e>
 <e lm="few">             <i>few</i><par n="many__det"/></e>
 <e lm="fewer">           <i>fewer</i><par n="many__det"/></e>
+<e lm="half">            <i>half</i><par n="many__det"/></e>
 <e lm="less">            <i>less</i><par n="much__det"/></e>
 <e lm="lots of">         <i>lots<b/>of</i><par n="enough__det"/></e>
 <e lm="little">          <i>little</i><par n="much__det"/></e>
@@ -3584,6 +3589,7 @@
 <e lm="what">            <i>what</i><par n="what__det"/></e>
 <e lm="which">           <i>which</i><par n="what__det"/></e>
 <e lm="whose">           <i>whose</i><par n="what__det"/></e>
+<e lm="whose">           <i>whose</i><par n="whose__det"/></e>
 
 <e lm="my">              <i>my</i><par n="her__det"/></e>
 <e lm="your">            <i>your</i><par n="her__det"/></e>
@@ -6398,7 +6404,7 @@
 <e lm="centaur">         <i>centaur</i><par n="house__n"/></e>
 <e lm="centaury">        <i>centaury</i><par n="east__n"/></e>
 <e lm="centennial">      <i>centennial</i><par n="house__n"/></e>
-<e lm="center" c="(US)"> <i>center</i><par n="house__n"/></e>
+<e lm="center" v="eng_US"><p><l>center</l>     <r>centre</r></p><par n="house__n"/></e>
 <e lm="centerpiece" c="(US)"><i>centerpiece</i><par n="house__n"/></e>
 <e lm="centigrade">      <i>centigrade</i><par n="house__n"/></e>
 <e lm="centiliter" c="(US)"><i>centiliter</i><par n="house__n"/></e>
@@ -6414,7 +6420,7 @@
 <e lm="centralism">      <i>centralism</i><par n="house__n"/></e>
 <e lm="centralization">  <i>centralization</i><par n="house__n"/></e>
 <e lm="centre circle" c="(GB)"><i>centre<b/>circle</i><par n="house__n"/></e>
-<e lm="centre" c="(GB)"> <i>centre</i><par n="house__n"/></e>
+<e lm="centre">          <i>centre</i><par n="house__n"/></e>
 <e lm="centre for encounter"><i>centre</i><par n="house__n"/><p><l><b/>for<b/>encounter</l><r><g><b/>for<b/>encounter</g></r></p></e>
 <e lm="centre of competence"><i>centre</i><par n="house__n"/><p><l><b/>of<b/>competence</l><r><g><b/>of<b/>competence</g></r></p></e>
 <e lm="centre of curvature"><i>centre</i><par n="house__n"/><p><l><b/>of<b/>curvature</l><r><g><b/>of<b/>curvature</g></r></p></e>
@@ -7073,6 +7079,7 @@
 <e lm="combativeness">   <i>combativeness</i><par n="access__n"/></e>
 <e lm="combination">     <i>combination</i><par n="house__n"/></e>
 <e lm="combinatorics">   <i>combinatorics</i><par n="east__n"/></e>
+<e lm="combine">         <i>combine</i><par n="house__n"/></e>
 <e lm="comb">            <i>comb</i><par n="house__n"/></e>
 <e lm="combustible">     <i>combustible</i><par n="house__n"/></e>
 <e lm="combustion">      <i>combustion</i><par n="house__n"/></e>
@@ -7629,6 +7636,7 @@
 <e lm="counselling">     <i>counselling</i><par n="east__n"/></e>
 <e lm="counsellor">      <i>counsellor</i><par n="house__n"/></e>
 <e lm="counselor">       <i>counselor</i><par n="house__n"/></e>
+<e lm="count">           <i>count</i><par n="house__n"/></e>
 <e lm="countability">    <i>countability</i><par n="east__n"/></e>
 <e lm="countdown">       <i>countdown</i><par n="house__n"/></e>
 <e lm="countenance">     <i>countenance</i><par n="house__n"/></e>
@@ -7758,7 +7766,6 @@
 <e lm="cremation">       <i>cremation</i><par n="house__n"/></e>
 <e lm="crematory">       <i>cremator</i><par n="bab/y__n"/></e>
 <e lm="creole">          <i>creole</i><par n="house__n"/></e>
-<e lm="Creole">          <i>Creole</i><par n="house__n"/></e>
 <e lm="crepe">           <i>crepe</i><par n="house__n"/></e>
 <e lm="crescent roll">   <i>crescent<b/>roll</i><par n="house__n"/></e>
 <e lm="crest">           <i>crest</i><par n="house__n"/></e>
@@ -7783,6 +7790,7 @@
 <e lm="criminality">     <i>criminalit</i><par n="bab/y__n"/></e>
 <e lm="criminalization"> <i>criminalization</i><par n="house__n"/></e>
 <e lm="criminology">     <i>criminolog</i><par n="bab/y__n"/></e>
+<e lm="crimp">           <i>crimp</i><par n="house__n"/></e>
 <e lm="cry">             <i>cr</i><par n="bab/y__n"/></e>
 <e lm="cry for help">    <i>cr</i><par n="bab/y__n"/><p><l><b/>for<b/>help</l><r><g><b/>for<b/>help</g></r></p></e>
 <e lm="crisis">          <i>cris</i><par n="analys/is__n"/></e>
@@ -8665,6 +8673,7 @@
 <e lm="dislodgement">    <i>dislodgement</i><par n="house__n"/></e>
 <e lm="disloyalty">      <i>disloyalt</i><par n="bab/y__n"/></e>
 <e lm="dismantlement">   <i>dismantlement</i><par n="house__n"/></e>
+<e lm="dismay">          <i>dismay</i><par n="house__n"/></e>
 <e lm="dismemberment">   <i>dismemberment</i><par n="house__n"/></e>
 <e lm="dismissal">       <i>dismissal</i><par n="house__n"/></e>
 <e lm="disobedience">    <i>disobedience</i><par n="house__n"/></e>
@@ -8905,6 +8914,7 @@
 <e lm="dressmaker">      <i>dressmaker</i><par n="house__n"/></e>
 <e lm="dressmaking">     <i>dressmaking</i><par n="house__n"/></e>
 <e lm="dribble">         <i>dribble</i><par n="house__n"/></e>
+<e lm="drift">           <i>drift</i><par n="house__n"/></e>
 <e lm="drifting">        <i>drifting</i><par n="east__n"/></e>
 <e lm="driftwood">       <i>driftwood</i><par n="east__n"/></e>
 <e lm="drilling">        <i>drilling</i><par n="house__n"/></e>
@@ -11077,6 +11087,7 @@
 <e lm="grille" c="(US)"> <i>grille</i><par n="house__n"/></e>
 <e lm="grimace">         <i>grimace</i><par n="house__n"/></e>
 <e lm="grimness">        <i>grimness</i><par n="access__n"/></e>
+<e lm="grip">            <i>grip</i><par n="house__n"/></e>
 <e lm="gripe">           <i>gripe</i><par n="house__n"/></e>
 <e lm="grisaille">       <i>grisaille</i><par n="house__n"/></e>
 <e lm="grizzly bear">    <i>grizzly<b/>bear</i><par n="house__n"/></e>
@@ -22994,10 +23005,10 @@
 <e lm="celebrate">       <i>celebrat</i><par n="liv/e__vblex"/></e>
 <e lm="cement">          <i>cement</i><par n="accept__vblex"/></e>
 <e lm="censor">          <i>censor</i><par n="accept__vblex"/></e>
-<e lm="center" c="(US)"> <i>center</i><par n="accept__vblex"/></e>
+<e lm="center" v="eng_US"><p><l>center</l>     <r>centre</r></p><par n="accept__vblex"/></e>
 <e lm="centralise" c="(GB)"><i>centralis</i><par n="liv/e__vblex"/></e>
 <e lm="centralize" c="(US)"><i>centraliz</i><par n="liv/e__vblex"/></e>
-<e lm="centre" c="(GB)"> <i>centr</i><par n="liv/e__vblex"/></e>
+<e lm="centre">          <i>centr</i><par n="liv/e__vblex"/></e>
 <e lm="certify">         <i>certif</i><par n="appl/y__vblex"/></e>
 <e lm="chafe">           <i>chaf</i><par n="liv/e__vblex"/></e>
 <e lm="chain">           <i>chain</i><par n="accept__vblex"/></e>
@@ -25973,7 +25984,6 @@
 <e lm="as far as">       <i>as<b/>far<b/>as</i><par n="that__cnjsub"/></e>
 <e lm="as soon as">      <i>as<b/>soon<b/>as</i><par n="that__cnjsub"/></e>
 <e lm="because">         <i>because</i><par n="that__cnjsub"/></e>
-<e lm="before">          <i>before</i><par n="that__cnjsub"/></e>
 <e lm="if">              <i>if</i><par n="that__cnjsub"/></e>
 <e lm="in order to">     <i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
 <e lm="like">            <i>like</i><par n="that__cnjsub"/></e>
@@ -26004,6 +26014,7 @@
 <e lm="as soon as">      <i>as<b/>soon<b/>as</i><par n="after__cnjadv"/></e>
 <e lm="at the same time as"><i>at<b/>the<b/>same<b/>time<b/>as</i><par n="after__cnjadv"/></e>
 <e lm="because">         <i>because</i><par n="after__cnjadv"/></e>
+<e lm="before">          <i>before</i><par n="after__cnjadv"/></e>
 <e r="RL" lm="considering"><i>considering</i><par n="after__cnjadv"/></e>
 <e lm="due to the fact that"><i>due<b/>to<b/>the<b/>fact<b/>that</i><par n="after__cnjadv"/></e>
 <e lm="even so">         <i>even<b/>so</i><par n="after__cnjadv"/></e>
@@ -26144,28 +26155,28 @@
 
     <!-- SECTION: Adjectives -->
 
-<e lm="Antarctic">       <p><l>Antarctic</l> <r>antarctic</r></p><par n="expensive__adj"/></e>
-<e lm="Aragonese">       <p><l>Aragonese</l> <r>aragonese</r></p><par n="expensive__adj"/></e>
-<e lm="Arthurian">       <p><l>Arthurian</l> <r>arthurian</r></p><par n="expensive__adj"/></e>
-<e lm="Basque">          <p><l>Basque</l>    <r>basque</r></p><par n="expensive__adj"/></e>
+<e lm="Antarctic">       <i>Antarctic</i><par n="expensive__adj"/></e>
+<e lm="Aragonese">       <i>Aragonese</i><par n="expensive__adj"/></e>
+<e lm="Arthurian">       <i>Arthurian</i><par n="expensive__adj"/></e>
+<e lm="Basque">          <i>Basque</i><par n="expensive__adj"/></e>
 <e lm="encyclopedic" v="eng_US"><p><l>encyclopedic</l><r>encyclopaedic</r></p><par n="expensive__adj"/></e>
-<e lm="Galician">        <p><l>Galician</l>  <r>galician</r></p><par n="expensive__adj"/></e>
+<e lm="Galician">        <i>Galician</i><par n="expensive__adj"/></e>
 <e lm="glamourous" v="eng_US"><p><l>glamorous</l><r>glamourous</r></p><par n="expensive__adj"/></e>
-<e lm="Hebrew">          <p><l>Hebrew</l>    <r>hebrew</r></p><par n="expensive__adj"/></e>
-<e lm="Hellenic">        <p><l>Hellenic</l>  <r>hellenic</r></p><par n="expensive__adj"/></e>
-<e lm="Judaic">          <p><l>Judaic</l>    <r>judaic</r></p><par n="expensive__adj"/></e>
-<e lm="Machiavellian">   <p><l>Machiavellian</l><r>machiavellian</r></p><par n="expensive__adj"/></e>
-<e lm="Madrilenian">     <p><l>Madrilenian</l><r>madrilenian</r></p><par n="expensive__adj"/></e>
-<e lm="Napoleonic">      <p><l>Napoleonic</l><r>napoleonic</r></p><par n="expensive__adj"/></e>
-<e lm="Parisian">        <p><l>Parisian</l>  <r>parisian</r></p><par n="expensive__adj"/></e>
-<e lm="Pharaonic">       <p><l>Pharaonic</l> <r>pharaonic</r></p><par n="expensive__adj"/></e>
-<e lm="Phoenician">      <p><l>Phoenician</l><r>phoenician</r></p><par n="expensive__adj"/></e>
-<e lm="Pyrenean">        <p><l>Pyrenean</l>  <r>pyrenean</r></p><par n="expensive__adj"/></e>
-<e lm="Pythagorean">     <p><l>Pythagorean</l><r>pythagorean</r></p><par n="expensive__adj"/></e>
-<e lm="Salvadorian">     <p><l>Salvadorian</l><r>salvadorian</r></p><par n="expensive__adj"/></e>
-<e lm="Senegalese">      <p><l>Senegalese</l><r>senegalese</r></p><par n="expensive__adj"/></e>
-<e lm="Slavic">          <p><l>Slavic</l>    <r>slavic</r></p><par n="expensive__adj"/></e>
-<e lm="Visigothic">      <p><l>Visigothic</l><r>visigothic</r></p><par n="expensive__adj"/></e>
+<e lm="Hebrew">          <i>Hebrew</i><par n="expensive__adj"/></e>
+<e lm="Hellenic">        <i>Hellenic</i><par n="expensive__adj"/></e>
+<e lm="Judaic">          <i>Judaic</i><par n="expensive__adj"/></e>
+<e lm="Machiavellian">   <i>Machiavellian</i><par n="expensive__adj"/></e>
+<e lm="Madrilenian">     <i>Madrilenian</i><par n="expensive__adj"/></e>
+<e lm="Napoleonic">      <i>Napoleonic</i><par n="expensive__adj"/></e>
+<e lm="Parisian">        <i>Parisian</i><par n="expensive__adj"/></e>
+<e lm="Pharaonic">       <i>Pharaonic</i><par n="expensive__adj"/></e>
+<e lm="Phoenician">      <i>Phoenician</i><par n="expensive__adj"/></e>
+<e lm="Pyrenean">        <i>Pyrenean</i><par n="expensive__adj"/></e>
+<e lm="Pythagorean">     <i>Pythagorean</i><par n="expensive__adj"/></e>
+<e lm="Salvadorian">     <i>Salvadorian</i><par n="expensive__adj"/></e>
+<e lm="Senegalese">      <i>Senegalese</i><par n="expensive__adj"/></e>
+<e lm="Slavic">          <i>Slavic</i><par n="expensive__adj"/></e>
+<e lm="Visigothic">      <i>Visigothic</i><par n="expensive__adj"/></e>
 <e r="LR" lm="godforsaken"><p><l>god-forsaken</l><r>godforsaken</r></p><par n="expensive__adj"/></e>
 <e r="LR" lm="off-line"> <p><l>off-line</l>  <r>offline</r></p><par n="expensive__adj"/></e>
 <e r="LR" lm="on-line">  <p><l>on-line</l>   <r>online</r></p><par n="expensive__adj"/></e>
@@ -26350,6 +26361,7 @@
 <e lm="alphanumeric">    <i>alphanumeric</i><par n="expensive__adj"/></e>
 <e lm="alpine">          <i>alpine</i><par n="expensive__adj"/></e>
 <e lm="altaic">          <i>altaic</i><par n="expensive__adj"/></e>
+<e lm="alternate">       <i>alternate</i><par n="expensive__adj"/></e>
 <e lm="alternative">     <i>alternative</i><par n="expensive__adj"/></e>
 <e lm="Maltese">         <par n="Mm"/><i>altese</i><par n="expensive__adj"/></e>
 <e lm="altitudinal">     <i>altitudinal</i><par n="expensive__adj"/></e>
@@ -26503,6 +26515,7 @@
 <e lm="arid">            <i>arid</i><par n="expensive__adj"/></e>
 <e lm="aristocratic">    <i>aristocratic</i><par n="expensive__adj"/></e>
 <e lm="arithmetical">    <i>arithmetical</i><par n="expensive__adj"/></e>
+<e lm="armed">           <i>armed</i><par n="expensive__adj"/></e>
 <e lm="armored">         <i>armored</i><par n="expensive__adj"/></e>
 <e lm="armoured">        <i>armoured</i><par n="expensive__adj"/></e>
 <e lm="Faroese">         <par n="Ff"/><i>aroese</i><par n="expensive__adj"/></e>
@@ -27244,6 +27257,7 @@
 <e lm="creative">        <i>creative</i><par n="expensive__adj"/></e>
 <e lm="credible">        <i>credible</i><par n="expensive__adj"/></e>
 <e lm="creditable">      <i>creditable</i><par n="expensive__adj"/></e>
+<e lm="creole">          <i>creole</i><par n="expensive__adj"/></e>
 <e lm="Crimean">         <i>Crimean</i><par n="expensive__adj"/></e>
 <e lm="criminal">        <i>criminal</i><par n="expensive__adj"/></e>
 <e lm="crisp">           <i>crisp</i><par n="expensive__adj"/></e>
@@ -27833,6 +27847,7 @@
 <e lm="exigible">        <i>exigible</i><par n="expensive__adj"/></e>
 <e lm="existential">     <i>existential</i><par n="expensive__adj"/></e>
 <e lm="existent">        <i>existent</i><par n="expensive__adj"/></e>
+<e lm="existing">        <i>existing</i><par n="expensive__adj"/></e>
 <e lm="exocentric">      <i>exocentric</i><par n="expensive__adj"/></e>
 <e lm="exorbitant">      <i>exorbitant</i><par n="expensive__adj"/></e>
 <e lm="exothermic">      <i>exothermic</i><par n="expensive__adj"/></e>
@@ -27882,6 +27897,7 @@
 <e lm="factual">         <i>factual</i><par n="expensive__adj"/></e>
 <e lm="faded">           <i>faded</i><par n="expensive__adj"/></e>
 <e lm="faecal">          <i>faecal</i><par n="expensive__adj"/></e>
+<e lm="failed">          <i>failed</i><par n="expensive__adj"/></e>
 <e lm="faint-hearted">   <i>faint-hearted</i><par n="expensive__adj"/></e>
 <e lm="fair-haired">     <i>fair-haired</i><par n="expensive__adj"/></e>
 <e lm="fair">            <i>fair</i><par n="long/__adj"/></e>
@@ -30382,6 +30398,7 @@
 <e lm="religious" c="(GB)"><i>religious</i><par n="expensive__adj"/></e>
 <e lm="relocatable">     <i>relocatable</i><par n="expensive__adj"/></e>
 <e lm="reluctant">       <i>reluctant</i><par n="expensive__adj"/></e>
+<e lm="remaining">       <i>remaining</i><par n="expensive__adj"/></e>
 <e lm="remarkable">      <i>remarkable</i><par n="expensive__adj"/></e>
 <e lm="remediable">      <i>remediable</i><par n="expensive__adj"/></e>
 <e lm="remedial">        <i>remedial</i><par n="expensive__adj"/></e>
@@ -31215,6 +31232,7 @@
 <e lm="three-wheeled">   <i>three-wheeled</i><par n="expensive__adj"/></e>
 <e lm="thrifty">         <i>thrift</i><par n="happ/y__adj"/></e>
 <e lm="thrilling">       <i>thrilling</i><par n="expensive__adj"/></e>
+<e lm="thriving">        <i>thriving</i><par n="expensive__adj"/></e>
 <e lm="thunderous">      <i>thunderous</i><par n="expensive__adj"/></e>
 <e lm="thunderstruck">   <i>thunderstruck</i><par n="expensive__adj"/></e>
 <e lm="Thuringian">      <i>Thuringian</i><par n="expensive__adj"/></e>
@@ -50399,6 +50417,7 @@
 <e lm="Minsk">           <i>Minsk</i><par n="Barcelona__np"/></e>
 <e lm="Mississippi">     <i>Mississippi</i><par n="Barcelona__np"/></e>
 <e lm="Missouri">        <i>Missouri</i><par n="Barcelona__np"/></e>
+<e lm="Mobile">          <i>Mobile</i><par n="Barcelona__np"/></e>
 <e lm="Modena">          <i>Modena</i><par n="Barcelona__np"/></e>
 <e lm="Mogadishu">       <i>Mogadishu</i><par n="Barcelona__np"/></e>
 <e lm="Moldavia">        <i>Moldavia</i><par n="Barcelona__np"/></e>
