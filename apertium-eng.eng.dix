@@ -6982,6 +6982,7 @@
 <e lm="cohesiveness">    <i>cohesiveness</i><par n="access__n"/></e>
 <e lm="cohomology">      <i>cohomolog</i><par n="bab/y__n"/></e>
 <e lm="cohort">          <i>cohort</i><par n="house__n"/></e>
+<e lm="coil">            <i>coil</i><par n="house__n"/></e>
 <e lm="coinage">         <i>coinage</i><par n="house__n"/></e>
 <e lm="coincidence">     <i>coincidence</i><par n="house__n"/></e>
 <e lm="coining">         <i>coining</i><par n="house__n"/></e>
@@ -7067,6 +7068,7 @@
 <e lm="columnist">       <i>columnist</i><par n="house__n"/></e>
 <e lm="coma">            <i>coma</i><par n="house__n"/></e>
 <e lm="comanagement">    <i>comanagement</i><par n="house__n"/></e>
+<e lm="combat">          <i>combat</i><par n="house__n"/></e>
 <e lm="combatant">       <i>combatant</i><par n="house__n"/></e>
 <e lm="combativeness">   <i>combativeness</i><par n="access__n"/></e>
 <e lm="combination">     <i>combination</i><par n="house__n"/></e>
@@ -11241,6 +11243,7 @@
 <e lm="hallway">         <i>hallway</i><par n="house__n"/></e>
 <e lm="halogen">         <i>halogen</i><par n="house__n"/></e>
 <e lm="halo">            <i>halo</i><par n="access__n"/></e>
+<e lm="halt">            <i>halt</i><par n="house__n"/></e>
 <e lm="halter">          <i>halter</i><par n="house__n"/></e>
 <e lm="hamburger">       <i>hamburger</i><par n="house__n"/></e>
 <e lm="ham">             <i>ham</i><par n="house__n"/></e>
@@ -18530,6 +18533,7 @@
 <e lm="self">            <i>sel</i><par n="wol/f__n"/></e>
 <e lm="seller">          <i>seller</i><par n="house__n"/></e>
 <e lm="sellout">         <i>sellout</i><par n="house__n"/></e>
+<e lm="sell-out">        <i>sell-out</i><par n="house__n"/></e>
 <e lm="semantics">       <i>semantics</i><par n="personnel__n"/></e>
 <e lm="semaphore">       <i>semaphore</i><par n="house__n"/></e>
 <e lm="semblance">       <i>semblance</i><par n="house__n"/></e>
@@ -22491,7 +22495,8 @@
 
 <e lm="have">            <i>ha</i><par n="ha/ve__vbhaver"/></e>
 
-<e lm="have got">        <i>ha</i><par n="ha/ve__vbhaver"/><p><l><b/>got</l><r><g><b/>got</g></r></p></e>
+<e lm="have">            <i>ha</i><par n="ha/ve__vblex"/></e>
+<e lm="have got">        <i>ha</i><par n="ha/ve__vblex"/><p><l><b/>got</l><r><g><b/>got</g></r></p></e>
 
 <e lm="'ll">             <i>'ll</i><par n="must__vbmod"/></e>
 <e r="RL" lm="be able to"><i></i><par n="/be_able_to__vbmod"/></e>
@@ -22506,6 +22511,7 @@
 <e lm="cannot">          <p><l>cannot</l>    <r>can<s n="vbmod"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
 
 <e lm="do">              <i>d</i><par n="d/o__vaux"/></e>
+<e lm="do">              <i></i><par n="/do__vbdo"/></e>
 
 <e r="RL" lm="be">       <i></i><par n="/be__vblex"/></e> <!-- for subjuncs -->
 <e lm="do">              <i>d</i><par n="d/o__vblex"/></e>
@@ -25436,6 +25442,7 @@
 <e lm="span">            <i>span</i><par n="plan__vblex"/></e>
 <e lm="spank">           <i>spank</i><par n="accept__vblex"/></e>
 <e lm="spare">           <i>spar</i><par n="liv/e__vblex"/></e>
+<e lm="to spare">        <p><l>to<b/>spare</l><r>to<s n="pr"/><j/>spare<s n="vblex"/><s n="inf"/></r></p></e>
 <e lm="spark">           <i>spark</i><par n="accept__vblex"/></e>
 <e lm="spawn">           <i>spawn</i><par n="accept__vblex"/></e>
 <e lm="speak">           <i>sp</i><par n="br/eak__vblex"/></e>
@@ -25953,6 +25960,7 @@
 <e lm="both">            <i>both</i><par n="and__cnjcoo"/></e>
 <e lm="but">             <i>but</i><par n="and__cnjcoo"/></e>
 <e lm="but rather">      <i>but<b/>rather</i><par n="and__cnjcoo"/></e>
+<e lm="either">          <i>either</i><par n="and__cnjcoo"/></e>
 <e lm="neither">         <i>neither</i><par n="and__cnjcoo"/></e>
 <e lm="nor">             <i>nor</i><par n="and__cnjcoo"/></e>
 <e lm="or">              <i>or</i><par n="and__cnjcoo"/></e>
@@ -25966,7 +25974,6 @@
 <e lm="as soon as">      <i>as<b/>soon<b/>as</i><par n="that__cnjsub"/></e>
 <e lm="because">         <i>because</i><par n="that__cnjsub"/></e>
 <e lm="before">          <i>before</i><par n="that__cnjsub"/></e>
-<e lm="either">          <i>either</i><par n="that__cnjsub"/></e>
 <e lm="if">              <i>if</i><par n="that__cnjsub"/></e>
 <e lm="in order to">     <i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
 <e lm="like">            <i>like</i><par n="that__cnjsub"/></e>
@@ -26021,6 +26028,7 @@
 <e lm="unless">          <i>unless</i><par n="after__cnjadv"/></e>
 <e lm="until">           <i>until</i><par n="after__cnjadv"/></e>
 <e lm="when">            <i>when</i><par n="after__cnjadv"/></e>
+<e lm="where">           <i>when</i><par n="after__cnjadv"/></e>
 <e lm="whereas">         <i>whereas</i><par n="after__cnjadv"/></e>
 <e lm="whether">         <i>whether</i><par n="after__cnjadv"/></e>
 <e lm="while">           <i>while</i><par n="after__cnjadv"/></e>
@@ -26092,6 +26100,8 @@
 <e lm="next to">         <i>next<b/>to</i><par n="at__pr"/></e>
 <e lm="of">              <i>of</i><par n="at__pr"/></e>
 <e lm="on">              <i>on</i><par n="at__pr"/></e>
+<e lm="on the left">     <p><l>on<b/>the<b/>left</l><r>on<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>left<s n="adj"/></r></p></e>
+<e lm="on the right">    <p><l>on<b/>the<b/>right</l><r>on<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>right<s n="adj"/></r></p></e>
 <e lm="onto">            <i>onto</i><par n="at__pr"/></e>
 <e lm="opposite">        <i>opposite</i><par n="at__pr"/></e>
 <e lm="out from">        <i>out<b/>from</i><par n="at__pr"/></e>
@@ -26100,6 +26110,7 @@
 <e lm="over">            <i>over</i><par n="at__pr"/></e>
 <e lm="past">            <i>past</i><par n="at__pr"/></e>
 <e lm="per">             <i>per</i><par n="at__pr"/></e>
+<e lm="prior to">        <i>prior<b/>to</i><par n="at__pr"/></e>
 <e lm="regarding">       <i>regarding</i><par n="at__pr"/></e>
 <e lm="right in front of"><i>right<b/>in<b/>front<b/>of</i><par n="at__pr"/></e>
 <e lm="round">           <i>round</i><par n="at__pr"/></e>
@@ -26251,6 +26262,7 @@
 <e lm="adulatory">       <i>adulatory</i><par n="expensive__adj"/></e>
 <e lm="adulterous">      <i>adulterous</i><par n="expensive__adj"/></e>
 <e lm="adult">           <i>adult</i><par n="expensive__adj"/></e>
+<e lm="advanced">        <i>advanced</i><par n="expensive__adj"/></e>
 <e lm="advantageous">    <i>advantageous</i><par n="expensive__adj"/></e>
 <e lm="Adventist">       <i>Adventist</i><par n="expensive__adj"/></e>
 <e lm="adventurous">     <i>adventurous</i><par n="expensive__adj"/></e>
@@ -27433,6 +27445,7 @@
 <e lm="difficult to recognise"><i>difficult<b/>to<b/>recognise</i><par n="expensive__adj"/></e>
 <e lm="difficult">       <i>difficult</i><par n="expensive__adj"/></e>
 <e lm="diffident">       <i>diffident</i><par n="expensive__adj"/></e>
+<e lm="diffuse">         <i>diffuse</i><par n="expensive__adj"/></e>
 <e lm="diffused">        <i>diffused</i><par n="expensive__adj"/></e>
 <e lm="digastric">       <i>digastric</i><par n="expensive__adj"/></e>
 <e lm="digestible">      <i>digestible</i><par n="expensive__adj"/></e>
@@ -30306,6 +30319,7 @@
 <e lm="realistic">       <i>realistic</i><par n="expensive__adj"/></e>
 <e lm="realizable">      <i>realizable</i><par n="expensive__adj"/></e>
 <e lm="reasonable">      <i>reasonable</i><par n="expensive__adj"/></e>
+<e lm="rebel">           <i>rebel</i><par n="expensive__adj"/></e>
 <e lm="rebellious">      <i>rebellious</i><par n="expensive__adj"/></e>
 <e lm="reborn">          <i>reborn</i><par n="expensive__adj"/></e>
 <e lm="recent">          <i>recent</i><par n="expensive__adj"/></e>
@@ -30976,6 +30990,7 @@
 <e lm="subliminal">      <i>subliminal</i><par n="expensive__adj"/></e>
 <e lm="submersible">     <i>submersible</i><par n="expensive__adj"/></e>
 <e lm="submissive">      <i>submissive</i><par n="expensive__adj"/></e>
+<e lm="subordinate">     <i>subordinate</i><par n="expensive__adj"/></e>
 <e lm="subsequent">      <i>subsequent</i><par n="expensive__adj"/></e>
 <e lm="subsidiary">      <i>subsidiary</i><par n="expensive__adj"/></e>
 <e lm="subsonic">        <i>subsonic</i><par n="expensive__adj"/></e>
@@ -36532,6 +36547,7 @@
 
     <!-- SECTION: Preadverbs -->
 
+<e lm="as">              <i>as</i><par n="very__preadv"/></e>
 <e lm="how">             <i>how</i><par n="very__preadv"/></e>
 <e lm="more">            <i>more</i><par n="very__preadv"/></e>
 <e lm="most">            <i>most</i><par n="very__preadv"/></e>
@@ -49191,6 +49207,7 @@
 <e lm="Tenorio">         <i>Tenorio</i><par n="Smith__np"/></e>
 <e lm="Terence">         <i>Terence</i><par n="Smith__np"/></e>
 <e lm="Terry">           <i>Terry</i><par n="Smith__np"/></e>
+<e lm="Tesla">           <i>Tesla</i><par n="Smith__np"/></e>
 <e lm="Thackeray">       <i>Thackeray</i><par n="Smith__np"/></e>
 <e lm="Thatcher">        <i>Thatcher</i><par n="Smith__np"/></e>
 <e lm="Thayer">          <i>Thayer</i><par n="Smith__np"/></e>
@@ -51104,7 +51121,6 @@
 <e lm="Franz Ferdinand"> <i>Franz<b/>Ferdinand</i><par n="Linux__np"/></e>
 <e lm="FreeBSD">         <i>FreeBSD</i><par n="Linux__np"/></e>
 <e lm="Freenet">         <i>Freenet</i><par n="Linux__np"/></e>
-<e lm="Front Polisario"> <i>Front<b/>Polisario</i><par n="Wikimedia__np"/></e>
 <e lm="Gallup">          <i>Gallup</i><par n="Linux__np"/></e>
 <e lm="GameBoy Advance"> <i>GameBoy<b/>Advance</i><par n="Linux__np"/></e>
 <e lm="GameBoy Advance SP"><i>GameBoy<b/>Advance<b/>SP</i><par n="Linux__np"/></e>
@@ -51240,6 +51256,7 @@
 <e lm="PlayStation Portable"><i>PlayStation<b/>Portable</i><par n="Linux__np"/></e>
 <e lm="PlayStation Vita"><i>PlayStation<b/>Vita</i><par n="Linux__np"/></e>
 <e lm="Pokémon">         <i>Pokémon</i><par n="Linux__np"/></e>
+<e lm="Polisario Front"> <i>Polisario<b/>Front</i><par n="Wikimedia__np"/></e>
 <e lm="Porsche">         <i>Porsche</i><par n="Linux__np"/></e>
 <e lm="Porsche">         <i>Porsche</i><par n="Wikimedia__np"/></e>
 <e lm="PowerPC">         <i>PowerPC</i><par n="Linux__np"/></e>
