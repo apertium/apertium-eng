@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 47903
+	Entries: 47940
 	Sdefs: 83
-	Paradigms: 376
+	Paradigms: 377
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -6404,7 +6404,7 @@
 <e lm="centaur">         <i>centaur</i><par n="house__n"/></e>
 <e lm="centaury">        <i>centaury</i><par n="east__n"/></e>
 <e lm="centennial">      <i>centennial</i><par n="house__n"/></e>
-<e lm="center" v="eng_US"><p><l>center</l>     <r>centre</r></p><par n="house__n"/></e>
+<e lm="center" v="eng_US"><p><l>center</l>   <r>centre</r></p><par n="house__n"/></e>
 <e lm="centerpiece" c="(US)"><i>centerpiece</i><par n="house__n"/></e>
 <e lm="centigrade">      <i>centigrade</i><par n="house__n"/></e>
 <e lm="centiliter" c="(US)"><i>centiliter</i><par n="house__n"/></e>
@@ -23005,7 +23005,7 @@
 <e lm="celebrate">       <i>celebrat</i><par n="liv/e__vblex"/></e>
 <e lm="cement">          <i>cement</i><par n="accept__vblex"/></e>
 <e lm="censor">          <i>censor</i><par n="accept__vblex"/></e>
-<e lm="center" v="eng_US"><p><l>center</l>     <r>centre</r></p><par n="accept__vblex"/></e>
+<e lm="center" v="eng_US"><p><l>center</l>   <r>centre</r></p><par n="accept__vblex"/></e>
 <e lm="centralise" c="(GB)"><i>centralis</i><par n="liv/e__vblex"/></e>
 <e lm="centralize" c="(US)"><i>centraliz</i><par n="liv/e__vblex"/></e>
 <e lm="centre">          <i>centr</i><par n="liv/e__vblex"/></e>
@@ -26039,7 +26039,6 @@
 <e lm="unless">          <i>unless</i><par n="after__cnjadv"/></e>
 <e lm="until">           <i>until</i><par n="after__cnjadv"/></e>
 <e lm="when">            <i>when</i><par n="after__cnjadv"/></e>
-<e lm="where">           <i>when</i><par n="after__cnjadv"/></e>
 <e lm="whereas">         <i>whereas</i><par n="after__cnjadv"/></e>
 <e lm="whether">         <i>whether</i><par n="after__cnjadv"/></e>
 <e lm="while">           <i>while</i><par n="after__cnjadv"/></e>
@@ -26101,7 +26100,7 @@
 <e lm="in respect of">   <i>in<b/>respect<b/>of</i><par n="at__pr"/></e>
 <e lm="in spite of">     <i>in<b/>spite<b/>of</i><par n="at__pr"/></e>
 <e lm="in the future">   <p><l>in<b/>the<b/>future</l><r>in<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>future<s n="adj"/></r></p></e>
-<e lm="in the world">   <p><l>in<b/>the<b/>world</l><r>in<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>world<s n="adj"/></r></p></e>
+<e lm="in the world">    <p><l>in<b/>the<b/>world</l><r>in<s n="pr"/><j/>the<s n="det"/><s n="def"/><s n="sp"/><j/>world<s n="adj"/></r></p></e>
 <e lm="in view of">      <i>in<b/>view<b/>of</i><par n="at__pr"/></e>
 <e lm="inside">          <i>inside</i><par n="at__pr"/></e>
 <e lm="instead of">      <i>instead<b/>of</i><par n="at__pr"/></e>
