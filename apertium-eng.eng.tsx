@@ -7,6 +7,9 @@
     <def-label name="FOR" closed="true">
       <tags-item lemma="for" tags="pr"/><!--MG. afegit 19-09-06. confon <pr> amb <cnjadv>, tb en altres cases ('en'). Caldria fer algo al respecte o potser amb un text etiquetat ho fa millor. -->
     </def-label>
+    <def-label name="BY" closed="true">
+      <tags-item lemma="by" tags="pr"/>
+    </def-label>
     <def-label name="THATCNJ" closed="true">
       <tags-item lemma="that" tags="cnjsub"/>
     </def-label>
@@ -28,7 +31,7 @@
     <def-label name="DOVBLEX" closed="true">
       <tags-item lemma="do" tags="vblex.inf"/>
       <tags-item lemma="do" tags="vblex.pres"/>
-      <tags-item lemma="do" tags="vblex.pri.p3.sg"/>
+      <tags-item lemma="do" tags="vblex.pres.p3.sg"/>
       <tags-item lemma="do" tags="vblex.past"/>
     </def-label>
 
@@ -95,6 +98,7 @@
       <tags-item tags="n.sg"/>
       <tags-item tags="n.acr.sg"/>
       <tags-item tags="n.unc.sg"/>
+      <tags-item tags="vblex.subs"/>
     </def-label>
     <def-label name="NOMPL">
       <tags-item tags="n.pl"/>
@@ -179,6 +183,11 @@
       <tags-item tags="vblex.sep.pres.*"/>
       <tags-item tags="vbser.pres.*"/>
     </def-label>
+    <def-label name="IMP">
+      <tags-item tags="vblex.imp"/>
+      <tags-item tags="vblex.sep.imp"/>
+      <tags-item tags="vbser.imp"/>
+    </def-label>
     <def-label name="VHAVEPRES" closed="true">
       <tags-item tags="vbhaver.pres"/>
       <tags-item tags="vbhaver.pres.*"/>
@@ -212,26 +221,21 @@
       <tags-item tags="vbdo.past"/>
     </def-label>
 
-    <def-label name="GER"><!--Per ara no distingim entre 'ger', 'pprs' i 'subs' pq cal estudiar-ho amb atenció i fer restriccions. -->
+    <def-label name="GER"><!--Per ara no distingim entre 'ger'i 'pprs' i pq cal estudiar-ho amb atenció i fer restriccions. -->
       <tags-item tags="vblex.ger"/>
       <tags-item tags="vblex.sep.ger"/>
       <tags-item tags="vblex.pprs"/>
       <tags-item tags="vblex.sep.pprs"/>
-      <tags-item tags="vblex.subs"/>
-      <tags-item tags="vblex.sep.subs"/>
       <tags-item tags="vbser.ger"/>
       <tags-item tags="vbser.pprs"/>
-      <tags-item tags="vbser.subs"/>
     </def-label>
     <def-label name="VHAVEGER" closed="true">
       <tags-item tags="vbhaver.ger"/>
       <tags-item tags="vbhaver.pprs"/>
-      <tags-item tags="vbhaver.subs"/>
     </def-label>
     <def-label name="VMODGER" closed="true">
       <tags-item tags="vbmod.ger"/>
       <tags-item tags="vbmod.pprs"/>
-      <tags-item tags="vbmod.subs"/>
     </def-label>
 
     <def-label name="VLEX">
@@ -867,6 +871,10 @@
       <label-item label="RELADV"/>
       <label-item label="GEN"/>
     </label-sequence>
+    <label-sequence>
+      <label-item label="SENT"/>
+      <label-item label="GEN"/>
+    </label-sequence>
 
   </forbid>
 
@@ -1009,4 +1017,5 @@
 </enforce-after> -->
 
   </enforce-rules>
+
 </tagger>
