@@ -27,6 +27,7 @@ LIST Vbmod = vbmod ;
 LIST Gen = gen ;
 LIST Apos = apos ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
+SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -108,3 +109,8 @@ REMOVE Gen IF (NOT -1 N | Np) ;
 REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
 SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
 
+
+# Have (vblex) and have (vbhaver)
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
