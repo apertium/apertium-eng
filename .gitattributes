@@ -7,11 +7,13 @@
 /README -text
 /apertium-eng.eng.acx -text svneol=unset#application/xml
 /apertium-eng.eng.dix -text
+/apertium-eng.eng.mtx -text
 /apertium-eng.eng.rlx -text
 /apertium-eng.eng.tsx -text
 /apertium-eng.pc.in -text
 /apertium-eng.post-eng.dix -text
 /autogen.sh -text
+/commondefns.mtx -text
 /configure.ac -text
 dev/eng.freq.txt -text
 /eng.prob -text svneol=unset#unset

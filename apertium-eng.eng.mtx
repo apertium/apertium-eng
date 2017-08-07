@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE metatag [
+  <!ENTITY commondefns SYSTEM "commondefns.mtx">
+]>
+<!--
+Feature templates copied from the spaCy part of speech tagger. From here:
+https://spacy.io/blog/part-of-speech-pos-tagger-in-python#features-and-pre-processing
+-->
+<metatag>
+  <coarse-tags tag="apertium-eng.eng.tsx"/>
+  <defns>
+    &commondefns;
+    <def-macro as="tokaddr_m2">
+      <add>
+        <tokaddr />
+        <int val="-2" />
+      </add>
+    </def-macro>
+    <def-macro as="tokaddr_m1">
+      <add>
+        <tokaddr />
+        <int val="-1" />
+      </add>
+    </def-macro>
+    <def-macro as="tok_coarsetags" args="addr">
+      <join>
+        <for-each as="wordoid">
+          <ex-wordoids>
+            <var name="addr" />
+          </ex-wordoids>
+          <ex-coarse>
+            <var name="wordoid" />
+          </ex-coarse>
+        </for-each>
+      </join>
+    </def-macro>
+  </defns>
+  <global-pred>
+    <eq>
+      <wrdidx />
+      <int val="0" />
+    </eq>
+  </global-pred>
+  <feats>
+    <!-- add('bias') # This acts sort of like a prior -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+    </feat>
+    <!-- add('i suffix', word[-3:]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="suffix_3_0"></macro>
+      </out>
+    </feat>
+    <!-- add('i pref1', word[0]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="suffix_1_0"></macro>
+      </out>
+    </feat>
+    <!-- add('i-1 tag', prev) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="tok_coarsetags">
+          <macro name="tokaddr_m1"></macro>
+        </macro>
+      </out>
+    </feat>
+    <!-- add('i-2 tag', prev2) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="tok_coarsetags">
+          <macro name="tokaddr_m2"></macro>
+        </macro>
+      </out>
+    </feat>
+    <!-- add('i-1 tag+i-2 tag', prev, prev2) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="tok_coarsetags">
+          <macro name="tokaddr_m1"></macro>
+        </macro>
+      </out>
+      <out>
+        <macro name="tok_coarsetags">
+          <macro name="tokaddr_m2"></macro>
+        </macro>
+      </out>
+    </feat>
+    <!-- add('i word', context[i]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_0"></macro>
+      </out>
+    </feat>
+    <!-- add('i-1 tag+i word', prev, context[i]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="tok_coarsetags">
+          <macro name="tokaddr_m1"></macro>
+        </macro>
+      </out>
+      <out>
+        <macro name="surf_0"></macro>
+      </out>
+    </feat>
+    <!-- add('i-1 word', context[i-1]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_m1"></macro>
+      </out>
+    </feat>
+    <!-- add('i-1 suffix', context[i-1][-3:]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_m1_s3"></macro>
+      </out>
+    </feat>
+    <!-- add('i-2 word', context[i-2]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_m2"></macro>
+      </out>
+    </feat>
+    <!-- add('i+1 word', context[i+1]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_p1"></macro>
+      </out>
+    </feat>
+    <!-- add('i+1 suffix', context[i+1][-3:]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_p1_s3"></macro>
+      </out>
+    </feat>
+    <!-- add('i+2 word', context[i+2]) -->
+    <feat>
+      <out>
+        <macro name="tok_coarsetags"><tokaddr /></macro>
+      </out>
+      <out>
+        <macro name="surf_p2"></macro>
+      </out>
+    </feat>
+  </feats>
+</metatag>

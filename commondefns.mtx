@@ -1,0 +1,137 @@
+<def-macro as="flattags_0">
+  <join>
+    <for-each as="wordoid">
+      <ex-wordoids>
+        <tokaddr />
+      </ex-wordoids>
+      <join>
+        <ex-tags>
+          <var name="wordoid" />
+        </ex-tags>
+      </join>
+    </for-each>
+  </join>
+</def-macro>
+<def-macro as="flattags_m1">
+  <join>
+    <for-each as="wordoid">
+      <ex-wordoids>
+        <add>
+          <tokaddr />
+          <int val="-1" />
+        </add>
+      </ex-wordoids>
+      <join>
+        <ex-tags>
+          <var name="wordoid" />
+        </ex-tags>
+      </join>
+    </for-each>
+  </join>
+</def-macro>
+<def-macro as="flattags_m2">
+  <join>
+    <for-each as="wordoid">
+      <ex-wordoids>
+        <add>
+          <tokaddr />
+          <int val="-2" />
+        </add>
+      </ex-wordoids>
+      <join>
+        <ex-tags>
+          <var name="wordoid" />
+        </ex-tags>
+      </join>
+    </for-each>
+  </join>
+</def-macro>
+<def-macro as="surf_0_s3">
+  <slice start="-3">
+    <ex-surf>
+      <tokaddr />
+    </ex-surf>
+  </slice>
+</def-macro>
+<def-macro as="surf_0">
+  <ex-surf>
+    <tokaddr />
+  </ex-surf>
+</def-macro>
+<def-macro as="surf_m1">
+  <ex-surf>
+    <add>
+      <tokaddr />
+      <int val="-1" />
+    </add>
+  </ex-surf>
+</def-macro>
+<def-macro as="surf_m1_s3">
+  <slice start="-3">
+    <ex-surf>
+      <add>
+        <tokaddr />
+        <int val="-1" />
+      </add>
+    </ex-surf>
+  </slice>
+</def-macro>
+<def-macro as="surf_m2">
+  <ex-surf>
+    <add>
+      <tokaddr />
+      <int val="-1" />
+    </add>
+  </ex-surf>
+</def-macro>
+<def-macro as="surf_p1">
+  <ex-surf>
+    <add>
+      <tokaddr />
+      <int val="1" />
+    </add>
+  </ex-surf>
+</def-macro>
+<def-macro as="surf_p1_s3">
+  <slice start="-3">
+    <ex-surf>
+      <add>
+        <tokaddr />
+        <int val="1" />
+      </add>
+    </ex-surf>
+  </slice>
+</def-macro>
+<def-macro as="surf_p2">
+  <ex-surf>
+    <add>
+      <tokaddr />
+      <int val="2" />
+    </add>
+  </ex-surf>
+</def-macro>
+<def-macro as="lemma_0">
+  <ex-lemma>
+    <ex-wordoid>
+      <wrdaddr />
+    </ex-wordoid>
+  </ex-lemma>
+</def-macro>
+<def-macro as="suffix_1_0">
+  <slice start="-1">
+    <ex-lemma>
+      <ex-wordoid>
+        <wrdaddr />
+      </ex-wordoid>
+    </ex-lemma>
+  </slice>
+</def-macro>
+<def-macro as="suffix_3_0">
+  <slice start="-3">
+    <ex-lemma>
+      <ex-wordoid>
+        <wrdaddr />
+      </ex-wordoid>
+    </ex-lemma>
+  </slice>
+</def-macro>
