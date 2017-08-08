@@ -4405,7 +4405,7 @@
 <e lm="antler">          <i>antler</i><par n="house__n"/></e>
 <e lm="antonym">         <i>antonym</i><par n="house__n"/></e>
 <e lm="antrum">          <i>antrum</i><par n="house__n"/></e>
-<e lm="January">         <par n="Jj"/><i>anuar</i><par n="bab/y__n"/></e>
+<e lm="January">         <i>Januar</i><par n="bab/y__n"/></e>
 <e lm="anuran">          <i>anuran</i><par n="house__n"/></e>
 <e lm="anus">            <i>anus</i><par n="access__n"/></e>
 <e lm="anvil">           <i>anvil</i><par n="house__n"/></e>
@@ -4908,7 +4908,7 @@
 <e lm="axle">            <i>axle</i><par n="house__n"/></e>
 <e lm="axon">            <i>axon</i><par n="house__n"/></e>
 <e lm="ayahuasca">       <i>ayahuasca</i><par n="house__n"/></e>
-<e lm="May">             <par n="Mm"/><i>ay</i><par n="house__n"/></e>
+<e lm="May">             <i>May</i><par n="house__n"/></e>
 <e lm="ayran">           <i>ayran</i><par n="house__n"/></e>
 <e lm="azalea">          <i>azalea</i><par n="house__n"/></e>
 <e lm="Azerbaijani">     <i>Azerbaijani</i><par n="house__n"/></e>
@@ -7871,7 +7871,7 @@
 <e lm="crystallisation" c="(GB)"><i>crystallisation</i><par n="house__n"/></e>
 <e lm="crystallization"> <i>crystallization</i><par n="house__n"/></e>
 <e lm="crystallography"> <i>crystallograph</i><par n="bab/y__n"/></e>
-<e lm="October">         <par n="Oo"/><i>ctober</i><par n="house__n"/></e>
+<e lm="October">         <i>October</i><par n="house__n"/></e>
 <e lm="cube">            <i>cube</i><par n="house__n"/></e>
 <e lm="cubic capacity">  <i>cubic<b/>capacit</i><par n="bab/y__n"/></e>
 <e lm="cubicle">         <i>cubicle</i><par n="house__n"/></e>
@@ -9091,10 +9091,10 @@
 <e lm="ebony">           <i>ebon</i><par n="bab/y__n"/></e>
 <e lm="ebonite">         <i>ebonite</i><par n="house__n"/></e>
 <e lm="Hebrew">          <par n="Hh"/><i>ebrew</i><par n="east__n"/></e>
-<e lm="February">        <par n="Ff"/><i>ebruar</i><par n="bab/y__n"/></e>
+<e lm="February">        <i>Februar</i><par n="bab/y__n"/></e>
 <e lm="EC card">         <i>EC<b/>card</i><par n="house__n"/></e>
 <e lm="eccentricity">    <i>eccentricit</i><par n="bab/y__n"/></e>
-<e lm="December">        <par n="Dd"/><i>ecember</i><par n="house__n"/></e>
+<e lm="December">        <i>December</i><par n="house__n"/></e>
 <e lm="echelon">         <i>echelon</i><par n="house__n"/></e>
 <e lm="echinoderm">      <i>echinoderm</i><par n="house__n"/></e>
 <e lm="echography">      <i>echograph</i><par n="bab/y__n"/></e>
@@ -9482,7 +9482,7 @@
 <e lm="epitome">         <i>epitome</i><par n="house__n"/></e>
 <e lm="epoch">           <i>epoch</i><par n="house__n"/></e>
 <e lm="epoxy resin">     <i>epoxy<b/>resin</i><par n="house__n"/></e>
-<e lm="September">       <par n="Ss"/><i>eptember</i><par n="house__n"/></e>
+<e lm="September">       <i>September</i><par n="house__n"/></e>
 <e lm="equal">           <i>equal</i><par n="house__n"/></e>
 <e lm="equalisation" c="(GB)"><i>equalisation</i><par n="house__n"/></e>
 <e lm="equaliser">       <i>equaliser</i><par n="house__n"/></e>
@@ -15336,7 +15336,7 @@
 <e lm="oval">            <i>oval</i><par n="house__n"/></e>
 <e lm="ovary">           <i>ovar</i><par n="bab/y__n"/></e>
 <e lm="ovation">         <i>ovation</i><par n="house__n"/></e>
-<e lm="November">        <par n="Nn"/><i>ovember</i><par n="house__n"/></e>
+<e lm="November">        <i>November</i><par n="house__n"/></e>
 <e lm="oven">            <i>oven</i><par n="house__n"/></e>
 <e lm="overactivity">    <i>overactivit</i><par n="bab/y__n"/></e>
 <e lm="overall">         <i>overall</i><par n="house__n"/></e>
@@ -16689,7 +16689,7 @@
 <e lm="priesthood">      <i>priesthood</i><par n="house__n"/></e>
 <e lm="priest">          <i>priest</i><par n="house__n"/></e>
 <e lm="prig">            <i>prig</i><par n="house__n"/></e>
-<e lm="April">           <par n="Aa"/><i>pril</i><par n="house__n"/></e>
+<e lm="April">           <i>April</i><par n="house__n"/></e>
 <e lm="primacy">         <i>primac</i><par n="bab/y__n"/></e>
 <e lm="primary">         <i>primar</i><par n="bab/y__n"/></e>
 <e lm="primary school">  <i>primary<b/>school</i><par n="house__n"/></e>
@@ -21198,12 +21198,12 @@
 <e lm="ugliness">        <i>ugliness</i><par n="access__n"/></e>
 <e lm="Yugoslavian">     <par n="Yy"/><i>ugoslavian</i><par n="house__n"/></e>
 <e lm="Yugoslav">        <par n="Yy"/><i>ugoslav</i><par n="house__n"/></e>
-<e lm="August">          <par n="Aa"/><i>ugust</i><par n="house__n"/></e>
+<e lm="August">          <i>August</i><par n="house__n"/></e>
 <e lm="ukulele">         <i>ukulele</i><par n="house__n"/></e>
 <e lm="ulceration">      <i>ulceration</i><par n="house__n"/></e>
 <e lm="ulcer">           <i>ulcer</i><par n="house__n"/></e>
 <e lm="Bulgarian">       <par n="Bb"/><i>ulgarian</i><par n="house__n"/></e>
-<e lm="July">            <par n="Jj"/><i>ul</i><par n="bab/y__n"/></e>
+<e lm="July">            <i>Jul</i><par n="bab/y__n"/></e>
 <e lm="ultimatum">       <i>ultimatum</i><par n="house__n"/></e>
 <e lm="ultranationalist"><i>ultranationalist</i><par n="house__n"/></e>
 <e lm="ultrasonics">     <i>ultrasonics</i><par n="east__n"/></e>
@@ -21271,7 +21271,7 @@
 <e lm="undulation">      <i>undulation</i><par n="house__n"/></e>
 <e lm="unease">          <i>unease</i><par n="house__n"/></e>
 <e lm="uneasiness">      <i>uneasiness</i><par n="access__n"/></e>
-<e lm="June">            <par n="Jj"/><i>une</i><par n="house__n"/></e>
+<e lm="June">            <i>June</i><par n="house__n"/></e>
 <e lm="unemployed">      <i>unemployed</i><par n="personnel__n"/></e>
 <e lm="unemployment">    <i>unemployment</i><par n="house__n"/></e>
 <e lm="unevenness">      <i>unevenness</i><par n="access__n"/></e>
