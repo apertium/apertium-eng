@@ -39,7 +39,6 @@ LIST Mf = mf ;
 LIST Fin = pres past ;
 SET Pers = (p1) | (p2) | (p3) ;
 
-LIST Can = "can" ;
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
 SECTION
@@ -51,11 +50,6 @@ REMOVE Pl IF (0 Letters) ;
 REMOVE (vblex) IF (-1 (gen)) ;
 
 REMOVE (preadv) IF (1 (cm)) ;
-
-SELECT Vbmod IF (0 Can) (1 Inf) ;
-# ex: will->vbmod be
-SELECT ("will"i vbmod) IF (1 Inf) ;
-SELECT ("will"i vbmod) IF (1 Adv) (2 Inf) ;
 
 #Lemmas that are N or V: N if DET/ADJ/V/PR precedes it or V follows
 
@@ -104,13 +98,18 @@ REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 
+
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
 REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
 SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
 
-
 # Have (vblex) and have (vbhaver)
 REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Pp) ;
 REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Pp) ;
 REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
+
+#Vbmod (will, can, may)
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
+
