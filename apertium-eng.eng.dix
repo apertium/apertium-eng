@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 53766
+	Entries: 53769
 	Sdefs: 83
 	Paradigms: 377
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -818,7 +818,7 @@
 <pardef n="prpos__prn">
   <e>       <p><l>mine</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>yours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>his</l>       <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>his</l>       <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>hers</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>its</l>       <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>       <p><l>ours</l>      <r>prpers<s n="prn"/><s n="pos"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -36580,6 +36580,7 @@
 
 <e lm="a hundred">       <i>a<b/>hundred</i><par n="million__num"/></e>
 <e lm="a million">       <i>a<b/>million</i><par n="million__num"/></e>
+<e lm="a billion">       <i>a<b/>billion</i><par n="million__num"/></e>
 <e lm="a thousand">      <i>a<b/>thousand</i><par n="million__num"/></e>
 <e lm="eight">           <i>eight</i><par n="two__num"/></e>
 <e lm="eighteen">        <i>eighteen</i><par n="two__num"/></e>
@@ -36611,6 +36612,7 @@
 <e lm="fourteen">        <i>fourteen</i><par n="two__num"/></e>
 <e r="RL" lm="hundred">  <i>hundred</i><par n="two__num"/></e>
 <e lm="million">         <i>million</i><par n="million__num"/></e>
+<e lm="billion">         <i>billion</i><par n="million__num"/></e>
 <e lm="nine">            <i>nine</i><par n="two__num"/></e>
 <e lm="nineteen">        <i>nineteen</i><par n="two__num"/></e>
 <e lm="ninety">          <i>ninety</i><par n="twenty__num"/></e>
@@ -36626,6 +36628,7 @@
 <e lm="one">             <i>one</i><par n="one__num"/></e>
 <e lm="one hundred">     <i>one<b/>hundred</i><par n="million__num"/></e>
 <e lm="one million">     <i>one<b/>million</i><par n="million__num"/></e>
+<e lm="one billion">     <i>one<b/>billion</i><par n="million__num"/></e>
 <e lm="one thousand">    <i>one<b/>thousand</i><par n="million__num"/></e>
 <e lm="seven">           <i>seven</i><par n="two__num"/></e>
 <e lm="seventeen">       <i>seventeen</i><par n="two__num"/></e>
