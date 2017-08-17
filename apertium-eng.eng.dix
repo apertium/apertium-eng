@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 53769
+	Entries: 54453
 	Sdefs: 83
 	Paradigms: 377
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -40924,6 +40924,405 @@
 <e lm="Zoilo">           <i>Zoilo</i><par n="Mark__np"/></e>
 <e lm="Zoroaster">       <i>Zoroaster</i><par n="Mark__np"/></e>
 <e lm="Zósimo">          <i>Zósimo</i><par n="Mark__np"/></e>
+<e lm="Abdul Hamid II">  <i>Abdul<b/>Hamid<b/>II</i><par n="Mark__np"/></e>
+<e lm="Abdullah Ahmad Badawi"><i>Abdullah<b/>Ahmad<b/>Badawi</i><par n="Mark__np"/></e>
+<e lm="Abdullah Gül">    <i>Abdullah<b/>Gül</i><par n="Mark__np"/></e>
+<e lm="Abdulla">         <i>Abdulla</i><par n="Mark__np"/></e>
+<e lm="Abigail">         <i>Abigail</i><par n="Mark__np"/></e>
+<e lm="Abu Dahdah">      <i>Abu<b/>Dahdah</i><par n="Mark__np"/></e>
+<e lm="Adria">           <i>Adria</i><par n="Mark__np"/></e>
+<e lm="Aga Khan">        <i>Aga<b/>Khan</i><par n="Mark__np"/></e>
+<e lm="Agustín Díaz de Mera García Consuegra"><i>Agustín<b/>Díaz<b/>de<b/>Mera<b/>García<b/>Consuegra</i><par n="Mark__np"/></e>
+<e lm="Alan García Pérez"><i>Alan<b/>García<b/>Pérez</i><par n="Mark__np"/></e>
+<e lm="Albert Camus">    <i>Albert<b/>Camus</i><par n="Mark__np"/></e>
+<e lm="Albert II of Monaco"><i>Albert<b/>II<b/>of<b/>Monaco</i><par n="Mark__np"/></e>
+<e lm="Albert I of Monaco"><i>Albert<b/>I<b/>of<b/>Monaco</i><par n="Mark__np"/></e>
+<e lm="Albert of Monaco"><i>Albert<b/>of<b/>Monaco</i><par n="Mark__np"/></e>
+<e lm="Albin Grau">      <i>Albin<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Albrecht Dürer">  <i>Albrecht<b/>Dürer</i><par n="Mark__np"/></e>
+<e lm="Alejandro Bofill Mas"><i>Alejandro<b/>Bofill<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Alexander Grigoryevich Lukashenko"><i>Alexander<b/>Grigoryevich<b/>Lukashenko</i><par n="Mark__np"/></e>
+<e lm="Alexander Lukashenko"><i>Alexander<b/>Lukashenko</i><par n="Mark__np"/></e>
+<e lm="Alexander the Great"><i>Alexander<b/>the<b/>Great</i><par n="Mark__np"/></e>
+<e lm="Alexandre Dumas"> <i>Alexandre<b/>Dumas</i><par n="Mark__np"/></e>
+<e lm="Álex">            <i>Álex</i><par n="Mark__np"/></e>
+<e lm="Al Gore">         <i>Al<b/>Gore</i><par n="Mark__np"/></e>
+<e lm="Alianore">        <i>Alianore</i><par n="Mark__np"/></e>
+<e lm="Alphonse Mas">    <i>Alphonse<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Amano Hiroshi">   <i>Amano<b/>Hiroshi</i><par n="Mark__np"/></e>
+<e lm="Ander">           <i>Ander</i><par n="Mark__np"/></e>
+<e lm="Andre Agassi">    <i>Andre<b/>Agassi</i><par n="Mark__np"/></e>
+<e lm="André Boyer-Mas"> <i>André<b/>Boyer-Mas</i><par n="Mark__np"/></e>
+<e lm="Andreu Fontàs">   <i>Andreu<b/>Fontàs</i><par n="Mark__np"/></e>
+<e lm="Andreu Mas-Colell"><i>Andreu<b/>Mas-Colell</i><par n="Mark__np"/></e>
+<e lm="Andreu Nin">      <i>Andreu<b/>Nin</i><par n="Mark__np"/></e>
+<e lm="Angel">           <i>Angel</i><par n="Mark__np"/></e>
+<e lm="Ángel">           <i>Ángel</i><par n="Mark__np"/></e>
+<e lm="Ang Lee">         <i>Ang<b/>Lee</i><par n="Mark__np"/></e>
+<e lm="Anje Duhalde">    <i>Anje<b/>Duhalde</i><par n="Mark__np"/></e>
+<e lm="Antoni Colom Mas"><i>Antoni<b/>Colom<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Antoni Mas Fornés"><i>Antoni<b/>Mas<b/>Fornés</i><par n="Mark__np"/></e>
+<e lm="Antoni Mas i Borràs"><i>Antoni<b/>Mas<b/>i<b/>Borràs</i><par n="Mark__np"/></e>
+<e lm="Antton">          <i>Antton</i><par n="Mark__np"/></e>
+<e lm="Anxo Quintana">   <i>Anxo<b/>Quintana</i><par n="Mark__np"/></e>
+<e lm="Arcadi Mas i Fontdevila"><i>Arcadi<b/>Mas<b/>i<b/>Fontdevila</i><par n="Mark__np"/></e>
+<e lm="Armindo de Jesus de Sousa Ribeiro"><i>Armindo<b/>de<b/>Jesus<b/>de<b/>Sousa<b/>Ribeiro</i><par n="Mark__np"/></e>
+<e lm="Arnald">          <i>Arnald</i><par n="Mark__np"/></e>
+<e lm="Artur Mas i Gavarró"><i>Artur<b/>Mas<b/>i<b/>Gavarró</i><par n="Mark__np"/></e>
+<e lm="Ayman al-Zawahiri"><i>Ayman<b/>al-Zawahiri</i><par n="Mark__np"/></e>
+<e lm="Barnard">         <i>Barnard</i><par n="Mark__np"/></e>
+<e lm="Batholomew">      <i>Batholomew</i><par n="Mark__np"/></e>
+<e lm="Benedict III">    <i>Benedict<b/>III</i><par n="Mark__np"/></e>
+<e lm="Benedict II">     <i>Benedict<b/>II</i><par n="Mark__np"/></e>
+<e lm="Benedict I">      <i>Benedict<b/>I</i><par n="Mark__np"/></e>
+<e lm="Benedict IV">     <i>Benedict<b/>IV</i><par n="Mark__np"/></e>
+<e lm="Benedict IX">     <i>Benedict<b/>IX</i><par n="Mark__np"/></e>
+<e lm="Benedict VIII">   <i>Benedict<b/>VIII</i><par n="Mark__np"/></e>
+<e lm="Benedict VII">    <i>Benedict<b/>VII</i><par n="Mark__np"/></e>
+<e lm="Benedict VI">     <i>Benedict<b/>VI</i><par n="Mark__np"/></e>
+<e lm="Benedict V">      <i>Benedict<b/>V</i><par n="Mark__np"/></e>
+<e lm="Benedict XIII">   <i>Benedict<b/>XIII</i><par n="Mark__np"/></e>
+<e lm="Benedict XII">    <i>Benedict<b/>XII</i><par n="Mark__np"/></e>
+<e lm="Benedict XI">     <i>Benedict<b/>XI</i><par n="Mark__np"/></e>
+<e lm="Benedict XIV">    <i>Benedict<b/>XIV</i><par n="Mark__np"/></e>
+<e lm="Benedict X">      <i>Benedict<b/>X</i><par n="Mark__np"/></e>
+<e lm="Benedict XVI">    <i>Benedict<b/>XVI</i><par n="Mark__np"/></e>
+<e lm="Benedict XV">     <i>Benedict<b/>XV</i><par n="Mark__np"/></e>
+<e lm="Bernat Mas">      <i>Bernat<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Bob Hope">        <i>Bob<b/>Hope</i><par n="Mark__np"/></e>
+<e lm="Boi Ruiz i Garcia"><i>Boi<b/>Ruiz<b/>i<b/>Garcia</i><par n="Mark__np"/></e>
+<e lm="Brais">           <i>Brais</i><par n="Mark__np"/></e>
+<e lm="Bram Stoker">     <i>Bram<b/>Stoker</i><par n="Mark__np"/></e>
+<e lm="Bronislaw">       <i>Bronislaw</i><par n="Mark__np"/></e>
+<e lm="Bruce Springsteen"><i>Bruce<b/>Springsteen</i><par n="Mark__np"/></e>
+<e lm="Bugs Bunny">      <i>Bugs<b/>Bunny</i><par n="Mark__np"/></e>
+<e lm="Carlos Mas Samora"><i>Carlos<b/>Mas<b/>Samora</i><par n="Mark__np"/></e>
+<e lm="Carlos Casares">  <i>Carlos<b/>Casares</i><par n="Mark__np"/></e>
+<e lm="Carlos Martel">   <i>Carlos<b/>Martel</i><par n="Mark__np"/></e>
+<e lm="Cecil">           <i>Cecil</i><par n="Mark__np"/></e>
+<e lm="Cesc">            <i>Cesc</i><par n="Mark__np"/></e>
+<e lm="Chiang Kai-shek"> <i>Chiang<b/>Kai-shek</i><par n="Mark__np"/></e>
+<e lm="Christpher">      <i>Christpher</i><par n="Mark__np"/></e>
+<e lm="Cicero">          <i>Cicero</i><par n="Mark__np"/></e>
+<e lm="Clement III">     <i>Clement<b/>III</i><par n="Mark__np"/></e>
+<e lm="Clement II">      <i>Clement<b/>II</i><par n="Mark__np"/></e>
+<e lm="Clement I">       <i>Clement<b/>I</i><par n="Mark__np"/></e>
+<e lm="Clement IV">      <i>Clement<b/>IV</i><par n="Mark__np"/></e>
+<e lm="Clement IX">      <i>Clement<b/>IX</i><par n="Mark__np"/></e>
+<e lm="Clement">         <i>Clement</i><par n="Mark__np"/></e>
+<e lm="Clement VIII">    <i>Clement<b/>VIII</i><par n="Mark__np"/></e>
+<e lm="Clement VII">     <i>Clement<b/>VII</i><par n="Mark__np"/></e>
+<e lm="Clement VI">      <i>Clement<b/>VI</i><par n="Mark__np"/></e>
+<e lm="Clement V">       <i>Clement<b/>V</i><par n="Mark__np"/></e>
+<e lm="Clement XIII">    <i>Clement<b/>XIII</i><par n="Mark__np"/></e>
+<e lm="Clement XII">     <i>Clement<b/>XII</i><par n="Mark__np"/></e>
+<e lm="Clement XI">      <i>Clement<b/>XI</i><par n="Mark__np"/></e>
+<e lm="Clement XIV">     <i>Clement<b/>XIV</i><par n="Mark__np"/></e>
+<e lm="Clement X">       <i>Clement<b/>X</i><par n="Mark__np"/></e>
+<e lm="Count Dracula">   <i>Count<b/>Dracula</i><par n="Mark__np"/></e>
+<e lm="Crestian">        <i>Crestian</i><par n="Mark__np"/></e>
+<e lm="Cris">            <i>Cris</i><par n="Mark__np"/></e>
+<e lm="Dalai Lama">      <i>Dalai<b/>Lama</i><par n="Mark__np"/></e>
+<e lm="Daniel Ortega">   <i>Daniel<b/>Ortega</i><par n="Mark__np"/></e>
+<e lm="Dariusz">         <i>Dariusz</i><par n="Mark__np"/></e>
+<e lm="Dave Brown">      <i>Dave<b/>Brown</i><par n="Mark__np"/></e>
+<e lm="Democles">        <i>Democles</i><par n="Mark__np"/></e>
+<e lm="Democritus">      <i>Democritus</i><par n="Mark__np"/></e>
+<e lm="Denys">           <i>Denys</i><par n="Mark__np"/></e>
+<e lm="Edsger">          <i>Edsger</i><par n="Mark__np"/></e>
+<e lm="Ele">             <i>Ele</i><par n="Mark__np"/></e>
+<e lm="Ennius">          <i>Ennius</i><par n="Mark__np"/></e>
+<e lm="Enrique Grau">    <i>Enrique<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Eric Raymond">    <i>Eric<b/>Raymond</i><par n="Mark__np"/></e>
+<e lm="Eric S. Raymond"> <i>Eric<b/>S.<b/>Raymond</i><par n="Mark__np"/></e>
+<e lm="Esperaunce">      <i>Esperaunce</i><par n="Mark__np"/></e>
+<e lm="Estrabón">        <i>Estrabón</i><par n="Mark__np"/></e>
+<e lm="Ethelbert">       <i>Ethelbert</i><par n="Mark__np"/></e>
+<e lm="Ethelred">        <i>Ethelred</i><par n="Mark__np"/></e>
+<e lm="Etienne">         <i>Etienne</i><par n="Mark__np"/></e>
+<e lm="Evo">             <i>Evo</i><par n="Mark__np"/></e>
+<e lm="Felip Puig i Godes"><i>Felip<b/>Puig<b/>i<b/>Godes</i><par n="Mark__np"/></e>
+<e lm="Fernando Andreu"> <i>Fernando<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Ferran Mascarell i Canalda"><i>Ferran<b/>Mascarell<b/>i<b/>Canalda</i><par n="Mark__np"/></e>
+<e lm="Fidel Castro">    <i>Fidel<b/>Castro</i><par n="Mark__np"/></e>
+<e lm="Finn">            <i>Finn</i><par n="Mark__np"/></e>
+<e lm="Florian">         <i>Florian</i><par n="Mark__np"/></e>
+<e lm="Folke">           <i>Folke</i><par n="Mark__np"/></e>
+<e lm="Francesc Joan Mas"><i>Francesc<b/>Joan<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Francesc Mas i Ros"><i>Francesc<b/>Mas<b/>i<b/>Ros</i><par n="Mark__np"/></e>
+<e lm="Francesc Xavier"> <i>Francesc<b/>Xavier</i><par n="Mark__np"/></e>
+<e lm="Francis Bacon">   <i>Francis<b/>Bacon</i><par n="Mark__np"/></e>
+<e lm="Francis Mas">     <i>Francis<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Francis Borgia">  <i>Francis<b/>Borgia</i><par n="Mark__np"/></e>
+<e lm="Frankie Andreu">  <i>Frankie<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Gabriel Mas Arbona"><i>Gabriel<b/>Mas<b/>Arbona</i><par n="Mark__np"/></e>
+<e lm="Gauwyn">          <i>Gauwyn</i><par n="Mark__np"/></e>
+<e lm="Geerardt">        <i>Geerardt</i><par n="Mark__np"/></e>
+<e lm="George W. Bush">  <i>George<b/>W.<b/>Bush</i><par n="Mark__np"/></e>
+<e lm="George H. W. Bush"><i>George<b/>H.<b/>W.<b/>Bush</i><par n="Mark__np"/></e>
+<e lm="Georges Duhamel"> <i>Georges<b/>Duhamel</i><par n="Mark__np"/></e>
+<e lm="Gerry Adams">     <i>Gerry<b/>Adams</i><par n="Mark__np"/></e>
+<e lm="Giles">           <i>Giles</i><par n="Mark__np"/></e>
+<e lm="Gordon Brown">    <i>Gordon<b/>Brown</i><par n="Mark__np"/></e>
+<e lm="Graeme">          <i>Graeme</i><par n="Mark__np"/></e>
+<e lm="Guillem Mas">     <i>Guillem<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Gyles">           <i>Gyles</i><par n="Mark__np"/></e>
+<e lm="Hashimoto Tetsuya"><i>Hashimoto<b/>Tetsuya</i><par n="Mark__np"/></e>
+<e lm="Hatem Ben Arfa">  <i>Hatem<b/>Ben<b/>Arfa</i><par n="Mark__np"/></e>
+<e lm="Henri Donnedieu de Vabres"><i>Henri<b/>Donnedieu<b/>de<b/>Vabres</i><par n="Mark__np"/></e>
+<e lm="Hewrey">          <i>Hewrey</i><par n="Mark__np"/></e>
+<e lm="Honor">           <i>Honor</i><par n="Mark__np"/></e>
+<e lm="Hugo Grau">       <i>Hugo<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Ignaci">          <i>Ignaci</i><par n="Mark__np"/></e>
+<e lm="Ignatius of Antioch"><i>Ignatius<b/>of<b/>Antioch</i><par n="Mark__np"/></e>
+<e lm="Iker">            <i>Iker</i><par n="Mark__np"/></e>
+<e lm="Ike">             <i>Ike</i><par n="Mark__np"/></e>
+<e lm="Íñigo">           <i>Íñigo</i><par n="Mark__np"/></e>
+<e lm="Irakoitz">        <i>Irakoitz</i><par n="Mark__np"/></e>
+<e lm="Izan">            <i>Izan</i><par n="Mark__np"/></e>
+<e lm="James II">        <i>James<b/>II</i><par n="Mark__np"/></e>
+<e lm="James I">         <i>James<b/>I</i><par n="Mark__np"/></e>
+<e lm="Jan O. Karlsson"> <i>Jan<b/>O.<b/>Karlsson</i><par n="Mark__np"/></e>
+<e lm="Ján">             <i>Ján</i><par n="Mark__np"/></e>
+<e lm="Jaques">          <i>Jaques</i><par n="Mark__np"/></e>
+<e lm="Jaume Mas">       <i>Jaume<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Javier Solana Madariaga"><i>Javier<b/>Solana<b/>Madariaga</i><par n="Mark__np"/></e>
+<e lm="Javi">            <i>Javi</i><par n="Mark__np"/></e>
+<e lm="Jean-Baptiste Charles Mas de Polart"><i>Jean-Baptiste<b/>Charles<b/>Mas<b/>de<b/>Polart</i><par n="Mark__np"/></e>
+<e lm="Jenlyns">         <i>Jenlyns</i><par n="Mark__np"/></e>
+<e lm="Jerzy">           <i>Jerzy</i><par n="Mark__np"/></e>
+<e lm="Jesús">           <i>Jesús</i><par n="Mark__np"/></e>
+<e lm="Joan Antoni">     <i>Joan<b/>Antoni</i><par n="Mark__np"/></e>
+<e lm="Joan Carretero i Grau"><i>Joan<b/>Carretero<b/>i<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Joan Mas i Bauzà"><i>Joan<b/>Mas<b/>i<b/>Bauzà</i><par n="Mark__np"/></e>
+<e lm="Joan Mas i Cantí"><i>Joan<b/>Mas<b/>i<b/>Cantí</i><par n="Mark__np"/></e>
+<e lm="Joan Mas i Ramon"><i>Joan<b/>Mas<b/>i<b/>Ramon</i><par n="Mark__np"/></e>
+<e lm="Joan Mas i Vives"><i>Joan<b/>Mas<b/>i<b/>Vives</i><par n="Mark__np"/></e>
+<e lm="Joan Mas">        <i>Joan<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Joan Josep">      <i>Joan<b/>Josep</i><par n="Mark__np"/></e>
+<e lm="Joan Manel">      <i>Joan<b/>Manel</i><par n="Mark__np"/></e>
+<e lm="Joaquín Almunia Amann"><i>Joaquín<b/>Almunia<b/>Amann</i><par n="Mark__np"/></e>
+<e lm="Joaquín Almunia"> <i>Joaquín<b/>Almunia</i><par n="Mark__np"/></e>
+<e lm="John Cabot">      <i>John<b/>Cabot</i><par n="Mark__np"/></e>
+<e lm="John Calvin">     <i>John<b/>Calvin</i><par n="Mark__np"/></e>
+<e lm="John III">        <i>John<b/>III</i><par n="Mark__np"/></e>
+<e lm="John II">         <i>John<b/>II</i><par n="Mark__np"/></e>
+<e lm="John I">          <i>John<b/>I</i><par n="Mark__np"/></e>
+<e lm="John IV">         <i>John<b/>IV</i><par n="Mark__np"/></e>
+<e lm="John IX">         <i>John<b/>IX</i><par n="Mark__np"/></e>
+<e lm="John of God">     <i>John<b/>of<b/>God</i><par n="Mark__np"/></e>
+<e lm="John of Matha">   <i>John<b/>of<b/>Matha</i><par n="Mark__np"/></e>
+<e lm="John Paul II">    <i>John<b/>Paul<b/>II</i><par n="Mark__np"/></e>
+<e lm="John Paul I">     <i>John<b/>Paul<b/>I</i><par n="Mark__np"/></e>
+<e lm="John the Baptist"><i>John<b/>the<b/>Baptist</i><par n="Mark__np"/></e>
+<e lm="John VIII">       <i>John<b/>VIII</i><par n="Mark__np"/></e>
+<e lm="John VII">        <i>John<b/>VII</i><par n="Mark__np"/></e>
+<e lm="John VI">         <i>John<b/>VI</i><par n="Mark__np"/></e>
+<e lm="John V">          <i>John<b/>V</i><par n="Mark__np"/></e>
+<e lm="John XIII">       <i>John<b/>XIII</i><par n="Mark__np"/></e>
+<e lm="John XII">        <i>John<b/>XII</i><par n="Mark__np"/></e>
+<e lm="John XI">         <i>John<b/>XI</i><par n="Mark__np"/></e>
+<e lm="John XIV">        <i>John<b/>XIV</i><par n="Mark__np"/></e>
+<e lm="John XIX">        <i>John<b/>XIX</i><par n="Mark__np"/></e>
+<e lm="John X">          <i>John<b/>X</i><par n="Mark__np"/></e>
+<e lm="John XVIII">      <i>John<b/>XVIII</i><par n="Mark__np"/></e>
+<e lm="John XVII">       <i>John<b/>XVII</i><par n="Mark__np"/></e>
+<e lm="John XVI">        <i>John<b/>XVI</i><par n="Mark__np"/></e>
+<e lm="John XV">         <i>John<b/>XV</i><par n="Mark__np"/></e>
+<e lm="John XXIII">      <i>John<b/>XXIII</i><par n="Mark__np"/></e>
+<e lm="John XXII">       <i>John<b/>XXII</i><par n="Mark__np"/></e>
+<e lm="John XXI">        <i>John<b/>XXI</i><par n="Mark__np"/></e>
+<e lm="John XX">         <i>John<b/>XX</i><par n="Mark__np"/></e>
+<e lm="Jorge Mas Canosa"><i>Jorge<b/>Mas<b/>Canosa</i><par n="Mark__np"/></e>
+<e lm="Jørgen Mohr">     <i>Jørgen<b/>Mohr</i><par n="Mark__np"/></e>
+<e lm="José Manuel Durão Barroso"><i>José<b/>Manuel<b/>Durão<b/>Barroso</i><par n="Mark__np"/></e>
+<e lm="José Luis Rodríguez Zapatero"><i>José<b/>Luis<b/>Rodríguez<b/>Zapatero</i><par n="Mark__np"/></e>
+<e lm="José María Aznar"><i>José<b/>María<b/>Aznar</i><par n="Mark__np"/></e>
+<e lm="José María Barreda"><i>José<b/>María<b/>Barreda</i><par n="Mark__np"/></e>
+<e lm="José Montilla Aguilera"><i>José<b/>Montilla<b/>Aguilera</i><par n="Mark__np"/></e>
+<e lm="Josep Antoni">    <i>Josep<b/>Antoni</i><par n="Mark__np"/></e>
+<e lm="Josep Lluís Cleries i Gonzàlez"><i>Josep<b/>Lluís<b/>Cleries<b/>i<b/>Gonzàlez</i><par n="Mark__np"/></e>
+<e lm="Josep Maria Pelegrí i Aixut"><i>Josep<b/>Maria<b/>Pelegrí<b/>i<b/>Aixut</i><par n="Mark__np"/></e>
+<e lm="Josep Moragues i Mas"><i>Josep<b/>Moragues<b/>i<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Josep Vicenç Foix i Mas"><i>Josep<b/>Vicenç<b/>Foix<b/>i<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Joseph Stalin">   <i>Joseph<b/>Stalin</i><par n="Mark__np"/></e>
+<e lm="Joserra">         <i>Joserra</i><par n="Mark__np"/></e>
+<e lm="José Sócrates">   <i>José<b/>Sócrates</i><par n="Mark__np"/></e>
+<e lm="Josh Duhamel">    <i>Josh<b/>Duhamel</i><par n="Mark__np"/></e>
+<e lm="Joxemi">          <i>Joxemi</i><par n="Mark__np"/></e>
+<e lm="Juan Alberto Andreu"><i>Juan<b/>Alberto<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Juan Jesús Vivas Lara"><i>Juan<b/>Jesús<b/>Vivas<b/>Lara</i><par n="Mark__np"/></e>
+<e lm="Juan Jesús">      <i>Juan<b/>Jesús</i><par n="Mark__np"/></e>
+<e lm="Juan José Ibarretxe Markuartu"><i>Juan<b/>José<b/>Ibarretxe<b/>Markuartu</i><par n="Mark__np"/></e>
+<e lm="Juan José Ibarretxe"><i>Juan<b/>José<b/>Ibarretxe</i><par n="Mark__np"/></e>
+<e lm="Juan José">       <i>Juan<b/>José</i><par n="Mark__np"/></e>
+<e lm="Juan Manuel Fabra Valles"><i>Juan<b/>Manuel<b/>Fabra<b/>Valles</i><par n="Mark__np"/></e>
+<e lm="Juan Vicente Mas Quiles"><i>Juan<b/>Vicente<b/>Mas<b/>Quiles</i><par n="Mark__np"/></e>
+<e lm="Juan Carlos I">   <i>Juan<b/>Carlos<b/>I</i><par n="Mark__np"/></e>
+<e lm="Juande Ramos">    <i>Juande<b/>Ramos</i><par n="Mark__np"/></e>
+<e lm="Juan Diego de Guadalupe"><i>Juan<b/>Diego<b/>de<b/>Guadalupe</i><par n="Mark__np"/></e>
+<e lm="Julen">           <i>Julen</i><par n="Mark__np"/></e>
+<e lm="Julyan">          <i>Julyan</i><par n="Mark__np"/></e>
+<e lm="Jürgen Trumpf">   <i>Jürgen<b/>Trumpf</i><par n="Mark__np"/></e>
+<e lm="Jürgen">          <i>Jürgen</i><par n="Mark__np"/></e>
+<e lm="Kaká">            <i>Kaká</i><par n="Mark__np"/></e>
+<e lm="Karlos">          <i>Karlos</i><par n="Mark__np"/></e>
+<e lm="Ken Saro-Wiwa">   <i>Ken<b/>Saro-Wiwa</i><par n="Mark__np"/></e>
+<e lm="Kim Jong-il">     <i>Kim<b/>Jong-il</i><par n="Mark__np"/></e>
+<e lm="King Solomon">    <i>King<b/>Solomon</i><par n="Mark__np"/></e>
+<e lm="Lancelot du Lac"> <i>Lancelot<b/>du<b/>Lac</i><par n="Mark__np"/></e>
+<e lm="Lancelot of the Lake"><i>Lancelot<b/>of<b/>the<b/>Lake</i><par n="Mark__np"/></e>
+<e lm="Lech Kaczynski">  <i>Lech<b/>Kaczynski</i><par n="Mark__np"/></e>
+<e lm="Leo III">         <i>Leo<b/>III</i><par n="Mark__np"/></e>
+<e lm="Leo II">          <i>Leo<b/>II</i><par n="Mark__np"/></e>
+<e lm="Leo I">           <i>Leo<b/>I</i><par n="Mark__np"/></e>
+<e lm="Leo IV">          <i>Leo<b/>IV</i><par n="Mark__np"/></e>
+<e lm="Leo IX">          <i>Leo<b/>IX</i><par n="Mark__np"/></e>
+<e lm="Leonhard">        <i>Leonhard</i><par n="Mark__np"/></e>
+<e lm="Leo VIII">        <i>Leo<b/>VIII</i><par n="Mark__np"/></e>
+<e lm="Leo VII">         <i>Leo<b/>VII</i><par n="Mark__np"/></e>
+<e lm="Leo VI">          <i>Leo<b/>VI</i><par n="Mark__np"/></e>
+<e lm="Leo V">           <i>Leo<b/>V</i><par n="Mark__np"/></e>
+<e lm="Leo XIII">        <i>Leo<b/>XIII</i><par n="Mark__np"/></e>
+<e lm="Leo XII">         <i>Leo<b/>XII</i><par n="Mark__np"/></e>
+<e lm="Leo XI">          <i>Leo<b/>XI</i><par n="Mark__np"/></e>
+<e lm="Leo X">           <i>Leo<b/>X</i><par n="Mark__np"/></e>
+<e lm="Lewis Hamilton">  <i>Lewis<b/>Hamilton</i><par n="Mark__np"/></e>
+<e lm="Linus">           <i>Linus</i><par n="Mark__np"/></e>
+<e lm="Lluc">            <i>Lluc</i><par n="Mark__np"/></e>
+<e lm="Lluís Mas i Borràs"><i>Lluís<b/>Mas<b/>i<b/>Borràs</i><par n="Mark__np"/></e>
+<e lm="Lluís Mas i Ossó"><i>Lluís<b/>Mas<b/>i<b/>Ossó</i><par n="Mark__np"/></e>
+<e lm="Lluís Mas i Pons"><i>Lluís<b/>Mas<b/>i<b/>Pons</i><par n="Mark__np"/></e>
+<e lm="Lluís Recoder i Miralles"><i>Lluís<b/>Recoder<b/>i<b/>Miralles</i><par n="Mark__np"/></e>
+<e lm="Lorenzo Batlle y Grau"><i>Lorenzo<b/>Batlle<b/>y<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Lourdes">         <i>Lourdes</i><par n="Mark__np"/></e>
+<e lm="Lou Reed">        <i>Lou<b/>Reed</i><par n="Mark__np"/></e>
+<e lm="Luís">            <i>Luís</i><par n="Mark__np"/></e>
+<e lm="Manuel Almunia">  <i>Manuel<b/>Almunia</i><par n="Mark__np"/></e>
+<e lm="Manuel Mas Ribó"> <i>Manuel<b/>Mas<b/>Ribó</i><par n="Mark__np"/></e>
+<e lm="Manu">            <i>Manu</i><par n="Mark__np"/></e>
+<e lm="Mao">             <i>Mao</i><par n="Mark__np"/></e>
+<e lm="Marc Andreu">     <i>Marc<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Marcos da Portela"><i>Marcos<b/>da<b/>Portela</i><par n="Mark__np"/></e>
+<e lm="Mariano Andreu">  <i>Mariano<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="María">           <i>María</i><par n="Mark__np"/></e>
+<e lm="Mari">            <i>Mari</i><par n="Mark__np"/></e>
+<e lm="Mathis">          <i>Mathis</i><par n="Mark__np"/></e>
+<e lm="Mathye">          <i>Mathye</i><par n="Mark__np"/></e>
+<e lm="Miguel Grau Seminario"><i>Miguel<b/>Grau<b/>Seminario</i><par n="Mark__np"/></e>
+<e lm="Miguel Mas">      <i>Miguel<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Mikhail Gorbachev"><i>Mikhail<b/>Gorbachev</i><par n="Mark__np"/></e>
+<e lm="Mikhail Sergeyevich Gorbachev"><i>Mikhail<b/>Sergeyevich<b/>Gorbachev</i><par n="Mark__np"/></e>
+<e lm="Miltiades">       <i>Miltiades</i><par n="Mark__np"/></e>
+<e lm="Miquel Àngel">    <i>Miquel<b/>Àngel</i><par n="Mark__np"/></e>
+<e lm="Miquel Mas Ferrà"><i>Miquel<b/>Mas<b/>Ferrà</i><par n="Mark__np"/></e>
+<e lm="Miquel Mas Gayà"> <i>Miquel<b/>Mas<b/>Gayà</i><par n="Mark__np"/></e>
+<e lm="Mohamed ElBaradei"><i>Mohamed<b/>ElBaradei</i><par n="Mark__np"/></e>
+<e lm="Muhammed">        <i>Muhammed</i><par n="Mark__np"/></e>
+<e lm="Nicolas Mas-Castellane"><i>Nicolas<b/>Mas-Castellane</i><par n="Mark__np"/></e>
+<e lm="Nicolas Mas">     <i>Nicolas<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Nicolas Sarkozy"> <i>Nicolas<b/>Sarkozy</i><par n="Mark__np"/></e>
+<e lm="Olyver">          <i>Olyver</i><par n="Mark__np"/></e>
+<e lm="Orpheus">         <i>Orpheus</i><par n="Mark__np"/></e>
+<e lm="Osama bin Laden"> <i>Osama<b/>bin<b/>Laden</i><par n="Mark__np"/></e>
+<e lm="Oscar Más">       <i>Oscar<b/>Más</i><par n="Mark__np"/></e>
+<e lm="Óscar Pereiro">   <i>Óscar<b/>Pereiro</i><par n="Mark__np"/></e>
+<e lm="Paracelsus">      <i>Paracelsus</i><par n="Mark__np"/></e>
+<e lm="Paula">           <i>Paula</i><par n="Mark__np"/></e>
+<e lm="Paul Andreu">     <i>Paul<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Pedro Almodóvar"> <i>Pedro<b/>Almodóvar</i><par n="Mark__np"/></e>
+<e lm="Pedro Andreu">    <i>Pedro<b/>Andreu</i><par n="Mark__np"/></e>
+<e lm="Per Stig Møller"> <i>Per<b/>Stig<b/>Møller</i><par n="Mark__np"/></e>
+<e lm="Percy">           <i>Percy</i><par n="Mark__np"/></e>
+<e lm="Pere Sampol Mas"> <i>Pere<b/>Sampol<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Philip K. Dick">  <i>Philip<b/>K.<b/>Dick</i><par n="Mark__np"/></e>
+<e lm="Philippe Douste-Blazy"><i>Philippe<b/>Douste-Blazy</i><par n="Mark__np"/></e>
+<e lm="Pierre De Boissieu"><i>Pierre<b/>De<b/>Boissieu</i><par n="Mark__np"/></e>
+<e lm="Piers">           <i>Piers</i><par n="Mark__np"/></e>
+<e lm="Píndaro">         <i>Píndaro</i><par n="Mark__np"/></e>
+<e lm="Ptolemey">        <i>Ptolemey</i><par n="Mark__np"/></e>
+<e lm="Ptolemy">         <i>Ptolemy</i><par n="Mark__np"/></e>
+<e lm="Quincy Jones">    <i>Quincy<b/>Jones</i><par n="Mark__np"/></e>
+<e lm="Rafael Nadal">    <i>Rafael<b/>Nadal</i><par n="Mark__np"/></e>
+<e lm="Rafel">           <i>Rafel</i><par n="Mark__np"/></e>
+<e lm="Raffe">           <i>Raffe</i><par n="Mark__np"/></e>
+<e lm="Ralf">            <i>Ralf</i><par n="Mark__np"/></e>
+<e lm="Ramón Grau">      <i>Ramón<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Rasputin">        <i>Rasputin</i><par n="Mark__np"/></e>
+<e lm="Rauffe">          <i>Rauffe</i><par n="Mark__np"/></e>
+<e lm="Raul Albiol">     <i>Raul<b/>Albiol</i><par n="Mark__np"/></e>
+<e lm="Raúl Cubas Grau"> <i>Raúl<b/>Cubas<b/>Grau</i><par n="Mark__np"/></e>
+<e lm="Raulin">          <i>Raulin</i><par n="Mark__np"/></e>
+<e lm="Regí Mas i Marí"> <i>Regí<b/>Mas<b/>i<b/>Marí</i><par n="Mark__np"/></e>
+<e lm="Regino Más i Marí"><i>Regino<b/>Más<b/>i<b/>Marí</i><par n="Mark__np"/></e>
+<e lm="Renaud Donnedieu de Vabres"><i>Renaud<b/>Donnedieu<b/>de<b/>Vabres</i><par n="Mark__np"/></e>
+<e lm="Reynard">         <i>Reynard</i><par n="Mark__np"/></e>
+<e lm="Richard M. Stallman"><i>Richard<b/>M.<b/>Stallman</i><par n="Mark__np"/></e>
+<e lm="Richard Stallman"><i>Richard<b/>Stallman</i><par n="Mark__np"/></e>
+<e lm="Rio Ferdinand">   <i>Rio<b/>Ferdinand</i><par n="Mark__np"/></e>
+<e lm="Rivaldo">         <i>Rivaldo</i><par n="Mark__np"/></e>
+<e lm="Robbie Williams"> <i>Robbie<b/>Williams</i><par n="Mark__np"/></e>
+<e lm="Robinho">         <i>Robinho</i><par n="Mark__np"/></e>
+<e lm="Roger Bacon">     <i>Roger<b/>Bacon</i><par n="Mark__np"/></e>
+<e lm="Roger Mas">       <i>Roger<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Roi">             <i>Roi</i><par n="Mark__np"/></e>
+<e lm="Rosendo">         <i>Rosendo</i><par n="Mark__np"/></e>
+<e lm="Rudolf">          <i>Rudolf</i><par n="Mark__np"/></e>
+<e lm="Saint Irenaeus">  <i>Saint<b/>Irenaeus</i><par n="Mark__np"/></e>
+<e lm="Salvador Mas i Conde"><i>Salvador<b/>Mas<b/>i<b/>Conde</i><par n="Mark__np"/></e>
+<e lm="Sandor Marai">    <i>Sandor<b/>Marai</i><par n="Mark__np"/></e>
+<e lm="Scipion">         <i>Scipion</i><par n="Mark__np"/></e>
+<e lm="Scot">            <i>Scot</i><par n="Mark__np"/></e>
+<e lm="Sergi Mas y Abad"><i>Sergi<b/>Mas<b/>y<b/>Abad</i><par n="Mark__np"/></e>
+<e lm="Sergi Mas">       <i>Sergi<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Serxio">          <i>Serxio</i><par n="Mark__np"/></e>
+<e lm="Sinibaldo de Mas"><i>Sinibaldo<b/>de<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Sir Isaac Newton"><i>Sir<b/>Isaac<b/>Newton</i><par n="Mark__np"/></e>
+<e lm="Slaven">          <i>Slaven</i><par n="Mark__np"/></e>
+<e lm="Stanislav Gross"> <i>Stanislav<b/>Gross</i><par n="Mark__np"/></e>
+<e lm="Suso de Toro">    <i>Suso<b/>de<b/>Toro</i><par n="Mark__np"/></e>
+<e lm="Suso">            <i>Suso</i><par n="Mark__np"/></e>
+<e lm="Sven">            <i>Sven</i><par n="Mark__np"/></e>
+<e lm="Sylvester Stallone"><i>Sylvester<b/>Stallone</i><par n="Mark__np"/></e>
+<e lm="Sylwester Szymd"> <i>Sylwester<b/>Szymd</i><par n="Mark__np"/></e>
+<e lm="Symond">          <i>Symond</i><par n="Mark__np"/></e>
+<e lm="Telemachus">      <i>Telemachus</i><par n="Mark__np"/></e>
+<e lm="Telesphorus">     <i>Telesphorus</i><par n="Mark__np"/></e>
+<e lm="Thales of Miletus"><i>Thales<b/>of<b/>Miletus</i><par n="Mark__np"/></e>
+<e lm="Th. C. Hijzen">   <i>Th.<b/>C.<b/>Hijzen</i><par n="Mark__np"/></e>
+<e lm="Tönis">           <i>Tönis</i><par n="Mark__np"/></e>
+<e lm="Tony Blair">      <i>Tony<b/>Blair</i><par n="Mark__np"/></e>
+<e lm="Tore">            <i>Tore</i><par n="Mark__np"/></e>
+<e lm="Uxío">            <i>Uxío</i><par n="Mark__np"/></e>
+<e lm="Vicente Aleixandre"><i>Vicente<b/>Aleixandre</i><par n="Mark__np"/></e>
+<e lm="Vicente Grau Juan"><i>Vicente<b/>Grau<b/>Juan</i><par n="Mark__np"/></e>
+<e lm="Vicente Mas">     <i>Vicente<b/>Mas</i><par n="Mark__np"/></e>
+<e lm="Victor Hugo">     <i>Victor<b/>Hugo</i><par n="Mark__np"/></e>
+<e lm="Virgil">          <i>Virgil</i><par n="Mark__np"/></e>
+<e lm="Vítor Manuel da Silva Caldeira"><i>Vítor<b/>Manuel<b/>da<b/>Silva<b/>Caldeira</i><par n="Mark__np"/></e>
+<e lm="Vlad Dracula Tepes"><i>Vlad<b/>Dracula<b/>Tepes</i><par n="Mark__np"/></e>
+<e lm="Vlad Dracula">    <i>Vlad<b/>Dracula</i><par n="Mark__np"/></e>
+<e lm="Vlad III Dracula"><i>Vlad<b/>III<b/>Dracula</i><par n="Mark__np"/></e>
+<e lm="Vlad III the Impaler"><i>Vlad<b/>III<b/>the<b/>Impaler</i><par n="Mark__np"/></e>
+<e lm="Vlad Tepes">      <i>Vlad<b/>Tepes</i><par n="Mark__np"/></e>
+<e lm="Vlad the Impaler"><i>Vlad<b/>the<b/>Impaler</i><par n="Mark__np"/></e>
+<e lm="Vyacheslav Mikhailovich Molotov"><i>Vyacheslav<b/>Mikhailovich<b/>Molotov</i><par n="Mark__np"/></e>
+<e lm="Vyacheslav Molotov"><i>Vyacheslav<b/>Molotov</i><par n="Mark__np"/></e>
+<e lm="Vyncent">         <i>Vyncent</i><par n="Mark__np"/></e>
+<e lm="Wallace">         <i>Wallace</i><par n="Mark__np"/></e>
+<e lm="Walt">            <i>Walt</i><par n="Mark__np"/></e>
+<e lm="Wassily">         <i>Wassily</i><par n="Mark__np"/></e>
+<e lm="W. B. Yeats">     <i>W.<b/>B.<b/>Yeats</i><par n="Mark__np"/></e>
+<e lm="Wilham">          <i>Wilham</i><par n="Mark__np"/></e>
+<e lm="William Tell">    <i>William<b/>Tell</i><par n="Mark__np"/></e>
+<e lm="Xan">             <i>Xan</i><par n="Mark__np"/></e>
+<e lm="Xavi">            <i>Xavi</i><par n="Mark__np"/></e>
+<e lm="Xoán">            <i>Xoán</i><par n="Mark__np"/></e>
+<e lm="Xose">            <i>Xose</i><par n="Mark__np"/></e>
+<e lm="Xosé">            <i>Xosé</i><par n="Mark__np"/></e>
+<e lm="Xoxe">            <i>Xoxe</i><par n="Mark__np"/></e>
+<e lm="Xulio">           <i>Xulio</i><par n="Mark__np"/></e>
+<e lm="Zacheus">         <i>Zacheus</i><par n="Mark__np"/></e>
     
     <!-- first names feminine -->
 
@@ -44304,6 +44703,122 @@
 <e lm="Zulma">           <i>Zulma</i><par n="Mary__np"/></e>
 <e lm="Zulmara">         <i>Zulmara</i><par n="Mary__np"/></e>
 <e lm="Zunilda">         <i>Zunilda</i><par n="Mary__np"/></e>
+<e lm="Aina">            <i>Aina</i><par n="Mary__np"/></e>
+<e lm="Ainhoa Arteta">   <i>Ainhoa<b/>Arteta</i><par n="Mary__np"/></e>
+<e lm="Alberte">         <i>Alberte</i><par n="Mary__np"/></e>
+<e lm="Alyne">           <i>Alyne</i><par n="Mary__np"/></e>
+<e lm="Alys">            <i>Alys</i><par n="Mary__np"/></e>
+<e lm="Amice">           <i>Amice</i><par n="Mary__np"/></e>
+<e lm="Amphelice">       <i>Amphelice</i><par n="Mary__np"/></e>
+<e lm="Angela Merkel">   <i>Angela<b/>Merkel</i><par n="Mary__np"/></e>
+<e lm="Àngela">          <i>Àngela</i><par n="Mary__np"/></e>
+<e lm="Angelina Jolie">  <i>Angelina<b/>Jolie</i><par n="Mary__np"/></e>
+<e lm="Anjelica Huston"> <i>Anjelica<b/>Huston</i><par n="Mary__np"/></e>
+<e lm="Anna Genover-Mas"><i>Anna<b/>Genover-Mas</i><par n="Mary__np"/></e>
+<e lm="Anna Maria">      <i>Anna<b/>Maria</i><par n="Mary__np"/></e>
+<e lm="Antía">           <i>Antía</i><par n="Mary__np"/></e>
+<e lm="Arantxa">         <i>Arantxa</i><par n="Mary__np"/></e>
+<e lm="Aroa">            <i>Aroa</i><par n="Mary__np"/></e>
+<e lm="Bairbre">         <i>Bairbre</i><par n="Mary__np"/></e>
+<e lm="Barbie">          <i>Barbie</i><par n="Mary__np"/></e>
+<e lm="Baterich">        <i>Baterich</i><par n="Mary__np"/></e>
+<e lm="Beatrix">         <i>Beatrix</i><par n="Mary__np"/></e>
+<e lm="Beatriz del Valle"><i>Beatriz<b/>del<b/>Valle</i><par n="Mary__np"/></e>
+<e lm="Benazir">         <i>Benazir</i><par n="Mary__np"/></e>
+<e lm="Britney Spears">  <i>Britney<b/>Spears</i><par n="Mary__np"/></e>
+<e lm="Carolyne Mas">    <i>Carolyne<b/>Mas</i><par n="Mary__np"/></e>
+<e lm="Cecily">          <i>Cecily</i><par n="Mary__np"/></e>
+<e lm="Chlorella">       <i>Chlorella</i><par n="Mary__np"/></e>
+<e lm="Cicely">          <i>Cicely</i><par n="Mary__np"/></e>
+<e lm="Collys">          <i>Collys</i><par n="Mary__np"/></e>
+<e lm="Demi">            <i>Demi</i><par n="Mary__np"/></e>
+<e lm="Desirée">         <i>Desirée</i><par n="Mary__np"/></e>
+<e lm="Dionisia">        <i>Dionisia</i><par n="Mary__np"/></e>
+<e lm="Doris Grau">      <i>Doris<b/>Grau</i><par n="Mary__np"/></e>
+<e lm="Douce">           <i>Douce</i><par n="Mary__np"/></e>
+<e lm="Elizabeth II">    <i>Elizabeth<b/>II</i><par n="Mary__np"/></e>
+<e lm="Elizabeth I">     <i>Elizabeth<b/>I</i><par n="Mary__np"/></e>
+<e lm="Ellen Johnson-Sirleaf"><i>Ellen<b/>Johnson-Sirleaf</i><par n="Mary__np"/></e>
+<e lm="Ellyn">           <i>Ellyn</i><par n="Mary__np"/></e>
+<e lm="Elynor">          <i>Elynor</i><par n="Mary__np"/></e>
+<e lm="Elyn">            <i>Elyn</i><par n="Mary__np"/></e>
+<e lm="Eva-Britt">       <i>Eva-Britt</i><par n="Mary__np"/></e>
+<e lm="Fannie">          <i>Fannie</i><par n="Mary__np"/></e>
+<e lm="Fanny Hess">      <i>Fanny<b/>Hess</i><par n="Mary__np"/></e>
+<e lm="Fàtima">          <i>Fàtima</i><par n="Mary__np"/></e>
+<e lm="Florens">         <i>Florens</i><par n="Mary__np"/></e>
+<e lm="Glòria">          <i>Glòria</i><par n="Mary__np"/></e>
+<e lm="Gwyneth">         <i>Gwyneth</i><par n="Mary__np"/></e>
+<e lm="Iphigenia">       <i>Iphigenia</i><par n="Mary__np"/></e>
+<e lm="Irene Rigau i Oliver"><i>Irene<b/>Rigau<b/>i<b/>Oliver</i><par n="Mary__np"/></e>
+<e lm="Iria">            <i>Iria</i><par n="Mary__np"/></e>
+<e lm="Irma de la Paz">  <i>Irma<b/>de<b/>la<b/>Paz</i><par n="Mary__np"/></e>
+<e lm="Isabella I of Castile"><i>Isabella<b/>I<b/>of<b/>Castile</i><par n="Mary__np"/></e>
+<e lm="Jeanne Mas">      <i>Jeanne<b/>Mas</i><par n="Mary__np"/></e>
+<e lm="Joana Ortega i Alemany"><i>Joana<b/>Ortega<b/>i<b/>Alemany</i><par n="Mary__np"/></e>
+<e lm="Judit">           <i>Judit</i><par n="Mary__np"/></e>
+<e lm="Kateryn">         <i>Kateryn</i><par n="Mary__np"/></e>
+<e lm="Kath">            <i>Kath</i><par n="Mary__np"/></e>
+<e lm="Laure Batut">     <i>Laure<b/>Batut</i><par n="Mary__np"/></e>
+<e lm="Leire">           <i>Leire</i><par n="Mary__np"/></e>
+<e lm="Letitia">         <i>Letitia</i><par n="Mary__np"/></e>
+<e lm="Lluna">           <i>Lluna</i><par n="Mary__np"/></e>
+<e lm="Lois">            <i>Lois</i><par n="Mary__np"/></e>
+<e lm="Lore">            <i>Lore</i><par n="Mary__np"/></e>
+<e lm="Máire Geoghegan-Quinn"><i>Máire<b/>Geoghegan-Quinn</i><par n="Mary__np"/></e>
+<e lm="Malin">           <i>Malin</i><par n="Mary__np"/></e>
+<e lm="Maria Antònia">   <i>Maria<b/>Antònia</i><par n="Mary__np"/></e>
+<e lm="Maria del Carme"> <i>Maria<b/>del<b/>Carme</i><par n="Mary__np"/></e>
+<e lm="Maria del Mar">   <i>Maria<b/>del<b/>Mar</i><par n="Mary__np"/></e>
+<e lm="Maria Magdalena"> <i>Maria<b/>Magdalena</i><par n="Mary__np"/></e>
+<e lm="María Casares">   <i>María<b/>Casares</i><par n="Mary__np"/></e>
+<e lm="María Cielo del Carmen"><i>María<b/>Cielo<b/>del<b/>Carmen</i><par n="Mary__np"/></e>
+<e lm="María de Aránzazu"><i>María<b/>de<b/>Aránzazu</i><par n="Mary__np"/></e>
+<e lm="María de Aranzú"> <i>María<b/>de<b/>Aranzú</i><par n="Mary__np"/></e>
+<e lm="Martina">         <i>Martina</i><par n="Mary__np"/></e>
+<e lm="Maruja">          <i>Maruja</i><par n="Mary__np"/></e>
+<e lm="Mary Lou">        <i>Mary<b/>Lou</i><par n="Mary__np"/></e>
+<e lm="Mary McAleese">   <i>Mary<b/>McAleese</i><par n="Mary__np"/></e>
+<e lm="Maud">            <i>Maud</i><par n="Mary__np"/></e>
+<e lm="Meryell">         <i>Meryell</i><par n="Mary__np"/></e>
+<e lm="Mildred">         <i>Mildred</i><par n="Mary__np"/></e>
+<e lm="Miley">           <i>Miley</i><par n="Mary__np"/></e>
+<e lm="Millicent">       <i>Millicent</i><par n="Mary__np"/></e>
+<e lm="Nàdia">           <i>Nàdia</i><par n="Mary__np"/></e>
+<e lm="Noa">             <i>Noa</i><par n="Mary__np"/></e>
+<e lm="Patrícia">        <i>Patrícia</i><par n="Mary__np"/></e>
+<e lm="Phaedra">         <i>Phaedra</i><par n="Mary__np"/></e>
+<e lm="Philippa">        <i>Philippa</i><par n="Mary__np"/></e>
+<e lm="Pilar Fernández i Bozal"><i>Pilar<b/>Fernández<b/>i<b/>Bozal</i><par n="Mary__np"/></e>
+<e lm="Prudence">        <i>Prudence</i><par n="Mary__np"/></e>
+<e lm="Rexina">          <i>Rexina</i><par n="Mary__np"/></e>
+<e lm="Rosalía de Castro"><i>Rosalía<b/>de<b/>Castro</i><par n="Mary__np"/></e>
+<e lm="Rosaura Andreu">  <i>Rosaura<b/>Andreu</i><par n="Mary__np"/></e>
+<e lm="Rose of Lima">    <i>Rose<b/>of<b/>Lima</i><par n="Mary__np"/></e>
+<e lm="Sandra Bullock">  <i>Sandra<b/>Bullock</i><par n="Mary__np"/></e>
+<e lm="Sanjida">         <i>Sanjida</i><par n="Mary__np"/></e>
+<e lm="Sarra">           <i>Sarra</i><par n="Mary__np"/></e>
+<e lm="Shirley Ann Grau"><i>Shirley<b/>Ann<b/>Grau</i><par n="Mary__np"/></e>
+<e lm="Sibil">           <i>Sibil</i><par n="Mary__np"/></e>
+<e lm="Sònia">           <i>Sònia</i><par n="Mary__np"/></e>
+<e lm="Stéphanie of Monaco"><i>Stéphanie<b/>of<b/>Monaco</i><par n="Mary__np"/></e>
+<e lm="Sybell">          <i>Sybell</i><par n="Mary__np"/></e>
+<e lm="Sybill">          <i>Sybill</i><par n="Mary__np"/></e>
+<e lm="Sybil">           <i>Sybil</i><par n="Mary__np"/></e>
+<e lm="Tània">           <i>Tània</i><par n="Mary__np"/></e>
+<e lm="Taylor">          <i>Taylor</i><par n="Mary__np"/></e>
+<e lm="Teresita del Niño Jesús"><i>Teresita<b/>del<b/>Niño<b/>Jesús</i><par n="Mary__np"/></e>
+<e lm="Thomasine">       <i>Thomasine</i><par n="Mary__np"/></e>
+<e lm="Thomasyn">        <i>Thomasyn</i><par n="Mary__np"/></e>
+<e lm="Uxía">            <i>Uxía</i><par n="Mary__np"/></e>
+<e lm="Victoria de los Angeles"><i>Victoria<b/>de<b/>los<b/>Angeles</i><par n="Mary__np"/></e>
+<e lm="Victòria">        <i>Victòria</i><par n="Mary__np"/></e>
+<e lm="Wenefride">       <i>Wenefride</i><par n="Mary__np"/></e>
+<e lm="Winnifred">       <i>Winnifred</i><par n="Mary__np"/></e>
+<e lm="Xulia">           <i>Xulia</i><par n="Mary__np"/></e>
+<e lm="Yedythe">         <i>Yedythe</i><par n="Mary__np"/></e>
+<e lm="Zelda">           <i>Zelda</i><par n="Mary__np"/></e>
+<e lm="Zheng Jie">       <i>Zheng<b/>Jie</i><par n="Mary__np"/></e>
     
     <!-- family names  -->
 
@@ -56863,6 +57378,175 @@
 <e lm="Zimbabwe">        <i>Zimbabwe</i><par n="Barcelona__np"/></e>
 <e lm="Zurich">          <i>Zurich</i><par n="Barcelona__np"/></e>
 <e lm="Zürich">          <i>Zürich</i><par n="Barcelona__np"/></e>
+<e lm="Abando">          <i>Abando</i><par n="Barcelona__np"/></e>
+<e lm="A Coruña">        <i>A<b/>Coruña</i><par n="Barcelona__np"/></e>
+<e lm="Adeje">           <i>Adeje</i><par n="Barcelona__np"/></e>
+<e lm="Aden">            <i>Aden</i><par n="Barcelona__np"/></e>
+<e lm="Aiete">           <i>Aiete</i><par n="Barcelona__np"/></e>
+<e lm="Aleutian Islands"><i>Aleutian<b/>Islands</i><par n="United_States__np"/></e>
+<e lm="Algorta">         <i>Algorta</i><par n="Barcelona__np"/></e>
+<e lm="Alhucemas">       <i>Alhucemas</i><par n="Barcelona__np"/></e>
+<e lm="Anguilla">        <i>Anguilla</i><par n="Barcelona__np"/></e>
+<e lm="Antarctic Ocean"> <i>Antarctic<b/>Ocean</i><par n="Barcelona__np"/></e>
+<e lm="Asuncion">        <i>Asuncion</i><par n="Barcelona__np"/></e>
+<e lm="Austin">          <i>Austin</i><par n="Barcelona__np"/></e>
+<e lm="Austro-Hungarian Empire"><i>Austro-Hungarian<b/>Empire</i><par n="Barcelona__np"/></e>
+<e lm="Balearic Islands"><i>Balearic<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Barbanza">        <i>Barbanza</i><par n="Barcelona__np"/></e>
+<e lm="Barcelonès">      <i>Barcelonès</i><par n="Barcelona__np"/></e>
+<e lm="Basque Country">  <i>Basque<b/>Country</i><par n="Barcelona__np"/></e>
+<e lm="Bay of Biscay">   <i>Bay<b/>of<b/>Biscay</i><par n="Barcelona__np"/></e>
+<e lm="Bear Island">     <i>Bear<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="Bernoulli">       <i>Bernoulli</i><par n="Barcelona__np"/></e>
+<e lm="Black Sea">       <i>Black<b/>Sea</i><par n="Barcelona__np"/></e>
+<e lm="Bohai Sea">       <i>Bohai<b/>Sea</i><par n="Barcelona__np"/></e>
+<e lm="Boiro">           <i>Boiro</i><par n="Barcelona__np"/></e>
+<e lm="Brazomar">        <i>Brazomar</i><par n="Barcelona__np"/></e>
+<e lm="Bridgetown">      <i>Bridgetown</i><par n="Barcelona__np"/></e>
+<e lm="British Isles">   <i>British<b/>Isles</i><par n="Barcelona__np"/></e>
+<e lm="British Virgin Islands"><i>British<b/>Virgin<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="British West Indies"><i>British<b/>West<b/>Indies</i><par n="Barcelona__np"/></e>
+<e lm="Cabo da Cruz">    <i>Cabo<b/>da<b/>Cruz</i><par n="Barcelona__np"/></e>
+<e lm="Carolina">        <i>Carolina</i><par n="Barcelona__np"/></e>
+<e lm="Carribean">       <i>Carribean</i><par n="Barcelona__np"/></e>
+<e lm="Castile-La Mancha"><i>Castile-La<b/>Mancha</i><par n="Barcelona__np"/></e>
+<e lm="Castro Urdiales"> <i>Castro<b/>Urdiales</i><par n="Barcelona__np"/></e>
+<e lm="Cayman Islands">  <i>Cayman<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Channel Islands"> <i>Channel<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Colombo">         <i>Colombo</i><par n="Barcelona__np"/></e>
+<e lm="Complejo Ática">  <i>Complejo<b/>Ática</i><par n="Barcelona__np"/></e>
+<e lm="Concello de Boiro"><i>Concello<b/>de<b/>Boiro</i><par n="Barcelona__np"/></e>
+<e lm="Concello de Moaña"><i>Concello<b/>de<b/>Moaña</i><par n="Barcelona__np"/></e>
+<e lm="Concello de Riveira"><i>Concello<b/>de<b/>Riveira</i><par n="Barcelona__np"/></e>
+<e lm="Cook Islands">    <i>Cook<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Corse">           <i>Corse</i><par n="Barcelona__np"/></e>
+<e lm="Cudeyo">          <i>Cudeyo</i><par n="Barcelona__np"/></e>
+<e lm="Dakota">          <i>Dakota</i><par n="Barcelona__np"/></e>
+<e lm="Dalian">          <i>Dalian</i><par n="Barcelona__np"/></e>
+<e lm="Dominica">        <i>Dominica</i><par n="Barcelona__np"/></e>
+<e lm="Donostia-San Sebastián"><i>Donostia-San<b/>Sebastián</i><par n="Barcelona__np"/></e>
+<e lm="Donostia">        <i>Donostia</i><par n="Barcelona__np"/></e>
+<e lm="Easter Island">   <i>Easter<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="Ebre">            <i>Ebre</i><par n="Barcelona__np"/></e>
+<e lm="Eden">            <i>Eden</i><par n="Barcelona__np"/></e>
+<e lm="Enderbury">       <i>Enderbury</i><par n="Barcelona__np"/></e>
+<e lm="Epiphany">        <i>Epiphany</i><par n="Barcelona__np"/></e>
+<e lm="Ereaga">          <i>Ereaga</i><par n="Barcelona__np"/></e>
+<e lm="Eros">            <i>Eros</i><par n="Barcelona__np"/></e>
+<e lm="Euskadi">         <i>Euskadi</i><par n="Barcelona__np"/></e>
+<e lm="EU">              <i>EU</i><par n="Barcelona__np"/></e>
+<e lm="Eyjafjallajökull"><i>Eyjafjallajökull</i><par n="Barcelona__np"/></e>
+<e lm="Falkland Islands"><i>Falkland<b/>Islands</i><par n="United_States__np"/></e>
+<e lm="Federal Republic of Germany"><i>Federal<b/>Republic<b/>of<b/>Germany</i><par n="Barcelona__np"/></e>
+<e lm="Fibonacci">       <i>Fibonacci</i><par n="Barcelona__np"/></e>
+<e lm="Formosa">         <i>Formosa</i><par n="Barcelona__np"/></e>
+<e lm="French Polynesia"><i>French<b/>Polynesia</i><par n="Barcelona__np"/></e>
+<e lm="Friendly Islands"><i>Friendly<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Fujairah">        <i>Fujairah</i><par n="Barcelona__np"/></e>
+<e lm="Galapagos Islands"><i>Galapagos<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="German Democratic Republic"><i>German<b/>Democratic<b/>Republic</i><par n="Barcelona__np"/></e>
+<e lm="Getaria">         <i>Getaria</i><par n="Barcelona__np"/></e>
+<e lm="Getxo">           <i>Getxo</i><par n="Barcelona__np"/></e>
+<e lm="Gipuzkoa">        <i>Gipuzkoa</i><par n="Barcelona__np"/></e>
+<e lm="Gorliz">          <i>Gorliz</i><par n="Barcelona__np"/></e>
+<e lm="Grail">           <i>Grail</i><par n="Barcelona__np"/></e>
+<e lm="Guantánamo Bay">  <i>Guantánamo<b/>Bay</i><par n="Barcelona__np"/></e>
+<e lm="Guantánamo">      <i>Guantánamo</i><par n="Barcelona__np"/></e>
+<e lm="Guarnizo">        <i>Guarnizo</i><par n="Barcelona__np"/></e>
+<e lm="Guernica">        <i>Guernica</i><par n="Barcelona__np"/></e>
+<e lm="Gulf">            <i>Gulf</i><par n="Barcelona__np"/></e>
+<e lm="Hannover">        <i>Hannover</i><par n="Barcelona__np"/></e>
+<e lm="Harvard">         <i>Harvard</i><par n="Barcelona__np"/></e>
+<e lm="Hradec Králové">  <i>Hradec<b/>Králové</i><par n="Barcelona__np"/></e>
+<e lm="Igon">            <i>Igon</i><par n="Barcelona__np"/></e>
+<e lm="Indian Ocean">    <i>Indian<b/>Ocean</i><par n="Barcelona__np"/></e>
+<e lm="Indies">          <i>Indies</i><par n="Barcelona__np"/></e>
+<e lm="Ingham">          <i>Ingham</i><par n="Barcelona__np"/></e>
+<e lm="Internet">        <i>Internet</i><par n="Barcelona__np"/></e>
+<e lm="Ionian Islands">  <i>Ionian<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Isla Marchena">   <i>Isla<b/>Marchena</i><par n="Barcelona__np"/></e>
+<e lm="Jihomoravský kraj"><i>Jihomoravský<b/>kraj</i><par n="Barcelona__np"/></e>
+<e lm="Kampala">         <i>Kampala</i><par n="Barcelona__np"/></e>
+<e lm="Karlsruhe">       <i>Karlsruhe</i><par n="Barcelona__np"/></e>
+<e lm="Kassel">          <i>Kassel</i><par n="Barcelona__np"/></e>
+<e lm="Kremlin">         <i>Kremlin</i><par n="Barcelona__np"/></e>
+<e lm="La Palma">        <i>La<b/>Palma</i><par n="Barcelona__np"/></e>
+<e lm="Leeward Islands"> <i>Leeward<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Lepanto">         <i>Lepanto</i><par n="Barcelona__np"/></e>
+<e lm="Liébana">         <i>Liébana</i><par n="Barcelona__np"/></e>
+<e lm="Luanda">          <i>Luanda</i><par n="Barcelona__np"/></e>
+<e lm="Magdalen Islands"><i>Magdalen<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Maluku Islands">  <i>Maluku<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Managua">         <i>Managua</i><par n="Barcelona__np"/></e>
+<e lm="Marchena Island"> <i>Marchena<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="Mariana Islands"> <i>Mariana<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Marquesas Islands"><i>Marquesas<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Meira">           <i>Meira</i><par n="Barcelona__np"/></e>
+<e lm="Middle East">     <i>Middle<b/>East</i><par n="Barcelona__np"/></e>
+<e lm="Moaña">           <i>Moaña</i><par n="Barcelona__np"/></e>
+<e lm="Nervión">         <i>Nervión</i><par n="Barcelona__np"/></e>
+<e lm="Netherlands Antilles"><i>Netherlands<b/>Antilles</i><par n="Barcelona__np"/></e>
+<e lm="New Caledonia">   <i>New<b/>Caledonia</i><par n="Barcelona__np"/></e>
+<e lm="New Hampshire">   <i>New<b/>Hampshire</i><par n="Barcelona__np"/></e>
+<e lm="New Jersey">      <i>New<b/>Jersey</i><par n="Barcelona__np"/></e>
+<e lm="New Mexico">      <i>New<b/>Mexico</i><par n="Barcelona__np"/></e>
+<e lm="New Siberian Islands"><i>New<b/>Siberian<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Nibelung">        <i>Nibelung</i><par n="Barcelona__np"/></e>
+<e lm="Noja">            <i>Noja</i><par n="Barcelona__np"/></e>
+<e lm="North Carolina">  <i>North<b/>Carolina</i><par n="Barcelona__np"/></e>
+<e lm="North Dakota">    <i>North<b/>Dakota</i><par n="Barcelona__np"/></e>
+<e lm="North Island">    <i>North<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="Northern Ireland"><i>Northern<b/>Ireland</i><par n="Barcelona__np"/></e>
+<e lm="O Grove">         <i>O<b/>Grove</i><par n="Barcelona__np"/></e>
+<e lm="Ogrove">          <i>Ogrove</i><par n="Barcelona__np"/></e>
+<e lm="Oiartzun">        <i>Oiartzun</i><par n="Barcelona__np"/></e>
+<e lm="Olympus">         <i>Olympus</i><par n="Barcelona__np"/></e>
+<e lm="Outón">           <i>Outón</i><par n="Barcelona__np"/></e>
+<e lm="Pacific Ocean">   <i>Pacific<b/>Ocean</i><par n="Barcelona__np"/></e>
+<e lm="Pamplona">        <i>Pamplona</i><par n="Barcelona__np"/></e>
+<e lm="Pasai Donibane">  <i>Pasai<b/>Donibane</i><par n="Barcelona__np"/></e>
+<e lm="Pereira">         <i>Pereira</i><par n="Barcelona__np"/></e>
+<e lm="Persian Gulf">    <i>Persian<b/>Gulf</i><par n="Barcelona__np"/></e>
+<e lm="Pontevedra">      <i>Pontevedra</i><par n="Barcelona__np"/></e>
+<e lm="Portugalete">     <i>Portugalete</i><par n="Barcelona__np"/></e>
+<e lm="Pozuelo de Alarcón"><i>Pozuelo<b/>de<b/>Alarcón</i><par n="Barcelona__np"/></e>
+<e lm="Punjab">          <i>Punjab</i><par n="Barcelona__np"/></e>
+<e lm="Rhode Island">    <i>Rhode<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="Rías Bajas">      <i>Rías<b/>Bajas</i><par n="Barcelona__np"/></e>
+<e lm="Ripoll">          <i>Ripoll</i><par n="Barcelona__np"/></e>
+<e lm="Riveira">         <i>Riveira</i><par n="Barcelona__np"/></e>
+<e lm="San Diego">       <i>San<b/>Diego</i><par n="Barcelona__np"/></e>
+<e lm="San Sebastián">   <i>San<b/>Sebastián</i><par n="Barcelona__np"/></e>
+<e lm="Santa Eugenia de Riveira"><i>Santa<b/>Eugenia<b/>de<b/>Riveira</i><par n="Barcelona__np"/></e>
+<e lm="Santander">       <i>Santander</i><par n="Barcelona__np"/></e>
+<e lm="Saragossa">       <i>Saragossa</i><par n="Barcelona__np"/></e>
+<e lm="South Carolina">  <i>South<b/>Carolina</i><par n="Barcelona__np"/></e>
+<e lm="South Dakota">    <i>South<b/>Dakota</i><par n="Barcelona__np"/></e>
+<e lm="South Island">    <i>South<b/>Island</i><par n="Barcelona__np"/></e>
+<e lm="South Pole">      <i>South<b/>Pole</i><par n="Barcelona__np"/></e>
+<e lm="St. James's Palace"><i>St.<b/>James's<b/>Palace</i><par n="Barcelona__np"/></e>
+<e lm="The Gambia">      <i>The<b/>Gambia</i><par n="Barcelona__np"/></e>
+<e lm="The Mississippi"> <i>The<b/>Mississippi</i><par n="Barcelona__np"/></e>
+<e lm="The Rioja">       <i>The<b/>Rioja</i><par n="Barcelona__np"/></e>
+<e lm="Timbuktu">        <i>Timbuktu</i><par n="Barcelona__np"/></e>
+<e lm="United Kingdom of Great Britain and Ireland"><i>United<b/>Kingdom<b/>of<b/>Great<b/>Britain<b/>and<b/>Ireland</i><par n="Barcelona__np"/></e>
+<e lm="United Kingdom of Great Britain and Northern Ireland"><i>United<b/>Kingdom<b/>of<b/>Great<b/>Britain<b/>and<b/>Northern<b/>Ireland</i><par n="Barcelona__np"/></e>
+<e lm="United States Virgin Islands"><i>United<b/>States<b/>Virgin<b/>Islands</i><par n="United_States__np"/></e>
+<e lm="Valencia">        <i>Valencia</i><par n="Barcelona__np"/></e>
+<e lm="Vía de las dos Castillas"><i>Vía<b/>de<b/>las<b/>dos<b/>Castillas</i><par n="Barcelona__np"/></e>
+<e lm="Victoria">        <i>Victoria</i><par n="Barcelona__np"/></e>
+<e lm="Vigo">            <i>Vigo</i><par n="Barcelona__np"/></e>
+<e lm="Vilno">           <i>Vilno</i><par n="Barcelona__np"/></e>
+<e lm="Virgin Islands">  <i>Virgin<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Virginia">        <i>Virginia</i><par n="Barcelona__np"/></e>
+<e lm="Vrchlabí">        <i>Vrchlabí</i><par n="Barcelona__np"/></e>
+<e lm="Walles">          <i>Walles</i><par n="Barcelona__np"/></e>
+<e lm="Warin">           <i>Warin</i><par n="Barcelona__np"/></e>
+<e lm="Washington, D.C."><i>Washington,<b/>D.C.</i><par n="Barcelona__np"/></e>
+<e lm="West Virginia">   <i>West<b/>Virginia</i><par n="Barcelona__np"/></e>
+<e lm="Windward Islands"><i>Windward<b/>Islands</i><par n="Barcelona__np"/></e>
+<e lm="Yaiza">           <i>Yaiza</i><par n="Barcelona__np"/></e>
+<e lm="Zaire">           <i>Zaire</i><par n="Barcelona__np"/></e>
     
     <!-- organisations -->
 
