@@ -11,9 +11,12 @@ LIST N = n ;
 LIST Np = np ;
 LIST Prn = prn ;
 LIST Det = det ;
+LIST Have = vbhaver ;
+LIST Be = vbser ;
 LIST Adj = adj ;
 LIST Adv = adv ;
 LIST Pr = pr ;
+LIST Ger = ger ;
 LIST Num = num ;
 LIST Rel = (prn rel) ;
 LIST Ij = ij ;
@@ -36,10 +39,13 @@ LIST M = m ;
 LIST F = f ;
 LIST Nt = nt ;
 LIST Mf = mf ;
-LIST Fin = pres past ;
+LIST Fin = pres past imp ;
+LIST To = "to" ;
 SET Pers = (p1) | (p2) | (p3) ;
 
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
+
+LIST Ing = "<.*ing>"ri ;
 
 SECTION
 
@@ -98,6 +104,9 @@ REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 
+SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
+
+SELECT Ger IF (-1/* Be) (1 To) ;
 
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
@@ -113,3 +122,4 @@ REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
 SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
 SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
 
+REMOVE Fin IF (-1C To) ;
