@@ -28,8 +28,12 @@ LIST Vbhaver = vbhaver ;
 LIST Vbdo = vbdo ;
 LIST Vbaux = vaux ;
 LIST Vbmod = vbmod ;
+List Imp = imp ;
 LIST Gen = gen ;
 LIST Apos = apos ;
+List Not = ("not") ;
+SET Do = ("do") ;
+SET VbdoImp = Do + (vblex imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
@@ -127,3 +131,6 @@ SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
 SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
 
 REMOVE Fin IF (-1C To) ;
+
+# negated imperatives (do not go there!) (we may want to move this to the tagger)
+SELECT VbdoImp IF (-1 BOS) (0 VbdoImp) (1 Not) (2 Inf) ;
