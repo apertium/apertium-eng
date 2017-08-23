@@ -21,6 +21,7 @@
     <sdef n="vbhaver" 	c="Verb 'to have'"/> 
     <sdef n="vbdo" 	c="Verb 'to do'"/> 
     <sdef n="det" 	c="Determiner"/> 
+    <sdef n="predet" 	c="Predeterminer"/> 
     <sdef n="prn" 	c="Pronoun"/> 
     <sdef n="cnjcoo" 	c="Coordinating conjunction"/> 
     <sdef n="cnjsub" 	c="Subordinating conjunction"/> 
@@ -705,6 +706,11 @@
 <pardef n="both__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
+
+<pardef n="all__predet">
+  <e>       <p><l></l>          <r><s n="predet"/></r></p></e>
+</pardef>
+
 
 <pardef n="all__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -3546,6 +3552,7 @@
 <e r="RL" lm="a">        <p><l><a/>a</l>     <r>a</r></p><par n="a__det"/></e>
 <e r="LR" lm="a">        <i>a</i><par n="a__det"/></e>
 <e lm="a few">           <i>a<b/>few</i><par n="many__det"/></e>
+<e lm="all">             <i>all</i><par n="all__predet"/></e>
 <e lm="a lot of">        <i>a<b/>lot<b/>of</i><par n="enough__det"/></e>
 <e lm="a shitload of">   <i>a<b/>shitload<b/>of</i><par n="enough__det"/></e>
 <e lm="all">             <i>all</i><par n="many__det"/></e>

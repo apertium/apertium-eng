@@ -14,6 +14,7 @@ LIST Det = det ;
 LIST Have = vbhaver ;
 LIST Be = vbser ;
 LIST Adj = adj ;
+LIST Predet = predet ;
 LIST Adv = adv ;
 LIST Pr = pr ;
 LIST Ger = ger ;
@@ -39,6 +40,7 @@ LIST M = m ;
 LIST F = f ;
 LIST Nt = nt ;
 LIST Mf = mf ;
+LIST The = "the" ; 
 LIST Fin = pres past imp ;
 LIST To = "to" ;
 SET Pers = (p1) | (p2) | (p3) ;
@@ -107,6 +109,8 @@ SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 
 SELECT Ger IF (-1/* Be) (1 To) ;
+
+SELECT Predet IF (1C The) ;
 
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
