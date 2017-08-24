@@ -28,12 +28,11 @@ LIST Vbhaver = vbhaver ;
 LIST Vbdo = vbdo ;
 LIST Vbaux = vaux ;
 LIST Vbmod = vbmod ;
-List Imp = imp ;
 LIST Gen = gen ;
 LIST Apos = apos ;
 List Not = ("not") ;
 SET Do = ("do") ;
-SET VbdoImp = Do + (vblex imp) ;
+SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
@@ -63,30 +62,30 @@ REMOVE (vblex) IF (-1 (gen)) ;
 
 REMOVE (preadv) IF (1 (cm)) ;
 
-#Lemmas that are N or V: N if DET/ADJ/V/PR precedes it or V follows
-
+#Lemmas that are N or V: N if DET/ADJ/PR precedes it
 SELECT N IF (0 N) (0 V) (-1 Pr) ;
-SELECT N IF (0 N) (0 V) (-1 V) ;
 SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
-SELECT N IF (0 N) (0 V) (1 V) ;
 
 #Lemmas that are N or V: V if ADV precedes it or ADV/N/PRN follows
-
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (-2 Det) (1 N) ;
+SELECT V IF (0 N) (0 V) (-2 Det) (-1 N) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
+SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
+
+#Lemmas that are N or V: will/can/may
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Adv) (3 Inf) ;
 
 #Otherwise, select N
 SELECT N IF (0 N) (0 V) ;
 
 #Lemmas that are N or ADJ: N if ADJ precedes it or V follows
-
 SELECT N IF (0 N) (0 Adj) (-1 Adj) ;
 SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 #Lemmas that are N or ADJ: ADJ if N follows it
-
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
 #(by wth)
@@ -116,6 +115,9 @@ SELECT Ger IF (-1/* Be) (1 To) ;
 
 SELECT Predet IF (1C The) ;
 
+# Please (adv) and please (vblex)
+SELECT Adv IF (1 V) ;
+
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
 REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
@@ -126,11 +128,17 @@ REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Pp) ;
 REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Pp) ;
 REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
 
-#Vbmod (will, can, may)
-SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
-SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
-
+# Verbs preceded by to
 REMOVE Fin IF (-1C To) ;
 
-# negated imperatives (do not go there!) (we may want to move this to the tagger)
-SELECT VbdoImp IF (-1 BOS) (0 VbdoImp) (1 Not) (2 Inf) ;
+# Do (vbdo) and do (vblex)
+SELECT Vbdo IF (1 Inf) ;
+SELECT Vbdo IF (1 Adv) (2 Inf) ;
+SELECT Vbdo IF (1 Adv) (2 Adv) (3 Inf) ;
+REMOVE Vbdo ;
+
+# Remove imperatives unless preceded by "please" or placed at BOS
+SELECT Imp IF (-1 BOS) ;
+SELECT Imp IF (-2 BOS) (-1 ("please"i adv));
+REMOVE Imp ;
+
