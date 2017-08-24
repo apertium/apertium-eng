@@ -57918,6 +57918,7 @@
 <e lm="didn't">          <p><l>didn't</l>    <r>do<s n="vbdo"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
 <e lm="doesn't">         <p><l>doesn't</l>   <r>do<s n="vbdo"/><s n="pres"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
 <e lm="don't">           <p><l>don't</l>     <r>do<s n="vbdo"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+<e lm="don't">           <p><l>don't</l>     <r>do<s n="vbdo"/><s n="imp"/><j/>not<s n="adv"/></r></p></e>
 <e lm="hadn't">          <p><l>hadn't</l>    <r>have<s n="vbhaver"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
 <e lm="hasn't">          <p><l>hasn't</l>    <r>have<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
 <e lm="haven't">         <p><l>haven't</l>   <r>have<s n="vbhaver"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
