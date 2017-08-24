@@ -121,6 +121,9 @@ SELECT Predet IF (1C The) ;
 
 # Please (adv) and please (vblex)
 SELECT Adv IF (0 Adv) (0 Vblex) (1 V) ;
+SELECT Adv IF (0 Adv) (0 Vblex) (-1 _S_SOFT_DELIMITERS_) (1 _S_SOFT_DELIMITERS_) ;
+SELECT Adv IF (0 Adv) (0 Vblex) (-1 BOS) (1 _S_SOFT_DELIMITERS_) ;
+SELECT Adv IF (0 Adv) (0 Vblex) (-1 _S_SOFT_DELIMITERS_) (1 EOS) ;
 
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
@@ -142,7 +145,7 @@ SELECT Vbdo IF (1 Adv) (2 Adv) (3 Inf) ;
 REMOVE Vbdo ;
 
 # Remove imperatives unless preceded by "please" or placed at BOS
-SELECT Imp IF (-1 BOS) ;
+SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) ;
 SELECT Imp IF (-2 BOS) (-1 Please);
 REMOVE Imp ;
 
