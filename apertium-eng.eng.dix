@@ -1683,7 +1683,7 @@
 
 <pardef n="/do__vbdo">
   <e>       <p><l>do</l>        <r>do<s n="vbdo"/><s n="inf"/></r></p></e>
-  <e r="RL"><p><l>do</l>        <r>do<s n="vbdo"/><s n="imp"/></r></p></e>
+  <e>       <p><l>do</l>        <r>do<s n="vbdo"/><s n="imp"/></r></p></e>
   <e>       <p><l>done</l>      <r>do<s n="vbdo"/><s n="pp"/></r></p></e>
   <e>       <p><l>doing</l>     <r>do<s n="vbdo"/><s n="pprs"/></r></p></e>
   <e>       <p><l>doing</l>     <r>do<s n="vbdo"/><s n="ger"/></r></p></e>
