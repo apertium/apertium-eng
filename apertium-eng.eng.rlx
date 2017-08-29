@@ -49,6 +49,14 @@ LIST Fin = pres past imp ;
 LIST To = "to" ;
 SET Pers = (p1) | (p2) | (p3) ;
 
+LIST P1 = p1 ; 
+LIST P2 = p2 ; 
+LIST P3 = p3 ; 
+
+LIST PrnSubjP1Sg = (prn subj p1 mf sg) ;
+LIST PrnSubjP1Pl = (prn subj p1 mf pl) ;
+LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
+
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
 LIST Ing = "<.*ing>"ri ;
@@ -148,4 +156,24 @@ REMOVE Vbdo ;
 SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) ;
 SELECT Imp IF (-2 BOS) (-1 Please);
 REMOVE Imp ;
+
+
+# Verbs with person/number: P1
+SELECT P1 IF (0 V) (-1 PrnSubjP1Sg | PrnSubjP1Pl)  ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg | PrnSubjP1Pl) ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg | PrnSubjP1Pl) ;
+SELECT Sg IF (0 V) (-1 PrnSubjP1Sg) ;
+SELECT Sg IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
+SELECT Sg IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
+SELECT Pl IF (0 V) (-1 PrnSubjP1Pl) ;
+SELECT Pl IF (0 V) (-1 Adv) (-2 PrnSubjP1Pl) ;
+SELECT Pl IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Pl) ;
+
+# Verbs with person/number: P2
+SELECT P2 IF (0 V) (-1 PrnSubjP2Sp) ;
+SELECT P2 IF (0 V) (-1 Adv) (-2 PrnSubjP2Sp) ;
+SELECT P2 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP2Sp) ;
+
+# Verbs with person/number: P3 (default)
+SELECT P3 IF (0 V) ;
 
