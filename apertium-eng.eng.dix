@@ -5953,6 +5953,7 @@
 <e r="RL" lm="butcher's"><i>butcher's</i><par n="east__n"/></e>
 <e lm="butchery">        <i>butchery</i><par n="east__n"/></e>
 <e lm="butler">          <i>butler</i><par n="house__n"/></e>
+<e lm="buttocks">       <i>buttocks</i><par n="politics__n"/></e>
 <e lm="buttercup">       <i>buttercup</i><par n="house__n"/></e>
 <e lm="butterfly">       <i>butterfl</i><par n="bab/y__n"/></e>
 <e lm="butter">          <i>butter</i><par n="house__n"/></e>
@@ -15105,6 +15106,7 @@
 <e lm="ointment">        <i>ointment</i><par n="house__n"/></e>
 <e lm="old age">         <i>old<b/>age</i><par n="house__n"/></e>
 <e lm="old salt">        <i>old<b/>salt</i><par n="house__n"/></e>
+<e lm="okra">           <i>okra</i><par n="house__n"/></e>
 <e lm="oldie">           <i>oldie</i><par n="house__n"/></e>
 <e lm="oldness">         <i>oldness</i><par n="access__n"/></e>
 <e lm="olefin">          <i>olefin</i><par n="house__n"/></e>
@@ -25744,6 +25746,7 @@
 <e lm="toss">            <i>toss</i><par n="approach__vblex"/></e>
 <e lm="total">           <i>total</i><par n="travel__vblex"/></e>
 <e lm="tote">            <i>tot</i><par n="liv/e__vblex"/></e>
+<e lm="totter">           <i>totter</i><par n="accept__vblex"/></e>
 <e lm="touch">           <i>touch</i><par n="approach__vblex"/></e>
 <e lm="toughen">         <i>toughen</i><par n="accept__vblex"/></e>
 <e lm="tour">            <i>tour</i><par n="accept__vblex"/></e>
