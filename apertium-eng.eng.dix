@@ -21302,7 +21302,6 @@
 <e lm="uniform">         <i>uniform</i><par n="house__n"/></e>
 <e lm="uniformity">      <i>uniformit</i><par n="bab/y__n"/></e>
 <e lm="uniformization">  <i>uniformization</i><par n="house__n"/></e>
-    <!-- <e lm="UNIX"><i>UNI</i><par n="appendi/x__n"/></e> TODO: letter case is broken in pdg forms -->
 <e lm="unimportance">    <i>unimportance</i><par n="house__n"/></e>
 <e lm="uninstallation">  <i>uninstallation</i><par n="house__n"/></e>
 <e lm="unintelligibility"><i>unintelligibilit</i><par n="bab/y__n"/></e>
@@ -22396,7 +22395,6 @@
 <e lm="GM">              <i>GM</i><par n="BBC__n"/></e>
 <e lm="GNU">             <i>GNU</i><par n="BBC__n"/></e>
 <e lm="G.P.">            <i>G.P.</i><par n="BBC__n"/></e>
-<e lm="GPS">             <i>GPS</i><par n="BBC__n"/></e>
 <e lm="GPS">             <i>GPS</i><par n="SOS__n"/></e>
 <e lm="GPU">             <i>GPU</i><par n="VCR__n"/></e>
 <e lm="GSM">             <i>GSM</i><par n="BBC__n"/></e>
@@ -22507,6 +22505,7 @@
 <e lm="WWI">             <i>WWI</i><par n="BBC__n"/></e>
 <e lm="XML">             <i>XML</i><par n="BBC__n"/></e>
 <e lm="ZDF">             <i>ZDF</i><par n="BBC__n"/></e>
+
 
     <!-- SECTION: Verbs -->
 
@@ -25558,7 +25557,7 @@
 <e lm="strain">          <i>strain</i><par n="accept__vblex"/></e>
 <e lm="strand">          <i>strand</i><par n="accept__vblex"/></e>
 <e lm="strangle">        <i>strangl</i><par n="liv/e__vblex"/></e>
-<e lm="stratif">         <i>stratify</i><par n="appl/y__vblex"/></e>
+<e lm="stratify">        <i>stratif</i><par n="appl/y__vblex"/></e>
 <e lm="stream">          <i>stream</i><par n="accept__vblex"/></e>
 <e lm="streamline">      <i>streamlin</i><par n="liv/e__vblex"/></e>
 <e lm="strengthen">      <i>strengthen</i><par n="accept__vblex"/></e>
@@ -25705,7 +25704,7 @@
 <e lm="terminate">       <i>terminate</i><par n="accept__vblex"/></e>
 <e lm="terminate">       <i>terminat</i><par n="liv/e__vblex"/></e>
 <e lm="term">            <i>term</i><par n="accept__vblex"/></e>
-<e lm="terrif">          <i>terrify</i><par n="appl/y__vblex"/></e>
+<e lm="terrify">         <i>terrif</i><par n="appl/y__vblex"/></e>
 <e lm="testify">         <i>testif</i><par n="appl/y__vblex"/></e>
 <e lm="test">            <i>test</i><par n="accept__vblex"/></e>
 <e lm="thank">           <i>thank</i><par n="accept__vblex"/></e>
@@ -26161,6 +26160,7 @@
 <e lm="with the help of"><i>with<b/>the<b/>help<b/>of</i><par n="at__pr"/></e>
 <e lm="within">          <i>within</i><par n="at__pr"/></e>
 <e lm="without">         <i>without</i><par n="at__pr"/></e>
+
 
     <!-- SECTION: Adjectives -->
 
@@ -32050,7 +32050,8 @@
 <e lm="zoological">      <i>zoological</i><par n="expensive__adj"/></e>
 <e lm="Zoroastrian">     <i>Zoroastrian</i><par n="expensive__adj"/></e>
 <e lm="zygomatic">       <i>zygomatic</i><par n="expensive__adj"/></e>
-    
+
+
     <!-- SECTION: Adverbs -->
 
 <e lm="aback">           <i>aback</i><par n="maybe__adv"/></e>
@@ -36570,6 +36571,7 @@
 <e lm="zealously">       <i>zealously</i><par n="maybe__adv"/></e>
 <e lm="zestfully">       <i>zestfully</i><par n="maybe__adv"/></e>
 <e lm="zickzack">        <i>zickzack</i><par n="maybe__adv"/></e>
+
 
     <!-- SECTION: Preadverbs -->
 
@@ -57904,8 +57906,6 @@
 <e lm="Yamaha">          <i>Yamaha</i><par n="Linux__np"/></e>
 <e lm="YouTube">         <i>YouTube</i><par n="Linux__np"/></e>
 <e lm="Zork">            <i>Zork</i><par n="Linux__np"/></e>
-    
-    <!-- TODO: unsorted set of words  (insert here) -->
 
 
   </section>
