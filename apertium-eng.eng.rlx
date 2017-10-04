@@ -100,8 +100,6 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 #Lemmas that are N or ADJ: ADJ if N follows it
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
-#(by wth)
-
 # one : eins (num) / man (prn)
 SELECT (num) IF (1 (n)) ;
 
@@ -174,6 +172,8 @@ SELECT P2 IF (0 V) (-1 PrnSubjP2Sp) ;
 SELECT P2 IF (0 V) (-1 Adv) (-2 PrnSubjP2Sp) ;
 SELECT P2 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP2Sp) ;
 
-# Verbs with person/number: P3 (default)
-SELECT P3 IF (0 V) ;
+# Verbs with person/number: P3 (default) (if not genitive)
+SELECT P3 IF (0 V) (NOT 0 ("'s")) ;
 
+# a job / Steve Jobs
+REMOVE Np IF (-1C (det ind)) ;
