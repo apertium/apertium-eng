@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54426
+	Entries: 54437
 	Sdefs: 84
-	Paradigms: 379
+	Paradigms: 380
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -708,7 +708,7 @@
 </pardef>
 
 <pardef n="all__predet">
-  <e>       <p><l></l>          <r><s n="predet"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="predet"/><s n="sp"/></r></p></e>
 </pardef>
 
 
@@ -1564,6 +1564,17 @@
   <e>       <p><l>was<b/>able<b/>to</l><r>be<b/>able<b/>to<s n="vbmod"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
   <e>       <p><l>were<b/>able<b/>to</l><r>be<b/>able<b/>to<s n="vbmod"/><s n="past"/></r></p></e>
   <e>       <p><l>was<b/>able<b/>to</l><r>be<b/>able<b/>to<s n="vbmod"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="ha/ve__vbmod">
+  <e>       <p><l>ve</l>        <r>ve<s n="vbmod"/><s n="inf"/></r></p></e>
+  <e>       <p><l>d</l>         <r>ve<s n="vbmod"/><s n="pp"/></r></p></e>
+  <e>       <p><l>ving</l>      <r>ve<s n="vbmod"/><s n="pprs"/></r></p></e>
+  <e>       <p><l>ving</l>      <r>ve<s n="vbmod"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ving</l>      <r>ve<s n="vbmod"/><s n="subs"/></r></p></e>
+  <e>       <p><l>ve</l>        <r>ve<s n="vbmod"/><s n="pres"/></r></p></e>
+  <e>       <p><l>s</l>         <r>ve<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>d</l>         <r>ve<s n="vbmod"/><s n="past"/></r></p></e>
 </pardef>
 
 <pardef n="ha/ve__vbhaver">
@@ -22544,9 +22555,9 @@
 <e lm="have">            <i>ha</i><par n="ha/ve__vblex"/></e>
 <e lm="have got">        <i>ha</i><par n="ha/ve__vblex"/><p><l><b/>got</l><r><g><b/>got</g></r></p></e>
 
-<e lm="'ll">             <i>'ll</i><par n="must__vbmod"/></e>
 <e r="RL" lm="be able to"><i></i><par n="/be_able_to__vbmod"/></e>
 <e lm="can">             <i>c</i><par n="c/an__vbmod"/></e>
+<e lm="have to">         <i>ha</i><par n="ha/ve__vbmod"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
 <e lm="may">             <i>may</i><par n="must__vbmod"/></e>
 <e lm="might">           <i>might</i><par n="must__vbmod"/></e>
 <e lm="must">            <i></i><par n="/must__vbmod"/></e>
@@ -26061,6 +26072,7 @@
 <e lm="amid">            <i>amid</i><par n="at__pr"/></e>
 <e lm="among">           <i>among</i><par n="at__pr"/></e>
 <e lm="amongst">         <i>amongst</i><par n="at__pr"/></e>
+<e lm="apart from">      <i>apart<b/>from</i><par n="at__pr"/></e>
 <e lm="around">          <i>around</i><par n="at__pr"/></e>
 <e lm="as">              <i>as</i><par n="at__pr"/></e>
 <e lm="as for">          <i>as<b/>for</i><par n="at__pr"/></e>
@@ -26068,6 +26080,8 @@
 <e lm="at">              <i>at</i><par n="at__pr"/></e>
 <e lm="at most">         <p><l>at<b/>most</l><r>at<s n="pr"/><j/>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
 <e lm="at about">        <i>at<b/>about</i><par n="at__pr"/></e>
+<e lm="at the beginning of"><i>at<b/>the<b/>beginning<b/>of</i><par n="at__pr"/></e>
+<e lm="at the expense of"><i>at<b/>the<b/>expense<b/>of</i><par n="at__pr"/></e>
 <e lm="because of">      <i>because<b/>of</i><par n="at__pr"/></e>
 <e lm="before">          <i>before</i><par n="at__pr"/></e>
 <e lm="behind">          <i>behind</i><par n="at__pr"/></e>
@@ -26117,6 +26131,8 @@
 <e lm="out of">          <i>out<b/>of</i><par n="at__pr"/></e>
 <e lm="outside">         <i>outside</i><par n="at__pr"/></e>
 <e lm="over">            <i>over</i><par n="at__pr"/></e>
+<e lm="over the course of"><i>over<b/>the<b/>course<b/>of</i><par n="at__pr"/></e>
+<e lm="owing to">        <i>owing<b/>to</i><par n="at__pr"/></e>
 <e lm="past">            <i>past</i><par n="at__pr"/></e>
 <e lm="per">             <i>per</i><par n="at__pr"/></e>
 <e lm="prior to">        <i>prior<b/>to</i><par n="at__pr"/></e>
@@ -33572,6 +33588,7 @@
 <e lm="endways">         <i>endways</i><par n="maybe__adv"/></e>
 <e lm="endwise">         <i>endwise</i><par n="maybe__adv"/></e>
 <e lm="energetically">   <i>energetically</i><par n="maybe__adv"/></e>
+<e lm="en masse">        <i>en<b/>masse</i><par n="maybe__adv"/></e>
 <e lm="enormously">      <i>enormously</i><par n="maybe__adv"/></e>
 <e lm="enough and to spare"><i>enough<b/>and<b/>to<b/>spare</i><par n="maybe__adv"/></e>
 <e lm="enough">          <i>enough</i><par n="maybe__adv"/></e>
@@ -36342,6 +36359,7 @@
 <e lm="very rarely">     <i>very<b/>rarely</i><par n="maybe__adv"/></e>
 <e lm="very soon">       <i>very<b/>soon</i><par n="maybe__adv"/></e>
 <e lm="very well">       <i>very<b/>well</i><par n="maybe__adv"/></e>
+<e lm="vibrantly">       <i>vibrantly</i><par n="maybe__adv"/></e>
 <e lm="vicariously">     <i>vicariously</i><par n="maybe__adv"/></e>
 <e lm="vice versa">      <i>vice<b/>versa</i><par n="maybe__adv"/></e>
 <e lm="viciously">       <i>viciously</i><par n="maybe__adv"/></e>
@@ -36870,7 +36888,7 @@
 <e r="RL" lm="sir">      <i>sir</i><par n="hello__ij"/></e>
 <e lm="ssh">             <i>ssh</i><par n="hello__ij"/></e>
 <e lm="thanks">          <i>thanks</i><par n="hello__ij"/></e>
-<e lm="thankyou">        <i>thankyou</i><par n="hello__ij"/></e>
+<e lm="thank you">       <i>thank<b/>you</i><par n="hello__ij"/></e>
 <e lm="toot">            <i>toot</i><par n="hello__ij"/></e>
 <e lm="twang">           <i>twang</i><par n="hello__ij"/></e>
 <e lm="ugh">             <i>ugh</i><par n="hello__ij"/></e>
@@ -36907,10 +36925,12 @@
 <e lm="excuse me">       <i>excuse<b/>me</i><par n="hello__ij"/></e>
 <e lm="fools rush in where angels fear to tread"><i>fools<b/>rush<b/>in<b/>where<b/>angels<b/>fear<b/>to<b/>tread</i><par n="hello__ij"/></e>
 <e lm="for God's sake">  <i>for<b/>God's<b/>sake</i><par n="hello__ij"/></e>
+<e lm="good afternoon">  <i>good<b/>afternoon</i><par n="hello__ij"/></e>
 <e lm="good evening">    <i>good<b/>evening</i><par n="hello__ij"/></e>
 <e lm="good morning">    <i>good<b/>morning</i><par n="hello__ij"/></e>
 <e lm="good night">      <i>good<b/>night</i><par n="hello__ij"/></e>
 <e lm="half a loaf is better than no bread"><i>half<b/>a<b/>loaf<b/>is<b/>better<b/>than<b/>no<b/>bread</i><par n="hello__ij"/></e>
+<e lm="hallelujah">      <i>hallelujah</i><par n="hello__ij"/></e>
 <e lm="happy birthday">  <i>happy<b/>birthday</i><par n="hello__ij"/></e>
 <e lm="he who laughs last laughs longest"><i>he<b/>who<b/>laughs<b/>last<b/>laughs<b/>longest</i><par n="hello__ij"/></e>
 <e lm="here you are">    <i>here<b/>you<b/>are</i><par n="hello__ij"/></e>
@@ -37448,6 +37468,7 @@
 <e lm="Asa">             <i>Asa</i><par n="Mark__np"/></e>
 <e lm="Asbjörn">         <i>Asbjörn</i><par n="Mark__np"/></e>
 <e lm="Ásbjörn">         <i>Ásbjörn</i><par n="Mark__np"/></e>
+<e lm="Asdrubal">        <i>Asdrubal</i><par n="Mark__np"/></e>
 <e lm="Asdrúbal">        <i>Asdrúbal</i><par n="Mark__np"/></e>
 <e lm="Aser">            <i>Aser</i><par n="Mark__np"/></e>
 <e lm="Ásgautur">        <i>Ásgautur</i><par n="Mark__np"/></e>
@@ -38153,7 +38174,7 @@
 <e lm="Diodore">         <i>Diodore</i><par n="Mark__np"/></e>
 <e lm="Diodoro">         <i>Diodoro</i><par n="Mark__np"/></e>
 <e lm="Diodorus">        <i>Diodorus</i><par n="Mark__np"/></e>
-<e lm="Diógenes">        <i>Diógenes</i><par n="Mark__np"/></e>
+<e lm="Diogenes">        <i>Diogenes</i><par n="Mark__np"/></e>
 <e lm="Diomedes">        <i>Diomedes</i><par n="Mark__np"/></e>
 <e lm="Dionel">          <i>Dionel</i><par n="Mark__np"/></e>
 <e lm="Dion">            <i>Dion</i><par n="Mark__np"/></e>
@@ -42651,6 +42672,7 @@
 <e lm="Guigliola">       <i>Guigliola</i><par n="Mary__np"/></e>
 <e lm="Guillermina">     <i>Guillermina</i><par n="Mary__np"/></e>
 <e lm="Guinevere">       <i>Guinevere</i><par n="Mary__np"/></e>
+<e lm="Guiomar">         <i>Guiomar</i><par n="Mary__np"/></e>
 <e lm="Gwenaëlle">       <i>Gwenaëlle</i><par n="Mary__np"/></e>
 <e lm="Gwendoline">      <i>Gwendoline</i><par n="Mary__np"/></e>
 <e lm="Gwendolyn">       <i>Gwendolyn</i><par n="Mary__np"/></e>
