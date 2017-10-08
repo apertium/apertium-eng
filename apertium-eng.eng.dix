@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54437
+	Entries: 54487
 	Sdefs: 84
 	Paradigms: 380
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -129,6 +129,11 @@
   <e>       <re>([0-9]*[02-9]3|3)</re><p><l>rd</l><r><s n="num"/><s n="ord"/></r></p></e>
   <e>       <re>1[0-9]</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
   <e>       <re>[0-9]*([4-90]|1[0-9])</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
+  <e>       <re>([0-9]*[02-9]1|1)</re><p><l>st</l><r><s n="adj"/><s n="ord"/></r></p></e>
+  <e>       <re>([0-9]*[02-9]2|2)</re><p><l>nd</l><r><s n="adj"/><s n="ord"/></r></p></e>
+  <e>       <re>([0-9]*[02-9]3|3)</re><p><l>rd</l><r><s n="adj"/><s n="ord"/></r></p></e>
+  <e>       <re>1[0-9]</re><p><l>th</l><r><s n="adj"/><s n="ord"/></r></p></e>
+  <e>       <re>[0-9]*([4-90]|1[0-9])</re><p><l>th</l><r><s n="adj"/><s n="ord"/></r></p></e>
 </pardef>
 
 <pardef n="ordinals-century">
@@ -32058,6 +32063,56 @@
 <e lm="zoological">      <i>zoological</i><par n="expensive__adj"/></e>
 <e lm="Zoroastrian">     <i>Zoroastrian</i><par n="expensive__adj"/></e>
 <e lm="zygomatic">       <i>zygomatic</i><par n="expensive__adj"/></e>
+<e lm="additive">        <i>additive</i><par n="expensive__adj"/></e>
+<e lm="adimensional">    <i>adimensional</i><par n="expensive__adj"/></e>
+<e lm="adipose">         <i>adipose</i><par n="expensive__adj"/></e>
+<e lm="acquisitive">     <i>acquisitive</i><par n="expensive__adj"/></e>
+<e lm="adventitious">    <i>adventitious</i><par n="expensive__adj"/></e>
+<e lm="airport">         <i>airport</i><par n="expensive__adj"/></e>
+<e lm="agrifood">        <i>agrifood</i><par n="expensive__adj"/></e>
+<e lm="agronomic">       <i>agronomic</i><par n="expensive__adj"/></e>
+<e lm="allopatric">      <i>allopatric</i><par n="expensive__adj"/></e>
+<e lm="allusive">        <i>allusive</i><par n="expensive__adj"/></e>
+<e lm="alternating">     <i>alternating</i><par n="expensive__adj"/></e>
+<e lm="haughty">         <i>haught</i><par n="happ/y__adj"/></e>
+<e lm="fellow">          <i>fellow</i><par n="expensive__adj"/></e>
+<e lm="contraceptive">   <i>contraceptive</i><par n="expensive__adj"/></e>
+<e lm="unkind">          <i>unkind</i><par n="long/__adj"/></e>
+<e lm="anthological">    <i>anthological</i><par n="expensive__adj"/></e>
+<e lm="argumentative">   <i>argumentative</i><par n="expensive__adj"/></e>
+<e lm="aseptic">         <i>aseptic</i><par n="expensive__adj"/></e>
+<e lm="Asturian">        <i>Asturian</i><par n="expensive__adj"/></e>
+<e lm="astute">          <i>astute</i><par n="expensive__adj"/></e>
+<e lm="astounded">       <i>astounded</i><par n="expensive__adj"/></e>
+<e lm="atrocious">       <i>atrocious</i><par n="expensive__adj"/></e>
+<e lm="avaricious">      <i>avaricious</i><par n="expensive__adj"/></e>
+<e lm="bellicose">       <i>bellicose</i><par n="expensive__adj"/></e>
+<e lm="biconvex">        <i>biconvex</i><par n="expensive__adj"/></e>
+<e lm="disyllabic">      <i>disyllabic</i><par n="expensive__adj"/></e>
+<e lm="cartilaginous">   <i>cartilaginous</i><par n="expensive__adj"/></e>
+<e lm="centenarian">     <i>centenarian</i><par n="expensive__adj"/></e>
+<e lm="claustrophobic">  <i>claustrophobic</i><par n="expensive__adj"/></e>
+<e lm="collegiate">      <i>collegiate</i><par n="expensive__adj"/></e>
+<e lm="committed">       <i>committed</i><par n="expensive__adj"/></e>
+<e lm="cooperative">     <i>cooperative</i><par n="expensive__adj"/></e>
+<e lm="sliding">         <i>sliding</i><par n="expensive__adj"/></e>
+<e lm="steep">           <i>steep</i><par n="long/__adj"/></e>
+<e lm="curvilinear">     <i>curvilinear</i><par n="expensive__adj"/></e>
+<e lm="toothed">         <i>toothed</i><par n="expensive__adj"/></e>
+<e lm="intoxicated">     <i>intoxicated</i><par n="expensive__adj"/></e>
+<e lm="lovable">         <i>lovable</i><par n="expensive__adj"/></e>
+<e lm="blinding">        <i>blinding</i><par n="expensive__adj"/></e>
+<e lm="ergonomic">       <i>ergonomic</i><par n="expensive__adj"/></e>
+<e lm="hair-raising">    <i>hair-raising</i><par n="expensive__adj"/></e>
+<e lm="scalene">         <i>scalene</i><par n="expensive__adj"/></e>
+<e lm="horrifying">      <i>horrifying</i><par n="expensive__adj"/></e>
+<e lm="evasive">         <i>evasive</i><par n="expensive__adj"/></e>
+<e lm="phytosanitary">   <i>phytosanitary</i><par n="expensive__adj"/></e>
+<e lm="phonostylistic">  <i>phonostylistic</i><par n="expensive__adj"/></e>
+<e lm="gastronomic">     <i>gastronomic</i><par n="expensive__adj"/></e>
+<e lm="hygienic">        <i>hygienic</i><par n="expensive__adj"/></e>
+<e lm="illustrative">    <i>illustrative</i><par n="expensive__adj"/></e>
+<e lm="spotless">        <i>spotless</i><par n="expensive__adj"/></e>
 
 
     <!-- SECTION: Adverbs -->
