@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54538
+	Entries: 54628
 	Sdefs: 84
 	Paradigms: 380
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -22929,6 +22929,7 @@
 <e lm="bloom">           <i>bloom</i><par n="accept__vblex"/></e>
 <e lm="blossom">         <i>blossom</i><par n="accept__vblex"/></e>
 <e lm="blow">            <i>bl</i><par n="bl/ow__vblex"/></e>
+<e lm="blow up">         <i>bl</i><par n="bl/ow__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
 <e lm="blow up">         <i>bl</i><par n="bl/ow__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
 <e lm="bluff">           <i>bluff</i><par n="accept__vblex"/></e>
 <e lm="blunder">         <i>blunder</i><par n="accept__vblex"/></e>
@@ -23157,6 +23158,7 @@
 <e lm="come about">      <i>c</i><par n="bec/ome__vblex"/><p><l><b/>about</l><r><g><b/>about</g></r></p></e>
 <e lm="come across">     <i>c</i><par n="bec/ome__vblex"/><p><l><b/>across</l><r><g><b/>across</g></r></p></e>
 <e lm="come back">       <i>c</i><par n="bec/ome__vblex"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
+<e lm="come close">      <i>c</i><par n="bec/ome__vblex"/><p><l><b/>close</l><r><g><b/>close</g></r></p></e>
 <e lm="come down">       <i>c</i><par n="bec/ome__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
 <e lm="come from">       <i>c</i><par n="bec/ome__vblex"/><p><l><b/>from</l><r><g><b/>from</g></r></p></e>
 <e lm="come home">       <i>c</i><par n="bec/ome__vblex"/><p><l><b/>home</l><r><g><b/>home</g></r></p></e>
@@ -23520,6 +23522,7 @@
 <e lm="differ">          <i>differ</i><par n="accept__vblex"/></e>
 <e lm="diffuse">         <i>diffus</i><par n="liv/e__vblex"/></e>
 <e lm="dig">             <i>d</i><par n="d/ig__vblex"/></e>
+<e lm="dig up">          <i>d</i><par n="d/ig__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
 <e lm="digest">          <i>digest</i><par n="accept__vblex"/></e>
 <e lm="digitise">        <i>digiti</i><par n="analy/se__vblex"/></e>
 <e lm="dignify">         <i>dignif</i><par n="appl/y__vblex"/></e>
@@ -24511,10 +24514,10 @@
 <e lm="maintain">        <i>maintain</i><par n="accept__vblex"/></e>
 <e lm="make a mistake">  <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>a<b/>mistake</l><r><g><b/>a<b/>mistake</g></r></p></e>
 <e lm="make">            <i>ma</i><par n="ma/ke__vblex"/></e>
-<e lm="make compatible"> <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>compatible</l><r><g><b/>compatible</g></r></p></e>
+<e lm="make compatible"> <i>ma</i><par n="ma/ke__vblex__sep"/><p><l><b/>compatible</l><r><g><b/>compatible</g></r></p></e>
 <e lm="make leeway">     <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>leeway</l><r><g><b/>leeway</g></r></p></e>
 <e lm="make progress">   <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>progress</l><r><g><b/>progress</g></r></p></e>
-<e lm="make public">     <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>public</l><r><g><b/>public</g></r></p></e>
+<e lm="make public">     <i>ma</i><par n="ma/ke__vblex__sep"/><p><l><b/>public</l><r><g><b/>public</g></r></p></e>
 <e lm="make use">        <i>ma</i><par n="ma/ke__vblex"/><p><l><b/>use</l><r><g><b/>use</g></r></p></e>
 <e lm="manacle">         <i>manacl</i><par n="liv/e__vblex"/></e>
 <e lm="manage">          <i>manag</i><par n="liv/e__vblex"/></e>
@@ -24604,6 +24607,7 @@
 <e lm="mount">           <i>mount</i><par n="accept__vblex"/></e>
 <e lm="mourn">           <i>mourn</i><par n="accept__vblex"/></e>
 <e lm="move">            <i>mov</i><par n="liv/e__vblex"/></e>
+<e lm="move away">       <i>mov</i><par n="liv/e__vblex__sep"/><p><l><b/>away</l><r><g><b/>away</g></r></p></e>
 <e lm="mow">             <i>mow</i><par n="accept__vblex"/></e>
 <e lm="multiply">        <i>multipl</i><par n="appl/y__vblex"/></e>
 <e lm="mumble">          <i>mumbl</i><par n="liv/e__vblex"/></e>
@@ -24801,6 +24805,7 @@
 <e lm="pioneer">         <i>pioneer</i><par n="accept__vblex"/></e>
 <e lm="pipe">            <i>pip</i><par n="liv/e__vblex"/></e>
 <e lm="pirate">          <i>pirat</i><par n="liv/e__vblex"/></e>
+<e lm="piss">            <i>piss</i><par n="approach__vblex"/></e>
 <e lm="pitch">           <i>pitch</i><par n="approach__vblex"/></e>
 <e lm="pit">             <i>pit</i><par n="step__vblex"/></e>
 <e lm="pity">            <i>pit</i><par n="appl/y__vblex"/></e>
@@ -24932,6 +24937,7 @@
 <e lm="publicise">       <i>publici</i><par n="analy/se__vblex"/></e>
 <e lm="publish">         <i>publish</i><par n="approach__vblex"/></e>
 <e lm="pull">            <i>pull</i><par n="accept__vblex"/></e>
+<e lm="pull down">       <i>pull</i><par n="accept__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
 <e lm="pull out">        <i>pull</i><par n="accept__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
 <e lm="pulverise">       <i>pulveri</i><par n="analy/se__vblex"/></e>
 <e lm="pump">            <i>pump</i><par n="accept__vblex"/></e>
@@ -56029,76 +56035,76 @@
 <e lm="Zurdo">           <i>Zurdo</i><par n="Smith__np"/></e>
 <e lm="Zurera">          <i>Zurera</i><par n="Smith__np"/></e>
 <e lm="Zuse">            <i>Zuse</i><par n="Smith__np"/></e>
-<e lm="Barrett"><i>Barrett</i><par n="Smith__np"/></e>
-<e lm="Clark"><i>Clark</i><par n="Smith__np"/></e>
-<e lm="Forrest"><i>Forrest</i><par n="Smith__np"/></e>
-<e lm="Kent"><i>Kent</i><par n="Smith__np"/></e>
-<e lm="Mackenzie"><i>Mackenzie</i><par n="Smith__np"/></e>
-<e lm="Rhodes"><i>Rhodes</i><par n="Gauss__np"/></e>
-<e lm="Albiñana"><i>Albiñana</i><par n="Smith__np"/></e>
-<e lm="Álvarez"><i>Álvarez</i><par n="Bush__np"/></e>
-<e lm="Bardem"><i>Bardem</i><par n="Smith__np"/></e>
-<e lm="Becerra"><i>Becerra</i><par n="Smith__np"/></e>
-<e lm="Becerril"><i>Becerril</i><par n="Smith__np"/></e>
-<e lm="Blanch"><i>Blanch</i><par n="Smith__np"/></e>
-<e lm="Brossa"><i>Brossa</i><par n="Smith__np"/></e>
-<e lm="Busquets"><i>Busquets</i><par n="Gauss__np"/></e>
-<e lm="Caparrós"><i>Caparrós</i><par n="Gauss__np"/></e>
-<e lm="Chacón"><i>Chacón</i><par n="Smith__np"/></e>
-<e lm="Cobos"><i>Cobos</i><par n="Gauss__np"/></e>
-<e lm="Corbacho"><i>Corbacho</i><par n="Smith__np"/></e>
-<e lm="Cuesta"><i>Cuesta</i><par n="Smith__np"/></e>
-<e lm="Djokovic"><i>Djokovic</i><par n="Smith__np"/></e>
-<e lm="Espinosa"><i>Espinosa</i><par n="Smith__np"/></e>
-<e lm="Fábregas"><i>Fábregas</i><par n="Gauss__np"/></e>
-<e lm="Ferrín"><i>Ferrín</i><par n="Smith__np"/></e>
-<e lm="Guillén"><i>Guillén</i><par n="Smith__np"/></e>
-<e lm="Llorente"><i>Llorente</i><par n="Smith__np"/></e>
-<e lm="Llosa"><i>Llosa</i><par n="Smith__np"/></e>
-<e lm="Lozano"><i>Lozano</i><par n="Smith__np"/></e>
-<e lm="Marín"><i>Marín</i><par n="Smith__np"/></e>
-<e lm="Matas"><i>Matas</i><par n="Gauss__np"/></e>
-<e lm="Mateos"><i>Mateos</i><par n="Gauss__np"/></e>
-<e lm="Mendiola"><i>Mendiola</i><par n="Smith__np"/></e>
-<e lm="Monteagudo"><i>Monteagudo</i><par n="Smith__np"/></e>
-<e lm="Montilla"><i>Montilla</i><par n="Smith__np"/></e>
-<e lm="Mourinho"><i>Mourinho</i><par n="Smith__np"/></e>
-<e lm="Nadal"><i>Nadal</i><par n="Smith__np"/></e>
-<e lm="Pacheco"><i>Pacheco</i><par n="Smith__np"/></e>
-<e lm="Panza"><i>Panza</i><par n="Smith__np"/></e>
-<e lm="Rojas"><i>Rojas</i><par n="Gauss__np"/></e>
-<e lm="Rueda"><i>Rueda</i><par n="Smith__np"/></e>
-<e lm="Saavedra"><i>Saavedra</i><par n="Smith__np"/></e>
-<e lm="Salgado"><i>Salgado</i><par n="Smith__np"/></e>
-<e lm="Soler"><i>Soler</i><par n="Smith__np"/></e>
-<e lm="Stone"><i>Stone</i><par n="Smith__np"/></e>
-<e lm="Tamayo"><i>Tamayo</i><par n="Smith__np"/></e>
-<e lm="Tàpies"><i>Tàpies</i><par n="Gauss__np"/></e>
-<e lm="Verdasco"><i>Verdasco</i><par n="Smith__np"/></e>
-<e lm="Wenger"><i>Wenger</i><par n="Smith__np"/></e>
-<e lm="Zambrano"><i>Zambrano</i><par n="Smith__np"/></e>
-<e lm="Gimeno"><i>Gimeno</i><par n="Smith__np"/></e>
-<e lm="Loyola"><i>Loyola</i><par n="Smith__np"/></e>
-<e lm="Williams"><i>Williams</i><par n="Gauss__np"/></e>
-<e lm="Cameron"><i>Cameron</i><par n="Smith__np"/></e>
-<e lm="Jordan"><i>Jordan</i><par n="Smith__np"/></e>
-<e lm="Kelly"><i>Kelly</i><par n="Smith__np"/></e>
-<e lm="Reed"><i>Reed</i><par n="Smith__np"/></e>
-<e lm="Spencer"><i>Spencer</i><par n="Smith__np"/></e>
-<e lm="Allen"><i>Allen</i><par n="Smith__np"/></e>
-<e lm="Anderson"><i>Anderson</i><par n="Smith__np"/></e>
-<e lm="Davis"><i>Davis</i><par n="Gauss__np"/></e>
-<e lm="Dean"><i>Dean</i><par n="Smith__np"/></e>
-<e lm="Gordon"><i>Gordon</i><par n="Smith__np"/></e>
-<e lm="Harrison"><i>Harrison</i><par n="Smith__np"/></e>
-<e lm="Harvey"><i>Harvey</i><par n="Smith__np"/></e>
-<e lm="Howard"><i>Howard</i><par n="Smith__np"/></e>
-<e lm="Lawrence"><i>Lawrence</i><par n="Smith__np"/></e>
-<e lm="Lee"><i>Lee</i><par n="Smith__np"/></e>
-<e lm="Lewis"><i>Lewis</i><par n="Gauss__np"/></e>
-<e lm="Perry"><i>Perry</i><par n="Smith__np"/></e>
-<e lm="Rico"><i>Rico</i><par n="Smith__np"/></e>
-<e lm="Wilson"><i>Wilson</i><par n="Smith__np"/></e>
+<e lm="Barrett">         <i>Barrett</i><par n="Smith__np"/></e>
+<e lm="Clark">           <i>Clark</i><par n="Smith__np"/></e>
+<e lm="Forrest">         <i>Forrest</i><par n="Smith__np"/></e>
+<e lm="Kent">            <i>Kent</i><par n="Smith__np"/></e>
+<e lm="Mackenzie">       <i>Mackenzie</i><par n="Smith__np"/></e>
+<e lm="Rhodes">          <i>Rhodes</i><par n="Gauss__np"/></e>
+<e lm="Albiñana">        <i>Albiñana</i><par n="Smith__np"/></e>
+<e lm="Álvarez">         <i>Álvarez</i><par n="Bush__np"/></e>
+<e lm="Bardem">          <i>Bardem</i><par n="Smith__np"/></e>
+<e lm="Becerra">         <i>Becerra</i><par n="Smith__np"/></e>
+<e lm="Becerril">        <i>Becerril</i><par n="Smith__np"/></e>
+<e lm="Blanch">          <i>Blanch</i><par n="Smith__np"/></e>
+<e lm="Brossa">          <i>Brossa</i><par n="Smith__np"/></e>
+<e lm="Busquets">        <i>Busquets</i><par n="Gauss__np"/></e>
+<e lm="Caparrós">        <i>Caparrós</i><par n="Gauss__np"/></e>
+<e lm="Chacón">          <i>Chacón</i><par n="Smith__np"/></e>
+<e lm="Cobos">           <i>Cobos</i><par n="Gauss__np"/></e>
+<e lm="Corbacho">        <i>Corbacho</i><par n="Smith__np"/></e>
+<e lm="Cuesta">          <i>Cuesta</i><par n="Smith__np"/></e>
+<e lm="Djokovic">        <i>Djokovic</i><par n="Smith__np"/></e>
+<e lm="Espinosa">        <i>Espinosa</i><par n="Smith__np"/></e>
+<e lm="Fábregas">        <i>Fábregas</i><par n="Gauss__np"/></e>
+<e lm="Ferrín">          <i>Ferrín</i><par n="Smith__np"/></e>
+<e lm="Guillén">         <i>Guillén</i><par n="Smith__np"/></e>
+<e lm="Llorente">        <i>Llorente</i><par n="Smith__np"/></e>
+<e lm="Llosa">           <i>Llosa</i><par n="Smith__np"/></e>
+<e lm="Lozano">          <i>Lozano</i><par n="Smith__np"/></e>
+<e lm="Marín">           <i>Marín</i><par n="Smith__np"/></e>
+<e lm="Matas">           <i>Matas</i><par n="Gauss__np"/></e>
+<e lm="Mateos">          <i>Mateos</i><par n="Gauss__np"/></e>
+<e lm="Mendiola">        <i>Mendiola</i><par n="Smith__np"/></e>
+<e lm="Monteagudo">      <i>Monteagudo</i><par n="Smith__np"/></e>
+<e lm="Montilla">        <i>Montilla</i><par n="Smith__np"/></e>
+<e lm="Mourinho">        <i>Mourinho</i><par n="Smith__np"/></e>
+<e lm="Nadal">           <i>Nadal</i><par n="Smith__np"/></e>
+<e lm="Pacheco">         <i>Pacheco</i><par n="Smith__np"/></e>
+<e lm="Panza">           <i>Panza</i><par n="Smith__np"/></e>
+<e lm="Rojas">           <i>Rojas</i><par n="Gauss__np"/></e>
+<e lm="Rueda">           <i>Rueda</i><par n="Smith__np"/></e>
+<e lm="Saavedra">        <i>Saavedra</i><par n="Smith__np"/></e>
+<e lm="Salgado">         <i>Salgado</i><par n="Smith__np"/></e>
+<e lm="Soler">           <i>Soler</i><par n="Smith__np"/></e>
+<e lm="Stone">           <i>Stone</i><par n="Smith__np"/></e>
+<e lm="Tamayo">          <i>Tamayo</i><par n="Smith__np"/></e>
+<e lm="Tàpies">          <i>Tàpies</i><par n="Gauss__np"/></e>
+<e lm="Verdasco">        <i>Verdasco</i><par n="Smith__np"/></e>
+<e lm="Wenger">          <i>Wenger</i><par n="Smith__np"/></e>
+<e lm="Zambrano">        <i>Zambrano</i><par n="Smith__np"/></e>
+<e lm="Gimeno">          <i>Gimeno</i><par n="Smith__np"/></e>
+<e lm="Loyola">          <i>Loyola</i><par n="Smith__np"/></e>
+<e lm="Williams">        <i>Williams</i><par n="Gauss__np"/></e>
+<e lm="Cameron">         <i>Cameron</i><par n="Smith__np"/></e>
+<e lm="Jordan">          <i>Jordan</i><par n="Smith__np"/></e>
+<e lm="Kelly">           <i>Kelly</i><par n="Smith__np"/></e>
+<e lm="Reed">            <i>Reed</i><par n="Smith__np"/></e>
+<e lm="Spencer">         <i>Spencer</i><par n="Smith__np"/></e>
+<e lm="Allen">           <i>Allen</i><par n="Smith__np"/></e>
+<e lm="Anderson">        <i>Anderson</i><par n="Smith__np"/></e>
+<e lm="Davis">           <i>Davis</i><par n="Gauss__np"/></e>
+<e lm="Dean">            <i>Dean</i><par n="Smith__np"/></e>
+<e lm="Gordon">          <i>Gordon</i><par n="Smith__np"/></e>
+<e lm="Harrison">        <i>Harrison</i><par n="Smith__np"/></e>
+<e lm="Harvey">          <i>Harvey</i><par n="Smith__np"/></e>
+<e lm="Howard">          <i>Howard</i><par n="Smith__np"/></e>
+<e lm="Lawrence">        <i>Lawrence</i><par n="Smith__np"/></e>
+<e lm="Lee">             <i>Lee</i><par n="Smith__np"/></e>
+<e lm="Lewis">           <i>Lewis</i><par n="Gauss__np"/></e>
+<e lm="Perry">           <i>Perry</i><par n="Smith__np"/></e>
+<e lm="Rico">            <i>Rico</i><par n="Smith__np"/></e>
+<e lm="Wilson">          <i>Wilson</i><par n="Smith__np"/></e>
     
     <!-- locations -->
 
