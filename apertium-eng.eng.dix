@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54628
+	Entries: 54639
 	Sdefs: 84
 	Paradigms: 380
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -21156,6 +21156,7 @@
 <e lm="tunic">           <i>tunic</i><par n="house__n"/></e>
 <e lm="tuning">          <i>tuning</i><par n="house__n"/></e>
 <e lm="tunnel">          <i>tunnel</i><par n="house__n"/></e>
+<e lm="tunnel boring machine"><i>tunnel<b/>boring<b/>machine</i><par n="house__n"/></e>
 <e lm="tunny">           <i>tunn</i><par n="bab/y__n"/></e>
 <e lm="turban">          <i>turban</i><par n="house__n"/></e>
 <e lm="turbine">         <i>turbine</i><par n="house__n"/></e>
@@ -26116,10 +26117,14 @@
 <e lm="amongst">         <i>amongst</i><par n="at__pr"/></e>
 <e lm="apart from">      <i>apart<b/>from</i><par n="at__pr"/></e>
 <e lm="around">          <i>around</i><par n="at__pr"/></e>
+<e lm="around the middle of"><i>around<b/>the<b/>middle<b/>of</i><par n="at__pr"/></e>
 <e lm="as">              <i>as</i><par n="at__pr"/></e>
+<e lm="as a">            <i>as<b/>a</i><par n="at__pr"/></e>
 <e lm="as for">          <i>as<b/>for</i><par n="at__pr"/></e>
 <e lm="as regards">      <i>as<b/>regards</i><par n="at__pr"/></e>
 <e lm="at">              <i>at</i><par n="at__pr"/></e>
+<e lm="at a rate of" a="greenbreen"><i>at<b/>a<b/>rate<b/>of</i><par n="at__pr"/></e>
+<e lm="as a result of">  <i>as<b/>a<b/>result<b/>of</i><par n="at__pr"/></e>
 <e lm="at most">         <p><l>at<b/>most</l><r>at<s n="pr"/><j/>most<s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
 <e lm="at about">        <i>at<b/>about</i><par n="at__pr"/></e>
 <e lm="at the beginning of"><i>at<b/>the<b/>beginning<b/>of</i><par n="at__pr"/></e>
@@ -26141,6 +26146,7 @@
 <e lm="except for">      <i>except<b/>for</i><par n="at__pr"/></e>
 <e r="RL" lm="facing">   <i>facing</i><par n="at__pr"/></e>
 <e lm="for">             <i>for</i><par n="at__pr"/></e>
+<e lm="for the benefit of"><i>for<b/>the<b/>benefit<b/>of</i><par n="at__pr"/></e>
 <e lm="from">            <i>from</i><par n="at__pr"/></e>
 <e lm="half way between"><i>half<b/>way<b/>between</i><par n="at__pr"/></e>
 <e r="RL" lm="head off"> <i>head<b/>off</i><par n="at__pr"/></e> <!-- TODO: CHECK ??? -->
@@ -26183,6 +26189,8 @@
 <e lm="round">           <i>round</i><par n="at__pr"/></e>
 <e lm="since">           <i>since</i><par n="at__pr"/></e>
 <e lm="ever since">      <i>ever<b/>since</i><par n="at__pr"/></e>
+<e lm="shortly after">   <i>shortly<b/>after</i><par n="at__pr"/></e>
+<e lm="shortly before">  <i>shortly<b/>before</i><par n="at__pr"/></e>
 <e lm="so as to">        <i>so<b/>as<b/>to</i><par n="at__pr"/></e>
 <e lm="straight through"><i>straight<b/>through</i><par n="at__pr"/></e>
 <e lm="such as">         <i>such<b/>as</i><par n="at__pr"/></e>
@@ -26204,6 +26212,8 @@
 <e lm="versus">          <i>versus</i><par n="at__pr"/></e>
 <e lm="via">             <i>via</i><par n="at__pr"/></e>
 <e lm="with">            <i>with</i><par n="at__pr"/></e>
+<e lm="with a view to">  <i>with<b/>a<b/>view<b/>to</i><par n="at__pr"/></e>
+<e lm="with regard to">  <i>with<b/>regard<b/>to</i><par n="at__pr"/></e>
 <e lm="with the aid of"> <i>with<b/>the<b/>aid<b/>of</i><par n="at__pr"/></e>
 <e lm="with the help of"><i>with<b/>the<b/>help<b/>of</i><par n="at__pr"/></e>
 <e lm="within">          <i>within</i><par n="at__pr"/></e>
@@ -58014,6 +58024,7 @@
 <e lm="Reuters">         <par n="Rr"/><i>euters</i><par n="Linux__np"/></e>
 <e lm="RuneQuest">       <i>RuneQuest</i><par n="Linux__np"/></e>
 <e lm="Samsung">         <i>Samsung</i><par n="Linux__np"/></e>
+<e lm="San Juan">        <i>San<b/>Juan</i><par n="Linux__np"/></e>
 <e lm="Scania">          <i>Scania</i><par n="Linux__np"/></e>
 <e lm="Scrabble">        <i>Scrabble</i><par n="Linux__np"/></e>
 <e lm="SEGA Dreamcast">  <i>SEGA<b/>Dreamcast</i><par n="Linux__np"/></e>
