@@ -1,5 +1,6 @@
 /*.att.gz
 /*.bin
+/*.pc
 /.deps
 /INSTALL
 /Makefile
