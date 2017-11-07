@@ -70,6 +70,7 @@
     <sdef n="cnjadv" 	c="Adverbial conjunction"/> 
     <sdef n="comp" 	c="Comparative"/> 
     <sdef n="sup" 	c="Superlative"/> 
+    <sdef n="pred" 	c="Predicative"/> 
     <sdef n="ord" 	c="Ordinal"/> 
     <sdef n="qnt" 	c="Quantifier"/> 
     <sdef n="num" 	c="Numeral / Number"/> 
@@ -498,7 +499,7 @@
 </pardef>
 
 <pardef n="mine__adj">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="pos"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="pos"/><s n="pred"/></r></p></e>
 </pardef>
 
 <pardef n="meag/re__adj">
