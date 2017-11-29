@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54843
+	Entries: 54940
 	Sdefs: 85
 	Paradigms: 381
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -22400,6 +22400,103 @@
 <e lm="zucchini">        <i>zucchini</i><par n="house__n"/></e>
 <e lm="zwieback" c="(US)"><i>zwieback</i><par n="house__n"/></e>
 <e lm="zygote">          <i>zygote</i><par n="house__n"/></e>
+<e lm="aborigine">       <i>aborigine</i><par n="house__n"/></e>
+<e lm="abrasion">        <i>abrasion</i><par n="house__n"/></e>
+<e lm="academician">     <i>academician</i><par n="house__n"/></e>
+<e lm="actinium">        <i>actinium</i><par n="house__n"/></e>
+<e lm="adornment">       <i>adornment</i><par n="house__n"/></e>
+<e lm="advent">          <i>advent</i><par n="house__n"/></e>
+<e lm="aerodrome">       <i>aerodrome</i><par n="house__n"/></e>
+<e lm="aerogenerator">   <i>aerogenerator</i><par n="house__n"/></e>
+<e lm="agate">           <i>agate</i><par n="house__n"/></e>
+<e lm="agave">           <i>agave</i><par n="house__n"/></e>
+<e lm="agraphia">        <i>agraphia</i><par n="house__n"/></e>
+<e lm="alcoholic">       <i>alcoholic</i><par n="house__n"/></e>
+<e lm="alcoholimeter">   <i>alcoholimeter</i><par n="house__n"/></e>
+<e lm="almond tree">     <i>almond<b/>tree</i><par n="house__n"/></e>
+<e lm="Amazon">          <i>Amazon</i><par n="house__n"/></e>
+<e lm="amazonite">       <i>amazonite</i><par n="house__n"/></e>
+<e lm="ambivalence">     <i>ambivalence</i><par n="house__n"/></e>
+<e lm="amine">           <i>amine</i><par n="house__n"/></e>
+<e lm="amino acid">      <i>amino<b/>acid</i><par n="house__n"/></e>
+<e lm="ammeter">         <i>ammeter</i><par n="house__n"/></e>
+<e lm="amphora">         <i>amphora</i><par n="house__n"/></e>
+<e lm="amyloplast">      <i>amyloplast</i><par n="house__n"/></e>
+<e lm="anabolism">       <i>anabolism</i><par n="house__n"/></e>
+<e lm="anaphase">        <i>anaphase</i><par n="house__n"/></e>
+<e lm="anaphora">        <i>anaphora</i><par n="house__n"/></e>
+<e lm="anemograph">      <i>anemograph</i><par n="house__n"/></e>
+<e lm="anemometer">      <i>anemometer</i><par n="house__n"/></e>
+<e lm="anion">           <i>anion</i><par n="house__n"/></e>
+<e lm="anticodon">       <i>anticodon</i><par n="house__n"/></e>
+<e lm="antidepressive">  <i>antidepressive</i><par n="house__n"/></e>
+<e lm="antiracist">      <i>antiracist</i><par n="house__n"/></e>
+<e lm="Apache">          <i>Apache</i><par n="house__n"/></e>
+<e lm="apiarist">        <i>apiarist</i><par n="house__n"/></e>
+<e lm="arachnid">        <i>arachnid</i><par n="house__n"/></e>
+<e lm="arboriculture">   <i>arboriculture</i><par n="house__n"/></e>
+<e lm="arc">             <i>arc</i><par n="house__n"/></e>
+<e lm="archangel">       <i>archangel</i><par n="house__n"/></e>
+<e lm="archduke">        <i>archduke</i><par n="house__n"/></e>
+<e lm="arsenic">         <i>arsenic</i><par n="house__n"/></e>
+<e lm="ascendent">       <i>ascendent</i><par n="house__n"/></e>
+<e lm="ascription">      <i>ascription</i><par n="house__n"/></e>
+<e lm="attire">          <i>attire</i><par n="house__n"/></e>
+<e lm="audimetre">       <i>audimetre</i><par n="house__n"/></e>
+<e lm="baritone">        <i>baritone</i><par n="house__n"/></e>
+<e lm="barograph">       <i>barograph</i><par n="house__n"/></e>
+<e lm="barrack">         <i>barrack</i><par n="house__n"/></e>
+<e lm="basil">           <i>basil</i><par n="house__n"/></e>
+<e lm="bass drum">       <i>bass<b/>drum</i><par n="house__n"/></e>
+<e lm="bayonet">         <i>bayonet</i><par n="house__n"/></e>
+<e lm="bechamel sauce">  <i>bechamel<b/>sauce</i><par n="house__n"/></e>
+<e lm="bib">             <i>bib</i><par n="house__n"/></e>
+<e lm="biofuel">         <i>biofuel</i><par n="house__n"/></e>
+<e lm="biotope">         <i>biotope</i><par n="house__n"/></e>
+<e lm="bisector">        <i>bisector</i><par n="house__n"/></e>
+<e lm="blender">         <i>blender</i><par n="house__n"/></e>
+<e lm="bream">           <i>bream</i><par n="house__n"/></e>
+<e lm="buccaneer">       <i>buccaneer</i><par n="house__n"/></e>
+<e lm="bunkhouse">       <i>bunkhouse</i><par n="house__n"/></e>
+<e lm="burnisher">       <i>burnisher</i><par n="house__n"/></e>
+<e lm="buzzer">          <i>buzzer</i><par n="house__n"/></e>
+<e lm="cabriolet">       <i>cabriolet</i><par n="house__n"/></e>
+<e lm="capacimeter">     <i>capacimeter</i><par n="house__n"/></e>
+<e lm="cartwright">      <i>cartwright</i><par n="house__n"/></e>
+<e lm="caruncle">        <i>caruncle</i><par n="house__n"/></e>
+<e lm="chameleon">       <i>chameleon</i><par n="house__n"/></e>
+<e lm="chaplain">        <i>chaplain</i><par n="house__n"/></e>
+<e lm="chard">           <i>chard</i><par n="house__n"/></e>
+<e lm="Chinatown">       <i>Chinatown</i><par n="house__n"/></e>
+<e lm="dead end">        <i>dead<b/>end</i><par n="house__n"/></e>
+<e lm="delivery note">   <i>delivery<b/>note</i><par n="house__n"/></e>
+<e lm="diver">           <i>diver</i><par n="house__n"/></e>
+<e lm="downpipe">        <i>downpipe</i><par n="house__n"/></e>
+<e lm="exchanger">       <i>exchanger</i><par n="house__n"/></e>
+<e lm="gut">             <i>gut</i><par n="house__n"/></e>
+<e lm="hailstorm">       <i>hailstorm</i><par n="house__n"/></e>
+<e lm="hike">            <i>hike</i><par n="house__n"/></e>
+<e lm="hovercraft">      <i>hovercraft</i><par n="house__n"/></e>
+<e lm="insurance">       <i>insurance</i><par n="house__n"/></e>
+<e lm="joker">           <i>joker</i><par n="house__n"/></e>
+<e lm="letterhead">      <i>letterhead</i><par n="house__n"/></e>
+<e lm="notation">        <i>notation</i><par n="house__n"/></e>
+<e lm="overturn">        <i>overturn</i><par n="house__n"/></e>
+<e lm="padlock">         <i>padlock</i><par n="house__n"/></e>
+<e lm="pirouette">       <i>pirouette</i><par n="house__n"/></e>
+<e lm="preliminary draft"><i>preliminary<b/>draft</i><par n="house__n"/></e>
+<e lm="premium share">   <i>premium<b/>share</i><par n="house__n"/></e>
+<e lm="prompter">        <i>prompter</i><par n="house__n"/></e>
+<e lm="pumpkin">         <i>pumpkin</i><par n="house__n"/></e>
+<e lm="ringer">          <i>ringer</i><par n="house__n"/></e>
+<e lm="sandy area">      <i>sandy<b/>area</i><par n="house__n"/></e>
+<e lm="second lieutenant"><i>second<b/>lieutenant</i><par n="house__n"/></e>
+<e lm="self-portrait">   <i>self-portrait</i><par n="house__n"/></e>
+<e lm="sinkhole">        <i>sinkhole</i><par n="house__n"/></e>
+<e lm="slur">            <i>slur</i><par n="house__n"/></e>
+<e lm="spandrel">        <i>spandrel</i><par n="house__n"/></e>
+<e lm="tuner">           <i>tuner</i><par n="house__n"/></e>
+<e lm="yawn">            <i>yawn</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -22472,7 +22569,7 @@
 <e lm="FIFA">            <i>FIFA</i><par n="BBC__n"/></e>
 <e lm="FM">              <i>FM</i><par n="BBC__n"/></e>
 <e lm="GB">              <i>GB</i><par n="BBC__n"/></e>
-<e lm="GDP">             <i>GDP</i><par n="BBC__n"/></e>
+<e lm="GDP">             <i>GDP</i><par n="VCR__n"/></e>
 <e lm="GM">              <i>GM</i><par n="BBC__n"/></e>
 <e lm="GNU">             <i>GNU</i><par n="BBC__n"/></e>
 <e lm="G.P.">            <i>G.P.</i><par n="BBC__n"/></e>
