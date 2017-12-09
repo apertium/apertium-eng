@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 54940
+	Entries: 55067
 	Sdefs: 85
 	Paradigms: 381
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -12119,7 +12119,7 @@
 <e lm="imbecility">      <i>imbecilit</i><par n="bab/y__n"/></e>
 <e lm="imbroglio">       <i>imbroglio</i><par n="house__n"/></e>
 <e lm="imitation">       <i>imitation</i><par n="house__n"/></e>
-<e r="LR" lm="imitator"> <i>imitator</i><par n="house__n"/></e>
+<e lm="imitator">        <i>imitator</i><par n="house__n"/></e>
 <e lm="immanence">       <i>immanence</i><par n="house__n"/></e>
 <e lm="immateriality">   <i>immaterialit</i><par n="bab/y__n"/></e>
 <e lm="immaturity">      <i>immaturit</i><par n="bab/y__n"/></e>
@@ -22497,6 +22497,96 @@
 <e lm="spandrel">        <i>spandrel</i><par n="house__n"/></e>
 <e lm="tuner">           <i>tuner</i><par n="house__n"/></e>
 <e lm="yawn">            <i>yawn</i><par n="house__n"/></e>
+<e lm="videodisc">       <i>videodisc</i><par n="house__n"/></e>
+<e lm="games console">   <i>games<b/>console</i><par n="house__n"/></e>
+<e lm="videocassette">   <i>videocassette</i><par n="house__n"/></e>
+<e lm="video shop">      <i>video<b/>shop</i><par n="house__n"/></e>
+<e lm="video game">      <i>video<b/>game</i><par n="house__n"/></e>
+<e lm="vertigo">         <i>vertigo</i><par n="house__n"/></e>
+<e lm="mackerel">        <i>mackerel</i><par n="house__n"/></e>
+<e lm="vice-chancellor"> <i>vice-chancellor</i><par n="house__n"/></e>
+<e lm="vuvuzela">        <i>vuvuzela</i><par n="house__n"/></e>
+<e lm="tiger nut">       <i>tiger<b/>nut</i><par n="house__n"/></e>
+<e lm="zoologist">       <i>zoologist</i><par n="house__n"/></e>
+<e lm="superpower">      <i>superpower</i><par n="house__n"/></e>
+<e lm="blood vessel">    <i>blood<b/>vessel</i><par n="house__n"/></e>
+<e lm="quail">           <i>quail</i><par n="house__n"/></e>
+<e lm="Iberian Recebo shoulder"><i>Iberian<b/>Recebo<b/>shoulder</i><par n="house__n"/></e>
+<e lm="detractor">       <i>detractor</i><par n="house__n"/></e>
+<e lm="Haitian">         <i>Haitian</i><par n="house__n"/></e>
+<e lm="flutter">         <i>flutter</i><par n="house__n"/></e>
+<e lm="sinner">          <i>sinner</i><par n="house__n"/></e>
+<e lm="tilde">           <i>tilde</i><par n="house__n"/></e>
+<e lm="truffle">         <i>truffle</i><par n="house__n"/></e>
+<e lm="toboggan">        <i>toboggan</i><par n="house__n"/></e>
+<e lm="bullfighting">    <i>bullfighting</i><par n="house__n"/></e>
+<e lm="linden">          <i>linden</i><par n="house__n"/></e>
+<e lm="terrazzo">        <i>terrazzo</i><par n="house__n"/></e>
+<e lm="testator">        <i>testator</i><par n="house__n"/></e>
+<e lm="soap opera">      <i>soap<b/>opera</i><par n="house__n"/></e>
+<e lm="weaver">          <i>weaver</i><par n="house__n"/></e>
+<e lm="taxer">           <i>taxer</i><par n="house__n"/></e>
+<e lm="sudoku">          <i>sudoku</i><par n="house__n"/></e>
+<e lm="subdomain">       <i>subdomain</i><par n="house__n"/></e>
+<e lm="reverie">         <i>reverie</i><par n="house__n"/></e>
+<e lm="sherbet">         <i>sherbet</i><par n="house__n"/></e>
+<e lm="extra cost">      <i>extra<b/>cost</i><par n="house__n"/></e>
+<e lm="sycamore">        <i>sycamore</i><par n="house__n"/></e>
+<e lm="kidnapping">      <i>kidnapping</i><par n="house__n"/></e>
+<e lm="saviour">         <i>saviour</i><par n="house__n"/></e>
+<e lm="laundry room">    <i>laundry<b/>room</i><par n="house__n"/></e>
+<e lm="hive">            <i>hive</i><par n="house__n"/></e>
+<e lm="savanna">         <i>savanna</i><par n="house__n"/></e>
+<e lm="giggle">          <i>giggle</i><par n="house__n"/></e>
+<e lm="digest">          <i>digest</i><par n="house__n"/></e>
+<e lm="haggling">        <i>haggling</i><par n="house__n"/></e>
+<e lm="refining">        <i>refining</i><par n="house__n"/></e>
+<e lm="mousehole">       <i>mousehole</i><par n="house__n"/></e>
+<e lm="tracker">         <i>tracker</i><par n="house__n"/></e>
+<e lm="rapper">          <i>rapper</i><par n="house__n"/></e>
+<e lm="stutter">         <i>stutter</i><par n="house__n"/></e>
+<e lm="qualifier">       <i>qualifier</i><par n="house__n"/></e>
+<e lm="quill">           <i>quill</i><par n="house__n"/></e>
+<e lm="precursor">       <i>precursor</i><par n="house__n"/></e>
+<e lm="pogrom">          <i>pogrom</i><par n="house__n"/></e>
+<e lm="pizzeria">        <i>pizzeria</i><par n="house__n"/></e>
+<e lm="earthenware">     <i>earthenware</i><par n="house__n"/></e>
+<e lm="redhead">         <i>redhead</i><par n="house__n"/></e>
+<e lm="mop">             <i>mop</i><par n="house__n"/></e>
+<e lm="optician">        <i>optician</i><par n="house__n"/></e>
+<e lm="odontologist">    <i>odontologist</i><par n="house__n"/></e>
+<e lm="novice">          <i>novice</i><par n="house__n"/></e>
+<e lm="sampling">        <i>sampling</i><par n="house__n"/></e>
+<e lm="must">            <i>must</i><par n="house__n"/></e>
+<e lm="minion">          <i>minion</i><par n="house__n"/></e>
+<e lm="millisecond">     <i>millisecond</i><par n="house__n"/></e>
+<e lm="forecaster">      <i>forecaster</i><par n="house__n"/></e>
+<e lm="metalloid">       <i>metalloid</i><par n="house__n"/></e>
+<e lm="megabyte">        <i>megabyte</i><par n="house__n"/></e>
+<e lm="engine driver">   <i>engine<b/>driver</i><par n="house__n"/></e>
+<e lm="freethinker">     <i>freethinker</i><par n="house__n"/></e>
+<e lm="pilferer">        <i>pilferer</i><par n="house__n"/></e>
+<e lm="intern">          <i>intern</i><par n="house__n"/></e>
+<e lm="illusionist">     <i>illusionist</i><par n="house__n"/></e>
+<e lm="Hispanic">        <i>Hispanic</i><par n="house__n"/></e>
+<e lm="jubilation">      <i>jubilation</i><par n="house__n"/></e>
+<e lm="gnome">           <i>gnome</i><par n="house__n"/></e>
+<e lm="Galician">        <i>Galician</i><par n="house__n"/></e>
+<e lm="shaft">           <i>shaft</i><par n="house__n"/></e>
+<e lm="fluid">           <i>fluid</i><par n="house__n"/></e>
+<e lm="pheasant">        <i>pheasant</i><par n="house__n"/></e>
+<e lm="ex-president">    <i>ex-president</i><par n="house__n"/></e>
+<e lm="schist">          <i>schist</i><par n="house__n"/></e>
+<e lm="esplanade">       <i>esplanade</i><par n="house__n"/></e>
+<e lm="respondent">      <i>respondent</i><par n="house__n"/></e>
+<e lm="right-winger">    <i>right-winger</i><par n="house__n"/></e>
+<e lm="addressee">       <i>addressee</i><par n="house__n"/></e>
+<e lm="discoverer">      <i>discoverer</i><par n="house__n"/></e>
+<e lm="assistant secretary"><i>assistant<b/>secretar</i><par n="bab/y__n"/></e>
+<e lm="reactionary">     <i>reactionar</i><par n="bab/y__n"/></e>
+<e lm="gamma ray">       <i>gamma<b/>ray</i><par n="house__n"/></e>
+<e lm="emissary">        <i>emissar</i><par n="bab/y__n"/></e>
+<e lm="notch">           <i>notch</i><par n="access__n"/></e>
 
     <!-- Acronyms -->
 
@@ -32494,43 +32584,43 @@
 <e lm="witty">           <i>witt</i><par n="nice/__adj"/></e>
 <e lm="pointy">          <i>point</i><par n="nice/__adj"/></e>
 <e lm="tame">            <i>tame</i><par n="nice/__adj"/></e>
-<e lm="woolly">           <i>wooll</i><par n="happ/y__adj"/></e>
-<e lm="hazy">           <i>haz</i><par n="happ/y__adj"/></e>
-<e lm="crumbly">           <i>crumbl</i><par n="happ/y__adj"/></e>
-<e lm="wintry">           <i>wintr</i><par n="happ/y__adj"/></e>
-<e lm="wary">           <i>war</i><par n="happ/y__adj"/></e>
-<e lm="cute">           <i>cute</i><par n="nice/__adj"/></e>
-<e lm="crushing"><i>crushing</i><par n="expensive__adj"/></e>
-<e lm="acrid"><i>acrid</i><par n="expensive__adj"/></e>
-<e lm="supporting"><i>supporting</i><par n="expensive__adj"/></e>
-<e lm="acrobatic"><i>acrobatic</i><par n="expensive__adj"/></e>
-<e lm="affable"><i>affable</i><par n="expensive__adj"/></e>
-<e lm="agile"><i>agile</i><par n="expensive__adj"/></e>
-<e lm="anaphoric"><i>anaphoric</i><par n="expensive__adj"/></e>
-<e lm="antimissile"><i>antimissile</i><par n="expensive__adj"/></e>
-<e lm="antisocial"><i>antisocial</i><par n="expensive__adj"/></e>
-<e lm="annular"><i>annular</i><par n="expensive__adj"/></e>
-<e lm="exciting"><i>exciting</i><par n="expensive__adj"/></e>
-<e lm="Aztec"><i>Aztec</i><par n="expensive__adj"/></e>
-<e lm="comely"><i>comely</i><par n="expensive__adj"/></e>
-<e lm="beige"><i>beige</i><par n="expensive__adj"/></e>
-<e lm="blessed"><i>blessed</i><par n="expensive__adj"/></e>
-<e lm="ternary"><i>ternary</i><par n="expensive__adj"/></e>
-<e lm="violet"><i>violet</i><par n="expensive__adj"/></e>
-<e lm="quantum"><i>quantum</i><par n="expensive__adj"/></e>
-<e lm="oil"><i>oil</i><par n="expensive__adj"/></e>
-<e lm="multimedia"><i>multimedia</i><par n="expensive__adj"/></e>
-<e lm="isosceles"><i>isosceles</i><par n="expensive__adj"/></e>
-<e lm="hedonistic"><i>hedonistic</i><par n="expensive__adj"/></e>
-<e lm="ethereal"><i>ethereal</i><par n="expensive__adj"/></e>
-<e lm="fun"><i>fun</i><par n="expensive__adj"/></e>
-<e lm="rear"><i>rear</i><par n="expensive__adj"/></e>
-<e lm="community"><i>community</i><par n="expensive__adj"/></e>
-<e lm="harrowing"><i>harrowing</i><par n="expensive__adj"/></e>
-<e lm="unfeasible"><i>unfeasible</i><par n="expensive__adj"/></e>
-<e lm="monographic"><i>monographic</i><par n="expensive__adj"/></e>
-<e lm="Omani"><i>Omani</i><par n="expensive__adj"/></e>
-<e lm="radio"><i>radio</i><par n="expensive__adj"/></e>
+<e lm="woolly">          <i>wooll</i><par n="happ/y__adj"/></e>
+<e lm="hazy">            <i>haz</i><par n="happ/y__adj"/></e>
+<e lm="crumbly">         <i>crumbl</i><par n="happ/y__adj"/></e>
+<e lm="wintry">          <i>wintr</i><par n="happ/y__adj"/></e>
+<e lm="wary">            <i>war</i><par n="happ/y__adj"/></e>
+<e lm="cute">            <i>cute</i><par n="nice/__adj"/></e>
+<e lm="crushing">        <i>crushing</i><par n="expensive__adj"/></e>
+<e lm="acrid">           <i>acrid</i><par n="expensive__adj"/></e>
+<e lm="supporting">      <i>supporting</i><par n="expensive__adj"/></e>
+<e lm="acrobatic">       <i>acrobatic</i><par n="expensive__adj"/></e>
+<e lm="affable">         <i>affable</i><par n="expensive__adj"/></e>
+<e lm="agile">           <i>agile</i><par n="expensive__adj"/></e>
+<e lm="anaphoric">       <i>anaphoric</i><par n="expensive__adj"/></e>
+<e lm="antimissile">     <i>antimissile</i><par n="expensive__adj"/></e>
+<e lm="antisocial">      <i>antisocial</i><par n="expensive__adj"/></e>
+<e lm="annular">         <i>annular</i><par n="expensive__adj"/></e>
+<e lm="exciting">        <i>exciting</i><par n="expensive__adj"/></e>
+<e lm="Aztec">           <i>Aztec</i><par n="expensive__adj"/></e>
+<e lm="comely">          <i>comely</i><par n="expensive__adj"/></e>
+<e lm="beige">           <i>beige</i><par n="expensive__adj"/></e>
+<e lm="blessed">         <i>blessed</i><par n="expensive__adj"/></e>
+<e lm="ternary">         <i>ternary</i><par n="expensive__adj"/></e>
+<e lm="violet">          <i>violet</i><par n="expensive__adj"/></e>
+<e lm="quantum">         <i>quantum</i><par n="expensive__adj"/></e>
+<e lm="oil">             <i>oil</i><par n="expensive__adj"/></e>
+<e lm="multimedia">      <i>multimedia</i><par n="expensive__adj"/></e>
+<e lm="isosceles">       <i>isosceles</i><par n="expensive__adj"/></e>
+<e lm="hedonistic">      <i>hedonistic</i><par n="expensive__adj"/></e>
+<e lm="ethereal">        <i>ethereal</i><par n="expensive__adj"/></e>
+<e lm="fun">             <i>fun</i><par n="expensive__adj"/></e>
+<e lm="rear">            <i>rear</i><par n="expensive__adj"/></e>
+<e lm="community">       <i>community</i><par n="expensive__adj"/></e>
+<e lm="harrowing">       <i>harrowing</i><par n="expensive__adj"/></e>
+<e lm="unfeasible">      <i>unfeasible</i><par n="expensive__adj"/></e>
+<e lm="monographic">     <i>monographic</i><par n="expensive__adj"/></e>
+<e lm="Omani">           <i>Omani</i><par n="expensive__adj"/></e>
+<e lm="radio">           <i>radio</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
