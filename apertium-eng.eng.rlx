@@ -10,11 +10,13 @@ SETS
 LIST N = n ;
 LIST Np = np ;
 LIST Prn = prn ;
+LIST PrnObj = prn obj ;
 LIST Det = det ;
 LIST Have = vbhaver ;
 LIST Be = vbser ;
 LIST Adj = adj ;
 LIST Predet = predet ;
+LIST Preadv = preadv ;
 LIST Adv = adv ;
 LIST Pr = pr ;
 LIST Ger = ger ;
@@ -31,7 +33,7 @@ LIST Vbmod = vbmod ;
 LIST Gen = gen ;
 LIST Apos = apos ;
 LIST Not = "not" ;
-LIST Please = ("please" adv) ;
+SET Please = ("please" adv) | ("please" ij) ;
 SET Do = ("do") ;
 SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
@@ -80,6 +82,7 @@ SELECT N IF (0 N) (0 V) (-1 Adj) ;
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-2 Det) (-1 N) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
+SELECT V IF (0 N) (0 V) (1 PrnObj) ;
 SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
 SELECT V IF (0 N) (0 V) (-1 Vbdo) ;
 SELECT V IF (0 N) (0 V) (-2 Vbdo) (-1 Adv) ;
@@ -99,6 +102,14 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 #Lemmas that are N or ADJ: ADJ if N follows it
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
+
+#Lemmas that are DET or PRN: DET if N/ADJ follows
+SELECT Det IF (0 Det) (0 Prn) (1 N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2 N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3 N) ;
+
+#Otherwise, select PRN
+SELECT Prn IF (0 Det) (0 Prn) ;
 
 # one : eins (num) / man (prn)
 SELECT (num) IF (1 (n)) ;
@@ -125,11 +136,14 @@ SELECT Ger IF (-1/* Be) (1 To) ;
 
 SELECT Predet IF (1C The) ;
 
-# Please (adv) and please (vblex)
-SELECT Adv IF (0 Adv) (0 Vblex) (1 V) ;
-SELECT Adv IF (0 Adv) (0 Vblex) (-1 _S_SOFT_DELIMITERS_) (1 _S_SOFT_DELIMITERS_) ;
-SELECT Adv IF (0 Adv) (0 Vblex) (-1 BOS) (1 _S_SOFT_DELIMITERS_) ;
-SELECT Adv IF (0 Adv) (0 Vblex) (-1 _S_SOFT_DELIMITERS_) (1 EOS) ;
+# Please (adv/ij) and please (vblex)
+SELECT Vblex IF (0 Please) (0 Vblex) (-1 To) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 PrnObj) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Np) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Adj) (3 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
+REMOVE Vblex IF (0 Please) (0 Vblex) ;
 
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
