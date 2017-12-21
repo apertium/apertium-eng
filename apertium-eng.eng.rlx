@@ -73,6 +73,10 @@ REMOVE (vblex) IF (-1 (gen)) ;
 
 REMOVE (preadv) IF (1 (cm)) ;
 
+#Lemmas that are N or V: Inf if preposition precedes it
+SELECT Inf IF (0 Inf) (0 N) (-1 To) ;
+SELECT Inf IF (0 Inf) (0 N) (-1 Adv) (-2 To) ;
+
 #Lemmas that are N or V: N if DET/ADJ/PR precedes it
 SELECT N IF (0 N) (0 V) (-1 Pr) ;
 SELECT N IF (0 N) (0 V) (-1 Det) ;
