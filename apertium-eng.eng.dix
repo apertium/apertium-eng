@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 55320
+	Entries: 55419
 	Sdefs: 85
 	Paradigms: 381
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -22587,6 +22587,105 @@
 <e lm="gamma ray">       <i>gamma<b/>ray</i><par n="house__n"/></e>
 <e lm="emissary">        <i>emissar</i><par n="bab/y__n"/></e>
 <e lm="notch">           <i>notch</i><par n="access__n"/></e>
+<e lm="boarding">        <i>boarding</i><par n="house__n"/></e>
+<e lm="finishing">       <i>finishing</i><par n="house__n"/></e>
+<e lm="measuring">       <i>measuring</i><par n="house__n"/></e>
+<e lm="lifting">         <i>lifting</i><par n="house__n"/></e>
+<e lm="damping">         <i>damping</i><par n="house__n"/></e>
+<e lm="dressing">        <i>dressing</i><par n="house__n"/></e>
+<e lm="deepening">       <i>deepening</i><par n="house__n"/></e>
+<e lm="drying">          <i>drying</i><par n="house__n"/></e>
+<e lm="assembling">      <i>assembling</i><par n="house__n"/></e>
+<e lm="hitchhiking">     <i>hitchhiking</i><par n="house__n"/></e>
+<e lm="diving">          <i>diving</i><par n="house__n"/></e>
+<e lm="sling">           <i>sling</i><par n="house__n"/></e>
+<e lm="calendering">     <i>calendering</i><par n="house__n"/></e>
+<e lm="enabling">        <i>enabling</i><par n="house__n"/></e>
+<e lm="carding">         <i>carding</i><par n="house__n"/></e>
+<e lm="tacking">         <i>tacking</i><par n="house__n"/></e>
+<e lm="shearing">        <i>shearing</i><par n="house__n"/></e>
+<e lm="keyring">         <i>keyring</i><par n="house__n"/></e>
+<e lm="cloning">         <i>cloning</i><par n="house__n"/></e>
+<e lm="freezing">        <i>freezing</i><par n="house__n"/></e>
+<e lm="contracting">     <i>contracting</i><par n="house__n"/></e>
+<e lm="breeding">        <i>breeding</i><par n="house__n"/></e>
+<e lm="pup">             <i>pup</i><par n="house__n"/></e>
+<e lm="pickle">          <i>pickle</i><par n="house__n"/></e>
+<e lm="decasyllable">    <i>decasyllable</i><par n="house__n"/></e>
+<e lm="decatizing">      <i>decatizing</i><par n="house__n"/></e>
+<e lm="debugging">       <i>debugging</i><par n="house__n"/></e>
+<e lm="skidding">        <i>skidding</i><par n="house__n"/></e>
+<e lm="Darwinism">       <i>Darwinism</i><par n="house__n"/></e>
+<e lm="declutching">     <i>declutching</i><par n="house__n"/></e>
+<e lm="degreasing">      <i>degreasing</i><par n="house__n"/></e>
+<e lm="taming">          <i>taming</i><par n="house__n"/></e>
+<e lm="bottling">        <i>bottling</i><par n="house__n"/></e>
+<e lm="clutching">       <i>clutching</i><par n="house__n"/></e>
+<e lm="masking">         <i>masking</i><par n="house__n"/></e>
+<e lm="strapping">       <i>strapping</i><par n="house__n"/></e>
+<e lm="chaining">        <i>chaining</i><par n="house__n"/></e>
+<e lm="priming">         <i>priming</i><par n="house__n"/></e>
+<e lm="shaving">         <i>shaving</i><par n="house__n"/></e>
+<e lm="blackening">      <i>blackening</i><par n="house__n"/></e>
+<e lm="binding">         <i>binding</i><par n="house__n"/></e>
+<e lm="spalling">        <i>spalling</i><par n="house__n"/></e>
+<e lm="scanning">        <i>scanning</i><par n="house__n"/></e>
+<e lm="spacing">         <i>spacing</i><par n="house__n"/></e>
+<e lm="sphincter">       <i>sphincter</i><par n="house__n"/></e>
+<e lm="sparring">        <i>sparring</i><par n="house__n"/></e>
+<e lm="detailing">       <i>detailing</i><par n="house__n"/></e>
+<e lm="dribbling">       <i>dribbling</i><par n="house__n"/></e>
+<e lm="stamping">        <i>stamping</i><par n="house__n"/></e>
+<e lm="fading">          <i>fading</i><par n="house__n"/></e>
+<e lm="signing">         <i>signing</i><par n="house__n"/></e>
+<e lm="flare-up">        <i>flare-up</i><par n="house__n"/></e>
+<e lm="nogging">         <i>nogging</i><par n="house__n"/></e>
+<e lm="oiling">          <i>oiling</i><par n="house__n"/></e>
+<e lm="moistenings">     <i>moistenings</i><par n="house__n"/></e>
+<e lm="leading">         <i>leading</i><par n="house__n"/></e>
+<e lm="overcrowding">    <i>overcrowding</i><par n="house__n"/></e>
+<e lm="molding">         <i>molding</i><par n="house__n"/></e>
+<e lm="milking">         <i>milking</i><par n="house__n"/></e>
+<e lm="arranging">       <i>arranging</i><par n="house__n"/></e>
+<e lm="blinking">        <i>blinking</i><par n="house__n"/></e>
+<e lm="folding">         <i>folding</i><par n="house__n"/></e>
+<e lm="polishing">       <i>polishing</i><par n="house__n"/></e>
+<e lm="pressing">        <i>pressing</i><par n="house__n"/></e>
+<e lm="rayon">           <i>rayon</i><par n="house__n"/></e>
+<e lm="reviewing">       <i>reviewing</i><par n="house__n"/></e>
+<e lm="redrafting">      <i>redrafting</i><par n="house__n"/></e>
+<e lm="relay">           <i>relay</i><par n="house__n"/></e>
+<e lm="washing">         <i>washing</i><par n="house__n"/></e>
+<e lm="scolding">        <i>scolding</i><par n="house__n"/></e>
+<e lm="shrinking">       <i>shrinking</i><par n="house__n"/></e>
+<e lm="silviculturist">  <i>silviculturist</i><par n="house__n"/></e>
+<e lm="dyeing">          <i>dyeing</i><par n="house__n"/></e>
+<e lm="thermoforming">   <i>thermoforming</i><par n="house__n"/></e>
+<e lm="wiredrawing">     <i>wiredrawing</i><par n="house__n"/></e>
+<e lm="usurper">         <i>usurper</i><par n="house__n"/></e>
+<e lm="Venezuelan">      <i>Venezuelan</i><par n="house__n"/></e>
+<e lm="bonding">         <i>bonding</i><par n="house__n"/></e>
+<e lm="blasting">        <i>blasting</i><par n="house__n"/></e>
+<e lm="tempering">       <i>tempering</i><par n="house__n"/></e>
+<e lm="living being">    <i>living<b/>being</i><par n="house__n"/></e>
+<e lm="vulcanologist">   <i>vulcanologist</i><par n="house__n"/></e>
+<e lm="pisciculture">    <i>pisciculture</i><par n="house__n"/></e>
+<e lm="guide dog">       <i>guide<b/>dog</i><par n="house__n"/></e>
+<e lm="thyristor">       <i>thyristor</i><par n="house__n"/></e>
+<e lm="terminologist">   <i>terminologist</i><par n="house__n"/></e>
+<e lm="therapist">       <i>therapist</i><par n="house__n"/></e>
+<e lm="cab driver">      <i>cab<b/>driver</i><par n="house__n"/></e>
+<e lm="subnetwork">      <i>subnetwork</i><par n="house__n"/></e>
+<e lm="subdelegate">     <i>subdelegate</i><par n="house__n"/></e>
+<e lm="reformulation">   <i>reformulation</i><par n="house__n"/></e>
+<e lm="reflector">       <i>reflector</i><par n="house__n"/></e>
+<e lm="relapse">         <i>relapse</i><par n="house__n"/></e>
+<e lm="primrose">        <i>primrose</i><par n="house__n"/></e>
+<e lm="plague">          <i>plague</i><par n="house__n"/></e>
+<e lm="pigment">         <i>pigment</i><par n="house__n"/></e>
+<e lm="pastor">          <i>pastor</i><par n="house__n"/></e>
+<e lm="peacock">         <i>peacock</i><par n="house__n"/></e>
+<e lm="peahen">          <i>peahen</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
