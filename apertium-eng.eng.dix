@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 55721
+	Entries: 55856
 	Sdefs: 85
 	Paradigms: 381
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -8560,8 +8560,8 @@
 <e lm="diaphragm">       <i>diaphragm</i><par n="house__n"/></e>
 <e lm="diary">           <i>diar</i><par n="bab/y__n"/></e>
 <e lm="diarist">         <i>diarist</i><par n="house__n"/></e>
-<e lm="diarrhea">        <i>diarrhea</i><par n="east__n"/></e>
-<e lm="diarrhoea">       <i>diarrhoea</i><par n="east__n"/></e>
+<e lm="diarrhea">        <i>diarrhea</i><par n="house__n"/></e>
+<e lm="diarrhoea">       <i>diarrhoea</i><par n="house__n"/></e>
 <e lm="diarthrosis">     <i>diarthros</i><par n="analys/is__n"/></e>
 <e lm="diaspora">        <i>diaspora</i><par n="house__n"/></e>
 <e lm="diastema">        <i>diastema</i><par n="schema__n"/></e>
@@ -13008,7 +13008,7 @@
 <e lm="krona">           <i>krona</i><par n="staff__n"/></e>
 <e lm="krypton">         <i>krypton</i><par n="house__n"/></e>
 <e lm="kudos">           <i>kudos</i><par n="personnel__n"/></e>
-<e lm="kumquat">          <i>kumquat</i><par n="house__n"/></e>
+<e lm="kumquat">         <i>kumquat</i><par n="house__n"/></e>
 <e lm="Kurd">            <i>Kurd</i><par n="house__n"/></e>
 <e lm="kurtosis">        <i>kurtos</i><par n="analys/is__n"/></e>
 <e lm="labeling" c="(US)"><i>labeling</i><par n="house__n"/></e>
@@ -18513,6 +18513,7 @@
 <e lm="scuttle">         <i>scuttle</i><par n="house__n"/></e>
 <e lm="scythe">          <i>scythe</i><par n="house__n"/></e>
 <e lm="sea-air">         <i>sea-air</i><par n="east__n"/></e>
+<e lm="sea bass">        <i>sea<b/>bass</i><par n="bass__n"/></e>
 <e lm="seabed">          <i>seabed</i><par n="house__n"/></e>
 <e lm="sea food">        <i>sea<b/>food</i><par n="house__n"/></e>
 <e lm="sea level">       <i>sea<b/>level</i><par n="house__n"/></e>
@@ -20721,7 +20722,7 @@
 <e lm="thylacine">       <i>thylacine</i><par n="house__n"/></e>
 <e lm="thymecthomy">     <i>thymecthom</i><par n="bab/y__n"/></e>
 <e lm="thyme">           <i>thyme</i><par n="house__n"/></e>
-<e lm="thyroxine">       <i>thyroxine</i><par n="east__n"/></e>
+<e lm="thyroxine">       <i>thyroxine</i><par n="house__n"/></e>
 <e lm="Tibetan">         <i>Tibetan</i><par n="house__n"/></e>
 <e lm="tibia">           <i>tibia</i><par n="larva__n"/></e>
 <e lm="tic">             <i>tic</i><par n="house__n"/></e>
@@ -22383,7 +22384,7 @@
 <e lm="youth hostel">    <i>youth<b/>hostel</i><par n="house__n"/></e>
 <e lm="youthfulness">    <i>youthfulness</i><par n="access__n"/></e>
 <e lm="youth">           <i>youth</i><par n="house__n"/></e>
-<e lm="Tyrolese">        <par n="Tt"/><i>yrolese</i><par n="Dutch__n"/></e>
+<e lm="Tyrolese">        <i>Tyrolese</i><par n="Dutch__n"/></e>
 <e lm="ytterbium">       <i>ytterbium</i><par n="east__n"/></e>
 <e lm="yttrium">         <i>yttrium</i><par n="house__n"/></e>
 <e lm="yurt">            <i>yurt</i><par n="house__n"/></e>
@@ -23012,6 +23013,114 @@
 <e lm="cutwater">        <i>cutwater</i><par n="house__n"/></e>
 <e lm="shutdown">        <i>shutdown</i><par n="house__n"/></e>
 <e lm="bulletin board">  <i>bulletin<b/>board</i><par n="house__n"/></e>
+<e lm="motif">           <i>motif</i><par n="house__n"/></e>
+<e lm="tensiometer">     <i>tensiometer</i><par n="house__n"/></e>
+<e lm="thermograph">     <i>thermograph</i><par n="house__n"/></e>
+<e lm="flat roof">       <i>flat<b/>roof</i><par n="house__n"/></e>
+<e lm="molehead">        <i>molehead</i><par n="house__n"/></e>
+<e lm="vat">             <i>vat</i><par n="house__n"/></e>
+<e lm="starting signal"> <i>starting<b/>signal</i><par n="house__n"/></e>
+<e lm="triphthong">      <i>triphthong</i><par n="house__n"/></e>
+<e lm="trill">           <i>trill</i><par n="house__n"/></e>
+<e lm="crusher">         <i>crusher</i><par n="house__n"/></e>
+<e lm="trout">           <i>trout</i><par n="house__n"/></e>
+<e lm="cowgirl">         <i>cowgirl</i><par n="house__n"/></e>
+<e lm="sucker">          <i>sucker</i><par n="house__n"/></e>
+<e lm="litter">          <i>litter</i><par n="house__n"/></e>
+<e lm="spill">           <i>spill</i><par n="house__n"/></e>
+<e lm="viscosimeter">    <i>viscosimeter</i><par n="house__n"/></e>
+<e lm="visor">           <i>visor</i><par n="house__n"/></e>
+<e lm="viticulture">     <i>viticulture</i><par n="house__n"/></e>
+<e lm="outrigger">       <i>outrigger</i><par n="house__n"/></e>
+<e lm="volley">          <i>volley</i><par n="house__n"/></e>
+<e lm="scrollwork">      <i>scrollwork</i><par n="house__n"/></e>
+<e lm="voodoo">          <i>voodoo</i><par n="house__n"/></e>
+<e lm="chancre">         <i>chancre</i><par n="house__n"/></e>
+<e lm="sip">             <i>sip</i><par n="house__n"/></e>
+<e lm="bounced cheque">  <i>bounced<b/>cheque</i><par n="house__n"/></e>
+<e lm="zoom">            <i>zoom</i><par n="house__n"/></e>
+<e lm="garrigue">        <i>garrigue</i><par n="house__n"/></e>
+<e lm="homonym">         <i>homonym</i><par n="house__n"/></e>
+<e lm="spit">            <i>spit</i><par n="house__n"/></e>
+<e lm="refrigerant">     <i>refrigerant</i><par n="house__n"/></e>
+<e lm="thicknesser">     <i>thicknesser</i><par n="house__n"/></e>
+<e lm="synchrotron">     <i>synchrotron</i><par n="house__n"/></e>
+<e lm="cryoglobulin">    <i>cryoglobulin</i><par n="house__n"/></e>
+<e lm="proclitic">       <i>proclitic</i><par n="house__n"/></e>
+<e lm="dendrite">        <i>dendrite</i><par n="house__n"/></e>
+<e lm="deodorant">       <i>deodorant</i><par n="house__n"/></e>
+<e lm="anosmia">         <i>anosmia</i><par n="house__n"/></e>
+<e lm="circulator">      <i>circulator</i><par n="house__n"/></e>
+<e lm="ceramist">        <i>ceramist</i><par n="house__n"/></e>
+<e lm="cosponsorship">   <i>cosponsorship</i><par n="house__n"/></e>
+<e lm="demultiplexer">   <i>demultiplexer</i><par n="house__n"/></e>
+<e lm="dumper">          <i>dumper</i><par n="house__n"/></e>
+<e lm="luxmeter">        <i>luxmeter</i><par n="house__n"/></e>
+<e lm="conformist">      <i>conformist</i><par n="house__n"/></e>
+<e lm="functionalist">   <i>functionalist</i><par n="house__n"/></e>
+<e lm="tramp">           <i>tramp</i><par n="house__n"/></e>
+<e lm="social democrat"> <i>social<b/>democrat</i><par n="house__n"/></e>
+<e lm="affront">         <i>affront</i><par n="house__n"/></e>
+<e lm="escritoire">      <i>escritoire</i><par n="house__n"/></e>
+<e lm="arsenate">        <i>arsenate</i><par n="house__n"/></e>
+<e lm="bainite">         <i>bainite</i><par n="house__n"/></e>
+<e lm="bard">            <i>bard</i><par n="house__n"/></e>
+<e lm="lair">            <i>lair</i><par n="house__n"/></e>
+<e lm="cellulose">       <i>cellulose</i><par n="house__n"/></e>
+<e lm="celom">           <i>celom</i><par n="house__n"/></e>
+<e lm="seeker">          <i>seeker</i><par n="house__n"/></e>
+<e lm="fawn">            <i>fawn</i><par n="house__n"/></e>
+<e lm="cyclostome">      <i>cyclostome</i><par n="house__n"/></e>
+<e lm="cybernaut">       <i>cybernaut</i><par n="house__n"/></e>
+<e lm="cladogram">       <i>cladogram</i><par n="house__n"/></e>
+<e lm="clef">            <i>clef</i><par n="house__n"/></e>
+<e lm="bedspread">       <i>bedspread</i><par n="house__n"/></e>
+<e lm="codicil">         <i>codicil</i><par n="house__n"/></e>
+<e lm="hobble">          <i>hobble</i><par n="house__n"/></e>
+<e lm="conchoid">        <i>conchoid</i><par n="house__n"/></e>
+<e lm="concordance">     <i>concordance</i><par n="house__n"/></e>
+<e lm="concord">         <i>concord</i><par n="house__n"/></e>
+<e lm="concurrence">     <i>concurrence</i><par n="house__n"/></e>
+<e lm="condolence">      <i>condolence</i><par n="house__n"/></e>
+<e lm="configurator">    <i>configurator</i><par n="house__n"/></e>
+<e lm="juncture">        <i>juncture</i><par n="house__n"/></e>
+<e lm="concierge">       <i>concierge</i><par n="house__n"/></e>
+<e lm="checkroom">       <i>checkroom</i><par n="house__n"/></e>
+<e lm="consort">         <i>consort</i><par n="house__n"/></e>
+<e lm="countershaft">    <i>countershaft</i><par n="house__n"/></e>
+<e lm="corymb">          <i>corymb</i><par n="house__n"/></e>
+<e lm="cotton plant">    <i>cotton<b/>plant</i><par n="house__n"/></e>
+<e lm="burner">          <i>burner</i><par n="house__n"/></e>
+<e lm="crusader">        <i>crusader</i><par n="house__n"/></e>
+<e lm="cryptogram">      <i>cryptogram</i><par n="house__n"/></e>
+<e lm="coupé">           <i>coupé</i><par n="house__n"/></e>
+<e lm="cursor">          <i>cursor</i><par n="house__n"/></e>
+<e lm="short film">      <i>short<b/>film</i><par n="house__n"/></e>
+<e lm="cuticle">         <i>cuticle</i><par n="house__n"/></e>
+<e lm="dactylogram">     <i>dactylogram</i><par n="house__n"/></e>
+<e lm="decalogue">       <i>decalogue</i><par n="house__n"/></e>
+<e lm="declinator">      <i>declinator</i><par n="house__n"/></e>
+<e lm="deltoid">         <i>deltoid</i><par n="house__n"/></e>
+<e lm="impudence">       <i>impudence</i><par n="house__n"/></e>
+<e lm="wild abandon">    <i>wild<b/>abandon</i><par n="house__n"/></e>
+<e lm="snub">            <i>snub</i><par n="house__n"/></e>
+<e lm="dextrose">        <i>dextrose</i><par n="house__n"/></e>
+<e lm="diapason">        <i>diapason</i><par n="house__n"/></e>
+<e lm="barb">            <i>barb</i><par n="house__n"/></e>
+<e lm="foxglove">        <i>foxglove</i><par n="house__n"/></e>
+<e lm="dielectric">      <i>dielectric</i><par n="house__n"/></e>
+<e lm="dithyramb">       <i>dithyramb</i><par n="house__n"/></e>
+<e lm="docudrama">       <i>docudrama</i><par n="house__n"/></e>
+<e lm="chink">           <i>chink</i><par n="house__n"/></e>
+<e lm="Egyptologist">    <i>Egyptologist</i><par n="house__n"/></e>
+<e lm="eclogue">         <i>eclogue</i><par n="house__n"/></e>
+<e lm="electrometer">    <i>electrometer</i><par n="house__n"/></e>
+<e lm="Kurdish">         <i>Kurdish</i><par n="Dutch__n"/></e>
+<e lm="Swedish">         <i>Swedish</i><par n="Dutch__n"/></e>
+<e lm="Cornish">         <i>Cornish</i><par n="Dutch__n"/></e>
+<e lm="puff pastry">     <i>puff<b/>pastr</i><par n="bab/y__n"/></e>
+<e lm="tenancy">         <i>tenanc</i><par n="bab/y__n"/></e>
+<e lm="subtlety">        <i>subtlet</i><par n="bab/y__n"/></e>
 
     <!-- Acronyms -->
 
@@ -25669,6 +25778,7 @@
 <e lm="purify">          <i>purif</i><par n="appl/y__vblex"/></e>
 <e lm="purport">         <i>purport</i><par n="accept__vblex"/></e>
 <e lm="purr">            <i>purr</i><par n="accept__vblex"/></e>
+<e lm="purse">           <i>purs</i><par n="liv/e__vblex"/></e>
 <e lm="pursue">          <i>pursu</i><par n="liv/e__vblex"/></e>
 <e lm="push">            <i>push</i><par n="approach__vblex"/></e>
 <e lm="put">             <i>put</i><par n="cut__vblex"/></e>
@@ -26547,6 +26657,7 @@
 <e lm="transcribe">      <i>transcrib</i><par n="liv/e__vblex"/></e>
 <e lm="transfer">        <i>transfer</i><par n="occur__vblex"/></e>
 <e lm="transform">       <i>transform</i><par n="accept__vblex"/></e>
+<e lm="transgress">      <i>transgress</i><par n="approach__vblex"/></e>
 <e lm="transition">      <i>transition</i><par n="accept__vblex"/></e>
 <e lm="transit">         <i>transit</i><par n="accept__vblex"/></e>
 <e lm="translate">       <i>translat</i><par n="liv/e__vblex"/></e>
