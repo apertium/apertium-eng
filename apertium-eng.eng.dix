@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 55856
+	Entries: 55820
 	Sdefs: 85
 	Paradigms: 381
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -24430,6 +24430,7 @@
 <e lm="dream">           <i>dream</i><par n="accept__vblex"/></e>
 <e r="LR" lm="dream">    <i>dream</i><par n="deal__vblex"/></e>
 <e lm="dredge">          <i>dredg</i><par n="liv/e__vblex"/></e>
+<e lm="drench">          <i>drench</i><par n="approach__vblex"/></e>
 <e lm="dress">           <i>dress</i><par n="approach__vblex"/></e>
 <e lm="dress up">        <i>dress</i><par n="approach__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
 <e lm="dribble">         <i>dribbl</i><par n="liv/e__vblex"/></e>
@@ -52536,11 +52537,9 @@
 <e lm="Macbeth">         <i>Macbeth</i><par n="Smith__np"/></e>
 <e lm="MacDermott">      <i>MacDermott</i><par n="Smith__np"/></e>
 <e lm="Macdonald">       <i>Macdonald</i><par n="Smith__np"/></e>
-<e lm="MacDonald">       <i>MacDonald</i><par n="Smith__np"/></e>
 <e lm="Macedo">          <i>Macedo</i><par n="Smith__np"/></e>
 <e lm="Macfarlane">      <i>Macfarlane</i><par n="Smith__np"/></e>
 <e lm="Macgregor">       <i>Macgregor</i><par n="Smith__np"/></e>
-<e lm="MacGregor">       <i>MacGregor</i><par n="Smith__np"/></e>
 <e lm="MacGyver">        <i>MacGyver</i><par n="Smith__np"/></e>
 <e lm="Machabée">        <i>Machabée</i><par n="Smith__np"/></e>
 <e lm="Machado">         <i>Machado</i><par n="Smith__np"/></e>
@@ -52560,7 +52559,6 @@
 <e lm="Mack">            <i>Mack</i><par n="Smith__np"/></e>
 <e lm="MacLean">         <i>MacLean</i><par n="Smith__np"/></e>
 <e lm="Macleod">         <i>Macleod</i><par n="Smith__np"/></e>
-<e lm="MacLeod">         <i>MacLeod</i><par n="Smith__np"/></e>
 <e lm="MacMahon">        <i>MacMahon</i><par n="Smith__np"/></e>
 <e lm="MacMillan">       <i>MacMillan</i><par n="Smith__np"/></e>
 <e lm="MacNamara">       <i>MacNamara</i><par n="Smith__np"/></e>
@@ -52964,41 +52962,30 @@
 <e lm="McAleese">        <i>McAleese</i><par n="Smith__np"/></e>
 <e lm="McAllister">      <i>McAllister</i><par n="Smith__np"/></e>
 <e lm="Mcarthur">        <i>Mcarthur</i><par n="Smith__np"/></e>
-<e lm="McArthur">        <i>McArthur</i><par n="Smith__np"/></e>
 <e lm="McAulay">         <i>McAulay</i><par n="Smith__np"/></e>
 <e lm="McBean">          <i>McBean</i><par n="Smith__np"/></e>
 <e lm="McBrearty">       <i>McBrearty</i><par n="Smith__np"/></e>
 <e lm="McBride">         <i>McBride</i><par n="Smith__np"/></e>
 <e lm="Mccabe">          <i>Mccabe</i><par n="Smith__np"/></e>
-<e lm="McCabe">          <i>McCabe</i><par n="Smith__np"/></e>
 <e lm="McCain">          <i>McCain</i><par n="Smith__np"/></e>
 <e lm="Mccallum">        <i>Mccallum</i><par n="Smith__np"/></e>
-<e lm="McCallum">        <i>McCallum</i><par n="Smith__np"/></e>
 <e lm="Mccann">          <i>Mccann</i><par n="Smith__np"/></e>
 <e lm="Mccarthy">        <i>Mccarthy</i><par n="Smith__np"/></e>
-<e lm="McCarthy">        <i>McCarthy</i><par n="Smith__np"/></e>
 <e lm="Mccartney">       <i>Mccartney</i><par n="Smith__np"/></e>
-<e lm="McCartney">       <i>McCartney</i><par n="Smith__np"/></e>
 <e lm="McClellan">       <i>McClellan</i><par n="Smith__np"/></e>
 <e lm="McClure">         <i>McClure</i><par n="Smith__np"/></e>
 <e lm="McComber">        <i>McComber</i><par n="Smith__np"/></e>
 <e lm="McConnell">       <i>McConnell</i><par n="Smith__np"/></e>
 <e lm="McConnor">        <i>McConnor</i><par n="Smith__np"/></e>
 <e lm="Mccormack">       <i>Mccormack</i><par n="Smith__np"/></e>
-<e lm="McCormack">       <i>McCormack</i><par n="Smith__np"/></e>
 <e lm="Mccormick">       <i>Mccormick</i><par n="Smith__np"/></e>
-<e lm="McCormick">       <i>McCormick</i><par n="Smith__np"/></e>
 <e lm="McCoy">           <i>McCoy</i><par n="Smith__np"/></e>
 <e lm="McCreedy">        <i>McCreedy</i><par n="Smith__np"/></e>
 <e lm="Mcculloch">       <i>Mcculloch</i><par n="Smith__np"/></e>
-<e lm="McCullough">      <i>McCullough</i><par n="Smith__np"/></e>
 <e lm="McCutcheon">      <i>McCutcheon</i><par n="Smith__np"/></e>
 <e lm="Mcdermott">       <i>Mcdermott</i><par n="Smith__np"/></e>
-<e lm="McDermott">       <i>McDermott</i><par n="Smith__np"/></e>
 <e lm="Mcdonald">        <i>Mcdonald</i><par n="Smith__np"/></e>
-<e lm="McDonald">        <i>McDonald</i><par n="Smith__np"/></e>
 <e lm="Mcdonnell">       <i>Mcdonnell</i><par n="Smith__np"/></e>
-<e lm="McDonnell">       <i>McDonnell</i><par n="Smith__np"/></e>
 <e lm="McDougall">       <i>McDougall</i><par n="Smith__np"/></e>
 <e lm="McDowell">        <i>McDowell</i><par n="Smith__np"/></e>
 <e lm="McDuck">          <i>McDuck</i><par n="Smith__np"/></e>
@@ -53007,76 +52994,54 @@
 <e lm="McEwan">          <i>McEwan</i><par n="Smith__np"/></e>
 <e lm="McFadden">        <i>McFadden</i><par n="Smith__np"/></e>
 <e lm="Mcfarlane">       <i>Mcfarlane</i><par n="Smith__np"/></e>
-<e lm="McFarlane">       <i>McFarlane</i><par n="Smith__np"/></e>
 <e lm="McFeen">          <i>McFeen</i><par n="Smith__np"/></e>
 <e lm="McGee">           <i>McGee</i><par n="Smith__np"/></e>
 <e lm="Mcghee">          <i>Mcghee</i><par n="Smith__np"/></e>
 <e lm="Mcgill">          <i>Mcgill</i><par n="Smith__np"/></e>
 <e lm="McGovern">        <i>McGovern</i><par n="Smith__np"/></e>
 <e lm="Mcgowan">         <i>Mcgowan</i><par n="Smith__np"/></e>
-<e lm="McGowan">         <i>McGowan</i><par n="Smith__np"/></e>
 <e lm="Mcgrath">         <i>Mcgrath</i><par n="Smith__np"/></e>
-<e lm="McGrath">         <i>McGrath</i><par n="Smith__np"/></e>
 <e lm="McGraw">          <i>McGraw</i><par n="Smith__np"/></e>
 <e lm="Mcgregor">        <i>Mcgregor</i><par n="Smith__np"/></e>
-<e lm="McGregor">        <i>McGregor</i><par n="Smith__np"/></e>
 <e lm="Mcguiness">       <i>Mcguiness</i><par n="Bush__np"/></e>
 <e lm="Mcguire">         <i>Mcguire</i><par n="Smith__np"/></e>
-<e lm="McGuire">         <i>McGuire</i><par n="Smith__np"/></e>
 <e lm="McGwire">         <i>McGwire</i><par n="Smith__np"/></e>
 <e lm="McHaverty">       <i>McHaverty</i><par n="Smith__np"/></e>
 <e lm="McInnis">         <i>McInnis</i><par n="Gauss__np"/></e>
-<e lm="McIntosh">        <i>McIntosh</i><par n="Bush__np"/></e>
 <e lm="Mcintosh">        <i>Mcintosh</i><par n="Smith__np"/></e>
 <e lm="Mcintyre">        <i>Mcintyre</i><par n="Smith__np"/></e>
-<e lm="McIntyre">        <i>McIntyre</i><par n="Smith__np"/></e>
 <e lm="McIsaac">         <i>McIsaac</i><par n="Smith__np"/></e>
 <e lm="Mckay">           <i>Mckay</i><par n="Smith__np"/></e>
-<e lm="McKay">           <i>McKay</i><par n="Smith__np"/></e>
 <e lm="McKee">           <i>McKee</i><par n="Smith__np"/></e>
 <e lm="McKellen">        <i>McKellen</i><par n="Smith__np"/></e>
 <e lm="McKelvey">        <i>McKelvey</i><par n="Smith__np"/></e>
 <e lm="Mckenna">         <i>Mckenna</i><par n="Smith__np"/></e>
-<e lm="McKenna">         <i>McKenna</i><par n="Smith__np"/></e>
 <e lm="Mckenzie">        <i>Mckenzie</i><par n="Smith__np"/></e>
-<e lm="McKenzie">        <i>McKenzie</i><par n="Smith__np"/></e>
 <e lm="Mckeown">         <i>Mckeown</i><par n="Smith__np"/></e>
-<e lm="McKeown">         <i>McKeown</i><par n="Smith__np"/></e>
 <e lm="McKinley">        <i>McKinley</i><par n="Smith__np"/></e>
 <e lm="McKinnon">        <i>McKinnon</i><par n="Smith__np"/></e>
 <e lm="McLaren">         <i>McLaren</i><par n="Smith__np"/></e>
 <e lm="Mclaughlin">      <i>Mclaughlin</i><par n="Smith__np"/></e>
-<e lm="McLaughlin">      <i>McLaughlin</i><par n="Smith__np"/></e>
 <e lm="Mclean">          <i>Mclean</i><par n="Smith__np"/></e>
-<e lm="McLean">          <i>McLean</i><par n="Smith__np"/></e>
 <e lm="Mclellan">        <i>Mclellan</i><par n="Smith__np"/></e>
-<e lm="McLellan">        <i>McLellan</i><par n="Smith__np"/></e>
 <e lm="Mcleod">          <i>Mcleod</i><par n="Smith__np"/></e>
-<e lm="McLeod">          <i>McLeod</i><par n="Smith__np"/></e>
 <e lm="Mcloughlin">      <i>Mcloughlin</i><par n="Smith__np"/></e>
-<e lm="McLoughlin">      <i>McLoughlin</i><par n="Smith__np"/></e>
 <e lm="McLuhan">         <i>McLuhan</i><par n="Smith__np"/></e>
 <e lm="McLure">          <i>McLure</i><par n="Smith__np"/></e>
 <e lm="Mcmahon">         <i>Mcmahon</i><par n="Smith__np"/></e>
-<e lm="McMahon">         <i>McMahon</i><par n="Smith__np"/></e>
-<e lm="McManus">         <i>McManus</i><par n="Gauss__np"/></e>
 <e lm="Mcmanus">         <i>Mcmanus</i><par n="Smith__np"/></e>
 <e lm="McMartin">        <i>McMartin</i><par n="Smith__np"/></e>
 <e lm="Mcmillan">        <i>Mcmillan</i><par n="Smith__np"/></e>
-<e lm="McMillan">        <i>McMillan</i><par n="Smith__np"/></e>
 <e lm="McMullen">        <i>McMullen</i><par n="Smith__np"/></e>
 <e lm="McMurray">        <i>McMurray</i><par n="Smith__np"/></e>
 <e lm="McNab">           <i>McNab</i><par n="Smith__np"/></e>
 <e lm="McNally">         <i>McNally</i><par n="Smith__np"/></e>
 <e lm="McNamara">        <i>McNamara</i><par n="Smith__np"/></e>
 <e lm="Mcneil">          <i>Mcneil</i><par n="Smith__np"/></e>
-<e lm="McNeil">          <i>McNeil</i><par n="Smith__np"/></e>
 <e lm="Mcneill">         <i>Mcneill</i><par n="Smith__np"/></e>
 <e lm="McNicoll">        <i>McNicoll</i><par n="Smith__np"/></e>
 <e lm="Mcphee">          <i>Mcphee</i><par n="Smith__np"/></e>
-<e lm="McPhee">          <i>McPhee</i><par n="Smith__np"/></e>
 <e lm="Mcpherson">       <i>Mcpherson</i><par n="Smith__np"/></e>
-<e lm="McPherson">       <i>McPherson</i><par n="Smith__np"/></e>
 <e lm="McRae">           <i>McRae</i><par n="Smith__np"/></e>
 <e lm="McShee">          <i>McShee</i><par n="Smith__np"/></e>
 <e lm="McSween">         <i>McSween</i><par n="Smith__np"/></e>
@@ -56650,7 +56615,6 @@
 <e lm="van der Waals">   <i>van<b/>der<b/>Waals</i><par n="Bush__np"/></e>
 <e lm="van Eyck">        <i>van<b/>Eyck</i><par n="Smith__np"/></e>
 <e lm="van Gogh">        <i>van<b/>Gogh</i><par n="Smith__np"/></e>
-<e lm="Van Gogh">        <i>Van<b/>Gogh</i><par n="Smith__np"/></e>
 <e lm="van Leeuwenhoek"> <i>van<b/>Leeuwenhoek</i><par n="Smith__np"/></e>
 <e lm="van Orden">       <i>van<b/>Orden</i><par n="Smith__np"/></e>
 <e lm="Vancells">        <i>Vancells</i><par n="Gauss__np"/></e>
