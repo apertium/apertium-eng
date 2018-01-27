@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56097
+	Entries: 56098
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -11203,6 +11203,7 @@
 <e lm="great-grandmother"><i>great-grandmother</i><par n="house__n"/></e>
 <e lm="great-grandparent"><i>great-grandparent</i><par n="house__n"/></e>
 <e lm="great-grandson">  <i>great-grandson</i><par n="house__n"/></e>
+<e lm="great-granddaughter"><i>great-granddaughter</i><par n="house__n"/></e>
 <e lm="great-great-grandfather"><i>great-great-grandfather</i><par n="house__n"/></e>
 <e lm="great-great-grandmother"><i>great-great-grandmother</i><par n="house__n"/></e>
 <e lm="great-great-grandparent"><i>great-great-grandparent</i><par n="house__n"/></e>
