@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56098
+	Entries: 56104
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -25494,6 +25494,7 @@
 <e lm="jiggle">          <i>jiggl</i><par n="liv/e__vblex"/></e>
 <e lm="jog">             <i>jog</i><par n="plug__vblex"/></e>
 <e lm="join">            <i>join</i><par n="accept__vblex"/></e>
+<e lm="join up">         <i>join</i><par n="accept__vblex__sep"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
 <e lm="joint">           <i>joint</i><par n="accept__vblex"/></e>
 <e lm="joke">            <i>jok</i><par n="liv/e__vblex"/></e>
 <e lm="judge">           <i>judg</i><par n="liv/e__vblex"/></e>
@@ -25518,7 +25519,8 @@
 <e lm="knight">          <i>knight</i><par n="accept__vblex"/></e>
 <e lm="knit">            <i>knit</i><par n="admit__vblex"/></e>
 <e lm="knock">           <i>knock</i><par n="accept__vblex"/></e>
-<e lm="knock out">       <i>knock</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
+<e lm="knock out">       <i>knock</i><par n="accept__vblex__sep"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
+<e lm="knock down">      <i>knock</i><par n="accept__vblex__sep"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
 <e lm="knot">            <i>knot</i><par n="admit__vblex"/></e>
 <e lm="know">            <i>kn</i><par n="bl/ow__vblex"/></e>
 <e lm="know the way">    <i>kn</i><par n="bl/ow__vblex"/><p><l><b/>the<b/>way</l><r><g><b/>the<b/>way</g></r></p></e>
@@ -26899,7 +26901,6 @@
 <e lm="tempt">           <i>tempt</i><par n="accept__vblex"/></e>
 <e lm="tend">            <i>tend</i><par n="accept__vblex"/></e>
 <e lm="tense">           <i>tens</i><par n="liv/e__vblex"/></e>
-<e lm="terminate">       <i>terminate</i><par n="accept__vblex"/></e>
 <e lm="terminate">       <i>terminat</i><par n="liv/e__vblex"/></e>
 <e lm="term">            <i>term</i><par n="accept__vblex"/></e>
 <e lm="terrify">         <i>terrif</i><par n="appl/y__vblex"/></e>
@@ -27181,6 +27182,9 @@
 <e lm="yield">           <i>yield</i><par n="accept__vblex"/></e>
 <e lm="yoke">            <i>yok</i><par n="liv/e__vblex"/></e>
 <e lm="zone">            <i>zon</i><par n="liv/e__vblex"/></e>
+<e lm="pencil">          <i>pencil</i><par n="travel__vblex"/></e>
+<e lm="abnegate">        <i>abnegat</i><par n="liv/e__vblex"/></e>
+<e lm="slash">           <i>slash</i><par n="approach__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -43009,7 +43013,8 @@
 <e lm="Xoxe">            <i>Xoxe</i><par n="Mark__np"/></e>
 <e lm="Xulio">           <i>Xulio</i><par n="Mark__np"/></e>
 <e lm="Zacheus">         <i>Zacheus</i><par n="Mark__np"/></e>
-    
+<e lm="Leonidas">        <i>Leonidas</i><par n="Mark__np"/></e>
+
     <!-- first names feminine -->
 
 <e lm="Aablina">         <i>Aablina</i><par n="Mary__np"/></e>
@@ -57618,7 +57623,8 @@
 <e lm="Perry">           <i>Perry</i><par n="Smith__np"/></e>
 <e lm="Rico">            <i>Rico</i><par n="Smith__np"/></e>
 <e lm="Wilson">          <i>Wilson</i><par n="Smith__np"/></e>
-    
+<e lm="Gilbert">         <i>Gilbert</i><par n="Smith__np"/></e>
+
     <!-- locations -->
 
 <e lm="Aachen">          <i>Aachen</i><par n="Barcelona__np"/></e>
