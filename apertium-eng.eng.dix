@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56104
+	Entries: 56105
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -5418,7 +5418,7 @@
 <e lm="bibliophile">     <i>bibliophile</i><par n="house__n"/></e>
 <e lm="bicameralism">    <i>bicameralism</i><par n="house__n"/></e>
 <e lm="bicarbonate">     <i>bicarbonate</i><par n="house__n"/></e>
-<e lm="biceps">          <i>biceps</i><par n="alms__n"/></e>
+<e lm="biceps">          <i>biceps</i><par n="politics__n"/></e>
 <e lm="bicycle tyre" c="(GB)"><i>bicycle<b/>tyre</i><par n="house__n"/></e>
 <e lm="bicycle">         <i>bicycle</i><par n="house__n"/></e>
 <e lm="bicyclist">       <i>bicyclist</i><par n="house__n"/></e>
@@ -5995,6 +5995,7 @@
 <e lm="bulwark">         <i>bulwark</i><par n="house__n"/></e>
 <e lm="bumblebee">       <i>bumblebee</i><par n="house__n"/></e>
 <e lm="bump">            <i>bump</i><par n="house__n"/></e>
+<e lm="bumper">          <i>bumper</i><par n="house__n"/></e>
 <e lm="buna">            <i>buna</i><par n="house__n"/></e>
 <e lm="bunch" c="(GB)">  <i>bunch</i><par n="access__n"/></e>
 <e lm="bunch of keys">   <i>bunch</i><par n="access__n"/><p><l><b/>of<b/>keys</l><r><g><b/>of<b/>keys</g></r></p></e>
@@ -9222,7 +9223,7 @@
 <e lm="Ebola">           <i>Ebola</i><par n="house__n"/></e>
 <e lm="ebony">           <i>ebon</i><par n="bab/y__n"/></e>
 <e lm="ebonite">         <i>ebonite</i><par n="house__n"/></e>
-<e lm="Hebrew">          <par n="Hh"/><i>ebrew</i><par n="east__n"/></e>
+<e lm="Hebrew">          <par n="Hh"/><i>ebrew</i><par n="house__n"/></e>
 <e lm="February">        <i>Februar</i><par n="bab/y__n"/></e>
 <e lm="EC card">         <i>EC<b/>card</i><par n="house__n"/></e>
 <e lm="eccentricity">    <i>eccentricit</i><par n="bab/y__n"/></e>
