@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56105
+	Entries: 56107
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -12295,7 +12295,7 @@
 <e lm="incense">         <i>incense</i><par n="house__n"/></e>
 <e lm="incentive">       <i>incentive</i><par n="house__n"/></e>
 <e lm="inception">       <i>inception</i><par n="house__n"/></e>
-<e lm="incest">          <i>incest</i><par n="east__n"/></e>
+<e lm="incest">          <i>incest</i><par n="house__n"/></e>
 <e lm="inch">            <i>inch</i><par n="access__n"/></e>
 <e lm="inchoation">      <i>inchoation</i><par n="house__n"/></e>
 <e lm="incidence">       <i>incidence</i><par n="house__n"/></e>
@@ -23419,6 +23419,8 @@
 <e lm="fine arts">       <i>fine<b/>arts</i><par n="personnel__n"/></e>
 <e lm="manacle">         <i>manacle</i><par n="house__n"/></e>
 <e lm="yellow">          <i>yellow</i><par n="house__n"/></e>
+<e lm="pound sterling">  <i>pound</i><par n="house__n"/><p><l><b/>sterling</l><r><g><b/>sterling</g></r></p></e>
+<e lm="dirty clothes">   <i>dirty<b/>clothes</i><par n="personnel__n"/></e>
 
     <!-- Acronyms -->
 
