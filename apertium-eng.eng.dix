@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56107
+	Entries: 56109
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -19194,7 +19194,7 @@
 <e lm="sleeping-tablet"> <i>sleeping-tablet</i><par n="house__n"/></e>
 <e lm="sleep">           <i>sleep</i><par n="house__n"/></e>
 <e lm="sleeplessness">   <i>sleeplessness</i><par n="access__n"/></e>
-<e lm="sleet">           <i>sleet</i><par n="east__n"/></e>
+<e lm="sleet">           <i>sleet</i><par n="house__n"/></e>
 <e lm="sleeve">          <i>sleeve</i><par n="house__n"/></e>
 <e lm="sleigh">          <i>sleigh</i><par n="house__n"/></e>
 <e lm="slenderness">     <i>slenderness</i><par n="access__n"/></e>
@@ -28198,6 +28198,7 @@
 <e lm="charming">        <i>charming</i><par n="expensive__adj"/></e>
 <e lm="chaste">          <i>chaste</i><par n="expensive__adj"/></e>
 <e lm="chauvinistic">    <i>chauvinistic</i><par n="expensive__adj"/></e>
+<e lm="male chauvinistic"><i>male<b/>chauvinistic</i><par n="expensive__adj"/></e>
 <e lm="cheapening">      <i>cheapening</i><par n="expensive__adj"/></e>
 <e lm="cheap">           <i>cheap</i><par n="long/__adj"/></e>
 <e lm="cheeky">          <i>cheek</i><par n="happ/y__adj"/></e>
@@ -58712,6 +58713,7 @@
 <e lm="Rimini">          <i>Rimini</i><par n="Barcelona__np"/></e>
 <e lm="Ringworld">       <i>Ringworld</i><par n="Barcelona__np"/></e>
 <e lm="Río de Janeiro">  <i>Río<b/>de<b/>Janeiro</i><par n="Barcelona__np"/></e>
+<e lm="Rio de Janeiro">  <i>Rio<b/>de<b/>Janeiro</i><par n="Barcelona__np"/></e>
 <e lm="Rípurhreppur">    <i>Rípurhreppur</i><par n="Barcelona__np"/></e>
 <e lm="Rochester">       <i>Rochester</i><par n="Barcelona__np"/></e>
 <e lm="Rockville">       <i>Rockville</i><par n="Barcelona__np"/></e>
