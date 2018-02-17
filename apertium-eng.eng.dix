@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56113
+	Entries: 56115
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -8828,7 +8828,7 @@
 <e lm="disqualification"><i>disqualification</i><par n="house__n"/></e>
 <e lm="disquisition">    <i>disquisition</i><par n="house__n"/></e>
 <e lm="disrepute">       <i>disrepute</i><par n="east__n"/></e>
-<e lm="disrespect">      <i>disrespect</i><par n="east__n"/></e>
+<e lm="disrespect">      <i>disrespect</i><par n="house__n"/></e>
 <e lm="disruption">      <i>disruption</i><par n="house__n"/></e>
 <e lm="dissaccharide">   <i>dissaccharide</i><par n="house__n"/></e>
 <e lm="dissatisfaction"> <i>dissatisfaction</i><par n="house__n"/></e>
@@ -17117,7 +17117,7 @@
 <e lm="pseudopodium">    <i>pseudopodium</i><par n="house__n"/></e>
 <e lm="pseudoscience">   <i>pseudoscience</i><par n="house__n"/></e>
 <e lm="psilocybin">      <i>psilocybin</i><par n="house__n"/></e>
-<e lm="psoriasis">       <i>psoriasis</i><par n="east__n"/></e>
+<e lm="psoriasis">       <i>psorias</i><par n="analys/is__n"/></e>
 <e lm="psychiatry">      <i>psychiatr</i><par n="bab/y__n"/></e>
 <e lm="psychiatrist">    <i>psychiatrist</i><par n="house__n"/></e>
 <e lm="psychism">        <i>psychism</i><par n="house__n"/></e>
@@ -17279,7 +17279,7 @@
 <e lm="quartet">         <i>quartet</i><par n="house__n"/></e>
 <e lm="quartette">       <i>quartette</i><par n="house__n"/></e>
 <e lm="quarto">          <i>quarto</i><par n="house__n"/></e>
-<e lm="quartz">          <i>quartz</i><par n="east__n"/></e>
+<e lm="quartz">          <i>quartz</i><par n="access__n"/></e>
 <e lm="quartzite">       <i>quartzite</i><par n="house__n"/></e>
 <e lm="quatrain">        <i>quatrain</i><par n="house__n"/></e>
 <e lm="quaver">          <i>quaver</i><par n="house__n"/></e>
@@ -18210,7 +18210,7 @@
 <e lm="ruckus">          <i>ruckus</i><par n="house__n"/></e>
 <e lm="rudder">          <i>rudder</i><par n="house__n"/></e>
 <e lm="ruddiness">       <i>ruddiness</i><par n="access__n"/></e>
-<e lm="rudeness">        <i>rudeness</i><par n="east__n"/></e>
+<e lm="rudeness">        <i>rudeness</i><par n="access__n"/></e>
 <e lm="ruefulness">      <i>ruefulness</i><par n="access__n"/></e>
 <e lm="rugby">           <i>rugb</i><par n="bab/y__n"/></e>
 <e lm="rugger">          <i>rugger</i><par n="house__n"/></e>
@@ -22157,7 +22157,7 @@
 <e lm="whelp">           <i>whelp</i><par n="house__n"/></e>
 <e lm="wherewithal">     <i>wherewithal</i><par n="house__n"/></e>
 <e lm="whetstone">       <i>whetstone</i><par n="house__n"/></e>
-<e lm="whey">            <i>whey</i><par n="east__n"/></e>
+<e lm="whey">            <i>whey</i><par n="house__n"/></e>
 <e lm="while">           <i>while</i><par n="house__n"/></e>
 <e lm="whim">            <i>whim</i><par n="house__n"/></e>
 <e lm="whimper">         <i>whimper</i><par n="house__n"/></e>
@@ -23423,6 +23423,7 @@
 <e lm="dirty clothes">   <i>dirty<b/>clothes</i><par n="personnel__n"/></e>
 <e lm="semifinal">       <i>semifinal</i><par n="house__n"/></e>
 <e lm="macroglossia">    <i>macroglossia</i><par n="east__n"/></e>
+<e lm="jawbone">         <i>jawbone</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -57632,6 +57633,7 @@
 <e lm="Rico">            <i>Rico</i><par n="Smith__np"/></e>
 <e lm="Wilson">          <i>Wilson</i><par n="Smith__np"/></e>
 <e lm="Gilbert">         <i>Gilbert</i><par n="Smith__np"/></e>
+<e lm="Ennius">          <i>Ennius</i><par n="Gauss__np"/></e>
 
     <!-- locations -->
 
