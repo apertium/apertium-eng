@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56115
+	Entries: 56116
 	Sdefs: 85
 	Paradigms: 385
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -10164,7 +10164,7 @@
 <e lm="fibre">           <i>fibre</i><par n="house__n"/></e>
 <e lm="fibrillation">    <i>fibrillation</i><par n="house__n"/></e>
 <e lm="fibrin">          <i>fibrin</i><par n="house__n"/></e>
-<e lm="fibrinogen">      <i>fibrinogen</i><par n="east__n"/></e>
+<e lm="fibrinogen">      <i>fibrinogen</i><par n="house__n"/></e>
 <e lm="fibroma">         <i>fibroma</i><par n="schema__n"/></e>
 <e lm="fibrosis">        <i>fibros</i><par n="analys/is__n"/></e>
 <e lm="fibula">          <i>fibula</i><par n="house__n"/></e>
@@ -18785,7 +18785,7 @@
 <e lm="serenity">        <i>serenit</i><par n="bab/y__n"/></e>
 <e lm="serfdom">         <i>serfdom</i><par n="house__n"/></e>
 <e lm="sergeant">        <i>sergeant</i><par n="house__n"/></e>
-<e lm="serge">           <i>serge</i><par n="east__n"/></e>
+<e lm="serge">           <i>serge</i><par n="house__n"/></e>
 <e lm="serial">          <i>serial</i><par n="house__n"/></e>
 <e lm="serialisation" c="(GB)"><i>serialisation</i><par n="house__n"/></e>
 <e lm="serialization" c="(US)"><i>serialization</i><par n="house__n"/></e>
@@ -21682,7 +21682,7 @@
 <e lm="vasodilation">    <i>vasodilation</i><par n="house__n"/></e>
 <e lm="vassalage">       <i>vassalage</i><par n="house__n"/></e>
 <e lm="vassal">          <i>vassal</i><par n="house__n"/></e>
-<e lm="vastness">        <i>vastness</i><par n="east__n"/></e>
+<e lm="vastness">        <i>vastness</i><par n="access__n"/></e>
 <e lm="vaudeville">      <i>vaudeville</i><par n="house__n"/></e>
 <e lm="vault">           <i>vault</i><par n="house__n"/></e>
 <e lm="veal">            <i>veal</i><par n="east__n"/></e>
@@ -23424,6 +23424,7 @@
 <e lm="semifinal">       <i>semifinal</i><par n="house__n"/></e>
 <e lm="macroglossia">    <i>macroglossia</i><par n="east__n"/></e>
 <e lm="jawbone">         <i>jawbone</i><par n="house__n"/></e>
+<e lm="drug trafficker"> <i>drug<b/>trafficker</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
