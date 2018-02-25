@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56116
+	Entries: 56120
 	Sdefs: 85
-	Paradigms: 385
+	Paradigms: 387
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -612,6 +612,14 @@
   <e>       <p><l></l>          <r><s n="det"/><s n="itg"/><s n="sp"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="how_much__det">
+  <e>       <p><l></l>          <r><s n="det"/><s n="itg"/><s n="sg"/></r></p></e>
+</pardef>
+
+<pardef n="how_many__det">
+  <e>       <p><l></l>          <r><s n="det"/><s n="itg"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="prpos__det">
@@ -3677,6 +3685,7 @@
 <e lm="the">             <i>the</i><par n="the__det"/></e>
 <e lm="the other">       <p><l>the<b/>other</l><r>the<s n="det"/><s n="def"/><s n="sp"/><j/>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
 <e lm="the same">        <i>the<b/>same</i><par n="other__det"/></e>
+<e lm="the same">        <p><l>the<b/>same</l><r>the<s n="det"/><s n="def"/><s n="sp"/><j/>same<s n="adj"/></r></p></e>
 <e lm="this">            <i>th</i><par n="th/is__det"/></e>
 <e lm="too many">        <i>too<b/>many</i><par n="many__det"/></e>
 <e lm="too much">        <i>too<b/>much</i><par n="much__det"/></e>
@@ -3685,6 +3694,8 @@
 <e lm="which">           <i>which</i><par n="what__det"/></e>
 <e lm="whose">           <i>whose</i><par n="what__det"/></e>
 <e lm="whose">           <i>whose</i><par n="whose__det"/></e>
+<e lm="how many">        <i>how<b/>many</i><par n="how_many__det"/></e>
+<e lm="how much">        <i>how<b/>much</i><par n="how_much__det"/></e>
 
 <e lm="my">              <i>my</i><par n="her__det"/></e>
 <e lm="your">            <i>your</i><par n="her__det"/></e>
@@ -4718,7 +4729,7 @@
 <e lm="art museum">      <i>art<b/>museum</i><par n="house__n"/></e>
 <e lm="art work">        <i>art<b/>work</i><par n="house__n"/></e>
 <e lm="artefact">        <i>artefact</i><par n="house__n"/></e>
-<e lm="arteriosclerosis"><i>arteriosclerosis</i><par n="east__n"/></e>
+<e lm="arteriosclerosis"><i>arterioscleros</i><par n="analys/is__n"/></e>
 <e lm="artery">          <i>arter</i><par n="bab/y__n"/></e>
 <e lm="arthralgia">      <i>arthralgia</i><par n="house__n"/></e>
 <e lm="arthritis">       <i>arthritis</i><par n="east__n"/></e>
@@ -4750,7 +4761,7 @@
 <e lm="Marxism">         <par n="Mm"/><i>arxism</i><par n="house__n"/></e>
 <e lm="Marxist">         <par n="Mm"/><i>arxist</i><par n="house__n"/></e>
 <e lm="Aryan">           <i>Aryan</i><par n="house__n"/></e>
-<e lm="asbestos">        <i>asbestos</i><par n="east__n"/></e>
+<e lm="asbestos">        <i>asbestos</i><par n="access__n"/></e>
 <e lm="ascendancy">      <i>ascendanc</i><par n="bab/y__n"/></e>
 <e lm="ascendant">       <i>ascendant</i><par n="house__n"/></e>
 <e lm="Ascension Day">   <i>Ascension<b/>Day</i><par n="house__n"/></e>
@@ -5094,7 +5105,7 @@
 <e lm="balance of account"><i>balance</i><par n="house__n"/><p><l><b/>of<b/>account</l><r><g><b/>of<b/>account</g></r></p></e>
 <e lm="balancing">       <i>balancing</i><par n="house__n"/></e>
 <e lm="balcony">         <i>balcon</i><par n="bab/y__n"/></e>
-<e lm="baldness">        <i>baldness</i><par n="east__n"/></e>
+<e lm="baldness">        <i>baldness</i><par n="access__n"/></e>
 <e lm="bale">            <i>bale</i><par n="house__n"/></e>
 <e lm="bale of cotton">  <i>bale</i><par n="house__n"/><p><l><b/>of<b/>cotton</l><r><g><b/>of<b/>cotton</g></r></p></e>
 <e lm="bale of silk">    <i>bale</i><par n="house__n"/><p><l><b/>of<b/>silk</l><r><g><b/>of<b/>silk</g></r></p></e>
@@ -9298,7 +9309,7 @@
 <e lm="egocentrism">     <i>egocentrism</i><par n="house__n"/></e>
 <e lm="ego">             <i>ego</i><par n="house__n"/></e>
 <e lm="egoism">          <i>egoism</i><par n="house__n"/></e>
-<e lm="egotism">         <i>egotism</i><par n="east__n"/></e>
+<e lm="egotism">         <i>egotism</i><par n="house__n"/></e>
 <e lm="Egyptian">        <i>Egyptian</i><par n="house__n"/></e>
 <e lm="eiderdown">       <i>eiderdown</i><par n="house__n"/></e>
 <e lm="einsteinium">     <i>einsteinium</i><par n="house__n"/></e>
@@ -12447,7 +12458,7 @@
 <e lm="information spokesman"><i>information<b/>spokesm</i><par n="m/an__n"/></e>
 <e lm="information">     <i>information</i><par n="house__n"/></e>
 <e lm="infraction">      <i>infraction</i><par n="house__n"/></e>
-<e lm="infrared">        <i>infrared</i><par n="east__n"/></e>
+<e lm="infrared">        <i>infrared</i><par n="house__n"/></e>
 <e lm="infrastructure">  <i>infrastructure</i><par n="house__n"/></e>
 <e lm="infringement">    <i>infringement</i><par n="house__n"/></e>
 <e lm="infringement of the law"><i>infringement</i><par n="house__n"/><p><l><b/>of<b/>the<b/>law</l><r><g><b/>of<b/>the<b/>law</g></r></p></e>
@@ -12753,7 +12764,7 @@
 <e lm="Irishman">        <i>Irishm</i><par n="m/an__n"/></e>
 <e lm="iris">            <i>iris</i><par n="access__n"/></e>
 <e lm="ironclad">        <i>ironclad</i><par n="house__n"/></e>
-<e lm="ironing">         <i>ironing</i><par n="east__n"/></e>
+<e lm="ironing">         <i>ironing</i><par n="house__n"/></e>
 <e lm="irony">           <i>iron</i><par n="bab/y__n"/></e>
 <e lm="iron">            <i>iron</i><par n="house__n"/></e>
 <e lm="ironmongery">     <i>ironmonger</i><par n="bab/y__n"/></e>
@@ -14118,7 +14129,7 @@
 <e lm="mercantilism">    <i>mercantilism</i><par n="house__n"/></e>
 <e lm="mercenary">       <i>mercenar</i><par n="bab/y__n"/></e>
 <e lm="merchandise">     <i>merchandise</i><par n="house__n"/></e>
-<e lm="merchandising">   <i>merchandising</i><par n="east__n"/></e>
+<e lm="merchandising">   <i>merchandising</i><par n="house__n"/></e>
 <e lm="merchant fleet">  <i>merchant<b/>fleet</i><par n="house__n"/></e>
 <e lm="merchant sailor"> <i>merchant<b/>sailor</i><par n="house__n"/></e>
 <e lm="merchant">        <i>merchant</i><par n="house__n"/></e>
@@ -18378,7 +18389,7 @@
 <e lm="saponite">        <i>saponite</i><par n="house__n"/></e>
 <e lm="sapphire">        <i>sapphire</i><par n="house__n"/></e>
 <e lm="saprophyte">      <i>saprophyte</i><par n="house__n"/></e>
-<e lm="sapwood">         <i>sapwood</i><par n="east__n"/></e>
+<e lm="sapwood">         <i>sapwood</i><par n="house__n"/></e>
 <e lm="sarcasm">         <i>sarcasm</i><par n="house__n"/></e>
 <e lm="sarcomere">       <i>sarcomere</i><par n="house__n"/></e>
 <e lm="sarcophagus">     <i>sarcophagus</i><par n="access__n"/></e>
@@ -21800,7 +21811,7 @@
 <e lm="Vietnamese">      <i>Vietnamese</i><par n="house__n"/></e>
 <e lm="viewer">          <i>viewer</i><par n="house__n"/></e>
 <e lm="viewership">      <i>viewership</i><par n="house__n"/></e>
-<e lm="viewing">         <i>viewing</i><par n="east__n"/></e>
+<e lm="viewing">         <i>viewing</i><par n="house__n"/></e>
 <e lm="view">            <i>view</i><par n="house__n"/></e>
 <e lm="viewpoint">       <i>viewpoint</i><par n="house__n"/></e>
 <e lm="vigilance">       <i>vigilance</i><par n="east__n"/></e>
@@ -37784,6 +37795,7 @@
 <e lm="too fast">        <i>too<b/>fast</i><par n="maybe__adv"/></e>
 <e lm="too">             <i>too</i><par n="maybe__adv"/></e>
 <e lm="too late">        <i>too<b/>late</i><par n="maybe__adv"/></e>
+<e lm="too many">        <i>too<b/>many</i><par n="maybe__adv"/></e>
 <e lm="too much">        <i>too<b/>much</i><par n="maybe__adv"/></e>
 <e lm="to one side">     <i>to<b/>one<b/>side</i><par n="maybe__adv"/></e>
 <e lm="to perfection">   <i>to<b/>perfection</i><par n="maybe__adv"/></e>
