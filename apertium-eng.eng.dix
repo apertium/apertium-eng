@@ -23436,6 +23436,15 @@
 <e lm="macroglossia">    <i>macroglossia</i><par n="east__n"/></e>
 <e lm="jawbone">         <i>jawbone</i><par n="house__n"/></e>
 <e lm="drug trafficker"> <i>drug<b/>trafficker</i><par n="house__n"/></e>
+<e lm="rapeseed">        <i>rapeseed</i><par n="house__n"/></e>
+<e lm="glossectomy">     <i>glossectom</i><par n="bab/y__n"/></e>
+<e lm="cancan">          <i>cancan</i><par n="house__n"/></e>
+<e lm="taximeter">       <i>taximeter</i><par n="house__n"/></e>
+<e lm="nonretroactivity"><i>nonretroactivity</i><par n="east__n"/></e>
+<e lm="hypoacusis">      <i>hypoacus</i><par n="analys/is__n"/></e>
+<e lm="diuresis">        <i>diures</i><par n="analys/is__n"/></e>
+<e lm="callback">        <i>callback</i><par n="house__n"/></e>
+<e lm="greenhouse effect"><i>greenhouse<b/>effect</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -27203,6 +27212,7 @@
 <e lm="pencil">          <i>pencil</i><par n="travel__vblex"/></e>
 <e lm="abnegate">        <i>abnegat</i><par n="liv/e__vblex"/></e>
 <e lm="slash">           <i>slash</i><par n="approach__vblex"/></e>
+<e lm="decontaminate">   <i>decontaminat</i><par n="liv/e__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -33744,6 +33754,10 @@
 <e lm="testamentary">    <i>testamentary</i><par n="expensive__adj"/></e>
 <e lm="Julian">          <i>Julian</i><par n="expensive__adj"/></e>
 <e lm="polyunsaturated"> <i>polyunsaturated</i><par n="expensive__adj"/></e>
+<e lm="sumptuary">       <i>sumptuary</i><par n="expensive__adj"/></e>
+<e lm="glycemic">        <i>glycemic</i><par n="expensive__adj"/></e>
+<e lm="deverbative">     <i>deverbative</i><par n="expensive__adj"/></e>
+<e lm="psychotechnic">   <i>psychotechnic</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
