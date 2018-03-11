@@ -27,6 +27,7 @@ LIST Num = num ;
 LIST Rel = (prn rel) ;
 LIST Ij = ij ;
 LIST Cnjadv = cnjadv ;
+LIST Cnjcoo = cnjcoo ;
 LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
 LIST Vblex = vblex ;
 LIST Vbser = vbser ;
@@ -77,11 +78,6 @@ REMOVE (vblex) IF (-1 (gen)) ;
 
 REMOVE (preadv) IF (1 (cm)) ;
 
-# Remove imperatives unless preceded by "please" or placed at BOS
-SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) ;
-SELECT Imp IF (-2 BOS) (-1 Please);
-REMOVE Imp ;
-
 #Lemmas that are N or V: Inf if preposition precedes it
 SELECT Inf IF (0 Inf) (0 N) (-1 To) ;
 SELECT Inf IF (0 Inf) (0 N) (-1 Adv) (-2 To) ;
@@ -95,8 +91,12 @@ SELECT N IF (0 N) (0 V) (-1 Adj) ;
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-2 Det) (-1 N) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
+SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Prn) ;
+SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-2 Prn) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-1 Np) ;
+SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Np) ;
+SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-2 Np) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (1 PrnObj) ;
 SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
@@ -154,6 +154,20 @@ SELECT Preadv IF (0 Preadv) (0 Cnjadv) (1 Adv) ;
 SELECT Preadv IF (0 Preadv) (0 Cnjadv) (1 Adj) ;
 SELECT Cnjadv IF (0 Preadv) (0 Cnjadv) ;
 
+# Please (adv/ij) and please (vblex)
+SELECT Vblex IF (0 Please) (0 Vblex) (-1 To) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 PrnObj) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Np) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Adj) (3 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
+REMOVE Vblex IF (0 Please) (0 Vblex) ;
+
+# Remove imperatives unless preceded by "please" or placed at BOS
+SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) ;
+SELECT Imp IF (-2 BOS) (-1 Please);
+REMOVE Imp ;
+
 REMOVE Inf IF (-1 BOS) ;
 REMOVE (vblex pres) IF (-1 BOS) ;
 REMOVE (vblex pp) IF (-1 BOS) ;
@@ -175,15 +189,6 @@ SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
 
 SELECT Predet IF (1C The) ;
-
-# Please (adv/ij) and please (vblex)
-SELECT Vblex IF (0 Please) (0 Vblex) (-1 To) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 PrnObj) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Np) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 N) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Adj) (3 N) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
-REMOVE Vblex IF (0 Please) (0 Vblex) ;
 
 # Saxon genitive ('s)
 REMOVE Gen IF (NOT -1 N | Np) ;
