@@ -196,3 +196,8 @@ texts/vietnam1.handtagged.andrei.txt -text
 texts/vietnam1.handtagged.yuang-siang-ng.txt -text
 texts/vietnam1.raw.txt -text
 texts/vietnam1.tagged.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
