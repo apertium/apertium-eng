@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56120
+	Entries: 56222
 	Sdefs: 85
 	Paradigms: 387
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -23445,6 +23445,92 @@
 <e lm="diuresis">        <i>diures</i><par n="analys/is__n"/></e>
 <e lm="callback">        <i>callback</i><par n="house__n"/></e>
 <e lm="greenhouse effect"><i>greenhouse<b/>effect</i><par n="house__n"/></e>
+<e lm="fitter">          <i>fitter</i><par n="house__n"/></e>
+<e lm="groveler">        <i>groveler</i><par n="house__n"/></e>
+<e lm="allergologist">   <i>allergologist</i><par n="house__n"/></e>
+<e lm="aminoplastic">    <i>aminoplastic</i><par n="house__n"/></e>
+<e lm="aorist">          <i>aorist</i><par n="house__n"/></e>
+<e lm="silverer">        <i>silverer</i><par n="house__n"/></e>
+<e lm="aerometer">       <i>aerometer</i><par n="house__n"/></e>
+<e lm="outport">         <i>outport</i><par n="house__n"/></e>
+<e lm="autosuggestion">  <i>autosuggestion</i><par n="house__n"/></e>
+<e lm="autograft">       <i>autograft</i><par n="house__n"/></e>
+<e lm="ell">             <i>ell</i><par n="house__n"/></e>
+<e lm="audiometer">      <i>audiometer</i><par n="house__n"/></e>
+<e lm="audiogram">       <i>audiogram</i><par n="house__n"/></e>
+<e lm="atomist">         <i>atomist</i><par n="house__n"/></e>
+<e lm="astrolabe">       <i>astrolabe</i><par n="house__n"/></e>
+<e lm="asp">             <i>asp</i><par n="house__n"/></e>
+<e lm="arteriole">       <i>arteriole</i><par n="house__n"/></e>
+<e lm="arnica">          <i>arnica</i><par n="house__n"/></e>
+<e lm="arginine">        <i>arginine</i><par n="house__n"/></e>
+<e lm="arboriculturist"> <i>arboriculturist</i><par n="house__n"/></e>
+<e lm="anuria">          <i>anuria</i><par n="house__n"/></e>
+<e lm="stearin">         <i>stearin</i><par n="house__n"/></e>
+<e lm="endoplasm">       <i>endoplasm</i><par n="house__n"/></e>
+<e lm="ablution">        <i>ablution</i><par n="house__n"/></e>
+<e lm="abulia">          <i>abulia</i><par n="house__n"/></e>
+<e lm="abrasive">        <i>abrasive</i><par n="house__n"/></e>
+<e lm="alcoholisation">  <i>alcoholisation</i><par n="house__n"/></e>
+<e lm="acetification">   <i>acetification</i><par n="house__n"/></e>
+<e lm="aldose">          <i>aldose</i><par n="house__n"/></e>
+<e lm="aeroscope">       <i>aeroscope</i><par n="house__n"/></e>
+<e lm="anaemic">         <i>anaemic</i><par n="house__n"/></e>
+<e lm="antecedence">     <i>antecedence</i><par n="house__n"/></e>
+<e lm="antistrophe">     <i>antistrophe</i><par n="house__n"/></e>
+<e lm="antihistamine">   <i>antihistamine</i><par n="house__n"/></e>
+<e lm="anticathode">     <i>anticathode</i><par n="house__n"/></e>
+<e lm="anthracite">      <i>anthracite</i><par n="house__n"/></e>
+<e lm="anorthite">       <i>anorthite</i><par n="house__n"/></e>
+<e lm="anhydrite">       <i>anhydrite</i><par n="house__n"/></e>
+<e lm="andradite">       <i>andradite</i><par n="house__n"/></e>
+<e lm="anacoluthon">     <i>anacoluth</i><par n="tetrahedr/on__n"/></e>
+<e lm="amyl">            <i>amyl</i><par n="house__n"/></e>
+<e lm="amperage">        <i>amperage</i><par n="house__n"/></e>
+<e lm="ampholyte">       <i>ampholyte</i><par n="house__n"/></e>
+<e lm="amide">           <i>amide</i><par n="house__n"/></e>
+<e lm="alpaca">          <i>alpaca</i><par n="house__n"/></e>
+<e lm="almandine">       <i>almandine</i><par n="house__n"/></e>
+<e lm="algebraist">      <i>algebraist</i><par n="house__n"/></e>
+<e lm="alexia">          <i>alexia</i><par n="house__n"/></e>
+<e lm="aleurone">        <i>aleurone</i><par n="house__n"/></e>
+<e lm="actualism">       <i>actualism</i><par n="house__n"/></e>
+<e lm="acrolein">        <i>acrolein</i><par n="house__n"/></e>
+<e lm="abolitionism">    <i>abolitionism</i><par n="house__n"/></e>
+<e lm="assibilation">    <i>assibilation</i><par n="house__n"/></e>
+<e lm="anoxemia">        <i>anoxemia</i><par n="house__n"/></e>
+<e lm="atelectasis">     <i>atelectas</i><par n="analys/is__n"/></e>
+<e lm="athetosis">       <i>athetos</i><par n="analys/is__n"/></e>
+<e lm="apophysis">       <i>apophys</i><par n="analys/is__n"/></e>
+<e lm="arthrodesis">     <i>arthrodes</i><par n="analys/is__n"/></e>
+<e lm="aponeurosis">     <i>aponeuros</i><par n="analys/is__n"/></e>
+<e lm="aphaeresis">      <i>aphaeres</i><par n="analys/is__n"/></e>
+<e lm="ankylosis">       <i>ankylos</i><par n="analys/is__n"/></e>
+<e lm="anastomosis">     <i>anastomos</i><par n="analys/is__n"/></e>
+<e lm="amniocentesis">   <i>amniocentes</i><par n="analys/is__n"/></e>
+<e lm="amaurosis">       <i>amauros</i><par n="analys/is__n"/></e>
+<e lm="alkalosis">       <i>alkalos</i><par n="analys/is__n"/></e>
+<e lm="adiposis">        <i>adipos</i><par n="analys/is__n"/></e>
+<e lm="aerobiosis">      <i>aerobios</i><par n="analys/is__n"/></e>
+<e lm="acromegaly">      <i>acromegal</i><par n="bab/y__n"/></e>
+<e lm="additivity">      <i>additivit</i><par n="bab/y__n"/></e>
+<e lm="alkalimetry">     <i>alkalimetr</i><par n="bab/y__n"/></e>
+<e lm="amygdalectomy">   <i>amygdalectom</i><par n="bab/y__n"/></e>
+<e lm="antonymy">        <i>antonym</i><par n="bab/y__n"/></e>
+<e lm="audiometry">      <i>audiometr</i><par n="bab/y__n"/></e>
+<e lm="audiofrequency">  <i>audiofrequenc</i><par n="bab/y__n"/></e>
+<e lm="antheridium">     <i>antheridi</i><par n="bacteri/um__n"/></e>
+<e lm="areola">          <i>areola</i><par n="aorta__n"/></e>
+<e lm="anaerobium">      <i>anaerobium</i><par n="house__n"/></e>
+<e lm="aeroelasticity">  <i>aeroelasticit</i><par n="bab/y__n"/></e>
+<e lm="acephalia">       <i>acephalia</i><par n="east__n"/></e>
+<e lm="actinometry">     <i>actinometry</i><par n="east__n"/></e>
+<e lm="arheism">         <i>arheism</i><par n="east__n"/></e>
+<e lm="autolysis">       <i>autolysis</i><par n="east__n"/></e>
+<e lm="aviculture">      <i>aviculture</i><par n="east__n"/></e>
+<e lm="avionics">        <i>avionics</i><par n="politics__n"/></e>
+<e lm="avitaminosis">    <i>avitaminosis</i><par n="east__n"/></e>
+<e lm="self-incrimination"><i>self-incrimination</i><par n="east__n"/></e>
 
     <!-- Acronyms -->
 
@@ -33758,6 +33844,7 @@
 <e lm="glycemic">        <i>glycemic</i><par n="expensive__adj"/></e>
 <e lm="deverbative">     <i>deverbative</i><par n="expensive__adj"/></e>
 <e lm="psychotechnic">   <i>psychotechnic</i><par n="expensive__adj"/></e>
+<e lm="undecidable">     <i>undecidable</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
