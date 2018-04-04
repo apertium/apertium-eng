@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56222
+	Entries: 56552
 	Sdefs: 85
-	Paradigms: 387
+	Paradigms: 388
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -496,6 +496,12 @@
   <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
   <e>       <p><l>per</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e>       <p><l>pest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+</pardef>
+
+<pardef n="pitiful/__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
+  <e>       <p><l>ler</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+  <e>       <p><l>lest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
 
 <pardef n="mine__adj">
@@ -23531,6 +23537,7 @@
 <e lm="avionics">        <i>avionics</i><par n="politics__n"/></e>
 <e lm="avitaminosis">    <i>avitaminosis</i><par n="east__n"/></e>
 <e lm="self-incrimination"><i>self-incrimination</i><par n="east__n"/></e>
+<e lm="maverick">        <i>maverick</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -27299,6 +27306,7 @@
 <e lm="abnegate">        <i>abnegat</i><par n="liv/e__vblex"/></e>
 <e lm="slash">           <i>slash</i><par n="approach__vblex"/></e>
 <e lm="decontaminate">   <i>decontaminat</i><par n="liv/e__vblex"/></e>
+<e lm="buzz">            <i>buzz</i><par n="approach__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -33845,6 +33853,334 @@
 <e lm="deverbative">     <i>deverbative</i><par n="expensive__adj"/></e>
 <e lm="psychotechnic">   <i>psychotechnic</i><par n="expensive__adj"/></e>
 <e lm="undecidable">     <i>undecidable</i><par n="expensive__adj"/></e>
+<e lm="absolutive">      <i>absolutive</i><par n="expensive__adj"/></e>
+<e lm="acrosomal">       <i>acrosomal</i><par n="expensive__adj"/></e>
+<e lm="ungrammatical">   <i>ungrammatical</i><par n="expensive__adj"/></e>
+<e lm="aggravating">     <i>aggravating</i><par n="expensive__adj"/></e>
+<e lm="aluminothermic">  <i>aluminothermic</i><par n="expensive__adj"/></e>
+<e lm="allomorphic">     <i>allomorphic</i><par n="expensive__adj"/></e>
+<e lm="amino">           <i>amino</i><par n="expensive__adj"/></e>
+<e lm="amitotic">        <i>amitotic</i><par n="expensive__adj"/></e>
+<e lm="anaclitic">       <i>anaclitic</i><par n="expensive__adj"/></e>
+<e lm="anechoic">        <i>anechoic</i><par n="expensive__adj"/></e>
+<e lm="anemophilous">    <i>anemophilous</i><par n="expensive__adj"/></e>
+<e lm="antepenultimate"> <i>antepenultimate</i><par n="expensive__adj"/></e>
+<e lm="anti-doping">     <i>anti-doping</i><par n="expensive__adj"/></e>
+<e lm="antiparallel">    <i>antiparallel</i><par n="expensive__adj"/></e>
+<e lm="arenicolous">     <i>arenicolous</i><par n="expensive__adj"/></e>
+<e lm="argotic">         <i>argotic</i><par n="expensive__adj"/></e>
+<e lm="articular">       <i>articular</i><par n="expensive__adj"/></e>
+<e lm="sexless">         <i>sexless</i><par n="expensive__adj"/></e>
+<e lm="asyndetic">       <i>asyndetic</i><par n="expensive__adj"/></e>
+<e lm="aspiring">        <i>aspiring</i><par n="expensive__adj"/></e>
+<e lm="assertoric">      <i>assertoric</i><par n="expensive__adj"/></e>
+<e lm="astatic">         <i>astatic</i><par n="expensive__adj"/></e>
+<e lm="atomistic">       <i>atomistic</i><par n="expensive__adj"/></e>
+<e lm="auricular">       <i>auricular</i><par n="expensive__adj"/></e>
+<e lm="self-centering">  <i>self-centering</i><par n="expensive__adj"/></e>
+<e lm="autodynamic">     <i>autodynamic</i><par n="expensive__adj"/></e>
+<e lm="self-lubricating"><i>self-lubricating</i><par n="expensive__adj"/></e>
+<e lm="fleshy">          <i>flesh</i><par n="happ/y__adj"/></e>
+<e lm="knightly">        <i>knightl</i><par n="happ/y__adj"/></e>
+<e lm="spongy">          <i>spong</i><par n="happ/y__adj"/></e>
+<e lm="starry">          <i>starr</i><par n="happ/y__adj"/></e>
+<e lm="greasy">          <i>greas</i><par n="happ/y__adj"/></e>
+<e lm="sparse">          <i>sparse</i><par n="nice/__adj"/></e>
+<e lm="barycentric">     <i>barycentric</i><par n="expensive__adj"/></e>
+<e lm="bathyal">         <i>bathyal</i><par n="expensive__adj"/></e>
+<e lm="Bayesian">        <i>Bayesian</i><par n="expensive__adj"/></e>
+<e lm="variegated">      <i>variegated</i><par n="expensive__adj"/></e>
+<e lm="birefringent">    <i>birefringent</i><par n="expensive__adj"/></e>
+<e lm="bituminous">      <i>bituminous</i><par n="expensive__adj"/></e>
+<e lm="bulbous">         <i>bulbous</i><par n="expensive__adj"/></e>
+<e lm="bigamous">        <i>bigamous</i><par n="expensive__adj"/></e>
+<e lm="calcicolous">     <i>calcicolous</i><par n="expensive__adj"/></e>
+<e lm="calcifugal">      <i>calcifugal</i><par n="expensive__adj"/></e>
+<e lm="characterologic"> <i>characterologic</i><par n="expensive__adj"/></e>
+<e lm="crimson">         <i>crimson</i><par n="expensive__adj"/></e>
+<e lm="categorematic">   <i>categorematic</i><par n="expensive__adj"/></e>
+<e lm="celebrated">      <i>celebrated</i><par n="expensive__adj"/></e>
+<e lm="chlorotic">       <i>chlorotic</i><par n="expensive__adj"/></e>
+<e lm="commensurable">   <i>commensurable</i><par n="expensive__adj"/></e>
+<e lm="compressible">    <i>compressible</i><par n="expensive__adj"/></e>
+<e lm="conoidal">        <i>conoidal</i><par n="expensive__adj"/></e>
+<e lm="consanguine">     <i>consanguine</i><par n="expensive__adj"/></e>
+<e lm="conventionalist"> <i>conventionalist</i><par n="expensive__adj"/></e>
+<e lm="coprophagous">    <i>coprophagous</i><par n="expensive__adj"/></e>
+<e lm="corneal">         <i>corneal</i><par n="expensive__adj"/></e>
+<e lm="cryptocrystalline"><i>cryptocrystalline</i><par n="expensive__adj"/></e>
+<e lm="cupreous">        <i>cupreous</i><par n="expensive__adj"/></e>
+<e lm="declaratory">     <i>declaratory</i><par n="expensive__adj"/></e>
+<e lm="decorous">        <i>decorous</i><par n="expensive__adj"/></e>
+<e lm="graceless">       <i>graceless</i><par n="expensive__adj"/></e>
+<e lm="discountable">    <i>discountable</i><par n="expensive__adj"/></e>
+<e lm="disconcerting">   <i>disconcerting</i><par n="expensive__adj"/></e>
+<e lm="descriptionist">  <i>descriptionist</i><par n="expensive__adj"/></e>
+<e lm="cavalier">        <i>cavalier</i><par n="expensive__adj"/></e>
+<e lm="desinential">     <i>desinential</i><par n="expensive__adj"/></e>
+<e lm="determinate">     <i>determinate</i><par n="expensive__adj"/></e>
+<e lm="denigratory">     <i>denigratory</i><par n="expensive__adj"/></e>
+<e lm="dilatory">        <i>dilatory</i><par n="expensive__adj"/></e>
+<e lm="bipyramidal">     <i>bipyramidal</i><par n="expensive__adj"/></e>
+<e lm="disjoint">        <i>disjoint</i><par n="expensive__adj"/></e>
+<e lm="distributional">  <i>distributional</i><par n="expensive__adj"/></e>
+<e lm="dystrophic">      <i>dystrophic</i><par n="expensive__adj"/></e>
+<e lm="dipteral">        <i>dipteral</i><par n="expensive__adj"/></e>
+<e lm="ectodynamomorphic"><i>ectodynamomorphic</i><par n="expensive__adj"/></e>
+<e lm="educable">        <i>educable</i><par n="expensive__adj"/></e>
+<e lm="egotistic">       <i>egotistic</i><par n="expensive__adj"/></e>
+<e lm="attachable">      <i>attachable</i><par n="expensive__adj"/></e>
+<e lm="emphyteutic">     <i>emphyteutic</i><par n="expensive__adj"/></e>
+<e lm="migrant">         <i>migrant</i><par n="expensive__adj"/></e>
+<e lm="trailing">        <i>trailing</i><par n="expensive__adj"/></e>
+<e lm="embarrassing">    <i>embarrassing</i><par n="expensive__adj"/></e>
+<e lm="epenthetic">      <i>epenthetic</i><par n="expensive__adj"/></e>
+<e lm="ergogenic">       <i>ergogenic</i><par n="expensive__adj"/></e>
+<e lm="chess">           <i>chess</i><par n="expensive__adj"/></e>
+<e lm="sciophilous">     <i>sciophilous</i><par n="expensive__adj"/></e>
+<e lm="sclerophyllous">  <i>sclerophyllous</i><par n="expensive__adj"/></e>
+<e lm="sphenoidal">      <i>sphenoidal</i><par n="expensive__adj"/></e>
+<e lm="specifiable">     <i>specifiable</i><par n="expensive__adj"/></e>
+<e lm="spectrographic">  <i>spectrographic</i><par n="expensive__adj"/></e>
+<e lm="Strombolian">     <i>Strombolian</i><par n="expensive__adj"/></e>
+<e lm="eutectic">        <i>eutectic</i><par n="expensive__adj"/></e>
+<e lm="exculpatory">     <i>exculpatory</i><par n="expensive__adj"/></e>
+<e lm="factitious">      <i>factitious</i><par n="expensive__adj"/></e>
+<e lm="falsifiable">     <i>falsifiable</i><par n="expensive__adj"/></e>
+<e lm="feline">          <i>feline</i><par n="expensive__adj"/></e>
+<e lm="fibroblastic">    <i>fibroblastic</i><par n="expensive__adj"/></e>
+<e lm="fibular">         <i>fibular</i><par n="expensive__adj"/></e>
+<e lm="phytophagous">    <i>phytophagous</i><par n="expensive__adj"/></e>
+<e lm="flexographic">    <i>flexographic</i><par n="expensive__adj"/></e>
+<e lm="phatic">          <i>phatic</i><par n="expensive__adj"/></e>
+<e lm="fetid">           <i>fetid</i><par n="expensive__adj"/></e>
+<e lm="genicular">       <i>genicular</i><par n="expensive__adj"/></e>
+<e lm="geostrophic">     <i>geostrophic</i><par n="expensive__adj"/></e>
+<e lm="managing">        <i>managing</i><par n="expensive__adj"/></e>
+<e lm="Guyanese">        <i>Guyanese</i><par n="expensive__adj"/></e>
+<e lm="halomorphic">     <i>halomorphic</i><par n="expensive__adj"/></e>
+<e lm="halophilic">      <i>halophilic</i><par n="expensive__adj"/></e>
+<e lm="heliophilic">     <i>heliophilic</i><par n="expensive__adj"/></e>
+<e lm="Hermitian">       <i>Hermitian</i><par n="expensive__adj"/></e>
+<e lm="heteropolar">     <i>heteropolar</i><par n="expensive__adj"/></e>
+<e lm="heterosyllabic">  <i>heterosyllabic</i><par n="expensive__adj"/></e>
+<e lm="hygrophilous">    <i>hygrophilous</i><par n="expensive__adj"/></e>
+<e lm="hypersonic">      <i>hypersonic</i><par n="expensive__adj"/></e>
+<e lm="hypotactic">      <i>hypotactic</i><par n="expensive__adj"/></e>
+<e lm="homomorphic">     <i>homomorphic</i><par n="expensive__adj"/></e>
+<e lm="homothetic">      <i>homothetic</i><par n="expensive__adj"/></e>
+<e lm="idiomorphic">     <i>idiomorphic</i><par n="expensive__adj"/></e>
+<e lm="fire-resistant">  <i>fire-resistant</i><par n="expensive__adj"/></e>
+<e lm="uncultured">      <i>uncultured</i><par n="expensive__adj"/></e>
+<e lm="impetuous">       <i>impetuous</i><par n="expensive__adj"/></e>
+<e lm="maladjusted">     <i>maladjusted</i><par n="expensive__adj"/></e>
+<e lm="inaudible">       <i>inaudible</i><par n="expensive__adj"/></e>
+<e lm="incestuous">      <i>incestuous</i><par n="expensive__adj"/></e>
+<e lm="incommutable">    <i>incommutable</i><par n="expensive__adj"/></e>
+<e lm="inconvertible">   <i>inconvertible</i><par n="expensive__adj"/></e>
+<e lm="inculpable">      <i>inculpable</i><par n="expensive__adj"/></e>
+<e lm="indeterminable">  <i>indeterminable</i><par n="expensive__adj"/></e>
+<e lm="bloated">         <i>bloated</i><par n="expensive__adj"/></e>
+<e lm="unintelligent">   <i>unintelligent</i><par n="expensive__adj"/></e>
+<e lm="innominate">      <i>innominate</i><par n="expensive__adj"/></e>
+<e lm="insidious">       <i>insidious</i><par n="expensive__adj"/></e>
+<e lm="soundless">       <i>soundless</i><par n="expensive__adj"/></e>
+<e lm="insulting">       <i>insulting</i><par n="expensive__adj"/></e>
+<e lm="insurgent">       <i>insurgent</i><par n="expensive__adj"/></e>
+<e lm="interspecific">   <i>interspecific</i><par n="expensive__adj"/></e>
+<e lm="intergalactic">   <i>intergalactic</i><par n="expensive__adj"/></e>
+<e lm="interosseous">    <i>interosseous</i><par n="expensive__adj"/></e>
+<e lm="intraspecific">   <i>intraspecific</i><par n="expensive__adj"/></e>
+<e lm="intraocular">     <i>intraocular</i><par n="expensive__adj"/></e>
+<e lm="irascible">       <i>irascible</i><par n="expensive__adj"/></e>
+<e lm="isobathic">       <i>isobathic</i><par n="expensive__adj"/></e>
+<e lm="isoclinal">       <i>isoclinal</i><par n="expensive__adj"/></e>
+<e lm="isoclinic">       <i>isoclinic</i><par n="expensive__adj"/></e>
+<e lm="isogonic">        <i>isogonic</i><par n="expensive__adj"/></e>
+<e lm="isoseismic">      <i>isoseismic</i><par n="expensive__adj"/></e>
+<e lm="isochronal">      <i>isochronal</i><par n="expensive__adj"/></e>
+<e lm="Kafkaesque">      <i>Kafkaesque</i><par n="expensive__adj"/></e>
+<e lm="glassy">          <i>glass</i><par n="happ/y__adj"/></e>
+<e lm="peaty">           <i>peat</i><par n="happ/y__adj"/></e>
+<e lm="orthic">          <i>orthic</i><par n="expensive__adj"/></e>
+<e lm="apterous">        <i>apterous</i><par n="expensive__adj"/></e>
+<e lm="zoophilous">      <i>zoophilous</i><par n="expensive__adj"/></e>
+<e lm="zealous">         <i>zealous</i><par n="expensive__adj"/></e>
+<e lm="xerophilous">     <i>xerophilous</i><par n="expensive__adj"/></e>
+<e lm="xerographic">     <i>xerographic</i><par n="expensive__adj"/></e>
+<e lm="shamanistic">     <i>shamanistic</i><par n="expensive__adj"/></e>
+<e lm="Wagnerian">       <i>Wagnerian</i><par n="expensive__adj"/></e>
+<e lm="Vulcanian">       <i>Vulcanian</i><par n="expensive__adj"/></e>
+<e lm="vitelline">       <i>vitelline</i><par n="expensive__adj"/></e>
+<e lm="vitamin">         <i>vitamin</i><par n="expensive__adj"/></e>
+<e lm="vicarious">       <i>vicarious</i><par n="expensive__adj"/></e>
+<e lm="verbose">         <i>verbose</i><par n="expensive__adj"/></e>
+<e lm="ventral">         <i>ventral</i><par n="expensive__adj"/></e>
+<e lm="unipotent">       <i>unipotent</i><par n="expensive__adj"/></e>
+<e lm="unimodular">      <i>unimodular</i><par n="expensive__adj"/></e>
+<e lm="unilineal">       <i>unilineal</i><par n="expensive__adj"/></e>
+<e lm="unguligrade">     <i>unguligrade</i><par n="expensive__adj"/></e>
+<e lm="triadic">         <i>triadic</i><par n="expensive__adj"/></e>
+<e lm="trirectangular">  <i>trirectangular</i><par n="expensive__adj"/></e>
+<e lm="tricolour">       <i>tricolour</i><par n="expensive__adj"/></e>
+<e lm="triatomic">       <i>triatomic</i><par n="expensive__adj"/></e>
+<e lm="transmissive">    <i>transmissive</i><par n="expensive__adj"/></e>
+<e lm="transfinite">     <i>transfinite</i><par n="expensive__adj"/></e>
+<e lm="toxigenic">       <i>toxigenic</i><par n="expensive__adj"/></e>
+<e lm="all-powerful">    <i>all-powerful</i><par n="expensive__adj"/></e>
+<e lm="tetartoidal">     <i>tetartoidal</i><par n="expensive__adj"/></e>
+<e lm="thermosetting">   <i>thermosetting</i><par n="expensive__adj"/></e>
+<e lm="tensional">       <i>tensional</i><par n="expensive__adj"/></e>
+<e lm="Theban">          <i>Theban</i><par n="expensive__adj"/></e>
+<e lm="tautosyllabic">   <i>tautosyllabic</i><par n="expensive__adj"/></e>
+<e lm="tabloid">         <i>tabloid</i><par n="expensive__adj"/></e>
+<e lm="superheterodyne"> <i>superheterodyne</i><par n="expensive__adj"/></e>
+<e lm="supercritical">   <i>supercritical</i><par n="expensive__adj"/></e>
+<e lm="superconducting"> <i>superconducting</i><par n="expensive__adj"/></e>
+<e lm="summable">        <i>summable</i><par n="expensive__adj"/></e>
+<e lm="suffixal">        <i>suffixal</i><par n="expensive__adj"/></e>
+<e lm="subtractive">     <i>subtractive</i><par n="expensive__adj"/></e>
+<e lm="subclavian">      <i>subclavian</i><par n="expensive__adj"/></e>
+<e lm="subalpine">       <i>subalpine</i><par n="expensive__adj"/></e>
+<e lm="psychosomatic">   <i>psychosomatic</i><par n="expensive__adj"/></e>
+<e lm="sociopathic">     <i>sociopathic</i><par n="expensive__adj"/></e>
+<e lm="syntagmatic">     <i>syntagmatic</i><par n="expensive__adj"/></e>
+<e lm="sympatric">       <i>sympatric</i><par n="expensive__adj"/></e>
+<e lm="syllogistic">     <i>syllogistic</i><par n="expensive__adj"/></e>
+<e lm="silicious">       <i>silicious</i><par n="expensive__adj"/></e>
+<e lm="Sikh">            <i>Sikh</i><par n="expensive__adj"/></e>
+<e lm="semidiurnal">     <i>semidiurnal</i><par n="expensive__adj"/></e>
+<e lm="semasiological">  <i>semasiological</i><par n="expensive__adj"/></e>
+<e lm="segmentary">      <i>segmentary</i><par n="expensive__adj"/></e>
+<e lm="seditious">       <i>seditious</i><par n="expensive__adj"/></e>
+<e lm="saxicolous">      <i>saxicolous</i><par n="expensive__adj"/></e>
+<e lm="saturated">       <i>saturated</i><par n="expensive__adj"/></e>
+<e lm="saprophagous">    <i>saprophagous</i><par n="expensive__adj"/></e>
+<e lm="Samoan">          <i>Samoan</i><par n="expensive__adj"/></e>
+<e lm="sacrilegist">     <i>sacrilegist</i><par n="expensive__adj"/></e>
+<e lm="sacral">          <i>sacral</i><par n="expensive__adj"/></e>
+<e lm="tetartohedral">   <i>tetartohedral</i><par n="expensive__adj"/></e>
+<e lm="tautophonic">     <i>tautophonic</i><par n="expensive__adj"/></e>
+<e lm="rhodic">          <i>rhodic</i><par n="expensive__adj"/></e>
+<e lm="reptilian">       <i>reptilian</i><par n="expensive__adj"/></e>
+<e lm="remanent">        <i>remanent</i><par n="expensive__adj"/></e>
+<e lm="rogatory">        <i>rogatory</i><par n="expensive__adj"/></e>
+<e lm="breathable">      <i>breathable</i><par n="expensive__adj"/></e>
+<e lm="purposeful">      <i>purposeful</i><par n="expensive__adj"/></e>
+<e lm="resinous">        <i>resinous</i><par n="expensive__adj"/></e>
+<e lm="rheostatic">      <i>rheostatic</i><par n="expensive__adj"/></e>
+<e lm="reformist">       <i>reformist</i><par n="expensive__adj"/></e>
+<e lm="rhapsodic">       <i>rhapsodic</i><par n="expensive__adj"/></e>
+<e lm="quartic">         <i>quartic</i><par n="expensive__adj"/></e>
+<e lm="quadric">         <i>quadric</i><par n="expensive__adj"/></e>
+<e lm="quinary">         <i>quinary</i><par n="expensive__adj"/></e>
+<e lm="kymographic">     <i>kymographic</i><par n="expensive__adj"/></e>
+<e lm="pointed">         <i>pointed</i><par n="expensive__adj"/></e>
+<e lm="somatopsychic">   <i>somatopsychic</i><par n="expensive__adj"/></e>
+<e lm="psychopharmacological"><i>psychopharmacological</i><par n="expensive__adj"/></e>
+<e lm="psammophilous">   <i>psammophilous</i><par n="expensive__adj"/></e>
+<e lm="prosodic">        <i>prosodic</i><par n="expensive__adj"/></e>
+<e lm="promissory">      <i>promissory</i><par n="expensive__adj"/></e>
+<e lm="prohibitory">     <i>prohibitory</i><par n="expensive__adj"/></e>
+<e lm="producible">      <i>producible</i><par n="expensive__adj"/></e>
+<e lm="pretonic">        <i>pretonic</i><par n="expensive__adj"/></e>
+<e lm="prescriptible">   <i>prescriptible</i><par n="expensive__adj"/></e>
+<e lm="prefixal">        <i>prefixal</i><par n="expensive__adj"/></e>
+<e lm="preceptorial">    <i>preceptorial</i><par n="expensive__adj"/></e>
+<e lm="polygamous">      <i>polygamous</i><par n="expensive__adj"/></e>
+<e lm="polleniferous">   <i>polleniferous</i><par n="expensive__adj"/></e>
+<e lm="polygenetic">     <i>polygenetic</i><par n="expensive__adj"/></e>
+<e lm="polycrystalline"> <i>polycrystalline</i><par n="expensive__adj"/></e>
+<e lm="plutonic">        <i>plutonic</i><par n="expensive__adj"/></e>
+<e lm="plutocratic">     <i>plutocratic</i><par n="expensive__adj"/></e>
+<e lm="plenipotentiary"> <i>plenipotentiary</i><par n="expensive__adj"/></e>
+<e lm="plebiscitary">    <i>plebiscitary</i><par n="expensive__adj"/></e>
+<e lm="platykurtic">     <i>platykurtic</i><par n="expensive__adj"/></e>
+<e lm="pyrophilous">     <i>pyrophilous</i><par n="expensive__adj"/></e>
+<e lm="peripteral">      <i>peripteral</i><par n="expensive__adj"/></e>
+<e lm="permutable">      <i>permutable</i><par n="expensive__adj"/></e>
+<e lm="periclinal">      <i>periclinal</i><par n="expensive__adj"/></e>
+<e lm="fimbriated">      <i>fimbriated</i><par n="expensive__adj"/></e>
+<e lm="pedal">           <i>pedal</i><par n="expensive__adj"/></e>
+<e lm="pederastic">      <i>pederastic</i><par n="expensive__adj"/></e>
+<e lm="paronymic">       <i>paronymic</i><par n="expensive__adj"/></e>
+<e lm="paralinguistic">  <i>paralinguistic</i><par n="expensive__adj"/></e>
+<e lm="paraphernal">     <i>paraphernal</i><par n="expensive__adj"/></e>
+<e lm="state-owned">     <i>state-owned</i><par n="expensive__adj"/></e>
+<e lm="palmate">         <i>palmate</i><par n="expensive__adj"/></e>
+<e lm="oxytonic">        <i>oxytonic</i><par n="expensive__adj"/></e>
+<e lm="oscillating">     <i>oscillating</i><par n="expensive__adj"/></e>
+<e lm="orthognatic">     <i>orthognatic</i><par n="expensive__adj"/></e>
+<e lm="orthochromatic">  <i>orthochromatic</i><par n="expensive__adj"/></e>
+<e lm="orgastic">        <i>orgastic</i><par n="expensive__adj"/></e>
+<e lm="onomasiological"> <i>onomasiological</i><par n="expensive__adj"/></e>
+<e lm="omissible">       <i>omissible</i><par n="expensive__adj"/></e>
+<e lm="olivary">         <i>olivary</i><par n="expensive__adj"/></e>
+<e lm="oligotrophic">    <i>oligotrophic</i><par n="expensive__adj"/></e>
+<e lm="ochre">           <i>ochre</i><par n="expensive__adj"/></e>
+<e lm="obstructive">     <i>obstructive</i><par n="expensive__adj"/></e>
+<e lm="wilful">          <i>wilful</i><par n="expensive__adj"/></e>
+<e lm="sunless">         <i>sunless</i><par n="expensive__adj"/></e>
+<e lm="novelesque">      <i>novelesque</i><par n="expensive__adj"/></e>
+<e lm="nomothetical">    <i>nomothetical</i><par n="expensive__adj"/></e>
+<e lm="knotted">         <i>knotted</i><par n="expensive__adj"/></e>
+<e lm="nitrophilous">    <i>nitrophilous</i><par n="expensive__adj"/></e>
+<e lm="neologistical">   <i>neologistical</i><par n="expensive__adj"/></e>
+<e lm="necrophagous">    <i>necrophagous</i><par n="expensive__adj"/></e>
+<e lm="mutant">          <i>mutant</i><par n="expensive__adj"/></e>
+<e lm="multivitamin">    <i>multivitamin</i><par n="expensive__adj"/></e>
+<e lm="displayable">     <i>displayable</i><par n="expensive__adj"/></e>
+<e lm="morphemic">       <i>morphemic</i><par n="expensive__adj"/></e>
+<e lm="morphometric">    <i>morphometric</i><par n="expensive__adj"/></e>
+<e lm="monadic">         <i>monadic</i><par n="expensive__adj"/></e>
+<e lm="monostable">      <i>monostable</i><par n="expensive__adj"/></e>
+<e lm="monitory">        <i>monitory</i><par n="expensive__adj"/></e>
+<e lm="Monegasque">      <i>Monegasque</i><par n="expensive__adj"/></e>
+<e lm="microcrystalline"><i>microcrystalline</i><par n="expensive__adj"/></e>
+<e lm="metopic">         <i>metopic</i><par n="expensive__adj"/></e>
+<e lm="metazoan">        <i>metazoan</i><par n="expensive__adj"/></e>
+<e lm="metacentric">     <i>metacentric</i><par n="expensive__adj"/></e>
+<e lm="meromorphic">     <i>meromorphic</i><par n="expensive__adj"/></e>
+<e lm="meridian">        <i>meridian</i><par n="expensive__adj"/></e>
+<e lm="membranous">      <i>membranous</i><par n="expensive__adj"/></e>
+<e lm="melodious">       <i>melodious</i><par n="expensive__adj"/></e>
+<e lm="matutinal">       <i>matutinal</i><par n="expensive__adj"/></e>
+<e lm="brownish">        <i>brownish</i><par n="expensive__adj"/></e>
+<e lm="mammillary">      <i>mammillary</i><par n="expensive__adj"/></e>
+<e lm="wasteful">        <i>wasteful</i><par n="expensive__adj"/></e>
+<e lm="Malawian">        <i>Malawian</i><par n="expensive__adj"/></e>
+<e lm="Mahometan">       <i>Mahometan</i><par n="expensive__adj"/></e>
+<e lm="macromolecular">  <i>macromolecular</i><par n="expensive__adj"/></e>
+<e lm="leonine">         <i>leonine</i><par n="expensive__adj"/></e>
+<e lm="libidinous">      <i>libidinous</i><par n="expensive__adj"/></e>
+<e lm="lapidarian">      <i>lapidarian</i><par n="expensive__adj"/></e>
+<e lm="lactiferous">     <i>lactiferous</i><par n="expensive__adj"/></e>
+<e lm="thermoelectronic"><i>thermoelectronic</i><par n="expensive__adj"/></e>
+<e lm="prohibitionist">  <i>prohibitionist</i><par n="expensive__adj"/></e>
+<e lm="hanged">          <i>hanged</i><par n="expensive__adj"/></e>
+<e lm="orthognathic">    <i>orthognathic</i><par n="expensive__adj"/></e>
+<e lm="nutraceutical">   <i>nutraceutical</i><par n="expensive__adj"/></e>
+<e lm="neutrophile">     <i>neutrophile</i><par n="expensive__adj"/></e>
+<e lm="long-nosed">      <i>long-nosed</i><par n="expensive__adj"/></e>
+<e lm="metacarpial">     <i>metacarpial</i><par n="expensive__adj"/></e>
+<e lm="male">            <i>male</i><par n="expensive__adj"/></e>
+<e lm="lexematic">       <i>lexematic</i><par n="expensive__adj"/></e>
+<e lm="hydrofugous">     <i>hydrofugous</i><par n="expensive__adj"/></e>
+<e lm="hydromorphic">    <i>hydromorphic</i><par n="expensive__adj"/></e>
+<e lm="febrifuge">       <i>febrifuge</i><par n="expensive__adj"/></e>
+<e lm="diffusing">       <i>diffusing</i><par n="expensive__adj"/></e>
+<e lm="delimitable">     <i>delimitable</i><par n="expensive__adj"/></e>
+<e lm="choropletic">     <i>choropletic</i><par n="expensive__adj"/></e>
+<e lm="basophile">       <i>basophile</i><par n="expensive__adj"/></e>
+<e lm="antireflexive">   <i>antireflexive</i><par n="expensive__adj"/></e>
+<e lm="agonised">        <i>agonised</i><par n="expensive__adj"/></e>
+<e lm="steeled">         <i>steeled</i><par n="expensive__adj"/></e>
+<e lm="deadly">          <i>deadl</i><par n="happ/y__adj"/></e>
+<e lm="shoddy">          <i>shodd</i><par n="happ/y__adj"/></e>
+<e lm="silty">           <i>silt</i><par n="happ/y__adj"/></e>
+<e lm="stray">           <i>stray</i><par n="long/__adj"/></e>
+<e lm="pitiful">         <i>pitiful</i><par n="pitiful/__adj"/></e>
+<e lm="devout">          <i>devout</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
