@@ -27312,6 +27312,7 @@
 <e lm="crackle">         <i>crackl</i><par n="liv/e__vblex"/></e>
 <e lm="harrow">          <i>harrow</i><par n="accept__vblex"/></e>
 <e lm="steel">           <i>steel</i><par n="accept__vblex"/></e>
+<e lm="antedate">        <i>antedat</i><par n="liv/e__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
