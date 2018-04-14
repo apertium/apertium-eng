@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56552
+	Entries: 56619
 	Sdefs: 85
 	Paradigms: 388
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -23538,6 +23538,64 @@
 <e lm="avitaminosis">    <i>avitaminosis</i><par n="east__n"/></e>
 <e lm="self-incrimination"><i>self-incrimination</i><par n="east__n"/></e>
 <e lm="maverick">        <i>maverick</i><par n="house__n"/></e>
+<e lm="recoding">        <i>recoding</i><par n="house__n"/></e>
+<e lm="premotion">       <i>premotion</i><par n="house__n"/></e>
+<e lm="thyratron">       <i>thyratron</i><par n="house__n"/></e>
+<e lm="vidicon">         <i>vidicon</i><par n="house__n"/></e>
+<e lm="thoron">          <i>thoron</i><par n="east__n"/></e>
+<e lm="Eurobond">        <i>Eurobond</i><par n="house__n"/></e>
+<e lm="negatron">        <i>negatron</i><par n="house__n"/></e>
+<e lm="monetisation">    <i>monetisation</i><par n="house__n"/></e>
+<e lm="nivation">        <i>nivation</i><par n="house__n"/></e>
+<e lm="deuteron">        <i>deuteron</i><par n="house__n"/></e>
+<e lm="phanotron">       <i>phanotron</i><par n="house__n"/></e>
+<e lm="affrication">     <i>affrication</i><par n="house__n"/></e>
+<e lm="ammonification">  <i>ammonification</i><par n="house__n"/></e>
+<e lm="apperception">    <i>apperception</i><par n="house__n"/></e>
+<e lm="arrogation">      <i>arrogation</i><par n="house__n"/></e>
+<e lm="autoregression">  <i>autoregression</i><par n="house__n"/></e>
+<e lm="betatron">        <i>betatron</i><par n="house__n"/></e>
+<e lm="bombardon">       <i>bombardon</i><par n="house__n"/></e>
+<e lm="cohobation">      <i>cohobation</i><par n="house__n"/></e>
+<e lm="collimation">     <i>collimation</i><par n="house__n"/></e>
+<e lm="colluvium">       <i>colluvium</i><par n="house__n"/></e>
+<e lm="corundum">        <i>corundum</i><par n="house__n"/></e>
+<e lm="craton">          <i>craton</i><par n="house__n"/></e>
+<e lm="cryotron">        <i>cryotron</i><par n="house__n"/></e>
+<e lm="damnification">   <i>damnification</i><par n="house__n"/></e>
+<e lm="desaturation">    <i>desaturation</i><par n="house__n"/></e>
+<e lm="fissuration">     <i>fissuration</i><par n="house__n"/></e>
+<e lm="freon">           <i>freon</i><par n="house__n"/></e>
+<e lm="frication">       <i>frication</i><par n="house__n"/></e>
+<e lm="graviton">        <i>graviton</i><par n="house__n"/></e>
+<e lm="hepatisation">    <i>hepatisation</i><par n="house__n"/></e>
+<e lm="hyperon">         <i>hyperon</i><par n="house__n"/></e>
+<e lm="illation">        <i>illation</i><par n="house__n"/></e>
+<e lm="induration">      <i>induration</i><par n="house__n"/></e>
+<e lm="intellectualisation"><i>intellectualisation</i><par n="house__n"/></e>
+<e lm="interferon">      <i>interferon</i><par n="house__n"/></e>
+<e lm="intron">          <i>intron</i><par n="house__n"/></e>
+<e lm="kaon">            <i>kaon</i><par n="house__n"/></e>
+<e lm="manumission">     <i>manumission</i><par n="house__n"/></e>
+<e lm="nitriding">       <i>nitriding</i><par n="house__n"/></e>
+<e lm="nuncupation">     <i>nuncupation</i><par n="house__n"/></e>
+<e lm="orthicon">        <i>orthicon</i><par n="house__n"/></e>
+<e lm="bracketing">      <i>bracketing</i><par n="house__n"/></e>
+<e lm="pedion">          <i>pedion</i><par n="house__n"/></e>
+<e lm="peptisation">     <i>peptisation</i><par n="house__n"/></e>
+<e lm="redhibition">     <i>redhibition</i><par n="house__n"/></e>
+<e lm="steeling">        <i>steeling</i><par n="house__n"/></e>
+<e lm="carbonitriding">  <i>carbonitriding</i><par n="east__n"/></e>
+<e lm="thermocauterisation"><i>thermocauterisation</i><par n="house__n"/></e>
+<e lm="malleabilisation"><i>malleabilisation</i><par n="house__n"/></e>
+<e lm="imperforation">   <i>imperforation</i><par n="east__n"/></e>
+<e lm="hydroextraction"> <i>hydroextraction</i><par n="east__n"/></e>
+<e lm="unpremeditation"> <i>unpremeditation</i><par n="east__n"/></e>
+<e lm="infamation">      <i>infamation</i><par n="house__n"/></e>
+<e lm="allitisation">    <i>allitisation</i><par n="east__n"/></e>
+<e lm="tyndallization">  <i>tyndallization</i><par n="east__n"/></e>
+<e lm="cutinisation">    <i>cutinisation</i><par n="east__n"/></e>
+<e lm="chromisation">    <i>chromisation</i><par n="east__n"/></e>
 
     <!-- Acronyms -->
 
@@ -27313,6 +27371,8 @@
 <e lm="harrow">          <i>harrow</i><par n="accept__vblex"/></e>
 <e lm="steel">           <i>steel</i><par n="accept__vblex"/></e>
 <e lm="antedate">        <i>antedat</i><par n="liv/e__vblex"/></e>
+<e lm="mash">            <i>mash</i><par n="approach__vblex"/></e>
+<e lm="staunch">         <i>staunch</i><par n="approach__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -58737,6 +58797,7 @@
 <e lm="India">           <i>India</i><par n="Barcelona__np"/></e>
 <e lm="Indiana">         <i>Indiana</i><par n="Barcelona__np"/></e>
 <e lm="Indianapolis">    <i>Indianapolis</i><par n="Barcelona__np"/></e>
+<e lm="Indies">          <i>Indies</i><par n="United_States__np"/></e>
 <e lm="Indochina">       <i>Indochina</i><par n="Barcelona__np"/></e>
 <e lm="Indonesia">       <i>Indonesia</i><par n="Barcelona__np"/></e>
 <e lm="Innsbruck">       <i>Innsbruck</i><par n="Barcelona__np"/></e>
