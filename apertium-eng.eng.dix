@@ -23596,6 +23596,22 @@
 <e lm="tyndallization">  <i>tyndallization</i><par n="east__n"/></e>
 <e lm="cutinisation">    <i>cutinisation</i><par n="east__n"/></e>
 <e lm="chromisation">    <i>chromisation</i><par n="east__n"/></e>
+<e lm="hydrologist">     <i>hydrologist</i><par n="house__n"/></e>
+<e lm="diffuser">        <i>diffuser</i><par n="house__n"/></e>
+<e lm="thinning">        <i>thinning</i><par n="house__n"/></e>
+<e lm="brioche">         <i>brioche</i><par n="house__n"/></e>
+<e lm="lacquer">         <i>lacquer</i><par n="house__n"/></e>
+<e lm="verbalisation">   <i>verbalisation</i><par n="house__n"/></e>
+<e lm="quasar">          <i>quasar</i><par n="house__n"/></e>
+<e lm="ecotype">         <i>ecotype</i><par n="house__n"/></e>
+<e lm="instrumentalism"> <i>instrumentalism</i><par n="house__n"/></e>
+<e lm="decile">          <i>decile</i><par n="house__n"/></e>
+<e lm="impermeability">  <i>impermeabilit</i><par n="bab/y__n"/></e>
+<e lm="hemopathy">       <i>hemopath</i><par n="bab/y__n"/></e>
+<e lm="erythropoiesis">  <i>erythropoies</i><par n="analys/is__n"/></e>
+<e lm="small and medium enterprise"><i>small<b/>and<b/>medium<b/>enterprise</i><par n="house__n"/></e>
+<e lm="fibrinolysis">    <i>fibrinolys</i><par n="analys/is__n"/></e>
+<e lm="salmonellosis">   <i>salmonellos</i><par n="analys/is__n"/></e>
 
     <!-- Acronyms -->
 
@@ -23688,7 +23704,7 @@
 <e lm="HTML">            <i>HTML</i><par n="BBC__n"/></e>
 <e lm="http">            <i>http</i><par n="BBC__n"/></e>
 <e lm="https">           <i>https</i><par n="BBC__n"/></e>
-<e lm="IBM">             <i>IBM</i><par n="BBC__n"/></e>
+<e lm="IBM">             <i>IBM</i><par n="Linux__np"/></e>
 <e lm="IC">              <i>IC</i><par n="BBC__n"/></e>
 <e lm="ICT">             <i>ICT</i><par n="BBC__n"/></e>
 <e lm="IEEE">            <i>IEEE</i><par n="BBC__n"/></e>
@@ -27373,6 +27389,7 @@
 <e lm="antedate">        <i>antedat</i><par n="liv/e__vblex"/></e>
 <e lm="mash">            <i>mash</i><par n="approach__vblex"/></e>
 <e lm="staunch">         <i>staunch</i><par n="approach__vblex"/></e>
+<e lm="dimension">       <i>dimension</i><par n="accept__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -34247,6 +34264,7 @@
 <e lm="stray">           <i>stray</i><par n="long/__adj"/></e>
 <e lm="pitiful">         <i>pitiful</i><par n="pitiful/__adj"/></e>
 <e lm="devout">          <i>devout</i><par n="expensive__adj"/></e>
+<e lm="agro-environmental"><i>agro-environmental</i><par n="expensive__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
