@@ -125,23 +125,60 @@
 </pardef>
 
 <pardef n="ordinals">
-  <e>       <re>([0-9]*[02-9]1|1)</re><p><l>st</l><r><s n="num"/><s n="ord"/></r></p></e>
-  <e>       <re>([0-9]*[02-9]2|2)</re><p><l>nd</l><r><s n="num"/><s n="ord"/></r></p></e>
-  <e>       <re>([0-9]*[02-9]3|3)</re><p><l>rd</l><r><s n="num"/><s n="ord"/></r></p></e>
-  <e>       <re>1[0-9]</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
-  <e>       <re>[0-9]*([4-90]|1[0-9])</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
   <e>       <re>([0-9]*[02-9]1|1)</re><p><l>st</l><r><s n="adj"/><s n="ord"/></r></p></e>
   <e>       <re>([0-9]*[02-9]2|2)</re><p><l>nd</l><r><s n="adj"/><s n="ord"/></r></p></e>
   <e>       <re>([0-9]*[02-9]3|3)</re><p><l>rd</l><r><s n="adj"/><s n="ord"/></r></p></e>
   <e>       <re>1[0-9]</re><p><l>th</l><r><s n="adj"/><s n="ord"/></r></p></e>
   <e>       <re>[0-9]*([4-90]|1[0-9])</re><p><l>th</l><r><s n="adj"/><s n="ord"/></r></p></e>
+  <!-- Unsupported -->
+  <e r="RL"><re>([0-9]*[02-9]1|1)</re><p><l>st</l><r><s n="num"/><s n="ord"/></r></p></e>
+  <e r="RL"><re>([0-9]*[02-9]2|2)</re><p><l>nd</l><r><s n="num"/><s n="ord"/></r></p></e>
+  <e r="RL"><re>([0-9]*[02-9]3|3)</re><p><l>rd</l><r><s n="num"/><s n="ord"/></r></p></e>
+  <e r="RL"><re>1[0-9]</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
+  <e r="RL"><re>[0-9]*([4-90]|1[0-9])</re><p><l>th</l><r><s n="num"/><s n="ord"/></r></p></e>
+</pardef>
+
+<pardef n="ordinals-century-units">
+  <e>       <i>1st</i></e>
+  <e>       <i>2nd</i></e>
+  <e>       <i>3rd</i></e>
+  <e>       <i>4th</i></e>
+  <e>       <i>5th</i></e>
+  <e>       <i>6th</i></e>
+  <e>       <i>7th</i></e>
+  <e>       <i>8th</i></e>
+  <e>       <i>9th</i></e>
+</pardef>
+
+<pardef n="ordinals-century-units(1)">
+  <e>       <i>0th</i></e>
+  <e>       <i>1th</i></e>
+  <e>       <i>2th</i></e>
+  <e>       <i>3th</i></e>
+  <e>       <i>4th</i></e>
+  <e>       <i>5th</i></e>
+  <e>       <i>6th</i></e>
+  <e>       <i>7th</i></e>
+  <e>       <i>8th</i></e>
+  <e>       <i>9th</i></e>
+</pardef>
+
+<pardef n="ordinals-century-zero">
+  <e>       <i>0th</i></e>
+  <e>       <i></i><par n="ordinals-century-units"/></e>
 </pardef>
 
 <pardef n="ordinals-century">
-  <e>       <re>([2-9][04-9]|1[0-9]|[4-9])</re><i>th</i></e>
-  <e>       <re>([2-9]1|1)</re><i>st</i></e>
-  <e>       <re>([2-9]2|2)</re><i>nd</i></e>
-  <e>       <re>([2-9]3|3)</re><i>rd</i></e>
+  <e>       <i></i><par n="ordinals-century-units"/></e>
+  <e>       <i>1</i><par n="ordinals-century-units(1)"/></e>
+  <e>       <i>2</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>3</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>4</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>5</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>6</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>7</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>8</i><par n="ordinals-century-zero"/></e>
+  <e>       <i>9</i><par n="ordinals-century-zero"/></e>
 </pardef>
 
 <pardef n="BC">
