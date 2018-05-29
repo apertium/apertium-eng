@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56619
+	Entries: 56756
 	Sdefs: 85
-	Paradigms: 388
+	Paradigms: 391
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
 
 -->
@@ -23649,6 +23649,92 @@
 <e lm="small and medium enterprise"><i>small<b/>and<b/>medium<b/>enterprise</i><par n="house__n"/></e>
 <e lm="fibrinolysis">    <i>fibrinolys</i><par n="analys/is__n"/></e>
 <e lm="salmonellosis">   <i>salmonellos</i><par n="analys/is__n"/></e>
+<e lm="epidemiologist">  <i>epidemiologist</i><par n="house__n"/></e>
+<e lm="ecliptic">        <i>ecliptic</i><par n="house__n"/></e>
+<e lm="feedstock">       <i>feedstock</i><par n="house__n"/></e>
+<e lm="autotransformer"> <i>autotransformer</i><par n="house__n"/></e>
+<e lm="musicologist">    <i>musicologist</i><par n="house__n"/></e>
+<e lm="pedophilia">      <i>pedophilia</i><par n="house__n"/></e>
+<e lm="beautifier">      <i>beautifier</i><par n="house__n"/></e>
+<e lm="amnion">          <i>amnion</i><par n="house__n"/></e>
+<e lm="surfacing">       <i>surfacing</i><par n="house__n"/></e>
+<e lm="concent">         <i>concent</i><par n="house__n"/></e>
+<e lm="concordat">       <i>concordat</i><par n="house__n"/></e>
+<e lm="contactor">       <i>contactor</i><par n="house__n"/></e>
+<e lm="dichroism">       <i>dichroism</i><par n="house__n"/></e>
+<e lm="endoscope">       <i>endoscope</i><par n="house__n"/></e>
+<e lm="embossing">       <i>embossing</i><par n="house__n"/></e>
+<e lm="hydrometer">      <i>hydrometer</i><par n="house__n"/></e>
+<e lm="humidifier">      <i>humidifier</i><par n="house__n"/></e>
+<e lm="interphone">      <i>interphone</i><par n="house__n"/></e>
+<e lm="irrationalism">   <i>irrationalism</i><par n="house__n"/></e>
+<e lm="isochronism">     <i>isochronism</i><par n="house__n"/></e>
+<e lm="stacking">        <i>stacking</i><par n="house__n"/></e>
+<e lm="laryngoscope">    <i>laryngoscope</i><par n="house__n"/></e>
+<e lm="macadam">         <i>macadam</i><par n="house__n"/></e>
+<e lm="boring">          <i>boring</i><par n="house__n"/></e>
+<e lm="megacolon">       <i>megacolon</i><par n="house__n"/></e>
+<e lm="nephelometer">    <i>nephelometer</i><par n="house__n"/></e>
+<e lm="otoscope">        <i>otoscope</i><par n="house__n"/></e>
+<e lm="pandora">         <i>pandora</i><par n="house__n"/></e>
+<e lm="planimeter">      <i>planimeter</i><par n="house__n"/></e>
+<e lm="plastron">        <i>plastron</i><par n="house__n"/></e>
+<e lm="refractometer">   <i>refractometer</i><par n="house__n"/></e>
+<e lm="servomotor">      <i>servomotor</i><par n="house__n"/></e>
+<e lm="tachymeter">      <i>tachymeter</i><par n="house__n"/></e>
+<e lm="thermosyphon">    <i>thermosyphon</i><par n="house__n"/></e>
+<e lm="turboalternator"> <i>turboalternator</i><par n="house__n"/></e>
+<e lm="virilism">        <i>virilism</i><par n="house__n"/></e>
+<e lm="meson">           <i>meson</i><par n="house__n"/></e>
+<e lm="pathologist">     <i>pathologist</i><par n="house__n"/></e>
+<e lm="ripple">          <i>ripple</i><par n="house__n"/></e>
+<e lm="lixiviation">     <i>lixiviation</i><par n="house__n"/></e>
+<e lm="disconnector">    <i>disconnector</i><par n="house__n"/></e>
+<e lm="tombola">         <i>tombola</i><par n="house__n"/></e>
+<e lm="oligarch">        <i>oligarch</i><par n="house__n"/></e>
+<e lm="pion">            <i>pion</i><par n="house__n"/></e>
+<e lm="combustibility">  <i>combustibilit</i><par n="bab/y__n"/></e>
+<e lm="villosity">       <i>villosit</i><par n="bab/y__n"/></e>
+<e lm="tuberosity">      <i>tuberosit</i><par n="bab/y__n"/></e>
+<e lm="substantiality">  <i>substantialit</i><par n="bab/y__n"/></e>
+<e lm="reproducibility"> <i>reproducibilit</i><par n="bab/y__n"/></e>
+<e lm="radiosensitivity"><i>radiosensitivit</i><par n="bab/y__n"/></e>
+<e lm="nasality">        <i>nasalit</i><par n="bab/y__n"/></e>
+<e lm="malignancy">      <i>malignanc</i><par n="bab/y__n"/></e>
+<e lm="magnanimity">     <i>magnanimit</i><par n="bab/y__n"/></e>
+<e lm="penetrability">   <i>penetrabilit</i><par n="bab/y__n"/></e>
+<e lm="revocability">    <i>revocabilit</i><par n="bab/y__n"/></e>
+<e lm="irrevocability">  <i>irrevocabilit</i><par n="bab/y__n"/></e>
+<e lm="unsociability">   <i>unsociabilit</i><par n="bab/y__n"/></e>
+<e lm="friability">      <i>friabilit</i><par n="bab/y__n"/></e>
+<e lm="convexity">       <i>convexit</i><par n="bab/y__n"/></e>
+<e lm="compressibility"> <i>compressibilit</i><par n="bab/y__n"/></e>
+<e lm="bestiality">      <i>bestialit</i><par n="bab/y__n"/></e>
+<e lm="basicity">        <i>basicit</i><par n="bab/y__n"/></e>
+<e lm="acuity">          <i>acuit</i><par n="bab/y__n"/></e>
+<e lm="inalienability">  <i>inalienabilit</i><par n="bab/y__n"/></e>
+<e lm="indissolubility"> <i>indissolubilit</i><par n="bab/y__n"/></e>
+<e lm="perpendicularity"><i>perpendicularit</i><par n="bab/y__n"/></e>
+<e lm="imprescriptibility"><i>imprescriptibilit</i><par n="bab/y__n"/></e>
+<e lm="intrados">        <i>intrados</i><par n="access__n"/></e>
+<e lm="concavity">       <i>concavit</i><par n="bab/y__n"/></e>
+<e lm="remoulding">      <i>remoulding</i><par n="house__n"/></e>
+<e lm="meniscus">        <i>meniscus</i><par n="access__n"/></e>
+<e lm="common bile duct"><i>common<b/>bile<b/>duct</i><par n="house__n"/></e>
+<e lm="frequency meter"> <i>frequency<b/>meter</i><par n="house__n"/></e>
+<e lm="typometer">       <i>typometer</i><par n="house__n"/></e>
+<e lm="radio astronomy"> <i>radio<b/>astronom</i><par n="bab/y__n"/></e>
+<e lm="nystagmus">       <i>nystagmus</i><par n="access__n"/></e>
+<e lm="lupus">           <i>lupus</i><par n="east__n"/></e>
+<e lm="hermaphroditism"> <i>hermaphroditism</i><par n="house__n"/></e>
+<e lm="hydroseeding">    <i>hydroseeding</i><par n="east__n"/></e>
+<e lm="ensiling">        <i>ensiling</i><par n="east__n"/></e>
+<e lm="imputableness">   <i>imputableness</i><par n="east__n"/></e>
+<e lm="libidinousness">  <i>libidinousness</i><par n="east__n"/></e>
+<e lm="piezoelectricity"><i>piezoelectricity</i><par n="east__n"/></e>
+<e lm="pyroelectricity"> <i>pyroelectricity</i><par n="east__n"/></e>
+<e lm="thermoelectricity"><i>thermoelectricity</i><par n="east__n"/></e>
+<e lm="microtome">       <i>microtome</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
@@ -27427,6 +27513,7 @@
 <e lm="mash">            <i>mash</i><par n="approach__vblex"/></e>
 <e lm="staunch">         <i>staunch</i><par n="approach__vblex"/></e>
 <e lm="dimension">       <i>dimension</i><par n="accept__vblex"/></e>
+<e lm="chrome">          <i>chrom</i><par n="liv/e__vblex"/></e>
 
 <e lm="must not">        <i></i><par n="/must__vbmod"/><p><l><b/>not</l><r><g><b/>not</g></r></p></e>
 
@@ -34302,6 +34389,33 @@
 <e lm="pitiful">         <i>pitiful</i><par n="pitiful/__adj"/></e>
 <e lm="devout">          <i>devout</i><par n="expensive__adj"/></e>
 <e lm="agro-environmental"><i>agro-environmental</i><par n="expensive__adj"/></e>
+<e lm="Mongolian">       <i>Mongolian</i><par n="expensive__adj"/></e>
+<e lm="cockeyed">        <i>cockeyed</i><par n="expensive__adj"/></e>
+<e lm="cock-eyed">       <i>cock-eyed</i><par n="expensive__adj"/></e>
+<e lm="ponderous">       <i>ponderous</i><par n="expensive__adj"/></e>
+<e lm="ginger-haired">   <i>ginger-haired</i><par n="expensive__adj"/></e>
+<e lm="scathing">        <i>scathing</i><par n="expensive__adj"/></e>
+<e lm="freezing">        <i>freezing</i><par n="expensive__adj"/></e>
+<e lm="missing">         <i>missing</i><par n="expensive__adj"/></e>
+<e lm="domesticated">    <i>domesticated</i><par n="expensive__adj"/></e>
+<e lm="gifted">          <i>gifted</i><par n="expensive__adj"/></e>
+<e lm="ebullient">       <i>ebullient</i><par n="expensive__adj"/></e>
+<e lm="constrained">     <i>constrained</i><par n="expensive__adj"/></e>
+<e lm="proportionate">   <i>proportionate</i><par n="expensive__adj"/></e>
+<e lm="condensed">       <i>condensed</i><par n="expensive__adj"/></e>
+<e lm="converted">       <i>converted</i><par n="expensive__adj"/></e>
+<e lm="clear-cut">       <i>clear-cut</i><par n="expensive__adj"/></e>
+<e lm="disciplined">     <i>disciplined</i><par n="expensive__adj"/></e>
+<e lm="exposed">         <i>exposed</i><par n="expensive__adj"/></e>
+<e lm="faithless">       <i>faithless</i><par n="expensive__adj"/></e>
+<e lm="destined">        <i>destined</i><par n="expensive__adj"/></e>
+<e lm="integrated">      <i>integrated</i><par n="expensive__adj"/></e>
+<e lm="per capita">      <i>per<b/>capita</i><par n="expensive__adj"/></e>
+<e lm="flaky">           <i>flak</i><par n="happ/y__adj"/></e>
+<e lm="electromotive">   <i>electromotive</i><par n="expensive__adj"/></e>
+<e lm="heedless">        <i>heedless</i><par n="expensive__adj"/></e>
+<e lm="fivefold">        <i>fivefold</i><par n="expensive__adj"/></e>
+<e lm="streaky">         <i>streak</i><par n="happ/y__adj"/></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -43594,6 +43708,7 @@
 <e lm="Xulio">           <i>Xulio</i><par n="Mark__np"/></e>
 <e lm="Zacheus">         <i>Zacheus</i><par n="Mark__np"/></e>
 <e lm="Leonidas">        <i>Leonidas</i><par n="Mark__np"/></e>
+<e lm="Menelaus">        <i>Menelaus</i><par n="Mark__np"/></e>
 
     <!-- first names feminine -->
 
@@ -47091,7 +47206,7 @@
 <e lm="Yedythe">         <i>Yedythe</i><par n="Mary__np"/></e>
 <e lm="Zelda">           <i>Zelda</i><par n="Mary__np"/></e>
 <e lm="Zheng Jie">       <i>Zheng<b/>Jie</i><par n="Mary__np"/></e>
-    
+
     <!-- family names  -->
 
 <e lm="Aarab">           <i>Aarab</i><par n="Smith__np"/></e>
@@ -58205,6 +58320,10 @@
 <e lm="Wilson">          <i>Wilson</i><par n="Smith__np"/></e>
 <e lm="Gilbert">         <i>Gilbert</i><par n="Smith__np"/></e>
 <e lm="Ennius">          <i>Ennius</i><par n="Gauss__np"/></e>
+<e lm="Lukashenko">      <i>Lukashenko</i><par n="Smith__np"/></e>
+<e lm="Owen">            <i>Owen</i><par n="Smith__np"/></e>
+<e lm="Planell">         <i>Planell</i><par n="Smith__np"/></e>
+<e lm="Planells">        <i>Planells</i><par n="Gauss__np"/></e>
 
     <!-- locations -->
 
@@ -59858,7 +59977,7 @@
 <e lm="Yaiza">           <i>Yaiza</i><par n="Barcelona__np"/></e>
 <e lm="Zaire">           <i>Zaire</i><par n="Barcelona__np"/></e>
 <e lm="Atlantic Ocean">  <i>Atlantic<b/>Ocean</i><par n="Barcelona__np"/></e>
-    
+
     <!-- organisations -->
 
 <e lm="ABBA">            <i>ABBA</i><par n="Linux__np"/></e>
