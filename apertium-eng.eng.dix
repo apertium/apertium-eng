@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 3
-	Entries: 56756
+	Entries: 56782
 	Sdefs: 85
 	Paradigms: 391
 	Last processed by: apertium-dixtools fix apertium-eng.eng.dix apertium-eng.eng.dix
@@ -23735,6 +23735,32 @@
 <e lm="pyroelectricity"> <i>pyroelectricity</i><par n="east__n"/></e>
 <e lm="thermoelectricity"><i>thermoelectricity</i><par n="east__n"/></e>
 <e lm="microtome">       <i>microtome</i><par n="house__n"/></e>
+<e lm="sealing">         <i>sealing</i><par n="house__n"/></e>
+<e lm="denervation">     <i>denervation</i><par n="house__n"/></e>
+<e lm="adverbialisation"><i>adverbialisation</i><par n="house__n"/></e>
+<e lm="bagatelle">       <i>bagatelle</i><par n="house__n"/></e>
+<e lm="cobra">           <i>cobra</i><par n="house__n"/></e>
+<e lm="formalist">       <i>formalist</i><par n="house__n"/></e>
+<e lm="rentier">         <i>rentier</i><par n="house__n"/></e>
+<e lm="latifundist">     <i>latifundist</i><par n="house__n"/></e>
+<e lm="Latinist">        <i>Latinist</i><par n="house__n"/></e>
+<e lm="oboist">          <i>oboist</i><par n="house__n"/></e>
+<e lm="segregationist">  <i>segregationist</i><par n="house__n"/></e>
+<e lm="traditionalist">  <i>traditionalist</i><par n="house__n"/></e>
+<e lm="hemolysis">       <i>hemolys</i><par n="analys/is__n"/></e>
+<e lm="aeronautics">     <i>aeronautics</i><par n="politics__n"/></e>
+<e lm="pneumatics">      <i>pneumatics</i><par n="politics__n"/></e>
+<e lm="beehive">         <i>beehive</i><par n="house__n"/></e>
+<e lm="overhaul">        <i>overhaul</i><par n="house__n"/></e>
+<e lm="headway">         <i>headway</i><par n="house__n"/></e>
+<e lm="backer">          <i>backer</i><par n="house__n"/></e>
+<e lm="maturation">      <i>maturation</i><par n="house__n"/></e>
+<e lm="adept">           <i>adept</i><par n="house__n"/></e>
+<e lm="campaigner">      <i>campaigner</i><par n="house__n"/></e>
+<e lm="pal">             <i>pal</i><par n="house__n"/></e>
+<e lm="blocking">        <i>blocking</i><par n="house__n"/></e>
+<e lm="estrangement">    <i>estrangement</i><par n="house__n"/></e>
+<e lm="outburst">        <i>outburst</i><par n="house__n"/></e>
 
     <!-- Acronyms -->
 
