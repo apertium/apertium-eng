@@ -65,6 +65,12 @@ Files and data
 * apertium-eng.post-eng.dix       - Post-generator
 * modes.xml                       - Translation modes
 
+Notes on eng.prob
+===============================================================================
+apertium-eng uses the [perceptron tagger](http://wiki.apertium.org/wiki/Perceptron_tagger),
+so in order for it to work, it needs to be called with -gx: `apertium-tagger -gx eng.prob`
+
+
 For more information
 ===============================================================================
 
