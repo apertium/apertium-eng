@@ -368,7 +368,8 @@
 ^to/to<pr>$ 
 ^be/be<vbser><inf>$ 
 ^ratified/ratify<vblex><pp>$ 
-^by a majority of/by a majority of<pr>$ 
+^by a majority/by a majority<adv>$ 
+^of/of<pr>$ 
 ^the/the<det><def><sp>$ 
 ^legal/legal<adj>$ 
 ^voters/voter<n><pl>$ 
