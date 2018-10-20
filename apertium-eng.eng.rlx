@@ -56,6 +56,12 @@ SET Do = ("do") ;
 SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
+SET Pres = (vblex pres) | (vbmod pres) | (vaux pres) | (vbser pres) | (vbhaver pres) | (vbdo pres) ;
+SET Past = (vblex past) | (vbmod past) | (vaux past) | (vbser past) | (vbhaver past) | (vbdo past) ;
+
+SET Could = ("can" vbmod past) ;
+SET Will = ("will" vbmod pres) ;
+SET By = ("by" pr) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -81,28 +87,105 @@ LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "
 
 LIST Ing = "<.*ing>"ri ;
 
+
 SECTION
 
-REMOVE Fin IF (-1C Det) ;
+
+#  Basic rules
+
+REMOVE V IF (0 V) (-1C Det) ;
+REMOVE V IF (0 V) (-1C Gen) ;
+REMOVE Adv IF (0 Adv) (1 N) ;
+SELECT Predet IF (0 Predet) (1C The) ;
 
 REMOVE Pl IF (0 Letters) ;
+REMOVE Preadv IF (1 (cm)) ;
 
-REMOVE (vblex) IF (-1 (gen)) ;
 
-REMOVE (preadv) IF (1 (cm)) ;
+#  Verbs: select infitinive if preceded by "to"
 
-#Lemmas that are N or V: Inf if preposition precedes it
-SELECT Inf IF (0 Inf) (0 N) (-1 To) ;
-SELECT Inf IF (0 Inf) (0 N) (-1 Adv) (-2 To) ;
+SELECT Inf IF (0C V) (-1C To) ;
 
-#Lemmas that are N or V: N if DET/ADJ/PR precedes it
-SELECT N IF (0 N) (0 V) (-1 Pr) ;
+
+#  Verbs: select participle if preceded by Vbhaver
+
+SELECT Pp IF (0 V) (-1C Vbhaver) ;
+SELECT Pp IF (0 V) (-2C Vbhaver) (-1 Adv) ;
+
+
+#  Please (adv/ij) and please (vblex)
+
+SELECT Vblex IF (0 Please) (0 Vblex) (-1C To) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 PrnObj) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Np) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Adj) (3 N) ;
+SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
+REMOVE Vblex IF (0 Please) (0 Vblex) ;
+
+
+#  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
+
+SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
+SELECT Imp IF (-2 BOS) (-1 Please) ;
+SELECT Imp IF (-2 BOS) (-1 Adv) ;
+REMOVE Imp IF (0 Imp) ;
+
+
+#  Verbs in present or past: remove if placed at BOS
+
+REMOVE Pres IF (0 Pres) (-1C BOS) ;
+REMOVE Past IF (0 Past) (-1C BOS) ;
+
+
+#  Verbs: "could have succeeded"
+
+SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp)  ;
+
+
+#  Verbs ending in -ing
+
+SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Pr) ;
+SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 Vbser) ;
+SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 By) ;
+SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 BOS) (1 EOS) ;
+
+
+#  Lemmas that are N or V: Inf if preposition precedes it
+
+SELECT Inf IF (0 Inf) (0 N) (-1C To) ;
+SELECT Inf IF (0 Inf) (0 N) (-1C Adv) (-2C To) ;
+
+
+#  Lemmas that are N or V: Vbmod if will/can/may
+
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Adv) (3 Inf) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (1 PrnSubj) (2 Inf) ;
+
+
+#  Lemmas that are N or V: N if Det/Adj precedes it
+
 SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
 
-#Lemmas that are N or V: V if ADV/PRN/N/VBMOD precedes it or ADV/N follows
+
+#  Lemmas that are N or V: V if Vbmod/Vbdo precedes it
+
+SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
+SELECT V IF (0 N) (0 V) (-2 Vbmod | Vbaux) (-1 Adv) ;
+SELECT V IF (0 N) (0 V) (-3 Vbmod | Vbaux) (-2 PrnSubj) (-1 Adv) ;
+SELECT V IF (0 N) (0 V) (-1 Vbdo) ;
+SELECT V IF (0 N) (0 V) (-2 Vbdo) (-1 Adv) ;
+SELECT V IF (0 N) (0 V) (-3 Vbdo) (-2 Adv) (-1 Adv) ;
+
+
+#  Lemmas that are N or V: V if Adv/Prn/N/Vbmod precedes it or Adv/N follows
+
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (-2 Det) (-1 N) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Np) ;
@@ -112,119 +195,69 @@ SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-2 Np) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (1 PrnObj) ;
-SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
-SELECT V IF (0 N) (0 V) (-2 Vbmod | Vbaux) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (-1 Vbdo) ;
-SELECT V IF (0 N) (0 V) (-2 Vbdo) (-1 Adv) ;
-SELECT V IF (0 N) (0 V) (-3 Vbdo) (-2 Adv) (-1 Adv) ;
 
-#Lemmas that are N or V: will/can/may
-SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
-SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
-SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Adv) (3 Inf) ;
 
-#Otherwise, select N
-SELECT N IF (0 N) (0 V) ;
+#  Lemmas that are N or V: remove V
 
-#Lemmas that are N or ADJ: N if ADJ precedes it or V follows
+REMOVE V IF (0 N) (0 V) ;
+
+
+#Lemmas that are N or Adj: N if Adj precedes it or V follows
+
 SELECT N IF (0 N) (0 Adj) (-1 Adj) ;
 SELECT N IF (0 N) (0 Adj) (1 V) ;
 
-#Lemmas that are N or ADJ: ADJ if N follows it
+
+#Lemmas that are N or Adj: Adj if N follows it
+
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
-#Lemmas that are DET or PRN: DET if N/ADJ follows
-REMOVE Det IF (-1 Det) ;
-SELECT Det IF (0 Det) (0 Prn) (1 N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2 N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3 N) ;
 
-#Otherwise, select PRN
-SELECT Prn IF (0 Det) (0 Prn) ;
+#  Lemmas that are Det or Prn: Det if N/Aadj follows
 
-# one : eins (num) / man (prn)
-SELECT (num) IF (1 (n)) ;
+REMOVE Det IF (0 Det) (-1 Det) ;
+SELECT Det IF (0 Det) (0 Prn) (1C N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2C N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3C N) ;
 
-#Lemmas that are ADJ or DET ('little'): ADJ if DET precedes it or N+PL follows
+
+#  Lemmas that are Det or Prn: remove Prn
+
+REMOVE Det IF (0 Det) (0 Prn) ;
+
+
+#Lemmas that are Adj or Det ('little'): Adj if Det precedes it or N+Pl follows
+
 SELECT Adj IF (0 Adj) (0 Det) (-1 Det) ;
 SELECT Adj IF (0 Adj) (0 Det) (1 N + Pl) ;
 
-#Lemmas that are ADV or DET ('no'): ADV unless N follows
+
+#Lemmas that are Adv or Det ('no'): Adv unless N follows
+
 SELECT Det IF (0 Adv) (0 Det) (1 N) ;
 SELECT Det IF (0 Adv) (0 Det) (1 Adj) (2 N) ;
 SELECT Adv IF (0 Adv) (0 Det) ;
 
-#Lemmas that are ADV or PREP ('around'): ADV unless N/NP follows
+
+#Lemmas that are Adv or Prep ('around'): Adv unless N/Np follows
+
 SELECT Pr IF (0 Adv) (0 Pr) (1 Np) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Adj) (3 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
-SELECT Adv IF (0 Adv) (0 Pr) ;
+REMOVE Pr IF (0 Adv) (0 Pr) ;
 
-#Lemmas that are PREADV or CNJADV ('so'): CNJADV unless ADV/ADJ follows
+
+#Lemmas that are Preadv or Cnjadv ('so'): Cnjadv unless Adv/Adj follows
+
 SELECT Preadv IF (0 Preadv) (0 Cnjadv) (1 Adv) ;
 SELECT Preadv IF (0 Preadv) (0 Cnjadv) (1 Adj) ;
-SELECT Cnjadv IF (0 Preadv) (0 Cnjadv) ;
-
-# Please (adv/ij) and please (vblex)
-SELECT Vblex IF (0 Please) (0 Vblex) (-1 To) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 PrnObj) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Np) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 N) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Adj) (3 N) ;
-SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
-REMOVE Vblex IF (0 Please) (0 Vblex) ;
-
-# Remove imperatives unless preceded by "please" or placed at BOS
-SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) ;
-SELECT Imp IF (-2 BOS) (-1 Please);
-REMOVE Imp ;
-
-REMOVE Inf IF (-1 BOS) ;
-REMOVE (vblex pres) IF (-1 BOS) ;
-REMOVE (vblex pp) IF (-1 BOS) ;
-REMOVE (cnjadv) IF (-1 BOS) ;
-REMOVE (preadv) IF (1 EOS) ;
-REMOVE (vblex pp) IF (-1 (np)) ;
-REMOVE (vblex pp) IF (-1 (prn subj)) ;
-REMOVE (vbmod inf) IF (1 Inf) ;
-REMOVE (vbmod inf) IF (1 Adv) (2 Inf) ;
-REMOVE ("second"i n) IF (1 (n)) ;
-#REMOVE (prn obj) IF (-1 V) (-2 BOS) ;
-REMOVE (prn obj) IF (1 (vblex inf)) ;
-
-SELECT (adv itg) IF (-1 BOS) ;
-SELECT V IF (-1 (prn pers)) ;
-
-SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
-
-SELECT Ger IF (-1/* Be) (1 To) ;
-
-SELECT Predet IF (1C The) ;
-
-# Saxon genitive ('s)
-REMOVE Gen IF (NOT -1 N | Np) ;
-REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
-SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
-
-# Have (vblex) and have (vbhaver)
-REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Pp) ;
-REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Pp) ;
-REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
-REMOVE Vbhaver ;
-
-# Verbs preceded by to
-REMOVE Fin IF (-1C To) ;
-
-# Do (vbdo) and do (vblex)
-SELECT Vbdo IF (1 Inf) ;
-SELECT Vbdo IF (1 Adv) (2 Inf) ;
-SELECT Vbdo IF (1 Adv) (2 Adv) (3 Inf) ;
-REMOVE Vbdo ;
+REMOVE Preadv IF (0 Preadv) (0 Cnjadv) ;
 
 
-# Verbs with person/number: P1
+#  Verbs with person/number: P1
+
 SELECT P1 IF (0 V) (-1 PrnSubjP1Sg | PrnSubjP1Pl)  ;
 SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg | PrnSubjP1Pl) ;
 SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg | PrnSubjP1Pl) ;
@@ -235,17 +268,71 @@ SELECT Pl IF (0 V) (-1 PrnSubjP1Pl) ;
 SELECT Pl IF (0 V) (-1 Adv) (-2 PrnSubjP1Pl) ;
 SELECT Pl IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Pl) ;
 
-# Verbs with person/number: P2
+
+#  Verbs with person/number: P2
+
 SELECT P2 IF (0 V) (-1 PrnSubjP2Sp) ;
 SELECT P2 IF (0 V) (-1 Adv) (-2 PrnSubjP2Sp) ;
 SELECT P2 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP2Sp) ;
 
-# Verbs with person/number: P3 (default) (if not genitive)
+
+#  Verbs with person/number: P3 (default) (if not genitive)
+
 SELECT P3 IF (0 V) (NOT 0 ("'s")) ;
 
-# Verbs ending in -ing: GER if VBSER precedes it
-SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 Vbser) ;
+
+#  Saxon genitive ('s)
+
+REMOVE Gen IF (NOT -1 N | Np) ;
+REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
+SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
 
 
-# a job / Steve Jobs
-REMOVE Np IF (-1C (det ind)) ;
+#  Have (vblex) and have (vbhaver)
+
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbhaver) (1 Adv) (2 Adv) (3 Pp) ;
+REMOVE Vbhaver IF (0 Vblex) (0 Vbhaver) ;
+
+
+#  Do (vbdo) and do (vblex)
+
+SELECT Vbdo IF (1 Inf) ;
+SELECT Vbdo IF (1 Adv) (2 Inf) ;
+SELECT Vbdo IF (1 Adv) (2 Adv) (3 Inf) ;
+SELECT Vbdo IF (1 PrnSubj) (2 Inf) ;
+REMOVE Vbdo IF (0 Vblex) (0 Vbdo) ;
+
+
+#  one: eins (num) / man (prn)
+
+SELECT Num IF (1 N) ;
+SELECT Num IF (1 Adj) (2 N) ;
+SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
+
+
+#
+# Other rules
+#
+
+REMOVE (cnjadv) IF (-1 BOS) ;
+REMOVE (preadv) IF (1 EOS) ;
+REMOVE (vblex pp) IF (-1 (prn subj)) ;
+REMOVE (vbmod inf) IF (1 Inf) ;
+REMOVE (vbmod inf) IF (1 Adv) (2 Inf) ;
+REMOVE ("second"i n) IF (1 (n)) ;
+#REMOVE (prn obj) IF (-1 V) (-2 BOS) ;
+REMOVE (prn obj) IF (1 (vblex inf)) ;
+SELECT (adv itg) IF (-1 BOS) ;
+SELECT V IF (-1 (prn pers)) ;
+SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
+SELECT Ger IF (-1/* Be) (1 To) ;
+
+
+#
+# TODO: Rules to be revised
+#
+
+# a job / Steve Jobs (breaks phrases such as "an Apple representative")
+# REMOVE Np IF (-1C (det ind)) ;
