@@ -25,7 +25,7 @@
 	"dome" n sg
 "<decree>"
 ;	"decree" n sg
-	"decree" vblex inf
+	"decree" vblex inf   
 ;	"decree" vblex pres
 ;	"decree" vblex imp
 "<:>"
@@ -37,7 +37,7 @@
 	"Alph" np top sg
 "<,>"
 	"," cm
-"<the>"
+"<the>",
 	"the" det def sp
 "<sacred>"
 	"sacred" adj
@@ -58,8 +58,8 @@
 "<man>"
 	"man" n sg
 "<Down>"
-;	"down" adv
-	"down" n sg
+	"down" adv
+;	"down" n sg
 "<to>"
 	"to" pr
 "<a>"
@@ -105,8 +105,8 @@
 ;	"be" vbser past p2 pl
 	"be" vbser past p3 pl
 "<girdled>"
-	"girdle" vblex past
-;	"girdle" vblex pp
+;	"girdle" vblex past
+	"girdle" vblex pp
 "<round>"
 	"round" adv
 ;	"round" pr
@@ -178,11 +178,11 @@
 "<ancient>"
 	"ancient" adj
 "<as>"
-	"as" adv
+;	"as" adv
 ;	"as" preadv
 ;	"as" cnjsub
 ;	"as" cnjadv
-;	"as" pr
+	"as" pr
 "<the>"
 	"the" det def sp
 "<hills>"
@@ -211,8 +211,8 @@
 	"!" sent
 "<that>"
 ;	"that" cnjsub
-;	"that" det dem sg
-	"that" prn dem mf sg
+	"that" det dem sg
+;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<deep>"
 	"deep" adj sint
@@ -263,8 +263,8 @@
 "<!>"
 	"!" sent
 "<as>"
-	"as" adv
-;	"as" preadv
+;	"as" adv
+	"as" preadv
 ;	"as" cnjsub
 ;	"as" cnjadv
 ;	"as" pr
@@ -277,8 +277,8 @@
 	"enchant" vblex pp
 ;	"enchant" vblex past
 "<As>"
-	"as" adv
-;	"as" preadv
+;	"as" adv
+	"as" preadv
 ;	"as" cnjsub
 ;	"as" cnjadv
 ;	"as" pr
@@ -307,16 +307,16 @@
 "<woman>"
 	"woman" n sg
 "<wailing>"
-	"wail" vblex pprs
-;	"wail" vblex ger
+;	"wail" vblex pprs
+	"wail" vblex ger
 ;	"wail" vblex subs
 "<for>"
 ;	"for" cnjadv
 	"for" pr
 "<her>"
-;	"her" det pos sp
+	"her" det pos sp
 ;	"prpers" prn obj p3 f sg
-	"prpers" det pos p3 f sg
+;	"prpers" det pos p3 f sg
 "<demon>"
 	"demon" n sg
 "<->"
@@ -381,10 +381,11 @@
 ;	"be" vbser past p1 pl
 ;	"be" vbser past p2 sg
 ;	"be" vbser past p2 pl
-	"be" vbser past p3 pl
+;	"be" vbser past p3 pl
+	"be" vbser past p3 sg
 "<breathing>"
-	"breathe" vblex pprs
-;	"breathe" vblex ger
+;	"breathe" vblex pprs
+	"breathe" vblex ger
 ;	"breathe" vblex subs
 ;	"breathing" n sg
 "<,>"
@@ -416,8 +417,8 @@
 	"swift" adj sint
 ;	"swift" n sg
 "<half>"
-	"half" adj
-;	"half" adv
+;	"half" adj
+	"half" adv
 ;	"half" n sg
 ;	"half" det qnt pl
 "<->"
@@ -425,10 +426,10 @@
 "<intermitted>"
 	"intermit" vblex pp
 "<burst>"
-;	"burst" n sg
+	"burst" n sg
 ;	"burst" vblex inf
 ;	"burst" vblex pres
-	"burst" vblex past
+;	"burst" vblex past
 ;	"burst" vblex pp
 ;	"burst" vblex imp
 "<Huge>"
@@ -507,8 +508,8 @@
 "<flung>"
 	"fling" vblex past
 "<up>"
-;	"up" adv
-	"up" pr
+	"up" adv
+;	"up" pr
 "<momently>"
 	"momently" adv
 "<the>"
@@ -524,8 +525,8 @@
 "<miles>"
 	"mile" n pl
 "<meandering>"
-	"meander" vblex pprs
-;	"meander" vblex ger
+;	"meander" vblex pprs
+	"meander" vblex ger
 ;	"meander" vblex subs
 "<with>"
 	"with" pr
@@ -554,8 +555,8 @@
 "<,>"
 	"," cm
 "<Then>"
-;	"then" adv
-	"then" cnjadv
+	"then" adv
+;	"then" cnjadv
 "<reached>"
 ;	"reach" vblex pp
 	"reach" vblex past
@@ -617,8 +618,8 @@
 	"voice" n pl
 ;	"voice" vblex pres p3 sg
 "<prophesying>"
-	"prophesy" vblex pprs
-;	"prophesy" vblex ger
+;	"prophesy" vblex pprs
+	"prophesy" vblex ger
 ;	"prophesy" vblex subs
 "<war>"
 	"war" n sg
@@ -787,8 +788,8 @@
 ;	"singe" vblex pprs
 ;	"singe" vblex ger
 ;	"singe" vblex subs
-	"sing" vblex pprs
-;	"sing" vblex ger
+;	"sing" vblex pprs
+	"sing" vblex ger
 ;	"sing" vblex subs
 ;	"singing" n sg
 "<of>"
@@ -850,9 +851,9 @@
 "<,>"
 	"," cm
 "<That>"
-;	"that" cnjsub
+	"that" cnjsub
 ;	"that" det dem sg
-	"that" prn dem mf sg
+;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<with>"
 	"with" pr
@@ -991,7 +992,7 @@
 ;	"float" vblex pprs
 ;	"float" vblex ger
 ;	"float" vblex subs
-	"floating" adj
+	"floating" adj    
 "<hair>"
 	"hair" n sg
 "<!>"
@@ -1060,10 +1061,10 @@
 "<dew>"
 	"dew" n sg
 "<hath>"
-	"have" vbhaver past
+	"have" vbhaver pres p3 sg
 "<fed>"
-	"feed" vblex past
-;	"feed" vblex pp
+;	"feed" vblex past
+	"feed" vblex pp
 "<,>"
 	"," cm
 "<And>"

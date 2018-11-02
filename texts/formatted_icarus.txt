@@ -16,8 +16,8 @@
 ;	"have" vblex pres
 ;	"have" vblex imp
 "<landed>"
-;	"land" vblex pp
-	"land" vblex past
+	"land" vblex pp
+;	"land" vblex past
 ;	"landed" adj
 "<.>"
 	"." sent
@@ -141,8 +141,8 @@
 "<And>"
 	"and" cnjcoo
 "<grinning>"
-	"grin" vblex pprs
-;	"grin" vblex ger
+;	"grin" vblex pprs
+	"grin" vblex ger
 ;	"grin" vblex subs
 ;	"grinning" adj
 "<pressed>"
@@ -257,8 +257,8 @@
 ;	"blow" vblex pres
 ;	"blow" vblex imp
 "<your>"
-;	"your" det pos sp
-	"prpers" det pos p2 mf sp
+	"your" det pos sp
+;	"prpers" det pos p2 mf sp
 "<nose>"
 	"nose" n sg
 ;	"nose" vblex inf
@@ -288,16 +288,17 @@
 "<.>"
 	"." sent
 "<House>"
-	"house" n sg
+;	"house" n sg
 ;	"house" vblex inf
 ;	"house" vblex pres
 ;	"house" vblex imp
 ;	"House" np cog sg
+;	"house" ij
 "<!>"
 	"!" sent
 "<cried>"
-	"cry" vblex pp
-;	"cry" vblex past
+;	"cry" vblex pp
+	"cry" vblex past
 "<the>"
 	"the" det def sp
 "<fatlady>"
@@ -336,7 +337,7 @@
 "<.>"
 	"." sent
 "<Raus>"
-	"Raus" it
+	"Raus" ij
 "<!>"
 	"!" sent
 "<cried>"
@@ -366,9 +367,9 @@
 ;	"as" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<shop>"
 	"shop" n sg
 ;	"shop" vblex inf
@@ -382,8 +383,8 @@
 ;	"can" vblex pres
 ;	"can" vblex imp
 "<tumbling>"
-	"tumble" vblex pprs
-;	"tumble" vblex ger
+;	"tumble" vblex pprs
+	"tumble" vblex ger
 ;	"tumble" vblex subs
 "<down>"
 	"down" adv
@@ -405,16 +406,16 @@
 "<.>"
 	"." sent
 "<Counting>"
-	"count" vblex pprs
-;	"count" vblex ger
+;	"count" vblex pprs
+	"count" vblex ger
 ;	"count" vblex subs
 "<out>"
 	"out" adv
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<money>"
 	"money" n sg
 "<.>"
@@ -436,8 +437,8 @@
 "<.>"
 	"." sent
 "<Eating>"
-	"eat" vblex pprs
-;	"eat" vblex ger
+;	"eat" vblex pprs
+	"eat" vblex ger
 ;	"eat" vblex subs
 ;	"eating" n sg
 "<bread>"
@@ -561,8 +562,8 @@
 "<of>"
 	"of" pr
 "<their>"
-;	"their" det pos sp
-	"prpers" det pos p3 mf pl
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
 "<fallout>"
 	"fallout" n sg
 "<shelters>"
@@ -591,8 +592,8 @@
 "<.>"
 	"." sent
 "<Clutching>"
-	"clutch" vblex pprs
-;	"clutch" vblex ger
+;	"clutch" vblex pprs
+	"clutch" vblex ger
 ;	"clutch" vblex subs
 ;	"clutching" n sg
 "<shattered>"
@@ -660,8 +661,8 @@
 "<With>"
 	"with" pr
 "<their>"
-;	"their" det pos sp
-	"prpers" det pos p3 mf pl
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
 "<tin>"
 	"tin" n sg
 "<hats>"
@@ -682,8 +683,8 @@
 "<And>"
 	"and" cnjcoo
 "<their>"
-;	"their" det pos sp
-	"prpers" det pos p3 mf pl
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
 "<heads>"
 	"head" n pl
 ;	"head" vblex pres p3 sg
@@ -702,8 +703,8 @@
 "<.>"
 	"." sent
 "<Their>"
-;	"their" det pos sp
-	"prpers" det pos p3 mf pl
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
 "<ban>"
 ;	"ban" n sg
 ;	"ban" vblex inf
@@ -719,8 +720,8 @@
 "<badges>"
 	"badge" n pl
 "<beginning>"
-	"begin" vblex pprs
-;	"begin" vblex ger
+;	"begin" vblex pprs
+	"begin" vblex ger
 ;	"begin" vblex subs
 ;	"beginning" n sg
 "<to>"
@@ -804,8 +805,8 @@
 "<.>"
 	"." sent
 "<North>"
-	"north" adv
-;	"north" adj sint
+;	"north" adv
+	"north" adj sint
 ;	"north" n sg
 ;	"North" np cog sg
 "<->"
@@ -858,8 +859,8 @@
 ;	"but" pr
 "<that>"
 ;	"that" cnjsub
-	"that" det dem sg
-;	"that" prn dem mf sg
+;	"that" det dem sg
+	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<wouldn't>"
 	"will" vbmod past + "not" adv
