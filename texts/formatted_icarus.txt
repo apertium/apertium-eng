@@ -48,8 +48,8 @@
 	"." sent
 "<A>"
 	"a" det ind sg
-"<littlebit>"
-	"littlebit" n sg
+"<little bit>"
+	"little bit" n sg
 "<of>"
 	"of" pr
 "<heaven>"
@@ -301,8 +301,11 @@
 	"cry" vblex past
 "<the>"
 	"the" det def sp
-"<fatlady>"
-	"fatlady" n sg
+"<fat>"
+	"fat" adj sint
+;	"fat" n sg
+"<lady>"
+	"lady" n sg
 "<.>"
 	"." sent
 "<As>"
@@ -765,8 +768,8 @@
 	".." sent
 "<A>"
 	"a" det ind sg
-"<littlebit>"
-	"littlebit" n sg
+"<little bit>"
+	"little bit" n sg
 "<of>"
 	"of" pr
 "<heaven>"
