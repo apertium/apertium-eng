@@ -1,0 +1,2929 @@
+"<Happiness>"
+	"happiness" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<Drug>"
+	"drug" n sg
+;	"drug" vblex inf
+;	"drug" vblex pres
+;	"drug" vblex imp
+"<Mary>"
+	"Mary" np ant f sg
+"<Jane>"
+	"Jane" np ant f sg
+"<absolutely>"
+	"absolutely" adv
+"<adored>"
+	"adore" vblex past
+;	"adore" vblex pp
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<job>"
+	"job" n sg
+"<->"
+	"-" guio
+"<selling>"
+;	"sell" vblex pprs
+	"sell" vblex ger
+;	"sell" vblex subs
+"<Happiness>"
+	"happiness" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<community>"
+;	"community" adj
+	"community" n sg
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<there>"
+	"there" adv
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<none>"
+	"none" prn ind nt sg
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<found>"
+;	"found" adj
+;	"find" vblex past
+;	"find" vblex pp
+;	"found" vblex inf
+	"found" vblex pres
+;	"found" vblex imp
+"<.>"
+	"." sent
+"<Everyone>"
+	"everyone" prn ind mf sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<poor>"
+	"poor" adj sint
+;	"poor" n pl
+"<and>"
+	"and" cnjcoo
+"<hopeless>"
+	"hopeless" adj
+"<.>"
+	"." sent
+"<Everyone>"
+	"everyone" prn ind mf sg
+"<except for>"
+	"except for" pr
+"<Mary>"
+	"Mary" np ant f sg
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<had>"
+;	"have" vbhaver past
+	"have" vblex past
+"<a>"
+	"a" det ind sg
+"<surplus>"
+	"surplus" n sg
+"<of>"
+	"of" pr
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<she>"
+	"prpers" prn subj p3 f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<the>"
+	"the" det def sp
+"<only>"
+	"only" adj
+;	"only" adv
+"<person>"
+	"person" n sg
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<knew>"
+	"know" vblex past
+"<how>"
+;	"how" adv
+;	"how" preadv
+	"how" adv itg
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<more>"
+	"more" adv
+;	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<.>"
+	"." sent
+"<So>"
+;	"so" adv
+;	"so" preadv
+	"so" cnjadv
+"<what>"
+	"what" det itg sp
+;	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<if>"
+;	"if" adv
+	"if" cnjsub
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<making>"
+	"make" vblex pprs
+;	"make" vblex ger
+;	"make" vblex subs
+"<a bit>"
+	"a bit" adv
+"<of>"
+	"of" pr
+"<money>"
+	"money" n sg
+"<from>"
+	"from" pr
+"<this>"
+;	"this" det dem sg
+	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<?>"
+	"?" sent
+"<she>"
+	"prpers" prn subj p3 f sg
+"<would>"
+	"will" vbmod past
+"<sometimes>"
+	"sometimes" adv
+"<ask>"
+	"ask" vblex inf
+;	"ask" vblex pres
+;	"ask" vblex imp
+"<herself>"
+	"herself" prn ref p3 f sg
+"<,>"
+	"," cm
+"<It's>"
+	"prpers" prn subj p3 nt sg + "be" vbser pres p3 sg
+"<all>"
+	"all" adv
+;	"all" predet sp
+;	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<the>"
+	"the" det def sp
+"<greater>"
+	"great" adj sint comp
+"<good>"
+;	"good" adv
+;	"good" adj sint
+	"good" n sg
+"<.>"
+	"." sent
+"<Of course>"
+	"of course" adv
+"<,>"
+	"," cm
+"<such a>"
+	"such a" det ind sg
+"<job>"
+	"job" n sg
+"<did>"
+	"do" vaux past
+;	"do" vblex past
+;	"do" vbdo past
+"<come>"
+	"come" vblex inf
+;	"come" vblex pres
+;	"come" vblex pp
+;	"come" vblex imp
+"<with>"
+	"with" pr
+"<its>"
+;	"its" det pos sp
+	"prpers" det pos p3 nt sg
+"<risks>"
+	"risk" n pl
+;	"risk" vblex pres p3 sg
+"<,>"
+	"," cm
+"<especially>"
+	"especially" adv
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<Mary>"
+	"Mary" np ant f sg
+"<lived>"
+	"live" vblex past
+;	"live" vblex pp
+"<.>"
+	"." sent
+"<Possession>"
+	"possession" n sg
+"<of>"
+	"of" pr
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<let>"
+	"let" vblex inf
+;	"let" vblex pres
+;	"let" vblex past
+;	"let" vblex pp
+;	"let" vblex imp
+"<alone>"
+;	"alone" adj
+	"alone" adv
+"<its>"
+;	"its" det pos sp
+	"prpers" det pos p3 nt sg
+"<distribution>"
+	"distribution" n sg
+"<,>"
+	"," cm
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<illegal>"
+	"illegal" adj
+"<.>"
+	"." sent
+"<Nevertheless>"
+	"nevertheless" adv
+"<,>"
+	"," cm
+"<she>"
+	"prpers" prn subj p3 f sg
+"<continued>"
+;	"continued" adj
+	"continue" vblex past
+;	"continue" vblex pp
+"<to>"
+	"to" pr
+"<sell>"
+	"sell" vblex inf
+;	"sell" vblex pres
+;	"sell" vblex imp
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<albeit>"
+	"albeit" adv
+"<in>"
+;	"in" adv
+	"in" pr
+"<secret>"
+;	"secret" adj
+	"secret" n sg
+"<.>"
+	"." sent
+"<After all>"
+	"after all" adv
+"<,>"
+	"," cm
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<customers>"
+	"customer" n pl
+"<depended>"
+;	"depend" vblex pp
+	"depend" vblex past
+"<on>"
+;	"on" adv
+	"on" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<.>"
+	"." sent
+"<Sadness>"
+	"sadness" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<deadly>"
+	"deadly" adj
+;	"deadly" adv
+;	"deadly" adj sint
+"<.>"
+	"." sent
+"<She>"
+	"prpers" prn subj p3 f sg
+"<would>"
+	"will" vbmod past
+"<do>"
+	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<anything>"
+	"anything" prn ind mf sg
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<sure>"
+	"sure" adv
+;	"sure" adj sint
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<never>"
+	"never" adv
+"<sad>"
+	"sad" adj sint
+"<.>"
+	"." sent
+"<One day>"
+	"one day" adv
+"<,>"
+	"," cm
+"<Mary>"
+	"Mary" np ant f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<just>"
+	"just" adv
+;	"just" adj sint
+"<closing>"
+;	"close" vblex pprs
+;	"close" vblex ger
+	"close" vblex subs
+;	"closing" n sg
+"<up>"
+	"up" adv
+;	"up" pr
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<a>"
+	"a" det ind sg
+"<dishevelled>"
+	"dishevelled" adj
+"<man>"
+	"man" n sg
+"<stumbled>"
+	"stumble" vblex past
+;	"stumble" vblex pp
+"<through>"
+	"through" pr
+"<the>"
+	"the" det def sp
+"<entrance>"
+	"entrance" n sg
+"<.>"
+	"." sent
+"<His>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<eyes>"
+	"eye" n pl
+;	"eye" vblex pres p3 sg
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<bloodshot>"
+	"bloodshot" adj
+"<and>"
+	"and" cnjcoo
+"<he>"
+	"prpers" prn subj p3 m sg
+"<had>"
+;	"have" vbhaver past
+	"have" vblex past
+"<a>"
+	"a" det ind sg
+"<bewildered>"
+	"bewilder" vblex pp
+;	"bewilder" vblex past
+"<look>"
+;	"look" adv
+	"look" n sg
+;	"look" vblex inf
+;	"look" vblex pres
+;	"look" vblex imp
+"<on>"
+;	"on" adv
+	"on" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<face>"
+	"face" n sg
+;	"face" vblex inf
+;	"face" vblex pres
+;	"face" vblex imp
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<recognized>"
+	"recognise" vblex past
+;	"recognise" vblex pp
+"<him>"
+	"prpers" prn obj p3 m sg
+"<immediately>"
+	"immediately" adv
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<happiest>"
+	"happy" adj sint sup
+"<customer>"
+	"customer" n sg
+"<.>"
+	"." sent
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<,>"
+	"," cm
+"<what>"
+;	"what" det itg sp
+	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+;	"be" vbser pres p3 pl
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<doing>"
+;	"do" vblex pprs
+	"do" vblex ger
+;	"do" vblex subs
+;	"do" vaux pprs
+;	"do" vaux ger
+;	"do" vaux subs
+;	"do" vbdo pprs
+;	"do" vbdo ger
+;	"do" vbdo subs
+"<here>"
+	"here" adv
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<late>"
+	"late" adv
+;	"late" adj sint
+"<?>"
+	"?" sent
+"<You>"
+;	"You" np cog sg
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<know>"
+;	"know" vblex inf
+	"know" vblex pres
+;	"know" vblex imp
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<have to>"
+	"must" vbmod pres
+;	"have" vbmod inf # to
+;	"have" vbmod pres # to
+"<close>"
+;	"close" adj sint
+;	"close" n sg
+	"close" vblex inf
+;	"close" vblex pres
+;	"close" vblex imp
+"<up>"
+	"up" adv
+;	"up" pr
+"<before>"
+;	"before" adv
+	"before" cnjadv
+;	"before" pr
+"<the>"
+	"the" det def sp
+"<police>"
+;	"police" adj
+;	"police" n sg
+	"police" n pl
+;	"police" vblex inf
+;	"police" vblex pres
+;	"police" vblex imp
+"<start>"
+;	"start" n sg
+;	"start" vblex inf
+	"start" vblex pres
+;	"start" vblex imp
+"<patrolling>"
+;	"patrol" vblex pprs
+	"patrol" vblex ger
+;	"patrol" vblex subs
+"<!>"
+	"!" sent
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<simply>"
+	"simply" adv
+"<ignored>"
+	"ignore" vblex past
+;	"ignore" vblex pp
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<and>"
+	"and" cnjcoo
+"<stared at>"
+	"stare" vblex past # at
+;	"stare" vblex pp # at
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<with>"
+	"with" pr
+"<blank>"
+	"blank" n sg
+"<yet>"
+	"yet" adv
+;	"yet" cnjadv
+"<oddly>"
+	"oddly" adv
+"<hostile>"
+	"hostile" adj
+"<eyes>"
+	"eye" n pl
+;	"eye" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Of course>"
+	"of course" adv
+"<!>"
+	"!" sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<just>"
+	"just" adv
+;	"just" adj sint
+"<needed>"
+;	"need" vblex pp
+	"need" vblex past
+"<some>"
+;	"some" adj
+	"some" adv
+;	"some" det qnt sp
+;	"some" prn ind mf pl
+"<more>"
+	"more" adv
+;	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<Happiness>"
+	"happiness" n sg
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<cheerfully>"
+	"cheerfully" adv
+"<waltzed>"
+	"waltz" vblex past
+"<to>"
+	"to" pr
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<storage>"
+	"storage" n sg
+"<room>"
+	"room" n sg
+"<to>"
+	"to" pr
+"<retrieve>"
+	"retrieve" vblex inf
+;	"retrieve" vblex pres
+;	"retrieve" vblex imp
+"<some>"
+;	"some" adj
+;	"some" adv
+;	"some" det qnt sp
+;	"some" prn ind mf pl
+"<Happiness>"
+	"happiness" n sg
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<him>"
+	"prpers" prn obj p3 m sg
+"<.>"
+	"." sent
+"<In fact>"
+	"in fact" adv
+"<,>"
+	"," cm
+"<she>"
+	"prpers" prn subj p3 f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<so>"
+	"so" adv
+;	"so" preadv
+;	"so" cnjadv
+"<full>"
+	"full" adj sint
+"<of>"
+	"of" pr
+"<Happiness>"
+	"happiness" n sg
+"<herself>"
+	"herself" prn ref p3 f sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<she>"
+	"prpers" prn subj p3 f sg
+"<decided>"
+	"decide" vblex past
+;	"decide" vblex pp
+"<to>"
+	"to" pr
+"<give>"
+	"give" vblex inf
+;	"give" vblex pres
+;	"give" vblex imp
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<some>"
+;	"some" adj
+;	"some" adv
+;	"some" det qnt sp
+	"some" prn ind mf pl
+"<for free>"
+	"for free" adv
+"<.>"
+	"." sent
+"<However>"
+	"however" adv
+"<,>"
+	"," cm
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<she>"
+	"prpers" prn subj p3 f sg
+"<got>"
+	"get" vblex past
+;	"get" vblex pp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<room>"
+	"room" n sg
+"<,>"
+	"," cm
+"<there>"
+	"there" adv
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<none>"
+	"none" prn ind nt sg
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<found>"
+;	"found" adj
+;	"find" vblex past
+;	"find" vblex pp
+;	"found" vblex inf
+	"found" vblex pres
+;	"found" vblex imp
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<silently>"
+	"silently" adv
+"<cursed>"
+	"curse" vblex past
+;	"curse" vblex pp
+"<to herself>"
+	"to herself" adv
+"<.>"
+	"." sent
+"<How>"
+;	"how" adv
+;	"how" preadv
+	"how" adv itg
+"<could>"
+	"can" vbmod past
+"<she>"
+	"prpers" prn subj p3 f sg
+"<have>"
+	"have" vbhaver inf
+;	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<been>"
+	"be" vbser pp
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<careless>"
+	"careless" adj
+"<?>"
+	"?" sent
+"<Any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<other>"
+	"other" det ind sp
+"<person>"
+	"person" n sg
+"<would>"
+	"will" vbmod past
+"<have>"
+	"have" vbhaver inf
+;	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<told>"
+	"tell" vblex past
+;	"tell" vblex pp
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<to>"
+	"to" pr
+"<go home>"
+	"go" vblex inf # home
+;	"go" vblex pres # home
+;	"go" vblex imp # home
+"<by>"
+	"by" adv
+;	"by" pr
+"<then>"
+	"then" adv
+;	"then" cnjadv
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<not>"
+	"not" adv
+"<Mary>"
+	"Mary" np ant f sg
+"<.>"
+	"." sent
+"<She>"
+	"prpers" prn subj p3 f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<determined>"
+	"determined" adj
+;	"determine" vblex past
+;	"determine" vblex pp
+"<to>"
+	"to" pr
+"<bring>"
+	"bring" vblex inf
+;	"bring" vblex pres
+;	"bring" vblex imp
+"<more>"
+;	"more" adv
+;	"more" preadv
+;	"more" n sg
+	"more" det qnt sp
+"<Happiness>"
+	"happiness" n sg
+"<into>"
+	"into" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<life>"
+	"life" n sg
+"<;>"
+	";" sent
+"<especially>"
+	"especially" adv
+"<because>"
+	"because" cnjsub
+;	"because" cnjadv
+"<he>"
+	"prpers" prn subj p3 m sg
+"<looked>"
+;	"look" vblex pp
+	"look" vblex past
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<miserable>"
+	"miserable" adj
+"<.>"
+	"." sent
+"<She>"
+	"prpers" prn subj p3 f sg
+"<had>"
+;	"have" vbhaver past
+	"have" vblex past
+"<no>"
+;	"no" adv
+	"no" det ind sp
+"<other>"
+	"other" det ind sp
+"<option>"
+	"option" n sg
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<to>"
+	"to" pr
+"<go out>"
+	"go" vblex inf # out
+;	"go" vblex pres # out
+;	"go" vblex imp # out
+"<and>"
+	"and" cnjcoo
+"<get>"
+	"get" vblex inf
+;	"get" vblex pres
+;	"get" vblex imp
+"<the>"
+	"the" det def sp
+"<ingredients>"
+	"ingredient" n pl
+"<needed>"
+	"need" vblex pp
+;	"need" vblex past
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<more>"
+;	"more" adv
+;	"more" preadv
+;	"more" n sg
+	"more" det qnt sp
+"<Happiness>"
+	"happiness" n sg
+"<.>"
+	"." sent
+"<You>"
+;	"You" np cog sg
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<stay>"
+;	"stay" n sg
+;	"stay" vblex inf
+;	"stay" vblex pres
+	"stay" vblex imp
+"<right here>"
+	"right here" adv
+"<.>"
+	"." sent
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<just>"
+	"just" adv
+;	"just" adj sint
+"<going>"
+	"go" vblex pprs
+;	"go" vblex ger
+;	"go" vblex subs
+"<to>"
+	"to" pr
+"<run>"
+;	"run" n sg
+	"run" vblex inf
+;	"run" vblex pres
+;	"run" vblex pp
+;	"run" vblex imp
+"<out>"
+	"out" adv
+"<and>"
+	"and" cnjcoo
+"<get>"
+	"get" vblex inf
+;	"get" vblex pres
+;	"get" vblex imp
+"<stuff>"
+	"stuff" n sg
+;	"stuff" vblex inf
+;	"stuff" vblex pres
+;	"stuff" vblex imp
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<more>"
+;	"more" adv
+;	"more" preadv
+	"more" n sg
+;	"more" det qnt sp
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<she>"
+	"prpers" prn subj p3 f sg
+"<told>"
+	"tell" vblex past
+;	"tell" vblex pp
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<hastily>"
+	"hastily" adv
+"<checking>"
+	"check" vblex pprs
+;	"check" vblex ger
+;	"check" vblex subs
+"<the>"
+	"the" det def sp
+"<area>"
+	"area" n sg
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<wandering>"
+;	"wander" vblex pprs
+;	"wander" vblex ger
+;	"wander" vblex subs
+	"wandering" adj
+"<police officers>"
+	"police officer" n pl
+"<.>"
+	"." sent
+"<As>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<she>"
+	"prpers" prn subj p3 f sg
+"<ran away>"
+	"run" vblex past # away
+"<,>"
+	"," cm
+"<she>"
+	"prpers" prn subj p3 f sg
+"<heard>"
+	"hear" vblex past
+;	"hear" vblex pp
+"<what>"
+;	"what" det itg sp
+;	"what" prn itg mf sp
+	"what" prn rel nn mf sg
+"<could>"
+	"can" vbmod past
+"<only>"
+;	"only" adj
+	"only" adv
+"<be>"
+	"be" vbser inf
+"<a>"
+	"a" det ind sg
+"<long>"
+;	"long" adv
+	"long" adj sint
+;	"long" vblex inf
+;	"long" vblex pres
+;	"long" vblex imp
+"<,>"
+	"," cm
+"<painful>"
+	"painful" adj
+"<moan>"
+	"moan" n sg
+;	"moan" vblex inf
+;	"moan" vblex pres
+;	"moan" vblex imp
+"<followed>"
+;	"follow" vblex pp
+	"follow" vblex past
+;	"followed" adj
+"<by>"
+;	"by" adv
+	"by" pr
+"<a>"
+	"a" det ind sg
+"<heavy>"
+;	"heavy" adv
+	"heavy" adj sint
+"<thud>"
+	"thud" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<ground>"
+	"ground" n sg
+;	"ground" vblex inf
+;	"ground" vblex pres
+;	"ground" vblex imp
+"<.>"
+	"." sent
+"<Clearly>"
+	"clearly" adv
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<sadness>"
+	"sadness" n sg
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<gotten>"
+	"get" vblex pp
+"<to>"
+	"to" pr
+"<Cain>"
+;	"Cain" np cog sg
+	"Cain" np ant m sg
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<only>"
+;	"only" adj
+	"only" adv
+"<ever>"
+	"ever" adv
+"<used>"
+	"use" vblex past
+;	"use" vblex pp
+"<the>"
+	"the" det def sp
+"<finest>"
+	"fine" adj sint sup
+"<ingredients>"
+	"ingredient" n pl
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<meaning>"
+	"mean" vblex pprs
+;	"mean" vblex ger
+;	"mean" vblex subs
+;	"meaning" n sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<she>"
+	"prpers" prn subj p3 f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<limited>"
+	"limit" vblex pp
+;	"limit" vblex past
+;	"limited" adj
+;	"limited" adv
+"<to>"
+	"to" pr
+"<only>"
+;	"only" adj
+	"only" adv
+"<a few>"
+	"a few" det qnt pl
+;	"a few" prn ind mf pl
+"<sources>"
+	"source" n pl
+"<.>"
+	"." sent
+"<One>"
+;	"one" num sg
+	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<those>"
+	"that" det dem pl
+;	"that" prn dem mf pl
+"<sources>"
+	"source" n pl
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<Mario>"
+	"Mario" np ant m sg
+"<Pastora>"
+	"Pastora" np ant f sg
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<supplied>"
+;	"supply" vblex pp
+	"supply" vblex past
+"<Mary>"
+	"Mary" np ant f sg
+"<with>"
+	"with" pr
+"<Rainbow>"
+	"rainbow" n sg
+"<Juice>"
+	"juice" n sg
+"<.>"
+	"." sent
+"<Luckily>"
+	"luckily" adv
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<would>"
+	"will" vbmod past
+"<give>"
+	"give" vblex inf
+;	"give" vblex pres
+;	"give" vblex imp
+"<it>"
+;	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<to>"
+	"to" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<for free>"
+	"for free" adv
+"<in exchange>"
+	"in exchange" adv
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<Happiness>"
+	"happiness" n sg
+"<.>"
+	"." sent
+"<Good morning>"
+	"good morning" ij
+"<Mario>"
+	"Mario" np ant m sg
+"<.>"
+	"." sent
+"<How>"
+;	"how" adv
+;	"how" preadv
+	"how" adv itg
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+;	"be" vbser pres p3 pl
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<?>"
+	"?" sent
+"<she>"
+	"prpers" prn subj p3 f sg
+"<said>"
+	"say" vblex past
+;	"say" vblex pp
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<she>"
+	"prpers" prn subj p3 f sg
+"<saw>"
+;	"saw" n sg
+;	"saw" vblex inf
+;	"saw" vblex pres
+;	"saw" vblex imp
+	"see" vblex past
+"<him>"
+	"prpers" prn obj p3 m sg
+"<pacing>"
+	"pace" vblex pprs
+;	"pace" vblex ger
+;	"pace" vblex subs
+"<around>"
+	"around" adv
+;	"around" pr
+"<aimlessly>"
+	"aimlessly" adv
+"<in>"
+;	"in" adv
+	"in" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<shack>"
+	"shack" n sg
+"<.>"
+	"." sent
+"<Oh>"
+	"oh" ij
+"<hi>"
+	"hi" ij
+"<,>"
+	"," cm
+"<Mary>"
+	"Mary" np ant f sg
+"<.>"
+	"." sent
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<great>"
+	"great" adj sint
+"<.>"
+	"." sent
+"<Actually>"
+	"actually" adv
+"<,>"
+	"," cm
+"<scratch>"
+;	"scratch" n sg
+;	"scratch" vblex inf
+;	"scratch" vblex pres
+	"scratch" vblex imp
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<.>"
+	"." sent
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<feel>"
+;	"feel" n sg
+;	"feel" vblex inf
+	"feel" vblex pres
+;	"feel" vblex imp
+"<amazing>"
+;	"amaze" vblex pprs
+;	"amaze" vblex ger
+;	"amaze" vblex subs
+	"amazing" adj
+"<!>"
+	"!" sent
+"<he>"
+	"prpers" prn subj p3 m sg
+"<said>"
+	"say" vblex past
+;	"say" vblex pp
+"<,>"
+	"," cm
+"<almost>"
+	"almost" adv
+"<shouting>"
+	"shout" vblex pprs
+;	"shout" vblex ger
+;	"shout" vblex subs
+"<in>"
+	"in" adv
+	"in" pr
+"<excitement>"
+	"excitement" n sg
+"<.>"
+	"." sent
+"<You>"
+;	"You" np cog sg
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<seem>"
+;	"seem" vblex inf
+	"seem" vblex pres
+;	"seem" vblex imp
+"<awfully>"
+	"awfully" adv
+"<happy>"
+	"happy" adj sint
+"<today>"
+	"today" adv
+;	"today" n sg
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<am>"
+	"be" vbser pres p1 sg
+"<!>"
+	"!" sent
+"<Happy>"
+	"happy" adj sint
+"<.>"
+	"." sent
+"<Joyful>"
+	"joyful" adj
+"<.>"
+	"." sent
+"<Ecstatic>"
+	"ecstatic" adj
+"<!>"
+	"!" sent
+"<he>"
+	"prpers" prn subj p3 m sg
+"<said>"
+	"say" vblex past
+;	"say" vblex pp
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<giggling>"
+	"giggle" vblex pprs
+;	"giggle" vblex ger
+;	"giggle" vblex subs
+"<,>"
+	"," cm
+"<But>"
+	"but" cnjcoo
+;	"but" pr
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<feel>"
+;	"feel" n sg
+	"feel" vblex inf
+;	"feel" vblex pres
+;	"feel" vblex imp
+"<the>"
+	"the" det def sp
+"<effects>"
+	"effect" n pl
+;	"effect" vblex pres p3 sg
+"<wearing>"
+	"wear" vblex pprs
+;	"wear" vblex ger
+;	"wear" vblex subs
+"<off>"
+	"off" adv
+"<.>"
+	"." sent
+"<Do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<have>"
+;	"have" vbhaver inf
+;	"have" vbhaver pres
+	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<any more>"
+	"any more" adv
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<good>"
+;	"good" adv
+	"good" adj sint
+;	"good" n sg
+"<stuff>"
+	"stuff" n sg
+;	"stuff" vblex inf
+;	"stuff" vblex pres
+;	"stuff" vblex imp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<me>"
+	"prpers" prn obj p1 mf sg
+"<?>"
+	"?" sent
+"<I'll>"
+	"prpers" prn subj p1 mf sg + "will" vbmod pres
+"<give>"
+;	"give" vblex inf
+	"give" vblex pres
+;	"give" vblex imp
+"<you>"
+;	"you" prn pers p2 mf sg
+;	"prpers" prn subj p2 mf sp
+	"prpers" prn obj p2 mf sp
+"<some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<juice>"
+	"juice" n sg
+"<if>"
+;	"if" adv
+	"if" cnjsub
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<give>"
+;	"give" vblex inf
+	"give" vblex pres
+;	"give" vblex imp
+"<me>"
+	"prpers" prn obj p1 mf sg
+"<more>"
+;	"more" adv
+;	"more" preadv
+	"more" n sg
+;	"more" det qnt sp
+"<.>"
+	"." sent
+"<Actually>"
+	"actually" adv
+"<,>"
+	"," cm
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<need>"
+;	"need" n sg
+;	"need" vblex inf
+	"need" vblex pres
+;	"need" vblex imp
+"<to>"
+	"to" pr
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<more>"
+;	"more" adv
+;	"more" preadv
+	"more" n sg
+;	"more" det qnt sp
+"<.>"
+	"." sent
+"<Can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<give>"
+	"give" vblex inf
+;	"give" vblex pres
+;	"give" vblex imp
+"<me>"
+	"prpers" prn obj p1 mf sg
+"<some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<juice>"
+	"juice" n sg
+"<for now>"
+	"for now" adv
+"<,>"
+	"," cm
+"<please>"
+;	"please" adv
+	"please" ij
+;	"please" vblex inf
+;	"please" vblex pres
+;	"please" vblex imp
+"<?>"
+	"?" sent
+"<I'll>"
+	"prpers" prn subj p1 mf sg + "will" vbmod pres
+"<give>"
+	"give" vblex inf
+;	"give" vblex pres
+;	"give" vblex imp
+"<you>"
+;	"you" prn pers p2 mf sg
+;	"prpers" prn subj p2 mf sp
+	"prpers" prn obj p2 mf sp
+"<more>"
+;	"more" adv
+;	"more" preadv
+;	"more" n sg
+	"more" det qnt sp
+"<Happiness>"
+	"happiness" n sg
+"<as soon as>"
+;	"as soon as" adv
+;	"as soon as" cnjsub
+	"as soon as" cnjadv
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<.>"
+	"." sent
+"<Of course>"
+	"of course" adv
+"<!>"
+	"!" sent
+"<Speaking>"
+	"speak" vblex pprs
+;	"speak" vblex ger
+;	"speak" vblex subs
+"<of>"
+	"of" pr
+"<juice>"
+	"juice" n sg
+"<,>"
+	"," cm
+"<what's>"
+	"what" prn itg + "be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<big>"
+	"big" adj sint
+"<deal with>"
+;	"deal" vblex inf # with
+;	"deal" vblex pres # with
+;	"deal" vblex imp # with
+"<fruit>"
+	"fruit" n sg
+"<?>"
+	"?" sent
+"<Like>"
+;	"like" adj
+	"like" cnjsub
+;	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<they're>"
+	"prpers" prn subj p3 mf pl + "be" vbser pres
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<fruity>"
+	"fruity" adj
+"<.>"
+	"." sent
+"<It's>"
+	"prpers" prn subj p3 nt sg + "be" vbser pres p3 sg
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<a>"
+	"a" det ind sg
+"<conspiracy>"
+	"conspiracy" n sg
+"<!>"
+	"!" sent
+"<Also>"
+	"also" adv
+;	"Also" np cog sg
+"<While>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<he>"
+	"prpers" prn subj p3 m sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<jabbering>"
+	"jabber" vblex pprs
+;	"jabber" vblex ger
+;	"jabber" vblex subs
+"<on>"
+	"on" adv
+;	"on" pr
+"<,>"
+	"," cm
+"<sirens>"
+	"siren" n pl
+"<rang>"
+	"ring" vblex past
+"<out>"
+	"out" adv
+"<nearby>"
+;	"nearby" adj
+	"nearby" adv
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<recognized>"
+	"recognise" vblex past
+;	"recognise" vblex pp
+"<the>"
+	"the" det def sp
+"<source>"
+	"source" n sg
+"<immediately>"
+	"immediately" adv
+"<.>"
+	"." sent
+"<She>"
+	"prpers" prn subj p3 f sg
+"<did>"
+;	"do" vaux past
+;	"do" vblex past
+	"do" vbdo past
+"<not>"
+	"not" adv
+"<notice>"
+;	"notice" n sg
+	"notice" vblex inf
+;	"notice" vblex pres
+;	"notice" vblex imp
+"<Mario>"
+	"Mario" np ant m sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<voice>"
+	"voice" n sg
+;	"voice" vblex inf
+;	"voice" vblex pres
+;	"voice" vblex imp
+"<becoming>"
+	"become" vblex pprs
+;	"become" vblex ger
+;	"become" vblex subs
+"<more and more>"
+	"more and more" adv
+"<strained>"
+;	"strain" vblex pp
+;	"strain" vblex past
+	"strained" adj
+"<and>"
+	"and" cnjcoo
+"<incohesive>"
+	"incohesive" adj
+"<.>"
+	"." sent
+"<Police>"
+;	"police" adj
+;	"police" n sg
+	"police" n pl
+;	"police" vblex inf
+;	"police" vblex pres
+;	"police" vblex imp
+"<,>"
+	"," cm
+"<she>"
+	"prpers" prn subj p3 f sg
+"<whispered>"
+;	"whisper" vblex pp
+	"whisper" vblex past
+"<,>"
+	"," cm
+"<They're>"
+	"prpers" prn subj p3 mf pl + "be" vbser pres
+"<probably>"
+	"probably" adv
+"<looking for>"
+	"look" vblex pprs # for
+;	"look" vblex ger # for
+;	"look" vblex subs # for
+"<me>"
+	"prpers" prn obj p1 mf sg
+"<.>"
+	"." sent
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<sorry>"
+	"sorry" adj sint
+"<.>"
+	"." sent
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<must>"
+;	"must" n sg
+;	"must" vbmod inf
+	"must" vbmod pres
+"<go>"
+	"go" vblex inf
+;	"go" vblex pres
+;	"go" vblex imp
+"<now>"
+	"now" adv
+"<.>"
+	"." sent
+"<Suddenly>"
+	"suddenly" adv
+"<,>"
+	"," cm
+"<Mario>"
+	"Mario" np ant m sg
+"<stopped>"
+	"stop" vblex past
+;	"stop" vblex pp
+"<talking>"
+	"talk" vblex pprs
+;	"talk" vblex ger
+;	"talk" vblex subs
+;	"talking" n sg
+"<.>"
+	"." sent
+"<Pure>"
+	"pure" adj sint
+"<rage>"
+	"rage" n sg
+;	"rage" vblex inf
+;	"rage" vblex pres
+;	"rage" vblex imp
+"<filled>"
+;	"fill" vblex pp
+	"fill" vblex past
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<eyes>"
+	"eye" n pl
+;	"eye" vblex pres p3 sg
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<he>"
+	"prpers" prn subj p3 m sg
+"<stared at>"
+	"stare" vblex past # at
+;	"stare" vblex pp # at
+"<Mary>"
+	"Mary" np ant f sg
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<like>"
+;	"like" adj
+	"like" cnjsub
+;	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<he>"
+	"prpers" prn subj p3 m sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<a>"
+	"a" det ind sg
+"<completely>"
+	"completely" adv
+"<different>"
+	"different" adj
+"<person>"
+	"person" n sg
+"<then>"
+	"then" adv
+;	"then" cnjadv
+"<.>"
+	"." sent
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<need>"
+;	"need" n sg
+;	"need" vblex inf
+	"need" vblex pres
+;	"need" vblex imp
+"<Happiness>"
+	"happiness" n sg
+"<.>"
+	"." sent
+"<Give>"
+;	"give" vblex inf
+;	"give" vblex pres
+	"give" vblex imp
+"<.>"
+	"." sent
+"<Me>"
+	"prpers" prn obj p1 mf sg
+"<.>"
+	"." sent
+"<Happiness>"
+	"happiness" n sg
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<growled>"
+;	"growl" vblex pp
+	"growl" vblex past
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<started>"
+;	"start" vblex pp
+	"start" vblex past
+"<to>"
+	"to" pr
+"<shuffle>"
+	"shuffle" vblex inf
+"<menacingly>"
+	"menacingly" adv
+"<towards>"
+;	"towards" adv
+	"towards" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<.>"
+	"." sent
+"<Look>"
+;	"look" adv
+;	"look" n sg
+;	"look" vblex inf
+;	"look" vblex pres
+	"look" vblex imp
+"<,>"
+	"," cm
+"<Mario>"
+	"Mario" np ant m sg
+"<,>"
+	"," cm
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<don't>"
+	"do" vbdo pres + "not" adv
+;	"do" vbdo imp + "not" adv
+"<want>"
+;	"want" n sg
+	"want" vblex inf
+;	"want" vblex pres
+;	"want" vblex imp
+"<any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<trouble>"
+	"trouble" n sg
+;	"trouble" vblex inf
+;	"trouble" vblex pres
+;	"trouble" vblex imp
+"<.>"
+	"." sent
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<going>"
+	"go" vblex pprs
+;	"go" vblex ger
+;	"go" vblex subs
+"<to>"
+	"to" pr
+"<give>"
+	"give" vblex inf
+;	"give" vblex pres
+;	"give" vblex imp
+"<you>"
+;	"you" prn pers p2 mf sg
+;	"prpers" prn subj p2 mf sp
+	"prpers" prn obj p2 mf sp
+"<some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<to>"
+	"to" pr
+"<->"
+	"-" guio
+"<She>"
+	"prpers" prn subj p3 f sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<cut>"
+;	"cut" adj
+;	"cut" n sg
+;	"cut" vblex inf
+;	"cut" vblex pres
+;	"cut" vblex past
+	"cut" vblex pp
+;	"cut" vblex imp
+"<off>"
+	"off" adv
+"<abruptly>"
+	"abruptly" adv
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<Mario>"
+	"Mario" np ant m sg
+"<lunged>"
+	"lunged" vblex past
+"<at>"
+	"at" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<ripped>"
+	"rip" vblex past
+;	"rip" vblex pp
+"<at>"
+	"at" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<hair>"
+	"hair" n sg
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<screaming>"
+	"scream" vblex pprs
+;	"scream" vblex ger
+;	"scream" vblex subs
+"<like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<a>"
+	"a" det ind sg
+"<banshee>"
+	"banshee" n sg
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<had>"
+	"have" vbhaver past
+	"have" vblex past
+"<never>"
+	"never" adv
+"<seen>"
+	"see" vblex pp
+"<anyone>"
+	"anyone" prn ind mf sg
+"<become>"
+	"become" vblex inf
+;	"become" vblex pres
+;	"become" vblex pp
+;	"become" vblex imp
+"<so>"
+;	"so" adv
+	"so" preadv
+;	"so" cnjadv
+"<vicious>"
+	"vicious" adj
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<quickly>"
+	"quickly" adv
+"<before>"
+	"before" adv
+;	"before" cnjadv
+;	"before" pr
+"<.>"
+	"." sent
+"<Is>"
+	"be" vbser pres p3 sg
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<really>"
+	"really" adv
+;	"really" preadv
+"<what>"
+;	"what" det itg sp
+	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<too much>"
+	"too much" adv
+;	"too much" det qnt sg
+"<sadness>"
+	"sadness" n sg
+"<could>"
+	"can" vbmod past
+"<do>"
+	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<to>"
+	"to" pr
+"<a>"
+	"a" det ind sg
+"<person>"
+	"person" n sg
+"<?>"
+	"?" sent
+"<Before>"
+;	"before" adv
+	"before" cnjadv
+;	"before" pr
+"<she>"
+	"prpers" prn subj p3 f sg
+"<could>"
+	"can" vbmod past
+"<think>"
+	"think" vblex inf
+;	"think" vblex pres
+;	"think" vblex imp
+"<any>"
+	"any" adv
+;	"any" det ind sp
+;	"any" prn qnt mf sp
+"<further>"
+;	"far" adj sint comp
+	"further" adv
+;	"further" vblex inf
+;	"further" vblex pres
+;	"further" vblex imp
+"<about>"
+;	"about" adv
+	"about" pr
+"<it>"
+;	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<,>"
+	"," cm
+"<several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<gunshots>"
+	"gunshot" n pl
+"<rang>"
+	"ring" vblex past
+"<out from>"
+	"out from" pr
+"<behind>"
+;	"behind" adv
+	"behind" pr
+;	"behind" n sg
+"<Mario>"
+	"Mario" np ant m sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<back>"
+;	"back" adj
+;	"back" adv
+	"back" n sg
+;	"back" vblex inf
+;	"back" vblex pres
+;	"back" vblex imp
+"<.>"
+	"." sent
+"<For a moment>"
+	"for a moment" adv
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<simply>"
+	"simply" adv
+"<stood>"
+	"stand" vblex past
+;	"stand" vblex pp
+"<there>"
+	"there" adv
+"<,>"
+	"," cm
+"<frozen>"
+	"frozen" adj
+;	"freeze" vblex pp
+"<with>"
+	"with" pr
+"<the same>"
+;	"the same" adv
+	"the same" det ind sp
+;	"the" det def sp + "same" adj
+"<look>"
+;	"look" adv
+	"look" n sg
+;	"look" vblex inf
+;	"look" vblex pres
+;	"look" vblex imp
+"<of>"
+	"of" pr
+"<viciousness>"
+	"viciousness" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<face>"
+	"face" n sg
+;	"face" vblex inf
+;	"face" vblex pres
+;	"face" vblex imp
+"<,>"
+	"," cm
+"<before>"
+;	"before" adv
+;	"before" cnjadv
+	"before" pr
+"<inevitably>"
+	"inevitably" adv
+"<collapsing>"
+	"collapse" vblex pprs
+;	"collapse" vblex ger
+;	"collapse" vblex subs
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<dead>"
+	"dead" adj
+"<.>"
+	"." sent
+"<Suddenly>"
+	"suddenly" adv
+"<,>"
+	"," cm
+"<three>"
+	"three" num pl
+"<police officers>"
+	"police officer" n pl
+"<burst>"
+;	"burst" n sg
+;	"burst" vblex inf
+;	"burst" vblex pres
+	"burst" vblex past
+;	"burst" vblex pp
+;	"burst" vblex imp
+"<into>"
+	"into" pr
+"<the>"
+	"the" det def sp
+"<shack>"
+	"shack" n sg
+"<.>"
+	"." sent
+"<There>"
+	"there" adv
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<the ones who>"
+	"the ones who" prn rel nn mf pl
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<shot>"
+;	"shot" adj
+;	"shot" n sg
+	"shoot" vblex past
+;	"shoot" vblex pp
+"<Mario>"
+	"Mario" np ant m sg
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<ran>"
+	"run" vblex past
+"<as>"
+;	"as" adv
+	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<fast>"
+	"fast" adv
+;	"fast" adj sint
+;	"fast" n sg
+;	"fast" vblex inf
+;	"fast" vblex pres
+;	"fast" vblex imp
+"<as>"
+;	"as" adv
+	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<she>"
+	"prpers" prn subj p3 f sg
+"<could>"
+	"can" vbmod past
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<the>"
+	"the" det def sp
+"<police>"
+;	"police" adj
+;	"police" n sg
+	"police" n pl
+;	"police" vblex inf
+;	"police" vblex pres
+;	"police" vblex imp
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<much>"
+	"much" adv
+;	"much" det qnt sg
+;	"much" prn qnt mf sp
+"<faster>"
+	"fast" adj sint comp
+"<.>"
+	"." sent
+"<One>"
+;	"one" num sg
+	"one" prn dem mf sg
+"<pounced>"
+	"pounce" vblex past
+;	"pounce" vblex pp
+"<on>"
+;	"on" adv
+	"on" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<,>"
+	"," cm
+"<pinned>"
+	"pin" vblex past
+;	"pin" vblex pp
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<to the ground>"
+	"to the ground" adv
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<violently>"
+	"violently" adv
+"<stripped>"
+	"strip" vblex past
+;	"strip" vblex pp
+;	"stripped" adj
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<down>"
+	"down" adv
+;	"down" n sg
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<barking>"
+	"bark" vblex pprs
+;	"bark" vblex ger
+;	"bark" vblex subs
+"<orders>"
+	"order" n pl
+;	"order" vblex pres p3 sg
+"<at>"
+	"at" pr
+"<the other>"
+;	"the other" prn dem mf sg
+	"the" det def sp + "other" det ind sp
+"<officers>"
+	"officer" n pl
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<handcuffed>"
+;	"handcuff" vblex pp
+	"handcuff" vblex past
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<hands>"
+	"hand" n pl
+;	"hand" vblex pres p3 sg
+"<behind>"
+;	"behind" adv
+	"behind" pr
+;	"behind" n sg
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<back>"
+;	"back" adj
+;	"back" adv
+	"back" n sg
+;	"back" vblex inf
+;	"back" vblex pres
+;	"back" vblex imp
+"<and>"
+	"and" cnjcoo
+"<pointed>"
+;	"point" vblex pp
+	"point" vblex past
+;	"pointed" adj
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<guns>"
+	"gun" n pl
+;	"gun" vblex pres p3 sg
+"<at>"
+	"at" pr
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<slowly>"
+	"slowly" adv
+"<circling>"
+	"circle" vblex pprs
+;	"circle" vblex ger
+;	"circle" vblex subs
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<vultures>"
+	"vulture" n pl
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<could>"
+	"can" vbmod past
+"<only>"
+;	"only" adj
+	"only" adv
+"<feel>"
+;	"feel" n sg
+	"feel" vblex inf
+;	"feel" vblex pres
+;	"feel" vblex imp
+"<a>"
+	"a" det ind sg
+"<feeling>"
+;	"feel" vblex pprs
+;	"feel" vblex ger
+;	"feel" vblex subs
+	"feeling" n sg
+"<of>"
+	"of" pr
+"<despair>"
+	"despair" n sg
+;	"despair" vblex inf
+;	"despair" vblex pres
+;	"despair" vblex imp
+"<.>"
+	"." sent
+"<Her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<customers>"
+	"customer" n pl
+"<could>"
+	"can" vbmod past
+"<never>"
+	"never" adv
+"<be happy>"
+	"be" vblex inf # happy
+;	"be" vblex imp # happy
+"<again>"
+	"again" adv
+"<.>"
+	"." sent
+"<Mary>"
+	"Mary" np ant f sg
+"<Jane>"
+	"Jane" np ant f sg
+"<,>"
+	"," cm
+"<you>"
+;	"you" prn pers p2 mf sg
+;	"prpers" prn subj p2 mf sp
+	"prpers" prn obj p2 mf sp
+"<under>"
+;	"under" adv
+	"under" pr
+"<arrest>"
+	"arrest" n sg
+;	"arrest" vblex inf
+;	"arrest" vblex pres
+;	"arrest" vblex imp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<the>"
+	"the" det def sp
+"<possession>"
+	"possession" n sg
+"<and>"
+	"and" cnjcoo
+"<trafficking>"
+	"trafficking" n sg
+"<of>"
+	"of" pr
+"<Happiness>"
+	"happiness" n sg
+"<.>"
+	"." sent
+"<Society>"
+	"society" n sg
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<be>"
+	"be" vbser inf
+"<a>"
+	"a" det ind sg
+"<safer>"
+	"safe" adj sint comp
+"<place>"
+	"place" n sg
+;	"place" vblex inf
+;	"place" vblex pres
+;	"place" vblex imp
+"<without>"
+;	"without" adv
+	"without" pr
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<.>"
+	"." sent
+"<Why>"
+	"why" adv itg
+"<would>"
+	"will" vbmod past
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<arrest>"
+;	"arrest" n sg
+	"arrest" vblex inf
+;	"arrest" vblex pres
+;	"arrest" vblex imp
+"<me>"
+	"prpers" prn obj p1 mf sg
+"<?>"
+	"?" sent
+"<I'm>"
+	"prpers" prn subj p1 mf sg + "be" vbser pres p1 sg
+"<just>"
+	"just" adv
+;	"just" adj sint
+"<making>"
+	"make" vblex pprs
+;	"make" vblex ger
+;	"make" vblex subs
+"<people>"
+;	"people" n sg
+	"person" n pl
+"<happy>"
+	"happy" adj sint
+"<!>"
+	"!" sent
+"<Don't>"
+	"do" vbdo pres + "not" adv
+;	"do" vbdo imp + "not" adv
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<want>"
+;	"want" n sg
+;	"want" vblex inf
+	"want" vblex pres
+;	"want" vblex imp
+"<us>"
+	"prpers" prn obj p1 mf pl
+"<to>"
+	"to" pr
+"<be happy>"
+	"be" vblex inf # happy
+;	"be" vblex imp # happy
+"<?>"
+	"?" sent
+"<she>"
+	"prpers" prn subj p3 f sg
+"<cried>"
+;	"cry" vblex pp
+	"cry" vblex past
+"<.>"
+	"." sent
+"<Be happy>"
+	"be" vblex inf # happy
+;	"be" vblex imp # happy
+"<?>"
+	"?" sent
+"<BE HAPPY>"
+	"be" vblex inf # happy
+;	"be" vblex imp # happy
+"<?>"
+	"?" sent
+"<Do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<you>"
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<even>"
+;	"even" adj
+	"even" adv
+"<know>"
+	"know" vblex inf
+;	"know" vblex pres
+;	"know" vblex imp
+"<what>"
+	"what" det itg sp
+;	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<Happiness>"
+	"happiness" n sg
+"<does>"
+	"do" vblex pres p3 sg
+;	"do" vaux pres p3 sg
+;	"do" vbdo pres p3 sg
+"<?>"
+	"?" sent
+"<You>"
+;	"You" np cog sg
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
+;	"prpers" prn obj p2 mf sp
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+;	"be" vbser pres p3 pl
+"<part>"
+	"part" n sg
+;	"part" vblex inf
+;	"part" vblex pres
+;	"part" vblex imp
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<reason>"
+	"reason" n sg
+;	"reason" vblex inf
+;	"reason" vblex pres
+;	"reason" vblex imp
+"<why>"
+	"why" adv itg
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<place>"
+	"place" n sg
+;	"place" vblex inf
+;	"place" vblex pres
+;	"place" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<such a>"
+	"such a" det ind sg
+"<dump>"
+	"dump" n sg
+;	"dump" vblex inf
+;	"dump" vblex pres
+;	"dump" vblex imp
+"<!>"
+	"!" sent
+"<thundered>"
+;	"thunder" vblex pp
+	"thunder" vblex past
+"<the>"
+	"the" det def sp
+"<officer>"
+	"officer" n sg
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<pinned>"
+	"pin" vblex past
+;	"pin" vblex pp
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<down>"
+	"down" adv
+;	"down" n sg
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<continued>"
+;	"continued" adj
+	"continue" vblex past
+;	"continue" vblex pp
+"<to>"
+	"to" pr
+"<ramble>"
+	"ramble" vblex inf
+"<on>"
+	"on" adv
+;	"on" pr
+"<about>"
+;	"about" adv
+	"about" pr
+"<details>"
+	"detail" n pl
+;	"detail" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<arrest>"
+	"arrest" n sg
+;	"arrest" vblex inf
+;	"arrest" vblex pres
+;	"arrest" vblex imp
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<Mary>"
+	"Mary" np ant f sg
+"<could>"
+	"can" vbmod past
+"<do>"
+	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<wonder>"
+;	"wonder" n sg
+	"wonder" vblex inf
+;	"wonder" vblex pres
+;	"wonder" vblex imp
+"<,>"
+	"," cm
+"<what>"
+	"what" det itg sp
+;	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<the>"
+	"the" det def sp
+"<point>"
+;	"point" adj sint
+	"point" n sg
+;	"point" vblex inf
+;	"point" vblex pres
+;	"point" vblex imp
+"<of>"
+	"of" pr
+"<living>"
+	"live" vblex pprs
+	"live" vblex ger
+	"live" vblex subs
+;	"living" adj
+	"living" n sg
+"<without>"
+;	"without" adv
+	"without" pr
+"<Happiness>"
+	"happiness" n sg
+"<?.>"
+	"?." sent
