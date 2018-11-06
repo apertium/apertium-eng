@@ -12,7 +12,7 @@
 	"use" vblex past
 ;	"use" vblex pp
 "<by>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<biologists>"
 	"biologist" n pl
@@ -26,9 +26,9 @@
 "<how>"
 	"how" adv
 ;	"how" preadv
-	"how" adv itg
+;	"how" adv itg
 "<living>"
-	"live" vblex pprs
+;	"live" vblex pprs
 ;	"live" vblex ger
 ;	"live" vblex subs
 	"living" adj
@@ -36,17 +36,17 @@
 "<things>"
 	"thing" n pl
 "<change>"
-	"change" n sg
+;	"change" n sg
 ;	"change" vblex inf
 	"change" vblex pres
 ;	"change" vblex imp
 "<over>"
-	"over" adv
+;	"over" adv
 	"over" pr
 "<a>"
 	"a" det ind sg
 "<long>"
-	"long" adv
+;	"long" adv
 	"long" adj sint
 ;	"long" vblex inf
 ;	"long" vblex pres
@@ -63,14 +63,14 @@
 "<how>"
 	"how" adv
 ;	"how" preadv
-	"how" adv itg
+;	"how" adv itg
 "<they>"
 	"prpers" prn subj p3 mf pl
 "<have>"
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<come to>"
 	"come# to" vblex inf
@@ -86,7 +86,7 @@
 "<they>"
 	"prpers" prn subj p3 mf pl
 "<are>"
-	"be" vbser pres
+;	"be" vbser pres
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
@@ -104,7 +104,7 @@
 "<.>"
 	"." sent
 "<By>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<studying>"
 ;	"study" vblex pprs
@@ -124,7 +124,7 @@
 ;	"rock" vblex imp
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<make up>"
@@ -155,20 +155,20 @@
 ;	"find# out" vblex pres
 ;	"find# out" vblex imp
 "<about>"
-	"about" adv
+;	"about" adv
 	"about" pr
 "<its>"
-	"its" det pos sp
+;	"its" det pos sp
 	"prpers" det pos p3 nt sg
 "<past>"
-;	"past" adj
+	"past" adj
 ;	"past" pr
-	"past" n sg
+;	"past" n sg
 "<.>"
 	"." sent
 "<This>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<kind>"
 ;	"kind" adj sint
@@ -199,14 +199,14 @@
 	"know" vblex pp
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<living>"
 	"live" vblex pprs
 ;	"live" vblex ger
 ;	"live" vblex subs
-	"living" adj
+;	"living" adj
 ;	"living" n sg
 "<things>"
 	"thing" n pl
@@ -214,7 +214,7 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<changed>"
 ;	"changed" adj
@@ -232,7 +232,7 @@
 	"prpers" det pos p3 mf pl
 "<remains>"
 	"remains" n pl
-	"remain" vblex pres p3 sg
+;	"remain" vblex pres p3 sg
 "<can>"
 ;	"can" n sg
 ;	"can" vbmod inf
@@ -245,7 +245,7 @@
 "<seen>"
 	"see" vblex pp
 "<in>"
-	"in" adv
+;	"in" adv
 	"in" pr
 "<the>"
 	"the" det def sp
@@ -276,14 +276,14 @@
 "<.>"
 	"." sent
 "<This>"
-	"this" det dem sg
+;	"this" det dem sg
 	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<proves>"
 	"prove" vblex pres p3 sg
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<the>"
@@ -298,14 +298,14 @@
 "<of>"
 	"of" pr
 "<today>"
-;	"today" adv
+	"today" adv
 	"today" n sg
 "<are>"
 	"be" vbser pres
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-	"be" vbser pres p3 pl
+;	"be" vbser pres p3 pl
 "<different>"
 	"different" adj
 "<from>"
@@ -317,7 +317,7 @@
 	"of" pr
 "<long>"
 	"long" adv
-	"long" adj sint
+;	"long" adj sint
 ;	"long" vblex inf
 ;	"long" vblex pres
 ;	"long" vblex imp
@@ -353,7 +353,7 @@
 "<.>"
 	"." sent
 "<How>"
-	"how" adv
+;	"how" adv
 ;	"how" preadv
 	"how" adv itg
 "<has>"
@@ -361,7 +361,7 @@
 ;	"have" vblex pres p3 sg
 "<this>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<come about>"
 	"come# about" vblex inf
@@ -380,7 +380,7 @@
 "<.>"
 	"." sent
 "<That>"
-	"that" cnjsub
+;	"that" cnjsub
 	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
@@ -414,7 +414,7 @@
 ;	"support" vblex past
 ;	"supported" adj
 "<by>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<many>"
 	"many" det qnt pl
@@ -441,7 +441,7 @@
 	"question" n pl
 ;	"question" vblex pres p3 sg
 "<are>"
-	"be" vbser pres
+;	"be" vbser pres
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
@@ -460,7 +460,7 @@
 ;	"research" vblex pp
 	"research" vblex past
 "<by>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<biologists>"
 	"biologist" n pl
@@ -498,7 +498,7 @@
 	"way" n sg
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<evolution>"
@@ -523,7 +523,7 @@
 "<is>"
 	"be" vbser pres p3 sg
 "<about>"
-	"about" adv
+;	"about" adv
 	"about" pr
 "<52>"
 	"52" num
@@ -540,7 +540,7 @@
 	"prpers" prn subj p3 nt sg
 ;	"prpers" prn obj p3 nt sg
 "<was>"
-;	"be" vbser past p1 sg
+	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<a>"
 	"a" det ind sg
@@ -556,12 +556,12 @@
 "<toes>"
 	"toe" n pl
 "<on>"
-	"on" adv
+;	"on" adv
 	"on" pr
 "<the>"
 	"the" det def sp
 "<front>"
-;	"front" adv
+	"front" adv
 ;	"front" n sg
 ;	"front" vblex inf
 ;	"front" vblex pres
@@ -573,7 +573,7 @@
 "<four>"
 	"four" num pl
 "<on>"
-	"on" adv
+;	"on" adv
 	"on" pr
 "<the>"
 	"the" det def sp
@@ -610,13 +610,13 @@
 "<than>"
 	"than" cnjsub
 "<today>"
-;	"today" adv
+	"today" adv
 	"today" n sg
 "<.>"
 	"." sent
 "<This>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<horse>"
 	"horse" n sg
@@ -624,7 +624,7 @@
 	"live" vblex past
 ;	"live" vblex pp
 "<in>"
-	"in" adv
+;	"in" adv
 	"in" pr
 "<woodland>"
 	"woodland" n sg
@@ -651,7 +651,7 @@
 	"with" pr
 "<its>"
 	"its" det pos sp
-	"prpers" det pos p3 nt sg
+;	"prpers" det pos p3 nt sg
 "<simple>"
 	"simple" adj sint
 "<teeth>"
@@ -665,7 +665,7 @@
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<only>"
-	"only" adj
+;	"only" adj
 	"only" adv
 "<about as>"
 	"about as" adv
@@ -679,7 +679,7 @@
 	"." sent
 
 "<About>"
-	"about" adv
+;	"about" adv
 	"about" pr
 "<30>"
 	"30" num
@@ -693,7 +693,7 @@
 "<the>"
 	"the" det def sp
 "<world>"
-	"world" adj
+;	"world" adj
 	"world" n sg
 "<started>"
 ;	"start" vblex pp
@@ -807,7 +807,7 @@
 	"long" adj sint comp
 "<->"
 	"-" guio
-;"<lasting>"
+"<lasting>"
 ;	"last" vblex pprs
 ;	"last" vblex ger
 ;	"last" vblex subs
@@ -816,7 +816,7 @@
 	"tooth" n pl
 "<had>"
 	"have" vbhaver past
-;	"have" vblex past
+	"have" vblex past
 "<an>"
 	"a" det ind sg
 "<advantage>"
@@ -831,10 +831,10 @@
 	"most of" det qnt sp
 "<this>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<long>"
-	"long" adv
+;	"long" adv
 	"long" adj sint
 ;	"long" vblex inf
 ;	"long" vblex pres
@@ -891,7 +891,7 @@
 	"genus" n sg
 "<exists>"
 	"exist" vblex pres p3 sg
-;"<:>"
+"<:>"
 	":" sent
 "<the>"
 	"the" det def sp
@@ -924,7 +924,7 @@
 ;	"all" prn qnt mf sp
 "<its>"
 	"its" det pos sp
-	"prpers" det pos p3 nt sg
+;	"prpers" det pos p3 nt sg
 "<life>"
 	"life" n sg
 "<,>"
@@ -932,7 +932,7 @@
 "<hooves>"
 	"hoof" n pl
 "<on>"
-	"on" adv
+;	"on" adv
 	"on" pr
 "<single>"
 	"single" adj
@@ -944,7 +944,7 @@
 "<great>"
 	"great" adj sint
 "<long>"
-	"long" adv
+;	"long" adv
 	"long" adj sint
 ;	"long" vblex inf
 ;	"long" vblex pres
@@ -967,7 +967,7 @@
 "<the>"
 	"the" det def sp
 "<animal>"
-;	"animal" adj
+	"animal" adj
 	"animal" n sg
 "<is>"
 	"be" vbser pres p3 sg
@@ -977,7 +977,7 @@
 	"and" cnjcoo
 "<strong>"
 	"strong" adj sint
-;"<enough>"
+"<enough>"
 ;	"enough" adv
 	"enough" det qnt sp
 "<to>"
@@ -1035,7 +1035,7 @@
 "<extinct>"
 	"extinct" adj
 "<about>"
-	"about" adv
+;	"about" adv
 	"about" pr
 "<11,000>"
 	"11,000" num
@@ -1054,7 +1054,7 @@
 	"of" pr
 "<this>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<extinction>"
 	"extinction" n sg
@@ -1063,7 +1063,7 @@
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-	"be" vbser pres p3 pl
+;	"be" vbser pres p3 pl
 "<not yet>"
 	"not yet" adv
 "<clear>"
@@ -1077,23 +1077,23 @@
 	"climate" n sg
 "<change>"
 	"change" n sg
-;	"change" vblex inf
+	"change" vblex inf
 	"change" vblex pres
-;	"change" vblex imp
+	"change" vblex imp
 "<and>"
 	"and" cnjcoo
 "<over>"
 	"over" adv
-	"over" pr
+;	"over" pr
 "<->"
 	"-" guio
-;"<hunting>"
+"<hunting>"
 ;	"hunt" vblex pprs
 	"hunt" vblex ger
 ;	"hunt" vblex subs
 ;	"hunting" n sg
 "<by>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<humans>"
 	"human" n pl
@@ -1102,7 +1102,7 @@
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-	"be" vbser pres p3 pl
+;	"be" vbser pres p3 pl
 "<suggested>"
 ;	"suggest" vblex pp
 	"suggest" vblex past
@@ -1118,11 +1118,11 @@
 "<biologists>"
 	"biologist" n pl
 "<look at>"
-;	"look# at" vblex inf
+	"look# at" vblex inf
 	"look# at" vblex pres
-;	"look# at" vblex imp
+	"look# at" vblex imp
 "<living>"
-	"live" vblex pprs
+;	"live" vblex pprs
 ;	"live" vblex ger
 ;	"live" vblex subs
 	"living" adj
@@ -1139,7 +1139,7 @@
 ;	"see" vblex imp
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<animals>"
@@ -1164,7 +1164,7 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<something>"
 	"something" prn ind nt sg
@@ -1181,12 +1181,12 @@
 	"explain" vblex past
 "<that>"
 	"that" cnjsub
-	"that" det dem sg
+;	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<this>"
 	"this" det dem sg
-	"this" prn dem mf sg
+;	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<followed>"
 ;	"follow" vblex pp
@@ -1224,7 +1224,7 @@
 	"together with" pr
 "<their>"
 	"their" det pos sp
-	"prpers" det pos p3 mf pl
+;	"prpers" det pos p3 mf pl
 "<modification>"
 	"modification" n sg
 "<through>"
@@ -1254,7 +1254,7 @@
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-	"be" vbser pres p3 pl
+;	"be" vbser pres p3 pl
 "<related>"
 ;	"related" adj
 ;	"relate" vblex past
@@ -1293,7 +1293,7 @@
 ;	"control" vblex past
 	"control" vblex pp
 "<by>"
-	"by" adv
+;	"by" adv
 	"by" pr
 "<master>"
 	"master" adj
@@ -1313,7 +1313,7 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<six>"
 	"six" num pl
@@ -1327,7 +1327,7 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<hard>"
 	"hard" adj sint
@@ -1336,7 +1336,7 @@
 	"part" n pl
 ;	"part" vblex pres p3 sg
 "<on>"
-	"on" adv
+;	"on" adv
 	"on" pr
 "<the>"
 	"the" det def sp
@@ -1359,14 +1359,14 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
+;	"have" vblex pres
 ;	"have" vblex imp
 "<eyes>"
 	"eye" n pl
 ;	"eye" vblex pres p3 sg
-;"<formed>"
+"<formed>"
 ;	"form" vblex pp
-;	"form" vblex past
+	"form" vblex past
 "<of>"
 	"of" pr
 "<many>"
@@ -1393,7 +1393,7 @@
 	"explain" vblex pres
 ;	"explain" vblex imp
 "<this>"
-	"this" det dem sg
+;	"this" det dem sg
 	"this" prn dem mf sg
 ;	"this" prn rel an mf sp
 "<with>"
@@ -1414,7 +1414,7 @@
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-	"be" vbser pres p3 pl
+;	"be" vbser pres p3 pl
 "<the>"
 	"the" det def sp
 "<descendants>"
@@ -1441,7 +1441,7 @@
 "<a>"
 	"a" det ind sg
 "<long>"
-	"long" adv
+;	"long" adv
 	"long" adj sint
 ;	"long" vblex inf
 ;	"long" vblex pres
