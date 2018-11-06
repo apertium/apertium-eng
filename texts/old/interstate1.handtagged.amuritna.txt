@@ -1,0 +1,1637 @@
+"<Interstate>"
+;	"interstate" adj
+"<75>"
+	"75" num
+"<(>"
+	"(" lpar
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<)>"
+	")" rpar
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<part>"
+	"part" n sg
+;	"part" vblex inf
+;	"part" vblex pres
+;	"part" vblex imp
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Interstate>"
+;	"interstate" adj
+"<Highway>"
+	"highway" n sg
+"<System>"
+	"system" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<runs>"
+;	"run" n pl
+	"run" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<Miami>"
+	"Miami" np top sg
+"<,>"
+	"," cm
+"<Florida>"
+	"Florida" np top sg
+"<,>"
+	"," cm
+"<to>"
+	"to" pr
+"<Sault>"
+	"*Sault"
+"<Ste>"
+	"*Ste"
+"<.>"
+	"." sent
+"<Marie>"
+;	"Marie" np ant f sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<Upper>"
+;	"upper" adj
+"<Peninsula>"
+;	"peninsula" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<of>"
+	"of" pr
+"<Michigan>"
+	"Michigan" np top sg
+"<.>"
+	"." sent
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<enters>"
+	"enter" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<from>"
+	"from" pr
+"<Ohio>"
+	"Ohio" np top sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<south>"
+;	"south" adv
+;	"south" adj sint
+	"south" n sg
+"<,>"
+	"," cm
+"<north>"
+;	"north" adv
+;	"north" adj sint
+	"north" n sg
+"<of>"
+	"of" pr
+"<Toledo>"
+	"Toledo" np top sg
+;	"Toledo" np cog sg
+"<and>"
+	"and" cnjcoo
+"<runs>"
+;	"run" n pl
+	"run" vblex pres p3 sg
+"<generally>"
+	"generally" adv
+"<northward>"
+	"*northward"
+"<through>"
+	"through" pr
+"<Detroit>"
+	"Detroit" np top sg
+"<,>"
+	"," cm
+"<Pontiac>"
+	"*Pontiac"
+"<and>"
+	"and" cnjcoo
+"<Bay>"
+;	"bay" n sg
+"<City>"
+;	"city" n sg
+"<,>"
+	"," cm
+"<crosses>"
+;	"cross" n pl
+	"cross" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<Mackinac>"
+	"*Mackinac"
+"<Bridge>"
+	"bridge" n sg
+;	"bridge" vblex inf
+;	"bridge" vblex pres
+;	"bridge" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<ends>"
+;	"end" n pl
+	"end" vblex pres p3 sg
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<Canadian>"
+	"Canadian" adj
+	"Canadian" adj
+;	"Canadian" n sg
+;	"Canadian" n sg
+"<border>"
+;	"border" adj
+	"border" n sg
+;	"border" vblex inf
+;	"border" vblex pres
+;	"border" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<Sault>"
+	"*Sault"
+"<Ste>"
+	"*Ste"
+"<.>"
+	"." sent
+"<Marie>"
+;	"Marie" np ant f sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<runs>"
+;	"run" n pl
+	"run" vblex pres p3 sg
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<approximately>"
+	"approximately" adv
+"<396>"
+	"396" num
+"<miles>"
+	"mile" n pl
+"<(>"
+	"(" lpar
+"<637>"
+	"637" num
+"<km>"
+	"*km"
+"<)>"
+	")" rpar
+"<on>"
+;	"on" adv
+	"on" pr
+"<both>"
+;	"both" cnjcoo
+	"both" det ind pl
+;	"both" prn ind mf pl
+"<of>"
+	"of" pr
+"<Michigan>"
+	"Michigan" np top sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<peninsulas>"
+	"peninsula" n pl
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<landscapes>"
+	"landscape" n pl
+;	"landscape" vblex pres p3 sg
+"<traversed>"
+;	"traverse" vblex past
+	"traverse" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<Southern>"
+	"southern" adj
+;	"southern" adv
+;	"Southern" np cog sg
+"<Michigan>"
+	"Michigan" np top sg
+"<farmland>"
+	"farmland" n sg
+"<,>"
+	"," cm
+"<northern>"
+	"northern" adj
+"<forests>"
+	"forest" n pl
+;	"forest" vblex pres p3 sg
+"<,>"
+	"," cm
+"<suburban>"
+	"suburban" adj
+"<bedroom>"
+;	"bedroom" n sg
+"<communities>"
+	"community" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<urban>"
+	"urban" adj
+"<core>"
+	"core" n sg
+"<of>"
+	"of" pr
+"<Detroit>"
+	"Detroit" np top sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<also>"
+	"also" adv
+"<uses>"
+;	"use" n pl
+	"use" vblex pres p3 sg
+"<three>"
+	"three" num pl
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<monumental>"
+	"monumental" adj
+"<bridges>"
+	"bridge" n pl
+;	"bridge" vblex pres p3 sg
+"<to>"
+	"to" pr
+"<cross>"
+;	"cross" n sg
+	"cross" vblex inf
+;	"cross" vblex pres
+;	"cross" vblex imp
+"<major>"
+	"major" adj
+;	"major" n sg
+"<bodies>"
+	"body" n pl
+"<of>"
+	"of" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<.>"
+	"." sent
+"<There>"
+	"there" adv
+"<are>"
+	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<four>"
+	"four" num pl
+"<auxiliary>"
+	"auxiliary" adj
+;	"auxiliary" n sg
+"<Interstates>"
+	"*Interstates"
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<related>"
+;	"related" adj
+;	"relate" vblex past
+;	"relate" vblex pp
+"<to>"
+	"to" pr
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<,>"
+	"," cm
+"<as well as>"
+	"as well as" cnjcoo
+"<nine>"
+	"nine" num pl
+"<current>"
+	"current" adj
+;	"current" n sg
+"<or>"
+	"or" cnjcoo
+"<former>"
+	"former" adj
+;	"former" adv
+"<business>"
+	"business" adj
+;	"business" n sg
+"<routes>"
+	"route" n pl
+;	"route" vblex pres p3 sg
+"<,>"
+	"," cm
+"<with>"
+	"with" pr
+"<either>"
+;	"either" adv
+;	"either" cnjcoo
+	"either" det ind sg
+;	"either" prn qnt mf sp
+"<Business>"
+	"business" adj
+;	"business" n sg
+"<Loop>"
+	"loop" n sg
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<(>"
+	"(" lpar
+"<BL>"
+	"*BL"
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<)>"
+	")" rpar
+"<or>"
+	"or" cnjcoo
+"<Business>"
+	"business" adj
+;	"business" n sg
+"<Spur>"
+	"spur" n sg
+;	"spur" vblex inf
+;	"spur" vblex pres
+;	"spur" vblex imp
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<(>"
+	"(" lpar
+"<BS>"
+	"*BS"
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<)>"
+	")" rpar
+"<designations>"
+	"designation" n pl
+"<..>"
+	".." sent
+"<The>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<bears>"
+;	"bear" n pl
+	"bear" vblex pres p3 sg
+"<several>"
+	"several" det ind pl
+	"several" prn ind mf pl
+"<names>"
+	"name" n pl
+;	"name" vblex pres p3 sg
+"<in addition to>"
+	"in addition to" pr
+"<the>"
+	"the" det def sp
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<designation>"
+	"designation" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<southern>"
+	"southern" adj
+;	"southern" adv
+"<segment>"
+	"segment" n sg
+;	"segment" vblex inf
+;	"segment" vblex pres
+;	"segment" vblex imp
+"<was called>"
+;	"be" vblex past p1 sg># calle
+	"be" vblex past p3 sg># calle
+"<the>"
+	"the" det def sp
+"<Detroit>"
+	"Detroit" np top sg
+"<Toledo>"
+	"Toledo" np top sg
+;	"Toledo" np cog sg
+"<Expressway>"
+	"expressway" n sg
+"<during>"
+	"during" pr
+"<planning>"
+;	"plan" vblex pprs
+;	"plan" vblex ger
+;	"plan" vblex subs
+	"planning" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<1950>"
+	"1950" num
+"<s>"
+	"*s"
+"<and>"
+	"and" cnjcoo
+"<1960>"
+	"1960" num
+"<s>"
+	"*s"
+"<.>"
+	"." sent
+"<Through>"
+	"through" pr
+"<Detroit>"
+	"Detroit" np top sg
+"<,>"
+	"," cm
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<Fisher>"
+	"Fisher" np cog sg
+"<Freeway>"
+	"freeway" n sg
+"<or>"
+	"or" cnjcoo
+"<the>"
+	"the" det def sp
+"<Walter>"
+	"Walter" np ant m sg
+"<P.>"
+	"p." abbr
+"<Chrysler>"
+	"*Chrysler"
+"<Freeway>"
+	"freeway" n sg
+"<,>"
+	"," cm
+"<named>"
+;	"named" adj
+	"name" vblex past
+;	"name" vblex pp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<pioneers>"
+	"pioneer" n pl
+;	"pioneer" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<auto>"
+	"auto" adj
+	"auto" n sg
+"<industry>"
+	"industry" n sg
+"<.>"
+	"." sent
+"<Sections>"
+	"section" n pl
+"<on>"
+;	"on" adv
+	"on" pr
+"<either>"
+;	"either" adv
+;	"either" cnjcoo
+	"either" det ind sg
+;	"either" prn qnt mf sp
+"<side>"
+;	"side" adv
+	"side" n sg
+;	"side" vblex inf
+;	"side" vblex pres
+;	"side" vblex imp
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Mackinac>"
+	"*Mackinac"
+"<Bridge>"
+	"bridge" n sg
+;	"bridge" vblex inf
+;	"bridge" vblex pres
+;	"bridge" vblex imp
+"<are>"
+	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<the>"
+	"the" det def sp
+"<G>"
+	"*G"
+"<.>"
+	"." sent
+"<Mennen>"
+	"*Mennen"
+"<Williams>"
+	"Williams" np cog sg
+;	"Williams" np ant m sg
+"<Freeway>"
+	"freeway" n sg
+"<or>"
+	"or" cnjcoo
+"<the>"
+	"the" det def sp
+"<Prentiss>"
+	"*Prentiss"
+"<M>"
+	"*M"
+"<.>"
+	"." sent
+"<Brown>"
+;	"brown" adj sint
+	"Brown" np cog sg
+"<Freeway>"
+	"freeway" n sg
+"<,>"
+	"," cm
+"<named>"
+;	"named" adj
+	"name" vblex past
+;	"name" vblex pp
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<politicians>"
+	"politician" n pl
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<helped>"
+;	"help" vblex pp
+	"help" vblex past
+"<get>"
+;	"get" vblex inf
+	"get" vblex pres
+;	"get" vblex imp
+"<the>"
+	"the" det def sp
+"<bridge>"
+	"bridge" n sg
+;	"bridge" vblex inf
+;	"bridge" vblex pres
+;	"bridge" vblex imp
+"<built>"
+;	"built" adj
+;	"build" vblex past
+	"build" vblex pp
+"<.>"
+	"." sent
+"<Officially>"
+	"officially" adv
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<entire>"
+	"entire" adj
+"<length>"
+	"length" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<American>"
+;	"American" adj
+;	"American" adj
+	"American" n sg
+	"American" n sg
+"<Legion>"
+	"legion" n sg
+"<Memorial>"
+;	"memorial" adj
+	"memorial" n sg
+"<Highway>"
+	"highway" n sg
+"<,>"
+	"," cm
+"<after>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<the>"
+	"the" det def sp
+"<organization>"
+	"organization" n sg
+"<of>"
+	"of" pr
+"<the same>"
+;	"the same" adv
+	"the same" det ind sp
+	"the" det def sp>+sam adj
+"<name>"
+	"name" n sg
+;	"name" vblex inf
+;	"name" vblex pres
+;	"name" vblex imp
+"<.>"
+	"." sent
+"<Various>"
+;	"various" adj
+	"various" det ind pl
+"<sections>"
+	"section" n pl
+"<carry>"
+;	"carry" vblex inf
+	"carry" vblex pres
+;	"carry" vblex imp
+"<components>"
+	"component" n pl
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<four>"
+	"four" num pl
+"<Great>"
+;	"Great" ij
+	"great" adj sint
+"<Lakes>"
+;	"lake" n pl
+	"Lake" np cog pl
+"<Circle>"
+	"circle" n sg
+;	"circle" vblex inf
+;	"circle" vblex pres
+;	"circle" vblex imp
+"<Tours>"
+	"tour" n pl
+;	"tour" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<..>"
+	".." sent
+"<Several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<Indian>"
+	"Indian" adj
+	"Indian" adj
+;	"Indian" n sg
+;	"Indian" n sg
+"<trails>"
+	"trail" n pl
+"<spanned>"
+	"span" vblex past
+;	"span" vblex pp
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<along>"
+	"along" pr
+"<the>"
+	"the" det def sp
+"<general>"
+	"general" adj
+;	"general" adv
+;	"general" n sg
+"<path>"
+	"path" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<modern>"
+	"modern" adj
+"<freeway>"
+	"freeway" n sg
+"<.>"
+	"." sent
+"<After>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<statehood>"
+	"statehood" n sg
+"<,>"
+	"," cm
+"<several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<of>"
+	"of" pr
+"<these>"
+;	"this" det dem pl
+	"this" prn dem mf pl
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<converted>"
+;	"convert" vblex pp
+	"convert" vblex past
+;	"converted" adj
+"<into>"
+	"into" pr
+"<plank>"
+	"plank" n sg
+"<roads>"
+	"road" n pl
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<later>"
+	"later" adv
+;	"late" adj sint comp
+"<became>"
+	"become" vblex past
+"<some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<first>"
+;	"first" adv
+	"first" adj ord
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<highways>"
+	"highway" n pl
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<1920>"
+	"1920" num
+"<s>"
+	"*s"
+"<,>"
+	"," cm
+"<five>"
+	"five" num pl
+"<of>"
+	"of" pr
+"<these>"
+;	"this" det dem pl
+	"this" prn dem mf pl
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<added to>"
+;	"add" vblex pp># t
+	"add" vblex past># t
+"<the United States>"
+	"the United States" np top pl
+"<Numbered>"
+;	"number" vblex pp
+;	"number" vblex past
+"<Highway>"
+	"highway" n sg
+"<System>"
+	"system" n sg
+"<:>"
+	":" sent
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<Highway>"
+	"highway" n sg
+"<2>"
+	"2" num
+"<(>"
+	"(" lpar
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<2>"
+	"2" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<10>"
+	"10" num
+"<,>"
+	"," cm
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<24>"
+	"24" num
+"<,>"
+	"," cm
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<25>"
+	"25" num
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<US>"
+	"US" np top pl
+;	"prpers" prn obj p1 mf pl
+"<27>"
+	"27" num
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<1950>"
+	"1950" num
+"<s>"
+	"*s"
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<Michigan>"
+	"Michigan" np top sg
+"<Turnpike>"
+	"*Turnpike"
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<proposed>"
+	"propose" vblex past
+;	"propose" vblex pp
+"<as a>"
+	"as a" pr
+"<tolled>"
+	"*tolled"
+"<,>"
+	"," cm
+"<controlled>"
+;	"control" vblex past
+	"control" vblex pp
+"<->"
+	"-" guio
+"<access>"
+	"access" n sg
+;	"access" vblex inf
+;	"access" vblex pres
+;	"access" vblex imp
+"<highway>"
+	"highway" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<Lower>"
+;	"lower" adv
+	"low" adj sint comp
+;	"lower" vblex inf
+;	"lower" vblex pres
+;	"lower" vblex imp
+"<Peninsula>"
+	"peninsula" n sg
+"<.>"
+	"." sent
+"<After>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<passage>"
+	"passage" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Federal>"
+	"federal" adj
+"<Highway>"
+	"highway" n sg
+"<Act>"
+	"act" n sg
+;	"act" vblex inf
+;	"act" vblex pres
+;	"act" vblex imp
+"<of>"
+	"of" pr
+"<1956>"
+	"1956" num
+"<,>"
+	"," cm
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<turnpike>"
+	"*turnpike"
+"<proposal>"
+	"proposal" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<shelved>"
+	"shelve" vblex past
+;	"shelve" vblex pp
+"<as a>"
+	"as a" pr
+"<free>"
+	"free" adv
+;	"free" adj sint
+;	"free" vblex inf
+;	"free" vblex pres
+;	"free" vblex imp
+"<Interstate>"
+	"interstate" adj
+"<Highway>"
+	"highway" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<planned>"
+	"plan" vblex past
+;	"plan" vblex pp
+;	"planned" adj
+"<.>"
+	"." sent
+"<Construction>"
+	"construction" n sg
+"<started>"
+;	"start" vblex pp
+	"start" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<1957>"
+	"1957" num
+"<,>"
+	"," cm
+"<signs>"
+	"sign" n pl
+;	"sign" vblex pres p3 sg
+"<went up>"
+	"go" vblex past># u
+"<in>"
+;	"in" adv
+	"in" pr
+"<1959>"
+	"1959" num
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<completed>"
+	"complete" vblex past
+;	"complete" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<1973>"
+	"1973" num
+"<.>"
+	"." sent
+"<Since>"
+;	"since" adv
+;	"since" cnjsub
+	"since" pr
+"<completion>"
+	"completion" n sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<been>"
+	"be" vbser pp
+"<upgraded>"
+;	"upgrade" vblex past
+	"upgrade" vblex pp
+"<with>"
+	"with" pr
+"<the>"
+	"the" det def sp
+"<construction>"
+	"construction" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Zilwaukee>"
+	"*Zilwaukee"
+"<Bridge>"
+	"bridge" n sg
+;	"bridge" vblex inf
+;	"bridge" vblex pres
+;	"bridge" vblex imp
+"<near>"
+;	"near" adv
+	"near" pr
+;	"near" adj sint
+"<Saginaw>"
+	"*Saginaw"
+"<and>"
+	"and" cnjcoo
+"<improved>"
+	"improve" vblex past
+;	"improve" vblex pp
+"<connections>"
+	"connection" n pl
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<Ambassador>"
+	"ambassador" n sg
+"<Bridge>"
+	"bridge" n sg
+;	"bridge" vblex inf
+;	"bridge" vblex pres
+;	"bridge" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<Detroit>"
+	"Detroit" np top sg
+"<..>"
+	".." sent
+"<Known>"
+	"known" adj
+;	"know" vblex pp
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<Michigan>"
+	"Michigan" np top sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<Main Street>"
+	"main street" n sg
+"<,>"
+	"," cm
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<is>"
+	"be" vbser pres p3 sg
+"<listed>"
+;	"list" vblex pp
+;	"list" vblex past
+;	"listed" adj
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<National>"
+	"national" adj
+"<Highway>"
+	"highway" n sg
+"<System>"
+	"system" n sg
+"<(>"
+	"(" lpar
+"<NHS>"
+	"*NHS"
+"<)>"
+	")" rpar
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<entire>"
+	"entire" adj
+"<length>"
+	"length" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<NHS>"
+	"*NHS"
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<network>"
+	"network" n sg
+;	"network" vblex inf
+;	"network" vblex pres
+;	"network" vblex imp
+"<of>"
+	"of" pr
+"<roadways>"
+	"roadway" n pl
+"<important>"
+	"important" adj
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<country>"
+	"country" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<economy>"
+	"economy" n sg
+"<,>"
+	"," cm
+"<defense>"
+	"defense" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<mobility>"
+	"mobility" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<busiest>"
+	"busy" adj sint sup
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<:>"
+	":" sent
+"<between>"
+	"between" pr
+"<M>"
+	"*M"
+"<->"
+	"-" guio
+"<8>"
+	"8" num
+"<(>"
+	"(" lpar
+"<Davison>"
+	"Davison" np cog sg
+"<Highway>"
+	"highway" n sg
+"<)>"
+	")" rpar
+"<and>"
+	"and" cnjcoo
+"<McNichols>"
+	"*McNichols"
+"<Road>"
+;	"road" adj
+	"road" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Detroit>"
+	"Detroit" np top sg
+"<approximately>"
+	"approximately" adv
+"<194,300>"
+	"194,300" num
+"<vehicles>"
+	"vehicle" n pl
+"<used>"
+	"use" vblex past
+;	"use" vblex pp
+"<the>"
+	"the" det def sp
+"<freeway>"
+	"freeway" n sg
+"<on average>"
+	"on average" adv
+"<each>"
+	"each" det ind sg
+;	"each" prn ind mf sg
+"<day>"
+	"day" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<2010>"
+	"2010" num
+"<;>"
+	";" sent
+"<in contrast>"
+	"in contrast" adv
+"<the>"
+	"the" det def sp
+"<lowest>"
+	"low" adj sint sup
+;	"lowest" adv
+"<traffic>"
+	"traffic" n sg
+"<level>"
+	"level" n sg
+;	"level" vblex inf
+;	"level" vblex pres
+;	"level" vblex imp
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<3,208>"
+	"3,208" num
+"<vehicles>"
+	"vehicle" n pl
+"<between>"
+	"between" pr
+"<the>"
+	"the" det def sp
+"<M>"
+	"*M"
+"<->"
+	"-" guio
+"<48>"
+	"48" num
+"<and>"
+	"and" cnjcoo
+"<M>"
+	"*M"
+"<->"
+	"-" guio
+"<80>"
+	"80" num
+"<interchanges>"
+	"interchange" n pl
+"<in>"
+;	"in" adv
+	"in" pr
+"<Chippewa>"
+	"*Chippewa"
+"<County>"
+;	"county" adj
+	"county" n sg
+"<.>"
+	"." sent
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<carries>"
+	"carry" vblex pres p3 sg
+"<segments>"
+	"segment" n pl
+;	"segment" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<all>"
+;	"all" adv
+	"all" predet sp
+;	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<four>"
+	"four" num pl
+"<Great>"
+;	"Great" ij
+	"great" adj sint
+"<Lakes>"
+	"lake" n pl
+	"Lake" np cog pl
+"<Circle>"
+	"circle" n sg
+;	"circle" vblex inf
+;	"circle" vblex pres
+;	"circle" vblex imp
+"<Tours>"
+	"tour" n pl
+;	"tour" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<is>"
+	"be" vbser pres p3 sg
+"<also>"
+	"also" adv
+"<the>"
+	"the" det def sp
+"<only>"
+	"only" adj
+;	"only" adv
+"<highway>"
+	"highway" n sg
+"<located>"
+;	"locate" vblex past
+	"locate" vblex pp
+"<on>"
+;	"on" adv
+	"on" pr
+"<both>"
+;	"both" cnjcoo
+	"both" det ind pl
+;	"both" prn ind mf pl
+"<Michigan>"
+	"Michigan" np top sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<Upper>"
+	"upper" adj
+"<and>"
+	"and" cnjcoo
+"<Lower>"
+;	"lower" adv
+	"low" adj sint comp
+;	"lower" vblex inf
+;	"lower" vblex pres
+;	"lower" vblex imp
+"<peninsulas>"
+	"peninsula" n pl
+"<(>"
+	"(" lpar
+"<UP>"
+;	"up" adv
+;	"up" pr
+"<and>"
+	"and" cnjcoo
+"<LP>"
+	"LP" n acr sg
+"<,>"
+	"," cm
+"<respectively>"
+	"respectively" adv
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<Between>"
+	"between" pr
+"<the>"
+	"the" det def sp
+"<Ohio>"
+	"Ohio" np top sg
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<line>"
+	"line" n sg
+;	"line" vblex inf
+;	"line" vblex pres
+;	"line" vblex imp
+"<and>"
+	"and" cnjcoo
+"<Kawkawlin>"
+	"*Kawkawlin"
+"<,>"
+	"," cm
+"<I>"
+;	"prpers" prn subj p1 mf sg
+"<->"
+	"-" guio
+"<75>"
+	"75" num
+"<contains>"
+	"contain" vblex pres p3 sg
+"<between>"
+	"between" pr
+"<a>"
+	"a" det ind sg
+"<minimum>"
+;	"minimum" adj
+	"minimum" n sg
+"<of>"
+	"of" pr
+"<six>"
+	"six" num pl
+"<and>"
+	"and" cnjcoo
+"<a>"
+	"a" det ind sg
+"<maximum>"
+;	"maximum" adj
+	"maximum" n sg
+"<of>"
+	"of" pr
+"<ten>"
+	"ten" num pl
+;	"ten" n sg
+"<lanes>"
+	"lane" n pl
+"<total>"
+	"total" adj
+;	"total" adv
+;	"total" n sg
+;	"total" vblex inf
+;	"total" vblex pres
+;	"total" vblex imp
+"<;>"
+	";" sent
+"<other>"
+	"other" det ind sp
+"<sections>"
+	"section" n pl
+"<vary>"
+;	"vary" vblex inf
+	"vary" vblex pres
+;	"vary" vblex imp
+"<between>"
+	"between" pr
+"<four>"
+	"four" num pl
+"<and>"
+	"and" cnjcoo
+"<six>"
+	"six" num pl
+"<lanes>"
+	"lane" n pl
+"<in total>"
+	"in total" adv
+"<..>"
+	".." sent
