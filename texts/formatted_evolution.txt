@@ -128,9 +128,9 @@
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<make up>"
-	"make# up" vblex sep inf
-;	"make# up" vblex sep pres
-	"make# up" vblex sep imp
+;	"make# up" vblex sep inf
+	"make# up" vblex sep pres
+;	"make# up" vblex sep imp
 "<Earth>"
 	"earth" n sg
 "<'s>"
@@ -161,9 +161,9 @@
 ;	"its" det pos sp
 	"prpers" det pos p3 nt sg
 "<past>"
-	"past" adj
+;	"past" adj
 ;	"past" pr
-;	"past" n sg
+	"past" n sg
 "<.>"
 	"." sent
 "<This>"
@@ -229,7 +229,7 @@
 ;	"because" cnjadv
 "<their>"
 	"their" det pos sp
-	"prpers" det pos p3 mf pl
+;	"prpers" det pos p3 mf pl
 "<remains>"
 	"remains" n pl
 ;	"remain" vblex pres p3 sg
@@ -259,19 +259,19 @@
 	"this" prn dem mf pl
 "<remains>"
 	"remains" n pl
-	"remain" vblex pres p3 sg
+;	"remain" vblex pres p3 sg
 "<are called>"
 	"be# called" vblex pres p1 pl
 ;	"be# called" vblex pres p2 sg
 ;	"be# called" vblex pres p2 pl
-	"be# called" vblex pres p3 pl
+;	"be# called" vblex pres p3 pl
 "<'>"
 	"'" apos
-	"'s" gen
+;	"'s" gen
 "<fossils>"
 	"fossil" n pl
 "<'>"
-	"'" apos
+;	"'" apos
 	"'s" gen
 "<.>"
 	"." sent
@@ -298,7 +298,7 @@
 "<of>"
 	"of" pr
 "<today>"
-	"today" adv
+;	"today" adv
 	"today" n sg
 "<are>"
 	"be" vbser pres
@@ -610,7 +610,7 @@
 "<than>"
 	"than" cnjsub
 "<today>"
-	"today" adv
+;	"today" adv
 	"today" n sg
 "<.>"
 	"." sent
