@@ -65,9 +65,9 @@
 "<the>"
 	"the" det def sp
 "<Upper>"
-;	"upper" adj
+	"upper" adj
 "<Peninsula>"
-;	"peninsula" n sg
+	"peninsula" n sg
 "<of>"
 	"of" pr
 "<the>"
@@ -177,7 +177,7 @@
 	"the" det def sp
 "<Canadian>"
 	"Canadian" adj
-	"Canadian" adj
+;	"Canadian" adj
 ;	"Canadian" n sg
 ;	"Canadian" n sg
 "<border>"
@@ -380,7 +380,7 @@
 ;	"state" vblex pres
 ;	"state" vblex imp
 "<related>"
-;	"related" adj
+	"related" adj
 ;	"relate" vblex past
 ;	"relate" vblex pp
 "<to>"
@@ -484,7 +484,7 @@
 	"bear" vblex pres p3 sg
 "<several>"
 	"several" det ind pl
-	"several" prn ind mf pl
+;	"several" prn ind mf pl
 "<names>"
 	"name" n pl
 ;	"name" vblex pres p3 sg
@@ -632,7 +632,7 @@
 ;	"bridge" vblex pres
 ;	"bridge" vblex imp
 "<are>"
-	"be" vbser pres
+;	"be" vbser pres
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
@@ -717,7 +717,7 @@
 ;	"American" adj
 ;	"American" adj
 	"American" n sg
-	"American" n sg
+;	"American" n sg
 "<Legion>"
 	"legion" n sg
 "<Memorial>"
@@ -740,7 +740,7 @@
 "<the same>"
 ;	"the same" adv
 	"the same" det ind sp
-	"the" det def sp>+sam adj
+;	"the" det def sp>+sam adj
 "<name>"
 	"name" n sg
 ;	"name" vblex inf
@@ -797,7 +797,7 @@
 ;	"several" prn ind mf pl
 "<Indian>"
 	"Indian" adj
-	"Indian" adj
+;	"Indian" adj
 ;	"Indian" n sg
 ;	"Indian" n sg
 "<trails>"
@@ -925,7 +925,7 @@
 "<the United States>"
 	"the United States" np top pl
 "<Numbered>"
-;	"number" vblex pp
+	"number" vblex pp
 ;	"number" vblex past
 "<Highway>"
 	"highway" n sg
@@ -1079,8 +1079,8 @@
 "<as a>"
 	"as a" pr
 "<free>"
-	"free" adv
-;	"free" adj sint
+;	"free" adv
+	"free" adj sint
 ;	"free" vblex inf
 ;	"free" vblex pres
 ;	"free" vblex imp
@@ -1160,8 +1160,8 @@
 "<been>"
 	"be" vbser pp
 "<upgraded>"
-;	"upgrade" vblex past
-	"upgrade" vblex pp
+	"upgrade" vblex past
+;	"upgrade" vblex pp
 "<with>"
 	"with" pr
 "<the>"
@@ -1211,8 +1211,8 @@
 "<..>"
 	".." sent
 "<Known>"
-	"known" adj
-;	"know" vblex pp
+;	"known" adj
+	"know" vblex pp
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -1239,7 +1239,7 @@
 	"be" vbser pres p3 sg
 "<listed>"
 ;	"list" vblex pp
-;	"list" vblex past
+	"list" vblex past
 ;	"listed" adj
 "<on>"
 ;	"on" adv
@@ -1262,8 +1262,8 @@
 ;	"for" cnjadv
 	"for" pr
 "<its>"
-	"its" det pos sp
-;	"prpers" det pos p3 nt sg
+;	"its" det pos sp
+	"prpers" det pos p3 nt sg
 "<entire>"
 	"entire" adj
 "<length>"
@@ -1466,7 +1466,7 @@
 ;	"Great" ij
 	"great" adj sint
 "<Lakes>"
-	"lake" n pl
+;	"lake" n pl
 	"Lake" np cog pl
 "<Circle>"
 	"circle" n sg
