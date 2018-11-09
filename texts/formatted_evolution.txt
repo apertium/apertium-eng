@@ -9,8 +9,8 @@
 "<theory>"
 	"theory" n sg
 "<used>"
-	"use" vblex past
-;	"use" vblex pp
+;	"use" vblex past
+	"use" vblex pp
 "<by>"
 ;	"by" adv
 	"by" pr
