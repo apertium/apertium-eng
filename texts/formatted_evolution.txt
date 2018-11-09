@@ -123,10 +123,10 @@
 ;	"rock" vblex pres
 ;	"rock" vblex imp
 "<that>"
-	"that" cnjsub
+;	"that" cnjsub
 ;	"that" det dem sg
 ;	"that" prn dem mf sg
-;	"that" prn rel an mf sp
+	"that" prn rel an mf sp
 "<make up>"
 ;	"make# up" vblex sep inf
 	"make# up" vblex sep pres
