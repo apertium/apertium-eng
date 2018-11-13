@@ -36,8 +36,7 @@
 	"by" pr  
  
 "<American>"
-	"American" adj  
-;	"American" adj  
+	"American" adj 
 ;	"American" n sg  
 ;	"American" n sg  
  
@@ -456,8 +455,7 @@
 "<,>"
 	"," cm  
  
-"<Wednesdays>"
-	"Wednesday" n pl  
+"<Wednesdays>" 
 ;	"Wednesday" n pl  
 
 "<,>"
@@ -1548,8 +1546,7 @@
 "<to>"
 	to pr  
  
-"<Wikipedia>"
-	"Wikipedia" np al sg  
+"<Wikipedia>" 
 ;	"Wikipedia" np al sg  
  
 "<articles>"
@@ -1608,7 +1605,6 @@
 	"made-up" adj  
  
 "<Wikipedia>"
-	"Wikipedia" np al sg  
 	"Wikipedia" np al sg  
  
 "<entry>"
@@ -1939,7 +1935,7 @@
  
 "<voted>"
 	vote vblex past  
-	vote vblex pp  
+;	vote vblex pp  
  
 "<according to>"
 	"according to" pr  
@@ -2067,8 +2063,8 @@
 	"," cm  
  
 "<concluding>"
-;	"conclude" vblex pprs  
-	"conclude" vblex ger  
+	"conclude" vblex pprs  
+;	"conclude" vblex ger  
 ;	"conclude" vblex subs  
  
 "<that>"
@@ -2088,9 +2084,9 @@
 	"the" det def sp  
  
 "<most>"
-	"most" adv  
+;	"most" adv  
 ;	"most" preadv  
-;	"most" det qnt sp  
+	"most" det qnt sp  
 ;	"most" prn ind mf pl  
  
 "<elegant>"
