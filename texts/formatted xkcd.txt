@@ -1235,7 +1235,7 @@
  
 "<audience>"
 	"audience" n sg  
-—
+
 "<1>"
 	"1" num  
  
@@ -2033,7 +2033,7 @@
 "<Pennsylvania>"
 	"Pennsylvania" np top sg  
 
-"<’s>"
+"<Â’s>"
 	"'s" gen
  
 "<Wharton>"
