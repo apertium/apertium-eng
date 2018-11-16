@@ -1,0 +1,1713 @@
+"<Fogg>"
+
+	"*Fogg"
+"<and>"
+	"and" cnjcoo
+"<Passepartout>"
+	"*Passepartout"
+"<reach>"
+;	"reach" n sg
+;	"reach" vblex inf
+	"reach" vblex pres
+;	"reach" vblex imp
+"<Suez>"
+	"Suez" np top sg
+"<in time>"
+	"in time" adv
+;	"time" n sg
+;		"in" pr
+"<.>"
+	"." sent
+"<While>"
+;	"while" adv
+;	"while" cnjsub
+	"while" cnjadv
+;	"while" n sg
+"<disembarking>"
+;	"disembark" vblex pprs
+;	"disembark" vblex ger
+	"disembark" vblex subs
+"<in>"
+;	"in" adv
+	"in" pr
+"<Egypt>"
+	"Egypt" np top sg
+"<,>"
+	"," cm
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+;	"be" vbser pres p3 pl
+"<watched>"
+;	"watch" vblex pp
+	"watch" vblex past
+"<by>"
+	"by" adv
+;	"by" pr
+"<a>"
+	"a" det ind sg
+"<Scotland>"
+	"Scotland" np top sg
+"<Yard>"
+	"yard" n sg
+"<detective>"
+	"detective" n sg
+"<,>"
+	"," cm
+"<Detective>"
+	"detective" n sg
+"<Fixx>"
+	"*Fixx"
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<has>"
+;	"have" vbhaver pres p3 sg
+	"have" vblex pres p3 sg
+"<been>"
+	"be" vbser pp
+"<dispatched>"
+;	"dispatch" vblex pp
+	"dispatch" vblex past
+"<from>"
+	"from" pr
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<in>"
+	"in" adv
+;	"in" pr
+"<search>"
+;	"search" n sg
+;	"search" vblex inf
+	"search" vblex pres
+;	"search" vblex imp
+"<of>"
+	"of" pr
+"<a>"
+	"a" det ind sg
+"<bank>"
+	"bank" n sg
+;	"bank" vblex inf
+;	"bank" vblex pres
+;	"bank" vblex imp
+"<robber>"
+	"robber" n sg
+"<.>"
+	"." sent
+"<Since>"
+;	"since" adv
+	"since" cnjsub
+;	"since" pr
+"<Fogg>"
+	"*Fogg"
+"<fits>"
+;	"fit" n pl
+	"fit" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<vague>"
+	"vague" adj
+"<description>"
+	"description" n sg
+"<Scotland>"
+	"Scotland" np top sg
+"<Yard>"
+	"yard" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<given>"
+;	"given" adj
+	"give" vblex pp
+;	"given" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<robber>"
+	"robber" n sg
+"<,>"
+	"," cm
+"<Detective>"
+	"detective" n sg
+"<Fixx>"
+	"*Fixx"
+"<mistakes>"
+;	"mistake" n pl
+	"mistake" vblex pres p3 sg
+"<Fogg>"
+	"*Fogg"
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<the>"
+	"the" det def sp
+"<criminal>"
+;	"criminal" adj
+	"criminal" n sg
+"<.>"
+	"." sent
+"<Since>"
+;	"since" adv
+	"since" cnjsub
+;	"since" pr
+"<he>"
+	"prpers" prn subj p3 m sg
+"<cannot>"
+	"not" adv
+		"can" vbmod pres
+"<secure>"
+;	"secure" adj
+;	"secure" vblex inf
+	"secure" vblex pres
+;	"secure" vblex imp
+"<a>"
+	"a" det ind sg
+"<warrant>"
+	"warrant" n sg
+"<in time>"
+	"in time" adv
+;	"time" n sg
+;		"in" pr
+"<,>"
+	"," cm
+"<Fixx>"
+	"*Fixx"
+"<boards>"
+;	"board" n pl
+	"board" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<steamer>"
+	"steamer" n sg
+"<(>"
+	"(" lpar
+"<the>"
+	"the" det def sp
+"<Mongolia>"
+	"Mongolia" np top sg
+"<)>"
+	")" rpar
+"<conveying>"
+	"convey" vblex pprs
+;	"convey" vblex ger
+;	"convey" vblex subs
+"<the>"
+	"the" det def sp
+"<travellers>"
+	"traveller" n pl
+"<to>"
+	"to" pr
+"<Bombay>"
+	"Bombay" np top sg
+"<.>"
+	"." sent
+"<Fixx>"
+	"*Fixx"
+"<becomes acquainted>"
+	"become# acquainted" vblex pres p3 sg
+"<with>"
+	"with" pr
+"<Passepartout>"
+	"*Passepartout"
+"<without>"
+	"without" adv
+;	"without" pr
+"<revealing>"
+	"reveal" vblex pprs
+;	"reveal" vblex ger
+;	"reveal" vblex subs
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<purpose>"
+	"purpose" n sg
+"<.>"
+	"." sent
+"<Fogg>"
+	"*Fogg"
+"<promises>"
+;	"promise" n pl
+	"promise" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<steamer>"
+	"steamer" n sg
+"<engineer>"
+	"engineer" n sg
+;	"engineer" vblex inf
+;	"engineer" vblex pres
+;	"engineer" vblex imp
+"<a>"
+	"a" det ind sg
+"<large>"
+	"large" adj sint
+"<reward>"
+	"reward" n sg
+;	"reward" vblex inf
+;	"reward" vblex pres
+;	"reward" vblex imp
+"<if>"
+;	"if" adv
+	"if" cnjsub
+"<he>"
+	"prpers" prn subj p3 m sg
+"<gets>"
+	"get" vblex pres p3 sg
+"<them>"
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
+"<to>"
+	"to" pr
+"<Bombay>"
+	"Bombay" np top sg
+"<early>"
+	"early" adv
+;	"early" adj sint
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<dock>"
+;	"dock" n sg
+;	"dock" vblex inf
+	"dock" vblex pres
+;	"dock" vblex imp
+"<two>"
+	"two" num pl
+"<days>"
+	"day" n pl
+"<ahead of>"
+	"ahead of" pr
+"<schedule>"
+	"schedule" n sg
+;	"schedule" vblex inf
+;	"schedule" vblex pres
+;	"schedule" vblex imp
+"<.>"
+	"." sent
+
+ 
+"<After>"
+;	"after" adv
+	"after" cnjadv
+;	"after" pr
+"<reaching>"
+	"reach" vblex pprs
+;	"reach" vblex ger
+;	"reach" vblex subs
+"<India>"
+	"India" np top sg
+;	"India" np ant f sg
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<take>"
+;	"take" vblex inf
+	"take" vblex pres
+;	"take" vblex imp
+"<a>"
+	"a" det ind sg
+"<train>"
+	"train" n sg
+;	"train" vblex inf
+;	"train" vblex pres
+;	"train" vblex imp
+"<from>"
+	"from" pr
+"<Bombay>"
+	"Bombay" np top sg
+"<to>"
+	"to" pr
+"<Calcutta>"
+	"Calcutta" np top sg
+"<.>"
+	"." sent
+"<Fogg>"
+	"*Fogg"
+"<learns>"
+	"learn" vblex pres p3 sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<Daily>"
+;	"daily" adj
+;	"daily" adv
+"<Telegraph>"
+	"telegraph" n sg
+"<article>"
+	"article" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<wrong>"
+	"wrong" adj
+;	"wrong" adv
+;	"wrong" n sg
+;	"wrong" vblex inf
+;	"wrong" vblex pres
+;	"wrong" vblex imp
+ – 
+"<the>"
+	"the" det def sp
+"<railroad>"
+	"railroad" n sg
+"<actually>"
+	"actually" adv
+"<ends>"
+;	"end" n pl
+	"end" vblex pres p3 sg
+"<at>"
+	"at" pr
+"<Kholby>"
+	"*Kholby"
+"<and>"
+	"and" cnjcoo
+"<starts>"
+;	"start" n pl
+	"start" vblex pres p3 sg
+"<again>"
+	"again" adv
+"<at>"
+	"at" pr
+"<Allahabad>"
+	"*Allahabad"
+"<,>"
+	"," cm
+"<50>"
+	"50" num
+"<miles>"
+	"mile" n pl
+"<away>"
+	"away" adv
+"<.>"
+	"." sent
+"<Fogg>"
+	"*Fogg"
+"<purchases>"
+;	"purchase" n pl
+	"purchase" vblex pres p3 sg
+"<an>"
+	"a" det ind sg
+"<elephant>"
+	"elephant" n sg
+"<,>"
+	"," cm
+"<hires>"
+;	"hire" n pl
+	"hire" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<guide>"
+	"guide" n sg
+;	"guide" vblex inf
+;	"guide" vblex pres
+;	"guide" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<starts>"
+;	"start" n pl
+	"start" vblex pres p3 sg
+"<toward>"
+	"*toward"
+"<Allahabad>"
+	"*Allahabad"
+"<.>"
+	"." sent
+
+ 
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<come across>"
+;	"come# across" vblex inf
+	"come# across" vblex pres
+;	"come# across" vblex pp
+;	"come# across" vblex imp
+"<a>"
+	"a" det ind sg
+"<procession>"
+	"procession" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<a>"
+	"a" det ind sg
+"<young>"
+	"young" adj sint
+"<Indian>"
+	"Indian" adj
+;	"Indian" n sg
+"<woman>"
+	"woman" n sg
+"<,>"
+	"," cm
+"<Aouda>"
+	"*Aouda"
+"<,>"
+	"," cm
+"<is>"
+	"be" vbser pres p3 sg
+"<to>"
+	"to" pr
+"<undergo>"
+	"undergo" vblex inf
+;	"undergo" vblex pres
+;	"undergo" vblex imp
+"<sati>"
+	"*sati"
+"<.>"
+	"." sent
+"<Since>"
+;	"since" adv
+	"since" cnjsub
+;	"since" pr
+"<she>"
+	"prpers" prn subj p3 f sg
+"<is>"
+	"be" vbser pres p3 sg
+"<drugged>"
+;	"drug" vblex past
+	"drug" vblex pp
+"<with>"
+	"with" pr
+"<opium>"
+	"opium" n sg
+"<and>"
+	"and" cnjcoo
+"<hemp>"
+	"hemp" n sg
+"<and>"
+	"and" cnjcoo
+"<is>"
+	"be" vbser pres p3 sg
+"<obviously>"
+	"obviously" adv
+"<not>"
+	"not" adv
+"<going>"
+	"go" vblex pprs
+;	"go" vblex ger
+;	"go" vblex subs
+"<voluntarily>"
+	"voluntarily" adv
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<travellers>"
+	"traveller" n pl
+"<decide>"
+;	"decide" vblex inf
+	"decide" vblex pres
+;	"decide" vblex imp
+"<to>"
+	"to" pr
+"<rescue>"
+;	"rescue" n sg
+	"rescue" vblex inf
+;	"rescue" vblex pres
+;	"rescue" vblex imp
+"<her>"
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<follow>"
+;	"follow" vblex inf
+	"follow" vblex pres
+;	"follow" vblex imp
+"<the>"
+	"the" det def sp
+"<procession>"
+	"procession" n sg
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<site>"
+	"site" n sg
+;	"site" vblex inf
+;	"site" vblex pres
+;	"site" vblex imp
+"<,>"
+	"," cm
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<Passepartout>"
+	"*Passepartout"
+"<takes>"
+	"take" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<place>"
+	"place" n sg
+;	"place" vblex inf
+;	"place" vblex pres
+;	"place" vblex imp
+"<of>"
+	"of" pr
+"<Aouda>"
+	"*Aouda"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<deceased>"
+	"deceased" adj
+;	"deceased" n sg
+;	"deceased" n pl
+"<husband>"
+	"husband" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<funeral>"
+	"funeral" n sg
+"<pyre>"
+	"*pyre"
+"<.>"
+	"." sent
+"<During>"
+	"during" pr
+"<the>"
+	"the" det def sp
+"<ceremony>"
+	"ceremony" n sg
+"<he>"
+	"prpers" prn subj p3 m sg
+"<rises>"
+;	"rise" n pl
+	"rise" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<pyre>"
+	"*pyre"
+"<,>"
+	"," cm
+"<scaring>"
+	"scare" vblex pprs
+;	"scare" vblex ger
+;	"scare" vblex subs
+;	"scaring" n sg
+"<off>"
+	"off" adv
+"<the>"
+	"the" det def sp
+"<priests>"
+	"priest" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<carries>"
+	"carry" vblex pres p3 sg
+"<Aouda>"
+	"*Aouda"
+"<away>"
+	"away" adv
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<twelve>"
+	"twelve" num pl
+"<hours>"
+	"hour" n pl
+"<gained>"
+;	"gain" vblex pp
+	"gain" vblex past
+"<earlier>"
+;	"earlier" adj
+	"earlier" adv
+;	"early" adj sint comp
+"<are>"
+	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+;	"be" vbser pres p3 pl
+"<lost>"
+	"lost" adj
+;	"lose" vblex past
+;	"lose" vblex pp
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<Fogg>"
+	"*Fogg"
+"<shows>"
+;	"show" n pl
+	"show" vblex pres p3 sg
+"<no>"
+	"no" adv
+;	"no" det ind sp
+"<regret>"
+	"regret" n sg
+;	"regret" vblex inf
+;	"regret" vblex pres
+;	"regret" vblex imp
+"<.>"
+	"." sent
+
+ 
+"<The>"
+	"the" det def sp
+"<travellers>"
+	"traveller" n pl
+"<hasten>"
+;	"hasten" vblex inf
+	"hasten" vblex pres
+;	"hasten" vblex imp
+"<to>"
+	"to" pr
+"<catch>"
+;	"catch" n sg
+	"catch" vblex inf
+;	"catch" vblex pres
+;	"catch" vblex imp
+"<the>"
+	"the" det def sp
+"<train>"
+	"train" n sg
+;	"train" vblex inf
+;	"train" vblex pres
+;	"train" vblex imp
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<next>"
+	"next" adj
+;	"next" adv
+"<railway station>"
+	"railway station" n sg
+"<,>"
+	"," cm
+"<taking>"
+;	"take" vblex pprs
+	"take" vblex ger
+;	"take" vblex subs
+;	"taking" n sg
+"<Aouda>"
+	"*Aouda"
+"<with>"
+	"with" pr
+"<them>"
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
+"<.>"
+	"." sent
+"<At>"
+	"at" pr
+"<Calcutta>"
+	"Calcutta" np top sg
+"<,>"
+	"," cm
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<board>"
+;	"board" n sg
+;	"board" vblex inf
+	"board" vblex pres
+;	"board" vblex imp
+"<a>"
+	"a" det ind sg
+"<steamer>"
+	"steamer" n sg
+"<(>"
+	"(" lpar
+"<the>"
+	"the" det def sp
+"<Rangoon>"
+	"*Rangoon"
+"<)>"
+	")" rpar
+"<going>"
+	"go" vblex pprs
+;	"go" vblex ger
+;	"go" vblex subs
+"<to>"
+	"to" pr
+"<Hong Kong>"
+	"Hong Kong" np top sg
+"<.>"
+	"." sent
+"<Fixx>"
+	"*Fixx"
+"<has>"
+;	"have" vbhaver pres p3 sg
+	"have" vblex pres p3 sg
+"<Fogg>"
+	"*Fogg"
+"<and>"
+	"and" cnjcoo
+"<Passepartout>"
+	"*Passepartout"
+"<arrested>"
+	"arrest" vblex pp
+;	"arrest" vblex past
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<jump>"
+;	"jump" n sg
+;	"jump" vblex inf
+	"jump" vblex pres
+;	"jump" vblex imp
+"<bail>"
+	"bail" n sg
+"<and>"
+	"and" cnjcoo
+"<Fixx>"
+	"*Fixx"
+"<follows>"
+	"follow" vblex pres p3 sg
+"<them>"
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
+"<to>"
+	"to" pr
+"<Hong Kong>"
+	"Hong Kong" np top sg
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<shows>"
+;	"show" n pl
+	"show" vblex pres p3 sg
+"<himself>"
+	"himself" prn ref p3 m sg
+"<to>"
+	"to" pr
+"<Passepartout>"
+	"*Passepartout"
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<delighted>"
+	"delight" vblex pp
+;	"delight" vblex past
+"<to>"
+	"to" pr
+"<again>"
+	"again" adv
+"<meet>"
+;	"meet" vblex inf
+	"meet" vblex pres
+;	"meet" vblex imp
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<travelling>"
+;	"travel" vblex pprs
+;	"travel" vblex ger
+	"travelling" adj
+"<companion>"
+	"companion" n sg
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<earlier>"
+;	"earlier" adj
+;	"earlier" adv
+	"early" adj sint comp
+"<voyage>"
+	"voyage" n sg
+"<.>"
+	"." sent
+
+ 
+"<In>"
+;	"in" adv
+	"in" pr
+"<Hong Kong>"
+	"Hong Kong" np top sg
+"<,>"
+	"," cm
+"<it>"
+;	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<turns out>"
+	"turn# out" vblex pres p3 sg
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<Aouda>"
+	"*Aouda"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<distant>"
+	"distant" adj
+;	"distant" adv
+"<relative>"
+;	"relative" adj
+	"relative" n sg
+"<,>"
+	"," cm
+"<in>"
+;	"in" adv
+	"in" pr
+"<whose>"
+;	"whose" det itg sp
+;	"whose" prn itg mf sp
+	"whose" det pos mf sp
+"<care>"
+	"care" n sg
+;	"care" vblex inf
+;	"care" vblex pres
+;	"care" vblex imp
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<had>"
+;	"have" vbhaver past
+	"have" vblex past
+"<been>"
+	"be" vbser pp
+"<planning>"
+	"plan" vblex pprs
+;	"plan" vblex ger
+;	"plan" vblex subs
+;	"planning" n sg
+"<to>"
+	"to" pr
+"<leave>"
+;	"leave" n sg
+	"leave" vblex inf
+;	"leave" vblex pres
+;	"leave" vblex imp
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<,>"
+	"," cm
+"<has>"
+;	"have" vbhaver pres p3 sg
+	"have" vblex pres p3 sg
+"<moved>"
+	"move" vblex past
+;	"move" vblex pp
+"<to>"
+	"to" pr
+"<Holland>"
+	"Holland" np top sg
+;	"Holland" np cog sg
+"<,>"
+	"," cm
+"<so>"
+;	"so" adv
+;	"so" preadv
+	"so" cnjadv
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<decide>"
+;	"decide" vblex inf
+	"decide" vblex pres
+;	"decide" vblex imp
+"<to>"
+	"to" pr
+"<take>"
+	"take" vblex inf
+;	"take" vblex pres
+;	"take" vblex imp
+"<her>"
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<with>"
+	"with" pr
+"<them>"
+	"that" prn dem pl
+;	"prpers" prn obj p3 mf pl
+"<to>"
+	"to" pr
+"<Europe>"
+	"Europe" np top sg
+"<.>"
+	"." sent
+"<Still>"
+	"still" adv
+;	"still" adj sint
+"<without>"
+;	"without" adv
+	"without" pr
+"<a>"
+	"a" det ind sg
+"<warrant>"
+	"warrant" n sg
+"<,>"
+	"," cm
+"<Fixx>"
+	"*Fixx"
+"<sees>"
+	"see" vblex pres p3 sg
+"<Hong Kong>"
+	"Hong Kong" np top sg
+"<as>"
+;	"as" adv
+	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<last>"
+	"last" adj
+;	"last" adj ord
+;	"last" vblex inf
+;	"last" vblex pres
+;	"last" vblex imp
+"<chance>"
+	"chance" n sg
+;	"chance" vblex inf
+;	"chance" vblex pres
+;	"chance" vblex imp
+"<to>"
+	"to" pr
+"<arrest>"
+;	"arrest" n sg
+	"arrest" vblex inf
+;	"arrest" vblex pres
+;	"arrest" vblex imp
+"<Fogg>"
+	"*Fogg"
+"<on>"
+;	"on" adv
+	"on" pr
+"<British>"
+	"British" adj
+;	"British" n sg
+;	"British" n pl
+"<soil>"
+	"soil" n sg
+;	"soil" vblex inf
+;	"soil" vblex pres
+;	"soil" vblex imp
+"<.>"
+	"." sent
+"<Passepartout>"
+	"*Passepartout"
+"<becomes>"
+	"become" vblex pres p3 sg
+"<convinced>"
+;	"convinced" adj
+;	"convince" vblex past
+	"convince" vblex pp
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<Fixx>"
+	"*Fixx"
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<spy>"
+	"spy" n sg
+;	"spy" vblex inf
+;	"spy" vblex pres
+;	"spy" vblex imp
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<Reform>"
+	"reform" n sg
+;	"reform" vblex inf
+;	"reform" vblex pres
+;	"reform" vblex imp
+"<Club>"
+	"club" n sg
+;	"club" vblex inf
+;	"club" vblex pres
+;	"club" vblex imp
+"<.>"
+	"." sent
+"<Fixx>"
+	"*Fixx"
+"<confides>"
+	"confide" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Passepartout>"
+	"*Passepartout"
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<does>"
+	"do" vblex pres p3 sg
+;	"do" vaux pres p3 sg
+;	"do" vbdo pres p3 sg
+"<not>"
+	"not" adv
+"<believe>"
+;	"believe" vblex inf
+	"believe" vblex pres
+;	"believe" vblex imp
+"<a>"
+	"a" det ind sg
+"<word>"
+	"word" n sg
+"<and>"
+	"and" cnjcoo
+"<remains>"
+;	"remains" n pl
+	"remain" vblex pres p3 sg
+"<convinced>"
+;	"convinced" adj
+;	"convince" vblex past
+	"convince" vblex pp
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<master>"
+;	"master" adj
+	"master" n sg
+;	"master" vblex inf
+;	"master" vblex pres
+;	"master" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<not>"
+	"not" adv
+"<a>"
+	"a" det ind sg
+"<bank>"
+	"bank" n sg
+;	"bank" vblex inf
+;	"bank" vblex pres
+;	"bank" vblex imp
+"<robber>"
+	"robber" n sg
+"<.>"
+	"." sent
+"<To>"
+	"to" pr
+"<prevent>"
+;	"prevent" adv
+	"prevent" vblex inf
+;	"prevent" vblex pres
+;	"prevent" vblex imp
+"<Passepartout>"
+	"*Passepartout"
+"<from>"
+	"from" pr
+"<informing>"
+	"inform" vblex pprs
+;	"inform" vblex ger
+;	"inform" vblex subs
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<master>"
+;	"master" adj
+	"master" n sg
+;	"master" vblex inf
+;	"master" vblex pres
+;	"master" vblex imp
+"<about>"
+	"about" adv
+;	"about" pr
+"<the>"
+	"the" det def sp
+"<premature>"
+	"premature" adj
+"<departure>"
+	"departure" n sg
+"<of>"
+	"of" pr
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<next>"
+	"next" adj
+;	"next" adv
+"<vessel>"
+	"vessel" n sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<Carnatic>"
+	"Carnatic" adj
+"<,>"
+	"," cm
+"<Fixx>"
+	"*Fixx"
+"<gets>"
+	"get" vblex pres p3 sg
+"<Passepartout>"
+	"*Passepartout"
+"<drunk>"
+	"drunk" adj
+;	"drunk" n sg
+;	"drink" vblex pp
+"<and>"
+	"and" cnjcoo
+"<drugs>"
+;	"drug" n pl
+	"drug" vblex pres p3 sg
+"<him>"
+	"prpers" prn obj p3 m sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<an>"
+	"a" det ind sg
+"<opium>"
+	"opium" n sg
+"<den>"
+	"den" n sg
+"<.>"
+	"." sent
+"<Passepartout>"
+	"*Passepartout"
+"<still>"
+	"still" adv
+;	"still" adj sint
+"<manages>"
+	"manage" vblex pres p3 sg
+"<to>"
+	"to" pr
+"<catch>"
+;	"catch" n sg
+	"catch" vblex inf
+;	"catch" vblex pres
+;	"catch" vblex imp
+"<the>"
+	"the" det def sp
+"<steamer>"
+	"steamer" n sg
+"<to>"
+	"to" pr
+"<Yokohama>"
+	"*Yokohama"
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<neglects>"
+;	"neglect" n pl
+	"neglect" vblex pres p3 sg
+"<to>"
+	"to" pr
+"<inform>"
+	"inform" vblex inf
+;	"inform" vblex pres
+;	"inform" vblex imp
+"<Fogg>"
+	"*Fogg"
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<steamer>"
+	"steamer" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<leaving>"
+	"leave" vblex pprs
+;	"leave" vblex ger
+;	"leave" vblex subs
+"<the evening before>"
+	"the evening before" adv
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<scheduled>"
+;	"scheduled" adj
+;	"schedule" vblex past
+	"schedule" vblex pp
+"<departure>"
+	"departure" n sg
+"<date>"
+	"date" n sg
+;	"date" vblex inf
+;	"date" vblex pres
+;	"date" vblex imp
+"<.>"
+	"." sent
+
+ 
+"<Fogg>"
+	"*Fogg"
+"<discovers>"
+	"discover" vblex pres p3 sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<he>"
+	"prpers" prn subj p3 m sg
+"<missed>"
+;	"miss" vblex pp
+	"miss" vblex past
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<connection>"
+	"connection" n sg
+"<.>"
+	"." sent
+"<He>"
+	"He" np cog sg
+;	"prpers" prn subj p3 m sg
+"<searches for>"
+	"search# for" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<vessel>"
+	"vessel" n sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+;	"will" vbmod pres
+;	"will" vblex inf
+	"will" vblex pres
+;	"will" vblex imp
+"<take>"
+;	"take" vblex inf
+	"take" vblex pres
+;	"take" vblex imp
+"<him>"
+	"prpers" prn obj p3 m sg
+"<to>"
+	"to" pr
+"<Yokohama>"
+	"*Yokohama"
+"<,>"
+	"," cm
+"<finding>"
+	"find" vblex pprs
+;	"find" vblex ger
+;	"find" vblex subs
+;	"finding" n sg
+"<a>"
+	"a" det ind sg
+
+"<pilot>"
+	"pilot" adj
+;	"pilot" n sg
+;	"pilot" vblex inf
+;	"pilot" vblex pres
+;	"pilot" vblex imp
+"<boat>"
+	"boat" n sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<Tankadere>"
+	"*Tankadere"
+"<,>"
+	"," cm
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<takes>"
+	"take" vblex pres p3 sg
+"<him>"
+	"prpers" prn obj p3 m sg
+"<and>"
+	"and" cnjcoo
+"<Aouda>"
+	"*Aouda"
+"<to>"
+	"to" pr
+"<Shanghai>"
+	"Shanghai" np top sg
+"<,>"
+	"," cm
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<catch>"
+;	"catch" n sg
+;	"catch" vblex inf
+	"catch" vblex pres
+;	"catch" vblex imp
+"<a>"
+	"a" det ind sg
+"<steamer>"
+	"steamer" n sg
+"<to>"
+	"to" pr
+"<Yokohama>"
+	"*Yokohama"
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<Yokohama>"
+	"*Yokohama"
+"<,>"
+	"," cm
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<search for>"
+;	"search# for" vblex inf
+	"search# for" vblex pres
+;	"search# for" vblex imp
+"<Passepartout>"
+	"*Passepartout"
+"<,>"
+	"," cm
+"<believing>"
+;	"believe" vblex pprs
+	"believe" vblex ger
+;	"believe" vblex subs
+;	"believing" adj
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<he>"
+	"prpers" prn subj p3 m sg
+"<may>"
+;	"may" vbmod inf
+	"may" vbmod pres
+"<have>"
+;	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<arrived>"
+;	"arrive" vblex past
+	"arrive" vblex pp
+"<there>"
+	"there" adv
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<Carnatic>"
+	"Carnatic" adj
+"<as>"
+;	"as" adv
+	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<originally>"
+	"originally" adv
+"<planned>"
+	"plan" vblex past
+;	"plan" vblex pp
+;	"planned" adj
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<find>"
+;	"find" vblex inf
+	"find" vblex pres
+;	"find" vblex imp
+"<him>"
+	"prpers" prn obj p3 m sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<circus>"
+	"circus" n sg
+"<,>"
+	"," cm
+"<trying>"
+	"try" vblex pprs
+;	"try" vblex ger
+;	"try" vblex subs
+"<to>"
+	"to" pr
+"<earn>"
+	"earn" vblex inf
+;	"earn" vblex pres
+;	"earn" vblex imp
+"<the>"
+	"the" det def sp
+"<fare>"
+	"fare" n sg
+;	"fare" vblex inf
+;	"fare" vblex pres
+;	"fare" vblex imp
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<his>"
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<journey>"
+	"journey" n sg
+"<.>"
+	"." sent
+"<Reunited>"
+	"reunite" vblex past
+;	"reunite" vblex pp
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<four>"
+	"four" num pl
+"<board>"
+;	"board" n sg
+;	"board" vblex inf
+	"board" vblex pres
+;	"board" vblex imp
+"<a>"
+	"a" det ind sg
+"<paddle>"
+;	"paddle" vblex inf
+	"paddle" vblex pres
+;	"paddle" vblex imp
+"<->"
+	"-" guio
+"<steamer>"
+	"steamer" n sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<General>"
+;	"general" adj
+;	"general" adv
+	"general" n sg
+"<Grant>"
+;	"grant" n sg
+;	"grant" vblex inf
+;	"grant" vblex pres
+;	"grant" vblex imp
+;	"Grant" np cog sg
+	"Grant" np ant m sg
+"<,>"
+	"," cm
+"<taking>"
+	"take" vblex pprs
+;	"take" vblex ger
+;	"take" vblex subs
+;	"taking" n sg
+"<them>"
+	"that" prn dem pl
+;	"prpers" prn obj p3 mf pl
+"<across>"
+;	"across" adv
+	"across" pr
+"<the>"
+	"the" det def sp
+"<Pacific>"
+	"Pacific" np top sg
+;	"Pacific" np al sg
+"<to>"
+	"to" pr
+"<San Francisco>"
+	"San Francisco" np top sg
+"<.>"
+	"." sent
+"<Fixx>"
+	"*Fixx"
+"<promises>"
+;	"promise" n pl
+	"promise" vblex pres p3 sg
+"<Passepartout>"
+	"*Passepartout"
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<now>"
+	"now" adv
+"<,>"
+	"," cm
+"<having>"
+;	"have" vbhaver pprs
+;	"have" vbhaver ger
+;	"have" vbhaver subs
+	"have" vblex pprs
+;	"have" vblex ger
+;	"have" vblex subs
+"<left>"
+;	"left" adj
+;	"left" adv
+;	"left" n sg
+	"leave" vblex past
+;	"leave" vblex pp
+"<British>"
+	"British" adj
+;	"British" n sg
+;	"British" n pl
+"<soil>"
+	"soil" n sg
+;	"soil" vblex inf
+;	"soil" vblex pres
+;	"soil" vblex imp
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<no longer>"
+	"no longer" adv
+"<try>"
+;	"try" vblex inf
+	"try" vblex pres
+;	"try" vblex imp
+"<to>"
+	"to" pr
+"<delay>"
+;	"delay" n sg
+	"delay" vblex inf
+;	"delay" vblex pres
+;	"delay" vblex imp
+"<Fogg>"
+	"*Fogg"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<journey>"
+	"journey" n sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<instead>"
+	"instead" adv
+"<support>"
+;	"support" n sg
+;	"support" vblex inf
+	"support" vblex pres
+;	"support" vblex imp
+"<him>"
+	"prpers" prn obj p3 m sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<getting back>"
+	"get# back" vblex pprs
+;	"get# back" vblex ger
+;	"get# back" vblex subs
+"<to>"
+	"to" pr
+"<Britain>"
+	"Britain" np top sg
+"<so>"
+;	"so" adv
+;	"so" preadv
+	"so" cnjadv
+"<he>"
+	"prpers" prn subj p3 m sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<arrest>"
+;	"arrest" n sg
+;	"arrest" vblex inf
+	"arrest" vblex pres
+;	"arrest" vblex imp
+"<Fogg>"
+	"*Fogg"
+"<in>"
+;	"in" adv
+	"in" pr
+"<Britain>"
+	"Britain" np top sg
+"<itself>"
+	"itself" prn ref p3 nt sg
+"<..>"
+	".." sent
+
+ 
+
