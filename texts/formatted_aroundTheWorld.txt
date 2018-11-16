@@ -1,4 +1,5 @@
 "<Fogg>"
+
 	"*Fogg"
 "<and>"
 	"and" cnjcoo
@@ -59,11 +60,8 @@
 	"," cm
 "<Detective>"
 	"detective" n sg
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<,>"
 	"," cm
 "<who>"
@@ -80,8 +78,8 @@
 "<from>"
 	"from" pr
 "<London>"
-;	"London" np top sg
-	"London" np cog sg
+	"London" np top sg
+;	"London" np cog sg
 "<in>"
 	"in" adv
 ;	"in" pr
@@ -139,11 +137,8 @@
 	"," cm
 "<Detective>"
 	"detective" n sg
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<mistakes>"
 ;	"mistake" n pl
 	"mistake" vblex pres p3 sg
@@ -183,11 +178,8 @@
 ;		"in" pr
 "<,>"
 	"," cm
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<boards>"
 ;	"board" n pl
 	"board" vblex pres p3 sg
@@ -209,19 +201,16 @@
 ;	"convey" vblex subs
 "<the>"
 	"the" det def sp
-"<travelers>"
-	"*travelers"
+"<travellers>"
+	"traveller" n pl
 "<to>"
 	"to" pr
 "<Bombay>"
 	"Bombay" np top sg
 "<.>"
 	"." sent
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<becomes acquainted>"
 	"become# acquainted" vblex pres p3 sg
 "<with>"
@@ -236,8 +225,8 @@
 ;	"reveal" vblex ger
 ;	"reveal" vblex subs
 "<his>"
-	"his" adj pos pred
-;	"his" det pos sp
+;	"his" adj pos pred
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<purpose>"
@@ -523,8 +512,8 @@
 	"," cm
 "<the>"
 	"the" det def sp
-"<travelers>"
-	"*travelers"
+"<travellers>"
+	"traveller" n pl
 "<decide>"
 ;	"decide" vblex inf
 	"decide" vblex pres
@@ -537,8 +526,8 @@
 ;	"rescue" vblex pres
 ;	"rescue" vblex imp
 "<her>"
-;	"her" det pos sp
-	"prpers" prn obj p3 f sg
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
 ;	"prpers" det pos p3 f sg
 "<.>"
 	"." sent
@@ -691,8 +680,8 @@
  
 "<The>"
 	"the" det def sp
-"<travelers>"
-	"*travelers"
+"<travellers>"
+	"traveller" n pl
 "<hasten>"
 ;	"hasten" vblex inf
 	"hasten" vblex pres
@@ -771,11 +760,8 @@
 	"Hong Kong" np top sg
 "<.>"
 	"." sent
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<has>"
 ;	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
@@ -801,11 +787,8 @@
 	"bail" n sg
 "<and>"
 	"and" cnjcoo
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<follows>"
 	"follow" vblex pres p3 sg
 "<them>"
@@ -935,8 +918,8 @@
 ;	"leave" vblex pres
 ;	"leave" vblex imp
 "<her>"
-	"her" det pos sp
-;	"prpers" prn obj p3 f sg
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
 ;	"prpers" det pos p3 f sg
 "<,>"
 	"," cm
@@ -970,8 +953,8 @@
 ;	"take" vblex pres
 ;	"take" vblex imp
 "<her>"
-	"her" det pos sp
-;	"prpers" prn obj p3 f sg
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
 ;	"prpers" det pos p3 f sg
 "<with>"
 	"with" pr
@@ -996,11 +979,8 @@
 	"warrant" n sg
 "<,>"
 	"," cm
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<sees>"
 	"see" vblex pres p3 sg
 "<Hong Kong>"
@@ -1013,7 +993,7 @@
 ;	"as" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<last>"
@@ -1063,11 +1043,8 @@
 	"that" det dem sg
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<is>"
 	"be" vbser pres p3 sg
 "<a>"
@@ -1093,11 +1070,8 @@
 ;	"club" vblex imp
 "<.>"
 	"." sent
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<confides>"
 	"confide" vblex pres p3 sg
 "<in>"
@@ -1180,8 +1154,8 @@
 ;	"inform" vblex ger
 ;	"inform" vblex subs
 "<his>"
-	"his" adj pos pred
-;	"his" det pos sp
+;	"his" adj pos pred
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<master>"
@@ -1217,11 +1191,8 @@
 	"Carnatic" adj
 "<,>"
 	"," cm
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<gets>"
 	"get" vblex pres p3 sg
 "<Passepartout>"
@@ -1542,12 +1513,10 @@
 	"for" cnjadv
 ;	"for" pr
 "<his>"
-	"his" adj pos pred
-;	"his" det pos sp
+;	"his" adj pos pred
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
-"<homeward>"
-	"*homeward"
 "<journey>"
 	"journey" n sg
 "<.>"
@@ -1615,11 +1584,8 @@
 	"San Francisco" np top sg
 "<.>"
 	"." sent
-"<Fix>"
-	"fix" n sg
-;	"fix" vblex inf
-;	"fix" vblex pres
-;	"fix" vblex imp
+"<Fixx>"
+	"*Fixx"
 "<promises>"
 ;	"promise" n pl
 	"promise" vblex pres p3 sg
