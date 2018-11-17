@@ -25,8 +25,8 @@
 ;	"while" n sg
 "<disembarking>"
 ;	"disembark" vblex pprs
-;	"disembark" vblex ger
-	"disembark" vblex subs
+	"disembark" vblex ger
+;	"disembark" vblex subs
 "<in>"
 ;	"in" adv
 	"in" pr
@@ -43,11 +43,11 @@
 ;	"be" vbser pres p2 pl
 ;	"be" vbser pres p3 pl
 "<watched>"
-;	"watch" vblex pp
-	"watch" vblex past
+	"watch" vblex pp
+;	"watch" vblex past
 "<by>"
-	"by" adv
-;	"by" pr
+;	"by" adv
+	"by" pr
 "<a>"
 	"a" det ind sg
 "<Scotland>"
@@ -68,13 +68,13 @@
 ;	"who" prn itg mf sp
 	"who" prn rel an mf sp
 "<has>"
-;	"have" vbhaver pres p3 sg
-	"have" vblex pres p3 sg
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
 "<been>"
 	"be" vbser pp
 "<dispatched>"
-;	"dispatch" vblex pp
-	"dispatch" vblex past
+	"dispatch" vblex pp
+;	"dispatch" vblex past
 "<from>"
 	"from" pr
 "<London>"
@@ -84,9 +84,9 @@
 	"in" adv
 ;	"in" pr
 "<search>"
-;	"search" n sg
+	"search" n sg
 ;	"search" vblex inf
-	"search" vblex pres
+;	"search" vblex pres
 ;	"search" vblex imp
 "<of>"
 	"of" pr
@@ -165,8 +165,8 @@
 		"can" vbmod pres
 "<secure>"
 ;	"secure" adj
-;	"secure" vblex inf
-	"secure" vblex pres
+	"secure" vblex inf
+;	"secure" vblex pres
 ;	"secure" vblex imp
 "<a>"
 	"a" det ind sg
@@ -196,9 +196,9 @@
 "<)>"
 	")" rpar
 "<conveying>"
-	"convey" vblex pprs
+;	"convey" vblex pprs
 ;	"convey" vblex ger
-;	"convey" vblex subs
+	"convey" vblex subs
 "<the>"
 	"the" det def sp
 "<travellers>"
@@ -343,7 +343,7 @@
 "<the>"
 	"the" det def sp
 "<Daily>"
-;	"daily" adj
+	"daily" adj
 ;	"daily" adv
 "<Telegraph>"
 	"telegraph" n sg
@@ -422,8 +422,9 @@
 "<starts>"
 ;	"start" n pl
 	"start" vblex pres p3 sg
-"<toward>"
-	"*toward"
+"<towards>"
+;	"towards" adv
+	"towards" pr
 "<Allahabad>"
 	"*Allahabad"
 "<.>"
@@ -503,8 +504,8 @@
 "<not>"
 	"not" adv
 "<going>"
-	"go" vblex pprs
-;	"go" vblex ger
+;	"go" vblex pprs
+	"go" vblex ger
 ;	"go" vblex subs
 "<voluntarily>"
 	"voluntarily" adv
@@ -526,8 +527,8 @@
 ;	"rescue" vblex pres
 ;	"rescue" vblex imp
 "<her>"
-	"her" det pos sp
-;	"prpers" prn obj p3 f sg
+;	"her" det pos sp
+	"prpers" prn obj p3 f sg
 ;	"prpers" det pos p3 f sg
 "<.>"
 	"." sent
@@ -611,8 +612,8 @@
 "<,>"
 	"," cm
 "<scaring>"
-	"scare" vblex pprs
-;	"scare" vblex ger
+;	"scare" vblex pprs
+	"scare" vblex ger
 ;	"scare" vblex subs
 ;	"scaring" n sg
 "<off>"
@@ -667,8 +668,8 @@
 ;	"show" n pl
 	"show" vblex pres p3 sg
 "<no>"
-	"no" adv
-;	"no" det ind sp
+;	"no" adv
+	"no" det ind sp
 "<regret>"
 	"regret" n sg
 ;	"regret" vblex inf
