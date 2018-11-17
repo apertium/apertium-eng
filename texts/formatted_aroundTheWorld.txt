@@ -448,7 +448,7 @@
 "<which>"
 ;	"which" det itg sp
 ;	"which" prn itg mf sp
-;	"which" prn rel an mf sp
+	"which" prn rel an mf sp
 "<a>"
 	"a" det ind sg
 "<young>"
@@ -504,8 +504,8 @@
 "<not>"
 	"not" adv
 "<going>"
-;	"go" vblex pprs
-	"go" vblex ger
+	"go" vblex pprs
+;	"go" vblex ger
 ;	"go" vblex subs
 "<voluntarily>"
 	"voluntarily" adv
@@ -654,9 +654,9 @@
 ;	"be" vbser pres p2 pl
 ;	"be" vbser pres p3 pl
 "<lost>"
-	"lost" adj
+;	"lost" adj
 ;	"lose" vblex past
-;	"lose" vblex pp
+	"lose" vblex pp
 "<,>"
 	"," cm
 "<but>"
@@ -1594,8 +1594,8 @@
 	"*Passepartout"
 "<that>"
 ;	"that" cnjsub
-	"that" det dem sg
-;	"that" prn dem mf sg
+;	"that" det dem sg
+	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<now>"
 	"now" adv
@@ -1637,8 +1637,8 @@
 "<no longer>"
 	"no longer" adv
 "<try>"
-;	"try" vblex inf
-	"try" vblex pres
+	"try" vblex inf
+;	"try" vblex pres
 ;	"try" vblex imp
 "<to>"
 	"to" pr
@@ -1664,8 +1664,8 @@
 	"instead" adv
 "<support>"
 ;	"support" n sg
-;	"support" vblex inf
-	"support" vblex pres
+	"support" vblex inf
+;	"support" vblex pres
 ;	"support" vblex imp
 "<him>"
 	"prpers" prn obj p3 m sg
@@ -1673,8 +1673,8 @@
 ;	"in" adv
 	"in" pr
 "<getting back>"
-	"get# back" vblex pprs
-;	"get# back" vblex ger
+;	"get# back" vblex pprs
+	"get# back" vblex ger
 ;	"get# back" vblex subs
 "<to>"
 	"to" pr
@@ -1695,8 +1695,8 @@
 ;	"can" vblex imp
 "<arrest>"
 ;	"arrest" n sg
-;	"arrest" vblex inf
-	"arrest" vblex pres
+	"arrest" vblex inf
+;	"arrest" vblex pres
 ;	"arrest" vblex imp
 "<Fogg>"
 	"*Fogg"
