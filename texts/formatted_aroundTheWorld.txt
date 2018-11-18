@@ -37,11 +37,11 @@
 "<they>"
 	"prpers" prn subj p3 mf pl
 "<are>"
-	"be" vbser pres
+;	"be" vbser pres
 ;	"be" vbser pres p1 pl
 ;	"be" vbser pres p2 sg
 ;	"be" vbser pres p2 pl
-;	"be" vbser pres p3 pl
+	"be" vbser pres p3 pl
 "<watched>"
 	"watch" vblex pp
 ;	"watch" vblex past
@@ -226,8 +226,8 @@
 ;	"reveal" vblex subs
 "<his>"
 ;	"his" adj pos pred
-	"his" det pos sp
-;	"prpers" prn pos p3 m sg
+;	"his" det pos sp
+	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<purpose>"
 	"purpose" n sg
@@ -902,8 +902,8 @@
 "<they>"
 	"prpers" prn subj p3 mf pl
 "<had>"
-;	"have" vbhaver past
-	"have" vblex past
+	"have" vbhaver past
+;	"have" vblex past
 "<been>"
 	"be" vbser pp
 "<planning>"
@@ -1086,9 +1086,9 @@
 ;	"who" prn itg mf sp
 	"who" prn rel an mf sp
 "<does>"
-	"do" vblex pres p3 sg
+;	"do" vblex pres p3 sg
 ;	"do" vaux pres p3 sg
-;	"do" vbdo pres p3 sg
+	"do" vbdo pres p3 sg
 "<not>"
 	"not" adv
 "<believe>"
@@ -1309,16 +1309,16 @@
 	"miss" vblex past
 "<his>"
 ;	"his" adj pos pred
-	"his" det pos sp
-;	"prpers" prn pos p3 m sg
+;	"his" det pos sp
+	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<connection>"
 	"connection" n sg
 "<.>"
 	"." sent
 "<He>"
-	"He" np cog sg
-;	"prpers" prn subj p3 m sg
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
 "<searches for>"
 	"search# for" vblex pres p3 sg
 "<a>"
@@ -1593,9 +1593,9 @@
 "<Passepartout>"
 	"*Passepartout"
 "<that>"
-;	"that" cnjsub
+	"that" cnjsub
 ;	"that" det dem sg
-	"that" prn dem mf sg
+;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<now>"
 	"now" adv
