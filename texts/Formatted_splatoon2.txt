@@ -1,3 +1,4 @@
+
 "<Like>"
 ;	"like" adj
 ;	"like" cnjsub
