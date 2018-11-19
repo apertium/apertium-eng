@@ -1,0 +1,2205 @@
+"<Like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<its>"
+;	"its" det pos sp
+	"prpers" det pos p3 nt sg
+"<predecessor>"
+	"predecessor" n sg
+"<,>"
+	"," cm
+"<Splatoon>"
+	"*Splatoon"
+"<2>"
+	"2" num
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<multiplayer>"
+	"multiplayer" adj
+"<third>"
+	"third" adj ord
+;	"third" n sg
+"<->"
+	"-" guio
+"<person>"
+	"person" n sg
+"<shooter>"
+	"shooter" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<players>"
+	"player" n pl
+"<control>"
+;	"control" n sg
+;	"control" vblex inf
+	"control" vblex pres
+;	"control" vblex imp
+"<characters>"
+	"character" n pl
+"<known>"
+;	"known" adj
+	"know" vblex pp
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<Inklings>"
+	"*Inklings"
+"<and>"
+	"and" cnjcoo
+"<use>"
+;	"use" n sg
+;	"use" vblex inf
+	"use" vblex pres
+;	"use" vblex imp
+"<colored>"
+	"color" vblex pp
+;	"color" vblex past
+"<ink>"
+	"ink" n sg
+"<to>"
+	"to" pr
+"<attack>"
+;	"attack" n sg
+	"attack" vblex inf
+;	"attack" vblex pres
+;	"attack" vblex imp
+"<opponents>"
+	"opponent" n pl
+"<and>"
+	"and" cnjcoo
+"<clear>"
+;	"clear" adj sint
+	"clear" vblex inf
+;	"clear" vblex pres
+;	"clear" vblex imp
+"<goals>"
+	"goal" n pl
+"<.>"
+	"." sent
+"<Inklings>"
+	"*Inklings"
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<morph>"
+	"morph" n sg
+"<between>"
+	"between" pr
+"<humanoid>"
+	"humanoid" n sg
+"<form>"
+	"form" n sg
+;	"form" vblex inf
+;	"form" vblex pres
+;	"form" vblex imp
+"<,>"
+	"," cm
+"<during>"
+	"during" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<fire>"
+;	"fire" n sg
+	"fire" vblex inf
+;	"fire" vblex pres
+;	"fire" vblex imp
+"<ink>"
+	"ink" n sg
+"<with>"
+	"with" pr
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<weapons>"
+	"weapon" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<squid>"
+	"squid" n sg
+;	"squid" n pl
+"<form>"
+	"form" n sg
+;	"form" vblex inf
+;	"form" vblex pres
+;	"form" vblex imp
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<allows>"
+	"allow" vblex pres p3 sg
+"<them>"
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
+"<to>"
+	"to" pr
+"<swim>"
+;	"swim" n sg
+;	"swim" vblex inf
+	"swim" vblex pres
+;	"swim" vblex imp
+"<through>"
+	"through" pr
+"<ink>"
+	"ink" n sg
+"<of>"
+	"of" pr
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<own>"
+	"own" adj
+;	"own" vblex inf
+;	"own" vblex pres
+;	"own" vblex imp
+"<color>"
+;	"color" vblex inf
+;	"color" vblex pres
+;	"color" vblex imp
+	"colour" n sg
+"<in order to>"
+;	"in order to" adv
+	"in order to" cnjsub
+"<move>"
+;	"move" n sg
+	"move" vblex inf
+;	"move" vblex pres
+;	"move" vblex imp
+"<quickly>"
+	"quickly" adv
+"<and>"
+	"and" cnjcoo
+"<replenish>"
+	"replenish" vblex inf
+;	"replenish" vblex pres
+;	"replenish" vblex imp
+"<ink>"
+	"ink" n sg
+"<supplies>"
+	"supply" n pl
+;	"supply" vblex pres p3 sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<sequel>"
+	"sequel" n sg
+"<adds>"
+	"add" vblex pres p3 sg
+"<new>"
+	"new" adj sint
+"<standard>"
+	"standard" adj
+;	"standard" n sg
+"<,>"
+	"," cm
+"<sub>"
+	"sub" n sg
+"<and>"
+	"and" cnjcoo
+"<special>"
+	"special" adj
+;	"special" n sg
+"<weapons>"
+	"weapon" n pl
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<,>"
+	"," cm
+"<including>"
+;	"include" vblex pprs
+	"include" vblex ger
+;	"include" vblex subs
+;	"including" adv
+"<dual>"
+	"dual" adj
+"<->"
+	"-" guio
+"<wield>"
+;	"wield" vblex inf
+	"wield" vblex pres
+;	"wield" vblex imp
+"<pistols>"
+	"pistol" n pl
+"<,>"
+	"," cm
+"<that>"
+	"that" cnjsub
+;   "that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<allow>"
+;	"allow" vblex inf
+	"allow" vblex pres
+;	"allow" vblex imp
+"<the>"
+	"the" det def sp
+"<player>"
+	"player" n sg
+"<to>"
+	"to" pr
+"<perform>"
+	"perform" vblex inf
+;	"perform" vblex pres
+;	"perform" vblex imp
+"<dodge>"
+	"dodge" n sg
+"<rolls>"
+	"roll" n pl
+;	"roll" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<jetpacks>"
+	"*jetpacks"
+"<.>"
+	"." sent
+"<Like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<the>"
+	"the" det def sp
+"<previous>"
+	"previous" adj
+"<game>"
+	"game" n sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<features>"
+;	"feature" n pl
+	"feature" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<standard>"
+	"standard" adj
+;	"standard" n sg
+"<Turf>"
+	"turf" n sg
+;	"turf" vblex inf
+;	"turf" vblex pres
+;	"turf" vblex imp
+"<War>"
+	"war" n sg
+"<mode>"
+	"mode" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Regular>"
+	"regular" adj
+"<Battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<a>"
+	"a" det ind sg
+"<rotation>"
+	"rotation" n sg
+"<of>"
+	"of" pr
+"<Splat>"
+	"*Splat"
+"<Zones>"
+	"zone" n pl
+;	"zone" vblex pres p3 sg
+"<,>"
+	"," cm
+"<Tower>"
+	"tower" n sg
+;	"tower" vblex inf
+;	"tower" vblex pres
+;	"tower" vblex imp
+"<Control>"
+	"control" n sg
+;	"control" vblex inf
+;	"control" vblex pres
+;	"control" vblex imp
+"<,>"
+	"," cm
+"<Rainmaker>"
+	"*Rainmaker"
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<new>"
+	"new" adj sint
+"<Clam>"
+	"clam" n sg
+"<Blitz>"
+	"*Blitz"
+"<modes>"
+	"mode" n pl
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<Ranked>"
+	"rank" vblex pp
+;	"rank" vblex past
+"<Battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<now>"
+	"now" adv
+"<ranked>"
+	"rank" vblex pp
+;	"rank" vblex past
+"<individually>"
+	"individually" adv
+"<.>"
+	"." sent
+"<League>"
+	"league" n sg
+"<Battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<allow>"
+;	"allow" vblex inf
+	"allow" vblex pres
+;	"allow" vblex imp
+"<players>"
+	"player" n pl
+"<to>"
+	"to" pr
+"<form>"
+;	"form" n sg
+	"form" vblex inf
+;	"form" vblex pres
+;	"form" vblex imp
+"<teams>"
+	"team" n pl
+;	"team" vblex pres p3 sg
+"<with>"
+	"with" pr
+"<friends>"
+	"friend" n pl
+"<.>"
+	"." sent
+"<A>"
+	"a" det ind sg
+"<new>"
+	"new" adj sint
+"<mode>"
+	"mode" n sg
+"<,>"
+	"," cm
+"<Salmon>"
+;	"salmon" n sg
+	"Salmon" np cog sg
+"<Run>"
+	"run" n sg
+;	"run" vblex inf
+;	"run" vblex pres
+;	"run" vblex pp
+;	"run" vblex imp
+"<,>"
+	"," cm
+"<allows>"
+	"allow" vblex pres p3 sg
+"<up to>"
+	"up to" pr
+"<four>"
+	"four" num pl
+"<players>"
+	"player" n pl
+"<to>"
+	"to" pr
+"<team>"
+;	"team" n sg
+	"team" vblex inf
+;	"team" vblex pres
+;	"team" vblex imp
+"<up>"
+	"up" adv
+;	"up" pr
+"<cooperatively>"
+	"cooperatively" adv
+"<to>"
+	"to" pr
+"<tackle>"
+	"tackle" vblex inf
+;	"tackle" vblex pres
+;	"tackle" vblex imp
+"<waves>"
+	"wave" n pl
+;	"wave" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<enemies>"
+	"enemy" n pl
+"<called>"
+;	"call" vblex pp
+	"call" vblex past
+"<the>"
+	"the" det def sp
+"<Salmonids>"
+	"*Salmonids"
+"<.>"
+	"." sent
+
+"<Once>"
+	"once" adv
+;	"once" cnjadv
+"<per>"
+	"per" pr
+"<month>"
+	"month" n sg
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<Splatfest>"
+	"*Splatfest"
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<occur>"
+;	"occur" vblex inf
+	"occur" vblex pres
+;	"occur" vblex imp
+"<.>"
+	"." sent
+"<During>"
+	"during" pr
+"<the>"
+	"the" det def sp
+"<Splatfest>"
+	"*Splatfest"
+"<,>"
+	"," cm
+"<players>"
+	"player" n pl
+"<get>"
+;	"get" vblex inf
+	"get" vblex pres
+;	"get" vblex imp
+"<to>"
+	"to" pr
+"<chose>"
+	"choose" vblex past
+"<a>"
+	"a" det ind sg
+"<side>"
+;	"side" adv
+	"side" n sg
+;	"side" vblex inf
+;	"side" vblex pres
+;	"side" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<debate>"
+	"debate" n sg
+;	"debate" vblex inf
+;	"debate" vblex pres
+;	"debate" vblex imp
+"<and>"
+	"and" cnjcoo
+"<decide>"
+;	"decide" vblex inf
+	"decide" vblex pres
+;	"decide" vblex imp
+"<the>"
+	"the" det def sp
+"<winner>"
+	"winner" n sg
+"<through>"
+	"through" pr
+"<battling>"
+;	"battle" vblex pprs
+	"battle" vblex ger
+;	"battle" vblex subs
+"<.>"
+	"." sent
+"<Splatfest>"
+	"*Splatfest"
+"<topics>"
+	"topic" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<usually>"
+	"usually" adv
+"<announced>"
+	"announce" vblex past
+;	"announce" vblex pp
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<week>"
+	"week" n sg
+"<in advance>"
+	"in advance" adv
+"<,>"
+	"," cm
+"<after which>"
+	"after which" cnjadv
+"<point>"
+;	"point" adj sint
+	"point" n sg
+;	"point" vblex inf
+;	"point" vblex pres
+;	"point" vblex imp
+"<players>"
+	"player" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<choose>"
+;	"choose" vblex inf
+	"choose" vblex pres
+;	"choose" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<team>"
+	"team" n sg
+;	"team" vblex inf
+;	"team" vblex pres
+;	"team" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<Inkopolis>"
+	"*Inkopolis"
+"<Square>"
+;	"square" adj
+	"square" n sg
+;	"square" vblex inf
+;	"square" vblex pres
+;	"square" vblex imp
+"<.>"
+	"." sent
+"<Topics>"
+	"topic" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<usually>"
+	"usually" adv
+"<region>"
+	"region" n sg
+"<->"
+	"-" guio
+"<specific>"
+	"specific" adj
+"<and>"
+	"and" cnjcoo
+"<happen>"
+;	"happen" vblex inf
+	"happen" vblex pres
+;	"happen" vblex imp
+"<at>"
+	"at" pr
+"<different>"
+	"different" adj
+"<times>"
+	"time" n pl
+;	"time" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<month>"
+	"month" n sg
+"<,>"
+	"," cm
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<not>"
+	"not" adv
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<topics>"
+	"topic" n pl
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<make>"
+;	"make" n sg
+;	"make" vblex inf
+	"make" vblex pres
+;	"make" vblex imp
+"<sense>"
+	"sense" n sg
+;	"sense" vblex inf
+;	"sense" vblex pres
+;	"sense" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<regions>"
+	"region" n pl
+"<.>"
+	"." sent
+"<Splatfest>"
+	"*Splatfest"
+"<battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<Turf>"
+	"turf" n sg
+;	"turf" vblex inf
+;	"turf" vblex pres
+;	"turf" vblex imp
+"<War>"
+	"war" n sg
+"<only>"
+;	"only" adj
+	"only" adv
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<winning>"
+;	"win" vblex pprs
+;	"win" vblex ger
+	"win" vblex subs
+;	"winning" adj
+"<battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<awards>"
+;	"award" n pl
+	"award" vblex pres p3 sg
+"<clout>"
+	"clout" n sg
+;	"clout" vblex inf
+;	"clout" vblex pres
+;	"clout" vblex imp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<winning>"
+;	"win" vblex pprs
+;	"win" vblex ger
+;	"win" vblex subs
+	"winning" adj
+"<team>"
+	"team" n sg
+;	"team" vblex inf
+;	"team" vblex pres
+;	"team" vblex imp
+"<.>"
+	"." sent
+"<At the end of>"
+	"at the end of" pr
+"<the>"
+	"the" det def sp
+"<Splatfest>"
+	"*Splatfest"
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<winning>"
+;	"win" vblex pprs
+;	"win" vblex ger
+;	"win" vblex subs
+	"winning" adj
+"<side>"
+;	"side" adv
+	"side" n sg
+;	"side" vblex inf
+;	"side" vblex pres
+;	"side" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<decided>"
+	"decide" vblex past
+;	"decide" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<evaluating>"
+;	"evaluate" vblex pprs
+	"evaluate" vblex ger
+;	"evaluate" vblex subs
+"<popularity>"
+	"popularity" n sg
+"<and>"
+	"and" cnjcoo
+"<clout>"
+	"clout" n sg
+;	"clout" vblex inf
+;	"clout" vblex pres
+;	"clout" vblex imp
+"<earned>"
+;	"earn" vblex pp
+	"earn" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<battle>"
+	"battle" n sg
+;	"battle" vblex inf
+;	"battle" vblex pres
+;	"battle" vblex imp
+"<.>"
+	"." sent
+"<All>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<players>"
+	"player" n pl
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<participate>"
+	"participate" vblex inf
+;	"participate" vblex pres
+;	"participate" vblex imp
+"<earn>"
+;	"earn" vblex inf
+	"earn" vblex pres
+;	"earn" vblex imp
+"<rare>"
+	"rare" adj sint
+"<rewards>"
+	"reward" n pl
+;	"reward" vblex pres p3 sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<players>"
+	"player" n pl
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<chose>"
+	"choose" vblex past
+"<the>"
+	"the" det def sp
+"<winning>"
+;	"win" vblex pprs
+;	"win" vblex ger
+;	"win" vblex subs
+	"winning" adj
+"<team>"
+	"team" n sg
+;	"team" vblex inf
+;	"team" vblex pres
+;	"team" vblex imp
+"<receive>"
+;	"receive" vblex inf
+	"receive" vblex pres
+;	"receive" vblex imp
+"<a>"
+	"a" det ind sg
+"<slightly>"
+	"slightly" adv
+"<higher>"
+	"high" adj sint comp
+"<cut>"
+;	"cut" adj
+	"cut" n sg
+;	"cut" vblex inf
+;	"cut" vblex pres
+;	"cut" vblex past
+;	"cut" vblex pp
+;	"cut" vblex imp
+"<.>"
+	"." sent
+
+"<The>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<features>"
+;	"feature" n pl
+	"feature" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<single>"
+	"single" adj
+;	"single" n sg
+"<->"
+	"-" guio
+"<player>"
+	"player" n sg
+"<campaign>"
+	"campaign" n sg
+;	"campaign" vblex inf
+;	"campaign" vblex pres
+;	"campaign" vblex imp
+"<,>"
+	"," cm
+"<Hero>"
+	"hero" n sg
+"<Mode>"
+	"mode" n sg
+"<(>"
+	"(" lpar
+"<Octo>"
+	"*Octo"
+"<Canyon>"
+	"canyon" n sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<in>"
+;	"in" adv
+	"in" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<player>"
+	"player" n sg
+"<must>"
+;	"must" n sg
+	"must" vbmod inf
+;	"must" vbmod pres
+"<battle>"
+;	"battle" n sg
+;	"battle" vblex inf
+	"battle" vblex pres
+;	"battle" vblex imp
+"<through>"
+	"through" pr
+"<various>"
+	"various" adj
+;	"various" det ind pl
+"<levels>"
+	"level" n pl
+;	"level" vblex pres p3 sg
+"<fighting>"
+	"fight" vblex pprs
+;	"fight" vblex ger
+;	"fight" vblex subs
+;	"fighting" adj
+;	"fighting" n sg
+"<the>"
+	"the" det def sp
+"<evil>"
+	"evil" adj
+;	"evil" n sg
+"<Octarians>"
+	"*Octarians"
+"<.>"
+	"." sent
+"<Unlike>"
+	"unlike" adj
+"<the>"
+	"the" det def sp
+"<previous>"
+	"previous" adj
+"<game>"
+	"game" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<single>"
+	"single" adj
+;	"single" n sg
+"<->"
+	"-" guio
+"<player>"
+	"player" n sg
+"<campaign>"
+	"campaign" n sg
+;	"campaign" vblex inf
+;	"campaign" vblex pres
+;	"campaign" vblex imp
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<a>"
+	"a" det ind sg
+"<pre>"
+	"*pre"
+"<->"
+	"-" guio
+"<determined>"
+	"determined" adj
+;	"determine" vblex past
+;	"determine" vblex pp
+"<weapon>"
+	"weapon" n sg
+"<set>"
+	"set" n sg
+;	"set" vblex inf
+;	"set" vblex pres
+;	"set" vblex past
+;	"set" vblex pp
+;	"set" vblex imp
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<player>"
+	"player" n sg
+"<can>"
+;	"can" n sg
+	"can" vbmod inf
+;	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<now>"
+	"now" adv
+"<earn>"
+;	"earn" vblex inf
+	"earn" vblex pres
+;	"earn" vblex imp
+"<various>"
+	"various" adj
+;	"various" det ind pl
+"<weapons>"
+	"weapon" n pl
+"<,>"
+	"," cm
+"<some>"
+;	"some" adj
+;	"some" adv
+;	"some" det qnt sp
+	"some" prn ind mf pl
+"<of>"
+	"of" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<required>"
+	"require" vblex past
+;	"require" vblex pp
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<playing>"
+	"play" vblex pprs
+;	"play" vblex ger
+;	"play" vblex subs
+"<levels>"
+	"level" n pl
+;	"level" vblex pres p3 sg
+"<for the first time>"
+	"for the first time" adv
+"<.>"
+	"." sent
+"<In addition to>"
+	"in addition to" pr
+"<scrolls>"
+	"scroll" n pl
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<unlock>"
+;	"unlock" vblex inf
+	"unlock" vblex pres
+;	"unlock" vblex imp
+"<artwork>"
+	"artwork" n sg
+"<and>"
+	"and" cnjcoo
+"<in>"
+;	"in" adv
+	"in" pr
+"<->"
+	"-" guio
+"<game>"
+	"game" n sg
+"<lore>"
+	"lore" n sg
+"<,>"
+	"," cm
+"<players>"
+	"player" n pl
+"<can>"
+;	"can" n sg
+	"can" vbmod inf
+;	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<collect>"
+;	"collect" vblex inf
+	"collect" vblex pres
+;	"collect" vblex imp
+"<Sardinium>"
+	"*Sardinium"
+"<to>"
+	"to" pr
+"<upgrade>"
+;	"upgrade" n sg
+	"upgrade" vblex inf
+;	"upgrade" vblex pres
+;	"upgrade" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<Hero>"
+	"hero" n sg
+"<Mode>"
+	"mode" n sg
+"<weapons>"
+	"weapon" n pl
+"<and>"
+	"and" cnjcoo
+"<tickets>"
+	"ticket" n pl
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<exchanged>"
+	"exchange" vblex past
+;	"exchange" vblex pp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<temporary>"
+	"temporary" adj
+"<reward>"
+	"reward" n sg
+;	"reward" vblex inf
+;	"reward" vblex pres
+;	"reward" vblex imp
+"<boosts>"
+	"boost" n pl
+;	"boost" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<multiplayer>"
+	"multiplayer" adj
+"<battles>"
+	"battle" n pl
+;	"battle" vblex pres p3 sg
+"<,>"
+	"," cm
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<increased>"
+	"increased" adj
+;	"increase" vblex past
+;	"increase" vblex pp
+"<experience>"
+	"experience" n sg
+;	"experience" vblex inf
+;	"experience" vblex pres
+;	"experience" vblex imp
+"<or>"
+	"or" cnjcoo
+"<money>"
+	"money" n sg
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<Octo>"
+	"*Octo"
+"<Expansion>"
+	"expansion" n sg
+"<DLC>"
+	"*DLC"
+"<,>"
+	"," cm
+"<players>"
+	"player" n pl
+"<play>"
+;	"play" n sg
+;	"play" vblex inf
+	"play" vblex pres
+;	"play" vblex imp
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<an>"
+	"a" det ind sg
+"<Octoling>"
+	"*Octoling"
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<new>"
+	"new" adj sint
+"<single>"
+	"single" adj
+;	"single" n sg
+"<->"
+	"-" guio
+"<player>"
+	"player" n sg
+"<campaign>"
+	"campaign" n sg
+;	"campaign" vblex inf
+;	"campaign" vblex pres
+;	"campaign" vblex imp
+"<featuring>"
+	"feature" vblex pprs
+;	"feature" vblex ger
+;	"feature" vblex subs
+"<80>"
+	"80" num
+"<missions>"
+	"mission" n pl
+"<.>"
+	"." sent
+ 
+"<Players>"
+	"player" n pl
+"<can>"
+;	"can" n sg
+	"can" vbmod inf
+;	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<play>"
+;	"play" n sg
+;	"play" vblex inf
+	"play" vblex pres
+;	"play" vblex imp
+"<multiplayer>"
+	"multiplayer" adj
+"<online>"
+	"online" adj
+"<through>"
+	"through" pr
+"<an>"
+	"a" det ind sg
+"<internet>"
+	"internet" n sg
+"<connection>"
+	"connection" n sg
+"<or>"
+	"or" cnjcoo
+"<play>"
+;	"play" n sg
+;	"play" vblex inf
+	"play" vblex pres
+;	"play" vblex imp
+"<locally>"
+	"locally" adv
+"<,>"
+	"," cm
+"<although>"
+;	"although" adv
+	"although" cnjsub
+;	"although" cnjadv
+"<local>"
+	"local" adj
+;	"local" n sg
+"<play>"
+	"play" n sg
+;	"play" vblex inf
+;	"play" vblex pres
+;	"play" vblex imp
+"<requires>"
+	"require" vblex pres p3 sg
+"<multiple>"
+	"multiple" adj
+;	"multiple" n sg
+"<consoles>"
+	"console" n pl
+"<and>"
+	"and" cnjcoo
+"<copies>"
+	"copy" n pl
+;	"copy" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<also>"
+	"also" adv
+"<features>"
+;	"feature" n pl
+	"feature" vblex pres p3 sg
+"<LAN>"
+	"LAN" n acr sg
+"<support>"
+;	"support" n sg
+;	"support" vblex inf
+	"support" vblex pres
+;	"support" vblex imp
+"<with>"
+	"with" pr
+"<an>"
+	"a" det ind sg
+"<adapter>"
+	"adapter" n sg
+"<accessory>"
+	"accessory" n sg
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<local>"
+	"local" adj
+;	"local" n sg
+"<private>"
+	"private" adj
+"<tournaments>"
+	"tournament" n pl
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<game>"
+	"game" n sg
+"<supports>"
+;	"support" n pl
+	"support" vblex pres p3 sg
+"<amiibo>"
+	"*amiibo"
+"<figures>"
+	"figure" n pl
+;	"figure" vblex pres p3 sg
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<allow>"
+;	"allow" vblex inf
+	"allow" vblex pres
+;	"allow" vblex imp
+"<players>"
+	"player" n pl
+"<to>"
+	"to" pr
+"<store>"
+;	"store" n sg
+	"store" vblex inf
+;	"store" vblex pres
+;	"store" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<Inkling>"
+	"*Inkling"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<custom>"
+	"custom" adj
+;	"custom" n sg
+"<look>"
+;	"look" adv
+	"look" n sg
+;	"look" vblex inf
+;	"look" vblex pres
+;	"look" vblex imp
+"<and>"
+	"and" cnjcoo
+"<unlock>"
+;	"unlock" vblex inf
+	"unlock" vblex pres
+;	"unlock" vblex imp
+"<additional>"
+	"additional" adj
+"<content>"
+;	"content" adj
+	"content" n sg
+;	"content" vblex inf
+;	"content" vblex pres
+;	"content" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<free>"
+;	"free" adv
+	"free" adj sint
+;	"free" vblex inf
+;	"free" vblex pres
+;	"free" vblex imp
+"<post>"
+	"post" n sg
+;	"post" vblex inf
+;	"post" vblex pres
+;	"post" vblex imp
+"<->"
+	"-" guio
+"<release>"
+	"release" n sg
+;	"release" vblex inf
+;	"release" vblex pres
+;	"release" vblex imp
+"<updates>"
+	"update" n pl
+;	"update" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<events>"
+	"event" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<ongoing>"
+	"ongoing" adj
+"<..>"
+	".." sent
+
+
+"<Splatoon>"
+	"*Splatoon"
+"<2>"
+	"2" num
+"<takes place>"
+	"take# place" vblex pres p3 sg
+"<approximately>"
+	"approximately" adv
+"<two>"
+	"two" num pl
+"<years>"
+	"year" n pl
+"<after>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<the>"
+	"the" det def sp
+"<final>"
+	"final" adj
+;	"final" n sg
+"<Splatfest>"
+	"*Splatfest"
+"<event>"
+	"event" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<first>"
+;	"first" adv
+	"first" adj ord
+"<game>"
+	"game" n sg
+"<,>"
+	"," cm
+"<in>"
+;	"in" adv
+	"in" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<pop>"
+	"pop" n sg
+;	"pop" vblex inf
+;	"pop" vblex pres
+;	"pop" vblex imp
+"<idol>"
+	"idol" n sg
+"<Marie>"
+	"Marie" np ant f sg
+"<defeated>"
+;	"defeat" vblex pp
+	"defeat" vblex past
+"<her>"
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<cousin>"
+	"cousin" n sg
+"<and>"
+	"and" cnjcoo
+"<fellow>"
+;	"fellow" adj
+	"fellow" n sg
+"<Squid>"
+	"squid" n sg
+;	"squid" n pl
+"<Sister>"
+	"sister" n sg
+"<,>"
+	"," cm
+"<Callie>"
+	"Callie" np ant f sg
+"<.>"
+	"." sent
+"<After>"
+	"after" adv
+;	"after" cnjadv
+;	"after" pr
+"<having>"
+	"have" vbhaver pprs
+;	"have" vbhaver ger
+;	"have" vbhaver subs
+;	"have" vblex pprs
+;	"have" vblex ger
+;	"have" vblex subs
+"<drifted>"
+	"drift" vblex pp
+;	"drift" vblex past
+"<apart>"
+	"apart" adv
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<months>"
+	"month" n pl
+"<following>"
+;	"follow" vblex pprs
+;	"follow" vblex ger
+;	"follow" vblex subs
+	"following" adj
+;	"following" n sg
+"<the>"
+	"the" det def sp
+"<event>"
+	"event" n sg
+"<,>"
+	"," cm
+"<Marie>"
+	"Marie" np ant f sg
+"<worries>"
+;	"worry" n pl
+	"worry" vblex pres p3 sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<Callie>"
+	"Callie" np ant f sg
+"<was>"
+	"be" vbser past p1 sg
+;	"be" vbser past p3 sg
+"<negatively>"
+	"negatively" adv
+"<affected>"
+;	"affect" vblex pp
+	"affect" vblex past
+;	"affected" adj
+"<by>"
+;	"by" adv
+	"by" pr
+"<the>"
+	"the" det def sp
+"<result>"
+	"result" n sg
+;	"result" vblex inf
+;	"result" vblex pres
+;	"result" vblex imp
+"<.>"
+	"." sent
+"<After>"
+	"after" adv
+;	"after" cnjadv
+;	"after" pr
+"<leaving>"
+	"leave" vblex pprs
+;	"leave" vblex ger
+;	"leave" vblex subs
+"<Inkopolis>"
+	"*Inkopolis"
+"<to>"
+	"to" pr
+"<see>"
+	"see" vblex inf
+;	"see" vblex pres
+;	"see" vblex imp
+"<her>"
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<parents>"
+	"parent" n pl
+"<,>"
+	"," cm
+"<Marie>"
+	"Marie" np ant f sg
+"<returns>"
+;	"return" n pl
+	"return" vblex pres p3 sg
+"<home>"
+;	"home" adv
+	"home" n sg
+"<to>"
+	"to" pr
+"<discover>"
+;	"discover" adv
+	"discover" vblex inf
+;	"discover" vblex pres
+;	"discover" vblex imp
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<Great>"
+	"Great" ij
+	"great" adj sint
+"<Zapfish>"
+	"*Zapfish"
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<powers>"
+;	"power" n pl
+	"power" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<city>"
+	"city" n sg
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<gone>"
+;	"go" vblex pp
+	"gone" adj
+"<missing>"
+;	"miss" vblex pprs
+;	"miss" vblex ger
+;	"miss" vblex subs
+	"missing" adj
+"<again>"
+	"again" adv
+"<,>"
+	"," cm
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<Callie>"
+	"Callie" np ant f sg
+"<.>"
+	"." sent
+"<Fearing>"
+;	"fear" vblex pprs
+;	"fear" vblex ger
+	"fear" vblex subs
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<evil>"
+	"evil" adj
+;	"evil" n sg
+"<Octarians>"
+	"*Octarians"
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<once more>"
+	"once more" adv
+"<involved>"
+	"involve" vblex past
+;	"involve" vblex pp
+"<,>"
+	"," cm
+"<Marie>"
+	"Marie" np ant f sg
+"<takes>"
+	"take" vblex pres p3 sg
+"<up>"
+	"up" adv
+;	"up" pr
+"<her>"
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<role>"
+	"role" n sg
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<Agent>"
+	"agent" n sg
+"<2>"
+	"2" num
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<New>"
+	"new" adj sint
+"<Squidbeak>"
+	"*Squidbeak"
+"<Splatoon>"
+	"*Splatoon"
+"<and>"
+	"and" cnjcoo
+"<recruits>"
+;	"recruit" n pl
+	"recruit" vblex pres p3 sg
+"<an>"
+	"a" det ind sg
+"<Inkling>"
+	"*Inkling"
+"<from>"
+	"from" pr
+"<Inkopolis>"
+	"*Inkopolis"
+"<Square>"
+;	"square" adj
+	"square" n sg
+;	"square" vblex inf
+;	"square" vblex pres
+;	"square" vblex imp
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<player>"
+	"player" n sg
+"<character>"
+	"character" n sg
+"<,>"
+	"," cm
+"<to>"
+	"to" pr
+"<become>"
+	"become" vblex inf
+;	"become" vblex pres
+;	"become" vblex pp
+;	"become" vblex imp
+"<Agent>"
+	"agent" n sg
+"<4>"
+	"4" num
+"<and>"
+	"and" cnjcoo
+"<investigate>"
+;	"investigate" vblex inf
+	"investigate" vblex pres
+;	"investigate" vblex imp
+"<.>"
+	"." sent
+"<With>"
+	"with" pr
+"<assistance>"
+	"assistance" n sg
+"<from>"
+	"from" pr
+"<Marie>"
+	"Marie" np ant f sg
+"<and>"
+	"and" cnjcoo
+"<weapons>"
+	"weapon" n pl
+"<expert>"
+;	"expert" adj
+	"expert" n sg
+"<Sheldon>"
+;	"Sheldon" np cog sg
+	"Sheldon" np ant m sg
+"<,>"
+	"," cm
+"<Agent>"
+	"agent" n sg
+"<4>"
+	"4" num
+"<makes>"
+;	"make" n pl
+	"make" vblex pres p3 sg
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<way>"
+	"way" n sg
+"<through>"
+	"through" pr
+"<Octo>"
+	"*Octo"
+"<Canyon>"
+	"canyon" n sg
+"<fighting>"
+;	"fight" vblex pprs
+;	"fight" vblex ger
+	"fight" vblex subs
+;	"fighting" adj
+;	"fighting" n sg
+"<Octarians>"
+	"*Octarians"
+"<and>"
+	"and" cnjcoo
+"<recovering>"
+	"recover" vblex pprs
+;	"recover" vblex ger
+;	"recover" vblex subs
+"<several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<stolen>"
+	"steal" vblex pp
+"<Zapfish>"
+	"*Zapfish"
+"<,>"
+	"," cm
+"<including>"
+;	"include" vblex pprs
+;	"include" vblex ger
+	"include" vblex subs
+;	"including" adv
+"<ones>"
+	"one" prn dem mf pl
+"<powering>"
+	"power" vblex pprs
+;	"power" vblex ger
+;	"power" vblex subs
+"<the>"
+	"the" det def sp
+"<Octarians>"
+	"*Octarians"
+"<'>"
+;	"'" apos
+	"'s" gen
+"<war>"
+	"war" n sg
+"<machines>"
+	"machine" n pl
+"<,>"
+	"," cm
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<the>"
+	"the" det def sp
+"<Octo>"
+	"*Octo"
+"<Oven>"
+	"oven" n sg
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<Octo>"
+	"*Octo"
+"<Shower>"
+	"shower" n sg
+;	"shower" vblex inf
+;	"shower" vblex pres
+;	"shower" vblex imp
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<discover>"
+;	"discover" adv
+;	"discover" vblex inf
+	"discover" vblex pres
+;	"discover" vblex imp
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<Callie>"
+	"Callie" np ant f sg
+"<herself>"
+	"herself" prn ref p3 f sg
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<sided>"
+;	"side" vblex past
+	"side" vblex pp
+"<with>"
+	"with" pr
+"<the>"
+	"the" det def sp
+"<Octarians>"
+	"*Octarians"
+"<after>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<being>"
+	"be" vbser pprs
+;	"be" vbser ger
+;	"be" vbser subs
+;	"being" n sg
+"<brainwashed>"
+	"*brainwashed"
+"<by>"
+;	"by" adv
+	"by" pr
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<leader>"
+	"leader" n sg
+"<,>"
+	"," cm
+"<DJ>"
+	"DJ" n acr sg
+"<Octavio>"
+	"Octavio" np ant m sg
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<escaped>"
+;	"escape" vblex past
+	"escape" vblex pp
+"<his>"
+	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<imprisonment>"
+	"imprisonment" n sg
+"<after>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<his>"
+	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<defeat>"
+	"defeat" n sg
+;	"defeat" vblex inf
+;	"defeat" vblex pres
+;	"defeat" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<first>"
+;	"first" adv
+	"first" adj ord
+"<game>"
+	"game" n sg
+"<and>"
+	"and" cnjcoo
+"<once more>"
+	"once more" adv
+"<is>"
+	"be" vbser pres p3 sg
+;<using>"
+;	"use" vblex pprs
+;	"use" vblex ger
+	"use" vblex subs
+"<the>"
+	"the" det def sp
+"<Great>"
+;	"Great" ij
+	"great" adj sint
+"<Zapfish>"
+	"*Zapfish"
+"<to>"
+	"to" pr
+"<power>"
+;	"power" n sg
+	"power" vblex inf
+;	"power" vblex pres
+;	"power" vblex imp
+"<his>"
+	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+;	"prpers" det pos p3 m sg
+"<new>"
+	"new" adj sint
+"<DJ>"
+	"DJ" n acr sg
+"<stage>"
+;	"stage" adj
+	"stage" n sg
+;	"stage" vblex inf
+;	"stage" vblex pres
+;	"stage" vblex imp
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<Octobot>"
+	"*Octobot"
+"<King>"
+;	"king" n sg
+	"King" np cog sg
+"<II>"
+	"II" num pl
+"<.>"
+	"." sent
+"<Marie>"
+	"Marie" np ant f sg
+"<arrives>"
+	"arrive" vblex pres p3 sg
+"<with>"
+	"with" pr
+"<Sheldon>"
+;	"Sheldon" np cog sg
+	"Sheldon" np ant m sg
+"<and>"
+	"and" cnjcoo
+"<frees>"
+	"free" vblex pres p3 sg
+"<Callie>"
+	"Callie" np ant f sg
+"<from>"
+	"from" pr
+"<her>"
+;	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+	"prpers" det pos p3 f sg
+"<mind>"
+	"mind" n sg
+;	"mind" vblex inf
+;	"mind" vblex pres
+;	"mind" vblex imp
+"<control>"
+	"control" n sg
+;	"control" vblex inf
+;	"control" vblex pres
+;	"control" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<together>"
+	"together" adj
+;	"together" adv
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<help>"
+;	"help" n sg
+;	"help" vblex inf
+	"help" vblex pres
+;	"help" vblex imp
+"<Agent>"
+	"agent" n sg
+"<4>"
+	"4" num
+"<defeat>"
+;	"defeat" n sg
+;	"defeat" vblex inf
+	"defeat" vblex pres
+;	"defeat" vblex imp
+"<Octavio>"
+	"Octavio" np ant m sg
+"<once more>"
+	"once more" adv
+"<.>"
+	"." sent
+"<With>"
+	"with" pr
+"<the>"
+	"the" det def sp
+"<Great>"
+;	"Great" ij
+	"great" adj sint
+"<Zapfish>"
+	"*Zapfish"
+"<safely>"
+	"safely" adv
+"<returned>"
+;	"return" vblex pp
+	"return" vblex past
+"<to>"
+	"to" pr
+"<Inkopolis>"
+	"*Inkopolis"
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<Squid>"
+	"squid" n sg
+;	"squid" n pl
+"<Sisters>"
+	"sister" n pl
+"<happily>"
+	"happily" adv
+"<reunite>"
+;	"reunite" vblex inf
+	"reunite" vblex pres
+;	"reunite" vblex imp
+"<and>"
+	"and" cnjcoo
+"<resume>"
+;	"resume" vblex inf
+	"resume" vblex pres
+;	"resume" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<musical>"
+	"musical" adj
+;	"musical" n sg
+"<career>"
+;	"career" adj
+	"career" n sg
+"<..>"
+	".." sent
+ 
+
