@@ -1,0 +1,1694 @@
+"<Disco>"
+	"disco" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<genre>"
+	"genre" n sg
+"<of>"
+	"of" pr
+"<music>"
+	"music" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<originated>"
+	"originate" vblex past
+;	"originate" vblex pp
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<nightclubs>"
+	"nightclub" n pl
+"<of>"
+	"of" pr
+"<New York>"
+	"New York" np top sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<1970>"
+	"1970" num
+"<s>"
+	"*s"
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<heavily>"
+	"heavily" adv
+"<influenced>"
+;	"influence" vblex past
+	"influence" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<Funk>"
+	"*Funk"
+"<and>"
+	"and" cnjcoo
+"<Soul>"
+	"soul" n sg
+"<music>"
+	"music" n sg
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<first>"
+	"first" adv
+;	"first" adj ord
+"<used>"
+;	"use" vblex past
+	"use" vblex pp
+"<as a>"
+	"as a" pr
+"<means>"
+;	"mean" n pl
+	"means" n sg
+;	"means" n pl
+;	"mean" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<distracting>"
+;	"distract" vblex pprs
+;	"distract" vblex ger
+	"distract" vblex subs
+"<from>"
+	"from" pr
+"<negative>"
+	"negative" adj
+"<economic>"
+	"economic" adj
+"<issues>"
+	"issue" n pl
+;	"issue" vblex pres p3 sg
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<seen>"
+	"see" vblex pp
+"<from>"
+	"from" pr
+"<how>"
+;	"how" adv
+	"how" preadv
+;	"how" adv itg
+"<upbeat>"
+	"upbeat" adj
+"<and>"
+	"and" cnjcoo
+"<lively>"
+	"lively" adj sint
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<is>"
+	"be" vbser pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<how>"
+;	"how" adv
+	"how" preadv
+;	"how" adv itg
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<lyrics>"
+	"lyric" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<almost>"
+	"almost" adv
+"<always>"
+	"always" adv
+"<shallow>"
+	"shallow" adj sint
+"<and>"
+	"and" cnjcoo
+"<superficial>"
+	"superficial" adj
+"<and>"
+	"and" cnjcoo
+"<often>"
+	"often" adv
+"<encourage>"
+;	"encourage" vblex inf
+	"encourage" vblex pres
+;	"encourage" vblex imp
+"<the>"
+	"the" det def sp
+"<listener>"
+	"listener" n sg
+"<to>"
+	"to" pr
+"<move>"
+;	"move" n sg
+	"move" vblex inf
+;	"move" vblex pres
+;	"move" vblex imp
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<body>"
+	"body" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<some>"
+;	"some" adj
+;	"some" adv
+;	"some" det qnt sp
+	"some" prn ind mf pl
+"<way>"
+	"way" n sg
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<terms>"
+	"term" n pl
+;	"term" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<tempo>"
+	"tempo" n sg
+"<and>"
+	"and" cnjcoo
+"<meter>"
+	"meter" n sg
+"<,>"
+	"," cm
+"<almost>"
+	"almost" adv
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<written>"
+	"write" vblex pp
+;	"written" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<4>"
+	"4" num
+"<4>"
+	"4" num
+"<time>"
+	"time" n sg
+;	"time" vblex inf
+;	"time" vblex pres
+;	"time" vblex imp
+"<,>"
+	"," cm
+"<with>"
+	"with" pr
+"<a>"
+	"a" det ind sg
+"<quick>"
+;	"quick" adv
+	"quick" adj sint
+"<and>"
+	"and" cnjcoo
+"<lively>"
+	"lively" adj sint
+"<tempo>"
+	"tempo" n sg
+"<of>"
+	"of" pr
+"<approximately>"
+	"approximately" adv
+"<120>"
+	"120" num
+"<bpm>"
+	"*bpm"
+"<(>"
+	"(" lpar
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<general>"
+	"general" adj
+;	"general" adv
+;	"general" n sg
+"<tempo>"
+	"tempo" n sg
+"<of>"
+	"of" pr
+"<almost>"
+	"almost" adv
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<dance music>"
+	"dance music" n sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<is>"
+	"be" vbser pres p3 sg
+"<recognizable>"
+	"recognizable" adj
+"<by>"
+;	"by" adv
+	"by" pr
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<four>"
+	"four" num pl
+"<->"
+	"-" guio
+"<on>"
+;	"on" adv
+	"on" pr
+"<->"
+	"-" guio
+"<the>"
+	"the" det def sp
+"<->"
+	"-" guio
+"<floor>"
+	"floor" n sg
+;	"floor" vblex inf
+;	"floor" vblex pres
+;	"floor" vblex imp
+"<rhythms>"
+	"rhythm" n pl
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<drum>"
+	"drum" n sg
+;	"drum" vblex inf
+;	"drum" vblex pres
+;	"drum" vblex imp
+"<style>"
+	"style" n sg
+;	"style" vblex inf
+;	"style" vblex pres
+;	"style" vblex imp
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<the>"
+	"the" det def sp
+"<bass drum>"
+	"bass drum" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<played>"
+	"play" vblex pp
+;	"play" vblex past
+"<on>"
+;	"on" adv
+	"on" pr
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<4>"
+	"4" num
+"<beats>"
+	"beat" n pl
+;	"beat" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<bar>"
+	"bar" n sg
+;	"bar" vblex inf
+;	"bar" vblex pres
+;	"bar" vblex imp
+"<while>"
+;	"while" adv
+	"while" cnjsub
+;	"while" cnjadv
+;	"while" n sg
+"<the>"
+	"the" det def sp
+"<hi>"
+	"hi" ij
+"<->"
+	"-" guio
+"<hat>"
+	"hat" n sg
+"<plays>"
+;	"play" n pl
+	"play" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<semiquaver>"
+	"semiquaver" n sg
+"<or>"
+	"or" cnjcoo
+"<quaver>"
+	"quaver" n sg
+"<pattern>"
+	"pattern" n sg
+"<with>"
+	"with" pr
+"<open>"
+	"open" adj
+;	"open" vblex inf
+;	"open" vblex pres
+;	"open" vblex imp
+"<hi>"
+	"hi" ij
+"<->"
+	"-" guio
+"<hat>"
+	"hat" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<offbeats>"
+	"*offbeats"
+"<.>"
+	"." sent
+"<This>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<technique>"
+	"technique" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<inherited>"
+	"inherit" vblex pp
+;	"inherit" vblex past
+;	"inherited" adj
+"<by>"
+;	"by" adv
+	"by" pr
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<of>"
+	"of" pr
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<derivatives>"
+	"derivative" n pl
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<Kwaito>"
+	"*Kwaito"
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<bass guitar>"
+	"bass guitar" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<dominant>"
+	"dominant" adj
+"<and>"
+	"and" cnjcoo
+"<syncopated>"
+;	"syncopate" vblex past
+	"syncopate" vblex pp
+"<,>"
+	"," cm
+"<meaning>"
+;	"mean" vblex pprs
+	"mean" vblex ger
+;	"mean" vblex subs
+;	"meaning" n sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<drives>"
+;	"drive" n pl
+	"drive" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<rhythm>"
+	"rhythm" n sg
+"<forward>"
+	"forward" adv
+;	"forward" n sg
+;	"forward" vblex inf
+;	"forward" vblex pres
+;	"forward" vblex imp
+"<and>"
+	"and" cnjcoo
+"<is>"
+	"be" vbser pres p3 sg
+"<often>"
+	"often" adv
+"<the>"
+	"the" det def sp
+"<focus>"
+	"focus" n sg
+;	"focus" n pl
+;	"focus" vblex inf
+;	"focus" vblex pres
+;	"focus" vblex imp
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<song>"
+	"song" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<guitar>"
+	"guitar" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<mainly>"
+	"mainly" adv
+"<used>"
+;	"use" vblex past
+	"use" vblex pp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<rhythm>"
+	"rhythm" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Disco>"
+	"disco" n sg
+"<and>"
+	"and" cnjcoo
+"<has>"
+;	"have" vbhaver pres p3 sg
+	"have" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<distinctly>"
+	"distinctly" adv
+"<Funky>"
+	"funky" adj sint
+"<sound>"
+	"sound" n sg
+;	"sound" vblex inf
+;	"sound" vblex pres
+;	"sound" vblex imp
+"<due to>"
+	"due to" pr
+"<the>"
+	"the" det def sp
+"<use>"
+	"use" n sg
+;	"use" vblex inf
+;	"use" vblex pres
+;	"use" vblex imp
+"<of>"
+	"of" pr
+"<Funk>"
+	"*Funk"
+"<techniques>"
+	"technique" n pl
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<the>"
+	"the" det def sp
+"<use>"
+	"use" n sg
+;	"use" vblex inf
+;	"use" vblex pres
+;	"use" vblex imp
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<wah>"
+	"*wah"
+"<->"
+	"-" guio
+"<wah>"
+	"*wah"
+"<pedal>"
+;	"pedal" adj
+	"pedal" n sg
+"<.>"
+	"." sent
+"<Its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<instrumentation>"
+	"instrumentation" n sg
+"<consists>"
+	"consist" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<not>"
+	"not" adv
+"<only>"
+;	"only" adj
+	"only" adv
+"<the>"
+	"the" det def sp
+"<standard>"
+	"standard" adj
+;	"standard" n sg
+"<pop>"
+	"pop" n sg
+;	"pop" vblex inf
+;	"pop" vblex pres
+;	"pop" vblex imp
+"<->"
+	"-" guio
+"<music>"
+	"music" n sg
+"<instruments>"
+	"instrument" n pl
+;	"instrument" vblex pres p3 sg
+"<like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<the>"
+	"the" det def sp
+"<guitar>"
+	"guitar" n sg
+"<,>"
+	"," cm
+"<bass guitar>"
+	"bass guitar" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<keyboard>"
+	"keyboard" n sg
+"<instruments>"
+	"instrument" n pl
+;	"instrument" vblex pres p3 sg
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<also>"
+	"also" adv
+"<orchestral>"
+	"orchestral" adj
+"<instruments>"
+	"instrument" n pl
+;	"instrument" vblex pres p3 sg
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<more>"
+;	"more" adv
+	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<luscious>"
+	"*luscious"
+"<melodies>"
+	"melody" n pl
+"<.>"
+	"." sent
+"<Synthesizers>"
+	"synthesizer" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<also>"
+	"also" adv
+"<extremely>"
+	"extremely" adv
+"<common>"
+	"common" adj
+;	"common" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<.>"
+	"." sent
+"<Because of>"
+	"because of" pr
+"<this>"
+;	"this" det dem sg
+	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<,>"
+	"," cm
+"<songs>"
+	"song" n pl
+"<often>"
+	"often" adv
+"<incorporate>"
+;	"incorporate" vblex inf
+	"incorporate" vblex pres
+;	"incorporate" vblex imp
+"<rich>"
+	"rich" adj sint
+"<orchestral>"
+	"orchestral" adj
+"<arrangements>"
+	"arrangement" n pl
+"<of>"
+	"of" pr
+"<strings>"
+	"string" n pl
+;	"string" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<brass>"
+	"brass" n sg
+"<playing>"
+;	"play" vblex pprs
+	"play" vblex ger
+;	"play" vblex subs
+"<linear>"
+	"linear" adj
+"<phrases>"
+	"phrase" n pl
+;	"phrase" vblex pres p3 sg
+"<,>"
+	"," cm
+"<resulting>"
+;	"result" vblex pprs
+	"result" vblex ger
+;	"result" vblex subs
+;	"resulting" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<what>"
+;	"what" det itg sp
+	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<is>"
+	"be" vbser pres p3 sg
+"<known>"
+;	"known" adj
+	"know" vblex pp
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<disco>"
+	"disco" n sg
+"<sound>"
+	"sound" n sg
+;	"sound" vblex inf
+;	"sound" vblex pres
+;	"sound" vblex imp
+"<.>"
+	"." sent
+"<This>"
+;	"this" det dem sg
+	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<complements>"
+;	"complement" n pl
+	"complement" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<soaring>"
+	"soar" vblex pprs
+;	"soar" vblex ger
+;	"soar" vblex subs
+"<,>"
+	"," cm
+"<reverberating>"
+	"reverberate" vblex pprs
+;	"reverberate" vblex ger
+;	"reverberate" vblex subs
+"<vocals>"
+	"*vocals"
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<present>"
+	"present" adj
+;	"present" n sg
+;	"present" vblex inf
+;	"present" vblex pres
+;	"present" vblex imp
+"<.>"
+	"." sent
+"<There>"
+	"there" adv
+"<is>"
+	"be" vbser pres p3 sg
+"<often>"
+	"often" adv
+"<an>"
+	"a" det ind sg
+"<instrumental>"
+	"instrumental" adj
+"<break>"
+	"break" n sg
+;	"break" vblex inf
+;	"break" vblex pres
+;	"break" vblex imp
+"<in the middle of>"
+	"in the middle of" pr
+"<the>"
+	"the" det def sp
+"<song>"
+	"song" n sg
+"<as well>"
+	"as well" adv
+"<,>"
+	"," cm
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<people>"
+;	"people" n sg
+	"person" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<dance>"
+;	"dance" n sg
+	"dance" vblex inf
+;	"dance" vblex pres
+;	"dance" vblex imp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<music>"
+	"music" n sg
+"<without>"
+;	"without" adv
+	"without" pr
+"<the>"
+	"the" det def sp
+"<vocals>"
+	"*vocals"
+"<.>"
+	"." sent
+"<Harmony>"
+	"harmony" n sg
+;	"Harmony" np ant f sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<simple>"
+	"simple" adj sint
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<vary>"
+	"vary" vblex inf
+;	"vary" vblex pres
+;	"vary" vblex imp
+"<greatly>"
+	"greatly" adv
+"<between>"
+	"between" pr
+"<different>"
+	"different" adj
+"<songs>"
+	"song" n pl
+"<.>"
+	"." sent
+"<Songs>"
+	"song" n pl
+;	"Song" np cog pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<always>"
+	"always" adv
+"<written>"
+	"write" vblex pp
+;	"written" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<verse>"
+	"verse" n sg
+"<and>"
+	"and" cnjcoo
+"<chorus>"
+	"chorus" n sg
+"<structure>"
+	"structure" n sg
+;	"structure" vblex inf
+;	"structure" vblex pres
+;	"structure" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<often>"
+	"often" adv
+"<quite>"
+;	"quite" adv
+	"quite" preadv
+"<long>"
+;	"long" adv
+	"long" adj sint
+;	"long" vblex inf
+;	"long" vblex pres
+;	"long" vblex imp
+"<(>"
+	"(" lpar
+"<5-6>"
+	"5-6" num
+"<minutes>"
+	"minute" n pl
+"<on average>"
+	"on average" adv
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<This>"
+;	"this" det dem sg
+	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<because>"
+	"because" cnjsub
+;	"because" cnjadv
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<usually>"
+	"usually" adv
+"<performed>"
+	"perform" vblex pp
+;	"perform" vblex past
+"<non>"
+	"non" adv
+"<->"
+	"-" guio
+"<stop>"
+	"stop" n sg
+;	"stop" vblex inf
+;	"stop" vblex pres
+;	"stop" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<nightclubs>"
+	"nightclub" n pl
+"<.>"
+	"." sent
+"<Significant>"
+	"significant" adj
+;	"significant" n sg
+"<Disco>"
+	"disco" n sg
+"<groups>"
+	"group" n pl
+;	"group" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<artists>"
+	"artist" n pl
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<Bee>"
+	"bee" n sg
+"<Gees>"
+	"Gee" np cog pl
+"<->"
+	"-" guio
+"<a>"
+	"a" det ind sg
+"<group>"
+	"group" n sg
+;	"group" vblex inf
+;	"group" vblex pres
+;	"group" vblex imp
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<world>"
+;	"world" adj
+	"world" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<best-selling>"
+	"best-selling" adj
+"<artists>"
+	"artist" n pl
+"<in>"
+;	"in" adv
+	"in" pr
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<time>"
+	"time" n sg
+;	"time" vblex inf
+;	"time" vblex pres
+;	"time" vblex imp
+"<,>"
+	"," cm
+"<whose>"
+;	"whose" det itg sp
+;	"whose" prn itg mf sp
+	"whose" det pos mf sp
+"<famous>"
+	"famous" adj
+"<recordings>"
+	"recording" n pl
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<the>"
+	"the" det def sp
+"<songs>"
+	"song" n pl
+"<Stayin>"
+	"*Stayin"
+"<'>"
+	"'" apos
+;	"'s" gen
+"<Alive>"
+	"alive" adj
+"<and>"
+	"and" cnjcoo
+"<Night>"
+	"night" n sg
+"<Fever>"
+	"fever" n sg
+"<;>"
+	";" sent
+"<Gloria>"
+	"Gloria" np ant f sg
+"<Gaynor>"
+	"Gaynor" np cog sg
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<instrumental>"
+	"instrumental" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<introducing>"
+;	"introduce" vblex pprs
+;	"introduce" vblex ger
+	"introduce" vblex subs
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<public>"
+;	"public" adj
+	"public" n sg
+"<,>"
+	"," cm
+"<whose>"
+;	"whose" det itg sp
+;	"whose" prn itg mf sp
+	"whose" det pos mf sp
+"<famous>"
+	"famous" adj
+"<recordings>"
+	"recording" n pl
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<the>"
+	"the" det def sp
+"<songs>"
+	"song" n pl
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<Will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+;	"Will" np ant m sg
+"<Survive>"
+	"survive" vblex inf
+;	"survive" vblex pres
+;	"survive" vblex imp
+"<and>"
+	"and" cnjcoo
+"<Never>"
+	"never" adv
+"<Can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<Say>"
+	"say" vblex inf
+;	"say" vblex pres
+;	"say" vblex imp
+"<Goodbye>"
+	"goodbye" ij
+;	"goodbye" n sg
+"<(>"
+	"(" lpar
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<pivotal>"
+	"pivotal" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<her>"
+	"her" det pos sp
+;	"prpers" prn obj p3 f sg
+;	"prpers" det pos p3 f sg
+"<success>"
+	"success" n sg
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<an>"
+	"a" det ind sg
+"<artist>"
+	"artist" n sg
+"<)>"
+	")" rpar
+"<;>"
+	";" sent
+"<and>"
+	"and" cnjcoo
+"<Village>"
+	"village" n sg
+"<People>"
+;	"people" n sg
+	"person" n pl
+"<,>"
+	"," cm
+"<who>"
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<famous>"
+	"famous" adj
+"<because of>"
+	"because of" pr
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<catchy>"
+	"*catchy"
+"<tunes>"
+	"tune" n pl
+;	"tune" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<extravagant>"
+	"extravagant" adj
+"<on>"
+;	"on" adv
+	"on" pr
+"<->"
+	"-" guio
+"<stage>"
+;	"stage" adj
+	"stage" n sg
+;	"stage" vblex inf
+;	"stage" vblex pres
+;	"stage" vblex imp
+"<costumes>"
+	"costume" n pl
+"<,>"
+	"," cm
+"<whose>"
+;	"whose" det itg sp
+;	"whose" prn itg mf sp
+	"whose" det pos mf sp
+"<famous>"
+	"famous" adj
+"<recordings>"
+	"recording" n pl
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<the>"
+	"the" det def sp
+"<songs>"
+	"song" n pl
+"<YMCA>"
+	"*YMCA"
+"<(>"
+	"(" lpar
+"<their>"
+	"their" det pos sp
+;	"prpers" det pos p3 mf pl
+"<most>"
+;	"most" adv
+	"most" preadv
+;	"most" det qnt sp
+;	"most" prn ind mf pl
+"<famous>"
+	"famous" adj
+"<song>"
+	"song" n sg
+"<by far>"
+	"by far" adv
+"<)>"
+	")" rpar
+"<and>"
+	"and" cnjcoo
+"<Macho>"
+	"macho" n sg
+;	"Macho" np cog sg
+"<Man>"
+	"man" n sg
+"<.>"
+	"." sent
+"<One>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<song>"
+	"song" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<truly>"
+	"truly" adv
+"<exemplifies>"
+	"exemplify" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<Disco>"
+	"disco" n sg
+"<genre>"
+	"genre" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<Boogie>"
+	"*Boogie"
+"<Wonderland>"
+	"wonderland" n sg
+;	"Wonderland" np top sg
+"<by>"
+;	"by" adv
+	"by" pr
+"<Earth>"
+	"earth" n sg
+"<,>"
+	"," cm
+"<Wind>"
+	"wind" n sg
+;	"wind" vblex inf
+;	"wind" vblex pres
+;	"wind" vblex imp
+"<Fire>"
+	"fire" n sg
+;	"fire" vblex inf
+;	"fire" vblex pres
+;	"fire" vblex imp
+"<.>"
+	"." sent
+"<Firstly>"
+	"firstly" adv
+"<,>"
+	"," cm
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<is>"
+	"be" vbser pres p3 sg
+"<distinctly>"
+	"distinctly" adv
+"<recognizable>"
+	"recognizable" adj
+"<as a>"
+	"as a" pr
+"<Disco>"
+	"disco" n sg
+"<song>"
+	"song" n sg
+"<because of>"
+	"because of" pr
+"<the>"
+	"the" det def sp
+"<four>"
+	"four" num pl
+"<->"
+	"-" guio
+"<on>"
+;	"on" adv
+	"on" pr
+"<->"
+	"-" guio
+"<the>"
+	"the" det def sp
+"<->"
+	"-" guio
+"<floor>"
+	"floor" n sg
+;	"floor" vblex inf
+;	"floor" vblex pres
+;	"floor" vblex imp
+"<rhythm>"
+	"rhythm" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<present>"
+	"present" adj
+;	"present" n sg
+;	"present" vblex inf
+;	"present" vblex pres
+;	"present" vblex imp
+"<and>"
+	"and" cnjcoo
+"<because of>"
+	"because of" pr
+"<the>"
+	"the" det def sp
+"<upbeat>"
+	"upbeat" adj
+"<tempo>"
+	"tempo" n sg
+"<of>"
+	"of" pr
+"<132>"
+	"132" num
+"<bpm>"
+	"*bpm"
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<funky>"
+	"funky" adj sint
+"<guitar>"
+	"guitar" n sg
+"<,>"
+	"," cm
+"<although>"
+;	"although" adv
+	"although" cnjsub
+;	"although" cnjadv
+"<to>"
+	"to" pr
+"<a>"
+	"a" det ind sg
+"<lesser>"
+	"lesser" adj
+"<extent>"
+	"extent" n sg
+"<.>"
+	"." sent
+"<Another>"
+	"another" det ind sg
+;	"another" prn ind mf sg
+"<key>"
+	"key" adj
+;	"key" n sg
+;	"key" vblex inf
+;	"key" vblex pres
+;	"key" vblex imp
+"<aspect>"
+	"aspect" n sg
+"<of>"
+	"of" pr
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<incorporates>"
+	"incorporate" vblex pres p3 sg
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<verse>"
+	"verse" n sg
+"<and>"
+	"and" cnjcoo
+"<chorus>"
+	"chorus" n sg
+"<structure>"
+	"structure" n sg
+;	"structure" vblex inf
+;	"structure" vblex pres
+;	"structure" vblex imp
+"<accompanied>"
+	"accompany" vblex pp
+;	"accompany" vblex past
+"<by>"
+;	"by" adv
+	"by" pr
+"<a>"
+	"a" det ind sg
+"<thick>"
+	"thick" adj sint
+"<and>"
+	"and" cnjcoo
+"<lush>"
+	"lush" adj
+"<orchestral>"
+	"orchestral" adj
+"<arrangement>"
+	"arrangement" n sg
+"<consisting>"
+;	"consist" vblex pprs
+	"consist" vblex ger
+;	"consist" vblex subs
+"<of>"
+	"of" pr
+"<strings>"
+	"string" n pl
+;	"string" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<horns>"
+	"horn" n pl
+"<,>"
+	"," cm
+"<with>"
+	"with" pr
+"<the>"
+	"the" det def sp
+"<long>"
+;	"long" adv
+	"long" adj sint
+;	"long" vblex inf
+;	"long" vblex pres
+;	"long" vblex imp
+"<instrumental>"
+	"instrumental" adj
+"<breaks>"
+	"break" n pl
+;	"break" vblex pres p3 sg
+"<in between>"
+	"in between" adv
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<vocals>"
+	"*vocals"
+"<heavily>"
+	"heavily" adv
+"<reverberate>"
+;	"reverberate" vblex inf
+	"reverberate" vblex pres
+;	"reverberate" vblex imp
+"<and>"
+	"and" cnjcoo
+"<its>"
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
+"<lyrics>"
+	"lyric" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<shallow>"
+	"shallow" adj sint
+"<and>"
+	"and" cnjcoo
+"<talk about>"
+;	"talk" vblex inf + "about"
+	"talk" vblex pres + "about"
+;	"talk" vblex imp + "about"
+"<dancing>"
+;	"dance" vblex pprs
+;	"dance" vblex ger
+;	"dance" vblex subs
+	"dancing" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<words>"
+	"word" n pl
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<repeated>"
+	"repeat" vblex pp
+;	"repeat" vblex past
+"<throughout>"
+;	"throughout" adv
+	"throughout" pr
+"<the>"
+	"the" det def sp
+"<song>"
+	"song" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<song>"
+	"song" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<almost>"
+	"almost" adv
+"<5>"
+	"5" num
+"<minutes>"
+	"minute" n pl
+"<long>"
+	"long" adv
+;	"long" adj sint
+;	"long" vblex inf
+;	"long" vblex pres
+;	"long" vblex imp
+"<and>"
+	"and" cnjcoo
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<looped>"
+	"*looped"
+"<to>"
+	"to" pr
+"<play>"
+;	"play" n sg
+	"play" vblex inf
+;	"play" vblex pres
+;	"play" vblex imp
+"<continuously>"
+	"continuously" adv
+"<easily>"
+	"easily" adv
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<also>"
+	"also" adv
+"<characteristic>"
+	"characteristic" adj
+;	"characteristic" n sg
+"<of>"
+	"of" pr
+"<Disco>"
+	"disco" n sg
+"<music>"
+	"music" n sg
+"<..>"
+	".." sent
