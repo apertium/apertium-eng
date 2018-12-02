@@ -41,6 +41,7 @@ LIST Rel = (prn rel) ;
 LIST Ij = ij ;
 LIST Cnjadv = cnjadv ;
 LIST Cnjcoo = cnjcoo ;
+LIST Cnjsub = cnjsub ;
 LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
 LIST Vblex = vblex ;
 LIST Vbser = vbser ;
@@ -311,6 +312,10 @@ SELECT Num IF (1 N) ;
 SELECT Num IF (1 Adj) (2 N) ;
 SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
+# Has (Cnjsub) and has (Det)
+SELECT Det IF (0 Cnjsub) (1 N) (2 Vbser) ;
+SELECT Det IF (0 Cnjsub) (-1 Vbser) ;
+SELECT Det IF (0 Cnjsub) (1 Vbser) ;
 
 #
 # Other rules
@@ -328,7 +333,13 @@ SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
-
+SELECT Adv IF (0 Adj) (-1 Vblex) ;
+SELECT Pr IF (0 Cnjadv) (1 Det) ;
+SELECT Det IF (0 Adj) (1 Vblex) (2 N) ;
+SELECT Pr IF (0 Adv) (1 Np) ;
+SELECT Adv IF (0 N) (1 Adj) ;
+SELECT Cnjadv IF (0 Pr) (1 Prn) ;
+SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) ;
 
 #
 # TODO: Rules to be revised
