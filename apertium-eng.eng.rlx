@@ -87,7 +87,9 @@ LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
 LIST Ing = "<.*ing>"ri ;
-
+LIST Cm = cm ;
+LIST Sup = sup ;
+LIST Supadj = (adj sint sup) ;
 
 SECTION
 
@@ -314,8 +316,16 @@ SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
 # Has (Cnjsub) and has (Det)
 SELECT Det IF (0 Cnjsub) (1 N) (2 Vbser) ;
+#Example (that):
+#That cat is evil.
+
 SELECT Det IF (0 Cnjsub) (-1 Vbser) ;
-SELECT Det IF (0 Cnjsub) (1 Vbser) ;
+#Example (that):
+#Is that cat evil?
+
+SELECT Cnjsub IF (0 Det) (1 Det) ;
+#Example (that):
+#I believe that the cat is evil.
 
 #
 # Other rules
@@ -333,13 +343,34 @@ SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
-SELECT Adv IF (0 Adj) (-1 Vblex) ;
-SELECT Pr IF (0 Cnjadv) (1 Det) ;
-SELECT Det IF (0 Adj) (1 Vblex) (2 N) ;
-SELECT Pr IF (0 Adv) (1 Np) ;
-SELECT Adv IF (0 N) (1 Adj) ;
-SELECT Cnjadv IF (0 Pr) (1 Prn) ;
+
+SELECT Adv IF (0 Pr) (-1 Vblex) ;
+#Example (on):
+#He talked on.
+
+SELECT Cnjadv IF (0 Pr) (1 Det) (2 N) ;
+#Example (for):
+#Please get fish for the cat.
+
+SELECT Adv IF (0 N) (1 Supadj) ;
+#Example (smallest)
+#Canada is the second largest country in the world.
+
+SELECT Cnjadv IF (-1 Cm) (0 Pr) (1 Det) (2 N) ;
+#Example (for):
+#The cat didn't know, for the coconut didn't see.
+
+SELECT Cnjadv IF (-1 Cm) (0 Pr) (1 PrnSubj) ;
+#Example (for):
+#I was happy, for I had just won the lottery.
+
+SELECT Pr IF (0 Cnjadv) (1 PrnObj) ;
+#Example (for):
+#The food is for me.
+
 SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) ;
+#Example (as):
+#The Earth formed as early as 4.54 billion years ago.
 
 #
 # TODO: Rules to be revised
