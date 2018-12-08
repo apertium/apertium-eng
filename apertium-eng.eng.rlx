@@ -90,9 +90,9 @@ LIST Ing = "<.*ing>"ri ;
 LIST Cm = cm ;
 LIST Sup = sup ;
 LIST Supadj = (adj sint sup) ;
+List Nsg = (n sg) ;
 
 SECTION
-
 
 #  Basic rules
 
@@ -215,6 +215,54 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
+# Different cases for as ("as __ as")
+
+SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) (-3 Vbser) ;
+#Example (as):
+#You are as quick as I am.
+
+SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) (-4 Vbser) ;
+#Example (as):
+#The Earth was formed as early as 4.54 billion years ago.
+
+SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adj) (-3 Vbser) ;
+#Example (as):
+#You are as nice as I am.
+
+SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adj) (-4 Vbser) ;
+#Example (as):
+#You are not as evil as I am.
+
+# Has (Cnjsub) and has (Det)
+
+SELECT Cnjsub IF (0 Det) (-1 Adj) (-2 Vbser) (1 Nsg) ;
+#Example (that):
+#It is true that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vbser) (-2 N) (1 Nsg) ;
+#Example (that):
+#The problem is that candy is evil.
+
+SELECT Det IF (0 Cnjsub) (1 Nsg) (2 Vbser) ;
+#Example (that):
+#That cat is evil.
+
+SELECT Det IF (0 Cnjsub) (-1 Vbser) (1 Nsg) ;
+#Example (that):
+#Is that cat evil?
+
+SELECT Cnjsub IF (0 Det) (1 Det) ;
+#Example (that):
+#I believe that the cat is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (2 Vbser) (1 N) ;
+#Example (that):
+#I find that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) (3 Vbser);
+#Example (that):
+#I find that red candy is evil.
+
 
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
 
@@ -314,18 +362,8 @@ SELECT Num IF (1 N) ;
 SELECT Num IF (1 Adj) (2 N) ;
 SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
-# Has (Cnjsub) and has (Det)
-SELECT Det IF (0 Cnjsub) (1 N) (2 Vbser) ;
-#Example (that):
-#That cat is evil.
 
-SELECT Det IF (0 Cnjsub) (-1 Vbser) ;
-#Example (that):
-#Is that cat evil?
 
-SELECT Cnjsub IF (0 Det) (1 Det) ;
-#Example (that):
-#I believe that the cat is evil.
 
 #
 # Other rules
@@ -348,19 +386,11 @@ SELECT Adv IF (0 Pr) (-1 Vblex) ;
 #Example (on):
 #He talked on.
 
-SELECT Cnjadv IF (0 Pr) (1 Det) (2 N) ;
-#Example (for):
-#Please get fish for the cat.
-
 SELECT Adv IF (0 N) (1 Supadj) ;
-#Example (smallest)
+#Example (largest)
 #Canada is the second largest country in the world.
 
-SELECT Cnjadv IF (-1 Cm) (0 Pr) (1 Det) (2 N) ;
-#Example (for):
-#The cat didn't know, for the coconut didn't see.
-
-SELECT Cnjadv IF (-1 Cm) (0 Pr) (1 PrnSubj) ;
+REMOVE Pr IF (0 Cnjadv) (1 PrnSubj) ;
 #Example (for):
 #I was happy, for I had just won the lottery.
 
@@ -368,9 +398,6 @@ SELECT Pr IF (0 Cnjadv) (1 PrnObj) ;
 #Example (for):
 #The food is for me.
 
-SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) ;
-#Example (as):
-#The Earth formed as early as 4.54 billion years ago.
 
 #
 # TODO: Rules to be revised
