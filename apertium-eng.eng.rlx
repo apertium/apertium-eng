@@ -91,6 +91,7 @@ LIST Cm = cm ;
 LIST Sup = sup ;
 LIST Supadj = (adj sint sup) ;
 List Nsg = (n sg) ;
+List As = "as" ;
 
 SECTION
 
@@ -218,19 +219,19 @@ SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
 # Different cases for as ("as __ as")
 
-SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) (-3 Vbser) ;
+SELECT Pr IF (0 As) (-2 Preadv) (-1 Adv) (-3 Vbser) ;
 #Example (as):
 #You are as quick as I am.
 
-SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adv) (-4 Vbser) ;
+SELECT Pr IF (0 As) (-2 Preadv) (-1 Adv) (-4 Vbser) ;
 #Example (as):
 #The Earth was formed as early as 4.54 billion years ago.
 
-SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adj) (-3 Vbser) ;
+SELECT Pr IF (0 As) (-2 Preadv) (-1 Adj) (-3 Vbser) ;
 #Example (as):
 #You are as nice as I am.
 
-SELECT Pr IF (0 Cnjadv) (-2 Preadv) (-1 Adj) (-4 Vbser) ;
+SELECT Pr IF (0 As) (-2 Preadv) (-1 Adj) (-4 Vbser) ;
 #Example (as):
 #You are not as evil as I am.
 
@@ -383,11 +384,8 @@ SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
 
-SELECT Adv IF (0 Pr) (-1 Vblex) ;
-#Example (on):
-#He talked on.
 
-SELECT Adv IF (0 N) (1 Supadj) ;
+SELECT Adv IF (0 N) (1 Supadj) (-1 Det) (-2 Vbser) ;
 #Example (largest)
 #Canada is the second largest country in the world.
 
