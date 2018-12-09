@@ -1,0 +1,1665 @@
+"<The>"
+	"the" det def sp
+"<youngest>"
+	"young" adj sint sup
+"<of>"
+	"of" pr
+"<five>"
+	"five" num pl
+"<children>"
+	"child" n pl
+"<,>"
+	"," cm
+"<Nikolai>"
+	"*Nikolai"
+"<Medtner>"
+	"*Medtner"
+"<was born>"
+;	"be# born" vblex past p1 sg
+	"be# born" vblex past p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Moscow>"
+	"Moscow" np top sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<Christmas Eve>"
+	"Christmas Eve" n sg
+;	"Christmas eve" n sg
+"<1879>"
+	"1879" num
+"<,>"
+	"," cm
+"<according to>"
+	"according to" pr
+"<the>"
+	"the" det def sp
+"<Julian>"
+	"Julian" adj
+;	"Julian" np ant m sg
+;	"Julian" np ant f sg
+"<calendar>"
+	"calendar" n sg
+"<then>"
+	"then" adv
+;	"then" cnjadv
+"<in>"
+;	"in" adv
+	"in" pr
+"<use>"
+	"use" n sg
+;	"use" vblex inf
+;	"use" vblex pres
+;	"use" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<Russia>"
+	"Russia" np top sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<Gregorian>"
+	"Gregorian" adj
+"<calendar>"
+	"calendar" n sg
+"<,>"
+	"," cm
+"<in>"
+;	"in" adv
+	"in" pr
+"<use>"
+	"use" n sg
+;	"use" vblex inf
+;	"use" vblex pres
+;	"use" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<West>"
+;	"west" adj
+;	"west" adv
+	"west" n sg
+;	"West" np cog sg
+"<at the time>"
+	"at the time" adv
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<by>"
+;	"by" adv
+	"by" pr
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<dates>"
+	"date" n pl
+;	"date" vblex pres p3 sg
+"<are>"
+;	"be" vbser pres
+;	"be" vbser pres p1 pl
+;	"be" vbser pres p2 sg
+;	"be" vbser pres p2 pl
+	"be" vbser pres p3 pl
+"<calculated>"
+;	"calculated" adj
+;	"calculate" vblex past
+	"calculate" vblex pp
+"<today>"
+	"today" adv
+;	"today" n sg
+"<,>"
+	"," cm
+"<gives>"
+	"give" vblex pres p3 sg
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<date of birth>"
+	"date# of birth" n sg
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<5>"
+	"5" num
+"<January>"
+	"January" n sg
+"<1880>"
+	"1880" num
+"<..>"
+	".." sent
+
+
+"<Medtner>"
+	"*Medtner"
+"<first>"
+	"first" adv
+;	"first" adj ord
+"<took>"
+	"take" vblex past
+"<piano>"
+;	"piano" adv
+	"piano" n sg
+"<lessons>"
+	"lesson" n pl
+"<from>"
+	"from" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<mother>"
+	"mother" n sg
+;	"mother" vblex inf
+;	"mother" vblex pres
+;	"mother" vblex imp
+"<until>"
+	"until" cnjsub
+;	"until" cnjadv
+;	"until" pr
+"<the>"
+	"the" det def sp
+"<age>"
+	"age" n sg
+;	"age" vblex inf
+;	"age" vblex pres
+;	"age" vblex imp
+"<of>"
+	"of" pr
+"<ten>"
+	"ten" num pl
+;	"ten" n sg
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<also>"
+	"also" adv
+"<had>"
+;	"have" vbhaver past
+	"have" vblex past
+"<lessons>"
+	"lesson" n pl
+"<from>"
+	"from" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<mother>"
+	"mother" n sg
+;	"mother" vblex inf
+;	"mother" vblex pres
+;	"mother" vblex imp
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<brother>"
+	"brother" n sg
+"<Fyodor>"
+	"*Fyodor"
+"<Goedicke>"
+	"*Goedicke"
+"<(>"
+	"(" lpar
+"<the>"
+	"the" det def sp
+"<father>"
+	"father" n sg
+;	"father" vblex inf
+;	"father" vblex pres
+;	"father" vblex imp
+"<of>"
+	"of" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<more>"
+;	"more" adv
+	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<famous>"
+	"famous" adj
+"<cousin>"
+	"cousin" n sg
+"<Alexander>"
+;	"Alexander" np cog sg
+	"Alexander" np ant m sg
+"<Goedicke>"
+	"*Goedicke"
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<Then>"
+;	"then" adv
+	"then" cnjadv
+"<he>"
+	"prpers" prn subj p3 m sg
+"<entered>"
+;	"enter" vblex pp
+	"enter" vblex past
+"<the>"
+	"the" det def sp
+"<Moscow>"
+	"Moscow" np top sg
+"<Conservatory>"
+	"conservatory" n sg
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<graduated>"
+	"graduate" vblex past
+;	"graduate" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<1900>"
+	"1900" num
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<age>"
+	"age" n sg
+;	"age" vblex inf
+;	"age" vblex pres
+;	"age" vblex imp
+"<of>"
+	"of" pr
+"<20>"
+	"20" num
+"<,>"
+	"," cm
+"<taking>"
+;	"take" vblex pprs
+	"take" vblex ger
+;	"take" vblex subs
+;	"taking" n sg
+"<the>"
+	"the" det def sp
+"<Anton>"
+	"Anton" np ant m sg
+"<Rubinstein>"
+	"*Rubinstein"
+"<prize>"
+	"prize" n sg
+;	"prize" vblex inf
+;	"prize" vblex pres
+;	"prize" vblex imp
+"<,>"
+	"," cm
+"<having>"
+;	"have" vbhaver pprs
+	"have" vbhaver ger
+;	"have" vbhaver subs
+;	"have" vblex pprs
+;	"have" vblex ger
+;	"have" vblex subs
+"<studied>"
+	"study" vblex pp
+;	"study" vblex past
+"<under>"
+;	"under" adv
+	"under" pr
+"<Pavel>"
+	"Pavel" np ant m sg
+"<Pabst>"
+	"*Pabst"
+"<,>"
+	"," cm
+"<Wassily>"
+	"Wassily" np ant m sg
+"<Sapellnikoff>"
+	"*Sapellnikoff"
+"<,>"
+	"," cm
+"<Vasily>"
+	"*Vasily"
+"<Safonov>"
+	"*Safonov"
+"<and>"
+	"and" cnjcoo
+"<Sergei>"
+	"Sergei" np ant m sg
+"<Taneyev>"
+	"*Taneyev"
+"<among>"
+	"among" pr
+"<others>"
+	"others" prn ind mf pl
+"<.>"
+	"." sent
+"<Despite>"
+;	"despite" adv
+	"despite" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<conservative>"
+	"conservative" adj
+;	"conservative" n sg
+"<musical>"
+	"musical" adj
+;	"musical" n sg
+"<tastes>"
+	"taste" n pl
+;	"taste" vblex pres p3 sg
+"<,>"
+	"," cm
+"<Medtner>"
+	"*Medtner"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<compositions>"
+	"composition" n pl
+"<and>"
+	"and" cnjcoo
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<pianism>"
+	"*pianism"
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<highly>"
+	"highly" adv
+"<regarded>"
+	"regard" vblex pp
+;	"regard" vblex past
+"<by>"
+;	"by" adv
+	"by" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<contemporaries>"
+	"contemporary" n pl
+"<.>"
+	"." sent
+"<To>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<consternation>"
+	"consternation" n sg
+"<of>"
+	"of" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<family>"
+;	"family" adj
+	"family" n sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<with>"
+	"with" pr
+"<the>"
+	"the" det def sp
+"<support>"
+	"support" n sg
+;	"support" vblex inf
+;	"support" vblex pres
+;	"support" vblex imp
+"<of>"
+	"of" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<former>"
+	"former" adj
+;	"former" adv
+"<teacher>"
+	"teacher" n sg
+"<Taneyev>"
+	"*Taneyev"
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<soon>"
+	"soon" adv
+;	"soon" adj sint
+"<rejected>"
+;	"reject" vblex pp
+	"reject" vblex past
+"<a>"
+	"a" det ind sg
+"<career>"
+;	"career" adj
+	"career" n sg
+"<as a>"
+	"as a" pr
+"<performer>"
+	"performer" n sg
+"<and>"
+	"and" cnjcoo
+"<turned>"
+;	"turn" vblex pp
+	"turn" vblex past
+"<to>"
+	"to" pr
+"<composition>"
+	"composition" n sg
+"<,>"
+	"," cm
+"<partly>"
+	"partly" adv
+"<inspired>"
+;	"inspire" vblex past
+	"inspire" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<the>"
+	"the" det def sp
+"<intellectual>"
+	"intellectual" adj
+;	"intellectual" n sg
+"<challenge>"
+	"challenge" n sg
+;	"challenge" vblex inf
+;	"challenge" vblex pres
+;	"challenge" vblex imp
+"<of>"
+	"of" pr
+"<Ludwig>"
+	"Ludwig" np ant m sg
+"<van>"
+	"van" n sg
+"<Beethoven>"
+	"Beethoven" np cog sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<late>"
+;	"late" adv
+	"late" adj sint
+"<piano>"
+;	"piano" adv
+	"piano" n sg
+"<sonatas>"
+	"sonata" n pl
+"<and>"
+	"and" cnjcoo
+"<string>"
+	"string" n sg
+;	"string" vblex inf
+;	"string" vblex pres
+;	"string" vblex imp
+"<quartets>"
+	"quartet" n pl
+"<.>"
+	"." sent
+"<Among>"
+	"among" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<students>"
+	"student" n pl
+"<in>"
+;	"in" adv
+	"in" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<period>"
+	"period" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<Alexander>"
+;	"Alexander" np cog sg
+	"Alexander" np ant m sg
+"<Vasilyevich>"
+	"*Vasilyevich"
+"<Alexandrov>"
+	"*Alexandrov"
+"<..>"
+	".." sent
+
+
+"<During>"
+	"during" pr
+"<the>"
+	"the" det def sp
+"<years>"
+	"year" n pl
+"<leading>"
+;	"lead" vblex pprs
+;	"lead" vblex ger
+	"lead" vblex subs
+;	"leading" adj
+;	"leading" n sg
+"<up to>"
+	"up to" pr
+"<the>"
+	"the" det def sp
+"<1917>"
+	"1917" num
+"<Russian>"
+	"Russian" adj
+;	"Russian" n sg
+"<Revolution>"
+	"revolution" n sg
+"<,>"
+	"," cm
+"<Medtner>"
+	"*Medtner"
+"<lived>"
+	"live" vblex past
+;	"live" vblex pp
+"<at home>"
+	"at home" adv
+"<with>"
+	"with" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<parents>"
+	"parent" n pl
+"<.>"
+	"." sent
+"<During>"
+	"during" pr
+"<this time>"
+	"this time" adv
+"<Medtner>"
+	"*Medtner"
+"<fell>"
+;	"fell" vblex inf
+;	"fell" vblex pres
+;	"fell" vblex imp
+	"fall" vblex past
+"<in love>"
+	"in love" adj
+"<with>"
+	"with" pr
+"<Anna>"
+	"Anna" np ant f sg
+"<Mikhaylovna>"
+	"*Mikhaylovna"
+"<Bratenskaya>"
+	"*Bratenskaya"
+"<(>"
+	"(" lpar
+"<1877>"
+	"1877" num
+–
+"<1965>"
+	"1965" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<respected>"
+;	"respect" vblex pp
+;	"respect" vblex past
+	"respected" adj
+"<violinist>"
+	"violinist" n sg
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<young>"
+	"young" adj sint
+"<wife>"
+	"wife" n sg
+"<of>"
+	"of" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<older>"
+	"old" adj sint comp
+"<brother>"
+	"brother" n sg
+"<Emil>"
+	"Emil" np ant m sg
+"<.>"
+	"." sent
+"<Later>"
+	"later" adv
+	"late" adj sint comp
+"<,>"
+	"," cm
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<World War I>"
+	"World War I" np al sg
+"<broke>"
+	"break" vblex past
+"<out>"
+	"out" adv
+"<,>"
+	"," cm
+"<Emil>"
+	"Emil" np ant m sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<interned>"
+	"intern" vblex pp
+;	"intern" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<Germany>"
+	"Germany" np top sg
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<he>"
+	"prpers" prn subj p3 m sg
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<been>"
+	"be" vbser pp
+"<studying>"
+	"study" vblex pprs
+;	"study" vblex ger
+;	"study" vblex subs
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<generously>"
+	"generously" adv
+"<gave>"
+	"give" vblex past
+"<Anna>"
+	"Anna" np ant f sg
+"<the>"
+	"the" det def sp
+"<freedom>"
+	"freedom" n sg
+"<to>"
+	"to" pr
+"<marry>"
+	"marry" vblex inf
+;	"marry" vblex pres
+;	"marry" vblex imp
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<brother>"
+	"brother" n sg
+"<.>"
+	"." sent
+"<Medtner>"
+	"*Medtner"
+"<and>"
+	"and" cnjcoo
+"<Anna>"
+	"Anna" np ant f sg
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<married>"
+	"marry" vblex pp
+;	"marry" vblex past
+;	"married" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<1918>"
+	"1918" num
+"<..>"
+	".." sent
+
+
+"<Unlike>"
+	"unlike" adj
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<friend>"
+	"friend" n sg
+"<Rachmaninoff>"
+	"*Rachmaninoff"
+"<,>"
+	"," cm
+"<Medtner>"
+	"*Medtner"
+"<did>"
+;	"do" vaux past
+;	"do" vblex past
+	"do" vbdo past
+"<not>"
+	"not" adv
+"<leave>"
+;	"leave" n sg
+	"leave" vblex inf
+;	"leave" vblex pres
+;	"leave" vblex imp
+"<Russia>"
+	"Russia" np top sg
+"<until>"
+	"until" cnjsub
+;	"until" cnjadv
+;	"until" pr
+"<well>"
+	"well" adv
+;	"well" n sg
+"<after>"
+;	"after" adv
+;	"after" cnjadv
+	"after" pr
+"<the>"
+	"the" det def sp
+"<Revolution>"
+	"revolution" n sg
+"<.>"
+	"." sent
+"<Rachmaninoff>"
+	"*Rachmaninoff"
+"<secured>"
+	"secure" vblex past
+;	"secure" vblex pp
+"<Medtner>"
+	"*Medtner"
+"<a>"
+	"a" det ind sg
+"<tour>"
+	"tour" n sg
+;	"tour" vblex inf
+;	"tour" vblex pres
+;	"tour" vblex imp
+"<of>"
+	"of" pr
+"<the United States>"
+	"the United States" np top pl
+"<and>"
+	"and" cnjcoo
+"<Canada>"
+	"Canada" np top sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<1924>"
+	"1924" num
+"<;>"
+	";" sent
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<recitals>"
+	"recital" n pl
+"<were>"
+;	"be" vbser past p1 pl
+;	"be" vbser past p2 sg
+;	"be" vbser past p2 pl
+	"be" vbser past p3 pl
+"<often>"
+	"often" adv
+"<all>"
+	"all" adv
+;	"all" predet sp
+;	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<->"
+	"-" guio
+"<Medtner>"
+	"*Medtner"
+"<evenings>"
+	"evening" n pl
+"<consisting>"
+;	"consist" vblex pprs
+;	"consist" vblex ger
+	"consist" vblex subs
+"<of>"
+	"of" pr
+"<sonatas>"
+	"sonata" n pl
+"<interspersed>"
+;	"intersperse" vblex past
+	"intersperse" vblex pp
+"<with>"
+	"with" pr
+"<songs>"
+	"song" n pl
+"<and>"
+	"and" cnjcoo
+"<shorter>"
+	"short" adj sint comp
+"<pieces>"
+	"piece" n pl
+;	"piece" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Medtner>"
+	"*Medtner"
+"<never>"
+	"never" adv
+"<adapted>"
+;	"adapt" vblex pp
+	"adapt" vblex past
+"<himself>"
+	"himself" prn ref p3 m sg
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<commercial>"
+	"commercial" adj
+;	"commercial" n sg
+"<aspects>"
+	"aspect" n pl
+"<of>"
+	"of" pr
+"<touring>"
+;	"tour" vblex pprs
+;	"tour" vblex ger
+;	"tour" vblex subs
+;	"touring" adj
+	"touring" n sg
+"<and>"
+	"and" cnjcoo
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<concerts>"
+	"concert" n pl
+"<became>"
+	"become" vblex past
+"<infrequent>"
+	"infrequent" adj
+"<.>"
+	"." sent
+"<Esteemed>"
+	"esteem" vblex pp
+;	"esteem" vblex past
+;	"esteemed" adj
+"<in>"
+;	"in" adv
+	"in" pr
+"<England>"
+	"England" np top sg
+;	"England" np cog sg
+"<,>"
+	"," cm
+"<he>"
+	"prpers" prn subj p3 m sg
+"<and>"
+	"and" cnjcoo
+"<Anna>"
+	"Anna" np ant f sg
+"<settled>"
+	"settle" vblex past
+;	"settle" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<1936>"
+	"1936" num
+"<,>"
+	"," cm
+"<modestly>"
+	"modestly" adv
+"<teaching>"
+;	"teach" vblex pprs
+	"teach" vblex ger
+;	"teach" vblex subs
+;	"teaching" n sg
+"<,>"
+	"," cm
+"<playing>"
+;	"play" vblex pprs
+	"play" vblex ger
+;	"play" vblex subs
+"<and>"
+	"and" cnjcoo
+"<composing>"
+;	"compose" vblex pprs
+	"compose" vblex ger
+;	"compose" vblex subs
+"<to>"
+	"to" pr
+"<a>"
+	"a" det ind sg
+"<strict>"
+	"strict" adj
+"<daily>"
+	"daily" adj
+;	"daily" adv
+"<routine>"
+	"routine" adj
+	"routine" n sg
+"<..>"
+	".." sent
+
+
+"<At>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<outbreak>"
+	"outbreak" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Second World War>"
+	"Second World War" np al sg
+"<,>"
+	"," cm
+"<Medtner>"
+	"*Medtner"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<income>"
+	"income" n sg
+"<from>"
+	"from" pr
+"<German>"
+	"German" adj
+;	"German" n sg
+;	"German" np cog sg
+;	"German" np ant m sg
+"<publishers>"
+	"publisher" n pl
+"<disappeared>"
+;	"disappear" vblex pp
+	"disappear" vblex past
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<during>"
+	"during" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<hardship>"
+	"hardship" n sg
+"<ill>"
+	"ill" adj sint
+"<->"
+	"-" guio
+"<health>"
+	"health" n sg
+"<became>"
+	"become" vblex past
+"<an>"
+	"a" det ind sg
+"<increasing>"
+;	"increase" vblex pprs
+;	"increase" vblex ger
+;	"increase" vblex subs
+	"increasing" adj
+"<problem>"
+	"problem" n sg
+"<.>"
+	"." sent
+"<His>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<devoted>"
+	"devoted" adj
+;	"devote" vblex past
+;	"devote" vblex pp
+"<pupil>"
+	"pupil" n sg
+"<Edna>"
+	"Edna" np ant f sg
+"<Iles>"
+	"Iles" np cog sg
+"<gave>"
+	"give" vblex past
+"<him>"
+	"prpers" prn obj p3 m sg
+"<shelter>"
+	"shelter" n sg
+;	"shelter" vblex inf
+;	"shelter" vblex pres
+;	"shelter" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<Warwickshire>"
+	"Warwickshire" np top sg
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<he>"
+	"prpers" prn subj p3 m sg
+"<completed>"
+	"complete" vblex past
+;	"complete" vblex pp
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<Third>"
+	"third" adj ord
+;	"third" n sg
+"<Piano>"
+;	"piano" adv
+	"piano" n sg
+"<Concerto>"
+	"concerto" n sg
+"<,>"
+	"," cm
+"<first>"
+	"first" adv
+;	"first" adj ord
+"<performed>"
+	"perform" vblex pp
+;	"perform" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<1944>"
+	"1944" num
+"<..>"
+	".." sent
+
+
+"<In>"
+;	"in" adv
+	"in" pr
+"<1949>"
+	"1949" num
+"<a>"
+	"a" det ind sg
+"<Medtner>"
+	"*Medtner"
+"<Society>"
+	"society" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<founded>"
+	"found" vblex pp
+;	"found" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<by>"
+;	"by" adv
+	"by" pr
+"<His>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<Highness>"
+	"highness" n sg
+"<Jayachamarajendra>"
+	"*Jayachamarajendra"
+"<Wadiyar>"
+	"*Wadiyar"
+"<Bahadur>"
+	"Bahadur" np ant m sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<Maharajah>"
+	"*Maharajah"
+"<of>"
+	"of" pr
+"<Mysore>"
+	"Mysore" np top sg
+"<(>"
+	"(" lpar
+"<the>"
+	"the" det def sp
+"<princely>"
+	"princely" adj
+"<state>"
+;	"state" adj
+	"state" n sg
+;	"state" vblex inf
+;	"state" vblex pres
+;	"state" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<southern>"
+	"southern" adj
+;	"southern" adv
+"<India>"
+	"India" np top sg
+;	"India" np ant f sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<Maharajah>"
+	"*Maharajah"
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<an>"
+	"a" det ind sg
+"<honorary>"
+	"honorary" adj
+"<Fellow>"
+;	"fellow" adj
+	"fellow" n sg
+"<of>"
+	"of" pr
+"<Trinity>"
+;	"trinity" n sg
+	"Trinity" np ant f sg
+"<College>"
+;	"college" adj
+	"college" n sg
+"<of>"
+	"of" pr
+"<Music>"
+	"music" n sg
+"<,>"
+	"," cm
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<,>"
+	"," cm
+"<in>"
+;	"in" adv
+	"in" pr
+"<1945>"
+	"1945" num
+"<and>"
+	"and" cnjcoo
+"<also>"
+	"also" adv
+"<the>"
+	"the" det def sp
+"<first>"
+;	"first" adv
+	"first" adj ord
+"<president>"
+	"president" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Philharmonia>"
+	"*Philharmonia"
+"<Concert>"
+	"concert" n sg
+"<Society>"
+	"society" n sg
+"<,>"
+	"," cm
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<.>"
+	"." sent
+"<He>"
+;	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<founded>"
+;	"found" vblex pp
+	"found" vblex past
+"<the>"
+	"the" det def sp
+"<Medtner>"
+	"*Medtner"
+"<Society>"
+	"society" n sg
+"<to>"
+	"to" pr
+"<record>"
+;	"record" n sg
+	"record" vblex inf
+;	"record" vblex pres
+;	"record" vblex imp
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<of>"
+	"of" pr
+"<Medtner>"
+	"*Medtner"
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+
+"<works>"
+	"work" n pl
+;	"work" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Medtner>"
+	"*Medtner"
+"<,>"
+	"," cm
+"<already>"
+	"already" adv
+"<in>"
+;	"in" adv
+	"in" pr
+"<declining>"
+;	"decline" vblex pprs
+;	"decline" vblex ger
+;	"decline" vblex subs
+	"declining" adj
+"<health>"
+	"health" n sg
+"<,>"
+	"," cm
+"<recorded>"
+;	"record" vblex pp
+	"record" vblex past
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<three>"
+	"three" num pl
+"<Piano>"
+;	"piano" adv
+	"piano" n sg
+"<Concertos>"
+	"concerto" n pl
+"<and>"
+	"and" cnjcoo
+"<some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<sonatas>"
+	"sonata" n pl
+"<,>"
+	"," cm
+"<chamber music>"
+	"chamber music" n sg
+"<,>"
+	"," cm
+"<numerous>"
+	"numerous" adj
+"<songs>"
+	"song" n pl
+"<and>"
+	"and" cnjcoo
+"<shorter>"
+	"short" adj sint comp
+"<works>"
+	"work" n pl
+;	"work" vblex pres p3 sg
+"<before>"
+;	"before" adv
+;	"before" cnjadv
+	"before" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<death>"
+	"death" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<1951>"
+	"1951" num
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<one>"
+;	"one" num sg
+	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<recordings>"
+	"recording" n pl
+"<he>"
+	"prpers" prn subj p3 m sg
+"<partnered>"
+;	"partner" vblex pp
+	"partner" vblex past
+"<Benno>"
+	"*Benno"
+"<Moiseiwitsch>"
+	"*Moiseiwitsch"
+"<in>"
+;	"in" adv
+	"in" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<two>"
+	"two" num pl
+"<->"
+	"-" guio
+"<piano>"
+;	"piano" adv
+	"piano" n sg
+"<work>"
+	"work" n sg
+;	"work" vblex inf
+;	"work" vblex pres
+;	"work" vblex imp
+"<entitled>"
+;	"entitle" vblex past
+	"entitle" vblex pp
+
+"<Russian>"
+	"Russian" adj
+;	"Russian" n sg
+"<Round>"
+;	"round" adv
+;	"round" pr
+	"round" adj sint
+;	"round" n sg
+;	"round" vblex inf
+;	"round" vblex pres
+;	"round" vblex imp
+"<->"
+	"-" guio
+"<Dance>"
+	"dance" n sg
+;	"dance" vblex inf
+;	"dance" vblex pres
+;	"dance" vblex imp
+"
+"<,>"
+	"," cm
+"<Op>"
+	"*Op"
+"<58>"
+	"58" num
+"<,>"
+	"," cm
+"<No.>"
+	"no." abbr
+;	"no." n sg
+"<1>"
+	"1" num
+"<;>"
+	";" sent
+"<in>"
+;	"in" adv
+	"in" pr
+"<another>"
+;	"another" det ind sg
+	"another" prn ind mf sg
+"<he>"
+	"prpers" prn subj p3 m sg
+"<accompanied>"
+;	"accompany" vblex pp
+	"accompany" vblex past
+"<Elisabeth>"
+	"Elisabeth" np ant f sg
+"<Schwarzkopf>"
+	"*Schwarzkopf"
+"<in>"
+;	"in" adv
+	"in" pr
+"<several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<of>"
+	"of" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<lieder>"
+	"*lieder"
+"<,>"
+	"," cm
+"<including>"
+;	"include" vblex pprs
+	"include" vblex ger
+;	"include" vblex subs
+;	"including" adv
+"<The>"
+	"the" det def sp
+"<Muse>"
+	"muse" n sg
+;	"muse" vblex inf
+;	"muse" vblex pres
+;	"muse" vblex imp
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<Pushkin>"
+	"Pushkin" np cog sg
+"<setting>"
+;	"set" vblex pprs
+;	"set" vblex ger
+;	"set" vblex subs
+	"setting" n sg
+"<from>"
+	"from" pr
+"<1913>"
+	"1913" num
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<gratitude>"
+	"gratitude" n sg
+"<to>"
+	"to" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<patron>"
+	"patron" n sg
+"<,>"
+	"," cm
+"<Medtner>"
+	"*Medtner"
+"<dedicated>"
+;	"dedicated" adj
+	"dedicate" vblex past
+;	"dedicate" vblex pp
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<Third>"
+	"third" adj ord
+;	"third" n sg
+"<Piano>"
+;	"piano" adv
+	"piano" n sg
+"<Concerto>"
+	"concerto" n sg
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<Maharajah>"
+	"*Maharajah"
+"<of>"
+	"of" pr
+"<Mysore>"
+	"Mysore" np top sg
+"<..>"
+	".." sent
+
+
+"<Medtner>"
+	"*Medtner"
+"<died>"
+	"die" vblex past
+;	"die" vblex pp
+"<at>"
+	"at" pr
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<home>"
+;	"home" adv
+	"home" n sg
+"<,>"
+	"," cm
+"<69>"
+	"69" num
+"<Wentworth>"
+	"Wentworth" np top sg
+"<Road>"
+;	"road" adj
+	"road" n sg
+"<,>"
+	"," cm
+"<Golders>"
+	"*Golders"
+"<Green>"
+;	"green" adj sint
+	"green" n sg
+;	"Green" np cog sg
+"<,>"
+	"," cm
+"<London>"
+	"London" np top sg
+;	"London" np cog sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<1951>"
+	"1951" num
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<is>"
+	"be" vbser pres p3 sg
+"<buried>"
+	"bury" vblex pp
+;	"bury" vblex past
+;	"buried" adj
+"<alongside>"
+	"alongside" adv
+"<his>"
+;	"his" adj pos pred
+;	"his" det pos sp
+;	"prpers" prn pos p3 m sg
+	"prpers" det pos p3 m sg
+"<brother>"
+	"brother" n sg
+"<Emil>"
+	"Emil" np ant m sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<Hendon>"
+	"*Hendon"
+"<Cemetery>"
+	"cemetery" n sg
+"<..>"
+	".." sent
+
