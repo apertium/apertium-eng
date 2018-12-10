@@ -219,21 +219,17 @@ SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
 # Different cases for as ("as __ as")
 
-SELECT Pr IF (0 As) (-2 Preadv) (-1 Adv) (-3 Vbser) ;
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 N) (2 Vbser) ;
+#Example (that):
+#He thinks that candy is evil.
+
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vbser) ;
 #Example (as):
 #You are as quick as I am.
 
-SELECT Pr IF (0 As) (-2 Preadv) (-1 Adv) (-4 Vbser) ;
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vblex) ;
 #Example (as):
 #The Earth was formed as early as 4.54 billion years ago.
-
-SELECT Pr IF (0 As) (-2 Preadv) (-1 Adj) (-3 Vbser) ;
-#Example (as):
-#You are as nice as I am.
-
-SELECT Pr IF (0 As) (-2 Preadv) (-1 Adj) (-4 Vbser) ;
-#Example (as):
-#You are not as evil as I am.
 
 # Has (Cnjsub) and has (Det)
 
@@ -249,10 +245,6 @@ SELECT Det IF (0 Cnjsub) (1 Nsg) (2 Vbser) ;
 #Example (that):
 #That cat is evil.
 
-SELECT Det IF (0 Cnjsub) (-1 Vbser) (1 Nsg) ;
-#Example (that):
-#Is that cat evil?
-
 SELECT Cnjsub IF (0 Det) (1 Det) ;
 #Example (that):
 #I believe that the cat is evil.
@@ -261,7 +253,7 @@ SELECT Cnjsub IF (0 Det) (-1 Vblex) (2 Vbser) (1 N) ;
 #Example (that):
 #I find that candy is evil.
 
-SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) (3 Vbser);
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) ;
 #Example (that):
 #I find that red candy is evil.
 
