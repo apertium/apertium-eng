@@ -11,9 +11,9 @@
 "<,>"
 	"," cm
 "<Nikolai>"
-	"*Nikolai"
+	"Nikolai" np ant m sg
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<was born>"
 ;	"be# born" vblex past p1 sg
 	"be# born" vblex past p3 sg
@@ -27,7 +27,6 @@
 	"on" pr
 "<Christmas Eve>"
 	"Christmas Eve" n sg
-;	"Christmas eve" n sg
 "<1879>"
 	"1879" num
 "<,>"
@@ -148,7 +147,7 @@
 
 
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<first>"
 	"first" adv
 ;	"first" adj ord
@@ -218,9 +217,9 @@
 "<brother>"
 	"brother" n sg
 "<Fyodor>"
-	"*Fyodor"
+	"Fyodor" np ant m sg
 "<Goedicke>"
-	"*Goedicke"
+	"Goedicke" np cog sg
 "<(>"
 	"(" lpar
 "<the>"
@@ -250,7 +249,7 @@
 ;	"Alexander" np cog sg
 	"Alexander" np ant m sg
 "<Goedicke>"
-	"*Goedicke"
+	"Goedicke" np cog sg
 "<)>"
 	")" rpar
 "<.>"
@@ -307,7 +306,7 @@
 "<Anton>"
 	"Anton" np ant m sg
 "<Rubinstein>"
-	"*Rubinstein"
+	"Rubinstein" np cog sg
 "<prize>"
 	"prize" n sg
 ;	"prize" vblex inf
@@ -331,25 +330,25 @@
 "<Pavel>"
 	"Pavel" np ant m sg
 "<Pabst>"
-	"*Pabst"
+	"Pabst" np cog sg
 "<,>"
 	"," cm
 "<Wassily>"
 	"Wassily" np ant m sg
 "<Sapellnikoff>"
-	"*Sapellnikoff"
+	"Sapellnikoff" np cog sg
 "<,>"
 	"," cm
 "<Vasily>"
-	"*Vasily"
+	"Vasily" np ant m sg
 "<Safonov>"
-	"*Safonov"
+	"Safonov" np cog sg
 "<and>"
 	"and" cnjcoo
 "<Sergei>"
 	"Sergei" np ant m sg
 "<Taneyev>"
-	"*Taneyev"
+	"Taneyev" np cog sg
 "<among>"
 	"among" pr
 "<others>"
@@ -376,7 +375,7 @@
 "<,>"
 	"," cm
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<'s>"
 	"'s" gen
 ;	"be" vbser pres p3 sg
@@ -391,7 +390,7 @@
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<pianism>"
-	"*pianism"
+	"pianism" n  sg
 "<were>"
 ;	"be" vbser past p1 pl
 ;	"be" vbser past p2 sg
@@ -457,7 +456,7 @@
 "<teacher>"
 	"teacher" n sg
 "<Taneyev>"
-	"*Taneyev"
+	"Taneyev" np cog sg
 "<,>"
 	"," cm
 "<he>"
@@ -562,9 +561,9 @@
 ;	"Alexander" np cog sg
 	"Alexander" np ant m sg
 "<Vasilyevich>"
-	"*Vasilyevich"
+	"Vasilyevich" np ant m sg
 "<Alexandrov>"
-	"*Alexandrov"
+	"Alexandrov" np cog sg
 "<..>"
 	".." sent
 
@@ -595,7 +594,7 @@
 "<,>"
 	"," cm
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<lived>"
 	"live" vblex past
 ;	"live" vblex pp
@@ -617,7 +616,7 @@
 "<this time>"
 	"this time" adv
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<fell>"
 ;	"fell" vblex inf
 ;	"fell" vblex pres
@@ -630,9 +629,9 @@
 "<Anna>"
 	"Anna" np ant f sg
 "<Mikhaylovna>"
-	"*Mikhaylovna"
+	"Mikhaylovna" np ant f sg
 "<Bratenskaya>"
-	"*Bratenskaya"
+	"Bratenskaya" np cog sg
 "<(>"
 	"(" lpar
 "<1877>"
@@ -751,7 +750,7 @@
 "<.>"
 	"." sent
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<and>"
 	"and" cnjcoo
 "<Anna>"
@@ -784,11 +783,11 @@
 "<friend>"
 	"friend" n sg
 "<Rachmaninoff>"
-	"*Rachmaninoff"
+	"Rachmaninoff" np cog sg
 "<,>"
 	"," cm
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<did>"
 ;	"do" vaux past
 ;	"do" vblex past
@@ -820,12 +819,12 @@
 "<.>"
 	"." sent
 "<Rachmaninoff>"
-	"*Rachmaninoff"
+	"Rachmaninoff" np cog sg
 "<secured>"
 	"secure" vblex past
 ;	"secure" vblex pp
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<a>"
 	"a" det ind sg
 "<tour>"
@@ -870,7 +869,7 @@
 "<->"
 	"-" guio
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<evenings>"
 	"evening" n pl
 "<consisting>"
@@ -898,7 +897,7 @@
 "<.>"
 	"." sent
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<never>"
 	"never" adv
 "<adapted>"
@@ -1022,7 +1021,7 @@
 "<,>"
 	"," cm
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<'s>"
 	"'s" gen
 ;	"be" vbser pres p3 sg
@@ -1147,7 +1146,7 @@
 "<a>"
 	"a" det ind sg
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<Society>"
 	"society" n sg
 "<was>"
@@ -1173,9 +1172,9 @@
 "<Highness>"
 	"highness" n sg
 "<Jayachamarajendra>"
-	"*Jayachamarajendra"
+	"Jayachamarajendra" np ant m sg
 "<Wadiyar>"
-	"*Wadiyar"
+	"Wadiyar" np cog sg"
 "<Bahadur>"
 	"Bahadur" np ant m sg
 "<,>"
@@ -1183,7 +1182,7 @@
 "<the>"
 	"the" det def sp
 "<Maharajah>"
-	"*Maharajah"
+	"Maharajah" n sg
 "<of>"
 	"of" pr
 "<Mysore>"
@@ -1216,7 +1215,7 @@
 "<The>"
 	"the" det def sp
 "<Maharajah>"
-	"*Maharajah"
+	"Maharajah" n sg
 "<was>"
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
@@ -1266,8 +1265,8 @@
 	"of" pr
 "<the>"
 	"the" det def sp
-"<Philharmonia>"
-	"*Philharmonia"
+"<Philharmonia>" adj
+	"Philharmonia" 
 "<Concert>"
 	"concert" n sg
 "<Society>"
@@ -1288,7 +1287,7 @@
 "<the>"
 	"the" det def sp
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<Society>"
 	"society" n sg
 "<to>"
@@ -1306,7 +1305,7 @@
 "<of>"
 	"of" pr
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<'s>"
 	"'s" gen
 ;	"be" vbser pres p3 sg
@@ -1318,7 +1317,7 @@
 "<.>"
 	"." sent
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<,>"
 	"," cm
 "<already>"
@@ -1419,9 +1418,9 @@
 ;	"partner" vblex pp
 	"partner" vblex past
 "<Benno>"
-	"*Benno"
+	"Benno" np ant m sg
 "<Moiseiwitsch>"
-	"*Moiseiwitsch"
+	"Moiseiwitsch" np cog sg
 "<in>"
 ;	"in" adv
 	"in" pr
@@ -1468,7 +1467,7 @@
 "<,>"
 	"," cm
 "<Op>"
-	"*Op"
+	"Op" n sg
 "<58>"
 	"58" num
 "<,>"
@@ -1494,7 +1493,7 @@
 "<Elisabeth>"
 	"Elisabeth" np ant f sg
 "<Schwarzkopf>"
-	"*Schwarzkopf"
+	"Schwarzkopf" np cog sg
 "<in>"
 ;	"in" adv
 	"in" pr
@@ -1509,7 +1508,7 @@
 ;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<lieder>"
-	"*lieder"
+	"lieder" n pl
 "<,>"
 	"," cm
 "<including>"
@@ -1558,7 +1557,7 @@
 "<,>"
 	"," cm
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<dedicated>"
 ;	"dedicated" adj
 	"dedicate" vblex past
@@ -1581,7 +1580,7 @@
 "<the>"
 	"the" det def sp
 "<Maharajah>"
-	"*Maharajah"
+	"Maharajah" n sg
 "<of>"
 	"of" pr
 "<Mysore>"
@@ -1591,7 +1590,7 @@
 
 
 "<Medtner>"
-	"*Medtner"
+	"Medtner" np cog sg
 "<died>"
 	"die" vblex past
 ;	"die" vblex pp
@@ -1617,7 +1616,7 @@
 "<,>"
 	"," cm
 "<Golders>"
-	"*Golders"
+	"Golders" np top sg
 "<Green>"
 ;	"green" adj sint
 	"green" n sg
@@ -1657,7 +1656,7 @@
 ;	"in" adv
 	"in" pr
 "<Hendon>"
-	"*Hendon"
+	"Hendon" np top sg
 "<Cemetery>"
 	"cemetery" n sg
 "<..>"
