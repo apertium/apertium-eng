@@ -126,9 +126,9 @@
 	"give" vblex pres p3 sg
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<date of birth>"
 	"date# of birth" n sg
 "<as>"
@@ -163,9 +163,9 @@
 	"from" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<mother>"
 	"mother" n sg
 ;	"mother" vblex inf
@@ -203,9 +203,9 @@
 	"from" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<mother>"
 	"mother" n sg
 ;	"mother" vblex inf
@@ -234,9 +234,9 @@
 	"of" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<more>"
 ;	"more" adv
 	"more" preadv
@@ -361,9 +361,9 @@
 	"despite" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<conservative>"
 	"conservative" adj
 ;	"conservative" n sg
@@ -387,9 +387,9 @@
 	"and" cnjcoo
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<pianism>"
 	"*pianism"
 "<were>"
@@ -407,9 +407,9 @@
 	"by" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<contemporaries>"
 	"contemporary" n pl
 "<.>"
@@ -424,9 +424,9 @@
 	"of" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<family>"
 ;	"family" adj
 	"family" n sg
@@ -448,9 +448,9 @@
 	"of" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<former>"
 	"former" adj
 ;	"former" adv
@@ -541,9 +541,9 @@
 	"among" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<students>"
 	"student" n pl
 "<in>"
@@ -605,9 +605,9 @@
 	"with" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<parents>"
 	"parent" n pl
 "<.>"
@@ -664,9 +664,9 @@
 	"of" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<older>"
 	"old" adj sint comp
 "<brother>"
@@ -743,9 +743,9 @@
 ;	"marry" vblex imp
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<brother>"
 	"brother" n sg
 "<.>"
@@ -778,9 +778,9 @@
 	"unlike" adj
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<friend>"
 	"friend" n sg
 "<Rachmaninoff>"
@@ -850,9 +850,9 @@
 	";" sent
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<recitals>"
 	"recital" n pl
 "<were>"
@@ -927,9 +927,9 @@
 	"and" cnjcoo
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<concerts>"
 	"concert" n pl
 "<became>"
@@ -1074,9 +1074,9 @@
 	"." sent
 "<His>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<devoted>"
 	"devoted" adj
 ;	"devote" vblex past
@@ -1111,9 +1111,9 @@
 ;	"complete" vblex pp
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<Third>"
 	"third" adj ord
 ;	"third" n sg
@@ -1167,9 +1167,9 @@
 	"by" pr
 "<His>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<Highness>"
 	"highness" n sg
 "<Jayachamarajendra>"
@@ -1340,9 +1340,9 @@
 	"record" vblex past
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<three>"
 	"three" num pl
 "<Piano>"
@@ -1382,9 +1382,9 @@
 	"before" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<death>"
 	"death" n sg
 "<in>"
@@ -1427,9 +1427,9 @@
 	"in" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<two>"
 	"two" num pl
 "<->"
@@ -1505,9 +1505,9 @@
 	"of" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<lieder>"
 	"*lieder"
 "<,>"
@@ -1550,9 +1550,9 @@
 	"to" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<patron>"
 	"patron" n sg
 "<,>"
@@ -1565,9 +1565,9 @@
 ;	"dedicate" vblex pp
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<Third>"
 	"third" adj ord
 ;	"third" n sg
@@ -1599,9 +1599,9 @@
 	"at" pr
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<home>"
 ;	"home" adv
 	"home" n sg
@@ -1646,9 +1646,9 @@
 	"alongside" adv
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<brother>"
 	"brother" n sg
 "<Emil>"
