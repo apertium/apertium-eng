@@ -126,9 +126,9 @@
 	"give" vblex pres p3 sg
 "<his>"
 ;	"his" adj pos pred
-;	"his" det pos sp
+	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<date of birth>"
 	"date# of birth" n sg
 "<as>"
