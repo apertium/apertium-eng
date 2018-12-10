@@ -41,6 +41,7 @@ LIST Rel = (prn rel) ;
 LIST Ij = ij ;
 LIST Cnjadv = cnjadv ;
 LIST Cnjcoo = cnjcoo ;
+LIST Cnjsub = cnjsub ;
 LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
 LIST Vblex = vblex ;
 LIST Vbser = vbser ;
@@ -86,7 +87,11 @@ LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
 LIST Ing = "<.*ing>"ri ;
-
+LIST Cm = cm ;
+LIST Sup = sup ;
+LIST Supadj = (adj sint sup) ;
+List Nsg = (n sg) ;
+List As = "as" ;
 
 SECTION
 
@@ -212,6 +217,46 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
+# Different cases for as ("as __ as")
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 N) (2 Vbser) ;
+#Example (that):
+#He thinks that candy is evil.
+
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vbser) ;
+#Example (as):
+#You are as quick as I am.
+
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vblex) ;
+#Example (as):
+#The Earth was formed as early as 4.54 billion years ago.
+
+# Has (Cnjsub) and has (Det)
+
+SELECT Cnjsub IF (0 Det) (-1 Adj) (-2 Vbser) (1 Nsg) ;
+#Example (that):
+#It is true that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vbser) (-2 N) (1 Nsg) ;
+#Example (that):
+#The problem is that candy is evil.
+
+SELECT Det IF (0 Cnjsub) (1 Nsg) (2 Vbser) ;
+#Example (that):
+#That cat is evil.
+
+SELECT Cnjsub IF (0 Det) (1 Det) ;
+#Example (that):
+#I believe that the cat is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (2 Vbser) (1 N) ;
+#Example (that):
+#I find that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) ;
+#Example (that):
+#I find that red candy is evil.
+
 
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
 
@@ -312,6 +357,8 @@ SELECT Num IF (1 Adj) (2 N) ;
 SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
 
+
+
 #
 # Other rules
 #
@@ -328,6 +375,19 @@ SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
+
+
+SELECT Adv IF (0 N) (1 Supadj) (-1 Det) (-2 Vbser) ;
+#Example (largest)
+#Canada is the second largest country in the world.
+
+REMOVE Pr IF (0 Cnjadv) (1 PrnSubj) ;
+#Example (for):
+#I was happy, for I had just won the lottery.
+
+SELECT Pr IF (0 Cnjadv) (1 PrnObj) ;
+#Example (for):
+#The food is for me.
 
 
 #
