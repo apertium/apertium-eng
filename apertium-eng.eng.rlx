@@ -404,6 +404,7 @@ AFTER-SECTIONS
 
 #  Capital letter corrections
 
-ADDCOHORT ("<prpers>" "prpers" prn subj p1 mf sg) BEFORE PrnSubjP1Sg IF (NOT -1 BOS) ;
-ADDCOHORT ("<Prpers>" "prpers" prn subj p1 mf sg) BEFORE PrnSubjP1Sg IF (-1 BOS) ;
-REMCOHORT ("<I>" "prpers" prn subj p1 mf sg) (0 PrnSubjP1Sg) ;
+APPEND ("Prpers" prn subj p1 mf sg) PrnSubjP1Sg IF (-1 BOS) ;
+REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) ;
+
+ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
