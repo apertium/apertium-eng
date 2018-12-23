@@ -63,6 +63,7 @@ SET Past = (vblex past) | (vbmod past) | (vaux past) | (vbser past) | (vbhaver p
 SET Could = ("can" vbmod past) ;
 SET Will = ("will" vbmod pres) ;
 SET By = ("by" pr) ;
+SET ThatCnj = ("that" cnjsub) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -93,8 +94,8 @@ LIST Supadj = (adj sint sup) ;
 List Nsg = (n sg) ;
 List As = "as" ;
 
-SECTION
 
+SECTION
 
 #  Basic rules
 
@@ -105,6 +106,7 @@ SELECT Predet IF (0 Predet) (1C The) ;
 
 REMOVE Pl IF (0 Letters) ;
 REMOVE Preadv IF (1 (cm)) ;
+REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
 
 
 #  Verbs: select infitinive if preceded by "to"
@@ -396,3 +398,12 @@ SELECT Pr IF (0 Cnjadv) (1 PrnObj) ;
 
 # a job / Steve Jobs (breaks phrases such as "an Apple representative")
 # REMOVE Np IF (-1C (det ind)) ;
+
+
+AFTER-SECTIONS
+
+#  Capital letter corrections
+
+ADDCOHORT ("<prpers>" "prpers" prn subj p1 mf sg) BEFORE PrnSubjP1Sg IF (NOT -1 BOS) ;
+ADDCOHORT ("<Prpers>" "prpers" prn subj p1 mf sg) BEFORE PrnSubjP1Sg IF (-1 BOS) ;
+REMCOHORT ("<I>" "prpers" prn subj p1 mf sg) (0 PrnSubjP1Sg) ;
