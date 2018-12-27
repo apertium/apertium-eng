@@ -114,10 +114,30 @@ REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
 SELECT Inf IF (0C V) (-1C To) ;
 
 
+#  Verbs: Vbmod if Inf follows and Vbhaver if Pp follows
+
+SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Pp) ;
+SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Pp) ;
+SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Inf) ;
+SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Inf) ;
+
+
+#  Verbs: select infinitive if preceded by Vbmod
+
+SELECT Inf IF (0 V) (-1 Vbmod) ;
+SELECT Inf IF (0 V) (-1/1 Vbmod) ;
+SELECT Inf IF (0 V) (-2 Vbmod) (-1 Adv) ;
+SELECT Inf IF (0 V) (-1 Vbmod) (-1/1 Adv) ;
+SELECT Inf IF (0 V) (-2/1 Vbmod) (-1 Adv) ;
+
+
 #  Verbs: select participle if preceded by Vbhaver
 
-SELECT Pp IF (0 V) (-1C Vbhaver) ;
-SELECT Pp IF (0 V) (-2C Vbhaver) (-1 Adv) ;
+SELECT Pp IF (0 V) (-1 Vbhaver) ;
+SELECT Pp IF (0 V) (-1/1 Vbhaver) ;
+SELECT Pp IF (0 V) (-2 Vbhaver) (-1 Adv) ;
+SELECT Pp IF (0 V) (-1 Vbhaver) (-1/1 Adv) ;
+SELECT Pp IF (0 V) (-2/1 Vbhaver) (-1 Adv) ;
 
 
 #  Please (adv/ij) and please (vblex)
@@ -147,7 +167,15 @@ REMOVE Past IF (0 Past) (-1C BOS) ;
 
 #  Verbs: "could have succeeded"
 
-SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp)  ;
+SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp) ;
+
+#  Verbs: "would like"
+
+REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1/1 Vbmod) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) (-1/1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (-2/1 Vbmod) (-1 Adv) ;
 
 
 #  Verbs ending in -ing
@@ -379,15 +407,15 @@ SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
 SELECT Ger IF (-1/* Be) (1 To) ;
 
 
-SELECT Adv IF (0 N) (1 Supadj) (-1 Det) (-2 Vbser) ;
+SELECT Adv IF (0 N) (0 Adv) (1 Supadj) (-1 Det) (-2 Vbser) ;
 #Example (largest)
 #Canada is the second largest country in the world.
 
-REMOVE Pr IF (0 Cnjadv) (1 PrnSubj) ;
+REMOVE Pr IF (0 Cnjadv) (0 Pr) (1 PrnSubj) ;
 #Example (for):
 #I was happy, for I had just won the lottery.
 
-SELECT Pr IF (0 Cnjadv) (1 PrnObj) ;
+SELECT Pr IF (0 Cnjadv) (0 Pr) (1 PrnObj) ;
 #Example (for):
 #The food is for me.
 
@@ -404,7 +432,7 @@ AFTER-SECTIONS
 
 #  Capital letter corrections
 
-APPEND ("Prpers" prn subj p1 mf sg) PrnSubjP1Sg IF (-1 BOS) ;
-REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) ;
+APPEND ("Prpers" prn subj p1 mf sg) PrnSubjP1Sg IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
+REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
 
 ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
