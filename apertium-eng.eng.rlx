@@ -114,32 +114,6 @@ REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
 SELECT Inf IF (0C V) (-1C To) ;
 
 
-#  Verbs: Vbmod if Inf follows and Vbhaver if Pp follows
-
-SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Pp) ;
-SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Pp) ;
-SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Inf) ;
-SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Inf) ;
-
-
-#  Verbs: select infinitive if preceded by Vbmod
-
-SELECT Inf IF (0 V) (-1 Vbmod) ;
-SELECT Inf IF (0 V) (-1/1 Vbmod) ;
-SELECT Inf IF (0 V) (-2 Vbmod) (-1 Adv) ;
-SELECT Inf IF (0 V) (-1 Vbmod) (-1/1 Adv) ;
-SELECT Inf IF (0 V) (-2/1 Vbmod) (-1 Adv) ;
-
-
-#  Verbs: select participle if preceded by Vbhaver
-
-SELECT Pp IF (0 V) (-1 Vbhaver) ;
-SELECT Pp IF (0 V) (-1/1 Vbhaver) ;
-SELECT Pp IF (0 V) (-2 Vbhaver) (-1 Adv) ;
-SELECT Pp IF (0 V) (-1 Vbhaver) (-1/1 Adv) ;
-SELECT Pp IF (0 V) (-2/1 Vbhaver) (-1 Adv) ;
-
-
 #  Please (adv/ij) and please (vblex)
 
 SELECT Vblex IF (0 Please) (0 Vblex) (-1C To) ;
@@ -169,13 +143,14 @@ REMOVE Past IF (0 Past) (-1C BOS) ;
 
 SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp) ;
 
+
 #  Verbs: "would like"
 
-REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) ;
 REMOVE Pr IF (0 V) (0 Pr) (-1/1 Vbmod) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) ;
 REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) (-1/1 Adv) ;
-REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 REMOVE Pr IF (0 V) (0 Pr) (-2/1 Vbmod) (-1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 
 
 #  Verbs ending in -ing
@@ -235,6 +210,32 @@ SELECT V IF (0 N) (0 V) (1 PrnObj) ;
 #  Lemmas that are N or V: remove V
 
 REMOVE V IF (0 N) (0 V) ;
+
+
+#  Verbs: Vbmod if Inf follows and Vbhaver if Pp follows
+
+SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Pp) ;
+SELECT SUB:1 Vbhaver IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Pp) ;
+SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Inf) ;
+SELECT SUB:1 Vbmod IF (0/1 Vbmod) (0/1 Vbhaver) (1 Adv) (2 Inf) ;
+
+
+#  Verbs: select infinitive if preceded by Vbmod
+
+SELECT Inf IF (0 V) (-1/1 Vbmod) ;
+SELECT Inf IF (0 V) (-1 Vbmod) ;
+SELECT Inf IF (0 V) (-1 Vbmod) (-1/1 Adv) ;
+SELECT Inf IF (0 V) (-2/1 Vbmod) (-1 Adv) ;
+SELECT Inf IF (0 V) (-2 Vbmod) (-1 Adv) ;
+
+
+#  Verbs: select participle if preceded by Vbhaver
+
+SELECT Pp IF (0 V) (-1/1 Vbhaver) ;
+SELECT Pp IF (0 V) (-1 Vbhaver) ;
+SELECT Pp IF (0 V) (-1 Vbhaver) (-1/1 Adv) ;
+SELECT Pp IF (0 V) (-2/1 Vbhaver) (-1 Adv) ;
+SELECT Pp IF (0 V) (-2 Vbhaver) (-1 Adv) ;
 
 
 #Lemmas that are N or Adj: N if Adj precedes it or V follows
