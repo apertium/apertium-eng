@@ -157,7 +157,7 @@ REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 
 SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
-SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Pr) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (NOT -1 Vbser) (1C Pr) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 Vbser) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 By) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 BOS) (1 EOS) ;
@@ -287,6 +287,8 @@ SELECT Cnjsub IF (0 Det) (-1 Vblex) (2 Vbser) (1 N) ;
 SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) ;
 #Example (that):
 #I find that red candy is evil.
+
+REMOVE Cnjsub IF (0 Det) (0 Prn) (1 _S_DELIMITERS_) ;
 
 
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
