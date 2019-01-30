@@ -53,17 +53,18 @@ LIST Gen = gen ;
 LIST Apos = apos ;
 LIST Not = "not" ;
 SET Please = ("please" adv) | ("please" ij) ;
-SET Do = ("do") ;
+LIST Do = ("do") ;
 SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 SET Pres = (vblex pres) | (vbmod pres) | (vaux pres) | (vbser pres) | (vbhaver pres) | (vbdo pres) ;
 SET Past = (vblex past) | (vbmod past) | (vaux past) | (vbser past) | (vbhaver past) | (vbdo past) ;
 
-SET Could = ("can" vbmod past) ;
-SET Will = ("will" vbmod pres) ;
-SET By = ("by" pr) ;
-SET ThatCnj = ("that" cnjsub) ;
+LIST Could = ("can" vbmod past) ;
+LIST Will = ("will" vbmod pres) ;
+LIST ArtV = (vbser pres p2 sg) ;
+LIST By = ("by" pr) ;
+LIST ThatCnj = ("that" cnjsub) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -84,6 +85,7 @@ LIST P3 = p3 ;
 LIST PrnSubjP1Sg = (prn subj p1 mf sg) ;
 LIST PrnSubjP1Pl = (prn subj p1 mf pl) ;
 LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
+LIST PrnSubjP2Sg = (prn subj p2 mf sg) ;
 
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
@@ -142,6 +144,12 @@ REMOVE Past IF (0 Past) (-1C BOS) ;
 #  Verbs: "could have succeeded"
 
 SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp) ;
+
+
+#  Verbs: "thou art"
+
+SELECT V IF (0 Vbser) (0 ArtV) (-1 PrnSubjP2Sg) ;
+REMOVE V IF (0 Vbser) (0 ArtV) ;
 
 
 #  Verbs: "would like"
