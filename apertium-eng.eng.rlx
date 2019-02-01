@@ -128,23 +128,36 @@ SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
 REMOVE Vblex IF (0 Please) (0 Vblex) ;
 
 
-#  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
-
-SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
-SELECT Imp IF (-2 BOS) (-1 Please) ;
-SELECT Imp IF (-2 BOS) (-1 Adv) ;
-REMOVE Imp IF (0 Imp) ;
-
-
-#  Verbs in present or past: select if placed at BOS and are part of an inverted structure ("Would you like...?")
+#  Modal verbs in present or past: select if placed at BOS and are part of an inverted structure ("Would you like...?")
 
 SELECT Vbmod IF (0 Vbmod) (0 N) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+REMOVE Inf IF (0 Vbmod) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+
+
+#  Have: select if placed at BOS and are part of an inverted structure ("Have you been...?")
+
+SELECT Vbhaver IF (0 Vbhaver) (-1C BOS) (1 PrnSubj) (2 Pp) ;
+REMOVE Inf IF (0 Vbhaver) (-1C BOS) (1 PrnSubj) (2 Pp) ;
+
+
+#  Do: select if placed at BOS and are part of an inverted structure ("Do you like...?")
+
+SELECT Vbdo IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+REMOVE Inf IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
 
 
 #  Verbs in present or past: remove if placed at BOS
 
 REMOVE Pres IF (0 V) (-1C BOS) ;
 REMOVE Past IF (0 V) (-1C BOS) ;
+
+
+#  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
+
+SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
+SELECT Imp IF (-2 BOS) (-1 Please) ;
+SELECT Imp IF (-2 BOS) (-1 Adv) ;
+REMOVE Imp IF (0 Imp) ;
 
 
 #  Verbs: "could have succeeded"
@@ -250,6 +263,12 @@ SELECT Pp IF (0 V) (-1 Vbhaver) ;
 SELECT Pp IF (0 V) (-1 Vbhaver) (-1/1 Adv) ;
 SELECT Pp IF (0 V) (-2/1 Vbhaver) (-1 Adv) ;
 SELECT Pp IF (0 V) (-2 Vbhaver) (-1 Adv) ;
+
+SELECT Pp IF (0 V) (-2/1 Vbhaver) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-2 Vbhaver) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-2 Vbhaver) (-2/1 Adv) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-3/1 Vbhaver) (-2 Adv) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-3 Vbhaver) (-2 Adv) (-1 PrnSubj) ;
 
 
 #Lemmas that are N or Adj: N if Adj precedes it or V follows
@@ -403,6 +422,12 @@ SELECT Num IF (1 N) ;
 SELECT Num IF (1 Adj) (2 N) ;
 SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
+
+#  PrnSubj / PrnObj
+
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbmod) (1 Inf) ;
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbdo) (1 Inf) ;
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbhaver) (1 Pp) ;
 
 
 
