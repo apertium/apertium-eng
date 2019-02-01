@@ -114,6 +114,7 @@ REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
 #  Verbs: select infitinive if preceded by "to"
 
 SELECT Inf IF (0C V) (-1C To) ;
+SELECT Inf IF (0C V) (-2C To) (-1 Adv);
 
 
 #  Please (adv/ij) and please (vblex)
@@ -135,10 +136,15 @@ SELECT Imp IF (-2 BOS) (-1 Adv) ;
 REMOVE Imp IF (0 Imp) ;
 
 
+#  Verbs in present or past: select if placed at BOS and are part of an inverted structure ("Would you like...?")
+
+SELECT Vbmod IF (0 Vbmod) (0 N) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+
+
 #  Verbs in present or past: remove if placed at BOS
 
-REMOVE Pres IF (0 Pres) (-1C BOS) ;
-REMOVE Past IF (0 Past) (-1C BOS) ;
+REMOVE Pres IF (0 V) (-1C BOS) ;
+REMOVE Past IF (0 V) (-1C BOS) ;
 
 
 #  Verbs: "could have succeeded"
