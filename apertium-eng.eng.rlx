@@ -26,8 +26,6 @@ LIST Prn = prn ;
 LIST PrnObj = prn obj ;
 LIST PrnSubj = prn subj ;
 LIST Det = det ;
-LIST Have = vbhaver ;
-LIST Be = vbser ;
 LIST Adj = adj ;
 LIST Predet = predet ;
 LIST Preadv = preadv ;
@@ -445,8 +443,8 @@ REMOVE ("second"i n) IF (1 (n)) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
-SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
-SELECT Ger IF (-1/* Be) (1 To) ;
+SELECT SUB:1 Vbser IF (1 Ing) (0/* Vbhaver) ;
+SELECT Ger IF (-1/* Vbser) (1 To) ;
 
 
 SELECT Adv IF (0 N) (0 Adv) (1 Supadj) (-1 Det) (-2 Vbser) ;
