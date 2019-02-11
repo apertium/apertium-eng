@@ -150,6 +150,19 @@ SELECT Pp IF (0 V) (-2/1 ("have")) (-1 PrnSubj) ;
 SELECT Pp IF (0 V) (-3/1 ("have")) (-2 Adv) (-1 PrnSubj) ;
 
 
+#  Verbs: select gerund if preceded by Vbser
+
+SELECT Ger IF (0 V) (-1 Vbser) ;
+SELECT Ger IF (0 V) (-2 Vbser) (-1 Adv) ;
+SELECT Ger IF (0 V) (-1/1 ("be")) ;
+SELECT Ger IF (0 V) (-2/1 ("be")) (-1 Adv) ;
+
+SELECT Ger IF (0 V) (-2 Vbser) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-3 Vbser) (-2 Adv) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-2/1 ("be")) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-3/1 ("be")) (-2 Adv) (-1 PrnSubj) ;
+
+
 #  Please (adv/ij) and please (vblex)
 
 SELECT Vblex IF (0 Please) (0 Vblex) (-1C To) ;
@@ -218,7 +231,6 @@ REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (NOT -1 Vbser) (1C Pr) ;
-SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 Vbser) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 By) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 BOS) (1 EOS) ;
 
@@ -372,22 +384,9 @@ REMOVE Preadv IF (0 Preadv) (0 Cnjadv) ;
 
 #  Verbs with person/number: P1
 
-SELECT P1 IF (0 V) (-1 PrnSubjP1Sg | PrnSubjP1Pl)  ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg | PrnSubjP1Pl) ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg | PrnSubjP1Pl) ;
-SELECT Sg IF (0 V) (-1 PrnSubjP1Sg) ;
-SELECT Sg IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
-SELECT Sg IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
-SELECT Pl IF (0 V) (-1 PrnSubjP1Pl) ;
-SELECT Pl IF (0 V) (-1 Adv) (-2 PrnSubjP1Pl) ;
-SELECT Pl IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Pl) ;
-
-
-#  Verbs with person/number: P2
-
-SELECT P2 IF (0 V) (-1 PrnSubjP2Sp) ;
-SELECT P2 IF (0 V) (-1 Adv) (-2 PrnSubjP2Sp) ;
-SELECT P2 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP2Sp) ;
+SELECT P1 IF (0 V) (-1 PrnSubjP1Sg)  ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
 
 
 #  Verbs with person/number: P3 (default) (if not genitive)
