@@ -192,6 +192,12 @@ SELECT Vbdo IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
 REMOVE Inf IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
 
 
+#  Verbs in past or participle: remove Pp
+
+REMOVE Pp IF (0 Past) (0 Pp) (1C PrnObj) ;
+REMOVE Pp IF (0 Past) (0 Pp) (-2C Past) (-1C Cnjcoo) ;
+
+
 #  Verbs in present or past: remove if placed at BOS
 
 REMOVE Pres IF (0 V) (-1C BOS) ;
