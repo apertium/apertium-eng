@@ -206,10 +206,10 @@ REMOVE Past IF (0 V) (-1C BOS) ;
 
 #  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
 
-SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
-SELECT Imp IF (-2 BOS) (-1 Please) ;
-SELECT Imp IF (-2 BOS) (-1 Adv) ;
-REMOVE Imp IF (0 Imp) ;
+SELECT Imp IF (0C V) (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
+SELECT Imp IF (0C V) (-2 BOS) (-1 Please) ;
+SELECT Imp IF (0C V) (-2 BOS) (-1 Adv) ;
+REMOVE Imp IF (0C V) (0 Imp) ;
 
 
 #  Verbs: "could have succeeded"
@@ -265,7 +265,7 @@ SELECT V IF (0 N) (0 V) (-2 Vbdo) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-3 Vbdo) (-2 Adv) (-1 Adv) ;
 
 
-#  Lemmas that are N or V: V if Adv/Prn/N/vbmod precedes it or Adv/N follows
+#  Lemmas that are N or V: V if Adv/Prn/N/vbmod precedes it
 
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
@@ -276,12 +276,14 @@ SELECT V IF (0 N) (0 V) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-2 Np) (-1 Adv) ;
+
+
+#  Lemmas that are N or V: V if N/Prn follows it
+
 SELECT V IF (0 N) (0 V) (1 PrnObj) ;
-
-
-#  Lemmas that are N or V: remove V
-
-REMOVE V IF (0 N) (0 V) ;
+SELECT V IF (0 N) (0 V) (1C Prn) (NOT 1 PrnSubj) ;
+SELECT V IF (0 N) (0 V) (1C Det) (2C N) ;
+SELECT V IF (0 N) (0 V) (1C Num) (2C N) ;
 
 
 #  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
