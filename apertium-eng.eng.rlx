@@ -23,11 +23,9 @@ SETS
 LIST N = n ;
 LIST Np = np ;
 LIST Prn = prn ;
-LIST PrnObj = prn obj ;
-LIST PrnSubj = prn subj ;
+LIST PrnObj = (prn obj) ;
+LIST PrnSubj = (prn subj) ;
 LIST Det = det ;
-LIST Have = vbhaver ;
-LIST Be = vbser ;
 LIST Adj = adj ;
 LIST Predet = predet ;
 LIST Preadv = preadv ;
@@ -41,6 +39,7 @@ LIST Rel = (prn rel) ;
 LIST Ij = ij ;
 LIST Cnjadv = cnjadv ;
 LIST Cnjcoo = cnjcoo ;
+LIST Cnjsub = cnjsub ;
 LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
 LIST Vblex = vblex ;
 LIST Vbser = vbser ;
@@ -52,16 +51,17 @@ LIST Gen = gen ;
 LIST Apos = apos ;
 LIST Not = "not" ;
 SET Please = ("please" adv) | ("please" ij) ;
-SET Do = ("do") ;
 SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
 SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 SET Pres = (vblex pres) | (vbmod pres) | (vaux pres) | (vbser pres) | (vbhaver pres) | (vbdo pres) ;
 SET Past = (vblex past) | (vbmod past) | (vaux past) | (vbser past) | (vbhaver past) | (vbdo past) ;
 
-SET Could = ("can" vbmod past) ;
-SET Will = ("will" vbmod pres) ;
-SET By = ("by" pr) ;
+LIST Could = ("can" vbmod past) ;
+LIST Will = ("will" vbmod pres) ;
+LIST ArtV = (vbser pres p2 sg) ;
+LIST By = ("by" pr) ;
+LIST ThatCnj = ("that" cnjsub) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -82,35 +82,85 @@ LIST P3 = p3 ;
 LIST PrnSubjP1Sg = (prn subj p1 mf sg) ;
 LIST PrnSubjP1Pl = (prn subj p1 mf pl) ;
 LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
+LIST PrnSubjP2Sg = (prn subj p2 mf sg) ;
 
 LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
 
 LIST Ing = "<.*ing>"ri ;
+LIST Cm = cm ;
+LIST Sup = sup ;
+LIST Supadj = (adj sint sup) ;
+List Nsg = (n sg) ;
+List As = "as" ;
 
 
 SECTION
 
-
 #  Basic rules
 
-REMOVE V IF (0 V) (-1C Det) ;
-REMOVE V IF (0 V) (-1C Gen) ;
+REMOVE V IF (0 V) (0 N) (-1C Det) ;
+REMOVE V IF (0 V) (0 N) (-1C Gen) ;
 REMOVE Adv IF (0 Adv) (1 N) ;
 SELECT Predet IF (0 Predet) (1C The) ;
 
 REMOVE Pl IF (0 Letters) ;
 REMOVE Preadv IF (1 (cm)) ;
+REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
 
 
 #  Verbs: select infitinive if preceded by "to"
 
 SELECT Inf IF (0C V) (-1C To) ;
+SELECT Inf IF (0C V) (-2C To) (-1 Adv) ;
+SELECT Inf IF (0 V) (0 N) (-2C V) (-1C To) ;
+SELECT Inf IF (0 V) (0 N) (-3C V) (-2C To) (-1 Adv) ;
+
+
+#  Verbs: select infinitive if preceded by vbmod
+
+SELECT Inf IF (0 V) (-1 Vbmod) ;
+SELECT Inf IF (0 V) (-2 Vbmod) (-1 Adv) ;
+SELECT Inf IF (0 V) (-1/1 ("will")) ;  # TODO: Needs to be changed to a generic "Vbmod", but that doesn't work for some reason
+SELECT Inf IF (0 V) (-1/1 ("can")) ;
+SELECT Inf IF (0 V) (-1/1 ("shall")) ;
+SELECT Inf IF (0 V) (-2/1 ("will")) (-1 Adv) ;
+SELECT Inf IF (0 V) (-2/1 ("can")) (-1 Adv) ;
+SELECT Inf IF (0 V) (-2/1 ("shall")) (-1 Adv) ;
+
+SELECT Inf IF (0 V) (-2 Vbmod) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-3 Vbmod) (-2 Adv) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-2/1 ("will")) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-2/1 ("can")) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-2/1 ("shall")) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-3/1 ("will")) (-2 Adv) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-3/1 ("can")) (-2 Adv) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-3/1 ("shall")) (-2 Adv) (-1 PrnSubj) ;
 
 
 #  Verbs: select participle if preceded by Vbhaver
 
-SELECT Pp IF (0 V) (-1C Vbhaver) ;
-SELECT Pp IF (0 V) (-2C Vbhaver) (-1 Adv) ;
+SELECT Pp IF (0 V) (-1 Vbhaver) ;
+SELECT Pp IF (0 V) (-2 Vbhaver) (-1 Adv) ;
+SELECT Pp IF (0 V) (-1/1 ("have")) ;
+SELECT Pp IF (0 V) (-2/1 ("have")) (-1 Adv) ;
+
+SELECT Pp IF (0 V) (-2 Vbhaver) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-3 Vbhaver) (-2 Adv) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-2/1 ("have")) (-1 PrnSubj) ;
+SELECT Pp IF (0 V) (-3/1 ("have")) (-2 Adv) (-1 PrnSubj) ;
+
+
+#  Verbs: select gerund if preceded by Vbser
+
+SELECT Ger IF (0 V) (-1 Vbser) ;
+SELECT Ger IF (0 V) (-2 Vbser) (-1 Adv) ;
+SELECT Ger IF (0 V) (-1/1 ("be")) ;
+SELECT Ger IF (0 V) (-2/1 ("be")) (-1 Adv) ;
+
+SELECT Ger IF (0 V) (-2 Vbser) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-3 Vbser) (-2 Adv) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-2/1 ("be")) (-1 PrnSubj) ;
+SELECT Ger IF (0 V) (-3/1 ("be")) (-2 Adv) (-1 PrnSubj) ;
 
 
 #  Please (adv/ij) and please (vblex)
@@ -124,42 +174,74 @@ SELECT Vblex IF (0 Please) (0 Vblex) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
 REMOVE Vblex IF (0 Please) (0 Vblex) ;
 
 
-#  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
+#  Modal verbs in present or past: select if placed at BOS and are part of an inverted structure ("Would you like...?")
 
-SELECT Imp IF (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
-SELECT Imp IF (-2 BOS) (-1 Please) ;
-SELECT Imp IF (-2 BOS) (-1 Adv) ;
-REMOVE Imp IF (0 Imp) ;
+SELECT Vbmod IF (0 Vbmod) (0 N) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+REMOVE Inf IF (0 Vbmod) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+
+
+#  Have: select if placed at BOS and are part of an inverted structure ("Have you been...?")
+
+SELECT Vbhaver IF (0 Vbhaver) (-1C BOS) (1 PrnSubj) (2 Pp) ;
+REMOVE Inf IF (0 Vbhaver) (-1C BOS) (1 PrnSubj) (2 Pp) ;
+
+
+#  Do: select if placed at BOS and are part of an inverted structure ("Do you like...?")
+
+SELECT Vbdo IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+REMOVE Inf IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+
+
+#  Verbs in past or participle: remove Pp
+
+REMOVE Pp IF (0 Past) (0 Pp) (1C PrnObj) ;
+REMOVE Pp IF (0 Past) (0 Pp) (-2C Past) (-1C Cnjcoo) ;
 
 
 #  Verbs in present or past: remove if placed at BOS
 
-REMOVE Pres IF (0 Pres) (-1C BOS) ;
-REMOVE Past IF (0 Past) (-1C BOS) ;
+REMOVE Pres IF (0 V) (-1C BOS) ;
+REMOVE Past IF (0 V) (-1C BOS) ;
+
+
+#  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
+
+SELECT Imp IF (0C V) (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
+SELECT Imp IF (0C V) (-2 BOS) (-1 Please) ;
+SELECT Imp IF (0C V) (-2 BOS) (-1 Adv) ;
+REMOVE Imp IF (0C V) (0 Imp) ;
 
 
 #  Verbs: "could have succeeded"
 
-SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp)  ;
+SELECT Inf IF (0 Vbhaver) (-1 Could) (1 Pp) ;
+
+
+#  Verbs: "thou art"
+
+SELECT V IF (0 Vbser) (0 ArtV) (-1 PrnSubjP2Sg) ;
+REMOVE V IF (0 Vbser) (0 ArtV) ;
+
+
+#  Verbs: "would like"
+
+REMOVE Pr IF (0 V) (0 Pr) (-1/1 Vbmod) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) (-1/1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (-2/1 Vbmod) (-1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 
 
 #  Verbs ending in -ing
 
 SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
-SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Pr) ;
-SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 Vbser) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (NOT -1 Vbser) (1C Pr) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 By) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 BOS) (1 EOS) ;
 
 
-#  Lemmas that are N or V: Inf if preposition precedes it
-
-SELECT Inf IF (0 Inf) (0 N) (-1C To) ;
-SELECT Inf IF (0 Inf) (0 N) (-1C Adv) (-2C To) ;
-
-
-#  Lemmas that are N or V: Vbmod if will/can/may
+#  Lemmas that are N or V: vbmod if will/can/may
 
 SELECT Vbmod IF (0 Vbmod) (0 N) (1 Inf) ;
 SELECT Vbmod IF (0 Vbmod) (0 N) (1 Adv) (2 Inf) ;
@@ -173,7 +255,7 @@ SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
 
 
-#  Lemmas that are N or V: V if Vbmod/Vbdo precedes it
+#  Lemmas that are N or V: V if vbmod/Vbdo precedes it
 
 SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
 SELECT V IF (0 N) (0 V) (-2 Vbmod | Vbaux) (-1 Adv) ;
@@ -183,7 +265,7 @@ SELECT V IF (0 N) (0 V) (-2 Vbdo) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-3 Vbdo) (-2 Adv) (-1 Adv) ;
 
 
-#  Lemmas that are N or V: V if Adv/Prn/N/Vbmod precedes it or Adv/N follows
+#  Lemmas that are N or V: V if Adv/Prn/N/vbmod precedes it
 
 SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
@@ -194,12 +276,22 @@ SELECT V IF (0 N) (0 V) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Np) ;
 SELECT V IF (0 N) (0 V) (-3 Np) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-2 Np) (-1 Adv) ;
+
+
+#  Lemmas that are N or V: V if N/Prn follows it
+
 SELECT V IF (0 N) (0 V) (1 PrnObj) ;
+SELECT V IF (0 N) (0 V) (1C Prn) (NOT 1 PrnSubj) ;
+SELECT V IF (0 N) (0 V) (1C Det) (2C N) ;
+SELECT V IF (0 N) (0 V) (1C Num) (2C N) ;
 
 
-#  Lemmas that are N or V: remove V
+#  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
 
-REMOVE V IF (0 N) (0 V) ;
+SELECT SUB:* Vbhaver IF (1 Pp) ;
+SELECT SUB:* Vbhaver IF (2 Pp) ;
+SELECT SUB:* Vbmod IF (1 Inf) ;
+SELECT SUB:* Vbmod IF (1 Adv) (2 Inf) ;
 
 
 #Lemmas that are N or Adj: N if Adj precedes it or V follows
@@ -212,6 +304,48 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
+# Different cases for as ("as __ as")
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 N) (2 Vbser) ;
+#Example (that):
+#He thinks that candy is evil.
+
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vbser) ;
+#Example (as):
+#You are as quick as I am.
+
+SELECT Pr IF (0 As) (-2 As) (-1 Adv) (-1 Adj) (-3 Vblex) ;
+#Example (as):
+#The Earth was formed as early as 4.54 billion years ago.
+
+# Has (Cnjsub) and has (Det)
+
+SELECT Cnjsub IF (0 Det) (-1 Adj) (-2 Vbser) (1 Nsg) ;
+#Example (that):
+#It is true that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vbser) (-2 N) (1 Nsg) ;
+#Example (that):
+#The problem is that candy is evil.
+
+SELECT Det IF (0 Cnjsub) (1 Nsg) (2 Vbser) ;
+#Example (that):
+#That cat is evil.
+
+SELECT Cnjsub IF (0 Det) (1 Det) ;
+#Example (that):
+#I believe that the cat is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (2 Vbser) (1 N) ;
+#Example (that):
+#I find that candy is evil.
+
+SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) ;
+#Example (that):
+#I find that red candy is evil.
+
+REMOVE Cnjsub IF (0 Det) (0 Prn) (1 _S_DELIMITERS_) ;
+
 
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
 
@@ -221,7 +355,7 @@ SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2C N) ;
 SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3C N) ;
 
 
-#  Lemmas that are Det or Prn: remove Prn
+#  Lemmas that are Det or Prn: Remove Det
 
 REMOVE Det IF (0 Det) (0 Prn) ;
 
@@ -258,22 +392,9 @@ REMOVE Preadv IF (0 Preadv) (0 Cnjadv) ;
 
 #  Verbs with person/number: P1
 
-SELECT P1 IF (0 V) (-1 PrnSubjP1Sg | PrnSubjP1Pl)  ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg | PrnSubjP1Pl) ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg | PrnSubjP1Pl) ;
-SELECT Sg IF (0 V) (-1 PrnSubjP1Sg) ;
-SELECT Sg IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
-SELECT Sg IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
-SELECT Pl IF (0 V) (-1 PrnSubjP1Pl) ;
-SELECT Pl IF (0 V) (-1 Adv) (-2 PrnSubjP1Pl) ;
-SELECT Pl IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Pl) ;
-
-
-#  Verbs with person/number: P2
-
-SELECT P2 IF (0 V) (-1 PrnSubjP2Sp) ;
-SELECT P2 IF (0 V) (-1 Adv) (-2 PrnSubjP2Sp) ;
-SELECT P2 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP2Sp) ;
+SELECT P1 IF (0 V) (-1 PrnSubjP1Sg)  ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
+SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
 
 
 #  Verbs with person/number: P3 (default) (if not genitive)
@@ -312,22 +433,43 @@ SELECT Num IF (1 Adj) (2 N) ;
 SELECT Num IF (1 Adv) (2 Adj) (3 N) ;
 
 
+#  PrnSubj / PrnObj
+
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbmod) (1 Inf) ;
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbdo) (1 Inf) ;
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbhaver) (1 Pp) ;
+
+
+
 #
 # Other rules
 #
 
-REMOVE (cnjadv) IF (-1 BOS) ;
-REMOVE (preadv) IF (1 EOS) ;
-REMOVE (vblex pp) IF (-1 (prn subj)) ;
+REMOVE Cnjadv IF (-1 BOS) ;
+REMOVE Preadv IF (1 EOS) ;
+REMOVE (vblex pp) IF (-1 PrnSubj) ;
 REMOVE (vbmod inf) IF (1 Inf) ;
 REMOVE (vbmod inf) IF (1 Adv) (2 Inf) ;
 REMOVE ("second"i n) IF (1 (n)) ;
-#REMOVE (prn obj) IF (-1 V) (-2 BOS) ;
+#REMOVE PrnObj IF (-1 V) (-2 BOS) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT (adv itg) IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
-SELECT SUB:1 Be IF (1 Ing) (0/* Have) ;
-SELECT Ger IF (-1/* Be) (1 To) ;
+SELECT SUB:1 Vbser IF (1 Ing) (0/* Vbhaver) ;
+SELECT Ger IF (-1/* Vbser) (1 To) ;
+
+
+SELECT Adv IF (0 N) (0 Adv) (1 Supadj) (-1 Det) (-2 Vbser) ;
+#Example (largest)
+#Canada is the second largest country in the world.
+
+REMOVE Pr IF (0 Cnjadv) (0 Pr) (1 PrnSubj) ;
+#Example (for):
+#I was happy, for I had just won the lottery.
+
+SELECT Pr IF (0 Cnjadv) (0 Pr) (1 PrnObj) ;
+#Example (for):
+#The food is for me.
 
 
 #
@@ -336,3 +478,13 @@ SELECT Ger IF (-1/* Be) (1 To) ;
 
 # a job / Steve Jobs (breaks phrases such as "an Apple representative")
 # REMOVE Np IF (-1C (det ind)) ;
+
+
+AFTER-SECTIONS
+
+#  Capital letter corrections
+
+APPEND ("Prpers" prn subj p1 mf sg) PrnSubjP1Sg IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
+REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
+
+ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
