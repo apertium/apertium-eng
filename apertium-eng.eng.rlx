@@ -491,3 +491,5 @@ ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
 
 # Roman ordinal unlikely
 REMOVE ("I" adj) ;
+REMOVE ("You" np) ;
+REMOVE ("He" np) ;
