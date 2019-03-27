@@ -489,5 +489,14 @@ REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver
 
 ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
 
+# Flammie's last resorts
 # Roman ordinal unlikely
+
 REMOVE ("I" adj) ;
+# so much more common as not names also
+REMOVE ("You" np) ;
+REMOVE ("He" np) ;
+# I think there's some noun->adj conversion in apertium-eng that fails for
+# eng-fin
+LIST FLAMMIE-NO-LIKE-ADJS = ("house" ADJ) ;
+REMOVE FLAMMIE-NO-LIKE-ADJS ;
