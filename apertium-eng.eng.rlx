@@ -498,5 +498,20 @@ REMOVE ("You" np) ;
 REMOVE ("He" np) ;
 # I think there's some noun->adj conversion in apertium-eng that fails for
 # eng-fin
-LIST FLAMMIE-NO-LIKE-ADJS = ("house" ADJ) ;
+LIST FLAMMIE-NO-LIKE-ADJS = ("house" adj) ("car" adj) ("animal" adj)
+                            ("animal" adj) ("downtown" adj) ("summer" adj)
+                            ("school" adj) ("stage" adj) ("airport" adj)
+                            ("business" adj) ("mass" adj) ("riot" adj)
+                            ("kettle" adj) ("pilot" adj) ("police" adj)
+                            ("market" adj) ("radio" adj) ("rail" adj)
+                            ("chess" adj) ("parish" adj) ("foster" adj)
+                            ("citrus" adj) ("television" adj)
+                            ("road" adj) ("space" adj) ("accounting" adj)
+                            ("training" adj) ("labour" adj) ("jar" adj)
+                            ("career" adj) ("dish" adj) ("state" adj)
+                            ("blood" adj) ("basin" adj) ("bucket" adj)
+                            ("audio" adj)
+                            ;
 REMOVE FLAMMIE-NO-LIKE-ADJS ;
+# for conjunction
+REMOVE ("for" cnjadv) (NOT -1 BOS) ;
