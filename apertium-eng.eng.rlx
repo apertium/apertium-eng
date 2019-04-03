@@ -513,5 +513,16 @@ LIST FLAMMIE-NO-LIKE-ADJS = ("house" adj) ("car" adj) ("animal" adj)
                             ("audio" adj)
                             ;
 REMOVE FLAMMIE-NO-LIKE-ADJS ;
-# for conjunction
+# for conjunction (wrong)
 REMOVE ("for" cnjadv) (NOT -1 BOS) ;
+# 
+
+LIST PARTICIPLE = (pp) ;
+LIST PP-AUX = ("be" vbser) ;
+SELECT PARTICIPLE (-1 PP-AUX) ;
+
+
+# titlecasing something mid-sentence should be an np
+LIST TitleCasedNP = (r"<[A-Z].*>" np) ;
+SELECT TitleCasedNP (not -1 BOS) ;
+
