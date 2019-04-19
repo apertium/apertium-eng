@@ -525,6 +525,7 @@ LIST PARTICIPLE = (pp) ;
 LIST PP-AUX = ("be" vbser) ;
 SELECT PARTICIPLE (-1 PP-AUX) ;
 
+REMOVE ("if" n) ;
 
 # titlecasing something mid-sentence should be an np
 LIST TitleCasedNP = (r"<[A-Z].*>" np) ;
