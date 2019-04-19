@@ -496,6 +496,7 @@ REMOVE ("I" adj) ;
 # so much more common as not names also
 REMOVE ("You" np) ;
 REMOVE ("He" np) ;
+REMOVE ("Also" np) ;
 # I think there's some noun->adj conversion in apertium-eng that fails for
 # eng-fin
 LIST FLAMMIE-NO-LIKE-ADJS = ("house" adj) ("car" adj) ("animal" adj)
@@ -510,12 +511,15 @@ LIST FLAMMIE-NO-LIKE-ADJS = ("house" adj) ("car" adj) ("animal" adj)
                             ("training" adj) ("labour" adj) ("jar" adj)
                             ("career" adj) ("dish" adj) ("state" adj)
                             ("blood" adj) ("basin" adj) ("bucket" adj)
-                            ("audio" adj)
+                            ("audio" adj) ("tourist" adj)
                             ;
 REMOVE FLAMMIE-NO-LIKE-ADJS ;
 # for conjunction (wrong)
 REMOVE ("for" cnjadv) (NOT -1 BOS) ;
-# 
+#
+LIST INF = (inf) ;
+LIST PRN-PRS-SUBJ  =  (subj) ;
+REMOVE INF (-1 PRN-PRS-SUBJ) ;
 
 LIST PARTICIPLE = (pp) ;
 LIST PP-AUX = ("be" vbser) ;
