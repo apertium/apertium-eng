@@ -201,8 +201,8 @@ REMOVE Pp IF (0 Past) (0 Pp) (-2C Past) (-1C Cnjcoo) ;
 
 #  Verbs in present or past: remove if placed at BOS
 
-REMOVE Pres IF (0 V) (-1C BOS) ;
-REMOVE Past IF (0 V) (-1C BOS) ;
+REMOVE Pres IF (0C V) (-1C BOS) ;
+REMOVE Past IF (0C V) (-1C BOS) ;
 
 
 #  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
@@ -210,6 +210,7 @@ REMOVE Past IF (0 V) (-1C BOS) ;
 SELECT Imp IF (0C V) (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
 SELECT Imp IF (0C V) (-2 BOS) (-1 Please) ;
 SELECT Imp IF (0C V) (-2 BOS) (-1 Adv) ;
+SELECT Imp IF (0C V) (-2C Imp) (-1 Cnjcoo) ;
 REMOVE Imp IF (0C V) (0 Imp) ;
 
 
@@ -256,6 +257,11 @@ SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
 
 
+#  Lemmas that are N or V: N if Subs follows it
+
+SELECT N IF (0 N) (0 V) (1 Subs) ;
+
+
 #  Lemmas that are N or V: V if vbmod/Vbdo precedes it
 
 SELECT V IF (0 N) (0 V) (-1 Vbmod | Vbaux) ;
@@ -285,6 +291,10 @@ SELECT V IF (0 N) (0 V) (1 PrnObj) ;
 SELECT V IF (0 N) (0 V) (1C Prn) (NOT 1 PrnSubj) ;
 SELECT V IF (0 N) (0 V) (1C Det) (2C N) ;
 SELECT V IF (0 N) (0 V) (1C Num) (2C N) ;
+
+#  Lemmas that are N or V: V if another V follows
+
+SELECT V IF (0 N) (0 V) (1 Cnjcoo) (2C V) ;
 
 
 #  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
@@ -393,14 +403,14 @@ REMOVE Preadv IF (0 Preadv) (0 Cnjadv) ;
 
 #  Verbs with person/number: P1
 
-SELECT P1 IF (0 V) (-1 PrnSubjP1Sg)  ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 PrnSubjP1Sg)  ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 Adv) (-2 PrnSubjP1Sg) ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
 
 
 #  Verbs with person/number: P3 (default) (if not genitive)
 
-SELECT P3 IF (0 V) (NOT 0 ("'s")) ;
+SELECT P3 IF (0C Pres) (0C Past) (NOT 0 ("'s")) ;
 
 
 #  Saxon genitive ('s)
@@ -473,6 +483,16 @@ REMOVE Pr IF (0 Cnjadv) (0 Pr) (1 PrnSubj) ;
 SELECT Pr IF (0 Cnjadv) (0 Pr) (1 PrnObj) ;
 #Example (for):
 #The food is for me.
+
+
+
+# Specific rules
+
+# shows recommended files
+SELECT V IF (0 ("show")) (-1 BOS) (1 Adj OR Pp) (2 ("file")) ;
+
+# open with
+SELECT V IF (0 ("open")) (0 V) (0 Adj) (-1 BOS) (1 Pr) ;
 
 
 #
