@@ -305,6 +305,7 @@ SELECT N IF (0 N) (0 Adj) (1 V) ;
 
 SELECT Adj IF (0 N) (0 Adj) (1 N) ;
 
+
 # Different cases for as ("as __ as")
 
 SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 N) (2 Vbser) ;
@@ -473,6 +474,10 @@ REMOVE Pr IF (0 Cnjadv) (0 Pr) (1 PrnSubj) ;
 SELECT Pr IF (0 Cnjadv) (0 Pr) (1 PrnObj) ;
 #Example (for):
 #The food is for me.
+
+
+# Nice to meet you (Adj/Np)
+SELECT Adj IF (0 ("Nice")) (-1 BOS) (1 Pr) (2 Inf) ;
 
 
 #
