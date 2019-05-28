@@ -403,10 +403,14 @@ SELECT Adv IF (0 Adv) (0 Det) ;
 #Lemmas that are Adv or Prep ('around'): Adv unless N/Np follows
 
 SELECT Pr IF (0 Adv) (0 Pr) (1 Np) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Adj) (2 Np) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 N) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Adj) (2 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Adj) (3 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Num) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Num) (2 N) ;
 REMOVE Pr IF (0 Adv) (0 Pr) ;
 
 
