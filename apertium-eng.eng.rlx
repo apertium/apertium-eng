@@ -101,7 +101,9 @@ SECTION
 
 REMOVE V IF (0 V) (0 N) (-1C Det) ;
 REMOVE V IF (0 V) (0 N) (-1C Gen) ;
-REMOVE Adv IF (0 Adv) (1 N) ;
+REMOVE Adv IF (0 Adv) (1C N) ;
+REMOVE Adv IF (0 Adv) (1 Adj) (2C N) ;
+REMOVE Preadv IF (0 Preadv) (1C N) ;
 SELECT Predet IF (0 Predet) (1C The) ;
 
 REMOVE Pl IF (0 Letters) ;
@@ -201,8 +203,8 @@ REMOVE Pp IF (0 Past) (0 Pp) (-2C Past) (-1C Cnjcoo) ;
 
 #  Verbs in present or past: remove if placed at BOS
 
-REMOVE Pres IF (0 V) (-1C BOS) ;
-REMOVE Past IF (0 V) (-1C BOS) ;
+REMOVE Pres IF (0C V) (-1C BOS) ;
+REMOVE Past IF (0C V) (-1C BOS) ;
 
 
 #  Imperatives: remove unless preceded by "please"/Adv or placed at BOS and not followed by another verb
@@ -210,6 +212,13 @@ REMOVE Past IF (0 V) (-1C BOS) ;
 SELECT Imp IF (0C V) (-1 BOS | _S_SOFT_DELIMITERS_) (NOT 1C Fin) ;
 SELECT Imp IF (0C V) (-2 BOS) (-1 Please) ;
 SELECT Imp IF (0C V) (-2 BOS) (-1 Adv) ;
+SELECT Imp IF (0C V) (-2C Imp) (-1 Cnjcoo) ;
+
+SELECT Imp IF (0C V) (-2C Imp) (-1 Cnjcoo) ;
+SELECT Imp IF (0C V) (-3C Imp) (-2 N OR PrnObj) (-1 Cnjcoo) ;
+SELECT Imp IF (0C V) (-4C Imp) (-3 Det) (-2 N) (-1 Cnjcoo) ;
+SELECT Imp IF (0C V) (-5C Imp) (-4 Det) (-3 N) (-2 N) (-1 Cnjcoo) ;
+
 REMOVE Imp IF (0C V) (0 Imp) ;
 
 
@@ -254,6 +263,13 @@ SELECT Vbmod IF (0 Vbmod) (0 N) (1 PrnSubj) (2 Inf) ;
 
 SELECT N IF (0 N) (0 V) (-1 Det) ;
 SELECT N IF (0 N) (0 V) (-1 Adj) ;
+SELECT N IF (0 N) (0 V) (NOT 0 P3) (-2 Det) (-1C N + Sg) ;
+SELECT N IF (0 N) (0 V) (NOT 0 P3) (-2 Adj) (-1C N + Sg) ;
+
+
+#  Lemmas that are N or V: N if Subs follows it
+
+SELECT N IF (0 N) (0 V) (1 Subs) ;
 
 
 #  Lemmas that are N or V: V if vbmod/Vbdo precedes it
@@ -285,6 +301,15 @@ SELECT V IF (0 N) (0 V) (1 PrnObj) ;
 SELECT V IF (0 N) (0 V) (1C Prn) (NOT 1 PrnSubj) ;
 SELECT V IF (0 N) (0 V) (1C Det) (2C N) ;
 SELECT V IF (0 N) (0 V) (1C Num) (2C N) ;
+
+#  Lemmas that are N or V: V if another V precedes or follows it
+
+SELECT V IF (0 N) (0 V) (1 Cnjcoo) (2C V) ;
+
+SELECT V IF (0 N) (0 V) (-2C V) (-1 Cnjcoo) ;
+SELECT V IF (0 N) (0 V) (-3C V) (-2 N OR PrnObj) (-1 Cnjcoo) ;
+SELECT V IF (0 N) (0 V) (-4C V) (-3 Det) (-2 N) (-1 Cnjcoo) ;
+SELECT V IF (0 N) (0 V) (-5C V) (-4 Det) (-3 N) (-2 N) (-1 Cnjcoo) ;
 
 
 #  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
@@ -394,14 +419,14 @@ REMOVE Preadv IF (0 Preadv) (0 Cnjadv) ;
 
 #  Verbs with person/number: P1
 
-SELECT P1 IF (0 V) (-1 PrnSubjP1Sg)  ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 PrnSubjP1Sg) ;
-SELECT P1 IF (0 V) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 PrnSubjP1Sg)  ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 Adv) (-2 PrnSubjP1Sg) ;
+SELECT P1 IF (0C Pres) (0C Past) (-1 Adv) (-2 Adv) (-3 PrnSubjP1Sg) ;
 
 
 #  Verbs with person/number: P3 (default) (if not genitive)
 
-SELECT P3 IF (0 V) (NOT 0 ("'s")) ;
+SELECT P3 IF (0C Pres) (0C Past) (NOT 0 ("'s")) ;
 
 
 #  Saxon genitive ('s)
@@ -443,6 +468,13 @@ SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbhaver) (1 Pp) ;
 
 SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-2 AdvItg) (-1 Vbser) ;
 
+SELECT PrnObj IF (0 PrnSubj) (0 PrnObj) (-1 Imp) ;
+
+
+#  Cnjcoo/Prn
+
+SELECT Prn IF (0 Cnjcoo) (0 Prn) (1C V) ;
+
 
 
 #
@@ -476,8 +508,19 @@ SELECT Pr IF (0 Cnjadv) (0 Pr) (1 PrnObj) ;
 #The food is for me.
 
 
+# Specific rules
+
 # Nice to meet you (Adj/Np)
 SELECT Adj IF (0 ("Nice")) (-1 BOS) (1 Pr) (2 Inf) ;
+
+# shows recommended files
+SELECT V IF (0 ("show")) (-1 BOS) (1 Adj OR Pp) (2 ("file")) ;
+
+# open with
+SELECT V IF (0 ("open")) (0 V) (0 Adj) (-1 BOS) (1 Pr) ;
+
+# sort from
+SELECT V IF (0 ("sort")) (0 V) (0 N) (-1 BOS) (1 Pr) ;
 
 
 #
