@@ -1,4 +1,4 @@
-English
+English 
 
                             apertium-eng
 ===============================================================================
@@ -10,7 +10,7 @@ you can use this language package for:
 * Morphological generation of English
 * Part-of-speech tagging of English
 
-Requirements
+Requirements :
 ===============================================================================
 
 You will need the following software installed:
@@ -21,7 +21,7 @@ You will need the following software installed:
 
 If this does not make any sense, we recommend you look at: www.apertium.org
 
-Compiling
+Compiling :
 ===============================================================================
 
 Given the requirements being installed, you should be able to just run:
@@ -44,7 +44,7 @@ You can give a --prefix to ./configure to install as a non-root user,
 but make sure to use the same prefix when installing the translation
 pair and any other language packages.
 
-Testing
+Testing :
 ===============================================================================
 
 If you are in the source directory after running make, the following
@@ -56,7 +56,7 @@ TODO: test analysis result
 $ echo "TODO: test sentence" | apertium -d . eng-tagger
 TODO: test tagger result
 
-Files and data
+Files and Data :
 ===============================================================================
 
 * apertium-eng.eng.dix            - Monolingual dictionary
@@ -65,20 +65,20 @@ Files and data
 * apertium-eng.post-eng.dix       - Post-generator
 * modes.xml                       - Translation modes
 
-Notes on eng.prob
+Notes on eng.prob :
 ===============================================================================
 apertium-eng uses the [perceptron tagger](http://wiki.apertium.org/wiki/Perceptron_tagger),
 so in order for it to work, it needs to be called with -gx: `apertium-tagger -gx eng.prob`
 
 
-For more information
+For more Information :
 ===============================================================================
 
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/apertium-eng
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
-Help and support
+Help and support :
 ===============================================================================
 
 If you need help using this language pair or data, you can contact:
@@ -86,7 +86,7 @@ If you need help using this language pair or data, you can contact:
 * Mailing list: apertium-stuff@lists.sourceforge.net
 * IRC: #apertium on irc.freenode.net
 
-License
+License :
 =======
 
 This program is free software: you can redistribute it and/or modify
