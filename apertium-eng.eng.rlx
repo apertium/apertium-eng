@@ -92,7 +92,9 @@ LIST Cm = cm ;
 LIST Sup = sup ;
 LIST Supadj = (adj sint sup) ;
 List Nsg = (n sg) ;
+List Npl = (n pl) ;
 List As = "as" ;
+List Both = "both" ;
 
 
 SECTION
@@ -119,10 +121,12 @@ SELECT Inf IF (0 V) (0 N) (-2C V) (-1C To) ;
 SELECT Inf IF (0 V) (0 N) (-3C V) (-2C To) (-1 Adv) ;
 
 
-#  Verbs: select infinitive if preceded by vbmod
+#  Verbs: select infinitive if preceded by vbmod/vbdo
 
 SELECT Inf IF (0 V) (-1 Vbmod) ;
 SELECT Inf IF (0 V) (-2 Vbmod) (-1 Adv) ;
+SELECT Inf IF (0 V) (-1 Vbdo) ;
+SELECT Inf IF (0 V) (-2 Adv) (-1 Vbdo) ;
 SELECT Inf IF (0 V) (-1/1 ("will")) ;  # TODO: Needs to be changed to a generic "Vbmod", but that doesn't work for some reason
 SELECT Inf IF (0 V) (-1/1 ("can")) ;
 SELECT Inf IF (0 V) (-1/1 ("shall")) ;
@@ -374,12 +378,23 @@ SELECT Cnjsub IF (0 Det) (-1 Vblex) (1 Adj) (2 N) ;
 REMOVE Cnjsub IF (0 Det) (0 Prn) (1 _S_DELIMITERS_) ;
 
 
+#  Both (Cnjcoo/Det/Prn)
+
+SELECT Cnjcoo IF (0 Both) (1C Nsg) (NOT 2C Npl) ;
+SELECT Cnjcoo IF (0 Both) (1C Adj) (NOT 2C Npl) ;
+SELECT Cnjcoo IF (0 Both) (1C Adj) (2C Nsg) (NOT 3C Npl) ;
+SELECT Det IF (0 Both) (1C Nsg) (2C Npl) ;
+SELECT Det IF (0 Both) (1C Adj) (2C Npl) ;
+SELECT Det IF (0 Both) (1C Adj) (2C Nsg) (3C Npl) ;
+SELECT Prn IF (0 Both) (-1 PrnSubj) ;
+
+
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
 
 REMOVE Det IF (0 Det) (-1 Det) ;
-SELECT Det IF (0 Det) (0 Prn) (1C N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2C N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3C N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2 N) ;
+SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3 N) ;
 
 
 #  Lemmas that are Det or Prn: Remove Det
@@ -411,6 +426,7 @@ SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Adj) (3 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Num) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Num) (2 N) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Prn) ;
 REMOVE Pr IF (0 Adv) (0 Pr) ;
 
 
