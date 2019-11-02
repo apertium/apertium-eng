@@ -1,0 +1,100 @@
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License as published by
+#the Free Software Foundation, either version 3 of the License, or
+#(at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License
+#along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+DELIMITERS = "<.>" "<..>" "<...>" "<!>" "<?>" "<¶>" sent ;
+SOFT-DELIMITERS = "<,>" ;
+SUBREADINGS = LTR ;
+
+LIST BOS = (>>>) ;
+LIST EOS = (<<<) ;
+
+SETS
+
+LIST N = n ;
+LIST Np = np ;
+LIST Prn = prn ;
+LIST PrnObj = (prn obj) ;
+LIST PrnSubj = (prn subj) ;
+LIST Det = det ;
+LIST Adj = adj ;
+LIST Predet = predet ;
+LIST Preadv = preadv ;
+LIST Adv = adv ;
+LIST AdvItg = (adv itg) ;
+LIST Pr = pr ;
+LIST Ger = ger ;
+LIST Pprs = pprs ;
+LIST Subs = subs ;
+LIST Num = num ;
+LIST Rel = (prn rel) ;
+LIST Ij = ij ;
+LIST Cnjadv = cnjadv ;
+LIST Cnjcoo = cnjcoo ;
+LIST Cnjsub = cnjsub ;
+LIST V = vblex vbser vaux vbmod vbhaver vbdo ;
+LIST Vblex = vblex ;
+LIST Vbser = vbser ;
+LIST Vbhaver = vbhaver ;
+LIST Vbdo = vbdo ;
+LIST Vbaux = vaux ;
+LIST Vbmod = vbmod ;
+LIST Gen = gen ;
+LIST Apos = apos ;
+LIST Not = "not" ;
+SET Please = ("please" adv) | ("please" ij) ;
+SET Imp = (vblex imp) | (vbser imp) | (vbdo imp) ;
+SET Inf = (vblex inf) | (vbmod inf) | (vaux inf) | (vbser inf) | (vbhaver inf) | (vbdo inf) ;
+SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
+SET Pres = (vblex pres) | (vbmod pres) | (vaux pres) | (vbser pres) | (vbhaver pres) | (vbdo pres) ;
+SET Past = (vblex past) | (vbmod past) | (vaux past) | (vbser past) | (vbhaver past) | (vbdo past) ;
+
+LIST Could = ("can" vbmod past) ;
+LIST Will = ("will" vbmod pres) ;
+LIST ArtV = (vbser pres p2 sg) ;
+LIST By = ("by" pr) ;
+LIST ThatCnj = ("that" cnjsub) ;
+
+LIST Sg = sg ;
+LIST Pl = pl ;
+LIST Sp = sp ;
+LIST M = m ;
+LIST F = f ;
+LIST Nt = nt ;
+LIST Mf = mf ;
+LIST The = "the" ;
+LIST Fin = pres past imp ;
+LIST To = "to" ;
+SET Pers = (p1) | (p2) | (p3) ;
+
+LIST P1 = p1 ;
+LIST P2 = p2 ;
+LIST P3 = p3 ;
+
+LIST PrnSubjP1Sg = (prn subj p1 mf sg) ;
+LIST PrnSubjP1Pl = (prn subj p1 mf pl) ;
+LIST PrnSubjP2Sp = (prn subj p2 mf sp) ;
+LIST PrnSubjP2Sg = (prn subj p2 mf sg) ;
+
+LIST Letters = "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" ;
+
+LIST Ing = "<.*ing>"ri ;
+LIST Cm = cm ;
+LIST Sup = sup ;
+LIST Supadj = (adj sint sup) ;
+List Nsg = (n sg) ;
+List As = "as" ;
+
+
+SECTION
+
+ADD (@SUBJ) (subj);
