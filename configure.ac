@@ -1,10 +1,6 @@
-#
-# Process this file with autogen to produce a configure script.
-#
-
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium English], [0.1.0], [francis.tyers@gmail.com], [apertium-eng], [http://wiki.apertium.org/wiki/Apertium-eng])
+AC_INIT([Apertium English], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-eng], [http://wiki.apertium.org/wiki/Apertium-eng])
 AM_INIT_AUTOMAKE
 
 PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.0)
