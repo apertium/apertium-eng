@@ -25,6 +25,7 @@ LIST Np = np ;
 LIST Prn = prn ;
 LIST PrnObj = (prn obj) ;
 LIST PrnSubj = (prn subj) ;
+LIST PrnItg = (prn itg) ;
 LIST Det = det ;
 LIST Adj = adj ;
 LIST Predet = predet ;
@@ -487,6 +488,7 @@ SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbdo) (1 Inf) ;
 SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-1 Vbhaver) (1 Pp) ;
 
 SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-2 AdvItg) (-1 Vbser) ;
+SELECT PrnSubj IF (0 PrnSubj) (0 PrnObj) (-2 PrnItg) (-1 Vbser) ;
 
 SELECT PrnObj IF (0 PrnSubj) (0 PrnObj) (-1 Imp) ;
 
@@ -510,6 +512,7 @@ REMOVE ("second"i n) IF (1 (n)) ;
 #REMOVE PrnObj IF (-1 V) (-2 BOS) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
 SELECT AdvItg IF (-1 BOS) ;
+SELECT PrnItg IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
 SELECT SUB:1 Vbser IF (1 Ing) (0/* Vbhaver) ;
 SELECT Ger IF (-1/* Vbser) (1 To) ;
