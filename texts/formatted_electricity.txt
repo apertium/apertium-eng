@@ -1,0 +1,1626 @@
+"<Electricity>"
+	"electricity" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<set>"
+	"set" n sg
+;	"set" vblex inf
+;	"set" vblex pres
+;	"set" vblex past
+;	"set" vblex pp
+;	"set" vblex imp
+"<of>"
+	"of" pr
+"<physical>"
+	"physical" adj
+	"physical" adv
+"<phenomena>"
+	"*phenomena"
+"<associated with>"
+	"associate# with" vblex past
+;	"associate# with" vblex pp
+"<the>"
+	"the" det def sp
+"<presence>"
+	"presence" n sg
+"<and>"
+	"and" cnjcoo
+"<motion>"
+	"motion" n sg
+"<of>"
+	"of" pr
+"<matter>"
+	"matter" n sg
+;	"matter" vblex inf
+;	"matter" vblex pres
+;	"matter" vblex imp
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<has>"
+;	"have" vbhaver pres p3 sg
+	"have" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<property>"
+	"property" n sg
+"<of>"
+	"of" pr
+"<electric>"
+	"electric" adj
+"<charge>"
+	"charge" n sg
+;	"charge" vblex inf
+;	"charge" vblex pres
+;	"charge" vblex imp
+"<.>"
+	"." sent
+"<In>"
+	"in" adv
+	"in" pr
+"<early>"
+	"early" adv
+	"early" adj sint
+"<days>"
+	"day" n pl
+"<,>"
+	"," cm
+"<electricity>"
+	"electricity" n sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<considered>"
+;	"consider" vblex pp
+	"consider" vblex past
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<being>"
+;	"being" n sg
+;	"be" vbser pprs
+;	"be" vbser subs
+	"be" vbser ger
+"<unrelated>"
+	"unrelated" adj
+"<to>"
+	"to" pr
+"<magnetism>"
+	"magnetism" n sg
+"<.>"
+	"." sent
+"<Later on>"
+	"later on" adv
+"<,>"
+	"," cm
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<experimental>"
+	"experimental" adj
+"<results>"
+	"result" n pl
+;	"result" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<the>"
+	"the" det def sp
+"<development>"
+	"development" n sg
+"<of>"
+	"of" pr
+"<Maxwell>"
+	"maxwell" n sg
+;	"Maxwell" np cog sg
+;	"Maxwell" np ant m sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<equations>"
+	"equation" n pl
+"<indicated>"
+	"indicate" vblex past
+;	"indicate" vblex pp
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<both>"
+	"both" cnjcoo
+;	"both" det ind pl
+;	"both" prn ind mf pl
+"<electricity>"
+	"electricity" n sg
+"<and>"
+	"and" cnjcoo
+"<magnetism>"
+	"magnetism" n sg
+"<are>"
+	"be" vbser pres
+"<from>"
+	"from" pr
+"<a>"
+	"a" det ind sg
+"<single>"
+	"single" adj
+;	"single" n sg
+"<phenomenon>"
+	"phenomenon" n sg
+"<:>"
+	":" sent
+"<electromagnetism>"
+	"electromagnetism" n sg
+"<.>"
+	"." sent
+"<Various>"
+	"various" adj
+;	"various" det ind pl
+"<common>"
+;	"common" adj
+	"common" n sg
+"<phenomena>"
+	"*phenomena"
+"<are>"
+	"be" vbser pres
+"<related>"
+;	"related" adj
+	"relate" vblex past
+;	"relate" vblex pp
+"<to>"
+	"to" pr
+"<electricity>"
+	"electricity" n sg
+"<,>"
+	"," cm
+"<including>"
+;	"including" adv
+;	"including" pr
+;	"include" vblex pprs
+	"include" vblex subs
+;	"include" vblex ger
+"<lightning>"
+	"lightning" n sg
+"<,>"
+	"," cm
+"<static>"
+	"static" adj
+;	"static" n sg
+"<electricity>"
+	"electricity" n sg
+"<,>"
+	"," cm
+"<electric>"
+	"electric" adj
+"<heating>"
+	"heating" n sg
+;	"heat" vblex pprs
+;	"heat" vblex subs
+;	"heat" vblex ger
+"<,>"
+	"," cm
+"<electric>"
+	"electric" adj
+"<discharges>"
+	"discharge" n pl
+;	"discharge" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<others>"
+	"others" prn ind mf pl
+"<..>"
+	".." sent
+
+
+"<The>"
+	"the" det def sp
+"<presence>"
+	"presence" n sg
+"<of>"
+	"of" pr
+"<an>"
+	"a" det ind sg
+"<electric>"
+	"electric" adj
+"<charge>"
+	"charge" n sg
+;	"charge" vblex inf
+;	"charge" vblex pres
+;	"charge" vblex imp
+"<,>"
+	"," cm
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<either>"
+;	"either" adv
+	"either" cnjcoo
+;	"either" det ind sg
+;	"either" prn qnt mf sp
+"<positive>"
+	"positive" adj
+;	"positive" adv
+;	"positive" n sg
+"<or>"
+	"or" cnjcoo
+"<negative>"
+	"negative" adj
+"<,>"
+	"," cm
+"<produces>"
+	"produce" n pl
+;	"produce" vblex pres p3 sg
+"<an>"
+	"a" det ind sg
+"<electric>"
+	"electric" adj
+"<field>"
+;	"field" n sg
+;	"field" vblex inf
+	"field" vblex pres
+;	"field" vblex imp
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<movement>"
+	"movement" n sg
+"<of>"
+	"of" pr
+"<electric>"
+	"electric" adj
+"<charges>"
+;	"charge" n pl
+	"charge" vblex pres p3 sg
+"<is>"
+	"be" vbser pres p3 sg
+"<an>"
+	"a" det ind sg
+"<electric current>"
+	"electric current" n sg
+"<and>"
+	"and" cnjcoo
+"<produces>"
+;	"produce" n pl
+	"produce" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<magnetic field>"
+	"magnetic field" n sg
+"<..>"
+	".." sent
+
+
+"<When>"
+;	"when" adv
+;	"when" cnjsub
+	"when" cnjadv
+;	"when" adv itg
+"<a>"
+	"a" det ind sg
+"<charge>"
+;	"charge" n sg
+;	"charge" vblex inf
+	"charge" vblex pres
+;	"charge" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<placed>"
+;	"placed" adj
+	"place" vblex past
+;	"place" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<location>"
+	"location" n sg
+"<with>"
+	"with" pr
+"<a>"
+	"a" det ind sg
+"<non>"
+	"non" adv
+"<->"
+	"-" guio
+"<zero>"
+	"zero" num sg
+	"zero" n sg
+"<electric>"
+	"electric" adj
+"<field>"
+;	"field" n sg
+;	"field" vblex inf
+	"field" vblex pres
+;	"field" vblex imp
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<force>"
+;	"force" n sg
+;	"force" vblex inf
+	"force" vblex pres
+;	"force" vblex imp
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+;	"will" vbmod pres
+	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<act>"
+	"act" n sg
+;	"act" vblex inf
+;	"act" vblex pres
+;	"act" vblex imp
+"<on>"
+;	"on" adv
+	"on" pr
+"<it>"
+;	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<magnitude>"
+	"magnitude" n sg
+"<of>"
+	"of" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<force>"
+;	"force" n sg
+;	"force" vblex inf
+	"force" vblex pres
+;	"force" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<given>"
+;	"given" adj
+	"give" vblex pp
+;	"given" n sg
+"<by>"
+	"by" adv
+;	"by" pr
+"<Coulomb>"
+	"coulomb" n sg
+;	"Coulomb" np cog sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<law>"
+	"law" n sg
+"<.>"
+	"." sent
+"<Thus>"
+;	"thus" adv
+;	"thus" cnjcoo
+	"thus" cnjadv
+"<,>"
+	"," cm
+"<if>"
+;	"if" adv
+	"if" cnjsub
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<charge>"
+;	"charge" n sg
+;	"charge" vblex inf
+	"charge" vblex pres
+;	"charge" vblex imp
+"<were>"
+	"be" vbser past
+"<to>"
+	"to" pr
+"<move>"
+	"move" n sg
+;	"move" vblex inf
+;	"move" vblex pres
+;	"move" vblex imp
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<electric>"
+	"electric" adj
+"<field>"
+;	"field" n sg
+;	"field" vblex inf
+	"field" vblex pres
+;	"field" vblex imp
+"<would>"
+	"will" vbmod past
+"<be>"
+	"be" vbser inf
+"<doing>"
+;	"do" vblex pprs
+;	"do" vaux pprs
+;	"do" vbdo pprs
+	"do" vblex subs
+;	"do" vaux subs
+;	"do" vbdo subs
+;	"do" vblex ger
+;	"do" vaux ger
+;	"do" vbdo ger
+";;<work>"
+	"work" n sg
+;	"work" vblex inf
+;	"work" vblex pres
+;	"work" vblex imp
+"<on>"
+;	"on" adv
+	"on" pr
+"<the>"
+	"the" det def sp
+"<electric>"
+	"electric" adj
+"<charge>"
+;	"charge" n sg
+;	"charge" vblex inf
+	"charge" vblex pres
+;	"charge" vblex imp
+"<.>"
+	"." sent
+"<Thus>"
+;	"thus" adv
+	"thus" cnjcoo
+;	"thus" cnjadv
+"<we>"
+	"prpers" prn subj p1 mf pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<speak>"
+;	"speak" vblex inf
+	"speak" vblex pres
+;	"speak" vblex imp
+"<of>"
+	"of" pr
+"<electric>"
+	"electric" adj
+"<potential>"
+	"potential" adj
+;	"potential" n sg
+"<at>"
+	"at" pr
+"<a>"
+	"a" det ind sg
+"<certain>"
+	"certain" adj
+"<point>"
+;	"point" n sg
+;	"point" adj sint
+;	"point" vblex inf
+	"point" vblex pres
+;	"point" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<space>"
+;	"space" adj
+	"space" n sg
+;	"space" vblex inf
+;	"space" vblex pres
+;	"space" vblex imp
+"<,>"
+	"," cm
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<equal>"
+	"equal" adj
+;	"equal" adv
+;	"equal" n sg
+;	"equal" vblex inf
+;	"equal" vblex pres
+;	"equal" vblex imp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<work>"
+;	"work" n sg
+;	"work" vblex inf
+	"work" vblex pres
+;	"work" vblex imp
+"<done>"
+	"do" vblex pp
+;	"do" vaux pp
+;	"do" vbdo pp
+"<by>"
+	"by" adv
+;	"by" pr
+"<an>"
+	"a" det ind sg
+"<external>"
+	"external" adj
+"<agent>"
+	"agent" n sg
+"<in>"
+	"in" adv
+	"in" pr
+"<carrying>"
+;	"carry" vblex pprs
+	"carry" vblex subs
+;	"carry" vblex ger
+"<a>"
+	"a" det ind sg
+"<unit>"
+	"unit" n sg
+"<of>"
+	"of" pr
+"<positive>"
+;	"positive" adj
+	"positive" adv
+;	"positive" n sg
+"<charge>"
+;	"charge" n sg
+;	"charge" vblex inf
+	"charge" vblex pres
+;	"charge" vblex imp
+"<from>"
+	"from" pr
+"<an>"
+	"a" det ind sg
+"<arbitrarily>"
+	"arbitrarily" adv
+"<chosen>"
+;	"chosen" adj
+	"choose" vblex pp
+"<reference>"
+;	"reference" n sg
+;	"reference" vblex inf
+	"reference" vblex pres
+;	"reference" vblex imp
+"<point>"
+;	"point" n sg
+;	"point" adj sint
+;	"point" vblex inf
+	"point" vblex pres
+;	"point" vblex imp
+"<to>"
+	"to" pr
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<point>"
+;	"point" n sg
+;	"point" adj sint
+;	"point" vblex inf
+	"point" vblex pres
+;	"point" vblex imp
+"<without>"
+;	"without" adv
+	"without" pr
+"<any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<acceleration>"
+	"acceleration" n sg
+"<and>"
+	"and" cnjcoo
+"<is>"
+	"be" vbser pres p3 sg
+"<typically>"
+	"typically" adv
+"<measured>"
+;	"measured" adj
+	"measure" vblex past
+;	"measure" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<volts>"
+	"volt" n pl
+"<..>"
+	".." sent
+
+
+"<Electricity>"
+	"electricity" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<heart>"
+	"heart" n sg
+"<of>"
+	"of" pr
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<modern>"
+	"modern" adj
+"<technologies>"
+	"technology" n pl
+"<,>"
+	"," cm
+"<being>"
+;	"being" n sg
+;	"be" vbser pprs
+	"be" vbser subs
+;	"be" vbser ger
+"<used>"
+	"use" vblex past
+;	"use" vblex pp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<:.>"
+	":." sent
+
+
+    
+"<electric power>"
+	"electric power" n sg
+"<where>"
+;	"where" adv
+	"where" adv itg
+"<electric current>"
+	"electric current" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<used to>"
+;	"use# to" vblex past
+	"use# to" vblex pp
+"<energise>"
+	"energise" vblex inf
+;	"energise" vblex pres
+;	"energise" vblex imp
+"<equipment>"
+	"equipment" n sg
+"<;>"
+	";" sent
+
+    
+"<electronics>"
+	"electronics" n sg
+;	"electronics" n pl
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<deals with>"
+	"deal# with" vblex pres p3 sg
+"<electrical>"
+	"electrical" adj
+"<circuits>"
+	"circuit" n pl
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<involve>"
+;	"involve" vblex inf
+	"involve" vblex pres
+;	"involve" vblex imp
+"<active>"
+	"active" adj
+"<electrical>"
+	"electrical" adj
+"<components>"
+	"component" n pl
+"<such as>"
+	"such as" adv
+	"such as" pr
+"<vacuum>"
+	"vacuum" n sg
+"<tubes>"
+;	"tube" n pl
+	"tube" vblex pres p3 sg
+"<,>"
+	"," cm
+"<transistors>"
+	"transistor" n pl
+"<,>"
+	"," cm
+"<diodes>"
+	"diode" n pl
+"<and>"
+	"and" cnjcoo
+"<integrated>"
+;	"integrated" adj
+	"integrate" vblex past
+;	"integrate" vblex pp
+"<circuits>"
+	"circuit" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<associated>"
+	"associate" vblex past
+;	"associate" vblex pp
+"<passive>"
+;	"passive" adj
+	"passive" n sg
+"<interconnection>"
+	"interconnection" n sg
+"<technologies>"
+	"technology" n pl
+"<..>"
+	".." sent
+
+
+"<Electrical>"
+	"electrical" adj
+"<phenomena>"
+	"*phenomena"
+"<have>"
+;	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<been>"
+	"be" vbser pp
+"<studied>"
+;	"study" vblex pp
+	"study" vblex past
+"<since>"
+;	"since" adv
+	"since" cnjsub
+;	"since" pr
+"<antiquity>"
+	"antiquity" n sg
+"<,>"
+	"," cm
+"<though>"
+;	"though" adv
+	"though" cnjsub
+;	"though" cnjadv
+"<progress>"
+;	"progress" n sg
+;	"progress" vblex inf
+	"progress" vblex pres
+;	"progress" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<theoretical>"
+	"theoretical" adj
+"<understanding>"
+;	"understanding" adj
+;	"understanding" n sg
+;	"understand" vblex pprs
+	"understand" vblex subs
+;	"understand" vblex ger
+"<remained>"
+;	"remain" vblex pp
+	"remain" vblex past
+"<slow>"
+	"slow" adv
+;	"slow" adj sint
+;	"slow" vblex inf
+;	"slow" vblex pres
+;	"slow" vblex imp
+"<until>"
+;	"until" cnjsub
+	"until" cnjadv
+;	"until" pr
+"<the>"
+	"the" det def sp
+"<seventeenth>"
+	"seventeenth" adj ord
+"<and>"
+	"and" cnjcoo
+"<eighteenth>"
+	"eighteenth" adj ord
+"<centuries>"
+	"century" n pl
+"<.>"
+	"." sent
+"<Even>"
+;	"even" adj
+;	"even" adv
+	"Even" np ant m sg
+"<then>"
+;	"then" adv
+	"then" cnjadv
+"<,>"
+	"," cm
+"<practical>"
+	"practical" adj
+"<applications>"
+	"application" n pl
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<electricity>"
+	"electricity" n sg
+"<were>"
+	"be" vbser past
+"<few>"
+;	"few" adj sint
+	"few" det qnt pl
+;	"few" prn ind mf pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<would>"
+	"will" vbmod past
+"<not>"
+	"not" adv
+"<be>"
+	"be" vbser inf
+"<until>"
+	"until" cnjsub
+;	"until" cnjadv
+;	"until" pr
+"<the>"
+	"the" det def sp
+"<late>"
+	"late" adv
+;	"late" adj sint
+"<nineteenth>"
+	"nineteenth" adj ord
+"<century>"
+	"century" n sg
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<electrical>"
+	"electrical" adj
+"<engineers>"
+;	"engineer" n pl
+	"engineer" vblex pres p3 sg
+"<were able to>"
+	"be# able to" vbser past
+"<put>"
+;	"put" vblex inf
+	"put" vblex pres
+;	"put" vblex past
+;	"put" vblex pp
+;	"put" vblex imp
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<to>"
+	"to" pr
+"<industrial>"
+	"industrial" adj
+"<and>"
+	"and" cnjcoo
+"<residential>"
+	"residential" adj
+"<use>"
+	"use" n sg
+;	"use" vblex inf
+;	"use" vblex pres
+;	"use" vblex imp
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<rapid>"
+	"rapid" adj
+;	"rapid" n sg
+"<expansion>"
+	"expansion" n sg
+"<in>"
+	"in" adv
+;	"in" pr
+"<electrical>"
+	"electrical" adj
+"<technology>"
+	"technology" n sg
+"<at this time>"
+	"at this time" adv
+"<transformed>"
+;	"transform" vblex pp
+	"transform" vblex past
+"<industry>"
+	"industry" n sg
+"<and>"
+	"and" cnjcoo
+"<society>"
+	"society" n sg
+"<,>"
+	"," cm
+"<becoming>"
+;	"become" vblex pprs
+	"become" vblex subs
+;	"become" vblex ger
+"<a>"
+	"a" det ind sg
+"<driving>"
+;	"driving" n sg
+;	"drive" vblex pprs
+	"drive" vblex subs
+;	"drive" vblex ger
+"<force>"
+	"force" n sg
+;	"force" vblex inf
+;	"force" vblex pres
+;	"force" vblex imp
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<the>"
+	"the" det def sp
+"<Second>"
+	"second" adv
+;	"second" n sg
+	"second" adj ord
+;	"second" vblex inf
+;	"second" vblex pres
+;	"second" vblex imp
+"<Industrial>"
+	"industrial" adj
+"<Revolution>"
+	"revolution" n sg
+"<.>"
+	"." sent
+"<Electricity>"
+	"electricity" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<extraordinary>"
+	"extraordinary" adj
+"<versatility>"
+	"versatility" n sg
+"<means>"
+;	"mean" n pl
+;	"means" n sg
+;	"means" n pl
+	"mean" vblex pres p3 sg
+"<it>"
+;	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+;	"can" vbmod pres
+;	"can" vblex inf
+	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<put>"
+;	"put" vblex inf
+;	"put" vblex pres
+	"put" vblex past
+;	"put" vblex pp
+;	"put" vblex imp
+"<to>"
+	"to" pr
+"<an>"
+	"a" det ind sg
+"<almost>"
+	"almost" adv
+"<limitless>"
+	"limitless" adj
+"<set>"
+;	"set" n sg
+;	"set" vblex inf
+;	"set" vblex pres
+	"set" vblex past
+;	"set" vblex pp
+;	"set" vblex imp
+"<of>"
+	"of" pr
+"<applications>"
+	"application" n pl
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<transport>"
+;	"transport" n sg
+;	"transport" vblex inf
+	"transport" vblex pres
+;	"transport" vblex imp
+"<,>"
+	"," cm
+"<heating>"
+;	"heating" n sg
+;	"heat" vblex pprs
+	"heat" vblex subs
+;	"heat" vblex ger
+"<,>"
+	"," cm
+"<lighting>"
+;	"lighting" n sg
+;	"light" vblex pprs
+	"light" vblex subs
+;	"light" vblex ger
+"<,>"
+	"," cm
+"<communications>"
+	"communication" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<computation>"
+	"computation" n sg
+"<.>"
+	"." sent
+"<Electrical>"
+	"electrical" adj
+"<power>"
+;	"power" n sg
+;	"power" vblex inf
+	"power" vblex pres
+;	"power" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<now>"
+	"now" adv
+"<the>"
+	"the" det def sp
+"<backbone>"
+	"backbone" n sg
+"<of>"
+	"of" pr
+"<modern>"
+	"modern" adj
+"<industrial>"
+	"industrial" adj
+"<society>"
+	"society" n sg
+"<..>"
+	".." sent
+
+
+"<Long>"
+	"long" adv
+;	"long" adj sint
+;	"long" vblex inf
+;	"long" vblex pres
+;	"long" vblex imp
+;	"Long" np cog sg
+"<before>"
+;	"before" adv
+;	"before" cnjadv
+	"before" pr
+"<any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<knowledge>"
+	"knowledge" n sg
+"<of>"
+	"of" pr
+"<electricity>"
+	"electricity" n sg
+"<existed>"
+;	"exist" vblex pp
+	"exist" vblex past
+"<,>"
+	"," cm
+"<people>"
+;	"people" n sg
+	"person" n pl
+"<were>"
+	"be" vbser past
+"<aware>"
+	"aware" adj
+"<of>"
+	"of" pr
+"<shocks>"
+;	"shock" n pl
+	"shock" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<electric>"
+	"electric" adj
+"<fish>"
+;	"fish" n sg
+;	"fish" n pl
+;	"fish" vblex inf
+	"fish" vblex pres
+;	"fish" vblex imp
+"<.>"
+	"." sent
+"<Ancient>"
+	"ancient" adj
+"<Egyptian>"
+;	"Egyptian" adj
+	"Egyptian" n sg
+"<texts>"
+	"text" n pl
+"<dating>"
+;	"dating" n sg
+;	"date" vblex pprs
+	"date" vblex subs
+;	"date" vblex ger
+"<from>"
+	"from" pr
+"<2750>"
+	"2750" num
+"<BCE>"
+	"*BCE"
+"<referred to>"
+	"refer# to" vblex past
+;	"refer# to" vblex pp
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<fish>"
+;	"fish" n sg
+	"fish" n pl
+;	"fish" vblex inf
+;	"fish" vblex pres
+;	"fish" vblex imp
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<the>"
+	"the" det def sp
+ "
+"<Thunderer>"
+	"*Thunderer"
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<Nile>"
+	"Nile" np top sg
+"
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<described>"
+	"describe" vblex past
+;	"describe" vblex pp
+"<them>"
+	"that" prn dem pl
+;	"prpers" prn obj p3 mf pl
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<the>"
+	"the" det def sp
+ "
+"<protectors>"
+	"protector" n pl
+" 
+"<of>"
+	"of" pr
+"<all>"
+;	"all" adv
+;	"all" predet sp
+	"all" det qnt pl
+;	"all" prn qnt mf sp
+"<other>"
+	"other" det ind sp
+"<fish>"
+;	"fish" n sg
+;	"fish" n pl
+;	"fish" vblex inf
+	"fish" vblex pres
+;	"fish" vblex imp
+"<.>"
+	"." sent
+"<Electric>"
+	"electric" adj
+"<fish>"
+;	"fish" n sg
+	"fish" n pl
+;	"fish" vblex inf
+;	"fish" vblex pres
+;	"fish" vblex imp
+"<were>"
+	"be" vbser past
+"<again>"
+	"again" adv
+"<reported>"
+;	"report" vblex pp
+	"report" vblex past
+"<millennia>"
+	"*millennia"
+"<later>"
+	"later" adv
+	"late" adj sint comp
+"<by>"
+;	"by" adv
+	"by" pr
+"<ancient Greek>"
+	"Ancient Greek" adj
+"<,>"
+	"," cm
+"<Roman>"
+;	"Roman" adj
+	"Roman" n sg
+;	"Roman" np ant m sg
+"<and>"
+	"and" cnjcoo
+"<Arabic>"
+;	"Arabic" adj
+	"Arabic" n sg
+"<naturalists>"
+	"*naturalists"
+"<and>"
+	"and" cnjcoo
+"<physicians>"
+	"physician" n pl
+"<.>"
+	"." sent
+"<[>"
+	"[" lpar
+"<2>"
+	"2" num
+"<]>"
+	"]" rpar
+"<Several>"
+	"several" det ind pl
+;	"several" prn ind mf pl
+"<ancient>"
+	"ancient" adj
+"<writers>"
+	"writer" n pl
+"<,>"
+	"," cm
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<Pliny>"
+	"Pliny" np ant m sg
+"<the>"
+	"the" det def sp
+"<Elder>"
+	"elder" adj
+;	"elder" n sg
+"<and>"
+	"and" cnjcoo
+"<Scribonius>"
+	"*Scribonius"
+"<Largus>"
+	"*Largus"
+"<,>"
+	"," cm
+"<attested>"
+	"attest" vblex pp
+	"attest" vblex past
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<numbing>"
+	"*numbing"
+"<effect>"
+;	"effect" n sg
+;	"effect" vblex inf
+	"effect" vblex pres
+;	"effect" vblex imp
+"<of>"
+	"of" pr
+"<electric>"
+	"electric" adj
+"<shocks>"
+	"shock" n pl
+;	"shock" vblex pres p3 sg
+"<delivered>"
+;	"deliver" vblex pp
+	"deliver" vblex past
+"<by>"
+;	"by" adv
+	"by" pr
+"<electric>"
+	"electric" adj
+"<catfish>"
+;	"catfish" n sg
+	"catfish" n pl
+"<and>"
+	"and" cnjcoo
+"<electric>"
+	"electric" adj
+"<rays>"
+	"ray" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<knew>"
+	"know" vblex past
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<such>"
+;	"such" adv
+	"such" det ind sp
+"<shocks>"
+;	"shock" n pl
+	"shock" vblex pres p3 sg
+"<could>"
+	"can" vbmod past
+"<travel>"
+;	"travel" n sg
+;	"travel" vblex inf
+	"travel" vblex pres
+;	"travel" vblex imp
+"<along>"
+	"along" pr
+"<conducting>"
+;	"conduct" vblex pprs
+	"conduct" vblex subs
+;	"conduct" vblex ger
+"<objects>"
+;	"object" n pl
+	"object" vblex pres p3 sg
+"<.>"
+	"." sent
+"<[>"
+	"[" lpar
+"<3>"
+	"3" num
+"<]>"
+	"]" rpar
+"<Patients>"
+	"patient" n pl
+"<suffering>"
+;	"suffering" n sg
+;	"suffer" vblex pprs
+	"suffer" vblex subs
+;	"suffer" vblex ger
+"<from>"
+	"from" pr
+"<ailments>"
+	"ailment" n pl
+
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<gout>"
+	"gout" n sg
+"<or>"
+	"or" cnjcoo
+"<headache>"
+	"headache" n sg
+"<were>"
+	"be" vbser past
+"<directed>"
+;	"direct" vblex pp
+	"direct" vblex past
+"<to>"
+	"to" pr
+"<touch>"
+;	"touch" n sg
+;	"touch" vblex inf
+	"touch" vblex pres
+;	"touch" vblex imp
+"<electric>"
+	"electric" adj
+"<fish>"
+;	"fish" n sg
+	"fish" n pl
+;	"fish" vblex inf
+;	"fish" vblex pres
+;	"fish" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<hope>"
+;	"hope" n sg
+;	"hope" vblex inf
+	"hope" vblex pres
+;	"hope" vblex imp
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<powerful>"
+	"powerful" adj
+"<jolt>"
+;	"jolt" n sg
+;	"jolt" vblex inf
+	"jolt" vblex pres
+;	"jolt" vblex imp
+"<might>"
+;	"might" vbmod inf
+	"might" vbmod pres
+"<cure>"
+;	"cure" n sg
+;	"cure" vblex inf
+	"cure" vblex pres
+;	"cure" vblex imp
+"<them>"
+	"that" prn dem pl
+;	"prpers" prn obj p3 mf pl
+"<.>"
+	"." sent
+"<[>"
+	"[" lpar
+"<4>"
+	"4" num
+"<]>"
+	"]" rpar
+"<Possibly>"
+	"possibly" adv
+"<the>"
+	"the" det def sp
+"<earliest>"
+	"early" adj sint sup
+"<and>"
+	"and" cnjcoo
+"<nearest>"
+	"near" adj sint sup
+"<approach>"
+;	"approach" n sg
+;	"approach" vblex inf
+	"approach" vblex pres
+;	"approach" vblex imp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<discovery>"
+	"discovery" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<identity>"
+	"identity" n sg
+"<of>"
+	"of" pr
+"<lightning>"
+	"lightning" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<electricity>"
+	"electricity" n sg
+"<from>"
+	"from" pr
+"<any>"
+;	"any" adv
+	"any" det ind sp
+;	"any" prn qnt mf sp
+"<other>"
+	"other" det ind sp
+"<source>"
+	"source" n sg
+"<,>"
+	"," cm
+"<is>"
+	"be" vbser pres p3 sg
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<attributed>"
+	"attribute" vblex past
+;	"attribute" vblex pp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<Arabs>"
+	"Arab" n pl
+"<,>"
+	"," cm
+"<who>"
+	"who" prn itg mf sp
+;	"who" prn rel an mf sp
+"<before>"
+;	"before" adv
+	"before" cnjadv
+;	"before" pr
+"<the>"
+	"the" det def sp
+"<15th century>"
+	"15th century" n sg
+"<had>"
+	"have" vbhaver past
+;	"have" vblex past
+"<the>"
+	"the" det def sp
+"<Arabic>"
+;	"Arabic" adj
+	"Arabic" n sg
+"<word>"
+	"word" n sg
+"<for>"
+	"for" cnjadv
+;	"for" pr
+"<lightning>"
+	"lightning" n sg
+"<ra>"
+	"*ra"
+‘
+"<ad>"
+	"ad" n sg
+"<(>"
+	"(" lpar
+"<رعد>"
+	"*رعد"
+"<)>"
+	")" rpar
+"<applied>"
+;	"apply" vblex pp
+	"apply" vblex past
+;	"applied" adj
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<electric>"
+	"electric" adj
+"<ray>"
+	"ray" n sg
+"<.>"
+	"." sent
+"<[>"
+	"[" lpar
+"<5>"
+	"5" num
+"<]>"
+	"]" rpar
+"<.>"
+	"." sent
+
+
+
+
