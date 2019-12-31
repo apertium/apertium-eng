@@ -1,15 +1,15 @@
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<is>"
 	"be" vbser pres p3 sg
 "<a>"
 	"a" det ind sg
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<of>"
 	"of" pr
 "<fantasy>"
@@ -17,20 +17,20 @@
 "<novels>"
 	"novel" n pl
 "<written>"
-;	"write" vblex pp
-	"written" adj
+	"write" vblex pp
+;	"written" adj
 "<by>"
 ;	"by" adv
 	"by" pr
 "<British>"
-;	"British" adj
+	"British" adj
 ;	"British" n sg
-	"British" n pl
+;	"British" n pl
 "<author>"
-;	"author" n sg
-	"author" vblex inf
-	"author" vblex pres
-	"author" vblex imp
+	"author" n sg
+;	"author" vblex inf
+;	"author" vblex pres
+;	"author" vblex imp
 "<J>"
 	"*J"
 "<.>"
@@ -48,15 +48,15 @@
 "<novels>"
 	"novel" n pl
 "<chronicle>"
-	"chronicle" n sg
+;	"chronicle" n sg
 ;	"chronicle" vblex inf
-;	"chronicle" vblex pres
+	"chronicle" vblex pres
 ;	"chronicle" vblex imp
 "<the>"
 	"the" det def sp
 "<lives>"
-;	"life" n pl
-	"live" vblex pres p3 sg
+	"life" n pl
+;	"live" vblex pres p3 sg
 "<of>"
 	"of" pr
 "<a>"
@@ -70,8 +70,8 @@
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<,>"
 	"," cm
 "<and>"
@@ -113,8 +113,8 @@
 "<Hogwarts>"
 	"Hogwarts" np top sg
 "<School>"
-	"school" adj
-;	"school" n sg
+;	"school" adj
+	"school" n sg
 "<of>"
 	"of" pr
 "<Witchcraft>"
@@ -134,44 +134,44 @@
 "<arc>"
 	"arc" n sg
 "<concerns>"
-	"concern" n pl
-;	"concern" vblex pres p3 sg
+;	"concern" n pl
+	"concern" vblex pres p3 sg
 "<Harry>"
 	"Harry" np ant m sg
 "<'s>"
-;	"'s" gen
-	"be" vbser pres p3 sg
-	"have" vbhaver pres p3 sg
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
 "<struggle>"
-	"struggle" n sg
-;	"struggle" vblex inf
+;	"struggle" n sg
+	"struggle" vblex inf
 ;	"struggle" vblex pres
 ;	"struggle" vblex imp
 "<against>"
 	"against" adj
 	"against" adv
-;	"against" pr
+	"against" pr
 "<Lord>"
-;	"lord" n sg
-	"lord" vblex inf
-	"lord" vblex pres
-	"lord" vblex imp
+	"lord" n sg
+;	"lord" vblex inf
+;	"lord" vblex pres
+;	"lord" vblex imp
 ;	"Lord" np cog sg
 "<Voldemort>"
-;	"Voldemort" np cog sg
-	"Voldemort" np ant m sg
+	"Voldemort" np cog sg
+;	"Voldemort" np ant m sg
 "<,>"
 	"," cm
 "<a>"
 	"a" det ind sg
 "<dark>"
-	"dark" n sg
-;	"dark" adj sint
+;	"dark" n sg
+	"dark" adj sint
 "<wizard>"
 	"wizard" n sg
 "<who>"
-	"who" prn itg mf sp
-;	"who" prn rel an mf sp
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
 "<intends>"
 	"intend" vblex pres p3 sg
 "<to>"
@@ -186,8 +186,8 @@
 "<,>"
 	"," cm
 "<overthrow>"
-	"overthrow" n sg
-;	"overthrow" vblex inf
+;	"overthrow" n sg
+	"overthrow" vblex inf
 ;	"overthrow" vblex pres
 ;	"overthrow" vblex imp
 "<the>"
@@ -195,10 +195,10 @@
 "<wizard>"
 	"wizard" n sg
 "<governing>"
-;	"governing" adj
-	"govern" vblex pprs
-	"govern" vblex subs
-	"govern" vblex ger
+	"governing" adj
+;	"govern" vblex pprs
+;	"govern" vblex subs
+;	"govern" vblex ger
 "<body>"
 	"body" n sg
 "<known>"
@@ -217,8 +217,8 @@
 "<of>"
 	"of" pr
 "<Magic>"
-	"magic" adj
-;	"magic" n sg
+;	"magic" adj
+	"magic" n sg
 "<and>"
 	"and" cnjcoo
 "<subjugate>"
@@ -252,33 +252,33 @@
 "<.>"
 	"." sent
 "<Since>"
-	"since" adv
-	"since" cnjsub
-;	"since" pr
+;	"since" adv
+;	"since" cnjsub
+	"since" pr
 "<the>"
 	"the" det def sp
 "<release>"
 ;	"release" n sg
 	"release" vblex inf
-	"release" vblex pres
-	"release" vblex imp
+;	"release" vblex pres
+;	"release" vblex imp
 "<of>"
 	"of" pr
 "<the>"
 	"the" det def sp
 "<first>"
-	"first" adv
-;	"first" adj ord
+;	"first" adv
+	"first" adj ord
 "<novel>"
-	"novel" adj
-;	"novel" n sg
+;	"novel" adj
+	"novel" n sg
 "<,>"
 	"," cm
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<and>"
 	"and" cnjcoo
 "<the>"
@@ -286,21 +286,21 @@
 "<Philosopher>"
 	"philosopher" n sg
 "<'s>"
-;	"'s" gen
-	"be" vbser pres p3 sg
-	"have" vbhaver pres p3 sg
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
 "<Stone>"
-;	"stone" n sg
-	"stone" vblex inf
-	"stone" vblex pres
-	"stone" vblex imp
-	"Stone" np cog sg
-	"Stone" np ant m sg
+	"stone" n sg
+;	"stone" vblex inf
+;	"stone" vblex pres
+;	"stone" vblex imp
+;	"Stone" np cog sg
+;	"Stone" np ant m sg
 "<,>"
 	"," cm
 "<on>"
-	"on" adv
-;	"on" pr
+;	"on" adv
+	"on" pr
 "<26>"
 	"26" num
 "<June>"
@@ -312,21 +312,21 @@
 "<the>"
 	"the" det def sp
 "<books>"
-;	"book" n pl
-	"book" vblex pres p3 sg
+	"book" n pl
+;	"book" vblex pres p3 sg
 "<have>"
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
+;	"have" vblex pres
+;	"have" vblex imp
 "<found>"
-	"found" adj
+;	"found" adj
 ;	"find" vblex past
-;	"find" vblex pp
-	"found" vblex inf
-	"found" vblex pres
-	"found" vblex imp
+	"find" vblex pp
+;	"found" vblex inf
+;	"found" vblex pres
+;	"found" vblex imp
 "<immense>"
 	"immense" adj
 "<popularity>"
@@ -336,19 +336,19 @@
 "<critical>"
 	"critical" adj
 "<acclaim>"
-;	"acclaim" vblex inf
+	"acclaim" vblex inf
 ;	"acclaim" vblex pres
 ;	"acclaim" vblex imp
 "<and>"
 	"and" cnjcoo
 "<commercial>"
-;	"commercial" adj
-	"commercial" n sg
+	"commercial" adj
+;	"commercial" n sg
 "<success>"
 	"success" n sg
 "<worldwide>"
-	"worldwide" adj
-;	"worldwide" adv
+;	"worldwide" adj
+	"worldwide" adv
 "<.>"
 	"." sent
 "<They>"
@@ -357,8 +357,8 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
+;	"have" vblex pres
+;	"have" vblex imp
 "<attracted>"
 	"attract" vblex pp
 ;	"attract" vblex past
@@ -395,8 +395,8 @@
 "<young>"
 	"young" adj sint
 "<adult>"
-;	"adult" adj
-	"adult" n sg
+	"adult" adj
+;	"adult" n sg
 "<literature>"
 	"literature" n sg
 "<.>"
@@ -418,55 +418,55 @@
 "<the>"
 	"the" det def sp
 "<books>"
-;	"book" n pl
-	"book" vblex pres p3 sg
+	"book" n pl
+;	"book" vblex pres p3 sg
 "<have>"
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
+;	"have" vblex pres
+;	"have" vblex imp
 "<sold>"
-	"sold" adj
-	"sell" vblex past
-;	"sell" vblex pp
+;	"sold" adj
+;	"sell" vblex past
+	"sell" vblex pp
 "<more than>"
 	"more than" pr
 "<500>"
 	"500" num
 "<million>"
-;	"million" num pl
+	"million" num pl
 ;	"million" n sg
 "<copies>"
-;	"copy" n pl
-	"copy" vblex pres p3 sg
+	"copy" n pl
+;	"copy" vblex pres p3 sg
 "<worldwide>"
-	"worldwide" adj
-;	"worldwide" adv
+;	"worldwide" adj
+	"worldwide" adv
 "<,>"
 	"," cm
 "<making>"
-;	"make" vblex pprs
-	"make" vblex subs
+	"make" vblex pprs
+;	"make" vblex subs
 ;	"make" vblex ger
 "<them>"
-	"that" prn dem pl
-;	"prpers" prn obj p3 mf pl
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
 "<the>"
 	"the" det def sp
 "<best-selling>"
 	"best-selling" adj
 "<book>"
-;	"book" n sg
-	"book" vblex inf
-	"book" vblex pres
-	"book" vblex imp
+	"book" n sg
+;	"book" vblex inf
+;	"book" vblex pres
+;	"book" vblex imp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<history>"
 	"history" n sg
 "<,>"
@@ -477,14 +477,14 @@
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
+;	"have" vblex pres
+;	"have" vblex imp
 "<been>"
 	"be" vbser pp
 "<translated>"
-	"translated" adj
-	"translate" vblex past
-;	"translate" vblex pp
+;	"translated" adj
+;	"translate" vblex past
+	"translate" vblex pp
 "<into>"
 	"into" pr
 "<eighty>"
@@ -496,27 +496,27 @@
 "<The>"
 	"the" det def sp
 "<last>"
-	"last" adj
-;	"last" adj ord
-	"last" vblex inf
-	"last" vblex pres
-	"last" vblex imp
+;	"last" adj
+	"last" adj ord
+;	"last" vblex inf
+;	"last" vblex pres
+;	"last" vblex imp
 "<four>"
 	"four" num pl
 "<books>"
-;	"book" n pl
-	"book" vblex pres p3 sg
+	"book" n pl
+;	"book" vblex pres p3 sg
 "<consecutively>"
 	"consecutively" adv
 "<set>"
-	"set" n sg
-;	"set" vblex inf
+;	"set" n sg
+	"set" vblex inf
 ;	"set" vblex pres
 ;	"set" vblex past
 ;	"set" vblex pp
-	"set" vblex imp
+;	"set" vblex imp
 "<records>"
-	"record" n pl
+;	"record" n pl
 	"record" vblex pres p3 sg
 "<as>"
 ;	"as" adv
@@ -531,12 +531,12 @@
 "<->"
 	"-" guio
 "<selling books>"
-;	"sell# books" vblex pprs
+	"sell# books" vblex pprs
 ;	"sell# books" vblex subs
-	"sell# books" vblex ger
+;	"sell# books" vblex ger
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<history>"
 	"history" n sg
 "<,>"
@@ -546,32 +546,32 @@
 "<the>"
 	"the" det def sp
 "<final>"
-;	"final" adj
-	"final" n sg
+	"final" adj
+;	"final" n sg
 "<instalment>"
 	"instalment" n sg
 "<selling>"
-;	"sell" vblex pprs
+	"sell" vblex pprs
 ;	"sell" vblex subs
-	"sell" vblex ger
+;	"sell" vblex ger
 "<roughly>"
 	"roughly" adv
 "<eleven>"
 	"eleven" num pl
 "<million>"
-;	"million" num pl
+	"million" num pl
 ;	"million" n sg
 "<copies>"
-;	"copy" n pl
-	"copy" vblex pres p3 sg
+	"copy" n pl
+;	"copy" vblex pres p3 sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the United States>"
 	"the United States" np top pl
 "<within>"
-	"within" adv
-;	"within" pr
+;	"within" adv
+	"within" pr
 "<twenty-four>"
 	"twenty-four" num pl
 "<hours>"
@@ -579,39 +579,39 @@
 "<of>"
 	"of" pr
 "<its>"
-;	"its" det pos sp
-	"prpers" det pos p3 nt sg
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
 "<release>"
-;	"release" n sg
-	"release" vblex inf
-	"release" vblex pres
-	"release" vblex imp
+	"release" n sg
+;	"release" vblex inf
+;	"release" vblex pres
+;	"release" vblex imp
 "<.>"
 	"." sent
 "<The>"
 	"the" det def sp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<was>"
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<originally>"
 	"originally" adv
 "<published>"
-	"publish" vblex pp
-;	"publish" vblex past
-	"published" adj
+;	"publish" vblex pp
+	"publish" vblex past
+;	"published" adj
 "<in English>"
 	"in English" adv
 "<by>"
-	"by" adv
-;	"by" pr
+;	"by" adv
+	"by" pr
 "<two>"
 	"two" num pl
 "<major>"
-;	"major" adj
-	"major" n sg
+	"major" adj
+;	"major" n sg
 "<publishers>"
 	"publisher" n pl
 "<,>"
@@ -619,8 +619,8 @@
 "<Bloomsbury>"
 	"Bloomsbury" np top sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the United Kingdom>"
 	"the United Kingdom" np top sg
 "<and>"
@@ -628,13 +628,13 @@
 "<Scholastic>"
 	"scholastic" adj
 "<Press>"
-;	"press" n sg
-	"press" vblex inf
-	"press" vblex pres
-	"press" vblex imp
+	"press" n sg
+;	"press" vblex inf
+;	"press" vblex pres
+;	"press" vblex imp
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the United States>"
 	"the United States" np top pl
 "<.>"
@@ -642,35 +642,35 @@
 "<A>"
 	"a" det ind sg
 "<play>"
-;	"play" n sg
-	"play" vblex inf
-	"play" vblex pres
-	"play" vblex imp
+	"play" n sg
+;	"play" vblex inf
+;	"play" vblex pres
+;	"play" vblex imp
 "<,>"
 	"," cm
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<and>"
 	"and" cnjcoo
 "<the>"
 	"the" det def sp
 "<Cursed>"
-;	"curse" vblex past
-	"curse" vblex pp
+	"curse" vblex past
+;	"curse" vblex pp
 "<Child>"
 	"child" n sg
 "<,>"
 	"," cm
 "<based>"
-	"based" adj
+;	"based" adj
 	"base" vblex past
 ;	"base" vblex pp
 "<on>"
-	"on" adv
-;	"on" pr
+;	"on" adv
+	"on" pr
 "<a>"
 	"a" det ind sg
 "<story>"
@@ -680,27 +680,27 @@
 "<->"
 	"-" guio
 "<written>"
-;	"write" vblex pp
-	"written" adj
+	"write" vblex pp
+;	"written" adj
 "<by>"
-	"by" adv
-;	"by" pr
+;	"by" adv
+	"by" pr
 "<Rowling>"
 	"Rowling" np cog sg
 "<,>"
 	"," cm
 "<premiered>"
-;	"premiere" vblex past
-	"premiere" vblex pp
+	"premiere" vblex past
+;	"premiere" vblex pp
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<London>"
-;	"London" np top sg
-	"London" np cog sg
+	"London" np top sg
+;	"London" np cog sg
 "<on>"
-	"on" adv
-;	"on" pr
+;	"on" adv
+	"on" pr
 "<30>"
 	"30" num
 "<July>"
@@ -720,51 +720,51 @@
 "<and>"
 	"and" cnjcoo
 "<its>"
-;	"its" det pos sp
-	"prpers" det pos p3 nt sg
+	"its" det pos sp
+;	"prpers" det pos p3 nt sg
 "<script>"
-;	"script" n sg
-	"script" vblex inf
-	"script" vblex pres
-	"script" vblex imp
+	"script" n sg
+;	"script" vblex inf
+;	"script" vblex pres
+;	"script" vblex imp
 "<was>"
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<published>"
-	"publish" vblex pp
-;	"publish" vblex past
-	"published" adj
+;	"publish" vblex pp
+	"publish" vblex past
+;	"published" adj
 "<by>"
-	"by" adv
-;	"by" pr
+;	"by" adv
+	"by" pr
 "<Little>"
-	"little" adj
-	"little" adv
-;	"Little" np cog sg
-	"little" det qnt sg
+;	"little" adj
+;	"little" adv
+	"Little" np cog sg
+;	"little" det qnt sg
 "<,>"
 	"," cm
 "<Brown>"
-	"brown" n sg
-	"brown" adj sint
-;	"Brown" np cog sg
+;	"brown" n sg
+;	"brown" adj sint
+	"Brown" np cog sg
 "<.>"
 	"." sent
 "<The>"
 	"the" det def sp
 "<original>"
-;	"original" adj
-	"original" n sg
+	"original" adj
+;	"original" n sg
 "<seven>"
 	"seven" num pl
 "<books>"
-;	"book" n pl
-	"book" vblex pres p3 sg
+	"book" n pl
+;	"book" vblex pres p3 sg
 "<were>"
 	"be" vbser past
 "<adapted>"
-	"adapt" vblex pp
-;	"adapt" vblex past
+;	"adapt" vblex pp
+	"adapt" vblex past
 "<into>"
 	"into" pr
 "<an>"
@@ -774,23 +774,23 @@
 "<->"
 	"-" guio
 "<part>"
-;	"part" n sg
-	"part" vblex inf
-	"part" vblex pres
-	"part" vblex imp
+	"part" n sg
+;	"part" vblex inf
+;	"part" vblex pres
+;	"part" vblex imp
 "<namesake>"
 	"namesake" n sg
 "<film>"
-;	"film" n sg
-	"film" vblex inf
-	"film" vblex pres
-	"film" vblex imp
+	"film" n sg
+;	"film" vblex inf
+;	"film" vblex pres
+;	"film" vblex imp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<by>"
-	"by" adv
-;	"by" pr
+;	"by" adv
+	"by" pr
 "<Warner>"
 	"Warner" np cog sg
 "<Bros>"
@@ -798,37 +798,37 @@
 "<.>"
 	"." sent
 "<Pictures>"
-;	"picture" n pl
-	"picture" vblex pres p3 sg
+	"picture" n pl
+;	"picture" vblex pres p3 sg
 "<,>"
 	"," cm
 "<which>"
 ;	"which" det itg sp
-	"which" prn itg mf sp
+;	"which" prn itg mf sp
 	"which" prn rel an mf sp
 "<is>"
 	"be" vbser pres p3 sg
 "<the>"
 	"the" det def sp
 "<third>"
-	"third" n sg
-;	"third" adj ord
+;	"third" n sg
+	"third" adj ord
 "<highest>"
 	"high" adj sint sup
 "<->"
 	"-" guio
 "<grossing>"
-;	"gross" vblex pprs
+	"gross" vblex pprs
 ;	"gross" vblex subs
-	"gross" vblex ger
+;	"gross" vblex ger
 "<film>"
-;	"film" n sg
-	"film" vblex inf
-	"film" vblex pres
-	"film" vblex imp
+	"film" n sg
+;	"film" vblex inf
+;	"film" vblex pres
+;	"film" vblex imp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<of all time>"
 	"of all time" adv
 "<as>"
@@ -846,8 +846,8 @@
 "<.>"
 	"." sent
 "<In>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<2016>"
 	"2016" num
 "<,>"
@@ -856,16 +856,16 @@
 	"the" det def sp
 "<total>"
 	"total" adj
-	"total" adv
+;	"total" adv
 ;	"total" n sg
-	"total" vblex inf
-	"total" vblex pres
-	"total" vblex imp
+;	"total" vblex inf
+;	"total" vblex pres
+;	"total" vblex imp
 "<value>"
-;	"value" n sg
-	"value" vblex inf
-	"value" vblex pres
-	"value" vblex imp
+	"value" n sg
+;	"value" vblex inf
+;	"value" vblex pres
+;	"value" vblex imp
 "<of>"
 	"of" pr
 "<the>"
@@ -873,17 +873,17 @@
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<franchise>"
 	"franchise" n sg
 "<was>"
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<estimated>"
-	"estimated" adj
-;	"estimate" vblex past
-	"estimate" vblex pp
+;	"estimated" adj
+	"estimate" vblex past
+;	"estimate" vblex pp
 "<at>"
 	"at" pr
 "<25>"
@@ -894,17 +894,17 @@
 "<,>"
 	"," cm
 "<making>"
-;	"make" vblex pprs
+	"make" vblex pprs
 ;	"make" vblex subs
-	"make" vblex ger
+;	"make" vblex ger
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<one>"
-	"one" num sg
-;	"one" prn dem mf sg
+;	"one" num sg
+	"one" prn dem mf sg
 "<of>"
 	"of" pr
 "<the>"
@@ -914,12 +914,12 @@
 "<->"
 	"-" guio
 "<grossing>"
-;	"gross" vblex pprs
+	"gross" vblex pprs
 ;	"gross" vblex subs
-	"gross" vblex ger
+;	"gross" vblex ger
 "<media>"
-;	"media" n sg
-	"media" n pl
+	"media" n sg
+;	"media" n pl
 "<franchises>"
 	"franchise" n pl
 "<of all time>"
@@ -929,23 +929,23 @@
 "<A>"
 	"a" det ind sg
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<of>"
 	"of" pr
 "<many>"
-	"many" det qnt pl
-;	"many" prn ind mf pl
+;	"many" det qnt pl
+	"many" prn ind mf pl
 "<genres>"
 	"genre" n pl
 "<,>"
 	"," cm
 "<including>"
-	"including" adv
-;	"including" pr
-	"include" vblex pprs
-	"include" vblex subs
-	"include" vblex ger
+;	"including" adv
+	"including" pr
+;	"include" vblex pprs
+;	"include" vblex subs
+;	"include" vblex ger
 "<fantasy>"
 	"fantasy" n sg
 "<,>"
@@ -955,18 +955,18 @@
 "<,>"
 	"," cm
 "<coming>"
-	"coming" adj
-	"coming" n sg
+;	"coming" adj
+;	"coming" n sg
 	"come" vblex pprs
-	"come" vblex subs
+;	"come" vblex subs
 ;	"come" vblex ger
 "<of>"
 	"of" pr
 "<age>"
-;	"age" n sg
-	"age" vblex inf
-	"age" vblex pres
-	"age" vblex imp
+	"age" n sg
+;	"age" vblex inf
+;	"age" vblex pres
+;	"age" vblex imp
 "<,>"
 	"," cm
 "<and>"
@@ -974,19 +974,19 @@
 "<the>"
 	"the" det def sp
 "<British>"
-;	"British" adj
+	"British" adj
 ;	"British" n sg
-	"British" n pl
+;	"British" n pl
 "<school>"
-;	"school" adj
+	"school" adj
 ;	"school" n sg
 "<story>"
-;	"story" n sg
+	"story" n sg
 "<(>"
 	"(" lpar
 "<which>"
 ;	"which" det itg sp
-	"which" prn itg mf sp
+;	"which" prn itg mf sp
 	"which" prn rel an mf sp
 "<includes>"
 	"include" vblex pres p3 sg
@@ -1003,10 +1003,10 @@
 "<,>"
 	"," cm
 "<adventure>"
-;	"adventure" n sg
-	"adventure" vblex inf
-	"adventure" vblex pres
-	"adventure" vblex imp
+	"adventure" n sg
+;	"adventure" vblex inf
+;	"adventure" vblex pres
+;	"adventure" vblex imp
 "<,>"
 	"," cm
 "<horror>"
@@ -1016,8 +1016,8 @@
 "<and>"
 	"and" cnjcoo
 "<romance>"
-	"Romance" adj
-;	"romance" n sg
+;	"Romance" adj
+	"romance" n sg
 "<)>"
 	")" rpar
 "<,>"
@@ -1025,15 +1025,15 @@
 "<the>"
 	"the" det def sp
 "<world>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<of>"
 	"of" pr
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<explores>"
 	"explore" vblex pres p3 sg
 "<numerous>"
@@ -1045,8 +1045,8 @@
 "<includes>"
 	"include" vblex pres p3 sg
 "<many>"
-	"many" det qnt pl
-;	"many" prn ind mf pl
+;	"many" det qnt pl
+	"many" prn ind mf pl
 "<cultural>"
 	"cultural" adj
 "<meanings>"
@@ -1054,8 +1054,8 @@
 "<and>"
 	"and" cnjcoo
 "<references>"
-;	"reference" n pl
-	"reference" vblex pres p3 sg
+	"reference" n pl
+;	"reference" vblex pres p3 sg
 "<.>"
 	"." sent
 "<According to>"
@@ -1084,22 +1084,22 @@
 "<themes>"
 	"theme" n pl
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the>"
 	"the" det def sp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<include>"
-;	"include" vblex inf
-	"include" vblex pres
+	"include" vblex inf
+;	"include" vblex pres
 ;	"include" vblex imp
 "<prejudice>"
-;	"prejudice" n sg
-	"prejudice" vblex inf
-	"prejudice" vblex pres
-	"prejudice" vblex imp
+	"prejudice" n sg
+;	"prejudice" vblex inf
+;	"prejudice" vblex pres
+;	"prejudice" vblex imp
 "<,>"
 	"," cm
 "<corruption>"
@@ -1121,33 +1121,33 @@
 "<the>"
 	"the" det def sp
 "<books>"
-;	"book" n pl
-	"book" vblex pres p3 sg
+	"book" n pl
+;	"book" vblex pres p3 sg
 "<and>"
 	"and" cnjcoo
 "<films>"
-;	"film" n pl
-	"film" vblex pres p3 sg
+	"film" n pl
+;	"film" vblex pres p3 sg
 "<has>"
-;	"have" vbhaver pres p3 sg
-	"have" vblex pres p3 sg
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
 "<allowed>"
-;	"allow" vblex pp
-	"allow" vblex past
-	"allowed" adj
+	"allow" vblex pp
+;	"allow" vblex past
+;	"allowed" adj
 "<the>"
 	"the" det def sp
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<franchise>"
 	"franchise" n sg
 "<to>"
 	"to" pr
 "<expand>"
-;	"expand" vblex inf
+	"expand" vblex inf
 ;	"expand" vblex pres
 ;	"expand" vblex imp
 "<with>"
@@ -1155,39 +1155,39 @@
 "<numerous>"
 	"numerous" adj
 "<derivative>"
-;	"derivative" adj
-	"derivative" n sg
+	"derivative" adj
+;	"derivative" n sg
 "<works>"
-;	"work" n pl
-	"work" vblex pres p3 sg
+	"work" n pl
+;	"work" vblex pres p3 sg
 "<,>"
 	"," cm
 "<a>"
 	"a" det ind sg
 "<travelling>"
-;	"travelling" adj
+	"travelling" adj
 ;	"travelling" n sg
-	"travel" vblex pprs
-	"travel" vblex subs
-	"travel" vblex ger
+;	"travel" vblex pprs
+;	"travel" vblex subs
+;	"travel" vblex ger
 "<exhibition>"
 	"exhibition" n sg
 "<that>"
-	"that" cnjsub
-	"that" det dem sg
-	"that" prn dem mf sg
-;	"that" prn rel an mf sp
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
 "<premiered>"
-;	"premiere" vblex past
-	"premiere" vblex pp
+	"premiere" vblex past
+;	"premiere" vblex pp
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<Chicago>"
 	"Chicago" np top sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<2009>"
 	"2009" num
 "<,>"
@@ -1197,28 +1197,28 @@
 "<studio>"
 	"studio" n sg
 "<tour>"
-;	"tour" n sg
-	"tour" vblex inf
-	"tour" vblex pres
-	"tour" vblex imp
+	"tour" n sg
+;	"tour" vblex inf
+;	"tour" vblex pres
+;	"tour" vblex imp
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<London>"
-;	"London" np top sg
-	"London" np cog sg
+	"London" np top sg
+;	"London" np cog sg
 "<that>"
-	"that" cnjsub
-	"that" det dem sg
-	"that" prn dem mf sg
-;	"that" prn rel an mf sp
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
 "<opened>"
-	"open" vblex pp
-;	"open" vblex past
-	"opened" adj
+;	"open" vblex pp
+	"open" vblex past
+;	"opened" adj
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<2012>"
 	"2012" num
 "<,>"
@@ -1230,12 +1230,12 @@
 "<platform>"
 	"platform" n sg
 "<on>"
-	"on" adv
-;	"on" pr
+;	"on" adv
+	"on" pr
 "<which>"
-	"which" det itg sp
-	"which" prn itg mf sp
-;	"which" prn rel an mf sp
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
 "<J.K>"
 	"j.k" n file
 "<.>"
@@ -1243,13 +1243,13 @@
 "<Rowling>"
 	"Rowling" np cog sg
 "<updates>"
-	"update" n pl
-;	"update" vblex pres p3 sg
+;	"update" n pl
+	"update" vblex pres p3 sg
 "<the>"
 	"the" det def sp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<with>"
 	"with" pr
 "<new>"
@@ -1271,24 +1271,24 @@
 "<of>"
 	"of" pr
 "<spin>"
-;	"spin" n sg
-	"spin" vblex inf
-	"spin" vblex pres
-	"spin" vblex imp
+	"spin" n sg
+;	"spin" vblex inf
+;	"spin" vblex pres
+;	"spin" vblex imp
 "<->"
 	"-" guio
 "<off>"
 	"off" adv
 "<films>"
-;	"film" n pl
-	"film" vblex pres p3 sg
+	"film" n pl
+;	"film" vblex pres p3 sg
 "<premiering>"
-;	"premiere" vblex pprs
+	"premiere" vblex pprs
 ;	"premiere" vblex subs
-	"premiere" vblex ger
+;	"premiere" vblex ger
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<November>"
 	"November" n sg
 "<2016>"
@@ -1307,19 +1307,19 @@
 "<to>"
 	"to" pr
 "<Find>"
-;	"find" vblex inf
+	"find" vblex inf
 ;	"find" vblex pres
 ;	"find" vblex imp
 "<Them>"
-	"that" prn dem pl
-;	"prpers" prn obj p3 mf pl
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
 "<,>"
 	"," cm
 "<among>"
 	"among" pr
 "<many>"
-	"many" det qnt pl
-;	"many" prn ind mf pl
+;	"many" det qnt pl
+	"many" prn ind mf pl
 "<other>"
 	"other" det ind sp
 "<developments>"
@@ -1327,10 +1327,10 @@
 "<.>"
 	"." sent
 "<Most>"
-	"most" adv
-;	"most" preadv
-	"most" det qnt sp
-	"most" prn ind mf pl
+;	"most" adv
+	"most" preadv
+;	"most" det qnt sp
+;	"most" prn ind mf pl
 "<recently>"
 	"recently" adv
 "<,>"
@@ -1344,8 +1344,8 @@
 "<collectively>"
 	"collectively" adv
 "<known>"
-;	"known" adj
-	"know" vblex pp
+	"known" adj
+;	"know" vblex pp
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -1357,46 +1357,46 @@
 "<Wizarding>"
 	"*Wizarding"
 "<World>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<of>"
 	"of" pr
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<,>"
 	"," cm
 "<have>"
 ;	"have" vbhaver inf
 	"have" vbhaver pres
 ;	"have" vblex inf
-	"have" vblex pres
-	"have" vblex imp
+;	"have" vblex pres
+;	"have" vblex imp
 "<been>"
 	"be" vbser pp
 "<built>"
-	"built" adj
-	"build" vblex past
-;	"build" vblex pp
+;	"built" adj
+;	"build" vblex past
+	"build" vblex pp
 "<at>"
 	"at" pr
 "<several>"
-	"several" det ind pl
-;	"several" prn ind mf pl
+;	"several" det ind pl
+	"several" prn ind mf pl
 "<Universal>"
 	"universal" adj
 "<Parks>"
-;	"park" n pl
-	"Park" np cog pl
-	"Parks" np cog sg
-	"park" vblex pres p3 sg
+	"park" n pl
+;	"Park" np cog pl
+;	"Parks" np cog sg
+;	"park" vblex pres p3 sg
 "<&>"
 	"&" cnjcoo
 "<Resorts>"
-;	"resort" n pl
-	"resort" vblex pres p3 sg
+	"resort" n pl
+;	"resort" vblex pres p3 sg
 "<amusement parks>"
 	"amusement park" n pl
 "<around the world>"
@@ -1410,20 +1410,20 @@
 "<character>"
 	"character" n sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the>"
 	"the" det def sp
 "<series>"
-;	"series" n sg
-	"series" n pl
+	"series" n sg
+;	"series" n pl
 "<is>"
 	"be" vbser pres p3 sg
 "<Harry>"
 	"Harry" np ant m sg
 "<Potter>"
-	"potter" n sg
-;	"Potter" np cog sg
+;	"potter" n sg
+	"Potter" np cog sg
 "<,>"
 	"," cm
 "<a>"
@@ -1431,14 +1431,14 @@
 "<boy>"
 	"boy" n sg
 "<who>"
-	"who" prn itg mf sp
-;	"who" prn rel an mf sp
+;	"who" prn itg mf sp
+	"who" prn rel an mf sp
 "<lives>"
-	"life" n pl
-;	"live" vblex pres p3 sg
+;	"life" n pl
+	"live" vblex pres p3 sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the>"
 	"the" det def sp
 "<fictional>"
@@ -1448,10 +1448,10 @@
 "<of>"
 	"of" pr
 "<Little>"
-	"little" adj
-	"little" adv
-;	"Little" np cog sg
-	"little" det qnt sg
+;	"little" adj
+;	"little" adv
+	"Little" np cog sg
+;	"little" det qnt sg
 "<Whinging>"
 	"*Whinging"
 "<,>"
@@ -1464,7 +1464,7 @@
 ;	"his" adj pos pred
 	"his" det pos sp
 ;	"prpers" prn pos p3 m sg
-	"prpers" det pos p3 m sg
+;	"prpers" det pos p3 m sg
 "<aunt>"
 	"aunt" n sg
 "<,>"
@@ -1492,19 +1492,19 @@
 "<the>"
 	"the" det def sp
 "<age>"
-;	"age" n sg
-	"age" vblex inf
-	"age" vblex pres
-	"age" vblex imp
+	"age" n sg
+;	"age" vblex inf
+;	"age" vblex pres
+;	"age" vblex imp
 "<of>"
 	"of" pr
 "<eleven>"
 	"eleven" num pl
 "<that>"
-;	"that" cnjsub
-	"that" det dem sg
+	"that" cnjsub
+;	"that" det dem sg
 ;	"that" prn dem mf sg
-	"that" prn rel an mf sp
+;	"that" prn rel an mf sp
 "<he>"
 	"prpers" prn subj p3 m sg
 "<is>"
@@ -1516,25 +1516,25 @@
 "<,>"
 	"," cm
 "<though>"
-	"though" adv
-;	"though" cnjsub
-	"though" cnjadv
+;	"though" adv
+	"though" cnjsub
+;	"though" cnjadv
 "<he>"
 	"prpers" prn subj p3 m sg
 "<lives>"
-	"life" n pl
-;	"live" vblex pres p3 sg
+;	"life" n pl
+	"live" vblex pres p3 sg
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the>"
 	"the" det def sp
 "<ordinary>"
-;	"ordinary" adj
-	"ordinary" n sg
+	"ordinary" adj
+;	"ordinary" n sg
 "<world>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<of>"
 	"of" pr
 "<non>"
@@ -1544,11 +1544,11 @@
 "<magical>"
 	"magical" adj
 "<people>"
-	"people" n sg
-;	"person" n pl
+;	"people" n sg
+	"person" n pl
 "<known>"
-	"known" adj
-;	"know" vblex pp
+;	"known" adj
+	"know" vblex pp
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -1564,13 +1564,13 @@
 "<wizarding>"
 	"*wizarding"
 "<world>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<exists>"
 	"exist" vblex pres p3 sg
 "<parallel>"
-;	"parallel" adj
-	"parallel" adv
+	"parallel" adj
+;	"parallel" adv
 "<to>"
 	"to" pr
 "<the>"
@@ -1578,28 +1578,28 @@
 "<Muggle>"
 	"*Muggle"
 "<world>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<,>"
 	"," cm
 "<albeit>"
 	"albeit" adv
 "<hidden>"
-;	"hide" vblex pp
-	"hidden" adj
+	"hide" vblex pp
+;	"hidden" adj
 "<and>"
 	"and" cnjcoo
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<secrecy>"
 	"secrecy" n sg
 "<.>"
 	"." sent
 "<His>"
-	"his" adj pos pred
-;	"his" det pos sp
-	"prpers" prn pos p3 m sg
+;	"his" adj pos pred
+	"his" det pos sp
+;	"prpers" prn pos p3 m sg
 ;	"prpers" det pos p3 m sg
 "<magical>"
 	"magical" adj
@@ -1625,30 +1625,30 @@
 "<are>"
 	"be" vbser pres
 "<invited>"
-	"invited" adj
-	"invite" vblex past
-;	"invite" vblex pp
+;	"invited" adj
+;	"invite" vblex past
+	"invite" vblex pp
 "<to>"
 	"to" pr
 "<attend>"
-;	"attend" vblex inf
+	"attend" vblex inf
 ;	"attend" vblex pres
 ;	"attend" vblex imp
 "<exclusive>"
-;	"exclusive" adj
-	"exclusive" n sg
+	"exclusive" adj
+;	"exclusive" n sg
 "<magic>"
-;	"magic" adj
-	"magic" n sg
+	"magic" adj
+;	"magic" n sg
 "<schools>"
 	"school" n pl
 "<that>"
-	"that" cnjsub
-	"that" det dem sg
-	"that" prn dem mf sg
-;	"that" prn rel an mf sp
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
 "<teach>"
-;	"teach" vblex inf
+	"teach" vblex inf
 ;	"teach" vblex pres
 ;	"teach" vblex imp
 "<the>"
@@ -1662,17 +1662,17 @@
 "<succeed>"
 ;	"succeed" vblex inf
 ;	"succeed" vblex pres
-;	"succeed" vblex imp
+	"succeed" vblex imp
 "<in>"
-	"in" adv
-;	"in" pr
+;	"in" adv
+	"in" pr
 "<the>"
 	"the" det def sp
 "<wizarding>"
 	"*wizarding"
 "<world>"
-	"world" adj
-;	"world" n sg
+;	"world" adj
+	"world" n sg
 "<..>"
 	".." sent
 
