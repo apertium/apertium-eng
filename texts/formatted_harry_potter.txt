@@ -143,13 +143,13 @@
 ;	"be" vbser pres p3 sg
 ;	"have" vbhaver pres p3 sg
 "<struggle>"
-;	"struggle" n sg
-	"struggle" vblex inf
+	"struggle" n sg
+;	"struggle" vblex inf
 ;	"struggle" vblex pres
 ;	"struggle" vblex imp
 "<against>"
-	"against" adj
-	"against" adv
+;	"against" adj
+;	"against" adv
 	"against" pr
 "<Lord>"
 	"lord" n sg
@@ -228,8 +228,8 @@
 "<all>"
 ;	"all" adv
 ;	"all" predet sp
-	"all" det qnt pl
-;	"all" prn qnt mf sp
+;	"all" det qnt pl
+	"all" prn qnt mf sp
 "<wizards>"
 	"wizard" n pl
 "<and>"
@@ -258,8 +258,8 @@
 "<the>"
 	"the" det def sp
 "<release>"
-;	"release" n sg
-	"release" vblex inf
+	"release" n sg
+;	"release" vblex inf
 ;	"release" vblex pres
 ;	"release" vblex imp
 "<of>"
@@ -367,8 +367,8 @@
 "<wide>"
 	"wide" adj sint
 "<adult>"
-;	"adult" adj
-	"adult" n sg
+	"adult" adj
+;	"adult" n sg
 "<audience>"
 	"audience" n sg
 "<as well as>"
