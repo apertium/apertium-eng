@@ -336,7 +336,8 @@
 "<critical>"
 	"critical" adj
 "<acclaim>"
-	"acclaim" vblex inf
+	"acclaim" n sg
+;	"acclaim" vblex inf
 ;	"acclaim" vblex pres
 ;	"acclaim" vblex imp
 "<and>"
@@ -510,14 +511,14 @@
 	"consecutively" adv
 "<set>"
 ;	"set" n sg
-	"set" vblex inf
-;	"set" vblex pres
+;	"set" vblex inf
+	"set" vblex pres
 ;	"set" vblex past
 ;	"set" vblex pp
 ;	"set" vblex imp
 "<records>"
-;	"record" n pl
-	"record" vblex pres p3 sg
+	"record" n pl
+;	"record" vblex pres p3 sg
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -531,9 +532,9 @@
 "<->"
 	"-" guio
 "<selling books>"
-	"sell# books" vblex pprs
+;	"sell# books" vblex pprs
 ;	"sell# books" vblex subs
-;	"sell# books" vblex ger
+	"sell# books" vblex ger
 "<in>"
 ;	"in" adv
 	"in" pr
@@ -658,16 +659,16 @@
 "<the>"
 	"the" det def sp
 "<Cursed>"
-	"curse" vblex past
-;	"curse" vblex pp
+;	"curse" vblex past
+	"curse" vblex pp
 "<Child>"
 	"child" n sg
 "<,>"
 	"," cm
 "<based>"
 ;	"based" adj
-	"base" vblex past
-;	"base" vblex pp
+;	"base" vblex past
+	"base" vblex pp
 "<on>"
 ;	"on" adv
 	"on" pr
@@ -811,16 +812,17 @@
 "<the>"
 	"the" det def sp
 "<third>"
+	"third" num sg
 ;	"third" n sg
-	"third" adj ord
+;	"third" adj ord
 "<highest>"
 	"high" adj sint sup
 "<->"
 	"-" guio
 "<grossing>"
-	"gross" vblex pprs
+;	"gross" vblex pprs
 ;	"gross" vblex subs
-;	"gross" vblex ger
+	"gross" vblex ger
 "<film>"
 	"film" n sg
 ;	"film" vblex inf
@@ -903,8 +905,8 @@
 ;	"potter" n sg
 	"Potter" np cog sg
 "<one>"
-;	"one" num sg
-	"one" prn dem mf sg
+	"one" num sg
+;	"one" prn dem mf sg
 "<of>"
 	"of" pr
 "<the>"
@@ -914,9 +916,9 @@
 "<->"
 	"-" guio
 "<grossing>"
-	"gross" vblex pprs
+;	"gross" vblex pprs
 ;	"gross" vblex subs
-;	"gross" vblex ger
+	"gross" vblex ger
 "<media>"
 	"media" n sg
 ;	"media" n pl
@@ -956,8 +958,8 @@
 	"," cm
 "<coming>"
 ;	"coming" adj
-;	"coming" n sg
-	"come" vblex pprs
+	"coming" n sg
+;	"come" vblex pprs
 ;	"come" vblex subs
 ;	"come" vblex ger
 "<of>"
@@ -1213,8 +1215,8 @@
 ;	"that" prn dem mf sg
 	"that" prn rel an mf sp
 "<opened>"
-;	"open" vblex pp
-	"open" vblex past
+	"open" vblex pp
+;	"open" vblex past
 ;	"opened" adj
 "<in>"
 ;	"in" adv
@@ -1660,9 +1662,9 @@
 "<to>"
 	"to" pr
 "<succeed>"
-;	"succeed" vblex inf
+	"succeed" vblex inf
 ;	"succeed" vblex pres
-	"succeed" vblex imp
+;	"succeed" vblex imp
 "<in>"
 ;	"in" adv
 	"in" pr
