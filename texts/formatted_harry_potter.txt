@@ -32,11 +32,11 @@
 ;	"author" vblex pres
 ;	"author" vblex imp
 "<J>"
-	"*J"
+	"J" np cog sg
 "<.>"
 	"." sent
 "<K>"
-	"*K"
+	"K" np cog sg
 "<.>"
 	"." sent
 "<Rowling>"
@@ -122,7 +122,7 @@
 "<and>"
 	"and" cnjcoo
 "<Wizardry>"
-	"*Wizardry"
+	"Wizardry" n sg
 "<.>"
 	"." sent
 "<The>"
@@ -235,7 +235,7 @@
 "<and>"
 	"and" cnjcoo
 "<Muggles>"
-	"*Muggles"
+	"Muggle" n pl
 "<(>"
 	"(" lpar
 "<non>"
@@ -676,13 +676,9 @@
 	"a" det ind sg
 "<story>"
 	"story" n sg
-"<co>"
-	"*co"
-"<->"
-	"-" guio
-"<written>"
-	"write" vblex pp
-;	"written" adj
+"<co-written>"
+	"co-write" vblex pp
+;	"co-written" adj
 "<by>"
 ;	"by" adv
 	"by" pr
@@ -1269,18 +1265,11 @@
 "<a>"
 	"a" det ind sg
 "<pentalogy>"
-	"*pentalogy"
+	"pentalogy" n sg
 "<of>"
 	"of" pr
-"<spin>"
-	"spin" n sg
-;	"spin" vblex inf
-;	"spin" vblex pres
-;	"spin" vblex imp
-"<->"
-	"-" guio
-"<off>"
-	"off" adv
+"<spin-off>"
+	"spin-off" adj
 "<films>"
 	"film" n pl
 ;	"film" vblex pres p3 sg
@@ -1357,7 +1346,7 @@
 "<The>"
 	"the" det def sp
 "<Wizarding>"
-	"*Wizarding"
+	"Wizarding" adj
 "<World>"
 ;	"world" adj
 	"world" n sg
@@ -1455,7 +1444,7 @@
 	"Little" np cog sg
 ;	"little" det qnt sg
 "<Whinging>"
-	"*Whinging"
+	"Whinging" np cog sg
 "<,>"
 	"," cm
 "<Surrey>"
@@ -1482,7 +1471,7 @@
 "<the>"
 	"the" det def sp
 "<Dursleys>"
-	"*Dursleys"
+	"Dursley" np cog pl
 "<and>"
 	"and" cnjcoo
 "<discovers>"
@@ -1558,13 +1547,13 @@
 ;	"as" cnjadv
 	"as" pr
 "<Muggles>"
-	"*Muggles"
+	"Muggles" n pl
 "<.>"
 	"." sent
 "<The>"
 	"the" det def sp
 "<wizarding>"
-	"*wizarding"
+	"wizarding" adj
 "<world>"
 ;	"world" adj
 	"world" n sg
@@ -1578,7 +1567,7 @@
 "<the>"
 	"the" det def sp
 "<Muggle>"
-	"*Muggle"
+	"Muggle" n sg
 "<world>"
 ;	"world" adj
 	"world" n sg
@@ -1610,7 +1599,7 @@
 "<is>"
 	"be" vbser pres p3 sg
 "<inborn>"
-	"*inborn"
+	"inborn" vblex pp
 "<,>"
 	"," cm
 "<and>"
@@ -1671,7 +1660,7 @@
 "<the>"
 	"the" det def sp
 "<wizarding>"
-	"*wizarding"
+	"wizarding" adj
 "<world>"
 ;	"world" adj
 	"world" n sg
