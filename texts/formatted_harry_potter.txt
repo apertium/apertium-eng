@@ -600,8 +600,8 @@
 "<originally>"
 	"originally" adv
 "<published>"
-;	"publish" vblex pp
-	"publish" vblex past
+	"publish" vblex pp
+;	"publish" vblex past
 ;	"published" adj
 "<in English>"
 	"in English" adv
@@ -732,8 +732,8 @@
 ;	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 "<published>"
-;	"publish" vblex pp
-	"publish" vblex past
+	"publish" vblex pp
+;	"publish" vblex past
 ;	"published" adj
 "<by>"
 ;	"by" adv
@@ -764,8 +764,8 @@
 "<were>"
 	"be" vbser past
 "<adapted>"
-;	"adapt" vblex pp
-	"adapt" vblex past
+	"adapt" vblex pp
+;	"adapt" vblex past
 "<into>"
 	"into" pr
 "<an>"
@@ -812,9 +812,9 @@
 "<the>"
 	"the" det def sp
 "<third>"
-	"third" num sg
+;	"third" num sg
 ;	"third" n sg
-;	"third" adj ord
+	"third" adj ord
 "<highest>"
 	"high" adj sint sup
 "<->"
@@ -884,8 +884,8 @@
 	"be" vbser past p3 sg
 "<estimated>"
 ;	"estimated" adj
-	"estimate" vblex past
-;	"estimate" vblex pp
+;	"estimate" vblex past
+	"estimate" vblex pp
 "<at>"
 	"at" pr
 "<25>"
@@ -936,8 +936,8 @@
 "<of>"
 	"of" pr
 "<many>"
-;	"many" det qnt pl
-	"many" prn ind mf pl
+	"many" det qnt pl
+;	"many" prn ind mf pl
 "<genres>"
 	"genre" n pl
 "<,>"
@@ -1047,8 +1047,8 @@
 "<includes>"
 	"include" vblex pres p3 sg
 "<many>"
-;	"many" det qnt pl
-	"many" prn ind mf pl
+	"many" det qnt pl
+;	"many" prn ind mf pl
 "<cultural>"
 	"cultural" adj
 "<meanings>"
@@ -1082,7 +1082,7 @@
 	"other" det ind sp
 "<major>"
 	"major" adj
-	"major" n sg
+;	"major" n sg
 "<themes>"
 	"theme" n pl
 "<in>"
@@ -1094,8 +1094,8 @@
 	"series" n sg
 ;	"series" n pl
 "<include>"
-	"include" vblex inf
-;	"include" vblex pres
+;	"include" vblex inf
+	"include" vblex pres
 ;	"include" vblex imp
 "<prejudice>"
 	"prejudice" n sg
@@ -1215,8 +1215,8 @@
 ;	"that" prn dem mf sg
 	"that" prn rel an mf sp
 "<opened>"
-	"open" vblex pp
-;	"open" vblex past
+;	"open" vblex pp
+	"open" vblex past
 ;	"opened" adj
 "<in>"
 ;	"in" adv
@@ -1320,8 +1320,8 @@
 "<among>"
 	"among" pr
 "<many>"
-;	"many" det qnt pl
-	"many" prn ind mf pl
+	"many" det qnt pl
+;	"many" prn ind mf pl
 "<other>"
 	"other" det ind sp
 "<developments>"
@@ -1346,8 +1346,8 @@
 "<collectively>"
 	"collectively" adv
 "<known>"
-	"known" adj
-;	"know" vblex pp
+;	"known" adj
+	"know" vblex pp
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -1385,8 +1385,8 @@
 "<at>"
 	"at" pr
 "<several>"
-;	"several" det ind pl
-	"several" prn ind mf pl
+	"several" det ind pl
+;	"several" prn ind mf pl
 "<Universal>"
 	"universal" adj
 "<Parks>"
@@ -1519,8 +1519,8 @@
 	"," cm
 "<though>"
 ;	"though" adv
-	"though" cnjsub
-;	"though" cnjadv
+;	"though" cnjsub
+	"though" cnjadv
 "<he>"
 	"prpers" prn subj p3 m sg
 "<lives>"
@@ -1571,8 +1571,8 @@
 "<exists>"
 	"exist" vblex pres p3 sg
 "<parallel>"
-	"parallel" adj
-;	"parallel" adv
+;	"parallel" adj
+	"parallel" adv
 "<to>"
 	"to" pr
 "<the>"
