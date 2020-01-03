@@ -1599,7 +1599,7 @@
 "<is>"
 	"be" vbser pres p3 sg
 "<inborn>"
-	"inborn" vblex pp
+	"inborn" adj
 "<,>"
 	"," cm
 "<and>"
