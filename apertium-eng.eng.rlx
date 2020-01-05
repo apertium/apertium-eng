@@ -511,6 +511,7 @@ REMOVE (vbmod inf) IF (1 Adv) (2 Inf) ;
 REMOVE ("second"i n) IF (1 (n)) ;
 #REMOVE PrnObj IF (-1 V) (-2 BOS) ;
 REMOVE (prn obj) IF (1 (vblex inf)) ;
+REMOVE (prn obj) IF (1 Vbmod) (2 (vblex inf)) ;
 SELECT AdvItg IF (-1 BOS) ;
 SELECT PrnItg IF (-1 BOS) ;
 SELECT V IF (-1 (prn pers)) ;
