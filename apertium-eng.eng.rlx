@@ -20,6 +20,7 @@ LIST EOS = (<<<) ;
 
 SETS
 
+LIST Anything = * ;
 LIST N = n ;
 LIST Np = np ;
 LIST Prn = prn ;
@@ -252,6 +253,8 @@ REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
 SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (NOT -1 Vbser) (1C Pr) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Pr) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (-2C Pr) (-1 Adv) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 By) ;
 SELECT Ger IF (0 Ger) (0 Pprs) (0 Subs) (-1 BOS) (1 EOS) ;
 
@@ -275,6 +278,11 @@ SELECT N IF (0 N) (0 V) (NOT 0 P3) (-2 Adj) (-1C N + Sg) ;
 #  Lemmas that are N or V: N if Subs follows it
 
 SELECT N IF (0 N) (0 V) (1 Subs) ;
+
+
+#  Lemmas that are N or V: N if alone in sentence
+
+SELECT N IF (0 N) (0 V) (-1 BOS) (NOT 1 Anything ) ;
 
 
 #  Lemmas that are N or V: V if vbmod/Vbdo precedes it
@@ -545,6 +553,9 @@ SELECT V IF (0 ("open")) (0 V) (0 Adj) (-1 BOS) (1 Pr) ;
 
 # sort from
 SELECT V IF (0 ("sort")) (0 V) (0 N) (-1 BOS) (1 Pr) ;
+
+# press and hold
+SELECT V IF (0 ("press")) (0 V) (0 N) (-1 BOS) (1 Cnjcoo) (2 ("hold")) ;
 
 
 #
