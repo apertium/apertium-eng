@@ -23,6 +23,8 @@ SETS
 LIST Anything = * ;
 LIST N = n ;
 LIST Np = np ;
+LIST NpAnt = (np ant) ;
+LIST NpCog = (np cog) ;
 LIST Prn = prn ;
 LIST PrnObj = (prn obj) ;
 LIST PrnSubj = (prn subj) ;
@@ -105,6 +107,7 @@ SECTION
 
 REMOVE V IF (0 V) (0 N) (-1C Det) ;
 REMOVE V IF (0 V) (0 N) (-1C Gen) ;
+REMOVE N IF (0 NpCog) (0 N) (-1C NpAnt OR NpCog) ;
 REMOVE Adv IF (0 Adv) (1C N) ;
 REMOVE Adv IF (0 Adv) (1 Adj) (2C N) ;
 REMOVE Preadv IF (0 Preadv) (1C N) ;
