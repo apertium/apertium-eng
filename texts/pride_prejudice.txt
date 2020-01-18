@@ -35,8 +35,12 @@
 	"of" pr
 "<a>"
 	"a" det ind sg
-"<good fortune>"
-	"good fortune" n sg
+"<good>"
+;	"good" adv
+;	"good" n sg
+	"good" adj sint
+"<fortune>"
+	"fortune" n sg
 "<,>"
 	"," cm
 "<must>"
@@ -171,15 +175,15 @@
 "<the>"
 	"the" det def sp
 "<rightful>"
-	"*rightful"
+	"rightful" adj
 "<property>"
 	"property" n sg
 "<of>"
 	"of" pr
 "<some>"
 ;	"some" adj
-	"some" adv
-;	"some" det qnt sp
+;	"some" adv
+	"some" det qnt sp
 ;	"some" prn ind mf pl
 "<one>"
 ;	"one" num sg
@@ -240,8 +244,8 @@
 ;	"have" vblex pres
 ;	"have" vblex imp
 "<you>"
-	"you" prn pers p2 mf sg
-;	"prpers" prn subj p2 mf sp
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
 ;	"prpers" prn obj p2 mf sp
 
       
@@ -254,7 +258,8 @@
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<Netherfield>"
-	"*Netherfield"
+	"Netherfield" np top sg
+;	"Netherfield" np cog sg
 "<Park>"
 	"park" n sg
 ;	"park" vblex inf
@@ -265,9 +270,9 @@
 	"be" vbser pres p3 sg
 "<let>"
 ;	"let" vblex inf
-	"let" vblex pres
+;	"let" vblex pres
 ;	"let" vblex past
-;	"let" vblex pp
+	"let" vblex pp
 ;	"let" vblex imp
 "<at last>"
 	"at last" adv
@@ -324,8 +329,8 @@
 	";" sent
  “
 "<for>"
-;	"for" cnjadv
-	"for" pr
+	"for" cnjadv
+;	"for" pr
 "<Mrs.>"
 	"Mrs." n sg
 "<Long>"
@@ -559,7 +564,8 @@
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<Netherfield>"
-	"*Netherfield"
+	"Netherfield" np top sg
+;	"Netherfield" np cog sg
 "<is>"
 	"be" vbser pres p3 sg     
 "<taken>"
@@ -691,7 +697,7 @@
 ;	"before" cnjadv
 ;	"before" pr
 "<Michaelmas>"
-	"*Michaelmas"
+	"Michaelmas" n sg
 "<,>"
 	"," cm
 "<and>"
@@ -773,7 +779,7 @@
 
       “
 "<Bingley>"
-	"*Bingley"
+	"Bingley" np cog sg
 "<.>"
 	"." sent
 ”
@@ -971,8 +977,8 @@
 "<be>"
 	"be" vbser inf
 "<so>"
-;	"so" adv
-	"so" preadv
+	"so" adv
+;	"so" preadv
 ;	"so" cnjadv
 "<tiresome>"
 	"tiresome" adj
@@ -1002,9 +1008,9 @@
 	"be" vbser pres p1 sg
 "<thinking>"
 ;	"thinking" n sg
-;	"think" vblex pprs
+	"think" vblex pprs
 ;	"think" vblex subs
-	"think" vblex ger
+;	"think" vblex ger
 "<of>"
 	"of" pr
 "<his>"
@@ -1038,8 +1044,8 @@
 	"be" vbser pres p3 sg
 "<that>"
 ;	"that" cnjsub
-	"that" det dem sg
-;	"that" prn dem mf sg
+;	"that" det dem sg
+	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<his>"
 ;	"his" adj pos pred
@@ -1091,8 +1097,8 @@
 ;	"can" vblex pres
 ;	"can" vblex imp
 "<you>"
-	"you" prn pers p2 mf sg
-;	"prpers" prn subj p2 mf sp
+;	"you" prn pers p2 mf sg
+	"prpers" prn subj p2 mf sp
 ;	"prpers" prn obj p2 mf sp
 "<talk>"
 ;	"talk" n sg
@@ -1139,8 +1145,8 @@
 "<with>"
 	"with" pr
 "<one>"
-;	"one" num sg
-	"one" prn dem mf sg
+	"one" num sg
+;	"one" prn dem mf sg
 "<of>"
 	"of" pr
 "<them>"
@@ -1169,8 +1175,8 @@
 "<him>"
 	"prpers" prn obj p3 m sg
 "<as soon as>"
-	"as soon as" adv
-;	"as soon as" cnjsub
+;	"as soon as" adv
+	"as soon as" cnjsub
 ;	"as soon as" cnjadv
 "<he>"
 	"prpers" prn subj p3 m sg
@@ -1318,7 +1324,7 @@
 "<Mr.>"
 	"Mr." n sg
 "<Bingley>"
-	"*Bingley"
+	"Bingley" np cog sg
 "<may>"
 ;	"may" vbmod inf
 	"may" vbmod pres
@@ -1462,7 +1468,8 @@
 "<she>"
 	"prpers" prn subj p3 f sg
 "<ought>"
-	"*ought"
+;	"ought" vbmod inf
+	"ought" vbmod pres
 "<to>"
 	"to" pr
 "<give>"
@@ -1577,7 +1584,7 @@
 "<Mr.>"
 	"Mr." n sg
 "<Bingley>"
-	"*Bingley"
+	"Bingley" np cog sg
 "<when>"
 	"when" adv
 ;	"when" cnjsub
