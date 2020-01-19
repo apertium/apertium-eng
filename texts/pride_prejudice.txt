@@ -1282,8 +1282,8 @@
 "<,>"
 	"," cm
 "<for>"
-;	"for" cnjadv
-	"for" pr     
+	"for" cnjadv
+;	"for" pr     
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -1477,8 +1477,8 @@
 ;	"give" vblex pres
 ;	"give" vblex imp
 "<over>"
-;	"over" adv
-	"over" pr     
+	"over" adv
+;	"over" pr     
 "<thinking>"
 ;	"thinking" n sg
 ;	"think" vblex pprs
@@ -1586,8 +1586,8 @@
 "<Bingley>"
 	"Bingley" np cog sg
 "<when>"
-	"when" adv
-;	"when" cnjsub
+;	"when" adv
+	"when" cnjsub
 ;	"when" cnjadv
 ;	"when" adv itg
 "<he>"
@@ -1702,8 +1702,8 @@
 "<Lady>"
 	"lady" n sg
 "<Lucas>"
-;	"Lucas" np cog sg
-	"Lucas" np ant m sg
+	"Lucas" np cog sg
+;	"Lucas" np ant m sg
 ;	"Lucas" np ant f sg
 "<are>"
 	"be" vbser pres     
@@ -1737,8 +1737,8 @@
 "<,>"
 	"," cm
 "<for>"
-;	"for" cnjadv
-	"for" pr
+	"for" cnjadv
+;	"for" pr
 "<in general>"
 	"in general" adv
 "<,>"
@@ -1784,8 +1784,8 @@
 "<,>"
 	"," cm
 "<for>"
-;	"for" cnjadv
-	"for" pr
+	"for" cnjadv
+;	"for" pr
 "<it>"
 	"prpers" prn subj p3 nt sg
 ;	"prpers" prn obj p3 nt sg
