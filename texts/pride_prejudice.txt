@@ -1441,8 +1441,8 @@
 
       
 "<When>"
-	"when" adv
-;	"when" cnjsub
+;	"when" adv
+	"when" cnjsub
 ;	"when" cnjadv
 ;	"when" adv itg
 "<a>"
@@ -1477,8 +1477,8 @@
 ;	"give" vblex pres
 ;	"give" vblex imp
 "<over>"
-	"over" adv
-;	"over" pr     
+;	"over" adv
+	"over" pr     
 "<thinking>"
 ;	"thinking" n sg
 ;	"think" vblex pprs
@@ -1527,8 +1527,8 @@
 "<often>"
 	"often" adv
 "<much>"
-	"much" adv
-;	"much" det qnt sg
+;	"much" adv
+	"much" det qnt sg
 ;	"much" prn qnt mf sp
 "<beauty>"
 	"beauty" n sg
@@ -1622,8 +1622,8 @@
 	"engage" vblex pres
 ;	"engage" vblex imp
 "<for>"
-;	"for" cnjadv
-	"for" pr
+	"for" cnjadv
+;	"for" pr
 "<,>"
 	"," cm
 "<I>"
