@@ -1,0 +1,1582 @@
+"<A>"
+	"a" det ind sg
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<machine>"
+	"machine" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<accepts>"
+	"accept" vblex pres p3 sg
+"<data>"
+;	"data" n sg
+	"data" n pl
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<input>"
+	"input" n sg
+;	"input" vblex inf
+;	"input" vblex pres
+;	"input" vblex imp
+"<,>"
+	"," cm
+"<processes>"
+;	"process" n pl
+	"process" vblex pres p3 sg
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<data>"
+;	"data" n sg
+	"data" n pl
+"<using>"
+	"use" vblex pprs
+;	"use" vblex subs
+;	"use" vblex ger
+"<programs>"
+	"program" n pl
+;	"program" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<outputs>"
+;	"output" n pl
+	"output" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<processed>"
+;	"process" vblex pp
+;	"process" vblex past
+	"processed" adj
+"<data>"
+;	"data" n sg
+	"data" n pl
+"<as>"
+;	"as" adv
+;	"as" preadv
+;	"as" cnjsub
+;	"as" cnjadv
+	"as" pr
+"<information>"
+	"information" n sg
+"<.>"
+	"." sent
+"<Many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<computers>"
+	"computer" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<store>"
+;	"store" n sg
+	"store" vblex inf
+;	"store" vblex pres
+;	"store" vblex imp
+"<and>"
+	"and" cnjcoo
+"<retrieve>"
+	"retrieve" vblex inf
+;	"retrieve" vblex pres
+;	"retrieve" vblex imp
+"<information>"
+	"information" n sg
+"<using>"
+	"use" vblex pprs
+;	"use" vblex subs
+;	"use" vblex ger
+"<hard>"
+;	"hard" n sg
+	"hard" adj sint
+"<drives>"
+	"drive" n pl
+;	"drive" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Computers>"
+	"computer" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<connected>"
+	"connect" vblex pp
+;	"connect" vblex past
+;	"connected" adj
+"<together>"
+;	"together" adj
+	"together" adv
+"<to>"
+	"to" pr
+"<form>"
+;	"form" n sg
+	"form" vblex inf
+;	"form" vblex pres
+;	"form" vblex imp
+"<networks>"
+	"network" n pl
+;	"network" vblex pres p3 sg
+"<,>"
+	"," cm
+"<allowing>"
+	"allow" vblex pprs
+;	"allow" vblex subs
+;	"allow" vblex ger
+"<connected>"
+;	"connect" vblex pp
+;	"connect" vblex past
+	"connected" adj
+"<computers>"
+	"computer" n pl
+"<to>"
+	"to" pr
+"<communicate>"
+	"communicate" vblex inf
+;	"communicate" vblex pres
+;	"communicate" vblex imp
+"<with>"
+	"with" pr
+"<each>"
+	"each" det ind sg
+;	"each" prn ind mf sg
+"<other>"
+	"other" det ind sp
+"<..>"
+	".." sent
+
+"<The>"
+	"the" det def sp
+"<two>"
+	"two" num pl
+"<principal>"
+	"principal" adj
+;	"principal" n sg
+"<characteristics>"
+	"characteristic" n pl
+"<of>"
+	"of" pr
+"<a>"
+	"a" det ind sg
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<are>"
+	"be" vbser pres
+"<:>"
+	":" sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<responds>"
+	"respond" vblex pres p3 sg
+"<to>"
+	"to" pr
+"<a>"
+	"a" det ind sg
+"<specific>"
+	"specific" adj
+"<instruction>"
+	"instruction" n sg
+"<set>"
+	"set" n sg
+;	"set" vblex inf
+;	"set" vblex pres
+;	"set" vblex past
+;	"set" vblex pp
+;	"set" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<a>"
+	"a" det ind sg
+"<well>"
+	"well" adv
+;	"well" n sg
+"<->"
+	"-" guio
+"<defined>"
+	"defined" adj
+;	"define" vblex past
+;	"define" vblex pp
+"<manner>"
+	"manner" n sg
+"<and>"
+	"and" cnjcoo
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<can>"
+;	"can" n sg
+	"can" vbmod inf
+;	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<execute>"
+;	"execute" vblex inf
+	"execute" vblex pres
+;	"execute" vblex imp
+"<a>"
+	"a" det ind sg
+"<prerecorded>"
+	"prerecorded" adj 
+"<list>"
+	"list" n sg
+;	"list" vblex inf
+;	"list" vblex pres
+;	"list" vblex imp
+"<of>"
+	"of" pr
+"<instructions>"
+	"instruction" n pl
+"<called>"
+    "called" vblex pp
+"<a>"
+	"a" det ind sg
+"<program>"
+	"program" n sg
+;	"program" vblex inf
+;	"program" vblex pres
+;	"program" vblex imp
+"<.>"
+	"." sent
+"<There>"
+	"there" adv
+"<are>"
+	"be" vbser pres
+"<four>"
+	"four" num pl
+"<main>"
+	"main" adj
+"<processing>"
+	"processing" n sg
+;	"process" vblex pprs
+;	"process" vblex subs
+;	"process" vblex ger
+"<steps in>"
+	"step# in" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<:>"
+	":" sent
+"<inputting>"
+	"inputting" vblex ger
+"<,>"
+	"," cm
+"<storage>"
+	"storage" n sg
+"<,>"
+	"," cm
+"<outputting>"
+;	"output" vblex pprs
+;	"output" vblex subs
+	"output" vblex ger
+"<and>"
+	"and" cnjcoo
+"<processing>"
+;	"processing" n sg
+;	"process" vblex pprs
+;	"process" vblex subs
+	"process" vblex ger
+"<..>"
+	".." sent
+
+"<Modern>"
+	"modern" adj
+"<computers>"
+	"computer" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<billions>"
+	"billion" n pl
+"<of>"
+	"of" pr
+"<calculations>"
+	"calculation" n pl
+"<in a second>"
+	"in a second" adv
+"<.>"
+	"." sent
+"<Being able to>"
+	"be# able to" vbser pprs
+;	"be# able to" vbser subs
+;	"be# able to" vbser ger
+"<calculate>"
+	"calculate" vblex inf
+;	"calculate" vblex pres
+;	"calculate" vblex imp
+"<many times>"
+	"many times" adv
+"<per>"
+	"per" pr
+"<second>"
+;	"second" adv
+	"second" n sg
+;	"second" adj ord
+;	"second" vblex inf
+;	"second" vblex pres
+;	"second" vblex imp
+"<allows>"
+	"allow" vblex pres p3 sg
+"<modern>"
+	"modern" adj
+"<computers>"
+	"computer" n pl
+"<to>"
+	"to" pr
+"<multitask>"
+	"multitask" vblex inf 
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<means>"
+;	"mean" n pl
+;	"means" n sg
+;	"means" n pl
+	"mean" vblex pres p3 sg
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<different>"
+	"different" adj
+"<tasks>"
+	"task" n pl
+;	"task" vblex pres p3 sg
+"<at the same time>"
+	"at the same time" adv
+"<.>"
+	"." sent
+"<Computers>"
+	"computer" n pl
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<many>"
+	"many" det qnt pl
+;	"many" prn ind mf pl
+"<different>"
+	"different" adj
+"<jobs>"
+	"job" n pl
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<automation>"
+	"automation" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<useful>"
+	"useful" adj
+"<.>"
+	"." sent
+"<Some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<examples>"
+	"example" n pl
+"<are>"
+	"be" vbser pres
+"<controlling>"
+;	"controlling" n sg
+	"control" vblex pprs
+;	"control" vblex subs
+;	"control" vblex ger
+"<traffic lights>"
+	"traffic light" n pl
+"<,>"
+	"," cm
+"<vehicle>"
+	"vehicle" n sg
+"<computers>"
+	"computer" n pl
+"<,>"
+	"," cm
+"<security>"
+	"security" n sg
+"<systems>"
+	"system" n pl
+"<,>"
+	"," cm
+"<washing machines>"
+	"washing machine" n pl
+"<and>"
+	"and" cnjcoo
+"<digital>"
+	"digital" adj
+"<televisions>"
+	"television" n pl
+"<..>"
+	".." sent
+
+"<Computers>"
+	"computer" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<be>"
+	"be" vbser inf
+"<designed>"
+	"design" vblex pp
+;	"design" vblex past
+;	"designed" adj
+"<to>"
+	"to" pr
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<almost>"
+	"almost" adv
+"<anything>"
+	"anything" prn ind mf sg
+"<with>"
+	"with" pr
+"<information>"
+	"information" n sg
+"<.>"
+	"." sent
+"<Computers>"
+	"computer" n pl
+"<are>"
+	"be" vbser pres
+"<used to>"
+	"use# to" vblex past
+	"use# to" vblex pp
+"<control>"
+;	"control" n sg
+	"control" vblex inf
+;	"control" vblex pres
+;	"control" vblex imp
+"<large>"
+	"large" adj sint
+"<and>"
+	"and" cnjcoo
+"<small>"
+	"small" adj sint
+"<machines>"
+	"machine" n pl
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<in the past>"
+	"in the past" adv
+"<were>"
+	"be" vbser past
+"<controlled>"
+;	"control" vblex past
+	"control" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<humans>"
+	"human" n pl
+"<.>"
+	"." sent
+"<Most>"
+;	"most" adv
+;	"most" preadv
+	"most" det qnt sp
+;	"most" prn ind mf pl
+"<people>"
+;	"people" n sg
+	"person" n pl
+"<have>"
+;	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<used>"
+;	"use" vblex past
+	"use" vblex pp
+"<a>"
+	"a" det ind sg
+"<personal>"
+	"personal" adj
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<home>"
+;	"home" adv
+	"home" n sg
+"<or>"
+	"or" cnjcoo
+"<at work>"
+	"at work" adv
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+	"be" vbser pres
+"<used>"
+;	"use" vblex past
+	"use" vblex pp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<things>"
+	"thing" n pl
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<calculation>"
+	"calculation" n sg
+"<,>"
+	"," cm
+"<listening to>"
+	"listen# to" vblex pprs
+;	"listen# to" vblex subs
+;	"listen# to" vblex ger
+"<music>"
+	"music" n sg
+"<,>"
+	"," cm
+"<reading>"
+;	"reading" n sg
+	"read" vblex pprs
+;	"read" vblex subs
+;	"read" vblex ger
+"<the>"
+	"the" det def sp
+"<news>"
+	"news" n sg
+"<,>"
+	"," cm
+"<writing>"
+;	"writing" n sg
+	"write" vblex pprs
+;	"write" vblex subs
+;	"write" vblex ger
+"<etc.>"
+	"etc." abbr
+;	"etc." adv
+"<.>"
+	"." sent
+
+
+"<Modern>"
+	"modern" adj
+"<computers>"
+	"computer" n pl
+"<are>"
+	"be" vbser pres
+"<electronic>"
+	"electronic" adj
+"<computer>"
+	"computer" adj
+;	"computer" n sg
+"<hardware>"
+	"hardware" n sg
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<mathematical>"
+	"mathematical" adj
+"<arithmetic>"
+	"arithmetic" n sg
+"<very>"
+	"very" adv
+;	"very" preadv
+"<quickly>"
+	"quickly" adv
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<computers>"
+	"computer" n pl
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<not>"
+	"not" adv
+"<really>"
+	"really" adv
+;	"really" preadv
+ "
+"<think>"
+;	"think" vblex inf
+	"think" vblex pres
+;	"think" vblex imp
+
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<only>"
+;	"only" adj
+	"only" adv
+"<follow>"
+;	"follow" vblex inf
+	"follow" vblex pres
+;	"follow" vblex imp
+"<the>"
+	"the" det def sp
+"<instructions>"
+	"instruction" n pl
+"<in>"
+;	"in" adv
+	"in" pr
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<software>"
+	"software" n sg
+"<programs>"
+	"program" n pl
+;	"program" vblex pres p3 sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<software>"
+	"software" n sg
+"<uses>"
+;	"use" n pl
+	"use" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<hardware>"
+	"hardware" n sg
+"<when>"
+;	"when" adv
+;	"when" cnjsub
+;	"when" cnjadv
+	"when" adv itg
+"<the>"
+	"the" det def sp
+"<user>"
+	"user" n sg
+"<gives>"
+	"give" vblex pres p3 sg
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<instructions>"
+	"instruction" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<gives>"
+	"give" vblex pres p3 sg
+"<useful>"
+	"useful" adj
+"<output>"
+	"output" n sg
+;	"output" vblex inf
+;	"output" vblex pres
+;	"output" vblex past
+;	"output" vblex pp
+;	"output" vblex imp
+"<..>"
+	".." sent
+
+
+"<Humans>"
+	"human" n pl
+"<control>"
+;	"control" n sg
+;	"control" vblex inf
+	"control" vblex pres
+;	"control" vblex imp
+"<computers>"
+	"computer" n pl
+"<with>"
+	"with" pr
+"<user>"
+	"user" n sg
+"<interfaces>"
+	"interface" n pl
+;	"interface" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Input>"
+	"input" n sg
+;	"input" vblex inf
+;	"input" vblex pres
+;	"input" vblex imp
+"<devices>"
+	"device" n pl
+"<include>"
+;	"include" vblex inf
+	"include" vblex pres
+;	"include" vblex imp
+"<keyboards>"
+	"keyboard" n pl
+"<,>"
+	"," cm
+"<computer mice>"
+	"computer mouse" n pl
+"<,>"
+	"," cm
+"<buttons>"
+	"button" n pl
+;	"button" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<touch>"
+;	"touch" n sg
+	"touch" vblex inf
+;	"touch" vblex pres
+;	"touch" vblex imp
+"<screens>"
+	"screen" n pl
+;	"screen" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<computers>"
+	"computer" n pl
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<also>"
+	"also" adv
+"<be>"
+	"be" vbser inf
+"<controlled>"
+;	"control" vblex past
+	"control" vblex pp
+"<with>"
+	"with" pr
+"<voice>"
+	"voice" n sg
+;	"voice" vblex inf
+;	"voice" vblex pres
+;	"voice" vblex imp
+"<commands>"
+	"command" n pl
+;	"command" vblex pres p3 sg
+"<,>"
+	"," cm
+"<hand>"
+	"hand" n sg
+;	"hand" vblex inf
+;	"hand" vblex pres
+;	"hand" vblex imp
+"<gestures>"
+	"gesture" n pl
+"<or>"
+	"or" cnjcoo
+"<even>"
+;	"even" adj
+	"even" adv
+"<brain>"
+	"brain" n sg
+"<signals>"
+	"signal" n pl
+;	"signal" vblex pres p3 sg
+"<through>"
+	"through" pr
+"<electrodes>"
+	"electrode" n pl
+"<implanted>"
+	"implant" vblex pp
+;	"implant" vblex past
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<brain>"
+	"brain" n sg
+"<or>"
+	"or" cnjcoo
+"<along>"
+	"along" pr
+"<nerves>"
+	"nerve" n pl
+"<..>"
+	".." sent
+
+
+"<Computer programs>"
+	"computer program" n pl
+"<are>"
+	"be" vbser pres
+"<designed>"
+	"design" vblex pp
+;	"design" vblex past
+;	"designed" adj
+"<or>"
+	"or" cnjcoo
+"<written>"
+	"write" vblex pp
+;	"written" adj
+"<by>"
+;	"by" adv
+	"by" pr
+"<computer programmers>"
+	"computer programmer" n pl
+"<.>"
+	"." sent
+"<A few>"
+	"a few" det qnt pl
+;	"a few" prn ind mf pl
+"<programmers>"
+	"programmer" n pl
+"<write>"
+;	"write" vblex inf
+	"write" vblex pres
+;	"write" vblex imp
+"<programs>"
+	"program" n pl
+;	"program" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<own>"
+	"own" adj
+;	"own" vblex inf
+;	"own" vblex pres
+;	"own" vblex imp
+"<language>"
+	"language" n sg
+"<called>"
+	"call" vblex pp
+;	"call" vblex past
+"<machine>"
+	"machine" n sg
+"<code>"
+	"code" n sg
+;	"code" vblex inf
+;	"code" vblex pres
+;	"code" vblex imp
+"<.>"
+	"." sent
+"<Most>"
+	"most" adv
+;	"most" preadv
+;	"most" det qnt sp
+;	"most" prn ind mf pl
+"<programs>"
+	"program" n pl
+;	"program" vblex pres p3 sg
+"<are>"
+	"be" vbser pres
+"<written>"
+	"write" vblex pp
+;	"written" adj
+"<using>"
+	"use" vblex pprs
+;	"use" vblex subs
+;	"use" vblex ger
+"<a>"
+	"a" det ind sg
+"<programming language>"
+	"programming language" n sg
+"<like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<C>"
+	"C" al
+++
+"<,>"
+	"," cm
+"<Java>"
+;	"Java" np top sg
+	"Java" np al sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<Fortran>"
+	"Fortran" al
+"<.>"
+	"." sent
+"<These>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<programming languages>"
+	"programming language" n pl
+"<are>"
+	"be" vbser pres
+"<more>"
+	"more" adv
+;	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<like>"
+;	"like" adj
+;	"like" cnjsub
+	"like" pr
+;	"like" vblex inf
+;	"like" vblex pres
+;	"like" vblex imp
+"<the>"
+	"the" det def sp
+"<language>"
+	"language" n sg
+"<with>"
+	"with" pr
+"<which one>"
+	"which one" prn itg mf sp
+;	"which one" prn itg mf sg
+"<talks>"
+;	"talk" n pl
+	"talk" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<writes>"
+	"write" vblex pres p3 sg
+"<every day>"
+	"every day" adv
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<compiler>"
+	"compiler" n sg
+"<translates>"
+	"translate" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<user>"
+	"user" n sg
+"<'s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<instructions>"
+	"instruction" n pl
+"<into>"
+	"into" pr
+"<binary>"
+	"binary" adj
+;	"binary" n sg
+"<code>"
+	"code" n sg
+;	"code" vblex inf
+;	"code" vblex pres
+;	"code" vblex imp
+"<(>"
+	"(" lpar
+"<machine>"
+	"machine" n sg
+"<code>"
+;	"code" n sg
+	"code" vblex inf
+	"code" vblex pres
+	"code" vblex imp
+"<)>"
+	")" rpar
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<computer>"
+;	"computer" adj
+	"computer" n sg
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<understand>"
+;	"understand" vblex inf
+	"understand" vblex pres
+;	"understand" vblex imp
+"<and>"
+	"and" cnjcoo
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<what>"
+;	"what" det itg sp
+;	"what" prn itg mf sp
+	"what" prn rel nn mf sg
+"<is>"
+	"be" vbser pres p3 sg
+"<needed>"
+	"need" vblex pp
+;	"need" vblex past
+"<..>"
+	".." sent
+"<People>"
+;	"people" n sg
+	"person" n pl
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<not>"
+	"not" adv
+"<want>"
+;	"want" n sg
+	"want" vblex inf
+;	"want" vblex pres
+;	"want" vblex imp
+"<a>"
+	"a" det ind sg
+"<machine>"
+	"machine" n sg
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<would>"
+	"will" vbmod past
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<the same>"
+	"the same" adv
+;	"the same" det ind sp
+;	"same" adj
+;		"the" det def sp
+"<thing>"
+	"thing" n sg
+"<over and over again>"
+	"over and over again" adv
+"<.>"
+	"." sent
+"<For example>"
+	"for example" adv
+"<,>"
+	"," cm
+"<a>"
+	"a" det ind sg
+"<music>"
+	"music" n sg
+"<box>"
+	"box" n sg
+;	"box" n pl
+;	"box" vblex inf
+;	"box" vblex pres
+;	"box" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<machine>"
+	"machine" n sg
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<plays>"
+;	"play" n pl
+	"play" vblex pres p3 sg
+"<the same>"
+	"the same" adv
+;	"the same" det ind sp
+;	"same" adj
+;		"the" det def sp
+"<music>"
+	"music" n sg
+"<over and over again>"
+	"over and over again" adv
+"<.>"
+	"." sent
+"<Some>"
+;	"some" adj
+;	"some" adv
+	"some" det qnt sp
+;	"some" prn ind mf pl
+"<people>"
+;	"people" n sg
+	"person" n pl
+"<wanted to>"
+;	"want# to" vbmod pp
+	"want# to" vbmod past
+"<be able to>"
+	"be# able to" vbser inf
+"<tell>"
+	"tell" vblex inf
+;	"tell" vblex pres
+;	"tell" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<machine>"
+	"machine" n sg
+"<to>"
+	"to" pr
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+;	"do" vbdo inf
+	"do" vbdo pres
+;	"do" vbdo imp
+"<different>"
+	"different" adj
+"<things>"
+	"thing" n pl
+"<.>"
+	"." sent
+"<For example>"
+	"for example" adv
+"<,>"
+	"," cm
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<wanted to>"
+;	"want# to" vbmod pp
+	"want# to" vbmod past
+"<tell>"
+	"tell" vblex inf
+;	"tell" vblex pres
+;	"tell" vblex imp
+"<the>"
+	"the" det def sp
+"<music>"
+	"music" n sg
+"<box>"
+	"box" n sg
+;	"box" n pl
+;	"box" vblex inf
+;	"box" vblex pres
+;	"box" vblex imp
+"<to>"
+	"to" pr
+"<play>"
+;	"play" n sg
+;	"play" vblex inf
+	"play" vblex pres
+;	"play" vblex imp
+"<different>"
+	"different" adj
+"<music>"
+	"music" n sg
+"<every time>"
+	"every time" adv
+"<.>"
+	"." sent
+"<They>"
+	"prpers" prn subj p3 mf pl
+"<wanted to>"
+;	"want# to" vbmod pp
+	"want# to" vbmod past
+"<be able to>"
+	"be# able to" vbser inf
+"<program>"
+;	"program" n sg
+;	"program" vblex inf
+	"program" vblex pres
+;	"program" vblex imp
+"<the>"
+	"the" det def sp
+"<music>"
+	"music" n sg
+"<box>"
+	"box" n sg
+;	"box" n pl
+;	"box" vblex inf
+;	"box" vblex pres
+;	"box" vblex imp
+"<->"
+	"-" guio
+"<to>"
+	"to" pr
+"<order>"
+;	"order" n sg
+;	"order" vblex inf
+;	"order" vblex pres
+	"order" vblex imp
+"<the>"
+	"the" det def sp
+"<music>"
+	"music" n sg
+"<box>"
+	"box" n sg
+;	"box" n pl
+;	"box" vblex inf
+;	"box" vblex pres
+;	"box" vblex imp
+"<to>"
+	"to" pr
+"<play>"
+;	"play" n sg
+;	"play" vblex inf
+	"play" vblex pres
+;	"play" vblex imp
+"<different>"
+	"different" adj
+"<music>"
+	"music" n sg
+"<.>"
+	"." sent
+"<This>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<part>"
+	"part" n sg
+;	"part" vblex inf
+;	"part" vblex pres
+;	"part" vblex imp
+"<of>"
+	"of" pr
+"<computer>"
+	"computer" adj
+	"computer" n sg
+"<history>"
+	"history" n sg
+"<is called>"
+	"be# called" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+ "
+"<history>"
+	"history" n sg
+"<of>"
+	"of" pr
+"<programmable>"
+	"programmable" adj
+"<machines>"
+	"machine" n pl
+" 
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<fancy>"
+;	"fancy" n sg
+	"fancy" adj sint
+;	"fancy" vblex inf
+;	"fancy" vblex pres
+;	"fancy" vblex imp
+"<phrase>"
+	"phrase" n sg
+;	"phrase" vblex inf
+;	"phrase" vblex pres
+;	"phrase" vblex imp
+"<for>"
+;	"for" cnjadv
+	"for" pr
+ "
+"<The>"
+	"the" det def sp
+"<history>"
+	"history" n sg
+"<of>"
+	"of" pr
+"<machines>"
+	"machine" n pl
+"<that>"
+;	"that" cnjsub
+	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<can>"
+;	"can" n sg
+;	"can" vbmod inf
+	"can" vbmod pres
+;	"can" vblex inf
+;	"can" vblex pres
+;	"can" vblex imp
+"<order>"
+;	"order" n sg
+	"order" vblex inf
+;	"order" vblex pres
+;	"order" vblex imp
+"<to>"
+	"to" pr
+"<do>"
+;	"do" vblex inf
+;	"do" vblex pres
+;	"do" vblex imp
+;	"do" vaux inf
+;	"do" vaux pres
+	"do" vbdo inf
+;	"do" vbdo pres
+;	"do" vbdo imp
+"<different>"
+	"different" adj
+"<things>"
+	"thing" n pl
+"<if>"
+;	"if" adv
+	"if" cnjsub
+"<I>"
+	"prpers" prn subj p1 mf sg
+"<know>"
+;	"know" vblex inf
+	"know" vblex pres
+;	"know" vblex imp
+"<how>"
+	"how" adv
+;	"how" preadv
+;	"how" adv itg
+"<to>"
+	"to" pr
+"<speak>"
+;	"speak" vblex inf
+	"speak" vblex pres
+;	"speak" vblex imp
+"<their>"
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<language>"
+	"language" n sg
+"<.>"
+	"." sent
+"
+"<.>"
+	"." sent
+
+
+
+
+"<One>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<first>"
+;	"first" adv
+	"first" adj ord
+"<examples>"
+	"example" n pl
+"<of>"
+	"of" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<was>"
+	"be" vbser past p1 sg
+;	"be" vbser past p3 sg
+"<built>"
+;	"built" adj
+	"build" vblex past
+;	"build" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<Hero>"
+	"hero" n sg
+"<of>"
+	"of" pr
+"<Alexandria>"
+	"Alexandria" np ant f sg
+"<.>"
+	"." sent
+"<He>"
+	"He" np cog sg
+	"prpers" prn subj p3 m sg
+"<built>"
+;	"built" adj
+	"build" vblex past
+;	"build" vblex pp
+"<a>"
+	"a" det ind sg
+"<mechanical>"
+	"mechanical" adj
+"<theater>"
+	"theater" n sg
+"<which>"
+	"which" det itg sp
+;	"which" prn itg mf sp
+;	"which" prn rel an mf sp
+"<performed>"
+;	"perform" vblex pp
+	"perform" vblex past
+"<a>"
+	"a" det ind sg
+"<play>"
+	"play" n sg
+;	"play" vblex inf
+;	"play" vblex pres
+;	"play" vblex imp
+"<lasting>"
+;	"lasting" adj
+	"last" vblex pprs
+;	"last" vblex subs
+;	"last" vblex ger
+"<10>"
+	"10" num
+"<minutes>"
+	"minute" n pl
+"<and>"
+	"and" cnjcoo
+"<was>"
+	"be" vbser past p1 sg
+;	"be" vbser past p3 sg
+"<operated>"
+	"operate" vblex past
+;	"operate" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<a>"
+	"a" det ind sg
+"<complex>"
+	"complex" adj
+;	"complex" n sg
+"<system>"
+	"system" n sg
+"<of>"
+	"of" pr
+"<ropes>"
+	"rope" n pl
+;	"rope" vblex pres p3 sg
+"<and>"
+	"and" cnjcoo
+"<drums>"
+	"drum" n pl
+;	"drum" vblex pres p3 sg
+"<..>"
+	".." sent
