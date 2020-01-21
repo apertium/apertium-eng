@@ -17,8 +17,8 @@
 "<accepts>"
 	"accept" vblex pres p3 sg
 "<data>"
-	"data" n sg
-;	"data" n pl
+;	"data" n sg
+	"data" n pl
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -41,8 +41,8 @@
 ;	"that" prn dem mf sg
 ;	"that" prn rel an mf sp
 "<data>"
-	"data" n sg
-;	"data" n pl
+;	"data" n sg
+	"data" n pl
 "<using>"
 	"use" vblex pprs
 ;	"use" vblex subs
@@ -64,8 +64,8 @@
 ;	"process" vblex past
 	"processed" adj
 "<data>"
-	"data" n sg
-;	"data" n pl
+;	"data" n sg
+	"data" n pl
 "<as>"
 ;	"as" adv
 ;	"as" preadv
@@ -83,8 +83,8 @@
 	"computer" n pl
 "<can>"
 ;	"can" n sg
-	"can" vbmod inf
-;	"can" vbmod pres
+;	"can" vbmod inf
+	"can" vbmod pres
 ;	"can" vblex inf
 ;	"can" vblex pres
 ;	"can" vblex imp
@@ -117,8 +117,8 @@
 	"computer" n pl
 "<can>"
 ;	"can" n sg
-	"can" vbmod inf
-;	"can" vbmod pres
+;	"can" vbmod inf
+	"can" vbmod pres
 ;	"can" vblex inf
 ;	"can" vblex pres
 ;	"can" vblex imp
@@ -238,13 +238,13 @@
 ;	"can" vblex pres
 ;	"can" vblex imp
 "<execute>"
-	"execute" vblex inf
-;	"execute" vblex pres
+;	"execute" vblex inf
+	"execute" vblex pres
 ;	"execute" vblex imp
 "<a>"
 	"a" det ind sg
 "<prerecorded>"
-	"*prerecorded"
+	"prerecorded" adj 
 "<list>"
 	"list" n sg
 ;	"list" vblex inf
@@ -254,11 +254,8 @@
 	"of" pr
 "<instructions>"
 	"instruction" n pl
-"<call>"
-;	"call" n sg
-	"call" vblex inf
-;	"call" vblex pres
-;	"call" vblex imp
+"<called>"
+    "called" vblex pp
 "<a>"
 	"a" det ind sg
 "<program>"
@@ -277,10 +274,10 @@
 "<main>"
 	"main" adj
 "<processing>"
-;	"processing" n sg
+	"processing" n sg
 ;	"process" vblex pprs
 ;	"process" vblex subs
-	"process" vblex ger
+;	"process" vblex ger
 "<steps in>"
 	"step# in" vblex pres p3 sg
 "<a>"
@@ -291,7 +288,7 @@
 "<:>"
 	":" sent
 "<inputting>"
-	"*inputting"
+	"inputting" vblex ger
 "<,>"
 	"," cm
 "<storage>"
@@ -318,8 +315,8 @@
 	"computer" n pl
 "<can>"
 ;	"can" n sg
-	"can" vbmod inf
-;	"can" vbmod pres
+;	"can" vbmod inf
+	"can" vbmod pres
 ;	"can" vblex inf
 ;	"can" vblex pres
 ;	"can" vblex imp
@@ -329,8 +326,8 @@
 ;	"do" vblex imp
 ;	"do" vaux inf
 ;	"do" vaux pres
-;	"do" vbdo inf
-	"do" vbdo pres
+	"do" vbdo inf
+;	"do" vbdo pres
 ;	"do" vbdo imp
 "<billions>"
 	"billion" n pl
@@ -370,17 +367,17 @@
 "<to>"
 	"to" pr
 "<multitask>"
-	"*multitask"
+	"multitask" vblex inf 
 "<,>"
 	"," cm
 "<which>"
-	"which" det itg sp
-	"which" prn itg mf sp
+;	"which" det itg sp
+;	"which" prn itg mf sp
 	"which" prn rel an mf sp
 "<means>"
-	"mean" n pl
-	"means" n sg
-	"means" n pl
+;	"mean" n pl
+;	"means" n sg
+;	"means" n pl
 	"mean" vblex pres p3 sg
 "<they>"
 	"prpers" prn subj p3 mf pl
@@ -397,8 +394,8 @@
 ;	"do" vblex imp
 ;	"do" vaux inf
 ;	"do" vaux pres
-;	"do" vbdo inf
-	"do" vbdo pres
+	"do" vbdo inf
+;	"do" vbdo pres
 ;	"do" vbdo imp
 "<many>"
 	"many" det qnt pl
@@ -431,8 +428,8 @@
 "<jobs>"
 	"job" n pl
 "<where>"
-;	"where" adv
-	"where" adv itg
+	"where" adv
+;	"where" adv itg
 "<automation>"
 	"automation" n sg
 "<is>"
@@ -486,8 +483,8 @@
 	"computer" n pl
 "<can>"
 ;	"can" n sg
-	"can" vbmod inf
-;	"can" vbmod pres
+;	"can" vbmod inf
+	"can" vbmod pres
 ;	"can" vblex inf
 ;	"can" vblex pres
 ;	"can" vblex imp
@@ -505,8 +502,8 @@
 ;	"do" vblex imp
 ;	"do" vaux inf
 ;	"do" vaux pres
-;	"do" vbdo inf
-	"do" vbdo pres
+	"do" vbdo inf
+;	"do" vbdo pres
 ;	"do" vbdo imp
 "<almost>"
 	"almost" adv
@@ -547,8 +544,8 @@
 "<were>"
 	"be" vbser past
 "<controlled>"
-	"control" vblex past
-;	"control" vblex pp
+;	"control" vblex past
+	"control" vblex pp
 "<by>"
 ;	"by" adv
 	"by" pr
@@ -557,9 +554,9 @@
 "<.>"
 	"." sent
 "<Most>"
-	"most" adv
+;	"most" adv
 ;	"most" preadv
-;	"most" det qnt sp
+	"most" det qnt sp
 ;	"most" prn ind mf pl
 "<people>"
 ;	"people" n sg
@@ -571,8 +568,8 @@
 ;	"have" vblex pres
 ;	"have" vblex imp
 "<used>"
-	"use" vblex past
-;	"use" vblex pp
+;	"use" vblex past
+	"use" vblex pp
 "<a>"
 	"a" det ind sg
 "<personal>"
@@ -584,8 +581,8 @@
 ;	"in" adv
 	"in" pr
 "<their>"
-	"their" det pos sp
-;	"prpers" det pos p3 mf pl
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
 "<home>"
 ;	"home" adv
 	"home" n sg
@@ -724,8 +721,8 @@
 ;	"in" adv
 	"in" pr
 "<their>"
-	"their" det pos sp
-;	"prpers" det pos p3 mf pl
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
 "<software>"
 	"software" n sg
 "<programs>"
@@ -999,7 +996,7 @@
 ;	"like" vblex pres
 ;	"like" vblex imp
 "<C>"
-	"*C"
+	"C" al
 ++
 "<,>"
 	"," cm
@@ -1011,7 +1008,7 @@
 "<and>"
 	"and" cnjcoo
 "<Fortran>"
-	"*Fortran"
+	"Fortran" al
 "<.>"
 	"." sent
 "<These>"
@@ -1240,8 +1237,8 @@
 ;	"tell" vblex pres
 ;	"tell" vblex imp
 "<their>"
-	"their" det pos sp
-;	"prpers" det pos p3 mf pl
+;	"their" det pos sp
+	"prpers" det pos p3 mf pl
 "<machine>"
 	"machine" n sg
 "<to>"
