@@ -53,6 +53,7 @@ LIST Vbdo = vbdo ;
 LIST Vbaux = vaux ;
 LIST Vbmod = vbmod ;
 LIST Gen = gen ;
+LIST Guio = guio ;
 LIST Apos = apos ;
 LIST Not = "not" ;
 SET Please = ("please" adv) | ("please" ij) ;
@@ -330,14 +331,15 @@ SELECT V IF (0 N) (0 V) (-5C V) (-4 Det) (-3 N) (-2 N) (-1 Cnjcoo) ;
 
 #  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
 
-SELECT SUB:* Vbhaver IF (1 Pp) ;
-SELECT SUB:* Vbhaver IF (2 Pp) ;
-SELECT SUB:* Vbmod IF (1 Inf) ;
-SELECT SUB:* Vbmod IF (1 Adv) (2 Inf) ;
+SELECT SUB:-1 Vbhaver IF (1 Pp) ;
+SELECT SUB:-1 Vbhaver IF (2 Pp) ;
+SELECT SUB:-1 Vbmod IF (1 Inf) ;
+SELECT SUB:-1 Vbmod IF (1 Adv) (2 Inf) ;
 
 
-#Lemmas that are N or Adj: N if Adj precedes it or V follows
+#Lemmas that are N or Adj: N if Adj/Guio precedes it or V follows
 
+SELECT N IF (0 N) (0 Adj) (-1 Guio) ;
 SELECT N IF (0 N) (0 Adj) (-1 Adj) ;
 SELECT N IF (0 N) (0 Adj) (1 V) ;
 
@@ -427,7 +429,7 @@ SELECT Det IF (0 Adv) (0 Det) (1 Adj) (2 N) ;
 SELECT Adv IF (0 Adv) (0 Det) ;
 
 
-#Lemmas that are Adv or Prep ('around'): Adv unless N/Np follows
+#Lemmas that are Adv or Prep ('around'): Adv unless N/Np/Subs follows
 
 SELECT Pr IF (0 Adv) (0 Pr) (1 Np) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Adj) (2 Np) ;
@@ -439,6 +441,9 @@ SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Preadv) (3 Adj) (4 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Num) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Det) (2 Num) (2 N) ;
 SELECT Pr IF (0 Adv) (0 Pr) (1 Prn) ;
+SELECT Pr IF (0 Adv) (0 Pr) (1 Subs) ;
+SELECT SUB:0 Pr IF (0 Adv) (0/0 Pr) (0/-1 Adj) (1 N) ;
+SELECT SUB:0 Pr IF (0 Adv) (0/0 Pr) (0/-1 Adj) (1 Guio) ; 
 REMOVE Pr IF (0 Adv) (0 Pr) ;
 
 
