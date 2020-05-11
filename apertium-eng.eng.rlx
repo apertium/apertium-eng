@@ -21,6 +21,7 @@ LIST EOS = (<<<) ;
 SETS
 
 LIST Anything = * ;
+LIST Unknown = ("\\*.*"r) ;
 LIST N = n ;
 LIST Np = np ;
 LIST NpAnt = (np ant) ;
@@ -468,10 +469,10 @@ SELECT P3 IF (0C Pres) (0C Past) (NOT 0 ("'s")) ;
 
 #  Saxon genitive ('s)
 
-REMOVE Gen IF (NOT -1 N | Np) ;
+SELECT Gen IF (0 Gen) (-1 Unknown) ;
+REMOVE Gen IF (0 Gen) (NOT -1 N | Np) ;
 REMOVE Gen IF (0 Gen) (0 Apos) (NOT -1 ("<.*s>"r)) ;
 SELECT Gen IF (0 Gen) (0 Vbser) (0 Vbhaver) (-1 N + Pl) ;
-
 
 #  Have (vblex) and have (vbhaver)
 
