@@ -113,7 +113,7 @@ REMOVE N IF (0 NpCog) (0 N) (-1C NpAnt OR NpCog) ;
 REMOVE Adv IF (0 Adv) (1C N) ;
 REMOVE Adv IF (0 Adv) (1 Adj) (2C N) ;
 REMOVE Preadv IF (0 Preadv) (1C N) ;
-SELECT Predet IF (0 Predet) (1C The) ;
+SELECT Predet IF (0 Predet) (1C Det) ;
 
 REMOVE Pl IF (0 Letters) ;
 REMOVE Preadv IF (1 (cm)) ;
@@ -407,21 +407,21 @@ SELECT Prn IF (0 Both) (-1 PrnSubj) ;
 #  Lemmas that are Det or Prn: Det if N/Aadj follows
 
 REMOVE Det IF (0 Det) (-1 Det) ;
-SELECT Det IF (0 Det) (0 Prn) (1 N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Adj) (2 N) ;
-SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3 N) ;
+SELECT Det IF (0 Det) (0 Prn) (NOT -1 V) (1 N OR Np) ;
+SELECT Det IF (0 Det) (0 Prn) (NOT -1 V) (1 Adj) (2 N OR Np) ;
+SELECT Det IF (0 Det) (0 Prn) (NOT -1 V) (1 Preadv) (2 Adj) (3 N OR Np) ;
 
 
 #  Lemmas that are Det or Prn: Remove Det
 
-REMOVE Det IF (0 Det) (0 Prn) ;
+REMOVE Det IF (0 Det) (0 Prn) (NOT -1 V) ;
 
 
 #Lemmas that are Adj+Pred or Det ('his')
 
-SELECT Det IF (0 Adj) (0 Det) (1 N) ;
-SELECT Det IF (0 Adj) (0 Det) (1 Adj) (2 N) ;
-SELECT Det IF (0 Adj) (0 Det) (1 Adv) (2 Adj) (3 N) ;
+SELECT Det IF (0 Adj) (0 Det) (1 N OR Np) ;
+SELECT Det IF (0 Adj) (0 Det) (1 Adj) (2 N OR Np) ;
+SELECT Det IF (0 Adj) (0 Det) (1 Preadv) (2 Adj) (3 N OR Np) ;
 REMOVE Det IF (0 Adj) (0 Det) ;
 
 
