@@ -20,7 +20,6 @@ LIST EOS = (<<<) ;
 
 SETS
 
-LIST Anything = * ;
 LIST Unknown = ("\\*.*"r) ;
 LIST N = n ;
 LIST Np = np ;
@@ -97,6 +96,7 @@ LIST Ing = "<.*ing>"ri ;
 LIST Cm = cm ;
 LIST Sup = sup ;
 LIST Supadj = (adj sint sup) ;
+LIST Pred = pred ;
 List Nsg = (n sg) ;
 List Npl = (n pl) ;
 List As = "as" ;
@@ -287,7 +287,7 @@ SELECT N IF (0 N) (0 V) (1 Subs) ;
 
 #  Lemmas that are N or V: N if alone in sentence
 
-SELECT N IF (0 N) (0 V) (-1 BOS) (NOT 1 Anything ) ;
+SELECT N IF (0 N) (0 V) (-1 BOS) (NOT 1* N ) ;
 
 
 #  Lemmas that are N or V: V if vbmod/Vbdo precedes it
@@ -415,6 +415,14 @@ SELECT Det IF (0 Det) (0 Prn) (1 Preadv) (2 Adj) (3 N) ;
 #  Lemmas that are Det or Prn: Remove Det
 
 REMOVE Det IF (0 Det) (0 Prn) ;
+
+
+#Lemmas that are Adj+Pred or Det ('his')
+
+SELECT Det IF (0 Adj) (0 Det) (1 N) ;
+SELECT Det IF (0 Adj) (0 Det) (1 Adj) (2 N) ;
+SELECT Det IF (0 Adj) (0 Det) (1 Adv) (2 Adj) (3 N) ;
+REMOVE Det IF (0 Adj) (0 Det) ;
 
 
 #Lemmas that are Adj or Det ('little'): Adj if Det precedes it or N+Pl follows
