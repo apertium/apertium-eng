@@ -431,6 +431,11 @@ SELECT Adj IF (0 Adj) (0 Det) (-1 Det) ;
 SELECT Adj IF (0 Adj) (0 Det) (1 N + Pl) ;
 
 
+#Lemmas that are Adv or Adj ('free'): Adj if Pr follows
+
+SELECT Adj IF (0 Adj) (0 Adv) (-1 Vbser) (1 Pr) ;
+
+
 #Lemmas that are Adv or Det ('no'): Adv unless N follows
 
 SELECT Det IF (0 Adv) (0 Det) (1 N) ;
@@ -581,13 +586,3 @@ SELECT V IF (0 ("press")) (0 V) (0 N) (-1 BOS) (1 Cnjcoo) (2 ("hold")) ;
 
 # a job / Steve Jobs (breaks phrases such as "an Apple representative")
 # REMOVE Np IF (-1C (det ind)) ;
-
-
-AFTER-SECTIONS
-
-#  Capital letter corrections
-
-APPEND ("Prpers" prn subj p1 mf sg) PrnSubjP1Sg IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
-REMOVE ("prpers" prn subj p1 mf sg) IF (-1 BOS) (NOT 0/1 Vbser | Vbmod | Vbhaver) ;
-
-ADD (min) PrnSubjP1Sg IF (NOT -1 BOS) ;
