@@ -109,15 +109,22 @@ SECTION
 
 REMOVE V IF (0 V) (0 N) (-1C Det) ;
 REMOVE V IF (0 V) (0 N) (-1C Gen) ;
-REMOVE N IF (0 NpCog) (0 N) (-1C NpAnt OR NpCog) ;
 REMOVE Adv IF (0 Adv) (1C N) ;
 REMOVE Adv IF (0 Adv) (1 Adj) (2C N) ;
 REMOVE Preadv IF (0 Preadv) (1C N) ;
 SELECT Predet IF (0 Predet) (1C Det) ;
+REMOVE Cnjadv IF (0 Cnjadv) (1 EOS) ;
+REMOVE Cnjadv IF (0 Cnjadv) (NOT 1* EOS) ;
 
 REMOVE Pl IF (0 Letters) ;
 REMOVE Preadv IF (1 (cm)) ;
 REMOVE Cnjsub IF (0 ThatCnj) (-1 BOS) ;
+
+
+#  Proper nouns
+
+REMOVE N IF (0 NpCog) (0 N) (-1C NpAnt OR NpCog) ;
+REMOVE N IF (0 NpCog) (0 N) (-1 N + ("president")) ;
 
 
 #  Verbs: select infitinive if preceded by "to"
@@ -141,7 +148,8 @@ SELECT Inf IF (0 V) (-2/1 ("will")) (-1 Adv) ;
 SELECT Inf IF (0 V) (-2/1 ("can")) (-1 Adv) ;
 SELECT Inf IF (0 V) (-2/1 ("shall")) (-1 Adv) ;
 
-SELECT Inf IF (0 V) (-2 Vbmod) (-1 PrnSubj) ;
+SELECT Inf IF (0 V) (-2 Vbdo) (-1 PrnSubj | Prn) ;
+SELECT Inf IF (0 V) (-2 Vbmod) (-1 PrnSubj | Prn) ;
 SELECT Inf IF (0 V) (-3 Vbmod) (-2 Adv) (-1 PrnSubj) ;
 SELECT Inf IF (0 V) (-2/1 ("will")) (-1 PrnSubj) ;
 SELECT Inf IF (0 V) (-2/1 ("can")) (-1 PrnSubj) ;
@@ -202,7 +210,7 @@ REMOVE Inf IF (0 Vbhaver) (-1C BOS) (1 PrnSubj) (2 Pp) ;
 
 #  Do: select if placed at BOS and are part of an inverted structure ("Do you like...?")
 
-SELECT Vbdo IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
+SELECT Vbdo IF (0 Vbdo) (-1C BOS) (1 PrnSubj | Prn) (2 Inf) ;
 REMOVE Inf IF (0 Vbdo) (-1C BOS) (1 PrnSubj) (2 Inf) ;
 
 
@@ -251,11 +259,15 @@ REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) ;
 REMOVE Pr IF (0 V) (0 Pr) (-1 Vbmod) (-1/1 Adv) ;
 REMOVE Pr IF (0 V) (0 Pr) (-2/1 Vbmod) (-1 Adv) ;
 REMOVE Pr IF (0 V) (0 Pr) (-2 Vbmod) (-1 Adv) ;
+REMOVE Pr IF (0 V) (0 Pr) (1C Pr) ;
+REMOVE Pr IF (0 V) (0 Pr) (-1 PrnSubj) (1 Ger) ;
 
 
 #  Verbs ending in -ing
 
+SELECT Adj IF (0 Ger) (0 Pprs) (0 Subs) (0 Adj) (NOT -1 V) ;
 SELECT Pprs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Det) (1C N) ;
+SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (-1C V) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (1C Fin) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (NOT -1 Vbser) (1C Pr) ;
 SELECT Subs IF (0 Ger) (0 Pprs) (0 Subs) (-1C Pr) ;
@@ -302,7 +314,7 @@ SELECT V IF (0 N) (0 V) (-3 Vbdo) (-2 Adv) (-1 Adv) ;
 
 #  Lemmas that are N or V: V if Adv/Prn/N/vbmod precedes it
 
-SELECT V IF (0 N) (0 V) (-2 N) (-1 Adv) ;
+SELECT V IF (0 N) (0 V) (-2 N) (-1C Adv) ;
 SELECT V IF (0 N) (0 V) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Prn) ;
 SELECT V IF (0 N) (0 V) (-3 Prn) (-2 Cnjcoo) (-1 Np) ;
@@ -334,6 +346,7 @@ SELECT V IF (0 N) (0 V) (-5C V) (-4 Det) (-3 N) (-2 N) (-1 Cnjcoo) ;
 
 SELECT SUB:-1 Vbhaver IF (1 Pp) ;
 SELECT SUB:-1 Vbhaver IF (2 Pp) ;
+REMOVE SUB:-1 Vbhaver ;
 SELECT SUB:-1 Vbmod IF (1 Inf) ;
 SELECT SUB:-1 Vbmod IF (1 Adv) (2 Inf) ;
 
@@ -578,6 +591,11 @@ SELECT V IF (0 ("sort")) (0 V) (0 N) (-1 BOS) (1 Pr) ;
 
 # press and hold
 SELECT V IF (0 ("press")) (0 V) (0 N) (-1 BOS) (1 Cnjcoo) (2 ("hold")) ;
+
+# right
+SELECT Ij IF (0 ("right")) (0 Ij) (-1 _S_SOFT_DELIMITERS_) (1 ("?") + _S_DELIMITERS_) ;
+SELECT Ij IF (0 ("right")) (0 Ij) (-1 BOS) (1 ("?") + _S_DELIMITERS_) ;
+REMOVE Ij IF (0 ("right")) (0 Ij) ;
 
 
 #
