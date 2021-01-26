@@ -597,6 +597,10 @@ SELECT Ij IF (0 ("right")) (0 Ij) (-1 _S_SOFT_DELIMITERS_) (1 ("?") + _S_DELIMIT
 SELECT Ij IF (0 ("right")) (0 Ij) (-1 BOS) (1 ("?") + _S_DELIMITERS_) ;
 REMOVE Ij IF (0 ("right")) (0 Ij) ;
 
+# He
+SELECT NpCog IF (0 NpCog) (0 PrnSubj) (-1 NpAnt) ;
+REMOVE NpCog IF (0 NpCog) (0 PrnSubj) ;
+
 
 #
 # TODO: Rules to be revised
