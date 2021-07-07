@@ -1,0 +1,1611 @@
+"<The>"
+	"the" det def sp
+"<Enceladus>"
+	"Enceladus" np top sg
+"<’>"
+;	"'" apos
+	"'s" gen
+"<Plumes>"
+	"plume" n pl
+"<are>"
+	"be" vbser pres
+"<a>"
+	"a" det ind sg
+"<phenomenon>"
+	"phenomenon" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<happen>"
+;	"happen" vblex inf
+	"happen" vblex pres
+;	"happen" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<south>"
+;	"south" adv
+;	"south" n sg
+	"south" adj sint
+"<pole>"
+	"pole" n sg
+"<of>"
+	"of" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<,>"
+	"," cm
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<moons>"
+	"moon" n pl
+"<.>"
+	"." sent
+"<Plumes>"
+	"plume" n pl
+"<of>"
+	"of" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<vapour>"
+	"vapour" n sg
+"<,>"
+	"," cm
+"<as well as>"
+	"as well as" cnjcoo
+"<other>"
+	"other" det ind sp
+"<substances>"
+	"substance" n pl
+"<,>"
+	"," cm
+"<erupt>"
+;	"erupt" vblex inf
+	"erupt" vblex pres
+;	"erupt" vblex imp
+"<from>"
+	"from" pr
+"<cracks>"
+	"crack" n pl
+;	"crack" vblex pres p3 sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<icy>"
+	"icy" adj sint
+"<surface>"
+	"surface" n sg
+;	"surface" vblex inf
+;	"surface" vblex pres
+;	"surface" vblex imp
+"<of>"
+	"of" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<moon>"
+	"moon" n sg
+"<.>"
+	"." sent
+"<These>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<plumes>"
+	"plume" n pl
+"<were>"
+	"be" vbser past
+"<first>"
+	"first" adv
+;	"first" adj ord
+"<observed>"
+;	"observe" vblex past
+	"observe" vblex pp
+"<in>"
+;	"in" adv
+	"in" pr
+"<2005>"
+	"2005" num
+"<,>"
+	"," cm
+"<when>"
+;	"when" adv
+	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<the>"
+	"the" det def sp
+"<Cassini>"
+	"Cassini" np cog sg
+"<mission>"
+	"mission" n sg
+"<passed>"
+;	"pass" vblex pp
+	"pass" vblex past
+"<over>"
+;	"over" adv
+	"over" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<passage>"
+	"passage" n sg
+"<suggested>"
+;	"suggest" vblex pp
+	"suggest" vblex past
+;	"suggested" adj
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<cryovolcanism>"
+	"cryovolcanism" n sg
+"<(>"
+	"(" lpar
+"<type>"
+	"type" n sg
+;	"type" vblex inf
+;	"type" vblex pres
+;	"type" vblex imp
+"<of>"
+	"of" pr
+"<volcanism>"
+	"volcanism" n sg
+"<where>"
+	"where" adv
+;	"where" adv itg
+"<volcanoes>"
+	"volcano" n pl
+"<erupt>"
+;	"erupt" vblex inf
+	"erupt" vblex pres
+;	"erupt" vblex imp
+"<,>"
+	"," cm
+"<instead of>"
+	"instead of" pr
+"<molten>"
+	"molten" adj
+"<rock>"
+	"rock" n sg
+;	"rock" vblex inf
+;	"rock" vblex pres
+;	"rock" vblex imp
+"<,>"
+	"," cm
+"<volatile>"
+	"volatile" adj
+"<gases>"
+	"gas" n pl
+"<such as>"
+;	"such as" adv
+	"such as" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<or>"
+	"or" cnjcoo
+"<methane>"
+	"methane" n sg
+"<)>"
+	")" rpar
+"<might>"
+;	"might" vbmod inf
+	"might" vbmod pres
+"<be>"
+	"be" vbser inf
+"<present>"
+	"present" adj
+;	"present" n sg
+;	"present" vblex inf
+;	"present" vblex pres
+;	"present" vblex imp
+"<on>"
+;	"on" adv
+	"on" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<planet>"
+	"planet" n sg
+"<,>"
+	"," cm
+"<even though>"
+	"even though" cnjadv
+"<scientists>"
+	"scientist" n pl
+"<are>"
+	"be" vbser pres
+"<unsure>"
+	"unsure" adj
+"<,>"
+	"," cm
+"<with>"
+	"with" pr
+"<some>"
+;	"some" adj
+;	"some" adv
+;	"some" det qnt sp
+	"some" prn ind mf pl
+"<believing>"
+;	"believing" adj
+;	"believe" vblex pprs
+;	"believe" vblex subs
+	"believe" vblex ger
+"<they’re>"
+	"be" vbser pres
+		"prpers" prn subj p3 mf pl
+"<only>"
+;	"only" adj
+	"only" adv
+"<geysers>"
+	"geyser" n pl
+"<.>"
+	"." sent
+"<In>"
+;	"in" adv
+	"in" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<gas>"
+	"gas" n sg
+"<clouds>"
+	"cloud" n pl
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<cryovolcanoes>"
+	"cryovolcano" n pl
+"<(>"
+	"(" lpar
+"<or>"
+	"or" cnjcoo
+"<geysers>"
+	"geyser" n pl
+"<)>"
+	")" rpar
+"<are>"
+	"be" vbser pres
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<mostly>"
+	"mostly" adv
+"<of>"
+	"of" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<vapour>"
+	"vapour" n sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<also>"
+	"also" adv
+"<from>"
+	"from" pr
+"<nitrogen>"
+	"nitrogen" n sg
+"<,>"
+	"," cm
+"<carbon dioxide>"
+	"carbon dioxide" n sg
+"<and>"
+	"and" cnjcoo
+"<methane>"
+	"methane" n sg
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<erupted>"
+	"erupt" vblex pp
+;	"erupt" vblex past
+"<plumes>"
+	"plume" n pl
+"<also>"
+	"also" adv
+"<feed>"
+;	"feed" n sg
+;	"feed" vblex inf
+	"feed" vblex pres
+;	"feed" vblex imp
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<.>"
+	"." sent
+"<This>"
+;	"this" det dem sg
+	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<could>"
+	"can" vbmod past
+"<lead to>"
+	"lead# to" vblex inf
+;	"lead# to" vblex pres
+;	"lead# to" vblex imp
+"<multiple>"
+	"multiple" adj
+;	"multiple" n sg
+"<scientific>"
+	"scientific" adj
+"<discoveries>"
+	"discovery" n pl
+"<.>"
+	"." sent
+
+
+"<One>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<them>"
+;	"that" prn dem pl
+	"prpers" prn obj p3 mf pl
+"<would>"
+	"will" vbmod past
+"<be>"
+	"be" vbser inf
+"<the>"
+	"the" det def sp
+"<unveiling>"
+;	"unveil" vblex pprs
+	"unveil" vblex subs
+;	"unveil" vblex ger
+"<of>"
+	"of" pr
+"<secrets>"
+	"secret" n pl
+"<about>"
+;	"about" adv
+	"about" pr
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Lots of>"
+	"lots of" det qnt sp
+"<theories>"
+	"theory" n pl
+"<have>"
+;	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<been>"
+	"be" vbser pp
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<on>"
+;	"on" adv
+	"on" pr
+"<why>"
+	"why" adv itg
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<exist>"
+;	"exist" vblex inf
+	"exist" vblex pres
+;	"exist" vblex imp
+"<and>"
+	"and" cnjcoo
+"<what>"
+;	"what" det itg sp
+	"what" prn itg mf sp
+;	"what" prn rel nn mf sg
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+	"be" vbser pres
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<of>"
+	"of" pr
+"<.>"
+	"." sent
+"<Because of>"
+	"because of" pr
+"<the>"
+	"the" det def sp
+"<discovery>"
+	"discovery" n sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<Enceladus>"
+	"Enceladus" np top sg
+"<feeds>"
+;	"feed" n pl
+	"feed" vblex pres p3 sg
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<E>"
+	"E" np al sg
+"<ring>"
+	"ring" n sg
+;	"ring" vblex inf
+;	"ring" vblex pres
+;	"ring" vblex imp
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<plumes>"
+	"plume" n pl
+"<are>"
+	"be" vbser pres
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<from>"
+	"from" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<vapour>"
+	"vapour" n sg
+"<,>"
+	"," cm
+"<icy>"
+	"icy" adj sint
+"<particles>"
+	"particle" n pl
+"<and>"
+	"and" cnjcoo
+"<a few>"
+	"a few" det qnt pl
+;	"a few" prn ind mf pl
+"<other>"
+	"other" det ind sp
+"<components>"
+	"component" n pl
+"<,>"
+	"," cm
+"<it>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg
+"<been>"
+	"be" vbser pp
+"<confirmed>"
+	"confirm" vblex pp
+;	"confirm" vblex past
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<E>"
+	"E" np al sg
+"<ring>"
+	"ring" n sg
+;	"ring" vblex inf
+;	"ring" vblex pres
+;	"ring" vblex imp
+"<is>"
+	"be" vbser pres p3 sg
+"<mostly>"
+	"mostly" adv
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<of>"
+	"of" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<vapour>"
+	"vapour" n sg
+"<and>"
+	"and" cnjcoo
+"<ice>"
+	"ice" n sg
+"<.>"
+	"." sent
+"<It’s>"
+	"be" vbser pres p3 sg
+		"prpers" prn subj p3 nt sg
+"<likely>"
+	"likely" adv
+;	"likely" adj sint
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<the>"
+	"the" det def sp
+"<case>"
+	"case" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<most of>"
+	"most of" det qnt sp
+"<the others>"
+	"the other" prn dem mf pl
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<as well>"
+	"as well" adv
+"<.>"
+	"." sent
+
+"<The>"
+	"the" det def sp
+"<fact>"
+	"fact" n sg
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<plumes>"
+	"plume" n pl
+"<feed>"
+;	"feed" n sg
+;	"feed" vblex inf
+	"feed" vblex pres
+;	"feed" vblex imp
+"<the>"
+	"the" det def sp
+"<E>"
+	"E" np al sg
+"<ring>"
+	"ring" n sg
+;	"ring" vblex inf
+;	"ring" vblex pres
+;	"ring" vblex imp
+"<could>"
+	"can" vbmod past
+"<also>"
+	"also" adv
+"<help>"
+;	"help" n sg
+	"help" vblex inf
+;	"help" vblex pres
+;	"help" vblex imp
+"<scientists>"
+	"scientist" n pl
+"<discover>"
+;	"discover" adv
+	"discover" vblex inf
+;	"discover" vblex pres
+;	"discover" vblex imp
+"<where>"
+;	"where" adv
+	"where" adv itg
+"<the>"
+	"the" det def sp
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<come from>"
+;	"come# from" vblex inf
+	"come# from" vblex pres
+;	"come# from" vblex pp
+;	"come# from" vblex imp
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<analysis>"
+	"analysis" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<plume>"
+	"plume" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<feeds>"
+;	"feed" n pl
+	"feed" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<ring>"
+	"ring" n sg
+;	"ring" vblex inf
+;	"ring" vblex pres
+;	"ring" vblex imp
+"<and>"
+	"and" cnjcoo
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<ring>"
+	"ring" n sg
+;	"ring" vblex inf
+;	"ring" vblex pres
+;	"ring" vblex imp
+"<itself>"
+	"itself" prn ref p3 nt sg
+"<shows>"
+;	"show" n pl
+	"show" vblex pres p3 sg
+"<there>"
+	"there" adv
+"<is>"
+	"be" vbser pres p3 sg
+"<a lot>"
+	"a lot" adv
+"<more>"
+;	"more" adv
+;	"more" preadv
+;	"more" n sg
+	"more" det qnt sp
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<and>"
+	"and" cnjcoo
+"<ice>"
+	"ice" n sg
+"<than>"
+	"than" cnjsub
+"<rocks>"
+	"rock" n pl
+;	"rock" vblex pres p3 sg
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<makes>"
+;	"make" n pl
+	"make" vblex pres p3 sg
+"<the>"
+	"the" det def sp
+"<most>"
+;	"most" adv
+	"most" preadv
+;	"most" det qnt sp
+;	"most" prn ind mf pl
+"<commonly>"
+	"commonly" adv
+"<accepted>"
+	"accept" vblex pp
+;	"accept" vblex past
+"<theory>"
+	"theory" n sg
+"<,>"
+	"," cm
+"<that>"
+	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+"<the>"
+	"the" det def sp
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<were>"
+	"be" vbser past
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<when>"
+	"when" adv
+;	"when" cnjsub
+;	"when" cnjadv
+;	"when" adv itg
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<Saturn>"
+	"Saturn" np top sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<moon>"
+	"moon" n sg
+"<disintegrated>"
+	"disintegrate" vblex past
+;	"disintegrate" vblex pp
+"<,>"
+	"," cm
+"<likely>"
+	"likely" adv
+;	"likely" adj sint
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<wrong>"
+	"wrong" adj
+;	"wrong" adv
+;	"wrong" n sg
+;	"wrong" vblex inf
+;	"wrong" vblex pres
+;	"wrong" vblex imp
+"<,>"
+	"," cm
+"<as>"
+;	"as" adv
+;	"as" preadv
+	"as" cnjsub
+;	"as" cnjadv
+;	"as" pr
+"<most>"
+;	"most" adv
+;	"most" preadv
+	"most" det qnt sp
+;	"most" prn ind mf pl
+"<moons>"
+	"moon" n pl
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+;	"that" prn rel an mf sp
+	"that" adv
+"<distant>"
+	"distant" adj
+;	"distant" adv
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<sun>"
+	"sun" n sg
+;	"sun" vblex inf
+;	"sun" vblex pres
+;	"sun" vblex imp
+"<are>"
+	"be" vbser pres
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<of>"
+	"of" pr
+"<half>"
+;	"half" adj
+;	"half" adv
+;	"half" n sg
+	"half" det qnt pl
+"<rock>"
+	"rock" n sg
+;	"rock" vblex inf
+;	"rock" vblex pres
+;	"rock" vblex imp
+"<and>"
+	"and" cnjcoo
+"<half>"
+;	"half" adj
+;	"half" adv
+;	"half" n sg
+	"half" det qnt pl
+"<ice>"
+	"ice" n sg
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<would>"
+	"will" vbmod past
+"<mean>"
+;	"mean" n sg
+;	"mean" adj sint
+	"mean" vblex inf
+;	"mean" vblex pres
+;	"mean" vblex imp
+"<the>"
+	"the" det def sp
+"<rings>"
+	"ring" n pl
+;	"ring" vblex pres p3 sg
+"<would>"
+	"will" vbmod past
+"<be>"
+	"be" vbser inf
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<of>"
+	"of" pr
+"<half>"
+;	"half" adj
+;	"half" adv
+;	"half" n sg
+	"half" det qnt pl
+"<rock>"
+	"rock" n sg
+;	"rock" vblex inf
+;	"rock" vblex pres
+;	"rock" vblex imp
+"<and>"
+	"and" cnjcoo
+"<half>"
+;	"half" adj
+;	"half" adv
+;	"half" n sg
+	"half" det qnt pl
+"<ice>"
+	"ice" n sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<that’s>"
+	"be" vbser pres p3 sg
+		"that" prn dem mf sg
+"<not>"
+	"not" adv
+"<what>"
+;	"what" det itg sp
+;	"what" prn itg mf sp
+	"what" prn rel nn mf sg
+"<was>"
+;	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<observed>"
+;	"observe" vblex past
+	"observe" vblex pp
+"<.>"
+	"." sent
+
+
+"<Another>"
+	"another" det ind sg
+;	"another" prn ind mf sg
+"<scientific>"
+	"scientific" adj
+"<discovery>"
+	"discovery" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<could>"
+	"can" vbmod past
+"<be>"
+	"be" vbser inf
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<discovery>"
+	"discovery" n sg
+"<of>"
+	"of" pr
+"<life>"
+	"life" n sg
+"<in>"
+;	"in" adv
+	"in" pr
+"<other>"
+	"other" det ind sp
+"<planets>"
+	"planet" n pl
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<plumes>"
+	"plume" n pl
+"<of>"
+	"of" pr
+"<ice>"
+	"ice" n sg
+"<are>"
+	"be" vbser pres
+"<likely>"
+	"likely" adv
+;	"likely" adj sint
+"<to>"
+	"to" pr
+"<be>"
+	"be" vbser inf
+"<made>"
+;	"made" adj
+;	"make" vblex past
+	"make" vblex pp
+"<from>"
+	"from" pr
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<comes from>"
+	"come# from" vblex pres p3 sg
+"<an>"
+	"a" det ind sg
+"<ocean>"
+	"ocean" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<is>"
+	"be" vbser pres p3 sg
+"<located>"
+;	"locate" vblex past
+	"locate" vblex pp
+"<under>"
+;	"under" adv
+	"under" pr
+"<the>"
+	"the" det def sp
+"<icy>"
+	"icy" adj sint
+"<surface>"
+	"surface" n sg
+;	"surface" vblex inf
+;	"surface" vblex pres
+;	"surface" vblex imp
+"<of>"
+	"of" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<.>"
+	"." sent
+"<Those>"
+	"that" det dem pl
+;	"that" prn dem mf pl
+"<oceans>"
+	"ocean" n pl
+"<could>"
+	"can" vbmod past
+"<be>"
+	"be" vbser inf
+"<home>"
+;	"home" adv
+	"home" n sg
+"<to>"
+	"to" pr
+"<life>"
+	"life" n sg
+"<forms>"
+	"form" n pl
+;	"form" vblex pres p3 sg
+"<since>"
+;	"since" adv
+	"since" cnjsub
+;	"since" pr
+"<they>"
+	"prpers" prn subj p3 mf pl
+"<are>"
+	"be" vbser pres
+"<kept warm>"
+;	"keep# warm" vblex past
+	"keep# warm" vblex pp
+"<by>"
+;	"by" adv
+	"by" pr
+"<tidal>"
+	"tidal" adj
+"<heating>"
+	"heating" n sg
+;	"heat" vblex pprs
+;	"heat" vblex subs
+;	"heat" vblex ger
+"<(>"
+	"(" lpar
+"<orbital>"
+	"orbital" adj
+"<and>"
+	"and" cnjcoo
+"<rotational>"
+	"rotational" adj
+"<energy>"
+	"energy" n sg
+"<are>"
+	"be" vbser pres
+"<transformed>"
+	"transform" vblex pp
+;	"transform" vblex past
+"<into>"
+	"into" pr
+"<heat>"
+	"heat" n sg
+;	"heat" vblex inf
+;	"heat" vblex pres
+;	"heat" vblex imp
+"<in>"
+;	"in" adv
+	"in" pr
+"<the>"
+	"the" det def sp
+"<interior>"
+	"interior" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<moon>"
+	"moon" n sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<The>"
+	"the" det def sp
+"<geysers>"
+	"geyser" n pl
+"<of>"
+	"of" pr
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<moon>"
+	"moon" n sg
+"<could>"
+	"can" vbmod past
+"<be>"
+	"be" vbser inf
+"<a>"
+	"a" det ind sg
+ “
+"<transportation>"
+	"transportation" n sg
+”
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<alien>"
+	"alien" n sg
+"<bacteria>"
+	"bacterium" n pl
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<would>"
+	"will" vbmod past
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<finding>"
+;	"finding" n sg
+;	"find" vblex pprs
+	"find" vblex subs
+;	"find" vblex ger
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<bacteria>"
+	"bacterium" n pl
+"<a lot>"
+	"a lot" adv
+"<easier>"
+	"easy" adj sint comp
+"<,>"
+	"," cm
+"<without>"
+;	"without" adv
+	"without" pr
+"<needing>"
+;	"need" vblex pprs
+	"need" vblex subs
+;	"need" vblex ger
+"<to>"
+	"to" pr
+"<drill>"
+;	"drill" n sg
+	"drill" vblex inf
+;	"drill" vblex pres
+;	"drill" vblex imp
+"<through>"
+	"through" pr
+"<kilometres>"
+	"kilometre" n pl
+"<of>"
+	"of" pr
+"<ice>"
+	"ice" n sg
+"<and>"
+	"and" cnjcoo
+"<rocks>"
+	"rock" n pl
+;	"rock" vblex pres p3 sg
+"<.>"
+	"." sent
+"<Cassini>"
+	"Cassini" np cog sg
+"<wasn’t>"
+;	"not" adv
+;		"be" vbser past p1 sg
+	"not" adv
+		"be" vbser past p3 sg
+"<ready>"
+	"ready" adv
+;	"ready" adj sint
+"<to>"
+	"to" pr
+"<try>"
+	"try" vblex inf
+;	"try" vblex pres
+;	"try" vblex imp
+"<to>"
+	"to" pr
+"<collect>"
+	"collect" vblex inf
+;	"collect" vblex pres
+;	"collect" vblex imp
+"<these>"
+	"this" det dem pl
+;	"this" prn dem mf pl
+"<possible>"
+	"possible" adj
+"<alien>"
+	"alien" n sg
+"<life>"
+	"life" n sg
+"<forms>"
+	"form" n pl
+;	"form" vblex pres p3 sg
+"<,>"
+	"," cm
+"<but>"
+	"but" cnjcoo
+;	"but" pr
+"<the>"
+	"the" det def sp
+"<analysis>"
+	"analysis" n sg
+"<of>"
+	"of" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<’>"
+;	"'" apos
+	"'s" gen
+"<plumes>"
+	"plume" n pl
+"<revealed>"
+;	"reveal" vblex pp
+	"reveal" vblex past
+"<various>"
+	"various" adj
+;	"various" det ind pl
+"<molecules>"
+	"molecule" n pl
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<are>"
+	"be" vbser pres
+"<associated with>"
+;	"associate# with" vblex past
+	"associate# with" vblex pp
+"<life>"
+	"life" n sg
+"<:>"
+	":" sent
+"<water>"
+	"water" n sg
+;	"water" vblex inf
+;	"water" vblex pres
+;	"water" vblex imp
+"<vapour>"
+	"vapour" n sg
+"<,>"
+	"," cm
+"<carbon dioxide>"
+	"carbon dioxide" n sg
+"<,>"
+	"," cm
+"<methane>"
+	"methane" n sg
+"<,>"
+	"," cm
+"<nitrogen>"
+	"nitrogen" n sg
+"<,>"
+	"," cm
+"<propane>"
+	"propane" n sg
+"<,>"
+	"," cm
+"<acetylene>"
+	"acetylene" n sg
+"<,>"
+	"," cm
+"<formaldehyde>"
+	"formaldehyde" n sg
+"<and>"
+	"and" cnjcoo
+"<traces>"
+	"trace" n pl
+;	"trace" vblex pres p3 sg
+"<of>"
+	"of" pr
+"<ammonia>"
+	"ammonia" n sg
+
+"<.>"
+	"." sent
+
+
+"<In>"
+;	"in" adv
+	"in" pr
+"<2015>"
+	"2015" num
+"<,>"
+	"," cm
+"<Cassini>"
+	"Cassini" np cog sg
+"<performed>"
+;	"perform" vblex pp
+	"perform" vblex past
+"<a>"
+	"a" det ind sg
+"<close>"
+;	"close" n sg
+	"close" adj sint
+;	"close" vblex inf
+;	"close" vblex pres
+;	"close" vblex imp
+"<flyby>"
+	"flyby" n sg
+"<of>"
+	"of" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<’>"
+;	"'" apos
+	"'s" gen
+"<south>"
+;	"south" adv
+;	"south" n sg
+	"south" adj sint
+"<pole>"
+	"pole" n sg
+"<,>"
+	"," cm
+"<passing>"
+;	"passing" n sg
+;	"pass" vblex pprs
+;	"pass" vblex subs
+	"pass" vblex ger
+"<through>"
+	"through" pr
+"<a>"
+	"a" det ind sg
+"<plume>"
+	"plume" n sg
+"<.>"
+	"." sent
+"<It>"
+	"prpers" prn subj p3 nt sg
+;	"prpers" prn obj p3 nt sg
+"<detected>"
+;	"detect" vblex pp
+	"detect" vblex past
+"<hydrogen>"
+	"hydrogen" n sg
+"<that>"
+;	"that" cnjsub
+;	"that" det dem sg
+;	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<wasn’t>"
+;	"not" adv
+;		"be" vbser past p1 sg
+	"not" adv
+		"be" vbser past p3 sg
+"<in equilibrium>"
+	"in equilibrium" adv
+"<,>"
+	"," cm
+"<which>"
+;	"which" det itg sp
+;	"which" prn itg mf sp
+	"which" prn rel an mf sp
+"<could>"
+	"can" vbmod past
+"<provide>"
+	"provide" vblex inf
+;	"provide" vblex pres
+;	"provide" vblex imp
+"<an>"
+	"a" det ind sg
+"<energy>"
+	"energy" n sg
+ /
+"<food>"
+;	"food" adj
+	"food" n sg
+"<source>"
+	"source" n sg
+"<for>"
+;	"for" cnjadv
+	"for" pr
+"<living>"
+	"living" adj
+;	"living" n sg
+;	"live" vblex pprs
+;	"live" vblex subs
+;	"live" vblex ger
+"<organisms>"
+	"organism" n pl
+"<.>"
+	"." sent
+"<There>"
+	"there" adv
+"<have>"
+;	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<already>"
+	"already" adv
+"<been>"
+	"be" vbser pp
+"<various>"
+;	"various" adj
+	"various" det ind pl
+"<proposals>"
+	"proposal" n pl
+"<to>"
+	"to" pr
+"<create>"
+	"create" vblex inf
+;	"create" vblex pres
+;	"create" vblex imp
+"<a>"
+	"a" det ind sg
+"<new>"
+	"new" adj sint
+"<mission>"
+	"mission" n sg
+"<just>"
+	"just" adv
+;	"just" adj sint
+"<to>"
+	"to" pr
+"<analyse>"
+	"analyse" vblex inf
+;	"analyse" vblex pres
+;	"analyse" vblex imp
+"<Enceladus>"
+	"Enceladus" np top sg
+"<’>"
+	"'" apos
+	"'s" gen
+"<plumes>"
+	"plume" n pl
+"<more>"
+	"more" adv
+;	"more" preadv
+;	"more" n sg
+;	"more" det qnt sp
+"<profoundly>"
+	"profoundly" adv
+"<and>"
+	"and" cnjcoo
+"<find out>"
+;	"find# out" vblex inf
+	"find# out" vblex pres
+;	"find# out" vblex imp
+"<whether>"
+	"whether" adv
+;	"whether" cnjsub
+;	"whether" cnjadv
+"<or>"
+	"or" cnjcoo
+"<not>"
+	"not" adv
+"<there>"
+	"there" adv
+"<is>"
+	"be" vbser pres p3 sg
+"<life>"
+	"life" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<another>"
+	"another" det ind sg
+;	"another" prn ind mf sg
+"<planet>"
+	"planet" n sg
+"<than>"
+	"than" cnjsub
+"<Earth>"
+;	"earth" n sg
+	"Earth" np top sg
+"<.>"
+	"." sent
+"<If>"
+;	"if" adv
+	"if" cnjsub
+"<there>"
+	"there" adv
+"<is>"
+	"be" vbser pres p3 sg
+"<life>"
+	"life" n sg
+"<on>"
+;	"on" adv
+	"on" pr
+"<Enceladus>"
+	"Enceladus" np top sg
+"<,>"
+	"," cm
+"<this>"
+	"this" det dem sg
+;	"this" prn dem mf sg
+;	"this" prn rel an mf sp
+"<planet>"
+	"planet" n sg
+"<’s>"
+	"'s" gen
+;	"be" vbser pres p3 sg
+;	"have" vbhaver pres p3 sg
+"<plumes>"
+	"plume" n pl
+"<will>"
+;	"will" n sg
+;	"will" vbmod inf
+	"will" vbmod pres
+;	"will" vblex inf
+;	"will" vblex pres
+;	"will" vblex imp
+"<have>"
+	"have" vbhaver inf
+;	"have" vbhaver pres
+;	"have" vblex inf
+;	"have" vblex pres
+;	"have" vblex imp
+"<helped>"
+	"help" vblex pp
+;	"help" vblex past
+"<make>"
+;	"make" n sg
+	"make" vblex inf
+;	"make" vblex pres
+;	"make" vblex imp
+"<one>"
+	"one" num sg
+;	"one" prn dem mf sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<most>"
+	"most" adv
+;	"most" preadv
+;	"most" det qnt sp
+;	"most" prn ind mf pl
+"<important>"
+	"important" adj
+"<discoveries>"
+	"discovery" n pl
+"<ever>"
+	"ever" adv
+"<..>"
+	".." sent
