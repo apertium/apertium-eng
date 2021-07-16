@@ -1,0 +1,6 @@
+{
+  "xkcd": {
+    "input": "xkcd-input.txt",
+    "mode": "eng-disam"
+  }
+}
