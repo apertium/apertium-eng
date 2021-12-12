@@ -6,3 +6,4 @@
 1   xkcd             dharjunior      ACCESSED FROM: https://en.wikipedia.org/w/index.php?title=Xkcd&oldid=867613936 	                                           AUTHOR: Wikipedia 		STYLE: Wikipedia Article LICENSE: Creative Commons Attribution-ShareAlike License YEAR: 2018
 1   udhr             dharjunior	     ACCESSED FROM: https://www.ohchr.org/en/udhr/pages/Language.aspx?LangID=eng					AUTHOR:	United Nations General Assembly	STYLE: UN Declaration	LICENSE: Public Domain YEAR: 1948
 1   pride_prejudice  albertonl       ACCESSED FROM: https://www.gutenberg.org/files/1342/1342-0.txt
+1   harry_potter     maathavan	     ACCESSED FROM: https://docs.google.com/document/d/13BGB27YWQ1wwV671R50qp6OcK59wr9uErqVgTeRflJ0/edit?usp=sharing					AUTHOR:	Maathavan		STYLE: Informative Essay	LICENSE: Creative Commons YEAR: 2019

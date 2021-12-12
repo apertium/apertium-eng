@@ -19,7 +19,7 @@ You will need the following software installed:
 * apertium (>= 3.3.0)
 * vislcg3 (>= 0.9.9.10297)
 
-If this does not make any sense, we recommend you look at: www.apertium.org
+If this does not make any sense, we recommend you look at: apertium.org
 
 Compiling
 ===============================================================================
@@ -67,16 +67,16 @@ Files and data
 
 Notes on eng.prob
 ===============================================================================
-apertium-eng uses the [perceptron tagger](http://wiki.apertium.org/wiki/Perceptron_tagger),
+apertium-eng uses the [perceptron tagger](https://wiki.apertium.org/wiki/Perceptron_tagger),
 so in order for it to work, it needs to be called with -gx: `apertium-tagger -gx eng.prob`
 
 
 For more information
 ===============================================================================
 
-* http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-eng
-* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* https://wiki.apertium.org/wiki/Installation
+* https://wiki.apertium.org/wiki/apertium-eng
+* https://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
 Help and support
 ===============================================================================
@@ -84,7 +84,7 @@ Help and support
 If you need help using this language pair or data, you can contact:
 
 * Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.freenode.net
+* IRC: #apertium on irc.oftc.net
 
 License
 =======

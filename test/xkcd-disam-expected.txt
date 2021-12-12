@@ -1,0 +1,1606 @@
+[4vP5ycsdMq_R#0] "<Munroe>"
+	"*Munroe"
+"<states>"
+	"state" n pl
+	"state" vblex pres p3 sg
+"<on>"
+	"on" pr SELECT:465
+;	"on" adv SELECT:465
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<'s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<website>"
+	"website" n sg
+"<that>"
+	"that" cnjsub SELECT:394
+;	"that" det dem sg SELECT:394
+;	"that" prn dem mf sg SELECT:394
+;	"that" prn rel an mf sp SELECT:394
+"<the>"
+	"the" det def sp
+"<name>"
+	"name" n sg
+;	"name" vblex inf REMOVE:110
+;	"name" vblex pres REMOVE:110
+;	"name" vblex imp REMOVE:110
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<is>"
+	"be" vbser pres p3 sg
+"<not>"
+	"not" adv
+"<an>"
+	"a" det ind sg
+"<initialism>"
+	"initialism" n sg
+"<but>"
+	"but" cnjcoo
+	"but" pr
+	"
+"<just>"
+	"just" adv
+	"just" adj sint
+"<a>"
+	"a" det ind sg
+"<word>"
+	"word" n sg
+"<with>"
+	"with" pr
+"<no>"
+	"no" det ind sp
+;	"no" adv REMOVE:113
+"<phonetic>"
+	"phonetic" adj
+"<pronunciation>"
+	"pronunciation" n sg
+"
+"<.>"
+	"." sent
+[/4vP5ycsdMq_R]
+[9E7ptvSge0TJ#0] "<On occasion>"
+	"on occasion" adv
+"<these>"
+	"this" det dem pl SELECT:423
+;	"this" prn dem mf pl SELECT:423
+"<maps>"
+	"map" n pl SELECT:289
+;	"map" vblex pres p3 sg SELECT:289
+"<have>"
+	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf REMOVE:505
+;	"have" vblex pres REMOVE:505
+;	"have" vblex imp REMOVE:241
+"<been>"
+	"be" vbser pp
+"<mentioned>"
+	"mention" vblex pp
+	"mention" vblex past
+"<by>"
+	"by" pr
+;	"by" adv REMOVE:112
+"<analysts>"
+	"analyst" n pl
+"<due to>"
+	"due to" pr
+"<their>"
+	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<imaginative>"
+	"imaginative" adj
+"<or>"
+	"or" cnjcoo
+"<original>"
+	"original" adj SELECT:363
+;	"original" n sg SELECT:363
+"<presentation>"
+	"presentation" n sg
+"<of>"
+	"of" pr
+"<figures>"
+	"figure" n pl
+	"figure" vblex pres p3 sg
+"<or>"
+	"or" cnjcoo
+"<statistics>"
+	"statistic" n pl
+	"statistics" n sg
+	"statistics" n pl
+"<.>"
+	"." sent
+[/9E7ptvSge0TJ]
+[9RHofYF9wVXu#0] "<The>"
+	"the" det def sp
+"<first>"
+	"first" adj ord
+;	"first" adv REMOVE:112
+"<book>"
+	"book" n sg SELECT:290
+;	"book" vblex inf SELECT:290
+;	"book" vblex pres SELECT:290
+;	"book" vblex imp SELECT:290
+"<,>"
+	"," cm
+"<chronologically>"
+	"chronologically" adv
+"<,>"
+	"," cm
+"<published>"
+	"publish" vblex pp
+	"publish" vblex past
+	"published" adj
+"<in>"
+	"in" pr SELECT:468
+;	"in" adv SELECT:468
+"<2010>"
+	"2010" num
+"<and>"
+	"and" cnjcoo
+"<entitled>"
+	"entitle" vblex past
+	"entitle" vblex pp
+"<xkcd>"
+	"*xkcd"
+"<:>"
+	":" sent
+
+"<volume>"
+	"volume" n sg
+"<0>"
+	"0" num
+"<was>"
+	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<a>"
+	"a" det ind sg
+"<series>"
+	"series" n sg
+	"series" n pl
+"<of>"
+	"of" pr
+"<select>"
+	"select" adj
+	"select" vblex inf
+	"select" vblex pres
+	"select" vblex imp
+"<comics>"
+	"comic" n pl
+"<from>"
+	"from" pr
+"<his>"
+	"his" det pos sp SELECT:423
+	"prpers" det pos p3 m sg SELECT:423
+;	"his" adj pos pred SELECT:423
+;	"prpers" prn pos p3 m sg SELECT:423
+"<website>"
+	"website" n sg
+"<.>"
+	"." sent
+[/9RHofYF9wVXu]
+[AIS2wAys1Vr-#0] "<xkcd>"
+	"*xkcd"
+"<,>"
+	"," cm
+"<sometimes>"
+	"sometimes" adv
+"<styled>"
+	"style" vblex past
+	"style" vblex pp
+"<XKCD>"
+	"*XKCD"
+"<,>"
+	"," cm
+"<is>"
+	"be" vbser pres p3 sg
+"<a>"
+	"a" det ind sg
+"<webcomic>"
+	"webcomic" n sg
+"<created>"
+	"created" adj
+	"create" vblex past
+	"create" vblex pp
+"<by>"
+	"by" pr SELECT:464
+;	"by" adv SELECT:464
+"<American>"
+	"American" adj SELECT:363
+;	"American" n sg SELECT:363
+"<author>"
+	"author" n sg SELECT:290
+;	"author" vblex inf SELECT:290
+;	"author" vblex pres SELECT:290
+;	"author" vblex imp SELECT:290
+"<Randall>"
+	"Randall" np cog sg
+	"Randall" np ant m sg
+"<Munroe>"
+	"*Munroe"
+"<.>"
+	"." sent
+[/AIS2wAys1Vr-]
+[B9lZfveIqcW2#0] "<The>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<'s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<tagline>"
+	"tagline" n sg
+"<describes>"
+	"describe" vblex pres p3 sg
+"<it>"
+	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<as>"
+	"as" pr SELECT:465
+;	"as" adv SELECT:465
+;	"as" preadv SELECT:465
+;	"as" cnjsub SELECT:465
+;	"as" cnjadv SELECT:465
+;	" SELECT:465
+"<A>"
+	"a" det ind sg
+"<webcomic>"
+	"webcomic" n sg
+"<of>"
+	"of" pr
+"<romance>"
+	"Romance" adj
+	"romance" n sg
+"<,>"
+	"," cm
+"<sarcasm>"
+	"sarcasm" n sg
+"<,>"
+	"," cm
+"<math>"
+	"math" n sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<language>"
+	"language" n sg
+"
+"<.>"
+	"." sent
+[/B9lZfveIqcW2]
+[CMDX2wEnKIxa#0] "<Geographical>"
+	"geographical" adj
+"<maps>"
+	"map" n pl SELECT:290
+;	"map" vblex pres p3 sg SELECT:290
+"<,>"
+	"," cm
+"<their>"
+	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<various>"
+	"various" adj
+;	"various" det ind pl REMOVE:422
+"<different>"
+	"different" adj
+"<formats>"
+	"format" n pl SELECT:290
+;	"format" vblex pres p3 sg SELECT:290
+"<and>"
+	"and" cnjcoo
+"<creation>"
+	"creation" n sg
+"<methods>"
+	"method" n pl
+"<are>"
+	"be" vbser pres
+"<a>"
+	"a" det ind sg
+"<frequently>"
+	"frequently" adv
+"<recurring theme>"
+	"recurring theme" n sg
+"<in>"
+	"in" pr SELECT:465
+;	"in" adv SELECT:465
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<.>"
+	"." sent
+[/CMDX2wEnKIxa]
+[FH7G-oY_gSh1#0] "<The>"
+	"the" det def sp
+"<What>"
+	"what" prn itg mf sp
+	"what" prn rel nn mf sg
+;	"what" det itg sp REMOVE:422
+"<If>"
+	"if" cnjsub
+;	"if" adv REMOVE:112
+"<column>"
+	"column" n sg
+"<on>"
+	"on" pr SELECT:465
+;	"on" adv SELECT:465
+"<the>"
+	"the" det def sp
+"<site>"
+	"site" n sg
+;	"site" vblex inf REMOVE:110
+;	"site" vblex pres REMOVE:110
+;	"site" vblex imp REMOVE:110
+"<is>"
+	"be" vbser pres p3 sg
+"<updated>"
+	"updated" adj
+	"update" vblex past
+	"update" vblex pp
+"<with>"
+	"with" pr
+"<new>"
+	"new" adj sint
+"<articles>"
+	"article" n pl
+"<from time to time>"
+	"from time to time" adv
+"<.>"
+	"." sent
+[/FH7G-oY_gSh1]
+[HVZySUOgGVsX#0] "<A>"
+	"a" det ind sg
+"<facsimile>"
+	"facsimile" n sg
+"<of>"
+	"of" pr
+"<a>"
+	"a" det ind sg
+"<made-up>"
+	"made-up" adj
+"<Wikipedia>"
+	"Wikipedia" np al sg
+"<entry>"
+	"entry" n sg
+"<for>"
+	"for" cnjadv
+	"for" pr
+	"
+"<malamanteau>"
+	"*malamanteau"
+" 
+"<(>"
+	"(" lpar
+"<a>"
+	"a" det ind sg
+"<stunt>"
+	"stunt" n sg
+"<word>"
+	"word" n sg
+"<created>"
+	"created" adj
+	"create" vblex past
+	"create" vblex pp
+"<by>"
+	"by" adv
+;	"by" pr REMOVE:474
+"<Munroe>"
+	"*Munroe"
+"<to>"
+	"to" pr
+"<poke>"
+	"poke" vblex inf SELECT:132
+;	"poke" vblex pres SELECT:132
+;	"poke" vblex imp SELECT:132
+"<fun>"
+	"fun" adj
+	"fun" n sg
+	"fun" adj sint
+"<at>"
+	"at" pr
+"<Wikipedia>"
+	"Wikipedia" np al sg
+"<'s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<writing>"
+	"write" vblex ger SELECT:177
+;	"writing" n sg SELECT:177
+;	"write" vblex pprs SELECT:177
+;	"write" vblex subs SELECT:177
+"<style>"
+	"style" n sg
+	"style" vblex inf
+	"style" vblex pres
+	"style" vblex imp
+"<)>"
+	")" rpar
+"<provoked>"
+	"provoke" vblex past
+	"provoke" vblex pp
+"<a>"
+	"a" det ind sg
+"<controversy>"
+	"controversy" n sg
+"<within>"
+	"within" pr SELECT:461
+;	"within" adv SELECT:461
+"<Wikipedia>"
+	"Wikipedia" np al sg
+"<that>"
+	"that" cnjsub
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+;	"that" det dem sg REMOVE:430
+"<was>"
+	"be" vbser past p1 sg
+	"be" vbser past p3 sg
+"<picked up>"
+	"pick# up" vblex sep past
+	"pick# up" vblex sep pp
+"<by>"
+	"by" pr
+;	"by" adv REMOVE:113
+"<various>"
+	"various" det ind pl SELECT:435
+;	"various" adj SELECT:435
+"<media>"
+	"media" n sg
+	"media" n pl
+"<.>"
+	"." sent
+[/HVZySUOgGVsX]
+[KesVo0kM5iYw#0] "<In>"
+	"in" pr
+;	"in" adv REMOVE:112
+"<webcomics>"
+	"webcomic" n pl
+"<,>"
+	"," cm
+"<Munroe>"
+	"*Munroe"
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg REMOVE:505
+"<said>"
+	"say" vblex pp SELECT:164
+;	"say" vblex past SELECT:164
+"<that>"
+	"that" cnjsub
+	"that" det dem sg
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+	"
+"<one>"
+	"one" num sg
+	"one" prn dem mf sg
+"<can>"
+	"can" vbmod pres SELECT:281
+;	"can" n sg SELECT:281
+;	"can" vbmod inf SELECT:281 REMOVE:552
+;	"can" vblex inf SELECT:281
+;	"can" vblex pres SELECT:281
+;	"can" vblex imp SELECT:281
+"<draw>"
+	"draw" vblex inf SELECT:140
+;	"draw" n sg SELECT:140
+;	"draw" vblex pres SELECT:140
+;	"draw" vblex imp SELECT:140
+"<something>"
+	"something" prn ind nt sg
+"<that>"
+	"that" cnjsub
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+;	"that" det dem sg REMOVE:430
+"<appeals to>"
+	"appeal# to" vblex pres p3 sg
+"<1>"
+	"1" num
+"<percent>"
+	"percent" adv
+	"percent" n sg
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<audience>"
+	"audience" n sg
+"<1>"
+	"1" num
+"<percent>"
+	"percent" adv
+	"percent" n sg
+"<of>"
+	"of" pr
+"<United States>"
+	"United States" np top pl
+"<,>"
+	"," cm
+"<that>"
+	"that" cnjsub
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+;	"that" det dem sg REMOVE:430
+"<is>"
+	"be" vbser pres p3 sg
+"<three>"
+	"three" num pl
+"<million>"
+	"million" num pl SELECT:522
+;	"million" n sg SELECT:522
+"<people>"
+	"people" n sg
+	"person" n pl
+"<,>"
+	"," cm
+"<that>"
+	"that" cnjsub
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+;	"that" det dem sg REMOVE:430
+"<is>"
+	"be" vbser pres p3 sg
+"<more>"
+	"more" n sg
+	"more" det qnt sp
+;	"more" adv REMOVE:112
+;	"more" preadv REMOVE:114
+"<readers>"
+	"reader" n pl
+"<than>"
+	"than" cnjsub
+"<small>"
+	"small" adj sint
+"<cartoons>"
+	"cartoon" n pl
+"<can>"
+	"can" vbmod pres SELECT:281
+;	"can" n sg SELECT:281
+;	"can" vbmod inf SELECT:281 REMOVE:552
+;	"can" vblex inf SELECT:281
+;	"can" vblex pres SELECT:281
+;	"can" vblex imp SELECT:281
+"<have>"
+	"have" vblex inf SELECT:140
+;	"have" vbhaver inf SELECT:140 REMOVE:508
+;	"have" vbhaver pres SELECT:140
+;	"have" vblex pres SELECT:140
+;	"have" vblex imp SELECT:140
+"<.>"
+	"." sent
+"
+[/KesVo0kM5iYw]
+[L5XuT3f98QwE#0] "<His>"
+	"his" adj pos pred
+	"prpers" prn pos p3 m sg
+;	"his" det pos sp REMOVE:430
+;	"prpers" det pos p3 m sg REMOVE:430
+"<2015>"
+	"2015" num
+"<book>"
+	"book" n sg
+	"book" vblex inf
+	"book" vblex pres
+	"book" vblex imp
+"<Thing>"
+	"thing" n sg
+"<Explainer>"
+	"*Explainer"
+"<explains>"
+	"explain" vblex pres p3 sg
+"<scientific>"
+	"scientific" adj
+"<concepts>"
+	"concept" n pl
+"<using>"
+	"use" vblex pprs
+	"use" vblex subs
+	"use" vblex ger
+"<only>"
+	"only" adj
+	"only" adv
+"<the one>"
+	"the one" prn dem mf sg
+"<thousand>"
+	"thousand" num pl
+	"thousand" n sg
+"<most>"
+	"most" adv
+	"most" preadv
+	"most" prn ind mf pl
+;	"most" det qnt sp REMOVE:430
+"<commonly>"
+	"commonly" adv
+"<used>"
+	"use" vblex past
+	"use" vblex pp
+"<words>"
+	"word" n pl
+"<in English>"
+	"in English" adv
+"<.>"
+	"." sent
+[/L5XuT3f98QwE]
+[MjBfH1qa95gl#0] "<Munroe>"
+	"*Munroe"
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg REMOVE:505
+"<released>"
+	"release" vblex pp SELECT:164
+;	"release" vblex past SELECT:164
+"<three>"
+	"three" num pl
+"<spinoff>"
+	"spinoff" n sg
+"<books>"
+	"book" n pl
+	"book" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<.>"
+	"." sent
+[/MjBfH1qa95gl]
+[PrSQFctm36bL#0] "<As a>"
+	"as a" pr
+"<student>"
+	"student" adj
+	"student" n sg
+"<,>"
+	"," cm
+"<Munroe>"
+	"*Munroe"
+"<often>"
+	"often" adv
+"<drew>"
+	"draw" vblex past
+"<charts>"
+	"chart" n pl
+	"chart" vblex pres p3 sg
+"<,>"
+	"," cm
+"<maps>"
+	"map" n pl
+	"map" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+	"
+"<stick>"
+	"stick" n sg
+	"stick" vblex inf
+	"stick" vblex pres
+	"stick" vblex imp
+"<figure>"
+	"figure" n sg
+	"figure" vblex inf
+	"figure" vblex pres
+	"figure" vblex imp
+"<battles>"
+	"battle" n pl
+	"battle" vblex pres p3 sg
+" 
+"<in>"
+	"in" pr SELECT:465
+;	"in" adv SELECT:465
+"<the>"
+	"the" det def sp
+"<margins>"
+	"margin" n pl
+"<of>"
+	"of" pr
+"<his>"
+	"his" det pos sp SELECT:423
+	"prpers" det pos p3 m sg SELECT:423
+;	"his" adj pos pred SELECT:423
+;	"prpers" prn pos p3 m sg SELECT:423
+"<school>"
+	"school" n sg SELECT:357
+;	"school" adj SELECT:357
+"<notebooks>"
+	"notebook" n pl
+"<,>"
+	"," cm
+"<besides>"
+	"besides" adv
+"<solving>"
+	"solve" vblex pprs
+	"solve" vblex subs
+	"solve" vblex ger
+"<mathematical>"
+	"mathematical" adj
+"<problems>"
+	"problem" n pl
+"<unrelated>"
+	"unrelated" adj
+"<to>"
+	"to" pr
+"<his>"
+	"his" det pos sp SELECT:423
+	"prpers" det pos p3 m sg SELECT:423
+;	"his" adj pos pred SELECT:423
+;	"prpers" prn pos p3 m sg SELECT:423
+"<classes>"
+	"class" n pl SELECT:289
+;	"class" vblex pres p3 sg SELECT:289
+"<.>"
+	"." sent
+[/PrSQFctm36bL]
+[Ri6omF1F-dpg#0] "<By the time>"
+	"by the time" cnjadv
+"<he>"
+	"prpers" prn subj p3 m sg
+"<graduated>"
+	"graduate" vblex past
+;	"graduate" vblex pp REMOVE:551
+"<from>"
+	"from" pr
+"<university>"
+	"university" adj
+	"university" n sg
+"<,>"
+	"," cm
+"<Munroe>"
+	"*Munroe"
+"<'s>"
+	"'s" gen SELECT:498
+;	"be" vbser pres p3 sg SELECT:498
+;	"have" vbhaver pres p3 sg SELECT:498
+;	" SELECT:498
+"<piles>"
+	"pile" n pl
+;	"pile" vblex pres p3 sg REMOVE:111
+"<of>"
+	"of" pr
+"<notebooks>"
+	"notebook" n pl
+" 
+"<became>"
+	"become" vblex past
+"<too>"
+	"too" adv
+	"too" preadv
+"<large>"
+	"large" adj sint
+"<and>"
+	"and" cnjcoo
+"<he>"
+	"prpers" prn subj p3 m sg
+"<started>"
+	"start" vblex past
+;	"start" vblex pp REMOVE:551
+"<scanning>"
+	"scan" vblex subs SELECT:270
+;	"scanning" n sg SELECT:270
+;	"scan" vblex pprs SELECT:270
+;	"scan" vblex ger SELECT:270
+"<the>"
+	"the" det def sp
+"<images>"
+	"image" n pl
+"<.>"
+	"." sent
+[/Ri6omF1F-dpg]
+[TAHrs4JmD_h5#0] "<Although>"
+	"although" adv
+	"although" cnjsub
+;	"although" cnjadv REMOVE:549
+"<it>"
+	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<has>"
+	"have" vblex pres p3 sg
+;	"have" vbhaver pres p3 sg REMOVE:508
+"<a>"
+	"a" det ind sg
+"<cast>"
+	"cast" n sg
+;	"cast" vblex inf REMOVE:110
+;	"cast" vblex pres REMOVE:110
+;	"cast" vblex past REMOVE:110
+;	"cast" vblex pp REMOVE:110
+;	"cast" vblex imp REMOVE:110
+"<of>"
+	"of" pr
+"<stick>"
+	"stick" n sg
+	"stick" vblex inf
+	"stick" vblex pres
+	"stick" vblex imp
+"<figures>"
+	"figure" n pl
+	"figure" vblex pres p3 sg
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<occasionally>"
+	"occasionally" adv
+"<features>"
+	"feature" vblex pres p3 sg SELECT:317
+;	"feature" n pl SELECT:317
+"<landscapes>"
+	"landscape" n pl
+	"landscape" vblex pres p3 sg
+"<,>"
+	"," cm
+"<graphs>"
+	"graph" n pl
+"<and>"
+	"and" cnjcoo
+"<charts>"
+	"chart" n pl
+	"chart" vblex pres p3 sg
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<intricate>"
+	"intricate" adj
+"<mathematical>"
+	"mathematical" adj
+"<patterns>"
+	"pattern" n pl
+"<such as>"
+	"such as" adv
+;	"such as" pr REMOVE:474
+"<fractals>"
+	"*fractals"
+"<.>"
+	"." sent
+[/TAHrs4JmD_h5]
+[V6t0PZilktIQ#0] "<Some>"
+	"some" det qnt sp SELECT:423
+;	"some" adj SELECT:423
+;	"some" adv SELECT:423
+;	"some" prn ind mf pl SELECT:423
+"<strips>"
+	"strip" n pl SELECT:289
+;	"strip" vblex pres p3 sg SELECT:289
+"<feature>"
+	"feature" n sg
+	"feature" vblex inf
+	"feature" vblex pres
+	"feature" vblex imp
+"<simple>"
+	"simple" adj sint
+"<humor>"
+	"humour" n sg
+"<or>"
+	"or" cnjcoo
+"<pop>"
+	"pop" n sg
+	"pop" vblex inf
+	"pop" vblex pres
+	"pop" vblex imp
+"<->"
+	"-" guio
+"<culture>"
+	"culture" n sg
+	"culture" vblex inf
+	"culture" vblex pres
+	"culture" vblex imp
+"<references>"
+	"reference" n pl
+	"reference" vblex pres p3 sg
+"<.>"
+	"." sent
+[/V6t0PZilktIQ]
+[X8lfJu5a5FCQ#0] "<New>"
+	"new" adj sint
+"<cartoons>"
+	"cartoon" n pl
+"<are>"
+	"be" vbser pres
+"<added>"
+	"add" vblex pp
+	"add" vblex past
+"<three times>"
+	"three times" adv
+"<a>"
+	"a" det ind sg
+"<week>"
+	"week" n sg
+"<,>"
+	"," cm
+"<on Mondays>"
+	"on Mondays" adv
+"<,>"
+	"," cm
+"<Wednesdays>"
+	"Wednesday" n pl
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<Fridays>"
+	"Friday" n pl
+"<.>"
+	"." sent
+[/X8lfJu5a5FCQ]
+[Z8ZpdvYWQpIO#0] "<The>"
+	"the" det def sp
+"<subject>"
+	"subject" adj SELECT:363
+;	"subject" n sg SELECT:363
+;	"subject" vblex inf REMOVE:110
+;	"subject" vblex pres REMOVE:110
+;	"subject" vblex imp REMOVE:110
+"<matter>"
+	"matter" n sg SELECT:290
+;	"matter" vblex inf SELECT:290
+;	"matter" vblex pres SELECT:290
+;	"matter" vblex imp SELECT:290
+"<of>"
+	"of" pr
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<varies>"
+	"vary" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<statements>"
+	"statement" n pl
+"<on>"
+	"on" pr
+;	"on" adv REMOVE:112
+"<life>"
+	"life" n sg
+"<and>"
+	"and" cnjcoo
+"<love>"
+	"love" n sg
+	"love" vblex inf
+	"love" vblex pres
+	"love" vblex imp
+"<to>"
+	"to" pr
+"<mathematical>"
+	"mathematical" adj
+"<,>"
+	"," cm
+"<programming>"
+	"programming" n sg
+	"programme" vblex pprs
+	"program" vblex pprs
+	"programme" vblex subs
+	"program" vblex subs
+	"programme" vblex ger
+	"program" vblex ger
+"<,>"
+	"," cm
+"<and>"
+	"and" cnjcoo
+"<scientific>"
+	"scientific" adj
+"<in-jokes>"
+	"in-joke" n pl
+"<.>"
+	"." sent
+[/Z8ZpdvYWQpIO]
+[boMkR9ia7d8m#0] "<Munroe>"
+	"*Munroe"
+"<cited>"
+	"cite" vblex past
+	"cite" vblex pp
+"<the>"
+	"the" det def sp
+"<lack>"
+	"lack" n sg
+;	"lack" vblex inf REMOVE:110
+;	"lack" vblex pres REMOVE:110
+;	"lack" vblex imp REMOVE:110
+"<of>"
+	"of" pr
+"<a>"
+	"a" det ind sg
+"<need>"
+	"need" n sg
+;	"need" vblex inf REMOVE:110
+;	"need" vblex pres REMOVE:110
+;	"need" vblex imp REMOVE:110
+"<for>"
+	"for" cnjadv
+	"for" pr
+"<editorial>"
+	"editorial" adj SELECT:363
+;	"editorial" n sg SELECT:363
+"<control>"
+	"control" n sg SELECT:290
+;	"control" vblex inf SELECT:290
+;	"control" vblex pres SELECT:290
+;	"control" vblex imp SELECT:290
+"<due to>"
+	"due to" pr
+"<the>"
+	"the" det def sp
+"<low>"
+	"low" adj sint
+	"low" vblex inf
+	"low" vblex pres
+	"low" vblex imp
+;	"low" adv REMOVE:112
+"<bar>"
+	"bar" n sg SELECT:290
+;	"bar" vblex inf SELECT:290
+;	"bar" vblex pres SELECT:290
+;	"bar" vblex imp SELECT:290
+"<of>"
+	"of" pr
+"<access>"
+	"access" n sg
+	"access" vblex inf
+	"access" vblex pres
+	"access" vblex imp
+"<to>"
+	"to" pr
+"<the>"
+	"the" det def sp
+"<Internet>"
+	"internet" n sg
+	"Internet" np top sg
+"<as>"
+	"as" pr SELECT:465
+;	"as" adv SELECT:465
+;	"as" preadv SELECT:465
+;	"as" cnjsub SELECT:465
+;	"as" cnjadv SELECT:465
+;	" SELECT:465
+"<a>"
+	"a" det ind sg
+"<salvation>"
+	"salvation" n sg
+"<.>"
+	"." sent
+"
+[/boMkR9ia7d8m]
+[iPfxZq9W8RcR#0] "<His>"
+	"his" adj pos pred
+	"prpers" prn pos p3 m sg
+;	"his" det pos sp REMOVE:430
+;	"prpers" det pos p3 m sg REMOVE:430
+"<2014>"
+	"2014" num
+"<book>"
+	"book" n sg
+	"book" vblex inf
+	"book" vblex pres
+	"book" vblex imp
+"<What>"
+	"what" det itg sp
+	"what" prn itg mf sp
+	"what" prn rel nn mf sg
+"<If>"
+	"if" adv
+	"if" cnjsub
+"<?>"
+	"?" sent
+
+"<is>"
+	"be" vbser pres p3 sg
+"<based>"
+	"based" adj
+	"base" vblex past
+	"base" vblex pp
+"<on>"
+	"on" pr SELECT:465
+;	"on" adv SELECT:465
+"<his>"
+	"his" det pos sp SELECT:423
+	"prpers" det pos p3 m sg SELECT:423
+;	"his" adj pos pred SELECT:423
+;	"prpers" prn pos p3 m sg SELECT:423
+"<blog>"
+	"blog" n sg SELECT:289
+;	"blog" vblex inf SELECT:289
+;	"blog" vblex pres SELECT:289
+;	"blog" vblex imp SELECT:289
+"<of>"
+	"of" pr
+"<the same>"
+	"the same" det ind sp SELECT:454
+	"the" det def sp SELECT:454
+		"same" adj
+;	"the same" adv SELECT:454
+"<name>"
+	"name" n sg SELECT:289
+;	"name" vblex inf SELECT:289
+;	"name" vblex pres SELECT:289
+;	"name" vblex imp SELECT:289
+"<that>"
+	"that" det dem sg SELECT:423
+;	"that" cnjsub SELECT:423
+;	"that" prn dem mf sg SELECT:423
+;	"that" prn rel an mf sp SELECT:423
+"<answers>"
+	"answer" n pl SELECT:289
+;	"answer" vblex pres p3 sg SELECT:289
+"<unusual>"
+	"unusual" adj
+"<science>"
+	"science" n sg
+"<questions>"
+	"question" n pl
+	"question" vblex pres p3 sg
+"<from>"
+	"from" pr
+"<readers>"
+	"reader" n pl
+"<in>"
+	"in" adv
+;	"in" pr REMOVE:474
+"<a>"
+	"a" det ind sg
+"<light-hearted>"
+	"light-hearted" adj
+"<but>"
+	"but" cnjcoo
+	"but" pr
+"<scientifically>"
+	"scientifically" adv
+"<grounded>"
+	"ground" vblex pp
+	"ground" vblex past
+"<way>"
+	"way" n sg
+"<.>"
+	"." sent
+[/iPfxZq9W8RcR]
+[jIEWjhpg9mlp#0] "<Alan>"
+	"Alan" np ant m sg
+"<Cole>"
+	"Cole" np cog sg
+	"Cole" np ant m sg
+"<,>"
+	"," cm
+"<an>"
+	"a" det ind sg
+"<economist>"
+	"economist" n sg
+"<at>"
+	"at" pr
+"<the>"
+	"the" det def sp
+"<University>"
+	"university" adj
+	"university" n sg
+"<of>"
+	"of" pr
+"<Pennsylvania>"
+	"Pennsylvania" np top sg
+"<’s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<Wharton>"
+	"Wharton" np cog sg
+"<School>"
+	"school" adj
+	"school" n sg
+"<,>"
+	"," cm
+"<critically>"
+	"critically" adv
+"<analyzed>"
+	"analyse" vblex past
+	"analyse" vblex pp
+"<the>"
+	"the" det def sp
+"<map>"
+	"map" n sg
+;	"map" vblex inf REMOVE:110
+;	"map" vblex pres REMOVE:110
+;	"map" vblex imp REMOVE:110
+"<,>"
+	"," cm
+"<concluding>"
+	"conclude" vblex pprs
+	"conclude" vblex subs
+	"conclude" vblex ger
+"<that>"
+	"that" cnjsub
+	"that" det dem sg
+	"that" prn dem mf sg
+	"that" prn rel an mf sp
+"<it>"
+	"prpers" prn subj p3 nt sg
+	"prpers" prn obj p3 nt sg
+"<is>"
+	"be" vbser pres p3 sg
+"<the>"
+	"the" det def sp
+"<most>"
+	"most" adv
+	"most" preadv
+	"most" prn ind mf pl
+;	"most" det qnt sp REMOVE:422
+"<elegant>"
+	"elegant" adj
+"<and>"
+	"and" cnjcoo
+"<informative>"
+	"informative" adj
+"<he>"
+	"prpers" prn subj p3 m sg
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg REMOVE:505
+"<seen>"
+	"see" vblex pp
+[/jIEWjhpg9mlp]
+[k1_mnhYf3MdV#0] "<In>"
+	"in" pr SELECT:465
+;	"in" adv SELECT:465
+"<the>"
+	"the" det def sp
+"<comic>"
+	"comic" n sg
+"<1939>"
+	"1939" num
+"<,>"
+	"," cm
+	"
+"<2016>"
+	"2016" num
+"<Election>"
+	"election" n sg
+"<Map>"
+	"map" n sg
+	"map" vblex inf
+	"map" vblex pres
+	"map" vblex imp
+"
+"<,>"
+	"," cm
+"<colored>"
+	"color" vblex pp
+	"color" vblex past
+"<stick>"
+	"stick" n sg
+	"stick" vblex inf
+	"stick" vblex pres
+	"stick" vblex imp
+"<figures>"
+	"figure" n pl
+	"figure" vblex pres p3 sg
+"<are>"
+	"be" vbser pres
+"<used to>"
+	"use# to" vblex past
+	"use# to" vblex pp
+"<display>"
+	"display" n sg
+	"display" vblex inf
+	"display" vblex pres
+	"display" vblex imp
+"<how>"
+	"how" preadv
+;	"how" adv REMOVE:112
+;	"how" adv itg REMOVE:112
+"<people>"
+	"people" n sg
+	"person" n pl
+"<voted>"
+	"vote" vblex past
+	"vote" vblex pp
+"<according to>"
+	"according to" pr
+"<their>"
+	"their" det pos sp
+	"prpers" det pos p3 mf pl
+"<region>"
+	"region" n sg
+"<giving>"
+	"giving" n sg SELECT:291
+;	"give" vblex pprs SELECT:291
+;	"give" vblex subs SELECT:291
+;	"give" vblex ger SELECT:291
+"<a>"
+	"a" det ind sg
+"<clearer>"
+	"clear" adj sint comp
+"<picture>"
+	"picture" n sg SELECT:290
+;	"picture" vblex inf SELECT:290
+;	"picture" vblex pres SELECT:290
+;	"picture" vblex imp SELECT:290
+"<of>"
+	"of" pr
+"<how>"
+	"how" preadv
+;	"how" adv REMOVE:112
+;	"how" adv itg REMOVE:112
+"<people>"
+	"people" n sg
+	"person" n pl
+"<voted>"
+	"vote" vblex past
+	"vote" vblex pp
+"<in>"
+	"in" adv
+;	"in" pr REMOVE:474
+"<the>"
+	"the" det def sp
+"<2016>"
+	"2016" num
+"<election>"
+	"election" n sg
+"<.>"
+	"." sent
+[/k1_mnhYf3MdV]
+[nH1dwJPMPYIa#0] "<Almost>"
+	"almost" adv
+"<all>"
+	"all" adv
+	"all" predet sp
+	"all" prn qnt mf sp
+;	"all" det qnt pl REMOVE:430
+"<xkcd>"
+	"*xkcd"
+"<strips>"
+	"strip" n pl
+	"strip" vblex pres p3 sg
+"<have>"
+	"have" vblex inf
+	"have" vblex pres
+;	"have" vbhaver inf REMOVE:508
+;	"have" vbhaver pres REMOVE:508
+;	"have" vblex imp REMOVE:241
+"<a>"
+	"a" det ind sg
+"<tooltip>"
+	"tooltip" n sg
+"<(>"
+	"(" lpar
+"<specified>"
+	"specify" vblex pp
+	"specify" vblex past
+"<using>"
+	"use" vblex subs SELECT:270
+;	"use" vblex pprs SELECT:270
+;	"use" vblex ger SELECT:270
+"<the>"
+	"the" det def sp
+"<title>"
+	"title" n sg
+;	"title" vblex inf REMOVE:110
+;	"title" vblex pres REMOVE:110
+;	"title" vblex imp REMOVE:110
+"<attribute>"
+	"attribute" n sg SELECT:291
+;	"attribute" vblex inf SELECT:291
+;	"attribute" vblex pres SELECT:291
+;	"attribute" vblex imp SELECT:291
+"<in>"
+	"in" pr
+;	"in" adv REMOVE:112
+"<HTML>"
+	"HTML" n acr sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<the>"
+	"the" det def sp
+"<text>"
+	"text" n sg
+"<of>"
+	"of" pr
+"<which>"
+	"which" prn itg mf sp
+	"which" prn rel an mf sp
+;	"which" det itg sp REMOVE:430
+"<usually>"
+	"usually" adv
+"<contains>"
+	"contain" vblex pres p3 sg
+"<a>"
+	"a" det ind sg
+"<secondary>"
+	"secondary" adj
+"<punchline>"
+	"punchline" n sg
+"<or>"
+	"or" cnjcoo
+"<annotation>"
+	"annotation" n sg
+"<related>"
+	"related" adj
+	"relate" vblex past
+	"relate" vblex pp
+"<to>"
+	"to" pr
+"<that>"
+	"that" det dem sg SELECT:390
+;	"that" cnjsub SELECT:390
+;	"that" prn dem mf sg SELECT:390
+;	"that" prn rel an mf sp SELECT:390
+"<day>"
+	"day" n sg
+"<'s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<comic>"
+	"comic" n sg
+"<.>"
+	"." sent
+[/nH1dwJPMPYIa]
+[pHq8pkvbmM3c#0] "<Munroe>"
+	"*Munroe"
+"<has>"
+	"have" vbhaver pres p3 sg
+;	"have" vblex pres p3 sg REMOVE:505
+"<been>"
+	"be" vbser pp
+"<a>"
+	"a" det ind sg
+"<fan>"
+	"fan" n sg
+;	"fan" vblex inf REMOVE:110
+;	"fan" vblex pres REMOVE:110
+;	"fan" vblex imp REMOVE:110
+"<of>"
+	"of" pr
+"<newspaper>"
+	"newspaper" n sg
+"<comic strips>"
+	"comic strip" n pl
+"<since>"
+	"since" cnjsub
+	"since" pr
+;	"since" adv REMOVE:112
+"<childhood>"
+	"childhood" n sg
+"<,>"
+	"," cm
+"<describing>"
+	"describe" vblex pprs
+	"describe" vblex subs
+	"describe" vblex ger
+"<xkcd>"
+	"*xkcd"
+"<as>"
+	"as" pr SELECT:465
+;	"as" adv SELECT:465
+;	"as" preadv SELECT:465
+;	"as" cnjsub SELECT:465
+;	"as" cnjadv SELECT:465
+"<an>"
+	"a" det ind sg
+	"
+"<heir>"
+	"heir" n sg
+" 
+"<to>"
+	"to" pr
+"<Charles>"
+	"Charles" np cog sg
+	"Charles" np ant m sg
+"<M>"
+	"*M"
+"<.>"
+	"." sent
+
+"<Schulz>"
+	"Schulz" np cog sg
+"<'s>"
+	"'s" gen
+	"be" vbser pres p3 sg
+	"have" vbhaver pres p3 sg
+"<Peanuts>"
+	"peanut" n pl
+"<.>"
+	"." sent
+[/pHq8pkvbmM3c]
+[wC_HepSMeLv1#0] "<Despite>"
+	"despite" pr SELECT:465
+;	"despite" adv SELECT:465
+"<this>"
+	"this" det dem sg SELECT:423
+;	"this" prn dem mf sg SELECT:423
+;	"this" prn rel an mf sp SELECT:423
+"<influence>"
+	"influence" n sg SELECT:289
+;	"influence" vblex inf SELECT:289
+;	"influence" vblex pres SELECT:289
+;	"influence" vblex imp SELECT:289
+"<,>"
+	"," cm
+"<xkcd>"
+	"*xkcd"
+"<'s>"
+	"'s" gen SELECT:498
+;	"be" vbser pres p3 sg SELECT:498
+;	"have" vbhaver pres p3 sg SELECT:498
+"<quirky>"
+	"quirky" adj sint
+"<and>"
+	"and" cnjcoo
+"<technical>"
+	"technical" adj
+"<humor>"
+	"humour" n sg
+"<would>"
+	"will" vbmod past
+"<have>"
+	"have" vbhaver inf SELECT:140
+;	"have" vbhaver pres SELECT:140
+;	"have" vblex inf SELECT:140 REMOVE:505
+;	"have" vblex pres SELECT:140
+;	"have" vblex imp SELECT:140
+"<been>"
+	"be" vbser pp
+"<difficult>"
+	"difficult" adj
+"<to>"
+	"to" pr
+"<syndicate>"
+	"syndicate" n sg
+	"syndicate" vblex inf
+	"syndicate" vblex pres
+	"syndicate" vblex imp
+"<in>"
+	"in" pr
+;	"in" adv REMOVE:112
+"<newspapers>"
+	"newspaper" n pl
+"<.>"
+	"." sent
+[/wC_HepSMeLv1]
+[yQiamOFy39I0#0] "<References>"
+	"reference" n pl
+	"reference" vblex pres p3 sg
+"<to>"
+	"to" pr
+"<Wikipedia>"
+	"Wikipedia" np al sg
+"<articles>"
+	"article" n pl
+"<or>"
+	"or" cnjcoo
+"<to>"
+	"to" pr
+"<Wikipedia>"
+	"Wikipedia" np al sg
+"<as a whole>"
+	"as a whole" adv
+"<have>"
+	"have" vbhaver inf
+	"have" vbhaver pres
+;	"have" vblex inf REMOVE:505
+;	"have" vblex pres REMOVE:505
+;	"have" vblex imp REMOVE:241
+"<occurred>"
+	"occur" vblex pp SELECT:164
+;	"occur" vblex past SELECT:164
+"<several times>"
+	"several times" adv
+"<in>"
+	"in" adv
+;	"in" pr REMOVE:474
+"<xkcd>"
+	"*xkcd"
+"<.>"
+	"." sent
+[/yQiamOFy39I0]
