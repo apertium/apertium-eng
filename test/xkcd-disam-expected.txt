@@ -244,12 +244,14 @@
 	"prpers" prn subj p3 nt sg
 	"prpers" prn obj p3 nt sg
 "<as>"
-	"as" pr SELECT:465
-;	"as" adv SELECT:465
-;	"as" preadv SELECT:465
-;	"as" cnjsub SELECT:465
-;	"as" cnjadv SELECT:465
-;	" SELECT:465
+	"as" adv
+	"as" cnjsub
+	"as" cnjadv
+;	"as" preadv REMOVE:481
+;	"as" pr REMOVE:474
+"<">"
+	""" lquot
+	""" rquot
 "<A>"
 	"a" det ind sg
 "<webcomic>"
@@ -273,7 +275,9 @@
 	"and" cnjcoo
 "<language>"
 	"language" n sg
-"
+"<">"
+	""" lquot
+	""" rquot
 "<.>"
 	"." sent
 [/B9lZfveIqcW2]
@@ -461,6 +465,7 @@
 	"." sent
 [/HVZySUOgGVsX]
 [KesVo0kM5iYw#0] "<In>"
+	"In" abbr
 	"in" pr
 ;	"in" adv REMOVE:112
 "<webcomics>"
@@ -480,7 +485,9 @@
 	"that" det dem sg
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
-	"
+"<">"
+	""" lquot
+	""" rquot
 "<one>"
 	"one" num sg
 	"one" prn dem mf sg
@@ -579,7 +586,10 @@
 ;	"have" vblex imp SELECT:140
 "<.>"
 	"." sent
-"
+
+"<">"
+	""" lquot
+	""" rquot
 [/KesVo0kM5iYw]
 [L5XuT3f98QwE#0] "<His>"
 	"his" adj pos pred
@@ -762,15 +772,19 @@
 	"'s" gen SELECT:498
 ;	"be" vbser pres p3 sg SELECT:498
 ;	"have" vbhaver pres p3 sg SELECT:498
-;	" SELECT:498
+"<">"
+	""" lquot
+	""" rquot
 "<piles>"
 	"pile" n pl
-;	"pile" vblex pres p3 sg REMOVE:111
+	"pile" vblex pres p3 sg
 "<of>"
 	"of" pr
 "<notebooks>"
 	"notebook" n pl
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<became>"
 	"become" vblex past
 "<too>"
@@ -1060,19 +1074,24 @@
 	"internet" n sg
 	"Internet" np top sg
 "<as>"
-	"as" pr SELECT:465
-;	"as" adv SELECT:465
-;	"as" preadv SELECT:465
-;	"as" cnjsub SELECT:465
-;	"as" cnjadv SELECT:465
-;	" SELECT:465
+	"as" adv
+	"as" cnjsub
+	"as" cnjadv
+;	"as" preadv REMOVE:481
+;	"as" pr REMOVE:474
+"<">"
+	""" lquot
+	""" rquot
 "<a>"
 	"a" det ind sg
 "<salvation>"
 	"salvation" n sg
 "<.>"
 	"." sent
-"
+
+"<">"
+	""" lquot
+	""" rquot
 [/boMkR9ia7d8m]
 [iPfxZq9W8RcR#0] "<His>"
 	"his" adj pos pred
@@ -1481,24 +1500,29 @@
 "<xkcd>"
 	"*xkcd"
 "<as>"
-	"as" pr SELECT:465
-;	"as" adv SELECT:465
-;	"as" preadv SELECT:465
-;	"as" cnjsub SELECT:465
-;	"as" cnjadv SELECT:465
+	"as" adv
+	"as" cnjsub
+	"as" cnjadv
+;	"as" preadv REMOVE:481
+;	"as" pr REMOVE:474
 "<an>"
 	"a" det ind sg
-	"
+"<">"
+	""" lquot
+	""" rquot
 "<heir>"
 	"heir" n sg
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<to>"
 	"to" pr
 "<Charles>"
 	"Charles" np cog sg
 	"Charles" np ant m sg
 "<M>"
-	"*M"
+	"M" abbr
+	"m" abbr
 "<.>"
 	"." sent
 

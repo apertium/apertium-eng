@@ -248,7 +248,9 @@
 	"as" cnjsub
 	"as" cnjadv
 	"as" pr
- "
+"<">"
+	""" lquot
+	""" rquot
 "<A>"
 	"a" det ind sg
 "<webcomic>"
@@ -272,7 +274,9 @@
 	"and" cnjcoo
 "<language>"
 	"language" n sg
-"
+"<">"
+	""" lquot
+	""" rquot
 "<.>"
 	"." sent
 [/B9lZfveIqcW2]
@@ -460,6 +464,7 @@
 	"." sent
 [/HVZySUOgGVsX]
 [KesVo0kM5iYw#0] "<In>"
+	"In" abbr
 	"in" adv
 	"in" pr
 "<webcomics>"
@@ -479,7 +484,9 @@
 	"that" det dem sg
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
- "
+"<">"
+	""" lquot
+	""" rquot
 "<one>"
 	"one" num sg
 	"one" prn dem mf sg
@@ -578,7 +585,9 @@
 	"have" vblex imp
 "<.>"
 	"." sent
-"
+"<">"
+	""" lquot
+	""" rquot
 [/KesVo0kM5iYw]
 [L5XuT3f98QwE#0] "<His>"
 	"his" adj pos pred
@@ -761,7 +770,9 @@
 	"'s" gen
 	"be" vbser pres p3 sg
 	"have" vbhaver pres p3 sg
- "
+"<">"
+	""" lquot
+	""" rquot
 "<piles>"
 	"pile" n pl
 	"pile" vblex pres p3 sg
@@ -769,7 +780,9 @@
 	"of" pr
 "<notebooks>"
 	"notebook" n pl
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<became>"
 	"become" vblex past
 "<too>"
@@ -1064,14 +1077,18 @@
 	"as" cnjsub
 	"as" cnjadv
 	"as" pr
- "
+"<">"
+	""" lquot
+	""" rquot
 "<a>"
 	"a" det ind sg
 "<salvation>"
 	"salvation" n sg
 "<.>"
 	"." sent
-"
+"<">"
+	""" lquot
+	""" rquot
 [/boMkR9ia7d8m]
 [iPfxZq9W8RcR#0] "<His>"
 	"his" adj pos pred
@@ -1247,6 +1264,7 @@
 	"see" vblex pp
 [/jIEWjhpg9mlp]
 [k1_mnhYf3MdV#0] "<In>"
+	"In" abbr
 	"in" adv
 	"in" pr
 "<the>"
@@ -1257,7 +1275,9 @@
 	"1939" num
 "<,>"
 	"," cm
- "
+"<">"
+	""" lquot
+	""" rquot
 "<2016>"
 	"2016" num
 "<Election>"
@@ -1267,7 +1287,9 @@
 	"map" vblex inf
 	"map" vblex pres
 	"map" vblex imp
-"
+"<">"
+	""" lquot
+	""" rquot
 "<,>"
 	"," cm
 "<colored>"
@@ -1486,17 +1508,22 @@
 	"as" pr
 "<an>"
 	"a" det ind sg
- "
+"<">"
+	""" lquot
+	""" rquot
 "<heir>"
 	"heir" n sg
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<to>"
 	"to" pr
 "<Charles>"
 	"Charles" np cog sg
 	"Charles" np ant m sg
 "<M>"
-	"*M"
+	"M" abbr
+	"m" abbr
 "<.>"
 	"." sent
 "<Schulz>"
