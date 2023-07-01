@@ -608,3 +608,45 @@ REMOVE NpCog IF (0 NpCog) (0 PrnSubj) ;
 
 # a job / Steve Jobs (breaks phrases such as "an Apple representative")
 # REMOVE Np IF (-1C (det ind)) ;
+
+# Flammie's last resorts
+# Roman ordinal unlikely
+
+REMOVE ("I" adj) ;
+# so much more common as not names also
+REMOVE ("You" np) ;
+REMOVE ("He" np) ;
+REMOVE ("Also" np) ;
+# I think there's some noun->adj conversion in apertium-eng that fails for
+# eng-fin
+LIST FLAMMIE-NO-LIKE-ADJS = ("house" adj) ("car" adj) ("animal" adj)
+                            ("animal" adj) ("downtown" adj) ("summer" adj)
+                            ("school" adj) ("stage" adj) ("airport" adj)
+                            ("business" adj) ("mass" adj) ("riot" adj)
+                            ("kettle" adj) ("pilot" adj) ("police" adj)
+                            ("market" adj) ("radio" adj) ("rail" adj)
+                            ("chess" adj) ("parish" adj) ("foster" adj)
+                            ("citrus" adj) ("television" adj)
+                            ("road" adj) ("space" adj) ("accounting" adj)
+                            ("training" adj) ("labour" adj) ("jar" adj)
+                            ("career" adj) ("dish" adj) ("state" adj)
+                            ("blood" adj) ("basin" adj) ("bucket" adj)
+                            ("audio" adj) ("tourist" adj)
+                            ;
+REMOVE FLAMMIE-NO-LIKE-ADJS ;
+# for conjunction (wrong)
+REMOVE ("for" cnjadv) (NOT -1 BOS) ;
+#
+LIST INF = (inf) ;
+LIST PRN-PRS-SUBJ  =  (subj) ;
+REMOVE INF (-1 PRN-PRS-SUBJ) ;
+
+LIST PARTICIPLE = (pp) ;
+LIST PP-AUX = ("be" vbser) ;
+SELECT PARTICIPLE (-1 PP-AUX) ;
+
+REMOVE ("if" n) ;
+
+# titlecasing something mid-sentence should be an np
+LIST TitleCasedNP = (r"<[A-Z].*>" np) ;
+SELECT TitleCasedNP (not -1 BOS) ;
