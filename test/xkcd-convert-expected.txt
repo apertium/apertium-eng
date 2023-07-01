@@ -35,6 +35,7 @@
 "<comic>"
 	"comic" n sg
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<not>"
 	"not" adv
@@ -45,7 +46,9 @@
 "<but>"
 	"but" cnjcoo
 	"but" pr
- "
+"<">"
+	""" lquot
+	""" rquot
 "<just>"
 	"just" adv
 	"just" adj sint
@@ -62,7 +65,9 @@
 	"phonetic" adj
 "<pronunciation>"
 	"pronunciation" n sg
-"
+"<">"
+	""" lquot
+	""" rquot
 "<.>"
 	"." sent
 [/4vP5ycsdMq_R]
@@ -75,6 +80,8 @@
 	"map" n pl
 	"map" vblex pres p3 sg
 "<have>"
+	"have" vbmod inf
+	"have" vbmod pres
 	"have" vbhaver inf
 	"have" vbhaver pres
 	"have" vblex inf
@@ -82,6 +89,7 @@
 	"have" vblex imp
 "<been>"
 	"be" vbser pp
+	"be" vblex pp
 "<mentioned>"
 	"mention" vblex pp
 	"mention" vblex past
@@ -159,6 +167,8 @@
 "<was>"
 	"be" vbser past p1 sg
 	"be" vbser past p3 sg
+	"be" vblex past p1 sg
+	"be" vblex past p3 sg
 "<a>"
 	"a" det ind sg
 "<series>"
@@ -199,6 +209,7 @@
 "<,>"
 	"," cm
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<a>"
 	"a" det ind sg
@@ -306,6 +317,10 @@
 	"method" n pl
 "<are>"
 	"be" vbser pres
+	"be" vblex pres p1 pl
+	"be" vblex pres p2 sg
+	"be" vblex pres p2 pl
+	"be" vblex pres p3 pl
 "<a>"
 	"a" det ind sg
 "<frequently>"
@@ -331,6 +346,7 @@
 "<If>"
 	"if" adv
 	"if" cnjsub
+	"if" n sg
 "<column>"
 	"column" n sg
 "<on>"
@@ -344,6 +360,7 @@
 	"site" vblex pres
 	"site" vblex imp
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<updated>"
 	"updated" adj
@@ -377,10 +394,14 @@
 "<for>"
 	"for" cnjadv
 	"for" pr
- "
+"<">"
+	""" lquot
+	""" rquot
 "<malamanteau>"
 	"*malamanteau"
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<(>"
 	"(" lpar
 "<a>"
@@ -448,6 +469,8 @@
 "<was>"
 	"be" vbser past p1 sg
 	"be" vbser past p3 sg
+	"be" vblex past p1 sg
+	"be" vblex past p3 sg
 "<picked up>"
 	"pick# up" vblex sep past
 	"pick# up" vblex sep pp
@@ -474,6 +497,7 @@
 "<Munroe>"
 	"*Munroe"
 "<has>"
+	"have" vbmod pres p3 sg
 	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<said>"
@@ -539,6 +563,7 @@
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<three>"
 	"three" num pl
@@ -556,6 +581,7 @@
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<more>"
 	"more" adv
@@ -578,6 +604,8 @@
 	"can" vblex pres
 	"can" vblex imp
 "<have>"
+	"have" vbmod inf
+	"have" vbmod pres
 	"have" vbhaver inf
 	"have" vbhaver pres
 	"have" vblex inf
@@ -643,6 +671,7 @@
 [MjBfH1qa95gl#0] "<Munroe>"
 	"*Munroe"
 "<has>"
+	"have" vbmod pres p3 sg
 	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<released>"
@@ -689,7 +718,9 @@
 	"," cm
 "<and>"
 	"and" cnjcoo
- "
+"<">"
+	""" lquot
+	""" rquot
 "<stick>"
 	"stick" n sg
 	"stick" vblex inf
@@ -703,7 +734,9 @@
 "<battles>"
 	"battle" n pl
 	"battle" vblex pres p3 sg
-" 
+"<">"
+	""" lquot
+	""" rquot
 "<in>"
 	"in" adv
 	"in" pr
@@ -817,6 +850,7 @@
 	"prpers" prn subj p3 nt sg
 	"prpers" prn obj p3 nt sg
 "<has>"
+	"have" vbmod pres p3 sg
 	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<a>"
@@ -922,6 +956,10 @@
 	"cartoon" n pl
 "<are>"
 	"be" vbser pres
+	"be" vblex pres p1 pl
+	"be" vblex pres p2 sg
+	"be" vblex pres p2 pl
+	"be" vblex pres p3 pl
 "<added>"
 	"add" vblex pp
 	"add" vblex past
@@ -1109,9 +1147,11 @@
 "<If>"
 	"if" adv
 	"if" cnjsub
+	"if" n sg
 "<?>"
 	"?" sent
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<based>"
 	"based" adj
@@ -1241,6 +1281,7 @@
 	"prpers" prn subj p3 nt sg
 	"prpers" prn obj p3 nt sg
 "<is>"
+	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<the>"
 	"the" det def sp
@@ -1258,6 +1299,7 @@
 "<he>"
 	"prpers" prn subj p3 m sg
 "<has>"
+	"have" vbmod pres p3 sg
 	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<seen>"
@@ -1305,6 +1347,10 @@
 	"figure" vblex pres p3 sg
 "<are>"
 	"be" vbser pres
+	"be" vblex pres p1 pl
+	"be" vblex pres p2 sg
+	"be" vblex pres p2 pl
+	"be" vblex pres p3 pl
 "<used to>"
 	"use# to" vblex past
 	"use# to" vblex pp
@@ -1333,8 +1379,11 @@
 "<giving>"
 	"giving" n sg
 	"give" vblex pprs
+	"give" vblex sep pprs
 	"give" vblex subs
+	"give" vblex sep subs
 	"give" vblex ger
+	"give" vblex sep ger
 "<a>"
 	"a" det ind sg
 "<clearer>"
@@ -1381,6 +1430,8 @@
 	"strip" n pl
 	"strip" vblex pres p3 sg
 "<have>"
+	"have" vbmod inf
+	"have" vbmod pres
 	"have" vbhaver inf
 	"have" vbhaver pres
 	"have" vblex inf
@@ -1424,6 +1475,9 @@
 	"the" det def sp
 "<text>"
 	"text" n sg
+	"text" vblex inf
+	"text" vblex pres
+	"text" vblex imp
 "<of>"
 	"of" pr
 "<which>"
@@ -1469,10 +1523,12 @@
 [pHq8pkvbmM3c#0] "<Munroe>"
 	"*Munroe"
 "<has>"
+	"have" vbmod pres p3 sg
 	"have" vbhaver pres p3 sg
 	"have" vblex pres p3 sg
 "<been>"
 	"be" vbser pp
+	"be" vblex pp
 "<a>"
 	"a" det ind sg
 "<fan>"
@@ -1568,6 +1624,8 @@
 "<would>"
 	"will" vbmod past
 "<have>"
+	"have" vbmod inf
+	"have" vbmod pres
 	"have" vbhaver inf
 	"have" vbhaver pres
 	"have" vblex inf
@@ -1575,6 +1633,7 @@
 	"have" vblex imp
 "<been>"
 	"be" vbser pp
+	"be" vblex pp
 "<difficult>"
 	"difficult" adj
 "<to>"
@@ -1610,6 +1669,8 @@
 "<as a whole>"
 	"as a whole" adv
 "<have>"
+	"have" vbmod inf
+	"have" vbmod pres
 	"have" vbhaver inf
 	"have" vbhaver pres
 	"have" vblex inf
