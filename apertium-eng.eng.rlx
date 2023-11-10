@@ -344,6 +344,9 @@ SELECT V IF (0 N) (0 V) (-5C V) (-4 Det) (-3 N) (-2 N) (-1 Cnjcoo) ;
 
 #  Verbs: vbmod if Inf follows and Vbhaver if Pp follows
 
+SELECT Vbhaver IF (1 Pp) ;
+SELECT Vbhaver IF (2 Pp) ;
+
 SELECT SUB:-1 Vbhaver IF (1 Pp) ;
 SELECT SUB:-1 Vbhaver IF (2 Pp) ;
 REMOVE SUB:-1 Vbhaver ;
