@@ -4,8 +4,8 @@
 	"state" n pl
 	"state" vblex pres p3 sg
 "<on>"
-	"on" pr SELECT:465
-;	"on" adv SELECT:465
+	"on" pr SELECT:468
+;	"on" adv SELECT:468
 "<the>"
 	"the" det def sp
 "<comic>"
@@ -17,10 +17,10 @@
 "<website>"
 	"website" n sg
 "<that>"
-	"that" cnjsub SELECT:394
-;	"that" det dem sg SELECT:394
-;	"that" prn dem mf sg SELECT:394
-;	"that" prn rel an mf sp SELECT:394
+	"that" cnjsub SELECT:397
+;	"that" det dem sg SELECT:397
+;	"that" prn dem mf sg SELECT:397
+;	"that" prn rel an mf sp SELECT:397
 "<the>"
 	"the" det def sp
 "<name>"
@@ -74,25 +74,25 @@
 [9E7ptvSge0TJ#0] "<On occasion>"
 	"on occasion" adv
 "<these>"
-	"this" det dem pl SELECT:423
-;	"this" prn dem mf pl SELECT:423
+	"this" det dem pl SELECT:426
+;	"this" prn dem mf pl SELECT:426
 "<maps>"
 	"map" n pl SELECT:289
 ;	"map" vblex pres p3 sg SELECT:289
 "<have>"
-	"have" vbmod inf
-	"have" vbmod pres
-	"have" vbhaver inf
-	"have" vbhaver pres
-;	"have" vblex inf REMOVE:505
-;	"have" vblex pres REMOVE:505
+	"have" vbhaver inf SELECT:347
+	"have" vbhaver pres SELECT:347
+;	"have" vbmod inf SELECT:347
+;	"have" vbmod pres SELECT:347
+;	"have" vblex inf SELECT:347
+;	"have" vblex pres SELECT:347
 ;	"have" vblex imp REMOVE:241
 "<been>"
 	"be" vbser pp
 	"be" vblex pp
 "<mentioned>"
-	"mention" vblex pp SELECT:646
-;	"mention" vblex past SELECT:646
+	"mention" vblex pp SELECT:649
+;	"mention" vblex past SELECT:649
 "<by>"
 	"by" pr
 ;	"by" adv REMOVE:112
@@ -108,8 +108,8 @@
 "<or>"
 	"or" cnjcoo
 "<original>"
-	"original" adj SELECT:363
-;	"original" n sg SELECT:363
+	"original" adj SELECT:366
+;	"original" n sg SELECT:366
 "<presentation>"
 	"presentation" n sg
 "<of>"
@@ -147,8 +147,8 @@
 	"publish" vblex past
 	"published" adj
 "<in>"
-	"in" pr SELECT:468
-;	"in" adv SELECT:468
+	"in" pr SELECT:471
+;	"in" adv SELECT:471
 "<2010>"
 	"2010" num
 "<and>"
@@ -187,10 +187,10 @@
 "<from>"
 	"from" pr
 "<his>"
-	"his" det pos sp SELECT:423
-	"prpers" det pos p3 m sg SELECT:423
-;	"his" adj pos pred SELECT:423
-;	"prpers" prn pos p3 m sg SELECT:423
+	"his" det pos sp SELECT:426
+	"prpers" det pos p3 m sg SELECT:426
+;	"his" adj pos pred SELECT:426
+;	"prpers" prn pos p3 m sg SELECT:426
 "<website>"
 	"website" n sg
 "<.>"
@@ -221,11 +221,11 @@
 	"create" vblex past
 	"create" vblex pp
 "<by>"
-	"by" pr SELECT:464
-;	"by" adv SELECT:464
+	"by" pr SELECT:467
+;	"by" adv SELECT:467
 "<American>"
-	"American" adj SELECT:363
-;	"American" n sg SELECT:363
+	"American" adj SELECT:366
+;	"American" n sg SELECT:366
 "<author>"
 	"author" n sg SELECT:290
 ;	"author" vblex inf SELECT:290
@@ -258,8 +258,8 @@
 	"as" adv
 	"as" cnjsub
 	"as" cnjadv
-;	"as" preadv REMOVE:481
-;	"as" pr REMOVE:474
+;	"as" preadv REMOVE:484
+;	"as" pr REMOVE:477
 "<">"
 	""" lquot
 	""" rquot
@@ -304,7 +304,7 @@
 	"prpers" det pos p3 mf pl
 "<various>"
 	"various" adj
-;	"various" det ind pl REMOVE:422
+;	"various" det ind pl REMOVE:425
 "<different>"
 	"different" adj
 "<formats>"
@@ -329,8 +329,8 @@
 "<recurring theme>"
 	"recurring theme" n sg
 "<in>"
-	"in" pr SELECT:465
-;	"in" adv SELECT:465
+	"in" pr SELECT:468
+;	"in" adv SELECT:468
 "<the>"
 	"the" det def sp
 "<comic>"
@@ -343,16 +343,16 @@
 "<What>"
 	"what" prn itg mf sp
 	"what" prn rel nn mf sg
-;	"what" det itg sp REMOVE:422
+;	"what" det itg sp REMOVE:425
 "<If>"
 	"if" cnjsub
 ;	"if" adv REMOVE:112
-;	"if" n sg REMOVE:648
+;	"if" n sg REMOVE:651
 "<column>"
 	"column" n sg
 "<on>"
-	"on" pr SELECT:465
-;	"on" adv SELECT:465
+	"on" pr SELECT:468
+;	"on" adv SELECT:468
 "<the>"
 	"the" det def sp
 "<site>"
@@ -364,9 +364,9 @@
 	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<updated>"
-	"update" vblex pp SELECT:646
-;	"updated" adj SELECT:646
-;	"update" vblex past SELECT:646
+	"update" vblex pp SELECT:649
+;	"updated" adj SELECT:649
+;	"update" vblex past SELECT:649
 "<with>"
 	"with" pr
 "<new>"
@@ -394,7 +394,7 @@
 	"entry" n sg
 "<for>"
 	"for" pr
-;	"for" cnjadv REMOVE:638
+;	"for" cnjadv REMOVE:641
 "<">"
 	""" lquot
 	""" rquot
@@ -417,7 +417,7 @@
 	"create" vblex pp
 "<by>"
 	"by" adv
-;	"by" pr REMOVE:474
+;	"by" pr REMOVE:477
 "<Munroe>"
 	"*Munroe"
 "<to>"
@@ -458,29 +458,29 @@
 "<controversy>"
 	"controversy" n sg
 "<within>"
-	"within" pr SELECT:461
-;	"within" adv SELECT:461
+	"within" pr SELECT:464
+;	"within" adv SELECT:464
 "<Wikipedia>"
 	"Wikipedia" np al sg
 "<that>"
 	"that" cnjsub
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
-;	"that" det dem sg REMOVE:430
+;	"that" det dem sg REMOVE:433
 "<was>"
 	"be" vbser past p1 sg
 	"be" vbser past p3 sg
 	"be" vblex past p1 sg
 	"be" vblex past p3 sg
 "<picked up>"
-	"pick# up" vblex sep pp SELECT:646
-;	"pick# up" vblex sep past SELECT:646
+	"pick# up" vblex sep pp SELECT:649
+;	"pick# up" vblex sep past SELECT:649
 "<by>"
 	"by" pr
 ;	"by" adv REMOVE:113
 "<various>"
-	"various" det ind pl SELECT:435
-;	"various" adj SELECT:435
+	"various" det ind pl SELECT:438
+;	"various" adj SELECT:438
 "<media>"
 	"media" n sg
 	"media" n pl
@@ -498,9 +498,9 @@
 "<Munroe>"
 	"*Munroe"
 "<has>"
-	"have" vbmod pres p3 sg
-	"have" vbhaver pres p3 sg
-;	"have" vblex pres p3 sg REMOVE:505
+	"have" vbhaver pres p3 sg SELECT:347
+;	"have" vbmod pres p3 sg SELECT:347
+;	"have" vblex pres p3 sg SELECT:347
 "<said>"
 	"say" vblex pp SELECT:164
 ;	"say" vblex past SELECT:164
@@ -518,7 +518,7 @@
 "<can>"
 	"can" vbmod pres SELECT:281
 ;	"can" n sg SELECT:281
-;	"can" vbmod inf SELECT:281 REMOVE:552
+;	"can" vbmod inf SELECT:281 REMOVE:555
 ;	"can" vblex inf SELECT:281
 ;	"can" vblex pres SELECT:281
 ;	"can" vblex imp SELECT:281
@@ -533,7 +533,7 @@
 	"that" cnjsub
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
-;	"that" det dem sg REMOVE:430
+;	"that" det dem sg REMOVE:433
 "<appeals to>"
 	"appeal# to" vblex pres p3 sg
 "<1>"
@@ -562,15 +562,15 @@
 	"that" cnjsub
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
-;	"that" det dem sg REMOVE:430
+;	"that" det dem sg REMOVE:433
 "<is>"
 	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<three>"
 	"three" num pl
 "<million>"
-	"million" num pl SELECT:522
-;	"million" n sg SELECT:522
+	"million" num pl SELECT:525
+;	"million" n sg SELECT:525
 "<people>"
 	"people" n sg
 	"person" n pl
@@ -580,7 +580,7 @@
 	"that" cnjsub
 	"that" prn dem mf sg
 	"that" prn rel an mf sp
-;	"that" det dem sg REMOVE:430
+;	"that" det dem sg REMOVE:433
 "<is>"
 	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
@@ -600,7 +600,7 @@
 "<can>"
 	"can" vbmod pres SELECT:281
 ;	"can" n sg SELECT:281
-;	"can" vbmod inf SELECT:281 REMOVE:552
+;	"can" vbmod inf SELECT:281 REMOVE:555
 ;	"can" vblex inf SELECT:281
 ;	"can" vblex pres SELECT:281
 ;	"can" vblex imp SELECT:281
@@ -608,7 +608,7 @@
 	"have" vbmod inf SELECT:140
 	"have" vblex inf SELECT:140
 ;	"have" vbmod pres SELECT:140
-;	"have" vbhaver inf SELECT:140 REMOVE:508
+;	"have" vbhaver inf SELECT:140 REMOVE:511
 ;	"have" vbhaver pres SELECT:140
 ;	"have" vblex pres SELECT:140
 ;	"have" vblex imp SELECT:140
@@ -622,8 +622,8 @@
 [L5XuT3f98QwE#0] "<His>"
 	"his" adj pos pred
 	"prpers" prn pos p3 m sg
-;	"his" det pos sp REMOVE:430
-;	"prpers" det pos p3 m sg REMOVE:430
+;	"his" det pos sp REMOVE:433
+;	"prpers" det pos p3 m sg REMOVE:433
 "<2015>"
 	"2015" num
 "<book>"
@@ -657,7 +657,7 @@
 	"most" adv
 	"most" preadv
 	"most" prn ind mf pl
-;	"most" det qnt sp REMOVE:430
+;	"most" det qnt sp REMOVE:433
 "<commonly>"
 	"commonly" adv
 "<used>"
@@ -673,9 +673,9 @@
 [MjBfH1qa95gl#0] "<Munroe>"
 	"*Munroe"
 "<has>"
-	"have" vbmod pres p3 sg
-	"have" vbhaver pres p3 sg
-;	"have" vblex pres p3 sg REMOVE:505
+	"have" vbhaver pres p3 sg SELECT:347
+;	"have" vbmod pres p3 sg SELECT:347
+;	"have" vblex pres p3 sg SELECT:347
 "<released>"
 	"release" vblex pp SELECT:164
 ;	"release" vblex past SELECT:164
@@ -740,8 +740,8 @@
 	""" lquot
 	""" rquot
 "<in>"
-	"in" pr SELECT:465
-;	"in" adv SELECT:465
+	"in" pr SELECT:468
+;	"in" adv SELECT:468
 "<the>"
 	"the" det def sp
 "<margins>"
@@ -749,13 +749,13 @@
 "<of>"
 	"of" pr
 "<his>"
-	"his" det pos sp SELECT:423
-	"prpers" det pos p3 m sg SELECT:423
-;	"his" adj pos pred SELECT:423
-;	"prpers" prn pos p3 m sg SELECT:423
+	"his" det pos sp SELECT:426
+	"prpers" det pos p3 m sg SELECT:426
+;	"his" adj pos pred SELECT:426
+;	"prpers" prn pos p3 m sg SELECT:426
 "<school>"
-	"school" n sg SELECT:357
-;	"school" adj SELECT:357
+	"school" n sg SELECT:360
+;	"school" adj SELECT:360
 "<notebooks>"
 	"notebook" n pl
 "<,>"
@@ -775,10 +775,10 @@
 "<to>"
 	"to" pr
 "<his>"
-	"his" det pos sp SELECT:423
-	"prpers" det pos p3 m sg SELECT:423
-;	"his" adj pos pred SELECT:423
-;	"prpers" prn pos p3 m sg SELECT:423
+	"his" det pos sp SELECT:426
+	"prpers" det pos p3 m sg SELECT:426
+;	"his" adj pos pred SELECT:426
+;	"prpers" prn pos p3 m sg SELECT:426
 "<classes>"
 	"class" n pl SELECT:289
 ;	"class" vblex pres p3 sg SELECT:289
@@ -791,7 +791,7 @@
 	"prpers" prn subj p3 m sg
 "<graduated>"
 	"graduate" vblex past
-;	"graduate" vblex pp REMOVE:551
+;	"graduate" vblex pp REMOVE:554
 "<from>"
 	"from" pr
 "<university>"
@@ -802,9 +802,9 @@
 "<Munroe>"
 	"*Munroe"
 "<'s>"
-	"'s" gen SELECT:498
-;	"be" vbser pres p3 sg SELECT:498
-;	"have" vbhaver pres p3 sg SELECT:498
+	"'s" gen SELECT:501
+;	"be" vbser pres p3 sg SELECT:501
+;	"have" vbhaver pres p3 sg SELECT:501
 "<">"
 	""" lquot
 	""" rquot
@@ -831,7 +831,7 @@
 	"prpers" prn subj p3 m sg
 "<started>"
 	"start" vblex past
-;	"start" vblex pp REMOVE:551
+;	"start" vblex pp REMOVE:554
 "<scanning>"
 	"scan" vblex subs SELECT:270
 ;	"scanning" n sg SELECT:270
@@ -847,14 +847,14 @@
 [TAHrs4JmD_h5#0] "<Although>"
 	"although" adv
 	"although" cnjsub
-;	"although" cnjadv REMOVE:549
+;	"although" cnjadv REMOVE:552
 "<it>"
 	"prpers" prn subj p3 nt sg
 	"prpers" prn obj p3 nt sg
 "<has>"
 	"have" vbmod pres p3 sg
 	"have" vblex pres p3 sg
-;	"have" vbhaver pres p3 sg REMOVE:508
+;	"have" vbhaver pres p3 sg REMOVE:511
 "<a>"
 	"a" det ind sg
 "<cast>"
@@ -909,17 +909,17 @@
 	"pattern" n pl
 "<such as>"
 	"such as" adv
-;	"such as" pr REMOVE:474
+;	"such as" pr REMOVE:477
 "<fractals>"
 	"*fractals"
 "<.>"
 	"." sent
 [/TAHrs4JmD_h5]
 [V6t0PZilktIQ#0] "<Some>"
-	"some" det qnt sp SELECT:423
-;	"some" adj SELECT:423
-;	"some" adv SELECT:423
-;	"some" prn ind mf pl SELECT:423
+	"some" det qnt sp SELECT:426
+;	"some" adj SELECT:426
+;	"some" adv SELECT:426
+;	"some" prn ind mf pl SELECT:426
 "<strips>"
 	"strip" n pl SELECT:289
 ;	"strip" vblex pres p3 sg SELECT:289
@@ -963,8 +963,8 @@
 	"be" vblex pres p2 pl
 	"be" vblex pres p3 pl
 "<added>"
-	"add" vblex pp SELECT:646
-;	"add" vblex past SELECT:646
+	"add" vblex pp SELECT:649
+;	"add" vblex past SELECT:649
 "<three times>"
 	"three times" adv
 "<a>"
@@ -991,8 +991,8 @@
 [Z8ZpdvYWQpIO#0] "<The>"
 	"the" det def sp
 "<subject>"
-	"subject" adj SELECT:363
-;	"subject" n sg SELECT:363
+	"subject" adj SELECT:366
+;	"subject" n sg SELECT:366
 ;	"subject" vblex inf REMOVE:110
 ;	"subject" vblex pres REMOVE:110
 ;	"subject" vblex imp REMOVE:110
@@ -1073,10 +1073,10 @@
 ;	"need" vblex imp REMOVE:110
 "<for>"
 	"for" pr
-;	"for" cnjadv REMOVE:638
+;	"for" cnjadv REMOVE:641
 "<editorial>"
-	"editorial" adj SELECT:363
-;	"editorial" n sg SELECT:363
+	"editorial" adj SELECT:366
+;	"editorial" n sg SELECT:366
 "<control>"
 	"control" n sg SELECT:290
 ;	"control" vblex inf SELECT:290
@@ -1115,8 +1115,8 @@
 	"as" adv
 	"as" cnjsub
 	"as" cnjadv
-;	"as" preadv REMOVE:481
-;	"as" pr REMOVE:474
+;	"as" preadv REMOVE:484
+;	"as" pr REMOVE:477
 "<">"
 	""" lquot
 	""" rquot
@@ -1134,8 +1134,8 @@
 [iPfxZq9W8RcR#0] "<His>"
 	"his" adj pos pred
 	"prpers" prn pos p3 m sg
-;	"his" det pos sp REMOVE:430
-;	"prpers" det pos p3 m sg REMOVE:430
+;	"his" det pos sp REMOVE:433
+;	"prpers" det pos p3 m sg REMOVE:433
 "<2014>"
 	"2014" num
 "<book>"
@@ -1150,7 +1150,7 @@
 "<If>"
 	"if" adv
 	"if" cnjsub
-;	"if" n sg REMOVE:648
+;	"if" n sg REMOVE:651
 "<?>"
 	"?" sent
 
@@ -1158,17 +1158,17 @@
 	"be" vblex pres p3 sg
 	"be" vbser pres p3 sg
 "<based>"
-	"base" vblex pp SELECT:646
-;	"based" adj SELECT:646
-;	"base" vblex past SELECT:646
+	"base" vblex pp SELECT:649
+;	"based" adj SELECT:649
+;	"base" vblex past SELECT:649
 "<on>"
-	"on" pr SELECT:465
-;	"on" adv SELECT:465
+	"on" pr SELECT:468
+;	"on" adv SELECT:468
 "<his>"
-	"his" det pos sp SELECT:423
-	"prpers" det pos p3 m sg SELECT:423
-;	"his" adj pos pred SELECT:423
-;	"prpers" prn pos p3 m sg SELECT:423
+	"his" det pos sp SELECT:426
+	"prpers" det pos p3 m sg SELECT:426
+;	"his" adj pos pred SELECT:426
+;	"prpers" prn pos p3 m sg SELECT:426
 "<blog>"
 	"blog" n sg SELECT:289
 ;	"blog" vblex inf SELECT:289
@@ -1177,20 +1177,20 @@
 "<of>"
 	"of" pr
 "<the same>"
-	"the same" det ind sp SELECT:454
-	"the" det def sp SELECT:454
+	"the same" det ind sp SELECT:457
+	"the" det def sp SELECT:457
 		"same" adj
-;	"the same" adv SELECT:454
+;	"the same" adv SELECT:457
 "<name>"
 	"name" n sg SELECT:289
 ;	"name" vblex inf SELECT:289
 ;	"name" vblex pres SELECT:289
 ;	"name" vblex imp SELECT:289
 "<that>"
-	"that" det dem sg SELECT:423
-;	"that" cnjsub SELECT:423
-;	"that" prn dem mf sg SELECT:423
-;	"that" prn rel an mf sp SELECT:423
+	"that" det dem sg SELECT:426
+;	"that" cnjsub SELECT:426
+;	"that" prn dem mf sg SELECT:426
+;	"that" prn rel an mf sp SELECT:426
 "<answers>"
 	"answer" n pl SELECT:289
 ;	"answer" vblex pres p3 sg SELECT:289
@@ -1207,7 +1207,7 @@
 	"reader" n pl
 "<in>"
 	"in" adv
-;	"in" pr REMOVE:474
+;	"in" pr REMOVE:477
 "<a>"
 	"a" det ind sg
 "<light-hearted>"
@@ -1255,7 +1255,7 @@
 	"Wharton" np cog sg
 "<School>"
 	"school" n sg
-;	"school" adj REMOVE:636
+;	"school" adj REMOVE:639
 "<,>"
 	"," cm
 "<critically>"
@@ -1293,7 +1293,7 @@
 	"most" adv
 	"most" preadv
 	"most" prn ind mf pl
-;	"most" det qnt sp REMOVE:422
+;	"most" det qnt sp REMOVE:425
 "<elegant>"
 	"elegant" adj
 "<and>"
@@ -1303,16 +1303,16 @@
 "<he>"
 	"prpers" prn subj p3 m sg
 "<has>"
-	"have" vbmod pres p3 sg
-	"have" vbhaver pres p3 sg
-;	"have" vblex pres p3 sg REMOVE:505
+	"have" vbhaver pres p3 sg SELECT:347
+;	"have" vbmod pres p3 sg SELECT:347
+;	"have" vblex pres p3 sg SELECT:347
 "<seen>"
 	"see" vblex pp
 [/jIEWjhpg9mlp]
 [k1_mnhYf3MdV#0] "<In>"
-	"in" pr SELECT:465
-;	"In" abbr SELECT:465
-;	"in" adv SELECT:465
+	"in" pr SELECT:468
+;	"In" abbr SELECT:468
+;	"in" adv SELECT:468
 "<the>"
 	"the" det def sp
 "<comic>"
@@ -1356,8 +1356,8 @@
 	"be" vblex pres p2 pl
 	"be" vblex pres p3 pl
 "<used to>"
-	"use# to" vblex pp SELECT:646
-;	"use# to" vblex past SELECT:646
+	"use# to" vblex pp SELECT:649
+;	"use# to" vblex past SELECT:649
 "<display>"
 	"display" n sg
 	"display" vblex inf
@@ -1411,7 +1411,7 @@
 	"vote" vblex pp
 "<in>"
 	"in" adv
-;	"in" pr REMOVE:474
+;	"in" pr REMOVE:477
 "<the>"
 	"the" det def sp
 "<2016>"
@@ -1427,7 +1427,7 @@
 	"all" adv
 	"all" predet sp
 	"all" prn qnt mf sp
-;	"all" det qnt pl REMOVE:430
+;	"all" det qnt pl REMOVE:433
 "<xkcd>"
 	"*xkcd"
 "<strips>"
@@ -1438,8 +1438,8 @@
 	"have" vbmod pres
 	"have" vblex inf
 	"have" vblex pres
-;	"have" vbhaver inf REMOVE:508
-;	"have" vbhaver pres REMOVE:508
+;	"have" vbhaver inf REMOVE:511
+;	"have" vbhaver pres REMOVE:511
 ;	"have" vblex imp REMOVE:241
 "<a>"
 	"a" det ind sg
@@ -1487,7 +1487,7 @@
 "<which>"
 	"which" prn itg mf sp
 	"which" prn rel an mf sp
-;	"which" det itg sp REMOVE:430
+;	"which" det itg sp REMOVE:433
 "<usually>"
 	"usually" adv
 "<contains>"
@@ -1509,10 +1509,10 @@
 "<to>"
 	"to" pr
 "<that>"
-	"that" det dem sg SELECT:390
-;	"that" cnjsub SELECT:390
-;	"that" prn dem mf sg SELECT:390
-;	"that" prn rel an mf sp SELECT:390
+	"that" det dem sg SELECT:393
+;	"that" cnjsub SELECT:393
+;	"that" prn dem mf sg SELECT:393
+;	"that" prn rel an mf sp SELECT:393
 "<day>"
 	"day" n sg
 "<'s>"
@@ -1527,9 +1527,9 @@
 [pHq8pkvbmM3c#0] "<Munroe>"
 	"*Munroe"
 "<has>"
-	"have" vbmod pres p3 sg
-	"have" vbhaver pres p3 sg
-;	"have" vblex pres p3 sg REMOVE:505
+	"have" vbhaver pres p3 sg SELECT:347
+;	"have" vbmod pres p3 sg SELECT:347
+;	"have" vblex pres p3 sg SELECT:347
 "<been>"
 	"be" vbser pp
 	"be" vblex pp
@@ -1564,8 +1564,8 @@
 	"as" adv
 	"as" cnjsub
 	"as" cnjadv
-;	"as" preadv REMOVE:481
-;	"as" pr REMOVE:474
+;	"as" preadv REMOVE:484
+;	"as" pr REMOVE:477
 "<an>"
 	"a" det ind sg
 "<">"
@@ -1599,12 +1599,12 @@
 	"." sent
 [/pHq8pkvbmM3c]
 [wC_HepSMeLv1#0] "<Despite>"
-	"despite" pr SELECT:465
-;	"despite" adv SELECT:465
+	"despite" pr SELECT:468
+;	"despite" adv SELECT:468
 "<this>"
-	"this" det dem sg SELECT:423
-;	"this" prn dem mf sg SELECT:423
-;	"this" prn rel an mf sp SELECT:423
+	"this" det dem sg SELECT:426
+;	"this" prn dem mf sg SELECT:426
+;	"this" prn rel an mf sp SELECT:426
 "<influence>"
 	"influence" n sg SELECT:289
 ;	"influence" vblex inf SELECT:289
@@ -1615,9 +1615,9 @@
 "<xkcd>"
 	"*xkcd"
 "<'s>"
-	"'s" gen SELECT:498
-;	"be" vbser pres p3 sg SELECT:498
-;	"have" vbhaver pres p3 sg SELECT:498
+	"'s" gen SELECT:501
+;	"be" vbser pres p3 sg SELECT:501
+;	"have" vbhaver pres p3 sg SELECT:501
 "<quirky>"
 	"quirky" adj sint
 "<and>"
@@ -1629,11 +1629,11 @@
 "<would>"
 	"will" vbmod past
 "<have>"
-	"have" vbmod inf SELECT:140
-	"have" vbhaver inf SELECT:140
+	"have" vbhaver inf SELECT:140 SELECT:347
+;	"have" vbmod inf SELECT:140 SELECT:347
 ;	"have" vbmod pres SELECT:140
 ;	"have" vbhaver pres SELECT:140
-;	"have" vblex inf SELECT:140 REMOVE:505
+;	"have" vblex inf SELECT:140 SELECT:347
 ;	"have" vblex pres SELECT:140
 ;	"have" vblex imp SELECT:140
 "<been>"
@@ -1674,12 +1674,12 @@
 "<as a whole>"
 	"as a whole" adv
 "<have>"
-	"have" vbmod inf
-	"have" vbmod pres
-	"have" vbhaver inf
-	"have" vbhaver pres
-;	"have" vblex inf REMOVE:505
-;	"have" vblex pres REMOVE:505
+	"have" vbhaver inf SELECT:347
+	"have" vbhaver pres SELECT:347
+;	"have" vbmod inf SELECT:347
+;	"have" vbmod pres SELECT:347
+;	"have" vblex inf SELECT:347
+;	"have" vblex pres SELECT:347
 ;	"have" vblex imp REMOVE:241
 "<occurred>"
 	"occur" vblex pp SELECT:164
@@ -1688,7 +1688,7 @@
 	"several times" adv
 "<in>"
 	"in" adv
-;	"in" pr REMOVE:474
+;	"in" pr REMOVE:477
 "<xkcd>"
 	"*xkcd"
 "<.>"
