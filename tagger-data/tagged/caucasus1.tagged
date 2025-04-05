@@ -3,7 +3,8 @@
 ^is/be<vbser><pres><p3><sg>$
 ^one/one<prn><tn><mf><sg>$
 ^of/of<pr>$
-^the most/the most<det><qnt><sp>$
+^the/the<det><def><sp>$
+^most/most<preadv>$
 ^linguistically/linguistically<adv>$
 ^and/and<cnjcoo>$
 ^culturally/culturally<adv>$
@@ -52,9 +53,13 @@
 ^of/of<pr>$
 ^Adygea/*Adygea$
 ^,/,<cm>$
-^Karachay-Cherkessia/*Karachay-Cherkessia$
+^Karachay/*Karachay$
+^-/-<guio>$
+^Cherkessia/*Cherkessia$
 ^,/,<cm>$
-^Kabardino-Balkaria/*Kabardino-Balkaria$
+^Kabardino/*Kabardino$
+^-/-<guio>$
+^Balkaria/*Balkaria$
 ^,/,<cm>$
 ^North Ossetia/North Ossetia<np><top><sg>$
 ^,/,<cm>$
@@ -126,7 +131,8 @@
 ^and/and<cnjcoo>$
 ^Iberia/*Iberia$
 ^,/,<cm>$
-^among others/among others<adv>$
+^among/among<pr>$
+^others/others<prn><ind><mf><pl>$
 ^./.<sent>$
 
 ^These/This<det><dem><pl>$
@@ -307,7 +313,7 @@
 ^political/political<adj>$
 ^entity/entity<n><sg>$
 ^twice/twice<adv>$
-^–/–<guio>$
+–
 ^during/during<pr>$
 ^the/the<det><def><sp>$
 ^Russian/russian<adj>$
@@ -409,7 +415,8 @@
 ^1991/1991<num>$
 ^./.<sent>$
 
-^The most/The most<det><qnt><sp>$
+^The/the<det><def><sp>$
+^most/most<preadv>$
 ^numerous/numerous<adj>$
 ^peoples/peoples<n><pl>$
 ^of/of<pr>$
@@ -451,7 +458,7 @@
 ^own/own<adj>$
 ^independent/independent<adj>$
 ^state/state<n><sg>$
-^–/–<guio>$
+–
 ^Georgia/Georgia<np><top><sg>$
 ^./.<sent>$
 
@@ -473,12 +480,16 @@
 ^,/,<cm>$
 ^Cherkes/*Cherkes$
 ^(/(<lpar>$
-^Karachay-Cherkessia/*Karachay-Cherkessia$
+^Karachay/*Karachay$
+^-/-<guio>$
+^Cherkessia/*Cherkessia$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^Kabardins/*Kabardins$
 ^(/(<lpar>$
-^Kabardino-Balkaria/*Kabardino-Balkaria$
+^Kabardino/*Kabardino$
+^-/-<guio>$
+^Balkaria/*Balkaria$
 ^)/)<rpar>$
 ^,/,<cm>$
 ^Ingush/*Ingush$
@@ -508,7 +519,7 @@
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
 ^is/be<vbser><pres><p3><sg>$
-^de facto/de facto<adj>$
+^de facto/de facto<adv>$
 ^independent/independent<adj>$
 ^,/,<cm>$
 ^but/but<cnjcoo>$

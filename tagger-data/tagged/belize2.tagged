@@ -400,7 +400,8 @@
 ^posts/post<n><pl>$
 ^to/to<pr>$
 ^monitor/monitor<vblex><inf>$
-^key points/key point<n><pl>$
+^key/key<adj>$
+^points/point<n><pl>$
 ^./.<sent>$
 
 ^1976/1976<num>$
@@ -722,12 +723,14 @@
 ^from/from<pr>$
 ^Guatemala/Guatemala<np><top><sg>$
 ^,/,<cm>$
-^consisting of/consist<vblex><pprs># of$
+^consisting/consist<vblex><pprs>$
+^of/of<pr>$
 ^an/a<det><ind><sg>$
 ^army/army<n><sg>$
 ^battalion/*battalion$
 ^and/and<cnjcoo>$
-^No. 1417/No. 1417<num>$
+^No./No.<abbr>$
+^1417/1417<num>$
 ^Flight/Flight<n><sg>$
 ^RAF/RAF<n><acr><sg>$
 ^of/of<pr>$

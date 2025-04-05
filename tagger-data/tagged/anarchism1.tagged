@@ -195,7 +195,8 @@
 ^to/to<pr>$
 ^join/join<vblex><inf>$
 ^a/a<det><ind><sg>$
-^popular front/popular front<n><sg>$
+^popular/popular<adj>$
+^front/front<n><sg>$
 ^electoral/electoral<adj>$
 ^alliance/alliance<n><sg>$
 ^,/,<cm>$
@@ -228,7 +229,8 @@
 ^helped/help<vblex><past>$
 ^bring/bring<vblex><inf>$
 ^the/the<det><def><sp>$
-^popular front/popular front<n><sg>$
+^popular/popular<adj>$
+^front/front<n><sg>$
 ^back/back<adv>$
 ^to/to<pr>$
 ^power/power<n><sg>$
@@ -252,9 +254,7 @@
 ^Civil/Civil<adj>$
 ^War/War<n><sg>$
 ^(/(<lpar>$
-^1936/1936<num>$
-^–/–<guio>$
-^1939/1939<num>$
+^1936-1939/1936-1939<num>$
 ^)/)<rpar>$
 ^./.<sent>$
 

@@ -215,10 +215,10 @@
 ^,/,<cm>$
 ^which/which<rel><an><mf><sp>$
 ^means/mean<vblex><pres><p3><sg>$
-"
+^"/"<lquot>$
 ^closed/close<vblex><pp>$
 ^gates/gate<n><pl>$
-"
+^"/"<rquot>$
 ^./.<sent>$
 
 ^Derbent/Derbent<np><top><sg>$
@@ -357,9 +357,9 @@
 ^Persian/persian<adj>$
 ^word/word<n><sg>$
 ^meaning/mean<vblex><pprs>$
-"
+^"/"<lquot>$
 ^gateway/gateway<n><sg>$
-"
+^"/"<rquot>$
 ^./.<sent>$
 
 ^This/this<det><dem><sg>$
@@ -435,7 +435,7 @@
 ^Kagankatvatsi/*Kagankatvatsi$
 ^wrote/write<vblex><past>$
 ^about/about<pr>$
-"
+^"/"<lquot>$
 ^the/the<det><def><sp>$
 ^wondrous/*wondrous$
 ^walls/wall<n><pl>$
@@ -473,8 +473,9 @@
 ^the/the<det><def><sp>$
 ^Great/great<adj><sint>$
 ^Eastern/eastern<adj>$
-^Sea/sea<n><sg>$^./.<sent>$
-"
+^Sea/sea<n><sg>$
+^./.<sent>$
+^"/"<rquot>$
 
 ^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
@@ -715,7 +716,7 @@
 ^defensive/defensive<adj>$
 ^fortifications/fortification<n><pl>$
 ^there/there<adv>$
-^—/—<guio>$
+—
 ^massive/massive<adj>$
 ^forts/fort<n><pl>$
 ^,/,<cm>$
@@ -724,7 +725,7 @@
 ^,/,<cm>$
 ^long/long<adj><sint>$
 ^walls/wall<n><pl>$
-^—/—<guio>$
+—
 ^also/also<adv>$
 ^run/run<vblex><pres>$
 ^from/from<pr>$
@@ -738,7 +739,9 @@
 ^The/the<det><def><sp>$
 ^Caliph/caliph<n><sg>$
 ^Harun/*Harun$
-^al-Rashid/al-Rashid<np><cog><sg>$
+^al/al<np><al><sg>$
+^-/-<guio>$
+^Rashid/Rashid<np><al><sg>$
 ^spent/spend<vblex><past>$
 ^time/time<n><sg>$
 ^living/live<vblex><ger>$
@@ -1030,12 +1033,12 @@
 ^Gulistan/*Gulistan$
 ^of/of<pr>$
 ^1813/1813<num>$
-^—/—<guio>$
+—
 ^between/between<pr>$
 ^Russia/Russia<np><top><sg>$
 ^and/and<cnjcoo>$
 ^Persia/Persia<np><top><sg>$
-^—/—<guio>$
+—
 ^Derbent/Derbent<np><top><sg>$
 ^became/become<vblex><past>$
 ^part/part<n><sg>$
@@ -1089,7 +1092,9 @@
 ^city/city<n><sg>$
 ^has/have<vblex><pres><p3><sg>$
 ^a/a<det><ind><sg>$
-^well-preserved/well-preserved<adj>$
+^well/well<adv>$
+^-/-<guio>$
+^preserved/preserved<adj>$
 ^citadel/citadel<n><sg>$
 ^,/,<cm>$
 ^enclosing/enclose<vblex><pprs>$
@@ -1249,7 +1254,11 @@
 ^from/from<pr>$
 ^Baku/*Baku$
 ^to/to<pr>$
-^Rostov-on-Don/Rostov-on-Don<np><top><sg>$
+^Rostov/*Rostov$
+^-/-<guio>$
+^on/on<pr>$
+^-/-<guio>$
+^Don/Don<np><ant><m><sg>$
 ^./.<sent>$
 
 ^To/to<pr>$
@@ -1263,7 +1272,9 @@
 ^monument/monument<n><sg>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Kirk-lar/*Kirk-lar$
+^Kirk/Kirk<np><ant><m><sg>$
+^-/-<guio>$
+^lar/*lar$
 ^,/,<cm>$
 ^or/or<cnjcoo>$
 ^forty/forty<num><sp>$
@@ -1411,7 +1422,7 @@
 ^City/city<n><sg>$
 ^of/of<pr>$
 ^Derbent/Derbent<np><top><sg>$
-^—/—<guio>$
+—
 ^an/a<det><ind><sg>$
 ^administrative/administrative<adj>$
 ^unit/unit<n><sg>$

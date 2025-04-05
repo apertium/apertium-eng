@@ -95,7 +95,7 @@
 ^of/of<pr>$
 ^early/early<adj><sint>$
 ^books/book<n><pl>$
-^—/—<guio>$
+—
 ^as well as/as well as<cnjadv>$
 ^the/the<det><def><sp>$
 ^ballads/*ballads$
@@ -111,7 +111,7 @@
 ^grew/grow<vblex><past>$
 ^out of/out of<pr>$
 ^them/prpers<prn><obj><p3><mf><pl>$
-^—/—<guio>$
+—
 ^is/be<vbser><pres><p3><sg>$
 ^irrevocably/*irrevocably$
 ^damned/damned<adj>$
@@ -123,7 +123,7 @@
 ^divine/divine<adj>$
 ^knowledge/knowledge<n><sg>$
 ^;/;<sent>$
-"
+^"/"<lquot>$
 ^he/prpers<prn><subj><p3><m><sg>$
 ^laid/lay<vblex><past>$
 ^the/the<det><def><sp>$
@@ -153,7 +153,7 @@
 ^doctor/doctor<n><sg>$
 ^of/of<pr>$
 ^Medicine/medicine<n><sg>$
-"
+^"/"<rquot>$
 ^./.<sent>$
 
 ^Plays/play<n><pl>$
@@ -235,13 +235,13 @@
 ^that/that<rel><an><mf><sp>$
 ^yearns/yearn<vblex><pres><p3><sg>$
 ^for/for<pr>$
-"
+^"/"<lquot>$
 ^more than/more than<pr>$
 ^earthly/earthly<adj><sint>$
 ^meat/meat<n><sg>$
 ^and/and<cnjcoo>$
 ^drink/drink<n><sg>$
-"
+^"/"<rquot>$
 ^in/in<pr>$
 ^his/his<det><pos><sp>$
 ^life/life<n><sg>$
@@ -357,7 +357,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^24/24<num>$
 ^years/year<n><pl>$
-^—/—<guio>$
+—
 ^one/one<num><sg>$
 ^year/year<n><sg>$
 ^for/for<pr>$
@@ -454,7 +454,7 @@
 ^his/his<det><pos><sp>$
 ^constant/constant<adj>$
 ^striving/*striving$
-^—/—<guio>$
+—
 ^in/in<pr>$
 ^combination/combination<n><sg>$
 ^with/with<pr>$
@@ -555,11 +555,13 @@
 ^,/,<cm>$
 ^Goethe/Goethe<np><cog><sg>$
 ^'s/'s<gen>$
-^two-part/two-part<adj>$
-"
+^two/two<num>$
+^-/-<guio>$
+^part/part<n><sg>$
+^"/"<lquot>$
 ^closet/closet<n><sg>$
 ^drama/drama<n><sg>$
-"
+^"/"<rquot>$
 ^is/be<vbser><pres><p3><sg>$
 ^epic/epic<n><sg>$
 ^in/in<pr>$
@@ -649,14 +651,14 @@
 ^of/of<pr>$
 ^life/life<n><sg>$
 ^(/(<lpar>$
-"
+^"/"<lquot>$
 ^was/*was$
 ^die/*die$
 ^Welt/*Welt$
 ^im/*im$
 ^Innersten/*Innersten$
 ^zusammenhält/*zusammenhält$
-"
+^"/"<rquot>$
 ^)/)<rpar>$
 ^./.<sent>$
 
@@ -715,7 +717,7 @@
 ^that/that<det><dem><sg>$
 ^moment/moment<n><sg>$
 ^to/to<pr>$
-"
+^"/"<lquot>$
 ^stay/stay<vblex><imp>$
 ^,/,<cm>$
 ^thou/thou<prn><subj><p2><mf><sg>$
@@ -723,15 +725,17 @@
 ^so/so<preadv>$
 ^beautiful/beautiful<adj>$
 ^!/!<sent>$
-"
+^"/"<rquot>$
 ^(/(<lpar>$
 ^Faust/Faust<np><cog><sg>$
 ^,/,<cm>$
 ^I/I<num><mf><sg>$
 ^,/,<cm>$
-^l. 1700/l. 1700<num>$
+^l/1<num>$
+^./.<sent>$
+^1700/1700<num>$
 ^)/)<rpar>$
-^—/—<guio>$
+—
 ^at/at<pr>$
 ^which/which<rel><an><mf><sp>$
 ^point/point<n><sg>$
@@ -1003,7 +1007,7 @@
 ^God/God<n><sg>$
 ^as/as<pr>$
 ^the/the<det><def><sp>$
-"
+^"/"<lquot>$
 ^Holy/Holy<adj><sint>$
 ^Virgin/Virgin<n><sg>$
 ^,/,<cm>$
@@ -1016,7 +1020,7 @@
 ^The/The<det><def><sp>$
 ^Eternal/Eternal<adj>$
 ^Feminine/Feminine<adj>$
-"
+^"/"<rquot>$
 ^./.<sent>$
 
 ^The/The<det><def><sp>$
@@ -1040,9 +1044,9 @@
 ^be/be<vbser><inf>$
 ^consigned/consign<vblex><pp>$
 ^to/to<pr>$
-"
+^"/"<lquot>$
 ^The/The<det><def><sp>$
 ^Eternal/Eternal<adj>$
 ^Empty/Empty<adj><sint>$
-"
+^"/"<rquot>$
 ^./.<sent>$

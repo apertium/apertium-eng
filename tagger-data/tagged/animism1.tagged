@@ -331,9 +331,9 @@
 ^corporeal/*corporeal$
 ^beings/being<n><pl>$
 ^rather than/rather than<pr>$
-"
+^"/"<lquot>$
 ^spiritual/spiritual<adj>$
-"
+^"/"<rquot>$
 ^ones/one<prn><tn><mf><pl>$
 ^;/;<sent>$
 ^the/the<det><def><sp>$
@@ -372,9 +372,9 @@
 
 ^The/the<det><def><sp>$
 ^term/term<n><sg>$
-"
+^"/"<lquot>$
 ^animism/animism<n><sg>$
-"
+^"/"<rquot>$
 ^has/have<vbhaver><pres><p3><sg>$
 ^been/be<vbser><pp>$
 ^applied/apply<vblex><pp>$
@@ -386,7 +386,8 @@
 ^./.<sent>$
 
 ^It/prpers<prn><subj><p3><nt><sg>$
-^is used to/be<vblex><pri><p3><sg># used to$
+^is/be<vblex><pri><p3><sg>$
+^used to/use<vblex><pp>+to<pr>$
 ^describe/describe<vblex><pres>$
 ^Aristotle/Aristotle<np><ant><m><sg>$
 ^'s/'s<gen>$

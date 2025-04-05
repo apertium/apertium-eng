@@ -362,7 +362,8 @@
 ^Romanians/Romanian<n><pl>$
 ^accounted/*accounted$
 ^for/for<pr>$
-^less than/less than<pr>$
+^less/less<adv>$
+^than/than<cnjsub>$
 ^a/a<det><ind><sg>$
 ^third/third<n><sg>$
 ^and/and<cnjcoo>$
@@ -471,7 +472,8 @@
 ^Romanians/Romanian<n><pl>$
 ^accounted/*accounted$
 ^for/for<pr>$
-^less than/less than<pr>$
+^less/less<adv>$
+^than/than<cnjsub>$
 ^a/a<det><ind><sg>$
 ^third/third<n><sg>$
 ^and/and<cnjcoo>$
@@ -760,8 +762,11 @@
 
 ^As/as<cnjadv>$
 ^the/the<det><def><sp>$
-^military operation/military operation<n><sg>$
-^was still in/be<vblex><past><p3><sg># still in$
+^military/military<adj>$
+^operation/operation<n><sg>$
+^was/be<vblex><past><p3><sg>$
+^still/still<adv>$
+^in/in<pr>$
 ^progress/progress<n><sg>$
 ^,/,<cm>$
 ^there/there<adv>$
@@ -770,10 +775,10 @@
 ^of/of<pr>$
 ^Romanian/Romanian<adj>$
 ^troops/troop<n><pl>$
-"
+^"/"<lquot>$
 ^taking/take<vblex><ger>$
 ^revenge/revenge<n><sg>$
-"
+^"/"<rquot>$
 ^on/on<pr>$
 ^Jews/*Jews$
 ^in/in<pr>$
@@ -911,10 +916,10 @@
 ^,/,<cm>$
 ^where/where<rel><adv>$
 ^the/the<det><def><sp>$
-"
+^"/"<lquot>$
 ^Final/final<adj>$
 ^Solution/solution<n><sg>$
-"
+^"/"<rquot>$
 ^was/be<vbser><past><p3><sg>$
 ^applied/apply<vblex><pp>$
 ^./.<sent>$
@@ -1237,7 +1242,8 @@
 ^with/with<pr>$
 ^the/the<det><def><sp>$
 ^opposition/opposition<n><sg>$
-^Popular Front/Popular front<n><sg>$
+^Popular/Popular<adj>$
+^Front/Front<n><sg>$
 ^all/all<prn><tn><mf><sp>$
 ^but/but<pr>$
 ^winning/win<vblex><ger>$
@@ -1257,7 +1263,8 @@
 ^leaders/leader<n><pl>$
 ^of/of<pr>$
 ^the/the<det><def><sp>$
-^Popular Front/Popular front<n><sg>$
+^Popular/Popular<adj>$
+^Front/Front<n><sg>$
 ^,/,<cm>$
 ^was/be<vbser><past><p3><sg>$
 ^formed/form<vblex><pp>$
@@ -1301,4 +1308,3 @@
 ^remained/remain<vblex><past>$
 ^unchanged/unchanged<adj>$
 ^./.<sent>$
-

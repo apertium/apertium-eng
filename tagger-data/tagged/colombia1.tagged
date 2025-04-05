@@ -41,7 +41,8 @@
 ^United States/United States<np><top><pl>$
 ^paid/pay<vblex><past>$
 ^Colombia/Colombia<np><top><sg>$
-^\$/\$<mon>$^25,000/25,000<num>$^,/,<cm>$^000/000<num>$
+\$
+^25,000,000/25,000,000<num>$
 ^in/in<pr>$
 ^1921/1921<num>$
 ^,/,<cm>$
@@ -931,7 +932,8 @@
 ^poverty/poverty<n><sg>$
 ^line/line<n><sg>$
 ^,/,<cm>$
-^of which/of<pr>+which<rel><nn><mf><sp>$
+^of/of<pr>$
+^which/which<rel><nn><mf><sp>$
 ^10.4%/10.4%<num><percent>$
 ^in/in<pr>$
 ^extreme/extreme<adj>$
@@ -1011,7 +1013,7 @@
 ^worth/worth<n><sg>$
 ^exceeding/exceed<vblex><pprs>$
 ^US/US<np><top><sg>$
-^\$/\$<mon>$
+\$
 ^1/1<num>$
 ^billion/billion<num><sp>$
 ^./.<sent>$

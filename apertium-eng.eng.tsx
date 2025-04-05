@@ -281,8 +281,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </def-label>
     <def-mult name="DETPREADV" closed="true">
       <sequence>
-	<tags-item tags="det.def.sp"/>
-	<label-item label="PREADV"/>
+	      <tags-item tags="det.def.sp"/>
+	      <label-item label="PREADV"/>
+      </sequence>
+    </def-mult>
+    <def-mult name="DETADJ" closed="true">
+      <sequence>
+	      <tags-item tags="det.def.sp"/>
+	      <label-item label="ADJ"/>
+      </sequence>
+    </def-mult>
+    <def-mult name="DETDET" closed="true">
+      <sequence>
+	      <tags-item tags="det.def.sp"/>
+	      <tags-item tags="det.ind.sp"/>
       </sequence>
     </def-mult>
   </tagset>

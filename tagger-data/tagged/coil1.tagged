@@ -185,7 +185,7 @@
 ^build/build<vblex><pres>$
 ^Tesla/Tesla<np><cog><sg>$
 ^coils/coil<n><pl>$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^are/be<vbser><pres>$
 ^similar/similar<adj>$
 ^to/to<pr>$
@@ -193,9 +193,9 @@
 ^of/of<pr>$
 ^Tesla/Tesla<np><cog><sg>$
 ^'s/'s<gen>$
-"
+^"/"<lquot>$
 ^later/late<adj><sint><comp>$
-"
+^"/"<rquot>$
 ^air/air<n><sg>$
 ^core/core<n><sg>$
 ^designs/design<n><pl>$
@@ -203,7 +203,8 @@
 
 ^These/This<prn><tn><mf><pl>$
 ^typically/typically<adv>$
-^consist of/consist<vblex><pres># of$
+^consist/consist<vblex><pres>$
+^of/of<pr>$
 ^a/a<det><ind><sg>$
 ^primary/primary<adj>$
 ^tank/tank<n><sg>$
@@ -244,7 +245,8 @@
 ^series/series<n><sg>$
 ^resonant/resonant<adj>$
 ^circuit/circuit<n><sg>$
-^consisting of/consist<vblex><pprs># of$
+^consisting/consist<vblex><pprs>$
+^of/of<pr>$
 ^the/the<det><def><sp>$
 ^secondary/secondary<adj>$
 ^coil/coil<n><sg>$
@@ -322,9 +324,9 @@
 ^Earth/Earth<n><sg>$
 ^(/(<lpar>$
 ^or/or<cnjcoo>$
-"
+^"/"<lquot>$
 ^ground/ground<n><sg>$
-"
+^"/"<rquot>$
 ^)/)<rpar>$
 ^./.<sent>$
 
@@ -333,9 +335,9 @@
 ^LC/LC<n><acr><sp>$
 ^circuit/circuit<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
-"
+^"/"<lquot>$
 ^tuned/tune<vblex><pp>$
-"
+^"/"<rquot>$
 ^so that/so that<cnjadv>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^will/will<vbmod><pres>$
@@ -396,9 +398,9 @@
 ^'s/'s<gen>$
 ^windings/winding<n><pl>$
 ^are/be<vbser><pres>$
-"
+^"/"<lquot>$
 ^loosely/*loosely$
-"
+^"/"<rquot>$
 ^coupled/*coupled$
 ^,/,<cm>$
 ^with/with<pr>$
@@ -409,9 +411,7 @@
 ^typically/typically<adv>$
 ^sharing/share<vblex><ger>$
 ^only/only<adv>$
-^10/10<num>$
-^–/–<guio>$
-^20%/20%<num><percent>$
+^10-20%/10-20%<num>$
 ^of/of<pr>$
 ^their/their<det><pos><sp>$
 ^respective/respective<adj>$
@@ -668,10 +668,10 @@
 ^frequency/frequency<n><sg>$
 ^oscillations/*oscillations$
 ^from/from<pr>$
-"
+^"/"<lquot>$
 ^backing/back<vblex><ger>$
 ^up/up<pr>$
-"
+^"/"<rquot>$
 ^into/into<pr>$
 ^the/the<det><def><sp>$
 ^supply/supply<n><sg>$
@@ -688,7 +688,7 @@
 ^high/high<adj><sint>$
 ^frequency/frequency<n><sg>$
 ^oscillations/*oscillations$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^appear/appear<vblex><pres>$
 ^across/across<pr>$
 ^the/the<det><def><sp>$
@@ -711,7 +711,7 @@
 ^discharges/discharge<n><pl>$
 ^between/between<pr>$
 ^turns/turn<n><pl>$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^weaken/weaken<vblex><pres>$
 ^and/and<cnjcoo>$
 ^eventually/eventually<adv>$
@@ -788,7 +788,8 @@
 ^./.<sent>$
 
 ^Regardless/regardless<adv>$
-^of which/of<pr>+which<rel><nn><mf><sp>$
+^of/of<pr>$
+^which/which<rel><nn><mf><sp>$
 ^configuration/configuration<n><sg>$
 ^is/be<vbser><pres><p3><sg>$
 ^used/use<vblex><pp>$
@@ -801,8 +802,8 @@
 ^of/of<pr>$
 ^a/a<det><ind><sg>$
 ^type/type<n><sg>$
-^that/that<rel><an><mf><sp>
-^self/*self$
+^that/that<prn><rel><an><mf><sp>$
+^self/self<adv>$
 ^-/-<guio>$
 ^limits/limit<vblex><pres><p3><sg>$
 ^its/its<det><pos><sp>$
@@ -899,9 +900,9 @@
 ^a/a<det><ind><sg>$
 ^very/very<preadv>$
 ^conductive/conductive<adj>$
-"
+^"/"<lquot>$
 ^root/root<n><sg>$
-"
+^"/"<rquot>$
 ^of/of<pr>$
 ^hotter/hot<adj><sint><comp>$
 ^plasma/plasma<n><sg>$
@@ -910,7 +911,7 @@
 ^a/a<det><ind><sg>$
 ^leader/leader<n><sg>$
 ^,/,<cm>$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^projects/project<vblex><pres><p3><sg>$
 ^outward/*outward$
 ^from/from<pr>$
@@ -943,7 +944,7 @@
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^has/have<vblex><pres><p3><sg>$
 ^properties/property<n><pl>$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^are/be<vbser><pres>$
 ^similar/similar<adj>$
 ^to/to<pr>$
@@ -977,9 +978,9 @@
 ^look like/look<vblex><pres># like$
 ^a/a<det><ind><sg>$
 ^bluish/bluish<adj>$
-"
+^"/"<lquot>$
 ^haze/haze<n><sg>$
-"
+^"/"<rquot>$
 ^at/at<pr>$
 ^the/the<det><def><sp>$
 ^ends/end<n><pl>$
@@ -994,7 +995,7 @@
 ^is/be<vbser><pres><p3><sg>$
 ^the/the<det><def><sp>$
 ^streamers/*streamers$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^actually/actually<adv>$
 ^transfer/transfer<vblex><pres>$
 ^charge/charge<n><sg>$
@@ -1057,7 +1058,7 @@
 ^(/(<lpar>$
 ^often/often<adv>$
 ^250,000/250,000<num>$
-^–/–<guio>$
+–
 ^500,000/500,000<num>$
 ^volts/volt<n><pl>$
 ^,/,<cm>$
@@ -1167,7 +1168,7 @@
 ^deliver/deliver<vblex><inf>$
 ^RF/RF<n><acr><sp>$
 ^currents/current<n><pl>$
-^that/that<rel><an><mf><sp>
+^that/that<prn><rel><an><mf><sp>$
 ^are/be<vbser><pres>$
 ^capable/capable<adj>$
 ^of/of<pr>$
@@ -1205,7 +1206,7 @@
 ^deep/deep<adj><sint>$
 ^RF/RF<n><acr><sp>$
 ^burn/burn<n><sg>$
-^that/that<rel><an><mf><sp>$
+^that/that<prn><rel><an><mf><sp>$
 ^may/may<vbmod><inf>$
 ^take/take<vblex><inf>$
 ^months/month<n><pl>$

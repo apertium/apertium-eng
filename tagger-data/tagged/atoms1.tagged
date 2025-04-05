@@ -76,7 +76,8 @@
 ^did/do<vbdo><past>$
 ^indeed/indeed<adv>$
 ^behave/behave<vblex><inf>$
-^as if/as if<cnjadv>$
+^as/as<cnjadv>$
+^if/if<cnjsub>$
 ^it/prpers<prn><subj><p3><nt><sg>$
 ^were/be<vbser><past>$
 ^made up/make<vblex><sep><pp># up$
@@ -354,7 +355,8 @@
 ^,/,<cm>$
 ^but/but<cnjcoo>$
 ^,/,<cm>$
-^depending on/depend<vblex><sep><ger># on$
+^depending/depend<vblex><sep><ger>$
+^on/on<pr>$
 ^its/its<det><pos><sp>$
 ^energy/energy<n><sg>$
 ^level/level<n><sg>$

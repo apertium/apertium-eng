@@ -555,11 +555,11 @@
 ^UK/UK<np><top><sg>$
 ^never/never<adv>$
 ^made/make<vblex><past>$
-"
+^"/"<lquot>$
 ^material/material<adj>$
 ^breaches/breach<n><pl>$
 ^,/,<cm>$
-"
+^"/"<rquot>$
 ^that/that<cnjsub>$
 ^Guatemala/Guatemala<np><top><sg>$
 ^never/never<adv>$
@@ -588,7 +588,6 @@
 ^to/to<pr>$
 ^self-determination/self-determination<n><sg>$
 ^./.<sent>$
-
 
 ^Guatemala/Guatemala<np><top><sg>$
 ^,/,<cm>$
@@ -713,9 +712,7 @@
 ^American/american<adj>$
 ^Federation/federation<n><sg>$
 ^(/(<lpar>$
-^1821/1821<num>$
-^–/–<guio>$
-^39/39<num>$
+^1821-39/1821-39<num>$
 ^)/)<rpar>$
 ^nor/nor<cnjcoo>$
 ^Guatemala/Guatemala<np><top><sg>$
@@ -1031,10 +1028,10 @@
 ^British/British<adj>$
 ^Honduras/Honduras<np><top><sg>$
 ^an/a<det><ind><sg>$
-"
+^"/"<lquot>$
 ^associated/associate<vblex><pp>$
 ^state/state<n><sg>$
-"
+^"/"<rquot>$
 ^of/of<pr>$
 ^Guatemala/Guatemala<np><top><sg>$
 ^./.<sent>$
