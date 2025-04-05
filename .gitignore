@@ -18,3 +18,10 @@
 /.deps
 /test/*-output.txt
 /dev/testvoc/duplicates.*.txt
+/tagger-data/eng.tagged
+/tagger-data/eng.tagged.txt
+/tagger-data/eng.untagged
+/tagger-data/eng.dic
+/tagger-data/eng.dic.expanded
+/tagger-data/eng.crp
+/tagger-data/eng.crp.txt
