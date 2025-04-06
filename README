@@ -1,93 +1,96 @@
-English
+# English: apertium-eng
 
-                            apertium-eng
-===============================================================================
-
-This is an Apertium monolingual language package for English. What
-you can use this language package for:
+This is an Apertium monolingual language package for English. What you can use this language package for:
 
 * Morphological analysis of English
 * Morphological generation of English
 * Part-of-speech tagging of English
 
-Requirements
-===============================================================================
+## Requirements
 
 You will need the following software installed:
 
-* lttoolbox (>= 3.3.0)
-* apertium (>= 3.3.0)
-* vislcg3 (>= 0.9.9.10297)
+* lttoolbox (>= 3.5.0)
+* apertium (>= 3.6.0)
+* vislcg3 (>= 1.3.0)
 
-If this does not make any sense, we recommend you look at: apertium.org
+If this does not make any sense, we recommend you look at: https://apertium.org
 
-Compiling
-===============================================================================
+## Compiling
 
 Given the requirements being installed, you should be able to just run:
 
-$ ./configure
+```console
+$ ./autogen.sh
 $ make
+```
 
-You can use ./autogen.sh instead of ./configure if you're compiling
-from SVN.
+If you're doing development, you don't have to install the data, you can use it directly from this directory.
 
-If you're doing development, you don't have to install the data, you
-can use it directly from this directory.
+If you are installing this language package as a prerequisite for an Apertium translation pair, then do (typically as root / with sudo):
 
-If you are installing this language package as a prerequisite for an
-Apertium translation pair, then do (typically as root / with sudo):
-
+```console
 # make install
+```
 
-You can give a --prefix to ./configure to install as a non-root user,
-but make sure to use the same prefix when installing the translation
-pair and any other language packages.
+You can give a `--prefix` to `./autogen.sh` to install as a non-root user, but make sure to use the same prefix when installing the translation pair and any other language packages.
 
-Testing
-===============================================================================
+If any of this doesn't make sense or doesn't work, see https://wiki.apertium.org/wiki/Install_language_data_by_compiling
 
-If you are in the source directory after running make, the following
-commands should work:
+## Testing
 
-$  echo "TODO: test sentence" | apertium -d . eng-morph
-TODO: test analysis result
+If you are in the source directory after running make, the following commands should work:
 
-$ echo "TODO: test sentence" | apertium -d . eng-tagger
-TODO: test tagger result
+$  echo "the blue house" | apertium -d . eng-morph
+^the/the<det><def><sp>$ ^blue/blue<n><sg>/blue<adj><sint>$ ^house/house<n><sg>/house<vblex><inf>/house<vblex><pres>/house<vblex><imp>$
 
-Files and data
-===============================================================================
+$ echo "the blue house" | apertium -d . eng-tagger
+^the<det><def><sp>$ ^blue<adj><sint>$ ^house<n><sg>$
 
-* apertium-eng.eng.dix            - Monolingual dictionary
-* eng.prob                        - Tagger model
-* apertium-eng.eng.rlx            - Constraint Grammar disambiguation rules
-* apertium-eng.post-eng.dix       - Post-generator
-* modes.xml                       - Translation modes
+## Tagger model training
 
-Notes on eng.prob
-===============================================================================
-apertium-eng uses the [perceptron tagger](https://wiki.apertium.org/wiki/Perceptron_tagger),
-so in order for it to work, it needs to be called with -gx: `apertium-tagger -gx eng.prob`
+To train the tagger model, do one of the following:
 
+Supervised training:
+```console
+$ make -f tagger.supervised.make
+```
 
-For more information
-===============================================================================
+Unsupervised training
+```console
+$ make -f tagger.unsupervised.make
+```
+
+For details on the corpora used in training, check the [corpora information](tagger-data/README.md).
+
+For more information, see https://wiki.apertium.org/wiki/Tagger_training
+
+A [perceptron tagger](https://wiki.apertium.org/wiki/Perceptron_tagger) model is also included as `eng.perceptron.prob`. If you want to use it, it needs to be called with -gx: `apertium-tagger -gx eng.perceptron.prob`
+
+## Files and data
+
+* [`apertium-eng.eng.dix`](apertium-eng.eng.dix) - Monolingual dictionary
+* [`eng.prob`](eng.prob) - Tagger model
+* [`apertium-eng.eng.rlx`](apertium-eng.eng.rlx) - Constraint Grammar disambiguation rules
+* [`apertium-eng.post-eng.dix`](apertium-eng.post-eng.dix) - Post-generator
+* [`modes.xml`](modes.xml) - Translation modes
+
+## For more information
 
 * https://wiki.apertium.org/wiki/Installation
 * https://wiki.apertium.org/wiki/apertium-eng
 * https://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
-Help and support
-===============================================================================
+## Help and support
 
 If you need help using this language pair or data, you can contact:
 
 * Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.oftc.net
+* IRC: `#apertium` on `irc.oftc.net` (irc://irc.oftc.net/#apertium)
 
-License
-=======
+See also the file [`AUTHORS`](AUTHORS), included in this distribution.
+
+## License
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -101,6 +104,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-See also the file AUTHORS included in this distribution.
-
