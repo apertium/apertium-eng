@@ -14,6 +14,9 @@
       <program name="lt-proc -g">
         <file name="eng.autogen.bin"/>
       </program>
+      <program name="lt-proc -p">
+        <file name="eng.autopgen.bin"/>
+      </program>
     </pipeline>
   </mode>
 
