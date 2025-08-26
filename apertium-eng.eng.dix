@@ -67426,6 +67426,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="juggle">          <i>juggl</i><par n="liv/e__vblex"/></e>
 <e lm="jump">            <i>jump</i><par n="accept__vblex"/></e>
 <e lm="jump over">       <i>jump</i><par n="accept__vblex"/><p><l><b/>over</l><r><g><b/>over</g></r></p></e>
+<e lm="jump across">     <i>jump</i><par n="accept__vblex"/><p><l><b/>across</l><r><g><b/>across</g></r></p></e>
 <e lm="justify">         <i>justif</i><par n="appl/y__vblex"/></e>
 <e lm="jut">             <i>jut</i><par n="cut__vblex"/></e>
 <e lm="juxtapose">       <i>juxtapos</i><par n="liv/e__vblex"/></e>
