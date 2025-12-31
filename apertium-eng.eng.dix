@@ -1703,6 +1703,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>ve</l>        <r>ve<s n="vbmod"/><s n="pres"/></r></p></e>
   <e r="LR"><p><l>st</l>        <r>ve<s n="vbmod"/><s n="pres"/></r></p></e>
   <e>       <p><l>s</l>         <r>ve<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>th</l>        <r>ve<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>d</l>         <r>ve<s n="vbmod"/><s n="past"/></r></p></e>
   <e r="LR"><p><l>dst</l>       <r>ve<s n="vbmod"/><s n="past"/></r></p></e>
 </pardef>
@@ -1793,6 +1794,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e w="2"> <p><l>oing</l>      <r>o<s n="vaux"/><s n="subs"/></r></p></e>
   <e>       <p><l>o</l>         <r>o<s n="vaux"/><s n="pres"/></r></p></e>
   <e>       <p><l>oes</l>       <r>o<s n="vaux"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>oth</l>       <r>o<s n="vaux"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>id</l>        <r>o<s n="vaux"/><s n="past"/></r></p></e>
 </pardef>
 
@@ -1950,6 +1952,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e w="2"> <p><l>ing</l>       <r><s n="vblex"/><s n="subs"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>es</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>eth</l>       <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ed</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
@@ -2613,6 +2616,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e w="2"> <p><l>going</l>     <r>go<s n="vblex"/><s n="subs"/></r></p></e>
   <e>       <p><l>go</l>        <r>go<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>goes</l>      <r>go<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>goeth</l>     <r>go<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>went</l>      <r>go<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
@@ -2661,6 +2665,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e w="2"> <p><l>iving</l>     <r>ive<s n="vblex"/><s n="subs"/></r></p></e>
   <e>       <p><l>ive</l>       <r>ive<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>ives</l>      <r>ive<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>iveth</l>     <r>ive<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ave</l>       <r>ive<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
@@ -3102,6 +3107,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>eak</l>       <r>eak<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>eaks</l>      <r>eak<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>oke</l>       <r>eak<s n="vblex"/><s n="past"/></r></p></e>
+  <e r="LR"><p><l>ake</l>       <r>eak<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
 <pardef n="sp/in__vblex">
@@ -6456,6 +6462,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="fire-resistant">  <i>fire-resistant</i><par n="expensive__adj"/></e>
 <e lm="firm">            <i>firm</i><par n="long/__adj"/></e>
 <e lm="first">           <i>first</i><par n="second__adj"/></e>
+<e lm="firstborn">       <i>firstborn</i><par n="expensive__adj"/></e>
 <e lm="first-hand">      <i>first-hand</i><par n="expensive__adj"/></e>
 <e lm="firsthand">       <i>firsthand</i><par n="expensive__adj"/></e>
 <e lm="fiscal">          <i>fiscal</i><par n="expensive__adj"/></e>
@@ -28066,6 +28073,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="isotopism">       <i>isotopism</i><par n="house__n"/></e>
 <e lm="isotron" a="marcriera"><i>isotron</i><par n="house__n"/></e>
 <e lm="isotropy">        <i>isotrop</i><par n="bab/y__n"/></e>
+<e lm="Israelite">       <par n="Ii"/><i>sraelite</i><par n="house__n"/></e>
 <e lm="Miss">            <par n="Mm"/><i>iss</i><par n="access__n"/></e>
 <e lm="issuance">        <i>issuance</i><par n="house__n"/></e>
 <e lm="issue">           <i>issue</i><par n="house__n"/></e>
@@ -28464,6 +28472,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="lamp">            <i>lamp</i><par n="house__n"/></e>
 <e lm="lampholder">      <i>lampholder</i><par n="house__n"/></e>
 <e lm="lampshade">       <i>lampshade</i><par n="house__n"/></e>
+<e lm="lampstand">       <i>lampstand</i><par n="house__n"/></e>
 <e lm="lance">           <i>lance</i><par n="house__n"/></e>
 <e lm="lancet">          <i>lancet</i><par n="house__n"/></e>
 <e lm="land">            <i>land</i><par n="house__n"/></e>
@@ -28726,6 +28735,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="leverage">        <i>leverage</i><par n="house__n"/></e>
 <e lm="levigation">      <i>levigation</i><par n="house__n"/></e>
 <e lm="levitation">      <i>levitation</i><par n="house__n"/></e>
+<e lm="Levite">          <par n="Ll"/><i>evite</i><par n="house__n"/></e>
 <e lm="levodopa">        <i>levodopa</i><par n="house__n"/></e>
 <e lm="lewdness">        <i>lewdness</i><par n="access__n"/></e>
 <e lm="lexeme">          <i>lexeme</i><par n="house__n"/></e>
@@ -35783,6 +35793,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="sheet-lightning"> <i>sheet-lightning</i><par n="east__n"/></e>
 <e lm="sheet music">     <i>sheet<b/>music</i><par n="house__n"/></e>
 <e lm="sheik">           <i>sheik</i><par n="house__n"/></e>
+<e lm="shekel">          <i>shekel</i><par n="house__n"/></e>
 <e lm="shelf">           <i>shel</i><par n="wol/f__n"/></e>
 <e lm="shell">           <i>shell</i><par n="house__n"/></e>
 <e lm="shellac">         <i>shellac</i><par n="house__n"/></e>
@@ -40141,6 +40152,164 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="zymogen">         <i>zymogen</i><par n="house__n"/></e>
 <e lm="Sámi speaker">    <par n="Ss"/><i>ámi<b/>speaker</i><par n="house__n"/></e>
 
+<e lm="Adullamite">    <par n="Aa"/><i>dullamite</i><par n="house__n"/></e>
+<e lm="Ahiramite">    <par n="Aa"/><i>hiramite</i><par n="house__n"/></e>
+<e lm="Amalekite">    <par n="Aa"/><i>malekite</i><par n="house__n"/></e>
+<e lm="Ammonite">    <par n="Aa"/><i>mmonite</i><par n="house__n"/></e>
+<e lm="Ammonite">    <par n="Aa"/><i>mmonite</i><par n="house__n"/></e>
+<e lm="Amorite">    <par n="Aa"/><i>morite</i><par n="house__n"/></e>
+<e lm="Amorite">    <par n="Aa"/><i>morite</i><par n="house__n"/></e>
+<e lm="Amramite">    <par n="Aa"/><i>mramite</i><par n="house__n"/></e>
+<e lm="Anakite">    <par n="Aa"/><i>nakite</i><par n="house__n"/></e>
+<e lm="Anamite">    <par n="Aa"/><i>namite</i><par n="house__n"/></e>
+<e lm="Ardite">    <par n="Aa"/><i>rdite</i><par n="house__n"/></e>
+<e lm="Arelite">    <par n="Aa"/><i>relite</i><par n="house__n"/></e>
+<e lm="Arkite">    <par n="Aa"/><i>rkite</i><par n="house__n"/></e>
+<e lm="Arodite">    <par n="Aa"/><i>rodite</i><par n="house__n"/></e>
+<e lm="Arvadite">    <par n="Aa"/><i>rvadite</i><par n="house__n"/></e>
+<e lm="Ashbelite">    <par n="Aa"/><i>shbelite</i><par n="house__n"/></e>
+<e lm="Asherite">    <par n="Aa"/><i>sherite</i><par n="house__n"/></e>
+<e lm="Asrielite">    <par n="Aa"/><i>srielite</i><par n="house__n"/></e>
+<e lm="Asshurite">    <par n="Aa"/><i>sshurite</i><par n="house__n"/></e>
+<e lm="Avvite">    <par n="Aa"/><i>vvite</i><par n="house__n"/></e>
+<e lm="Bekerite">    <par n="Bb"/><i>ekerite</i><par n="house__n"/></e>
+<e lm="Belaite">    <par n="Bb"/><i>elaite</i><par n="house__n"/></e>
+<e lm="Benjaminite">    <par n="Bb"/><i>enjaminite</i><par n="house__n"/></e>
+<e lm="Beriahite">    <par n="Bb"/><i>eriahite</i><par n="house__n"/></e>
+<e lm="Canaanite">    <par n="Cc"/><i>anaanite</i><par n="house__n"/></e>
+<e lm="Caphtorite">    <par n="Cc"/><i>aphtorite</i><par n="house__n"/></e>
+<e lm="Carmite">    <par n="Cc"/><i>armite</i><par n="house__n"/></e>
+<e lm="Casluhite">    <par n="Cc"/><i>asluhite</i><par n="house__n"/></e>
+<e lm="Cushite">    <par n="Cc"/><i>ushite</i><par n="house__n"/></e>
+<e lm="Danite">    <par n="Dd"/><i>anite</i><par n="house__n"/></e>
+<e lm="Edomite">    <par n="Ee"/><i>domite</i><par n="house__n"/></e>
+<e lm="Edomite">    <par n="Ee"/><i>domite</i><par n="house__n"/></e>
+<e lm="Elonite">    <par n="Ee"/><i>lonite</i><par n="house__n"/></e>
+<e lm="Emite">    <par n="Ee"/><i>mite</i><par n="house__n"/></e>
+<e lm="Ephraimite">    <par n="Ee"/><i>phraimite</i><par n="house__n"/></e>
+<e lm="Eranite">    <par n="Ee"/><i>ranite</i><par n="house__n"/></e>
+<e lm="Erite">    <par n="Ee"/><i>rite</i><par n="house__n"/></e>
+<e lm="Gadite">    <par n="Gg"/><i>adite</i><par n="house__n"/></e>
+<e lm="Gershonite">    <par n="Gg"/><i>ershonite</i><par n="house__n"/></e>
+<e lm="Geshurite">    <par n="Gg"/><i>eshurite</i><par n="house__n"/></e>
+<e lm="Gileadite">    <par n="Gg"/><i>ileadite</i><par n="house__n"/></e>
+<e lm="Girgashite">    <par n="Gg"/><i>irgashite</i><par n="house__n"/></e>
+<e lm="Haggite">    <par n="Hh"/><i>aggite</i><par n="house__n"/></e>
+<e lm="Hamathite">    <par n="Hh"/><i>amathite</i><par n="house__n"/></e>
+<e lm="Hamulite">    <par n="Hh"/><i>amulite</i><par n="house__n"/></e>
+<e lm="Hanochite">    <par n="Hh"/><i>anochite</i><par n="house__n"/></e>
+<e lm="Heberite">    <par n="Hh"/><i>eberite</i><par n="house__n"/></e>
+<e lm="Hebronite">    <par n="Hh"/><i>ebronite</i><par n="house__n"/></e>
+<e lm="Helekite">    <par n="Hh"/><i>elekite</i><par n="house__n"/></e>
+<e lm="Hepherite">    <par n="Hh"/><i>epherite</i><par n="house__n"/></e>
+<e lm="Hethite">    <par n="Hh"/><i>ethite</i><par n="house__n"/></e>
+<e lm="Hezronite">    <par n="Hh"/><i>ezronite</i><par n="house__n"/></e>
+<e lm="Hivite">    <par n="Hh"/><i>ivite</i><par n="house__n"/></e>
+<e lm="Hivite">    <par n="Hh"/><i>ivite</i><par n="house__n"/></e>
+<e lm="Horite">    <par n="Hh"/><i>orite</i><par n="house__n"/></e>
+<e lm="Horite">    <par n="Hh"/><i>orite</i><par n="house__n"/></e>
+<e lm="Huphamite">    <par n="Hh"/><i>uphamite</i><par n="house__n"/></e>
+<e lm="Iezerite">    <par n="Ii"/><i>ezerite</i><par n="house__n"/></e>
+<e lm="Imnahite">    <par n="Ii"/><i>mnahite</i><par n="house__n"/></e>
+<e lm="Ishmaelite">    <par n="Ii"/><i>shmaelite</i><par n="house__n"/></e>
+<e lm="Ishvite">    <par n="Ii"/><i>shvite</i><par n="house__n"/></e>
+<e lm="Issacharite">    <par n="Ii"/><i>ssacharite</i><par n="house__n"/></e>
+<e lm="Izharite">    <par n="Ii"/><i>zharite</i><par n="house__n"/></e>
+<e lm="Jahleelite">    <par n="Jj"/><i>ahleelite</i><par n="house__n"/></e>
+<e lm="Jahzeelite">    <par n="Jj"/><i>ahzeelite</i><par n="house__n"/></e>
+<e lm="Jakinite">    <par n="Jj"/><i>akinite</i><par n="house__n"/></e>
+<e lm="Jaminite">    <par n="Jj"/><i>aminite</i><par n="house__n"/></e>
+<e lm="Jashubite">    <par n="Jj"/><i>ashubite</i><par n="house__n"/></e>
+<e lm="Jebusite">    <par n="Jj"/><i>ebusite</i><par n="house__n"/></e>
+<e lm="Jebusite">    <par n="Jj"/><i>ebusite</i><par n="house__n"/></e>
+<e lm="Jezerite">    <par n="Jj"/><i>ezerite</i><par n="house__n"/></e>
+<e lm="Josephite">    <par n="Jj"/><i>osephite</i><par n="house__n"/></e>
+<e lm="Josephite">    <par n="Jj"/><i>osephite</i><par n="house__n"/></e>
+<e lm="Judahite">    <par n="Jj"/><i>udahite</i><par n="house__n"/></e>
+<e lm="Kadmonite">    <par n="Kk"/><i>admonite</i><par n="house__n"/></e>
+<e lm="Kenite">    <par n="Kk"/><i>enite</i><par n="house__n"/></e>
+<e lm="Kenite">    <par n="Kk"/><i>enite</i><par n="house__n"/></e>
+<e lm="Kenizzite">    <par n="Kk"/><i>enizzite</i><par n="house__n"/></e>
+<e lm="Kenizzite">    <par n="Kk"/><i>enizzite</i><par n="house__n"/></e>
+<e lm="Kohathite">    <par n="Kk"/><i>ohathite</i><par n="house__n"/></e>
+<e lm="Korahite">    <par n="Kk"/><i>orahite</i><par n="house__n"/></e>
+<e lm="Korahite">    <par n="Kk"/><i>orahite</i><par n="house__n"/></e>
+<e lm="Lehabite">    <par n="Ll"/><i>ehabite</i><par n="house__n"/></e>
+<e lm="Letushite">    <par n="Ll"/><i>etushite</i><par n="house__n"/></e>
+<e lm="Leummite">    <par n="Ll"/><i>eummite</i><par n="house__n"/></e>
+<e lm="Libnite">    <par n="Ll"/><i>ibnite</i><par n="house__n"/></e>
+<e lm="Ludite">    <par n="Ll"/><i>udite</i><par n="house__n"/></e>
+<e lm="Maacathite">    <par n="Mm"/><i>aacathite</i><par n="house__n"/></e>
+<e lm="Machirite">    <par n="Mm"/><i>achirite</i><par n="house__n"/></e>
+<e lm="Mahlite">    <par n="Mm"/><i>ahlite</i><par n="house__n"/></e>
+<e lm="Malkielite">    <par n="Mm"/><i>alkielite</i><par n="house__n"/></e>
+<e lm="Manassehite">    <par n="Mm"/><i>anassehite</i><par n="house__n"/></e>
+<e lm="Merarite">    <par n="Mm"/><i>erarite</i><par n="house__n"/></e>
+<e lm="Midianite">    <par n="Mm"/><i>idianite</i><par n="house__n"/></e>
+<e lm="Midianite">    <par n="Mm"/><i>idianite</i><par n="house__n"/></e>
+<e lm="Moabite">    <par n="Mm"/><i>oabite</i><par n="house__n"/></e>
+<e lm="Moabite">    <par n="Mm"/><i>oabite</i><par n="house__n"/></e>
+<e lm="Mushite">    <par n="Mm"/><i>ushite</i><par n="house__n"/></e>
+<e lm="Naamanite">    <par n="Nn"/><i>aamanite</i><par n="house__n"/></e>
+<e lm="Naphtalite">    <par n="Nn"/><i>aphtalite</i><par n="house__n"/></e>
+<e lm="Naphtuhite">    <par n="Nn"/><i>aphtuhite</i><par n="house__n"/></e>
+<e lm="Nazirite">    <par n="Nn"/><i>azirite</i><par n="house__n"/></e>
+<e lm="Nemuelite">    <par n="Nn"/><i>emuelite</i><par n="house__n"/></e>
+<e lm="Oznite">    <par n="Oo"/><i>znite</i><par n="house__n"/></e>
+<e lm="Palluite">    <par n="Pp"/><i>alluite</i><par n="house__n"/></e>
+<e lm="Pathrusite">    <par n="Pp"/><i>athrusite</i><par n="house__n"/></e>
+<e lm="Perezite">    <par n="Pp"/><i>erezite</i><par n="house__n"/></e>
+<e lm="Perizzite">    <par n="Pp"/><i>erizzite</i><par n="house__n"/></e>
+<e lm="Perizzite">    <par n="Pp"/><i>erizzite</i><par n="house__n"/></e>
+<e lm="Puite">    <par n="Pp"/><i>uite</i><par n="house__n"/></e>
+<e lm="Rephaite">    <par n="Rr"/><i>ephaite</i><par n="house__n"/></e>
+<e lm="Reubenite">    <par n="Rr"/><i>eubenite</i><par n="house__n"/></e>
+<e lm="Reubenite">    <par n="Rr"/><i>eubenite</i><par n="house__n"/></e>
+<e lm="Sardite">    <par n="Ss"/><i>ardite</i><par n="house__n"/></e>
+<e lm="Shaulite">    <par n="Ss"/><i>haulite</i><par n="house__n"/></e>
+<e lm="Shechemite">    <par n="Ss"/><i>hechemite</i><par n="house__n"/></e>
+<e lm="Shelahite">    <par n="Ss"/><i>helahite</i><par n="house__n"/></e>
+<e lm="Shemidaite">    <par n="Ss"/><i>hemidaite</i><par n="house__n"/></e>
+<e lm="Shillemite">    <par n="Ss"/><i>hillemite</i><par n="house__n"/></e>
+<e lm="Shimeite">    <par n="Ss"/><i>himeite</i><par n="house__n"/></e>
+<e lm="Shimronite">    <par n="Ss"/><i>himronite</i><par n="house__n"/></e>
+<e lm="Shuhahite">    <par n="Ss"/><i>huhahite</i><par n="house__n"/></e>
+<e lm="Shuhamite">    <par n="Ss"/><i>huhamite</i><par n="house__n"/></e>
+<e lm="Shunite">    <par n="Ss"/><i>hunite</i><par n="house__n"/></e>
+<e lm="Shuphamite">    <par n="Ss"/><i>huphamite</i><par n="house__n"/></e>
+<e lm="Shuthelahite">    <par n="Ss"/><i>huthelahite</i><par n="house__n"/></e>
+<e lm="Simeonite">    <par n="Ss"/><i>imeonite</i><par n="house__n"/></e>
+<e lm="Sinite">    <par n="Ss"/><i>inite</i><par n="house__n"/></e>
+<e lm="Tahanite">    <par n="Tt"/><i>ahanite</i><par n="house__n"/></e>
+<e lm="Temanite">    <par n="Tt"/><i>emanite</i><par n="house__n"/></e>
+<e lm="Tolaite">    <par n="Tt"/><i>olaite</i><par n="house__n"/></e>
+<e lm="Uzzielite">    <par n="Uu"/><i>zzielite</i><par n="house__n"/></e>
+<e lm="Zamzummite">    <par n="Zz"/><i>amzummite</i><par n="house__n"/></e>
+<e lm="Zebulunite">    <par n="Zz"/><i>ebulunite</i><par n="house__n"/></e>
+<e lm="Zemarite">    <par n="Zz"/><i>emarite</i><par n="house__n"/></e>
+<e lm="Zephonite">    <par n="Zz"/><i>ephonite</i><par n="house__n"/></e>
+<e lm="Zerahite">    <par n="Zz"/><i>erahite</i><par n="house__n"/></e>
+<e lm="Zuzite">    <par n="Zz"/><i>uzite</i><par n="house__n"/></e>
+<e lm="ephod">  <i>ephod</i><par n="house__n"/></e>
+<e lm="breastpiece">  <i>breastpiece</i><par n="house__n"/></e>
+<e lm="breastplate">  <i>breastplate</i><par n="house__n"/></e>
+<e lm="entrails">  <i>entrails</i><par n="personnel__n"/></e>
+<e lm="hin">  <i>hin</i><par n="house__n"/></e>
+<e lm="cud">  <i>cud</i><par n="house__n"/></e>
+<e lm="turtledove">  <i>turtledove</i><par n="house__n"/></e>
+<e lm="frankincense">  <i>frankincense</i><par n="east__n"/></e>
+<e lm="locust">  <i>locust</i><par n="house__n"/></e>
+<e lm="woof">  <i>woof</i><par n="east__n"/></e>
+<e lm="uncleanness">  <i>uncleanness</i><par n="access__n"/></e>
+<e lm="convocation">  <i>convocation</i><par n="house__n"/></e>
+<e lm="bondage">  <i>bondage</i><par n="east__n"/></e>
+<e lm="slayer">  <i>slayer</i><par n="house__n"/></e>
+<e lm="signet">  <i>signet</i><par n="house__n"/></e>
+<e lm="taskmaster">  <i>taskmaster</i><par n="house__n"/></e>
+<e lm="embroiderer">  <i>embroiderer</i><par n="house__n"/></e>
+<e lm="scall">  <i>scall</i><par n="house__n"/></e>
+<e lm="furnishings">  <i>furnishings</i><par n="personnel__n"/></e>
+
 <e lm="quarter past twelve"><p><l>quarter<b/>past<b/>twelve</l><r>quarter<b/>past<b/>twelve<s n="n"/><s n="sg"/></r></p></e>
 <e lm="half past twelve"><p><l>half<b/>past<b/>twelve</l><r>half<b/>past<b/>twelve<s n="n"/><s n="sg"/></r></p></e>
 <e lm="quarter to one"><p><l>quarter<b/>to<b/>one</l><r>quarter<b/>to<b/>one<s n="n"/><s n="sg"/></r></p></e>
@@ -42180,6 +42349,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="Bakker">          <i>Bakker</i><par n="Smith__np"/></e>
 <e lm="Baku">            <i>Baku</i><par n="Barcelona__np"/></e>
 <e lm="Bala">            <i>Bala</i><par n="Barcelona__np"/></e>
+<e lm="Balaam">          <i>Balaam</i><par n="Mark__np"/></e>
 <e lm="Balad">           <i>Balad</i><par n="Flammie__np"/></e>
 <e lm="Balada">          <i>Balada</i><par n="Smith__np"/></e>
 <e lm="Balaguer">        <i>Balaguer</i><par n="Smith__np"/></e>
@@ -47784,6 +47954,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="Ervino">          <i>Ervino</i><par n="Mark__np"/></e>
 <e lm="Erwin">           <i>Erwin</i><par n="Mark__np"/></e>
 <e lm="Eryn">            <i>Eryn</i><par n="Mary__np"/></e>
+<e lm="Esau">            <i>Esau</i><par n="Mark__np"/></e>
 <e lm="Esaú">            <i>Esaú</i><par n="Mark__np"/></e>
 <e lm="Escabias">        <i>Escabias</i><par n="Gauss__np"/></e>
 <e lm="Escala">          <i>Escala</i><par n="Smith__np"/></e>
@@ -52749,6 +52920,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="La Torre">        <i>La<b/>Torre</i><par n="Smith__np"/></e>
 <e lm="LaTeX">           <i>LaTeX</i><par n="Linux__np"/></e>
 <e lm="Labadie">         <i>Labadie</i><par n="Smith__np"/></e>
+<e lm="Laban">           <i>Laban</i><par n="Mark__np"/></e>
 <e lm="Labarre">         <i>Labarre</i><par n="Smith__np"/></e>
 <e lm="Labbé">           <i>Labbé</i><par n="Smith__np"/></e>
 <e lm="Labeaume">        <i>Labeaume</i><par n="Smith__np"/></e>
@@ -54373,6 +54545,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="Managua">         <i>Managua</i><par n="Barcelona__np"/></e>
 <e lm="Manana">          <i>Manana</i><par n="Flammie__np"/></e>
 <e lm="Manases">         <i>Manases</i><par n="Mark__np"/></e>
+<e lm="Manasseh">        <i>Manasseh</i><par n="Mark__np"/></e>
 <e lm="Manatee">         <i>Manatee</i><par n="Flammie__np"/></e>
 <e lm="Manau">           <i>Manau</i><par n="Smith__np"/></e>
 <e lm="Mancebo">         <i>Mancebo</i><par n="Smith__np"/></e>
@@ -64475,6 +64648,337 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="Össur">           <i>Össur</i><par n="Mark__np"/></e>
 <e lm="Úlehla">          <i>Úlehla</i><par n="Smith__np"/></e>
 
+<!-- TODO: sort these -->
+<e lm="Eleazer">         <i>Eleazer</i><par n="Mark__np"/></e>
+<e lm="Balak">           <i>Balak</i><par n="Mark__np"/></e>
+<e lm="Boaz">            <i>Boaz</i><par n="Mark__np"/></e>
+<e lm="Abimelech">       <i>Abimelech</i><par n="Mark__np"/></e>
+<e lm="Shechem">         <i>Shechem</i><par n="Mark__np"/></e>
+<e lm="Simeon">          <i>Simeon</i><par n="Mark__np"/></e>
+<e lm="Korah">           <i>Korah</i><par n="Mark__np"/></e>
+<e lm="Sihon">           <i>Sihon</i><par n="Mark__np"/></e>
+
+<e lm="Abihu">    <i>Abihu</i><par n="Mark__np"/></e>
+<e lm="Abiram">    <i>Abiram</i><par n="Mark__np"/></e>
+<e lm="Adah">    <i>Adah</i><par n="Mark__np"/></e>
+<e lm="Agag">    <i>Agag</i><par n="Mark__np"/></e>
+<e lm="Ahiezer">    <i>Ahiezer</i><par n="Mark__np"/></e>
+<e lm="Ahihud">    <i>Ahihud</i><par n="Mark__np"/></e>
+<e lm="Ai">    <i>Ai</i><par n="Mars__np"/></e>
+<e lm="Amalek">    <i>Amalek</i><par n="Mark__np"/></e>
+<e lm="Ammihud">    <i>Ammihud</i><par n="Mark__np"/></e>
+<e lm="Anak">    <i>Anak</i><par n="Mark__np"/></e>
+<e lm="Ararat">    <i>Ararat</i><par n="Mars__np"/></e>
+<e lm="Arnon">    <i>Arnon</i><par n="Mars__np"/></e>
+<e lm="Arphaxad">    <i>Arphaxad</i><par n="Mark__np"/></e>
+<e lm="Azazel">    <i>Azazel</i><par n="Mark__np"/></e>
+<e lm="Baal">    <i>Baal</i><par n="Mark__np"/></e>
+<e lm="Barnea">    <i>Barnea</i><par n="Mars__np"/></e>
+<e lm="Basemath">    <i>Basemath</i><par n="Mary__np"/></e>
+<e lm="Bashan">    <i>Bashan</i><par n="Mars__np"/></e>
+<e lm="Bela">    <i>Bela</i><par n="Mark__np"/></e>
+<e lm="Beor">    <i>Beor</i><par n="Mark__np"/></e>
+<e lm="Bethuel">    <i>Bethuel</i><par n="Mark__np"/></e>
+<e lm="Bezalel">    <i>Bezalel</i><par n="Mark__np"/></e>
+<e lm="Bilhah">    <i>Bilhah</i><par n="Mary__np"/></e>
+<e lm="Buz">    <i>Buz</i><par n="Mark__np"/></e>
+<e lm="Carmi">    <i>Carmi</i><par n="Mark__np"/></e>
+<e lm="Chemosh">    <i>Chemosh</i><par n="Mark__np"/></e>
+<e lm="Cozbi">    <i>Cozbi</i><par n="Mark__np"/></e>
+<e lm="Dathan">    <i>Dathan</i><par n="Mark__np"/></e>
+<e lm="Dinah">    <i>Dinah</i><par n="Mary__np"/></e>
+<e lm="Eleazar">    <i>Eleazar</i><par n="Mark__np"/></e>
+<e lm="Elimelech">    <i>Elimelech</i><par n="Mark__np"/></e>
+<e lm="Eliphaz">    <i>Eliphaz</i><par n="Mark__np"/></e>
+<e lm="Elishah">    <i>Elishah</i><par n="Mark__np"/></e>
+<e lm="Elishama">    <i>Elishama</i><par n="Mark__np"/></e>
+<e lm="Enosh">    <i>Enosh</i><par n="Mark__np"/></e>
+<e lm="Gad">    <i>Gad</i><par n="Mark__np"/></e>
+<e lm="Gershon">    <i>Gershon</i><par n="Mark__np"/></e>
+<e lm="Gomorrah">    <i>Gomorrah</i><par n="Mars__np"/></e>
+<e lm="Hagar">    <i>Hagar</i><par n="Mary__np"/></e>
+<e lm="Hamor">    <i>Hamor</i><par n="Mark__np"/></e>
+<e lm="Hanoch">    <i>Hanoch</i><par n="Mark__np"/></e>
+<e lm="Haran">    <i>Haran</i><par n="Mars__np"/></e>
+<e lm="Hermon">    <i>Hermon</i><par n="Mars__np"/></e>
+<e lm="Heshbon">    <i>Heshbon</i><par n="Mars__np"/></e>
+<e lm="Horeb">    <i>Horeb</i><par n="Mars__np"/></e>
+<e lm="Ishmael">    <i>Ishmael</i><par n="Mark__np"/></e>
+<e lm="Issachar">    <i>Issachar</i><par n="Mark__np"/></e>
+<e lm="Jabal">    <i>Jabal</i><par n="Mark__np"/></e>
+<e lm="Jabbok">    <i>Jabbok</i><par n="Mars__np"/></e>
+<e lm="Jashub">    <i>Jashub</i><par n="Mark__np"/></e>
+<e lm="Jethro">    <i>Jethro</i><par n="Mark__np"/></e>
+<e lm="Joktan">    <i>Joktan</i><par n="Mark__np"/></e>
+<e lm="Kadesh">    <i>Kadesh</i><par n="Mars__np"/></e>
+<e lm="Kenaz">    <i>Kenaz</i><par n="Mark__np"/></e>
+<e lm="Kohath">    <i>Kohath</i><par n="Mark__np"/></e>
+<e lm="Machir">    <i>Machir</i><par n="Mark__np"/></e>
+<e lm="Mamre">    <i>Mamre</i><par n="Mars__np"/></e>
+<e lm="Melchizedek">    <i>Melchizedek</i><par n="Mark__np"/></e>
+<e lm="Merari">    <i>Merari</i><par n="Mark__np"/></e>
+<e lm="Meribah">    <i>Meribah</i><par n="Mars__np"/></e>
+<e lm="Milcah">    <i>Milcah</i><par n="Mary__np"/></e>
+<e lm="Mizpah">    <i>Mizpah</i><par n="Mars__np"/></e>
+<e lm="Nahor">    <i>Nahor</i><par n="Mark__np"/></e>
+<e lm="Naphtali">    <i>Naphtali</i><par n="Mark__np"/></e>
+<e lm="Nathanel">    <i>Nathanel</i><par n="Mark__np"/></e>
+<e lm="Negev">    <i>Negev</i><par n="Mars__np"/></e>
+<e lm="Nimrod">    <i>Nimrod</i><par n="Mark__np"/></e>
+<e lm="Nineveh">    <i>Nineveh</i><par n="Mars__np"/></e>
+<e lm="Og">    <i>Og</i><par n="Mark__np"/></e>
+<e lm="Onan">    <i>Onan</i><par n="Mark__np"/></e>
+<e lm="Oni">    <i>Oni</i><par n="Mark__np"/></e>
+<e lm="Peleg">    <i>Peleg</i><par n="Mark__np"/></e>
+<e lm="Phicol">    <i>Phicol</i><par n="Mark__np"/></e>
+<e lm="Potiphar">    <i>Potiphar</i><par n="Mark__np"/></e>
+<e lm="Potiphera">    <i>Potiphera</i><par n="Mark__np"/></e>
+<e lm="Puah">    <i>Puah</i><par n="Mary__np"/></e>
+<e lm="Reuel">    <i>Reuel</i><par n="Mark__np"/></e>
+<e lm="Salmah">    <i>Salmah</i><par n="Mark__np"/></e>
+<e lm="Shem">    <i>Shem</i><par n="Mark__np"/></e>
+<e lm="Shemuel">    <i>Shemuel</i><par n="Mark__np"/></e>
+<e lm="Sheol">    <i>Sheol</i><par n="Mars__np"/></e>
+<e lm="Terah">    <i>Terah</i><par n="Mark__np"/></e>
+<e lm="Transjordan">    <i>Transjordan</i><par n="Mark__np"/></e>
+<e lm="Zebulun">    <i>Zebulun</i><par n="Mark__np"/></e>
+<e lm="Zerah">    <i>Zerah</i><par n="Mark__np"/></e>
+<e lm="Zibeon">    <i>Zibeon</i><par n="Mark__np"/></e>
+<e lm="Zilpah">    <i>Zilpah</i><par n="Mary__np"/></e>
+<e lm="Leviticus">    <i>Leviticus</i><par n="Wikipedia__np"/></e>
+<e lm="Deuteronomy">    <i>Deuteronomy</i><par n="Wikipedia__np"/></e>
+<e lm="Moab">    <i>Moab</i><par n="Barcelona__np"/></e>
+<e lm="Sodom">    <i>Sodom</i><par n="Barcelona__np"/></e>
+<e lm="Midian">    <i>Midian</i><par n="Barcelona__np"/></e>
+<e lm="Goshen">    <i>Goshen</i><par n="Barcelona__np"/></e>
+<e lm="Paddan">    <i>Paddan</i><par n="Barcelona__np"/></e>
+<e lm="Passover">    <i>Passover</i><par n="Wikipedia__np"/></e>
+<e lm="Seir">    <i>Seir</i><par n="Barcelona__np"/></e>
+<e lm="Edom">    <i>Edom</i><par n="Barcelona__np"/></e>
+<e lm="Hor">    <i>Hor</i><par n="Barcelona__np"/></e>
+<e lm="Sheba">    <i>Sheba</i><par n="Barcelona__np"/></e>
+<e lm="Heth">    <i>Heth</i><par n="Mark__np"/></e>
+<e lm="Ephron">    <i>Ephron</i><par n="Mark__np"/></e>
+<e lm="Shelah">    <i>Shelah</i><par n="Mark__np"/></e>
+<e lm="Ithamar">    <i>Ithamar</i><par n="Mark__np"/></e>
+<e lm="Zin">    <i>Zin</i><par n="Barcelona__np"/></e>
+<e lm="Lamech">    <i>Lamech</i><par n="Mark__np"/></e>
+<e lm="Peor">    <i>Peor</i><par n="Barcelona__np"/></e>
+<e lm="Beersheba">    <i>Beersheba</i><par n="Barcelona__np"/></e>
+<e lm="Eliab">    <i>Eliab</i><par n="Mark__np"/></e>
+<e lm="Nadab">    <i>Nadab</i><par n="Mark__np"/></e>
+<e lm="Japheth">    <i>Japheth</i><par n="Mark__np"/></e>
+<e lm="Anah">    <i>Anah</i><par n="Mark__np"/></e>
+<e lm="Zelophehad">    <i>Zelophehad</i><par n="Mark__np"/></e>
+<e lm="Accad">  <i>Accad</i><par n="Mark__np"/></e>
+<e lm="Allon">  <i>Allon</i><par n="Mark__np"/></e>
+<e lm="Anamim">  <i>Anamim</i><par n="Mark__np"/></e>
+<e lm="Arpachshad">  <i>Arpachshad</i><par n="Mark__np"/></e>
+<e lm="Ashkenaz">  <i>Ashkenaz</i><par n="Mark__np"/></e>
+<e lm="Askenaz">  <i>Askenaz</i><par n="Mark__np"/></e>
+<e lm="Asshur">  <i>Asshur</i><par n="Mark__np"/></e>
+<e lm="Bacuth">  <i>Bacuth</i><par n="Mark__np"/></e>
+<e lm="Becher">  <i>Becher</i><par n="Mark__np"/></e>
+<e lm="Beker">  <i>Beker</i><par n="Mark__np"/></e>
+<e lm="Benoni">  <i>Benoni</i><par n="Mark__np"/></e>
+<e lm="Cheran">  <i>Cheran</i><par n="Mark__np"/></e>
+<e lm="Chesed">  <i>Chesed</i><par n="Mark__np"/></e>
+<e lm="Cush">  <i>Cush</i><par n="Barcelona__np"/></e>
+<e lm="Dedan">  <i>Dedan</i><par n="Mark__np"/></e>
+<e lm="Dishan">  <i>Dishan</i><par n="Mark__np"/></e>
+<e lm="Dishon">  <i>Dishon</i><par n="Mark__np"/></e>
+<e lm="Ezer">  <i>Ezer</i><par n="Mark__np"/></e>
+<e lm="Hadad">  <i>Hadad</i><par n="Mark__np"/></e>
+<e lm="Hadar">  <i>Hadar</i><par n="Mark__np"/></e>
+<e lm="Havilah">  <i>Havilah</i><par n="Barcelona__np"/></e>
+<e lm="Heman">  <i>Heman</i><par n="Mark__np"/></e>
+<e lm="Hezron">  <i>Hezron</i><par n="Mark__np"/></e>
+<e lm="Homam">  <i>Homam</i><par n="Mark__np"/></e>
+<e lm="Iob">  <i>Iob</i><par n="Mark__np"/></e>
+<e lm="Jachin">  <i>Jachin</i><par n="Mark__np"/></e>
+<e lm="Jahzeel">  <i>Jahzeel</i><par n="Mark__np"/></e>
+<e lm="Jahziel">  <i>Jahziel</i><par n="Mark__np"/></e>
+<e lm="Jakin">  <i>Jakin</i><par n="Mark__np"/></e>
+<e lm="Jalam">  <i>Jalam</i><par n="Mark__np"/></e>
+<e lm="Jeush">  <i>Jeush</i><par n="Mark__np"/></e>
+<e lm="Jobab">  <i>Jobab</i><par n="Mark__np"/></e>
+<e lm="Kedar">  <i>Kedar</i><par n="Barcelona__np"/></e>
+<e lm="Kenan">  <i>Kenan</i><par n="Mark__np"/></e>
+<e lm="Keran">  <i>Keran</i><par n="Mark__np"/></e>
+<e lm="Kesed">  <i>Kesed</i><par n="Mark__np"/></e>
+<e lm="Lotan">  <i>Lotan</i><par n="Mark__np"/></e>
+<e lm="Mahalalel">  <i>Mahalalel</i><par n="Mark__np"/></e>
+<e lm="Malchiel">  <i>Malchiel</i><par n="Mark__np"/></e>
+<e lm="Malkiel">  <i>Malkiel</i><par n="Mark__np"/></e>
+<e lm="Methuselah">  <i>Methuselah</i><par n="Mark__np"/></e>
+<e lm="Mezahab">  <i>Mezahab</i><par n="Mark__np"/></e>
+<e lm="Migdal">  <i>Migdal</i><par n="Barcelona__np"/></e>
+<e lm="Puvah">  <i>Puvah</i><par n="Mark__np"/></e>
+<e lm="Reu">  <i>Reu</i><par n="Mark__np"/></e>
+<e lm="Serug">  <i>Serug</i><par n="Mark__np"/></e>
+<e lm="Shaul">  <i>Shaul</i><par n="Mark__np"/></e>
+<e lm="Shobal">  <i>Shobal</i><par n="Mark__np"/></e>
+<e lm="Tarshish">  <i>Tarshish</i><par n="Barcelona__np"/></e>
+<e lm="Teman">  <i>Teman</i><par n="Mark__np"/></e>
+<e lm="Timna">  <i>Timna</i><par n="Mark__np"/></e>
+<e lm="Ur">  <i>Ur</i><par n="Barcelona__np"/></e>
+<e lm="Uz">  <i>Uz</i><par n="Mark__np"/></e>
+<e lm="Zahab">  <i>Zahab</i><par n="Mark__np"/></e>
+<e lm="Zephon">  <i>Zephon</i><par n="Mark__np"/></e>
+<e lm="Zillah">  <i>Zillah</i><par n="Mary__np"/></e>
+<e lm="Ziphion">  <i>Ziphion</i><par n="Mark__np"/></e>
+<e lm="Zohar">  <i>Zohar</i><par n="Mark__np"/></e>
+
+<!-- The following were inferred to be personal names by location in geneaology chapters, not verified -->
+<e lm="Abida">  <i>Abida</i><par n="Mark__np"/></e>
+<e lm="Abimael">  <i>Abimael</i><par n="Mark__np"/></e>
+<e lm="Achbor">  <i>Achbor</i><par n="Mark__np"/></e>
+<e lm="Adbeel">  <i>Adbeel</i><par n="Mark__np"/></e>
+<e lm="Admah">  <i>Admah</i><par n="Mark__np"/></e>
+<e lm="Aiah">  <i>Aiah</i><par n="Mark__np"/></e>
+<e lm="Akan">  <i>Akan</i><par n="Mark__np"/></e>
+<e lm="Almodad">  <i>Almodad</i><par n="Mark__np"/></e>
+<e lm="Alvah">  <i>Alvah</i><par n="Mark__np"/></e>
+<e lm="Alvan">  <i>Alvan</i><par n="Mark__np"/></e>
+<e lm="Arba">  <i>Arba</i><par n="Mark__np"/></e>
+<e lm="Ard">  <i>Ard</i><par n="Mark__np"/></e>
+<e lm="Areli">  <i>Areli</i><par n="Mark__np"/></e>
+<e lm="Arodi">  <i>Arodi</i><par n="Mark__np"/></e>
+<e lm="Asenath">  <i>Asenath</i><par n="Mark__np"/></e>
+<e lm="Ashbel">  <i>Ashbel</i><par n="Mark__np"/></e>
+<e lm="Avith">  <i>Avith</i><par n="Mark__np"/></e>
+<e lm="Bedad">  <i>Bedad</i><par n="Mark__np"/></e>
+<e lm="Beriah">  <i>Beriah</i><par n="Mark__np"/></e>
+<e lm="Bilhan">  <i>Bilhan</i><par n="Mark__np"/></e>
+<e lm="Bozrah">  <i>Bozrah</i><par n="Mark__np"/></e>
+<e lm="Calah">  <i>Calah</i><par n="Mark__np"/></e>
+<e lm="Calneh">  <i>Calneh</i><par n="Mark__np"/></e>
+<e lm="Diklah">  <i>Diklah</i><par n="Mark__np"/></e>
+<e lm="Dinhabah">  <i>Dinhabah</i><par n="Mark__np"/></e>
+<e lm="Dodanim">  <i>Dodanim</i><par n="Mark__np"/></e>
+<e lm="Dumah">  <i>Dumah</i><par n="Mark__np"/></e>
+<e lm="Ebal">  <i>Ebal</i><par n="Mark__np"/></e>
+<e lm="Ehi">  <i>Ehi</i><par n="Mark__np"/></e>
+<e lm="Elah">  <i>Elah</i><par n="Mark__np"/></e>
+<e lm="Eldaah">  <i>Eldaah</i><par n="Mark__np"/></e>
+<e lm="Elon">  <i>Elon</i><par n="Mark__np"/></e>
+<e lm="Epher">  <i>Epher</i><par n="Mark__np"/></e>
+<e lm="Ephrath">  <i>Ephrath</i><par n="Mark__np"/></e>
+<e lm="Erech">  <i>Erech</i><par n="Mark__np"/></e>
+<e lm="Eri">  <i>Eri</i><par n="Mark__np"/></e>
+<e lm="Eshban">  <i>Eshban</i><par n="Mark__np"/></e>
+<e lm="Ezbon">  <i>Ezbon</i><par n="Mark__np"/></e>
+<e lm="Gaham">  <i>Gaham</i><par n="Mark__np"/></e>
+<e lm="Gatam">  <i>Gatam</i><par n="Mark__np"/></e>
+<e lm="Gera">  <i>Gera</i><par n="Mark__np"/></e>
+<e lm="Gerar">  <i>Gerar</i><par n="Mark__np"/></e>
+<e lm="Gether">  <i>Gether</i><par n="Mark__np"/></e>
+<e lm="Gomer">  <i>Gomer</i><par n="Mark__np"/></e>
+<e lm="Guni">  <i>Guni</i><par n="Mark__np"/></e>
+<e lm="Hadoram">  <i>Hadoram</i><par n="Mark__np"/></e>
+<e lm="Haggi">  <i>Haggi</i><par n="Mark__np"/></e>
+<e lm="Hamul">  <i>Hamul</i><par n="Mark__np"/></e>
+<e lm="Hanan">  <i>Hanan</i><par n="Mark__np"/></e>
+<e lm="Hazarmaveth">  <i>Hazarmaveth</i><par n="Mark__np"/></e>
+<e lm="Hazo">  <i>Hazo</i><par n="Mark__np"/></e>
+<e lm="Hemdan">  <i>Hemdan</i><par n="Mark__np"/></e>
+<e lm="Hori">  <i>Hori</i><par n="Mark__np"/></e>
+<e lm="Hul">  <i>Hul</i><par n="Mark__np"/></e>
+<e lm="Huppim">  <i>Huppim</i><par n="Mark__np"/></e>
+<e lm="Husham">  <i>Husham</i><par n="Mark__np"/></e>
+<e lm="Hushim">  <i>Hushim</i><par n="Mark__np"/></e>
+<e lm="Imnah">  <i>Imnah</i><par n="Mark__np"/></e>
+<e lm="Irad">  <i>Irad</i><par n="Mark__np"/></e>
+<e lm="Iram">  <i>Iram</i><par n="Mark__np"/></e>
+<e lm="Iscah">  <i>Iscah</i><par n="Mark__np"/></e>
+<e lm="Ishbak">  <i>Ishbak</i><par n="Mark__np"/></e>
+<e lm="Ishvah">  <i>Ishvah</i><par n="Mark__np"/></e>
+<e lm="Ishvi">  <i>Ishvi</i><par n="Mark__np"/></e>
+<e lm="Ithran">  <i>Ithran</i><par n="Mark__np"/></e>
+<e lm="Jahleel">  <i>Jahleel</i><par n="Mark__np"/></e>
+<e lm="Jamin">  <i>Jamin</i><par n="Mark__np"/></e>
+<e lm="Javan">  <i>Javan</i><par n="Mark__np"/></e>
+<e lm="Jemuel">  <i>Jemuel</i><par n="Mark__np"/></e>
+<e lm="Jerah">  <i>Jerah</i><par n="Mark__np"/></e>
+<e lm="Jetheth">  <i>Jetheth</i><par n="Mark__np"/></e>
+<e lm="Jetur">  <i>Jetur</i><par n="Mark__np"/></e>
+<e lm="Jezer">  <i>Jezer</i><par n="Mark__np"/></e>
+<e lm="Jidlaph">  <i>Jidlaph</i><par n="Mark__np"/></e>
+<e lm="Jokshan">  <i>Jokshan</i><par n="Mark__np"/></e>
+<e lm="Kedemah">  <i>Kedemah</i><par n="Mark__np"/></e>
+<e lm="Kemuel">  <i>Kemuel</i><par n="Mark__np"/></e>
+<e lm="Keturah">  <i>Keturah</i><par n="Mark__np"/></e>
+<e lm="Kiriath">  <i>Kiriath</i><par n="Mark__np"/></e>
+<e lm="Kittim">  <i>Kittim</i><par n="Mark__np"/></e>
+<e lm="Lahai">  <i>Lahai</i><par n="Mark__np"/></e>
+<e lm="Lasha">  <i>Lasha</i><par n="Mark__np"/></e>
+<e lm="Lud">  <i>Lud</i><par n="Mark__np"/></e>
+<e lm="Maacah">  <i>Maacah</i><par n="Mark__np"/></e>
+<e lm="Machpelah">  <i>Machpelah</i><par n="Mark__np"/></e>
+<e lm="Madai">  <i>Madai</i><par n="Mark__np"/></e>
+<e lm="Magdiel">  <i>Magdiel</i><par n="Mark__np"/></e>
+<e lm="Magog">  <i>Magog</i><par n="Mark__np"/></e>
+<e lm="Manahath">  <i>Manahath</i><par n="Mark__np"/></e>
+<e lm="Masrekah">  <i>Masrekah</i><par n="Mark__np"/></e>
+<e lm="Massa">  <i>Massa</i><par n="Mark__np"/></e>
+<e lm="Matred">  <i>Matred</i><par n="Mark__np"/></e>
+<e lm="Medan">  <i>Medan</i><par n="Mark__np"/></e>
+<e lm="Mehetabel">  <i>Mehetabel</i><par n="Mark__np"/></e>
+<e lm="Mehujael">  <i>Mehujael</i><par n="Mark__np"/></e>
+<e lm="Mesha">  <i>Mesha</i><par n="Mark__np"/></e>
+<e lm="Meshech">  <i>Meshech</i><par n="Mark__np"/></e>
+<e lm="Methushael">  <i>Methushael</i><par n="Mark__np"/></e>
+<e lm="Mibsam">  <i>Mibsam</i><par n="Mark__np"/></e>
+<e lm="Mibzar">  <i>Mibzar</i><par n="Mark__np"/></e>
+<e lm="Mishma">  <i>Mishma</i><par n="Mark__np"/></e>
+<e lm="Mizraim">  <i>Mizraim</i><par n="Mark__np"/></e>
+<e lm="Mizzah">  <i>Mizzah</i><par n="Mark__np"/></e>
+<e lm="Muppim">  <i>Muppim</i><par n="Mark__np"/></e>
+<e lm="Naamah">  <i>Naamah</i><par n="Mark__np"/></e>
+<e lm="Naaman">  <i>Naaman</i><par n="Mark__np"/></e>
+<e lm="Nahath">  <i>Nahath</i><par n="Mark__np"/></e>
+<e lm="Naphish">  <i>Naphish</i><par n="Mark__np"/></e>
+<e lm="Nebaioth">  <i>Nebaioth</i><par n="Mark__np"/></e>
+<e lm="Obal">  <i>Obal</i><par n="Mark__np"/></e>
+<e lm="Ohad">  <i>Ohad</i><par n="Mark__np"/></e>
+<e lm="Oholibamah">  <i>Oholibamah</i><par n="Mark__np"/></e>
+<e lm="Onam">  <i>Onam</i><par n="Mark__np"/></e>
+<e lm="Ophir">  <i>Ophir</i><par n="Mark__np"/></e>
+<e lm="Pallu">  <i>Pallu</i><par n="Mark__np"/></e>
+<e lm="Pildash">  <i>Pildash</i><par n="Mark__np"/></e>
+<e lm="Pinon">  <i>Pinon</i><par n="Mark__np"/></e>
+<e lm="Raamah">  <i>Raamah</i><par n="Mark__np"/></e>
+<e lm="Rehoboth">  <i>Rehoboth</i><par n="Mark__np"/></e>
+<e lm="Resen">  <i>Resen</i><par n="Mark__np"/></e>
+<e lm="Reumah">  <i>Reumah</i><par n="Mark__np"/></e>
+<e lm="Riphath">  <i>Riphath</i><par n="Mark__np"/></e>
+<e lm="Rosh">  <i>Rosh</i><par n="Mark__np"/></e>
+<e lm="Sabtah">  <i>Sabtah</i><par n="Mark__np"/></e>
+<e lm="Sabteca">  <i>Sabteca</i><par n="Mark__np"/></e>
+<e lm="Samlah">  <i>Samlah</i><par n="Mark__np"/></e>
+<e lm="Seba">  <i>Seba</i><par n="Mark__np"/></e>
+<e lm="Sephar">  <i>Sephar</i><par n="Mark__np"/></e>
+<e lm="Serah">  <i>Serah</i><par n="Mark__np"/></e>
+<e lm="Sered">  <i>Sered</i><par n="Mark__np"/></e>
+<e lm="Shammah">  <i>Shammah</i><par n="Mark__np"/></e>
+<e lm="Sheleph">  <i>Sheleph</i><par n="Mark__np"/></e>
+<e lm="Shepho">  <i>Shepho</i><par n="Mark__np"/></e>
+<e lm="Shillem">  <i>Shillem</i><par n="Mark__np"/></e>
+<e lm="Shimron">  <i>Shimron</i><par n="Mark__np"/></e>
+<e lm="Shinar">  <i>Shinar</i><par n="Mark__np"/></e>
+<e lm="Shuah">  <i>Shuah</i><par n="Mark__np"/></e>
+<e lm="Shuni">  <i>Shuni</i><par n="Mark__np"/></e>
+<e lm="Shur">  <i>Shur</i><par n="Mark__np"/></e>
+<e lm="Tahash">  <i>Tahash</i><par n="Mark__np"/></e>
+<e lm="Tebah">  <i>Tebah</i><par n="Mark__np"/></e>
+<e lm="Tema">  <i>Tema</i><par n="Mark__np"/></e>
+<e lm="Tiras">  <i>Tiras</i><par n="Mark__np"/></e>
+<e lm="Togarmah">  <i>Togarmah</i><par n="Mark__np"/></e>
+<e lm="Uzal">  <i>Uzal</i><par n="Mark__np"/></e>
+<e lm="Zaavan">  <i>Zaavan</i><par n="Mark__np"/></e>
+<e lm="Zeboiim">  <i>Zeboiim</i><par n="Mark__np"/></e>
+<e lm="Zepho">  <i>Zepho</i><par n="Mark__np"/></e>
+<e lm="Zimran">  <i>Zimran</i><par n="Mark__np"/></e>
 
     <!-- ******************************
           group num
@@ -64585,6 +65089,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="thirty">          <i>thirty</i><par n="twenty__num"/></e>
 <e lm="thousand">        <i>thousand</i><par n="million__num"/></e>
 <e lm="three">           <i>three</i><par n="two__num"/></e>
+<e lm="threescore">      <i>threescore</i><par n="two__num"/></e>
 <e lm="twelve">          <i>twelve</i><par n="two__num"/></e>
 <e lm="twenty">          <i>twenty</i><par n="twenty__num"/></e>
 <e lm="twenty-eight">    <i>twenty-eight</i><par n="two__num"/></e>
@@ -66520,6 +67025,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="enable">          <i>enabl</i><par n="liv/e__vblex"/></e>
 <e lm="enact">           <i>enact</i><par n="accept__vblex"/></e>
 <e lm="enamel">          <i>enamel</i><par n="control__vblex"/></e>
+<e lm="encamp">          <i>encamp</i><par n="accept__vblex"/></e>
 <e lm="encapsulate">     <i>encapsulat</i><par n="liv/e__vblex"/></e>
 <e lm="encase">          <i>encas</i><par n="liv/e__vblex"/></e>
 <e lm="enchant">         <i>enchant</i><par n="accept__vblex"/></e>
@@ -67933,6 +68439,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="overheat">        <i>overheat</i><par n="accept__vblex"/></e>
 <e lm="overlap">         <i>overlap</i><par n="step__vblex"/></e>
 <e lm="overlay">         <i>overlay</i><par n="accept__vblex"/></e>
+<e r="LR" lm="overlay">  <i>overla</i><par n="pa/y__vblex"/></e>
 <e lm="overload">        <i>overload</i><par n="accept__vblex"/></e>
 <e lm="overlook">        <i>overlook</i><par n="accept__vblex"/></e>
 <e lm="overpower">       <i>overpower</i><par n="accept__vblex"/></e>
@@ -69011,6 +69518,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="shove">           <i>shov</i><par n="liv/e__vblex"/></e>
 <e lm="shovel">          <i>shovel</i><par n="control__vblex"/></e>
 <e lm="show">            <i>show</i><par n="hew__vblex"/></e>
+<e r="LR"> <p><l>shew</l><r>show</r></p> <par n="hew__vblex"/></e>
 <e lm="show up">         <i>show</i><par n="hew__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
 <e lm="showcase">        <i>showcas</i><par n="liv/e__vblex"/></e>
 <e lm="shower">          <i>shower</i><par n="accept__vblex"/></e>
