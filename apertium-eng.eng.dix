@@ -99,6 +99,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <sdef n="sep" 	c="Seperable verb"/>
     <sdef n="sint" 	c="Synthetic adjective"/>
     <sdef n="nom" 	c="Nominative"/>
+    <sdef n="acc" 	c="Accusative"/>
     <sdef n="gen" 	c="Genitive"/>
     <sdef n="acr" 	c="Acronym"/>
     <sdef n="org" 	c="Organisation"/>
@@ -943,6 +944,27 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e r="RL"><p><l>theirs</l>    <r>prpers<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>yours</l>     <r>prpers<s n="prn"/><s n="pos"/><s n="p2"/><s n="f"/><s n="sp"/></r></p></e>
 </pardef>
+
+
+<pardef n="UD_pron">
+  <e><p><l>I</l> <r>I<s n="prn"/><s n="prs"/><s n="p1"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>me</l> <r>I<s n="prn"/><s n="prs"/><s n="p1"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>we</l> <r>we<s n="prn"/><s n="prs"/><s n="p1"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>us</l> <r>we<s n="prn"/><s n="prs"/><s n="p1"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>you</l> <r>you<s n="prn"/><s n="prs"/><s n="p2"/><s n="sp"/></r></p></e>
+  <e><p><l>he</l> <r>he<s n="prn"/><s n="prs"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>him</l> <r>he<s n="prn"/><s n="prs"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>she</l> <r>she<s n="prn"/><s n="prs"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>her</l> <r>she<s n="prn"/><s n="prs"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>it</l> <r>it<s n="prn"/><s n="prs"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>it</l> <r>it<s n="prn"/><s n="prs"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>they</l> <r>they<s n="prn"/><s n="prs"/><s n="p3"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>them</l> <r>they<s n="prn"/><s n="prs"/><s n="p3"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>ye</l> <r>ye<s n="prn"/><s n="prs"/><s n="p2"/><s n="pl"/><s n="nom"/></r></p></e>
+  <!-- TODO: check analysis on this one -->
+  <e><p><l>thine</l> <r>thy<s n="prn"/><s n="prs"/><s n="p2"/><s n="sg"/><s n="gen"/></r></p></e>
+</pardef>
+
 
 
 <pardef n="hello__ij">
@@ -64782,15 +64804,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- ******************************
           group prn
       ****************************** -->
-<e lm="pronoms personals de subjecte"><i></i><par n="prsubj__prn"/></e>
-<e lm="pronoms personals d'objecte"><i></i><par n="probj__prn"/></e>
+<e lm="pronoms personals de subjecte" alt="old"><i></i><par n="prsubj__prn"/></e>
+<e lm="pronoms personals d'objecte" alt="old"><i></i><par n="probj__prn"/></e>
 <e lm="possessive pronoun"><i></i><par n="prpos__prn"/></e>
 <e r="RL" lm="prdem__prn"><i></i><par n="prdem__prn"/></e>
 <e r="RL" lm="perspos__prn"><i></i><par n="perspos__prn"/></e>
 
 
-<e r="RL" lm="I">        <i></i><par n="/I__prn"/></e>
-<e lm="you">             <i></i><par n="/you__prn"/></e>
+<e r="RL" lm="I" alt="old">        <i></i><par n="/I__prn"/></e>
+<e lm="you" alt="old">             <i></i><par n="/you__prn"/></e>
 <e r="RL" lm="he">       <i></i><par n="/he__prn"/></e>
 <e r="RL" lm="she">      <i></i><par n="/she__prn"/></e>
 <e r="RL" lm="it">       <i></i><par n="/it__prn"/></e>
@@ -64798,7 +64820,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e r="RL" lm="they">     <i></i><par n="/they__prn"/></e>
 <e lm="a few">           <i>a<b/>few</i><par n="both__prn"/></e>
 
-
+<e alt="UD"> <i></i><par n="UD_pron"/></e>
 
     <!-- SECTION: Pronouns -->
 

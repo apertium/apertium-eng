@@ -7,6 +7,7 @@ BASENAME=apertium-$(LANG1)
 
 VAR1=#keep empty
 VAR2=_US
+VAR3=_UD
 
 TARGETS_COMMON =						\
 		$(LANG1)$(VAR1).automorf.bin			\
@@ -16,7 +17,9 @@ TARGETS_COMMON =						\
 		$(LANG1)$(VAR1).autopgen.bin			\
 		$(LANG1)$(VAR1).rlx.bin				 \
 		$(LANG1)$(VAR2).autogen.bin			 \
-		$(LANG1)$(VAR2).autopgen.bin
+		$(LANG1)$(VAR2).autopgen.bin    \
+    $(LANG1)$(VAR3).automorf.bin    \
+    $(LANG1)$(VAR3).autogen.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
 @ap_include@
@@ -27,15 +30,23 @@ TARGETS_COMMON =						\
 
 $(LANG1)$(VAR1).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
 		apertium-validate-dictionary $<
-		lt-comp -v eng rl $< $@ $(BASENAME).$(LANG1).acx
+		lt-comp -v eng -a old rl $< $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1)$(VAR2).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
 		apertium-validate-dictionary $<
-		lt-comp -v eng_US rl $< $@ $(BASENAME).$(LANG1).acx
+		lt-comp -v eng_US -a old rl $< $@ $(BASENAME).$(LANG1).acx
+
+$(LANG1)$(VAR3).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
+		apertium-validate-dictionary $<
+		lt-comp -v eng -a UD rl $< $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $<
-	lt-comp lr $< $@ $(BASENAME).$(LANG1).acx
+	lt-comp -a old lr $< $@ $(BASENAME).$(LANG1).acx
+
+$(LANG1)$(VAR3).automorf.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $<
+	lt-comp -a UD lr $< $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
 	lt-print $< | gzip -9 -c -n > $@
