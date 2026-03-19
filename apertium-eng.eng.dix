@@ -112,7 +112,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <sdef n="lquest" 	c="left question mark"/>
     <sdef n="obj" 	c="Object"/>
     <sdef n="subj" 	c="Subject"/>
-    <sdef n="pers" 	c="Personal (pronoun)"/>
   </sdefs>
   <pardefs>
 <pardef n="guionet">
