@@ -771,14 +771,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l></l>          <r><s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
-<pardef n="mine__prn">
-  <e r="RL"><p><l></l>          <r><s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l></l>          <r><s n="prn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l></l>          <r><s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l></l>          <r><s n="prn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="prn"/><s n="pos"/><s n="mf"/><s n="sp"/></r></p></e>
-</pardef>
-
 <pardef n="everyone__prn">
   <e>       <p><l></l>          <r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l></l>          <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -64819,7 +64811,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       ****************************** -->
 <e lm="pronoms personals de subjecte" alt="old"><i></i><par n="prsubj__prn"/></e>
 <e lm="pronoms personals d'objecte" alt="old"><i></i><par n="probj__prn"/></e>
-<e lm="possessive pronoun"><i></i><par n="prpos__prn"/></e>
+<e lm="possessive pronoun" alt="old"><i></i><par n="prpos__prn"/></e>
 <e r="RL" lm="prdem__prn"><i></i><par n="prdem__prn"/></e>
 <e r="RL" lm="perspos__prn"><i></i><par n="perspos__prn"/></e>
 
