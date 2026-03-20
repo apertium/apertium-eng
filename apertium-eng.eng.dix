@@ -16185,7 +16185,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- ******************************
           group det
       ****************************** -->
-<e lm="possessive determiner"><i></i><par n="prpos__det"/></e>
+<e lm="possessive determiner" alt="old"><i></i><par n="prpos__det"/></e>
 
 
     <!-- SECTION: Determiners -->
@@ -16207,11 +16207,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="few">             <i>few</i><par n="many__det"/></e>
 <e lm="fewer">           <i>fewer</i><par n="many__det"/></e>
 <e lm="half">            <i>half</i><par n="many__det"/></e>
-<e lm="her">             <i>her</i><par n="her__det"/></e>
-<e lm="his">             <i>his</i><par n="her__det"/></e>
+<e lm="her" alt="old">   <i>her</i><par n="her__det"/></e>
+<e lm="his" alt="old">   <i>his</i><par n="her__det"/></e>
 <e lm="how many">        <i>how<b/>many</i><par n="how_many__det"/></e>
 <e lm="how much">        <i>how<b/>much</i><par n="how_much__det"/></e>
-<e lm="its">             <i>its</i><par n="her__det"/></e>
+<e lm="its" alt="old">   <i>its</i><par n="her__det"/></e>
 <e lm="less">            <i>less</i><par n="much__det"/></e>
 <e lm="little">          <i>little</i><par n="much__det"/></e>
 <e lm="lots of">         <i>lots<b/>of</i><par n="enough__det"/></e>
@@ -16222,10 +16222,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="most of">         <i>most<b/>of</i><par n="enough__det"/></e>
 <e lm="much">            <i>much</i><par n="much__det"/></e>
 
-<e lm="my">              <i>my</i><par n="her__det"/></e>
+<e lm="my" alt="old">    <i>my</i><par n="her__det"/></e>
 <e lm="no">              <i>no</i><par n="other__det"/></e>
 <e lm="other">           <i>other</i><par n="other__det"/></e>
-<e lm="our">             <i>our</i><par n="her__det"/></e>
+<e lm="our" alt="old">   <i>our</i><par n="her__det"/></e>
 <e lm="quite a lot of">  <i>quite<b/>a<b/>lot<b/>of</i><par n="enough__det"/></e>
 <e lm="several">         <i>several</i><par n="several__det"/></e>
 <e lm="so many">         <i>so<b/>many</i><par n="many__det"/></e>
@@ -16248,7 +16248,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="which">           <i>which</i><par n="what__det"/></e>
 <e lm="whose">           <i>whose</i><par n="what__det"/></e>
 <e lm="whose">           <i>whose</i><par n="whose__det"/></e>
-<e lm="your">            <i>your</i><par n="her__det"/></e>
+<e lm="your" alt="old">  <i>your</i><par n="her__det"/></e>
     <!-- ******************************
           group det_symbol
       ****************************** -->
