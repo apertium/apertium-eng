@@ -112,6 +112,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <sdef n="lquest" 	c="left question mark"/>
     <sdef n="obj" 	c="Object"/>
     <sdef n="subj" 	c="Subject"/>
+    <sdef n="subst" c="Substantive (of possessive pronouns)"/>
   </sdefs>
   <pardefs>
 <pardef n="guionet">
@@ -949,17 +950,29 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <pardef n="UD_pron">
   <e><p><l>I</l> <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="nom"/></r></p></e>
   <e><p><l>me</l> <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>my</l> <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>mine</l> <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>we</l> <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="nom"/></r></p></e>
   <e><p><l>us</l> <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>our</l> <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e><p><l>ours</l> <r>we<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>you</l> <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="sp"/></r></p></e>
   <e><p><l>he</l> <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e><p><l>him</l> <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>him</l> <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>his</l> <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>his</l> <r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>she</l> <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e><p><l>her</l> <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>her</l> <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>her</l> <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>hers</l> <r>she<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>it</l> <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
   <e><p><l>it</l> <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>its</l> <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>its</l> <r>it<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>they</l> <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="nom"/></r></p></e>
   <e><p><l>them</l> <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>their</l> <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="gen"/><s n="subst"/></r></p></e>
+  <e><p><l>theirs</l> <r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="gen"/><s n="subst"/></r></p></e>
   <e><p><l>ye</l> <r>ye<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="nom"/></r></p></e>
   <!-- TODO: check analysis on this one -->
   <e><p><l>thine</l> <r>thy<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="gen"/></r></p></e>
