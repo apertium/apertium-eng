@@ -379,12 +379,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e v="eng_US"><p><l>o</l>     <r>ou</r></p></e>
 </pardef>
 
-<pardef n="z_s">
-  <e v="eng_US"><p><l>z</l>     <r>s</r></p></e>
-  <e v="eng"><i>s</i></e>
-</pardef>
-
-
 <pardef n="/I__prn">
   <e r="RL"><p><l>I</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>i</l>         <r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -561,18 +555,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>nest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
   <e r="LR"><p><l>er</l>        <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
   <e r="LR"><p><l>est</l>       <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
-</pardef>
-
-<pardef n="glum/__adj">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
-  <e>       <p><l>mer</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-  <e>       <p><l>mest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
-</pardef>
-
-<pardef n="up/__adj">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="sint"/></r></p></e>
-  <e>       <p><l>per</l>       <r><s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
-  <e>       <p><l>pest</l>      <r><s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
 </pardef>
 
 <pardef n="pitiful/__adj">
@@ -1364,14 +1346,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e r="RL"><p><l>eese's</l>    <r>oose<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
-<pardef n="dilettant/e__n">
-  <e>       <p><l>e</l>         <r>e<s n="n"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>e's</l>       <r>e<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="n"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l>i's</l>       <r>e<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
-  <e r="LR"><p><l>es</l>        <r>e<s n="n"/><s n="pl"/></r></p></e>
-</pardef>
-
 <pardef n="kibbutz__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
@@ -1472,17 +1446,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e r="RL"><p><l>'</l>         <r><s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
-<pardef n="host__n">
-  <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>'s</l>        <r><s n="n"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>s</l>         <r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l>s'</l>        <r><s n="n"/><s n="m"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>ess</l>       <r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>ess'</l>      <r><s n="n"/><s n="f"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>esses</l>     <r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l>esses'</l>    <r><s n="n"/><s n="f"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
-</pardef>
-
 <pardef n="pol/is__n">
   <e>       <p><l>is</l>        <r>is<s n="n"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>is'</l>       <r>is<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
@@ -1511,15 +1474,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e r="RL"><p><l>es'</l>       <r>es<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
   <e>       <p><l>ites</l>      <r>es<s n="n"/><s n="pl"/></r></p></e>
   <e r="RL"><p><l>ites'</l>     <r>es<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
-</pardef>
-
-<pardef n="cyclop/s__n">
-  <e>       <p><l>s</l>         <r>s<s n="n"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>s</l>         <r>s<s n="n"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l>s'</l>        <r>s<s n="n"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
-  <e r="LR"><p><l>es</l>        <r>s<s n="n"/><s n="pl"/></r></p></e>
-  <e r="LR"><p><l>ses</l>       <r>s<s n="n"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="calcul/us__n">
@@ -1596,15 +1550,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <pardef n="Mars__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="sg"/></r></p></e>
   <e r="RL"><p><l>'</l>         <r><s n="np"/><s n="top"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-</pardef>
-
-<pardef n="Ova__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="cog"/><s n="m"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>'s</l>        <r><s n="np"/><s n="cog"/><s n="m"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>a</l>         <r><s n="np"/><s n="cog"/><s n="f"/><s n="sg"/></r></p></e>
-  <e r="RL"><p><l>a's</l>       <r><s n="np"/><s n="cog"/><s n="f"/><s n="sg"/><j/>'s<s n="gen"/></r></p></e>
-  <e>       <p><l>s</l>         <r><s n="np"/><s n="cog"/><s n="pl"/></r></p></e>
-  <e r="RL"><p><l>s'</l>        <r><s n="np"/><s n="cog"/><s n="pl"/><j/>'s<s n="gen"/></r></p></e>
 </pardef>
 
 <pardef n="Bush__np">
@@ -1954,20 +1899,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e r="LR"><p><l>yed</l>       <r>y<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
-<pardef n="ab/ide__vblex">
-  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>ode</l>       <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
-  <e r="LR"><p><l>ided</l>      <r>ide<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>iding</l>     <r>ide<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>ide</l>       <r>ide<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ides</l>      <r>ide<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ode</l>       <r>ide<s n="vblex"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l>ided</l>      <r>ide<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
 <pardef n="approach__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -2257,20 +2188,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>d</l>         <r>ed<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
-<pardef n="bles/s__vblex">
-  <e>       <p><l>s</l>         <r>s<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>s</l>         <r>s<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>st</l>        <r>s<s n="vblex"/><s n="pp"/></r></p></e>
-  <e r="LR"><p><l>sed</l>       <r>s<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>sing</l>      <r>s<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>sing</l>      <r>s<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>sing</l>      <r>s<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>s</l>         <r>s<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ses</l>       <r>s<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>st</l>        <r>s<s n="vblex"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l>sed</l>       <r>s<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
 <pardef n="bl/ow__vblex">
   <e>       <p><l>ow</l>        <r>ow<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>ow</l>        <r>ow<s n="vblex"/><s n="imp"/></r></p></e>
@@ -2478,19 +2395,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>ig</l>        <r>ig<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>igs</l>       <r>ig<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ug</l>        <r>ig<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
-<pardef n="d/ive__vblex">
-  <e>       <p><l>ive</l>       <r>ive<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ive</l>       <r>ive<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>ived</l>      <r>ive<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>iving</l>     <r>ive<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>iving</l>     <r>ive<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>iving</l>     <r>ive<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>ive</l>       <r>ive<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ives</l>      <r>ive<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ived</l>      <r>ive<s n="vblex"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l>ove</l>       <r>ive<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
 <pardef n="dr/aw__vblex">
@@ -2880,19 +2784,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>t</l>         <r>et<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
-<pardef n="m/elt__vblex">
-  <e>       <p><l>elt</l>       <r>elt<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>elt</l>       <r>elt<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>elted</l>     <r>elt<s n="vblex"/><s n="pp"/></r></p></e>
-  <e r="LR"><p><l>olted</l>     <r>elt<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>elting</l>    <r>elt<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>elting</l>    <r>elt<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>elting</l>    <r>elt<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>elt</l>       <r>elt<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>elts</l>      <r>elt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>elted</l>     <r>elt<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
 <pardef n="read__vblex">
   <e>       <p><l></l>          <r><s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l></l>          <r><s n="vblex"/><s n="imp"/></r></p></e>
@@ -3107,18 +2998,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>ew</l>        <r>ay<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
-<pardef n="slid/e__vblex">
-  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l></l>          <r>e<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>ing</l>       <r>e<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>ing</l>       <r>e<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>ing</l>       <r>e<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>es</l>        <r>e<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l></l>          <r>e<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
 <pardef n="br/eak__vblex">
   <e>       <p><l>eak</l>       <r>eak<s n="vblex"/><s n="inf"/></r></p></e>
   <e>       <p><l>eak</l>       <r>eak<s n="vblex"/><s n="imp"/></r></p></e>
@@ -3254,18 +3133,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>ead</l>       <r>ead<s n="vblex"/><s n="pres"/></r></p></e>
   <e>       <p><l>eads</l>      <r>ead<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>od</l>        <r>ead<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
-<pardef n="underl/ie__vblex">
-  <e>       <p><l>ie</l>        <r>ie<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>ie</l>        <r>ie<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>aid</l>       <r>ie<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>ying</l>      <r>ie<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>ying</l>      <r>ie<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>ying</l>      <r>ie<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>ie</l>        <r>ie<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ies</l>       <r>ie<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ay</l>        <r>ie<s n="vblex"/><s n="past"/></r></p></e>
 </pardef>
 
 <pardef n="w/in__vblex">
@@ -3597,41 +3464,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <e>       <p><l>s</l>         <r><s n="vblex"/><s n="sep"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ged</l>       <r><s n="vblex"/><s n="sep"/><s n="past"/></r></p></e>
 </pardef>
-
-<pardef n="d/are__vblex">
-  <e>       <p><l>are</l>       <r>are<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>are</l>       <r>are<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>ared</l>      <r>are<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>aring</l>     <r>are<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>aring</l>     <r>are<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>aring</l>     <r>are<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>are</l>       <r>are<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ares</l>      <r>are<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>ared</l>      <r>are<s n="vblex"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l>urst</l>      <r>are<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
-<pardef n="authori/se__vblex">
-  <e>       <p><l>se</l>        <r>se<s n="vblex"/><s n="inf"/></r></p></e>
-  <e>       <p><l>se</l>        <r>se<s n="vblex"/><s n="imp"/></r></p></e>
-  <e>       <p><l>sed</l>       <r>se<s n="vblex"/><s n="pp"/></r></p></e>
-  <e w="1"> <p><l>sing</l>      <r>se<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e w="3"> <p><l>sing</l>      <r>se<s n="vblex"/><s n="ger"/></r></p></e>
-  <e w="2"> <p><l>sing</l>      <r>se<s n="vblex"/><s n="subs"/></r></p></e>
-  <e>       <p><l>se</l>        <r>se<s n="vblex"/><s n="pres"/></r></p></e>
-  <e>       <p><l>ses</l>       <r>se<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>sed</l>       <r>se<s n="vblex"/><s n="past"/></r></p></e>
-  <e r="LR"><p><l>ze</l>        <r>se<s n="vblex"/><s n="inf"/></r></p></e>
-  <e r="LR"><p><l>ze</l>        <r>se<s n="vblex"/><s n="imp"/></r></p></e>
-  <e r="LR" w="1"><p><l>zing</l><r>se<s n="vblex"/><s n="pprs"/></r></p></e>
-  <e r="LR"><p><l>zed</l>       <r>se<s n="vblex"/><s n="pp"/></r></p></e>
-  <e r="LR" w="3"><p><l>zing</l><r>se<s n="vblex"/><s n="ger"/></r></p></e>
-  <e r="LR" w="2"><p><l>zing</l><r>se<s n="vblex"/><s n="subs"/></r></p></e>
-  <e r="LR"><p><l>ze</l>        <r>se<s n="vblex"/><s n="pres"/></r></p></e>
-  <e r="LR"><p><l>zes</l>       <r>se<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e r="LR"><p><l>zed</l>       <r>se<s n="vblex"/><s n="past"/></r></p></e>
-</pardef>
-
 
 <pardef n="persons">      <!-- Ásta Árnadóttir, Ásta Á. Árnadóttir -->
   <e>       <re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
@@ -24738,7 +24570,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="feinter">         <i>feinter</i><par n="house__n"/></e>
 <e lm="feldspar">        <i>feldspar</i><par n="house__n"/></e>
 <e lm="feldspathoid">    <i>feldspathoid</i><par n="house__n"/></e>
-<e lm="felicity">        <i>felicity</i><par n="bab/y__n"/></e>
+<e lm="felicity">        <i>felicit</i><par n="bab/y__n"/></e>
 <e lm="fellatio">        <i>fellatio</i><par n="house__n"/></e>
 <e lm="felling">         <i>felling</i><par n="house__n"/></e>
 <e lm="fellow">          <i>fellow</i><par n="house__n"/></e>
@@ -25566,7 +25398,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="gametophyte">     <i>gametophyte</i><par n="house__n"/></e>
 <e lm="gaming">          <i>gaming</i><par n="house__n"/></e>
 <e lm="gamma">           <i>gamma</i><par n="house__n"/></e>
-<e r="LR" lm="gamma-ray"><p><l>gamma-ray</l> <r>gamma ray</r></p><par n="house__n"/></e>
+<e r="LR" lm="gamma-ray"><p><l>gamma-ray</l> <r>gamma<b/>ray</r></p><par n="house__n"/></e>
 <e lm="gamma ray">       <i>gamma<b/>ray</i><par n="house__n"/></e>
 <e lm="gammaglobulin">   <i>gammaglobulin</i><par n="house__n"/></e>
 <e lm="gammagraphy">     <i>gammagraph</i><par n="bab/y__n"/></e>
@@ -30363,7 +30195,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="mound">           <i>mound</i><par n="house__n"/></e>
 <e lm="mount">           <i>mount</i><par n="house__n"/></e>
 <e lm="mountain">        <i>mountain</i><par n="house__n"/></e>
-<e r="LR" lm="mountain-climber"><p><l>mountain-climber</l><r>mountain climber</r></p><par n="house__n"/></e>
+<e r="LR" lm="mountain-climber"><p><l>mountain-climber</l><r>mountain<b/>climber</r></p><par n="house__n"/></e>
 <e lm="mountain bike">   <i>mountain<b/>bike</i><par n="house__n"/></e>
 <e lm="mountain lamb">   <i>mountain<b/>lamb</i><par n="house__n"/></e>
 <e lm="mountain pine">   <i>mountain<b/>pine</i><par n="house__n"/></e>
@@ -30552,7 +30384,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="namesake">        <i>namesake</i><par n="house__n"/></e>
 <e lm="namespace">       <i>namespace</i><par n="house__n"/></e>
 <e lm="nanny" a="greenbreen"><i>nann</i><par n="bab/y__n"/></e>
-<e lm="nanny">           <i>nanny</i><par n="bab/y__n"/></e>
 <e lm="nanny-state">     <i>nanny-state</i><par n="house__n"/></e>
 <e lm="nanny state">     <i>nanny<b/>state</i><par n="house__n"/></e>
 <e lm="nanoparticle">    <i>nanoparticle</i><par n="house__n"/></e>
@@ -38065,7 +37896,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="thimble">         <i>thimble</i><par n="house__n"/></e>
 <e lm="thing">           <i>thing</i><par n="house__n"/></e>
 <e lm="thingy">          <i>thing</i><par n="bab/y__n"/></e>
-<e lm="thingy">          <i>thingy</i><par n="bab/y__n"/></e>
 <e lm="thinker">         <i>thinker</i><par n="house__n"/></e>
 <e lm="thinking">        <i>thinking</i><par n="house__n"/></e>
 <e lm="thinness">        <i>thinness</i><par n="access__n"/></e>
@@ -59832,7 +59662,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="Saint-Saëns">     <i>Saint-Saëns</i><par n="Gauss__np"/></e>
 <e lm="Saint Croix">     <i>Saint<b/>Croix</i><par n="Barcelona__np"/></e>
 <e lm="Saint George">    <i>Saint<b/>George</i><par n="Barcelona__np"/></e>
-<e lm="Saint Helena">    <i>Saint<b/>Helena</i><par n="Barcelona__np"/></e>
+<e lm="Saint Helena">    <i>Saint<b/>Helena</i><par n="Barcelona__np"/></e>
 <e lm="Saint Irenaeus">  <i>Saint<b/>Irenaeus</i><par n="Mark__np"/></e>
 <e lm="Saint Kitts and Nevis"><i>Saint<b/>Kitts<b/>and<b/>Nevis</i><par n="Barcelona__np"/></e>
 <e lm="Saint Lucia">     <i>Saint<b/>Lucia</i><par n="Barcelona__np"/></e>
@@ -67937,12 +67767,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="outlive">         <i>outliv</i><par n="liv/e__vblex"/></e>
 <e lm="outmanoeuvre">    <i>outmanoeuvr</i><par n="liv/e__vblex"/></e>
 <e lm="outnumber">       <i>outnumber</i><par n="accept__vblex"/></e>
-<e lm="outpace">         <i>outpace</i><par n="liv/e__vblex"/></e>
+<e lm="outpace">         <i>outpac</i><par n="liv/e__vblex"/></e>
 <e lm="outplay">         <i>outplay</i><par n="accept__vblex"/></e>
 <e lm="output">          <i>output</i><par n="cut__vblex"/></e>
 <e lm="outrun">          <i>outr</i><par n="r/un__vblex"/></e>
 <e lm="outrage">         <i>outrag</i><par n="liv/e__vblex"/></e>
-<e lm="outscore">        <i>outscore</i><par n="liv/e__vblex"/></e>
+<e lm="outscore">        <i>outscor</i><par n="liv/e__vblex"/></e>
 <e lm="outshine">        <i>outsh</i><par n="outsh/ine__vblex"/></e>
 <e lm="outstretch">      <i>outstretch</i><par n="approach__vblex"/></e>
 <e lm="outstrip">        <i>outstrip</i><par n="step__vblex"/></e>
@@ -67971,7 +67801,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <e lm="oversee">         <i>overs</i><par n="s/ee__vblex"/></e>
 <e lm="overshadow">      <i>overshadow</i><par n="accept__vblex"/></e>
 <e lm="overshoot">       <i>oversho</i><par n="sho/ot__vblex"/></e>
-<e lm="oversize">        <i>oversize</i><par n="liv/e__vblex"/></e>
+<e lm="oversize">        <i>oversiz</i><par n="liv/e__vblex"/></e>
 <e lm="overstate">       <i>overstat</i><par n="liv/e__vblex"/></e>
 <e lm="overstay">        <i>overstay</i><par n="accept__vblex"/></e>
 <e lm="overstep">        <i>overstep</i><par n="step__vblex"/></e>
